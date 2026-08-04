@@ -2,4 +2,6 @@
 
 A curated portfolio of selected builds, institutional design, advisory work, and published writing by Rayven-Nikkita (RN) Collins.
 
-Deployed with Vercel.
+Public portfolio: https://rn-selected-work.vercel.app
+
+Deployed automatically from `main` with Vercel.
