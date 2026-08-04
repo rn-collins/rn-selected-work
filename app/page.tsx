@@ -89,14 +89,33 @@ export default function Home() {
       <section className="advisory">
         <div className="shell advisorygrid">
           <div>
-            <p className="eyebrow">Selected advisory work</p>
+            <p className="eyebrow">Frameworks + institutional work</p>
             <h2>
-              Thinking before
+              Original systems,
               <br />
-              the build.
+              made operational.
             </h2>
           </div>
           <div className="advisoryitems">
+            <article>
+              <h3>Neurocognitive Systems Advisory Group</h3>
+              <p>
+                RN's research-led institutional-design practice and the home of
+                Nervous-System-Aware Governance: an original framework for
+                identifying, documenting, measuring, and governing how
+                institutional policies, technologies, procedures, language,
+                environments, and power structures shape human cognitive and
+                physiological conditions.
+              </p>
+              <Link href="/work/neurocognitive-systems-advisory-group">
+                Explore NSAG's framework and systems →
+              </Link>
+              <small>
+                A distinct practice—not a generic advisory layer beneath Aloha
+                AI. Aloha AI is identified as builder only where it implements
+                NSAG technical infrastructure.
+              </small>
+            </article>
             <article>
               <h3>Inflection Radar</h3>
               <p>

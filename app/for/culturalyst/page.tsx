@@ -107,6 +107,42 @@ export default function Culturalyst() {
           </section>
         </div>
       </section>
+      <section className="advisory">
+        <div className="shell advisorygrid">
+          <div>
+            <p className="eyebrow">A related institutional system</p>
+            <h2>
+              Governance that
+              <br />
+              accounts for people.
+            </h2>
+          </div>
+          <div className="advisoryitems">
+            <article>
+              <h3>Neurocognitive Systems Advisory Group</h3>
+              <p>
+                NSAG is RN's research-led institutional-design practice and the
+                home of Nervous-System-Aware Governance. Across fifteen
+                governance modules, evidence, assessments, intelligence
+                products, education, and applied systems, it asks how the
+                ordinary machinery of institutions shapes human cognitive and
+                physiological conditions—and how those effects can become
+                visible and governable.
+              </p>
+              <p>
+                For Culturalyst, the relevance is methodological: RN does not
+                stop at describing whom a system overlooks. She develops a
+                framework, evidence structure, assessment logic, and usable
+                institutional pathways for changing what the system can see and
+                do.
+              </p>
+              <Link href="/work/neurocognitive-systems-advisory-group">
+                Examine the NSAG system →
+              </Link>
+            </article>
+          </div>
+        </div>
+      </section>
       <section className="writing shell">
         <div className="sectionhead">
           <p className="eyebrow">Relevant public writing</p>

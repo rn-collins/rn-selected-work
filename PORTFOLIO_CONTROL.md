@@ -22,6 +22,10 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 
 ## Advisory and institutional-design work
 
+- [x] NSAG represented as the Neurocognitive Systems Advisory Group and home of Nervous-System-Aware Governance
+- [x] NSAG represented as a distinct research-led institutional-design practice, not an Aloha AI advisory layer
+- [x] Dedicated NSAG case study covering framework, fifteen modules, assessment system, intelligence, evidence, education, advisory practice, and applied systems
+- [x] Correct relationship among NSAG, Aloha AI, RN Builds, and Institutions of One
 - [ ] Inflection Radar case study and accessible artifact links
 - [x] Aloha Intelligence Institute case study
 - [x] Aloha Intelligence Institute brief readable in the browser
@@ -45,6 +49,7 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] Answer what RN is building and where Culturalyst fits
 - [x] Answer whom the explainer/checklist serves and how it would be shared
 - [x] Supply accessible evidence showing how RN works
+- [x] Present NSAG accurately as related evidence of RN's institutional method
 - [ ] Rewrite the email only after the evidence it cites is public and verified
 
 ## Boundaries
