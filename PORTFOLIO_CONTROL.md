@@ -1,0 +1,65 @@
+# Selected Work Portfolio — Control Ledger
+
+This ledger is the frozen source of truth for the standing portfolio and its recipient-specific views. New requirements are added here; earlier requirements are not silently replaced.
+
+## Canonical architecture
+
+- [x] `/` is the permanent, reusable Selected Work portfolio.
+- [x] `/work/[project]` provides a substantial case study for every selected project.
+- [x] `/for/culturalyst` provides a Culturalyst-specific introduction, ordering, and evidence bridge without duplicating the canonical case studies.
+- [x] A recipient-specific view never implies that the standing portfolio was commissioned for that recipient.
+
+## Six required builds
+
+- [x] Institutions of One / Ownership Platform
+- [x] FlexJD Resource Hub
+- [x] Psychedelic Operations Intelligence
+- [x] Buechler Pacific — Claude for the Field
+- [x] Keiki Robotics / Oʻahu AI
+- [x] ThornCrest — Patent First Steps
+
+Every build must include: problem/context; what RN noticed; research; concept; what was built; intended users; what it demonstrates; accurate commissioned/proposed/speculative/independently initiated status; screenshots or a controlled demonstration; a live prototype where appropriate; and GitHub only as secondary technical evidence.
+
+## Advisory and institutional-design work
+
+- [ ] Inflection Radar case study and accessible artifact links
+- [x] Aloha Intelligence Institute case study
+- [x] Aloha Intelligence Institute brief readable in the browser
+- [x] Aloha Intelligence Institute brief downloadable as a PDF
+- [x] Aloha Intelligence Institute non-commissioned disclosure
+- [x] Sensitive or active-proposal material intentionally retained or redacted, never omitted accidentally
+
+## Published writing
+
+- [ ] Inventory RN's complete Cannabis Law Report body of work
+- [ ] Inventory RN's complete Fat Nugs Magazine / Ask a Neuroscientist body of work
+- [ ] Read every candidate article end to end before selection
+- [x] Link several articles from each publication directly
+- [x] Give each article a specific blurb covering its question, argument/finding, evidence/disciplinary method, and what it demonstrates about RN's work
+- [ ] Select for range rather than allowing one article to stand in for an entire publication
+
+## Culturalyst view and Sean response
+
+- [x] Lead with Ownership, FlexJD, and Keiki Robotics / Oʻahu AI
+- [x] Explain relevance to creator/community infrastructure, Hawaiʻi-grounded design, discoverability, support, and funding
+- [x] Answer what RN is building and where Culturalyst fits
+- [x] Answer whom the explainer/checklist serves and how it would be shared
+- [x] Supply accessible evidence showing how RN works
+- [ ] Rewrite the email only after the evidence it cites is public and verified
+
+## Boundaries
+
+- [x] Do not link unfinished Aloha AI, RN Builds, or Beehiiv destinations
+- [x] Describe Aloha AI and RN Builds accurately as in development where relevant
+- [x] Do not imply that independently initiated organization-specific concepts were commissioned
+- [x] Do not expose private systems merely to create a link; use controlled evidence instead
+
+## Final QA and release
+
+- [ ] Copy and project-status accuracy
+- [ ] All links, reading views, and downloads
+- [ ] Desktop and mobile layouts
+- [ ] Keyboard navigation, focus states, semantics, contrast, and reduced motion
+- [ ] Signed-out public access
+- [ ] GitHub `main` to Vercel automatic production deployment
+- [ ] Culturalyst package explicitly marked ready only after every applicable gate passes
