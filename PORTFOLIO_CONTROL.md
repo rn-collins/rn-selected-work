@@ -31,12 +31,12 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 
 ## Published writing
 
-- [ ] Inventory RN's complete Cannabis Law Report body of work
-- [ ] Inventory RN's complete Fat Nugs Magazine / Ask a Neuroscientist body of work
-- [ ] Read every candidate article end to end before selection
+- [x] Inventory RN's complete Cannabis Law Report body of work (33 byline search records reviewed; 31 distinct publication URLs after duplicate-post reconciliation)
+- [x] Inventory RN's complete Fat Nugs Magazine / Ask a Neuroscientist body of work (author archive reviewed across all three pages)
+- [x] Read every featured candidate article end to end before selection
 - [x] Link several articles from each publication directly
 - [x] Give each article a specific blurb covering its question, argument/finding, evidence/disciplinary method, and what it demonstrates about RN's work
-- [ ] Select for range rather than allowing one article to stand in for an entire publication
+- [x] Select for range rather than allowing one article to stand in for an entire publication
 
 ## Culturalyst view and Sean response
 

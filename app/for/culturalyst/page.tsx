@@ -1,5 +1,155 @@
 import Link from "next/link";
 import { projects, writing } from "../../../lib/portfolio";
 
-const featured=["ownership-platform","flexjd-resource-hub","keiki-robotics"].map(slug=>projects.find(p=>p.slug===slug)!);
-export default function Culturalyst(){return <main><nav className="nav shell"><Link className="mark" href="/">RN<span>↗</span></Link><div className="navlinks"><Link href="/">Standing portfolio</Link><a href="#fit">Why this work</a></div></nav><header className="recipientHero shell"><p className="eyebrow">A selected view for Culturalyst</p><h1>Making valuable work<br/><em>visible, connected,</em><br/>and supportable.</h1><p>This is not a separate Culturalyst portfolio. It is a guided view into RN Collins's standing body of work—ordered around ecosystem infrastructure, Hawaiʻi-grounded audience design, and the question of why meaningful work can remain difficult for institutions to find and fund.</p></header><section id="fit" className="fit"><div className="shell fitgrid"><p className="eyebrow">Where Culturalyst fits</p><div><p className="bigcopy">Culturalyst appears to be building the infrastructure through which artists and cultural workers become discoverable, connected, supported, and fundable. RN's work asks a closely related systems question: who is an institution built to recognize, what evidence counts, and what usable layer is missing between people and opportunity?</p><p>The possible collaboration is not to copy a checklist. It is to translate Culturalyst's knowledge into a visual explanation, self-assessment, contextual article, or interactive next-step resource that keeps Culturalyst visible as the source and routes people back into its ecosystem.</p></div></div></section><section className="work shell"><div className="sectionhead"><p className="eyebrow">Start with these three</p><p>Community infrastructure · Hawaiʻi context · ownership</p></div><div className="featurecards">{featured.map(p=><article key={p.slug}><span>{p.number}</span><h2>{p.shortTitle}</h2><p>{p.demonstrates}</p><Link href={`/work/${p.slug}`}>See how RN worked →</Link></article>)}</div></section><section className="culturalystAnswer"><div className="shell answergrid"><section><p className="eyebrow">Who the resource could serve</p><p>Hawaiʻi-based artists and cultural workers, multidisciplinary independent practitioners, early-stage founders, students, and people doing meaningful work who may not yet recognize themselves as belonging within a fundable creative ecosystem.</p></section><section><p className="eyebrow">How it could travel</p><p>Through a public visual explainer, a practical self-assessment, an article on institutional invisibility, and—if useful—an interactive route to appropriate next steps. Distribution could include LinkedIn, RN's developing public resources, and Culturalyst's own channels, with the canonical destination and attribution returning to Culturalyst.</p></section><section><p className="eyebrow">What remains open</p><p>The form should follow Culturalyst's actual constraint. RN would first learn where discovery, validation, relationships, or funding currently break down, then determine whether the right intervention is explanation, workflow, research, or a working tool.</p></section></div></section><section className="writing shell"><div className="sectionhead"><p className="eyebrow">Relevant public writing</p><p>Evidence translated without flattening people or systems.</p></div><div className="miniarticles">{[writing.fnm[2],writing.fnm[0],writing.clr[0]].map(a=><article key={a.href}><h3><a href={a.href} target="_blank" rel="noreferrer">{a.title} ↗</a></h3><p>{a.blurb}</p></article>)}</div><p className="allwork"><Link href="/#writing">See the full selected writing list →</Link></p></section><footer className="footer"><div className="shell footergrid"><div><p className="eyebrow">The invitation</p><h2>Understand the break.<br/><em>Then choose the form.</em></h2></div><div className="contact"><p>This page answers the exploratory question; it does not presume a predetermined Culturalyst project.</p><Link href="/">Explore all selected work →</Link><a href="https://www.linkedin.com/in/rn-collins">Connect with RN ↗</a></div></div></footer></main>}
+const featured = [
+  "ownership-platform",
+  "flexjd-resource-hub",
+  "keiki-robotics",
+].map((slug) => projects.find((p) => p.slug === slug)!);
+export default function Culturalyst() {
+  return (
+    <main>
+      <nav className="nav shell">
+        <Link className="mark" href="/">
+          RN<span>↗</span>
+        </Link>
+        <div className="navlinks">
+          <Link href="/">Standing portfolio</Link>
+          <a href="#fit">Why this work</a>
+        </div>
+      </nav>
+      <header className="recipientHero shell">
+        <p className="eyebrow">A selected view for Culturalyst</p>
+        <h1>
+          Making valuable work
+          <br />
+          <em>visible, connected,</em>
+          <br />
+          and supportable.
+        </h1>
+        <p>
+          This is not a separate Culturalyst portfolio. It is a guided view into
+          RN Collins's standing body of work—ordered around ecosystem
+          infrastructure, Hawaiʻi-grounded audience design, and the question of
+          why meaningful work can remain difficult for institutions to find and
+          fund.
+        </p>
+      </header>
+      <section id="fit" className="fit">
+        <div className="shell fitgrid">
+          <p className="eyebrow">Where Culturalyst fits</p>
+          <div>
+            <p className="bigcopy">
+              Culturalyst appears to be building the infrastructure through
+              which artists and cultural workers become discoverable, connected,
+              supported, and fundable. RN's work asks a closely related systems
+              question: who is an institution built to recognize, what evidence
+              counts, and what usable layer is missing between people and
+              opportunity?
+            </p>
+            <p>
+              The possible collaboration is not to copy a checklist. It is to
+              translate Culturalyst's knowledge into a visual explanation,
+              self-assessment, contextual article, or interactive next-step
+              resource that keeps Culturalyst visible as the source and routes
+              people back into its ecosystem.
+            </p>
+          </div>
+        </div>
+      </section>
+      <section className="work shell">
+        <div className="sectionhead">
+          <p className="eyebrow">Start with these three</p>
+          <p>Community infrastructure · Hawaiʻi context · ownership</p>
+        </div>
+        <div className="featurecards">
+          {featured.map((p) => (
+            <article key={p.slug}>
+              <span>{p.number}</span>
+              <h2>{p.shortTitle}</h2>
+              <p>{p.demonstrates}</p>
+              <Link href={`/work/${p.slug}`}>See how RN worked →</Link>
+            </article>
+          ))}
+        </div>
+      </section>
+      <section className="culturalystAnswer">
+        <div className="shell answergrid">
+          <section>
+            <p className="eyebrow">Who the resource could serve</p>
+            <p>
+              Hawaiʻi-based artists and cultural workers, multidisciplinary
+              independent practitioners, early-stage founders, students, and
+              people doing meaningful work who may not yet recognize themselves
+              as belonging within a fundable creative ecosystem.
+            </p>
+          </section>
+          <section>
+            <p className="eyebrow">How it could travel</p>
+            <p>
+              Through a public visual explainer, a practical self-assessment, an
+              article on institutional invisibility, and—if useful—an
+              interactive route to appropriate next steps. Distribution could
+              include LinkedIn, RN's developing public resources, and
+              Culturalyst's own channels, with the canonical destination and
+              attribution returning to Culturalyst.
+            </p>
+          </section>
+          <section>
+            <p className="eyebrow">What remains open</p>
+            <p>
+              The form should follow Culturalyst's actual constraint. RN would
+              first learn where discovery, validation, relationships, or funding
+              currently break down, then determine whether the right
+              intervention is explanation, workflow, research, or a working
+              tool.
+            </p>
+          </section>
+        </div>
+      </section>
+      <section className="writing shell">
+        <div className="sectionhead">
+          <p className="eyebrow">Relevant public writing</p>
+          <p>Evidence translated without flattening people or systems.</p>
+        </div>
+        <div className="miniarticles">
+          {[writing.fnm[0], writing.fnm[1], writing.clr[0]].map((a) => (
+            <article key={a.href}>
+              <h3>
+                <a href={a.href} target="_blank" rel="noreferrer">
+                  {a.title} ↗
+                </a>
+              </h3>
+              <p>{a.blurb}</p>
+            </article>
+          ))}
+        </div>
+        <p className="allwork">
+          <Link href="/#writing">See the full selected writing list →</Link>
+        </p>
+      </section>
+      <footer className="footer">
+        <div className="shell footergrid">
+          <div>
+            <p className="eyebrow">The invitation</p>
+            <h2>
+              Understand the break.
+              <br />
+              <em>Then choose the form.</em>
+            </h2>
+          </div>
+          <div className="contact">
+            <p>
+              This page answers the exploratory question; it does not presume a
+              predetermined Culturalyst project.
+            </p>
+            <Link href="/">Explore all selected work →</Link>
+            <a href="https://www.linkedin.com/in/rn-collins">
+              Connect with RN ↗
+            </a>
+          </div>
+        </div>
+      </footer>
+    </main>
+  );
+}
