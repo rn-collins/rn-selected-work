@@ -10,7 +10,6 @@ export default function AiiCase() {
         </Link>
         <div className="navlinks">
           <Link href="/#work">Selected work</Link>
-          <Link href="/for/culturalyst">For Culturalyst</Link>
         </div>
       </nav>
       <article className="case shell">
