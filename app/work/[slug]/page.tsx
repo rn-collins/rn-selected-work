@@ -40,7 +40,6 @@ export default async function ProjectPage({
         </Link>
         <div className="navlinks">
           <Link href="/#work">All work</Link>
-          <Link href="/for/culturalyst">For Culturalyst</Link>
         </div>
       </nav>
       <article className="case shell">
