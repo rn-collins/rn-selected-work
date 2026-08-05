@@ -11,11 +11,10 @@ export default function Home() {
         <div className="navlinks">
           <a href="#work">Work</a>
           <a href="#writing">Writing</a>
-          <Link href="/for/culturalyst">For Culturalyst</Link>
         </div>
       </nav>
       <header className="hero shell">
-        <p className="eyebrow">Standing selected-work portfolio · 2026</p>
+        <p className="eyebrow">Selected work · Rayven-Nikkita (RN) Collins · 2026</p>
         <h1>
           I work on questions
           <br />
@@ -28,9 +27,9 @@ export default function Home() {
             student based on Oʻahu.
           </p>
           <p className="lede">
-            One permanent body of evidence. Recipient-specific views change what
-            leads and why it matters; the underlying case studies remain
-            canonical.
+            Selected research, institutional frameworks, working systems, public resources,
+            and published analysis across law, science, technology, governance,
+            education, and Hawaiʻi.
           </p>
         </div>
       </header>
@@ -59,7 +58,7 @@ export default function Home() {
       <section id="work" className="work shell">
         <div className="sectionhead">
           <p className="eyebrow">Selected builds</p>
-          <p>Six projects. Every one now has a case study.</p>
+          <p>Research platforms, intelligence systems, and public-facing tools.</p>
         </div>
         <div className="projects">
           {projects.map((p) => (
@@ -111,9 +110,9 @@ export default function Home() {
                 Explore NSAG's framework and systems →
               </Link>
               <small>
-                A distinct practice—not a generic advisory layer beneath Aloha
-                AI. Aloha AI is identified as builder only where it implements
-                NSAG technical infrastructure.
+                NSAG is an original body of work with its own framework, evidence base,
+                assessments, intelligence products, education, advisory practice,
+                and applied implementations.
               </small>
             </article>
             <article>
@@ -175,7 +174,7 @@ export default function Home() {
       <footer className="footer">
         <div className="shell footergrid">
           <div>
-            <p className="eyebrow">A possible collaboration starts here</p>
+            <p className="eyebrow">Work with RN</p>
             <h2>
               What system are you
               <br />
@@ -198,8 +197,8 @@ export default function Home() {
               Continue on LinkedIn ↗
             </a>
             <p className="note">
-              Aloha AI, RN Builds, and the newsletter are in development. This
-              is the standing, curated view of selected work.
+              Explore the research, systems, and public work here, then begin with
+              the question or institutional problem that matters most.
             </p>
           </div>
         </div>
