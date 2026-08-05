@@ -39,7 +39,7 @@ export default function Culturalyst() {
           <p className="eyebrow">Where Culturalyst fits</p>
           <div>
             <p className="bigcopy">
-              Culturalyst appears to be building the infrastructure through
+              Culturalyst is building the infrastructure through
               which artists and cultural workers become discoverable, connected,
               supported, and fundable. RN's work asks a closely related systems
               question: who is an institution built to recognize, what evidence
@@ -94,13 +94,11 @@ export default function Culturalyst() {
             </p>
           </section>
           <section>
-            <p className="eyebrow">What remains open</p>
+            <p className="eyebrow">How the collaboration begins</p>
             <p>
-              The form should follow Culturalyst's actual constraint. RN would
-              first learn where discovery, validation, relationships, or funding
-              currently break down, then determine whether the right
-              intervention is explanation, workflow, research, or a working
-              tool.
+              RN begins by locating where discovery, validation, relationships, or
+              funding break down in practice. That inquiry determines the right
+              form: an explanation, research product, workflow, or working tool.
             </p>
           </section>
         </div>
@@ -128,11 +126,10 @@ export default function Culturalyst() {
                 visible and governable.
               </p>
               <p>
-                For Culturalyst, the relevance is methodological: RN does not
-                stop at describing whom a system overlooks. She develops a
-                framework, evidence structure, assessment logic, and usable
-                institutional pathways for changing what the system can see and
-                do.
+                For Culturalyst, NSAG demonstrates RN's institutional method: define
+                what a system overlooks, organize the evidence, build assessment
+                logic, and create usable pathways for changing what the system
+                can recognize and do.
               </p>
               <Link href="/work/neurocognitive-systems-advisory-group">
                 Examine the NSAG system →
@@ -174,8 +171,9 @@ export default function Culturalyst() {
           </div>
           <div className="contact">
             <p>
-              This page answers the exploratory question; it does not presume a
-              predetermined Culturalyst project.
+              This guided selection is the foundation for an exploratory conversation
+              about Culturalyst's priorities, ecosystem knowledge, and opportunities
+              for useful collaboration.
             </p>
             <Link href="/">Explore all selected work →</Link>
             <a href="https://www.linkedin.com/in/rn-collins">
