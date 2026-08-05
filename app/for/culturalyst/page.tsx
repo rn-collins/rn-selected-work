@@ -28,8 +28,7 @@ export default function Culturalyst() {
           and supportable.
         </h1>
         <p>
-          This is not a separate Culturalyst portfolio. It is a guided view into
-          RN Collins's standing body of work—ordered around ecosystem
+          A guided view into RN Collins's standing body of work—ordered around ecosystem
           infrastructure, Hawaiʻi-grounded audience design, and the question of
           why meaningful work can remain difficult for institutions to find and
           fund.
@@ -48,8 +47,7 @@ export default function Culturalyst() {
               opportunity?
             </p>
             <p>
-              The possible collaboration is not to copy a checklist. It is to
-              translate Culturalyst's knowledge into a visual explanation,
+              Culturalyst's knowledge could become a visual explanation,
               self-assessment, contextual article, or interactive next-step
               resource that keeps Culturalyst visible as the source and routes
               people back into its ecosystem.
