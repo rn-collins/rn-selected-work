@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Selected Work — RN Collins",
   description:
-    "Selected research, systems, builds, advisory work, and published writing by Rayven-Nikkita (RN) Collins.",
+    "Selected research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.",
   icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
 };
 
