@@ -24,27 +24,27 @@ export const projects: Project[] = [
   {
     slug: "ownership-platform",
     number: "01",
-    kind: "Community + ecosystem infrastructure",
-    title: "Institutions of One / Ownership Platform",
-    shortTitle: "Ownership Platform",
-    status: "Independent research platform · active development",
+    kind: "Independent research + applied inquiry",
+    title: "Institutions of One",
+    shortTitle: "Institutions of One",
+    status: "Independent research and applied-research practice · active development",
     thesis:
-      "What changes when individual capability becomes portable, ownable institutional power?",
+      "How can independent work travel, compound, and endure beyond a role, employer, platform, or title?",
     summary:
-      "A research platform that turns a structural question about creators and independent professionals into candidate measurement instruments, an evidence-governed observatory, longitudinal infrastructure, and participation pathways.",
+      "An independent research and applied-research practice studying the conditions that allow one person's work, capability, relationships, evidence, and intellectual assets to become portable, cumulative, and institutionally legible. Its Ownership Platform is one technical implementation of that larger inquiry.",
     tags: ["Research architecture", "Evidence governance", "Assessment design"],
     noticed:
       "Independent professionals are routinely assessed through institutional proxies—employer, title, credential, network—even as they create valuable work across multiple systems. Their capability, relationships, and intellectual assets are difficult to see as a coherent whole.",
     researched:
-      "The platform brings together questions of ownership, portable reputation, capability measurement, longitudinal evidence, participation ethics, and the institutional conditions under which one person can operate with the power and continuity of an organization.",
+      "Institutions of One brings together questions of ownership, portable reputation, capability measurement, longitudinal evidence, participation ethics, and the conditions under which independent work can acquire continuity without being reduced to an employer, title, platform, or personal brand.",
     built:
-      "A private working platform with an evidence-governed observatory, candidate assessment instruments, longitudinal research architecture, and participation pathways. This public case study deliberately describes the system without exposing private participant or research infrastructure.",
+      "The practice includes an Observatory, Ownership Index, Portfolio Professional research, Question Lab, The I/1 Edit, Apply the Cases, partnership and applied-inquiry pathways, and an Ownership Platform with evidence-governed research infrastructure. This case study presents the public architecture while protecting participant and research systems still under development.",
     serves:
-      "Creators, independent professionals, portfolio workers, researchers, and institutions trying to recognize forms of value that conventional organizational categories miss.",
+      "Creators, independent professionals, portfolio workers, researchers, and institutions seeking better ways to recognize work, capability, relationships, and intellectual assets that conventional organizational categories obscure.",
     demonstrates:
       "Structural problem definition, research-program architecture, ethics-aware measurement design, and the ability to turn an abstract thesis into testable infrastructure.",
     evidenceNote:
-      "Controlled case study. The working platform and its data structures are private while research and participation safeguards are developed.",
+      "The Ownership Platform is a working implementation within Institutions of One. Participant data and research operations remain private while the practice develops its evidence and participation safeguards.",
   },
   {
     slug: "flexjd-resource-hub",
