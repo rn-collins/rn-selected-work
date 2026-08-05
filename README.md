@@ -1,6 +1,6 @@
 # Selected Work — RN Collins
 
-A curated portfolio of selected builds, institutional design, advisory work, and published writing by Rayven-Nikkita (RN) Collins.
+Selected research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.
 
 Public portfolio: https://rn-selected-work.vercel.app
 
