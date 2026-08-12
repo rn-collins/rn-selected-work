@@ -136,6 +136,35 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
         <h1>{build.title}</h1>
         <p className="caseStatus">{build.status}</p>
         <p className="caseThesis">{build.purpose}</p>
+        <section className="buildPreview" aria-labelledby="build-preview-heading">
+          <div className="buildPreviewHeader">
+            <div>
+              <p className="eyebrow">Controlled visual demonstration</p>
+              <h2 id="build-preview-heading">Current live interface</h2>
+            </div>
+            <a href={build.live} target="_blank" rel="noreferrer">
+              Open full site ↗
+            </a>
+          </div>
+          <div className="buildPreviewBrowser">
+            <div className="buildPreviewChrome" aria-hidden="true">
+              <span />
+              <span />
+              <span />
+              <p>{new URL(build.live).hostname}</p>
+            </div>
+            <iframe
+              src={build.live}
+              title={`Live preview of ${build.title}`}
+              loading="lazy"
+              referrerPolicy="no-referrer"
+              sandbox="allow-scripts allow-same-origin"
+            />
+          </div>
+          <p className="buildPreviewNote">
+            This sandboxed preview shows the current public interface. Open the full site to use the build in its intended window.
+          </p>
+        </section>
         <div className="caseGrid">
           {build.noticed && <CaseBlock label="What I noticed" text={build.noticed} />}
           {build.researched && <CaseBlock label="What I researched" text={build.researched} />}

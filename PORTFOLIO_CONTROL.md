@@ -79,7 +79,7 @@ Every build must include: problem/context; what RN noticed; research; concept; w
   - [x] Evidence expansion tranche 04: Cannabis Healthcare Education Impact Assessment, Destigmatization Toolkit, Evidence·Studio, Aloha Build Club, and REGAC
   - [x] Evidence expansion tranche 05: NARCH, Burgermeister Expansion Intel, Psych Ops Intel, GAPI, and Women’s Neuro-Health
   - [x] Evidence expansion tranche 06: SPORT, Creator Rights Framework, and Aloha AI
-- [ ] Add controlled screenshots or visual demonstrations to the 28 expanded public-build records
+- [x] Add a sandboxed controlled visual demonstration to every expanded public-build case study while retaining the separate full-site action
 - [x] Link checks for represented public builds, NSAG modules, writing, GitHub, and NSAG surfaces
 - [x] Desktop visual inspection on the canonical production alias
 - [ ] Mobile visual inspection (responsive rules and overflow checks pass; device-width rendered inspection remains pending)
