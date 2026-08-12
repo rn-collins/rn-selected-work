@@ -72,8 +72,9 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [ ] Reconcile Vercel projects beyond the connector's hard 50-project response limit if/when a cursor-capable inventory surface becomes available
 - [ ] Deep case-study expansion and screenshots for the 28 new public-build records
 - [x] Link checks for represented public builds, NSAG modules, writing, GitHub, and NSAG surfaces
-- [ ] Desktop and mobile visual inspection
-- [ ] Keyboard navigation, focus states, semantics, contrast, and reduced motion visual verification
+- [x] Desktop visual inspection on the canonical production alias
+- [ ] Mobile visual inspection (responsive rules and overflow checks pass; device-width rendered inspection remains pending)
+- [x] Global skip link, keyboard focus states, landmark/heading semantics, duplicate-ID checks, and reduced-motion behavior
 - [ ] Signed-out public access
 - [x] GitHub `main` to Vercel automatic production deployment
 - [ ] Culturalyst package explicitly marked ready only after every applicable gate passes
