@@ -77,6 +77,7 @@ Every build must include: problem/context; what RN noticed; research; concept; w
   - [x] Evidence expansion tranche 02: Transform Drug Market Transition Observatory, Zero → Frontier, Psych Ops Directory, Set for Life, and The Psychonaut Bookworm
   - [x] Evidence expansion tranche 03: Startup Legal Risk Monitor, Nervous System Studio, The Psychedelic Law Library, EOLPC Knowledge System, and Entheogen Atlas
   - [x] Evidence expansion tranche 04: Cannabis Healthcare Education Impact Assessment, Destigmatization Toolkit, Evidence·Studio, Aloha Build Club, and REGAC
+  - [x] Evidence expansion tranche 05: NARCH, Burgermeister Expansion Intel, Psych Ops Intel, GAPI, and Women’s Neuro-Health
   - [ ] Remaining concise public-build records
 - [x] Link checks for represented public builds, NSAG modules, writing, GitHub, and NSAG surfaces
 - [x] Desktop visual inspection on the canonical production alias
