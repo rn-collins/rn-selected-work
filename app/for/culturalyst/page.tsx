@@ -14,8 +14,10 @@ export default function Culturalyst() {
           RN<span>↗</span>
         </Link>
         <div className="navlinks">
-          <Link href="/">Standing portfolio</Link>
-          <a href="#fit">Why this work</a>
+          <Link href="/for/culturalyst">Why RN</Link>
+          <Link href="/for/culturalyst/work">Selected work</Link>
+          <Link href="/for/culturalyst/opportunities">Opportunities</Link>
+          <Link href="/for/culturalyst/conversation">Conversation</Link>
         </div>
       </nav>
       <header className="recipientHero shell">
@@ -28,7 +30,7 @@ export default function Culturalyst() {
           and supportable.
         </h1>
         <p>
-          A guided view into RN Collins's standing body of work—ordered around ecosystem
+          A guided view into RN Collins's work—ordered around ecosystem
           infrastructure, Hawaiʻi-grounded audience design, and the question of
           why meaningful work can remain difficult for institutions to find and
           fund.
@@ -175,7 +177,7 @@ export default function Culturalyst() {
               about Culturalyst's priorities, ecosystem knowledge, and opportunities
               for useful collaboration.
             </p>
-            <Link href="/">Explore all selected work →</Link>
+            <Link href="/for/culturalyst/work">Continue to selected work →</Link>
             <a href="https://www.linkedin.com/in/rn-collins">
               Connect with RN ↗
             </a>

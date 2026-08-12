@@ -2,20 +2,24 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { getProject, projects } from "../../../lib/portfolio";
+import { getPublicBuild, publicBuilds } from "../../../lib/public-builds";
 
 export function generateStaticParams() {
-  return projects.map(({ slug }) => ({ slug }));
+  return [...projects, ...publicBuilds].map(({ slug }) => ({ slug }));
 }
 export async function generateMetadata({
   params,
 }: {
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
-  const p = getProject((await params).slug);
+  const slug = (await params).slug;
+  const p = getProject(slug);
+  const build = getPublicBuild(slug);
   return {
-    title: p
-      ? `${p.shortTitle} — Selected Work by RN Collins`
+    title: p || build
+      ? `${p?.shortTitle || build?.title} — Selected Work by RN Collins`
       : "Project not found",
+    description: p?.summary || build?.purpose,
   };
 }
 
@@ -24,7 +28,10 @@ export default async function ProjectPage({
 }: {
   params: Promise<{ slug: string }>;
 }) {
-  const p = getProject((await params).slug);
+  const slug = (await params).slug;
+  const p = getProject(slug);
+  const build = getPublicBuild(slug);
+  if (build) return <PublicBuildCase build={build} />;
   if (!p)
     return (
       <main className="case shell">
@@ -109,5 +116,47 @@ function CaseBlock({ label, text }: { label: string; text: string }) {
       <p className="eyebrow">{label}</p>
       <p>{text}</p>
     </section>
+  );
+}
+
+function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
+  return (
+    <main>
+      <nav className="nav shell" aria-label="Case study navigation">
+        <Link className="mark" href="/">
+          RN<span>↗</span>
+        </Link>
+        <div className="navlinks">
+          <Link href="/#build-atlas">All builds</Link>
+          <a href={build.live} target="_blank" rel="noreferrer">Open build ↗</a>
+        </div>
+      </nav>
+      <article className="case shell">
+        <p className="eyebrow">{build.category} · {build.practice}</p>
+        <h1>{build.title}</h1>
+        <p className="caseStatus">{build.status}</p>
+        <p className="caseThesis">{build.purpose}</p>
+        <div className="caseGrid">
+          <CaseBlock label="What exists" text={build.built} />
+          <CaseBlock label="Who it serves" text={build.serves} />
+          <CaseBlock label="What it demonstrates" text={build.demonstrates} />
+          <CaseBlock
+            label="Current evidence"
+            text="This portfolio record describes the verified public build and its current production destination. The underlying build remains subject to its own separate content, functional, responsive, accessibility, privacy, and release audit."
+          />
+        </div>
+        <div className="caseActions">
+          <a className="button" href={build.live} target="_blank" rel="noreferrer">
+            Open live build ↗
+          </a>
+          {build.source && (
+            <a className="button secondary" href={build.source} target="_blank" rel="noreferrer">
+              Inspect technical source ↗
+            </a>
+          )}
+          <Link className="textlink" href="/#build-atlas">Return to all builds →</Link>
+        </div>
+      </article>
+    </main>
   );
 }

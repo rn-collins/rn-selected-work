@@ -45,6 +45,7 @@ export const projects: Project[] = [
       "Structural problem definition, research-program architecture, ethics-aware measurement design, and the ability to turn an abstract thesis into testable infrastructure.",
     evidenceNote:
       "The Ownership Platform is a working implementation within Institutions of One. Participant data and research operations remain private while the practice develops its evidence and participation safeguards.",
+    live: "https://ownership-platform.vercel.app/",
   },
   {
     slug: "flexjd-resource-hub",
@@ -95,6 +96,7 @@ export const projects: Project[] = [
       "Cross-domain taxonomy, database and dashboard design, evidence provenance, monitoring logic, and decision-oriented synthesis.",
     evidenceNote:
       "Controlled case study. The operational database remains private because it includes a maintained intelligence layer rather than a static public demo.",
+    live: "https://psychops-intel.vercel.app/",
   },
   {
     slug: "buechler-pacific",

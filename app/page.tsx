@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { projects, writing } from "../lib/portfolio";
+import { publicBuilds } from "../lib/public-builds";
 
 export default function Home() {
   return (
@@ -57,8 +58,8 @@ export default function Home() {
       </section>
       <section id="work" className="work shell">
         <div className="sectionhead">
-          <p className="eyebrow">Selected builds</p>
-          <p>Research platforms, intelligence systems, and public-facing tools.</p>
+          <p className="eyebrow">Builds</p>
+          <p>Read the work. Open the build. Follow the evidence.</p>
         </div>
         <div className="projects">
           {projects.map((p) => (
@@ -77,9 +78,41 @@ export default function Home() {
                     <span key={t}>{t}</span>
                   ))}
                 </div>
-                <Link href={`/work/${p.slug}`}>
-                  Read case study <span>→</span>
-                </Link>
+                <div className="projectActions" aria-label={`${p.shortTitle} links`}>
+                  <Link href={`/work/${p.slug}`}>
+                    Read case study <span>→</span>
+                  </Link>
+                  {p.live ? (
+                    <a href={p.live} target="_blank" rel="noreferrer">
+                      Open live build <span>↗</span>
+                    </a>
+                  ) : (
+                    <span className="availability">Case study available · system private</span>
+                  )}
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+      <section id="build-atlas" className="atlas shell">
+        <div className="sectionhead">
+          <p className="eyebrow">Build atlas</p>
+          <p>{publicBuilds.length} additional live systems, tools, courses, observatories, and public resources.</p>
+        </div>
+        <div className="atlasgrid">
+          {publicBuilds.map((build, index) => (
+            <article className="atlascard" key={build.slug}>
+              <div className="atlasmeta">
+                <span>{String(index + projects.length + 1).padStart(2, "0")}</span>
+                <span>{build.category}</span>
+              </div>
+              <h2>{build.title}</h2>
+              <p className="atlasPractice">{build.practice} · {build.status}</p>
+              <p>{build.purpose}</p>
+              <div className="atlasActions">
+                <Link href={`/work/${build.slug}`}>Read case study →</Link>
+                <a href={build.live} target="_blank" rel="noreferrer">Open live build ↗</a>
               </div>
             </article>
           ))}

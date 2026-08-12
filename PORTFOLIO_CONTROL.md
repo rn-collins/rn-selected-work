@@ -7,6 +7,7 @@ This ledger is the frozen source of truth for the standing portfolio and its rec
 - [x] `/` is the permanent, reusable Selected Work portfolio.
 - [x] `/work/[project]` provides a substantial case study for every selected project.
 - [x] `/for/culturalyst` provides a Culturalyst-specific introduction, ordering, and evidence bridge without duplicating the canonical case studies.
+- [x] `/for/culturalyst` is a four-page sequence: recipient thesis, selected evidence, opportunity map, and conversation brief.
 - [x] A recipient-specific view never implies that the standing portfolio was commissioned for that recipient.
 
 ## Six required builds
@@ -61,10 +62,16 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 
 ## Final QA and release
 
-- [ ] Copy and project-status accuracy
-- [ ] All links, reading views, and downloads
-- [ ] Desktop and mobile layouts
-- [ ] Keyboard navigation, focus states, semantics, contrast, and reduced motion
+- [x] Original six builds expose separate case-study and live-build actions
+- [x] 28 additional verified live builds have readable portfolio records and direct live-build actions
+- [x] All fifteen NSAG assessment modules have direct verified links
+- [x] RN-branded Open Graph image, metadata, sitemap, and robots policy implemented
+- [x] Production build passes and statically generates 46 routes
+- [ ] Complete GitHub/Vercel reconciliation beyond the first 50 Vercel projects
+- [ ] Deep case-study expansion and screenshots for the 28 new public-build records
+- [x] Link checks for represented public builds, NSAG modules, writing, GitHub, and NSAG surfaces
+- [ ] Desktop and mobile visual inspection
+- [ ] Keyboard navigation, focus states, semantics, contrast, and reduced motion visual verification
 - [ ] Signed-out public access
 - [ ] GitHub `main` to Vercel automatic production deployment
 - [ ] Culturalyst package explicitly marked ready only after every applicable gate passes

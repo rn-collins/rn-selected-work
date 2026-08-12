@@ -2,10 +2,18 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Selected Work — RN Collins",
+  metadataBase: new URL("https://rn-selected-work.vercel.app"),
+  title: { default: "RN Selected Work", template: "%s | RN Selected Work" },
   description:
-    "Selected research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.",
+    "Builds, research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.",
   icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
+  openGraph: {
+    title: "RN Selected Work",
+    description: "Questions too messy for a single discipline—made concrete through research, systems, and working builds.",
+    type: "website",
+    siteName: "RN Selected Work",
+  },
+  twitter: { card: "summary_large_image", title: "RN Selected Work" },
 };
 
 export default function RootLayout({

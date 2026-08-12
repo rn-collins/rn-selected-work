@@ -16,7 +16,10 @@ const modules = [
   "Traditional and Complementary Medicine Governance",
   "Space Governance and Interplanetary Jurisdiction",
   "Isolation, Confinement, and Extreme-Environment Governance",
-];
+].map((title, index) => ({
+  title,
+  href: `https://nsag-m${index + 1}.vercel.app/`,
+}));
 
 const surfaces = [
   ["Framework Foundation", "https://nsag-site.vercel.app/framework"],
@@ -78,7 +81,16 @@ export default function NSAGCaseStudy() {
       <section className="writing shell">
         <div className="sectionhead"><p className="eyebrow">Fifteen governance domains</p><p>One framework, tested across different institutional conditions.</p></div>
         <div className="miniarticles">
-          {modules.map((module, index) => <article key={module}><p className="eyebrow">M{index + 1}</p><h3>{module}</h3></article>)}
+          {modules.map((module, index) => (
+            <article key={module.title}>
+              <p className="eyebrow">M{index + 1}</p>
+              <h3>
+                <a href={module.href} target="_blank" rel="noreferrer">
+                  {module.title} ↗
+                </a>
+              </h3>
+            </article>
+          ))}
         </div>
       </section>
 
