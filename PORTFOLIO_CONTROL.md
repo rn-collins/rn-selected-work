@@ -72,13 +72,14 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] Reconcile the complete connected GitHub inventory (73 repositories) against the 50 projects exposed by the connected Vercel inventory
 - [x] Distinguish portfolio builds from NSAG module repositories, APIs/admin infrastructure, duplicate deployments, private operational systems, and earlier versions
 - [ ] Reconcile Vercel projects beyond the connector's hard 50-project response limit if/when a cursor-capable inventory surface becomes available
-- [ ] Deep case-study expansion and screenshots for the 28 new public-build records
+- [x] Deep case-study expansion for the 28 new public-build records
   - [x] Evidence expansion tranche 01: Sovereign Stack, AI Build Budget Calculator, Source Integrity Audit, One-Person-Firm OS, and AI for Developing Brains
   - [x] Evidence expansion tranche 02: Transform Drug Market Transition Observatory, Zero → Frontier, Psych Ops Directory, Set for Life, and The Psychonaut Bookworm
   - [x] Evidence expansion tranche 03: Startup Legal Risk Monitor, Nervous System Studio, The Psychedelic Law Library, EOLPC Knowledge System, and Entheogen Atlas
   - [x] Evidence expansion tranche 04: Cannabis Healthcare Education Impact Assessment, Destigmatization Toolkit, Evidence·Studio, Aloha Build Club, and REGAC
   - [x] Evidence expansion tranche 05: NARCH, Burgermeister Expansion Intel, Psych Ops Intel, GAPI, and Women’s Neuro-Health
-  - [ ] Remaining concise public-build records
+  - [x] Evidence expansion tranche 06: SPORT, Creator Rights Framework, and Aloha AI
+- [ ] Add controlled screenshots or visual demonstrations to the 28 expanded public-build records
 - [x] Link checks for represented public builds, NSAG modules, writing, GitHub, and NSAG surfaces
 - [x] Desktop visual inspection on the canonical production alias
 - [ ] Mobile visual inspection (responsive rules and overflow checks pass; device-width rendered inspection remains pending)
