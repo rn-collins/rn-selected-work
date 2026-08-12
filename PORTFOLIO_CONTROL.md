@@ -27,7 +27,7 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] NSAG represented as a distinct research-led institutional-design practice, not an Aloha AI advisory layer
 - [x] Dedicated NSAG case study covering framework, fifteen modules, assessment system, intelligence, evidence, education, advisory practice, and applied systems
 - [x] Correct relationship among NSAG, Aloha AI, RN Builds, and Institutions of One
-- [ ] Inflection Radar case study and accessible artifact links
+- [x] Inflection Radar case study and accessible artifact links
 - [x] Aloha Intelligence Institute case study
 - [x] Aloha Intelligence Institute brief readable in the browser
 - [x] Aloha Intelligence Institute brief downloadable as a PDF
@@ -67,11 +67,13 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] All fifteen NSAG assessment modules have direct verified links
 - [x] RN-branded Open Graph image, metadata, sitemap, and robots policy implemented
 - [x] Production build passes and statically generates 46 routes
-- [ ] Complete GitHub/Vercel reconciliation beyond the first 50 Vercel projects
+- [x] Reconcile the complete connected GitHub inventory (73 repositories) against the 50 projects exposed by the connected Vercel inventory
+- [x] Distinguish portfolio builds from NSAG module repositories, APIs/admin infrastructure, duplicate deployments, private operational systems, and earlier versions
+- [ ] Reconcile Vercel projects beyond the connector's hard 50-project response limit if/when a cursor-capable inventory surface becomes available
 - [ ] Deep case-study expansion and screenshots for the 28 new public-build records
 - [x] Link checks for represented public builds, NSAG modules, writing, GitHub, and NSAG surfaces
 - [ ] Desktop and mobile visual inspection
 - [ ] Keyboard navigation, focus states, semantics, contrast, and reduced motion visual verification
 - [ ] Signed-out public access
-- [ ] GitHub `main` to Vercel automatic production deployment
+- [x] GitHub `main` to Vercel automatic production deployment
 - [ ] Culturalyst package explicitly marked ready only after every applicable gate passes

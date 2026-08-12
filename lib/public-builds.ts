@@ -10,6 +10,10 @@ export type PublicBuild = {
   demonstrates: string;
   live: string;
   source?: string;
+  noticed?: string;
+  researched?: string;
+  evidence?: string;
+  artifacts?: { label: string; href: string }[];
 };
 
 export const publicBuilds: PublicBuild[] = [
@@ -338,6 +342,27 @@ export const publicBuilds: PublicBuild[] = [
     serves: "Athletic organizations, teams, governing bodies, coaches, and athlete-welfare leaders.",
     demonstrates: "Framework extension, sport governance, welfare-system design, and institution-level assessment.",
     live: "https://sport-nsag.vercel.app/",
+  },
+  {
+    slug: "inflection-radar",
+    title: "Inflection Radar",
+    category: "Growth intelligence + governed research",
+    practice: "Organization-specific concept",
+    status: "Live decision room · independently initiated proposal",
+    purpose: "Help a health-communications organization identify emerging neuropsychiatry opportunities before they become ordinary pursuits while preserving source rights, confidence, contradictions, and human authority.",
+    noticed: "Real Chemistry publicly evidenced substantial analytics, communications, access, media, and growth capabilities, but its public materials did not establish the exact upstream workflow used to identify and govern prospective-account signals. That was treated as an internally unknown question—not as proof that no such capability exists.",
+    researched: "The proposal used permitted public sources to map Real Chemistry's visible capabilities, the neuropsychiatry opportunity environment, source-permission constraints, evidence tiers, human review gates, and the operating decisions required for an eight-week pilot.",
+    built: "A role-aware interactive decision room with four reading paths; a tunable sample account score; claim-level evidence distinctions; a source-permission explorer; an eight-week execution model; an executive brief; a full internal report; and a meeting deck.",
+    serves: "Growth, strategy, analytics, business-development, legal, privacy, and executive reviewers evaluating whether to authorize a governed public-source pilot.",
+    demonstrates: "Public-source organizational diligence, opportunity sensing, evidence and rights governance, human-reviewed scoring, proposal architecture, executive communication, and the conversion of research into a decision-ready interactive system.",
+    evidence: "The system is a public-source proposal prepared independently for discussion with Real Chemistry. It is not commissioned work, a representation of Real Chemistry's internal systems, or a statement that publicly unverified capabilities do not exist. It excludes internal, client-confidential, patient-level, licensed-restricted, and other nonpublic information.",
+    live: "https://inflection-radar-real-chemistry.vercel.app/",
+    source: "https://github.com/rn-collins/inflection-radar-real-chemistry",
+    artifacts: [
+      { label: "Read executive brief", href: "https://inflection-radar-real-chemistry.vercel.app/assets/executive-brief.pdf" },
+      { label: "Read full report", href: "https://inflection-radar-real-chemistry.vercel.app/assets/full-report.pdf" },
+      { label: "Open meeting deck", href: "https://inflection-radar-real-chemistry.vercel.app/assets/meeting-deck.pptx" },
+    ],
   },
   {
     slug: "creator-rights-framework",

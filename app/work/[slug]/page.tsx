@@ -137,12 +137,14 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
         <p className="caseStatus">{build.status}</p>
         <p className="caseThesis">{build.purpose}</p>
         <div className="caseGrid">
+          {build.noticed && <CaseBlock label="What I noticed" text={build.noticed} />}
+          {build.researched && <CaseBlock label="What I researched" text={build.researched} />}
           <CaseBlock label="What exists" text={build.built} />
           <CaseBlock label="Who it serves" text={build.serves} />
           <CaseBlock label="What it demonstrates" text={build.demonstrates} />
           <CaseBlock
             label="Current evidence"
-            text="This portfolio record describes the verified public build and its current production destination. The underlying build remains subject to its own separate content, functional, responsive, accessibility, privacy, and release audit."
+            text={build.evidence || "This portfolio record describes the verified public build and its current production destination. The underlying build remains subject to its own separate content, functional, responsive, accessibility, privacy, and release audit."}
           />
         </div>
         <div className="caseActions">
@@ -154,6 +156,11 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
               Inspect technical source ↗
             </a>
           )}
+          {build.artifacts?.map((artifact) => (
+            <a className="button secondary" href={artifact.href} target="_blank" rel="noreferrer" key={artifact.href}>
+              {artifact.label} ↗
+            </a>
+          ))}
           <Link className="textlink" href="/#build-atlas">Return to all builds →</Link>
         </div>
       </article>

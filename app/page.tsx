@@ -155,13 +155,12 @@ export default function Home() {
                 organizational research into an explorable proposal, executive
                 brief, report, and meeting instrument.
               </p>
-              <a
-                href="https://github.com/rn-collins/inflection-radar-real-chemistry"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Explore the decision room ↗
-              </a>
+              <div className="actionrow">
+                <Link href="/work/inflection-radar">Read case study →</Link>
+                <a href="https://inflection-radar-real-chemistry.vercel.app/" target="_blank" rel="noreferrer">
+                  Open decision room ↗
+                </a>
+              </div>
             </article>
             <article>
               <h3>Aloha Intelligence Institute</h3>
