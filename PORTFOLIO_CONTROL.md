@@ -75,6 +75,6 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] Desktop visual inspection on the canonical production alias
 - [ ] Mobile visual inspection (responsive rules and overflow checks pass; device-width rendered inspection remains pending)
 - [x] Global skip link, keyboard focus states, landmark/heading semantics, duplicate-ID checks, and reduced-motion behavior
-- [ ] Signed-out public access
+- [x] Signed-out public access on the canonical production domain, including homepage and Inflection Radar case-study route
 - [x] GitHub `main` to Vercel automatic production deployment
 - [ ] Culturalyst package explicitly marked ready only after every applicable gate passes
