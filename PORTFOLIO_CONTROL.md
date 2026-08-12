@@ -74,6 +74,7 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [ ] Reconcile Vercel projects beyond the connector's hard 50-project response limit if/when a cursor-capable inventory surface becomes available
 - [ ] Deep case-study expansion and screenshots for the 28 new public-build records
   - [x] Evidence expansion tranche 01: Sovereign Stack, AI Build Budget Calculator, Source Integrity Audit, One-Person-Firm OS, and AI for Developing Brains
+  - [x] Evidence expansion tranche 02: Transform Drug Market Transition Observatory, Zero → Frontier, Psych Ops Directory, Set for Life, and The Psychonaut Bookworm
   - [ ] Remaining concise public-build records
 - [x] Link checks for represented public builds, NSAG modules, writing, GitHub, and NSAG surfaces
 - [x] Desktop visual inspection on the canonical production alias
