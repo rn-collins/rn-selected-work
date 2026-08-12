@@ -36,6 +36,44 @@ export default function Culturalyst() {
           fund.
         </p>
       </header>
+      <section className="work shell">
+        <div className="sectionhead">
+          <p className="eyebrow">What RN is building</p>
+          <p>Three related bodies of work with distinct jobs.</p>
+        </div>
+        <div className="answergrid lightAnswers practiceMap">
+          <section>
+            <p className="eyebrow">Aloha AI</p>
+            <p>
+              RN's developing client-facing strategy and build practice. It
+              combines research, law, science, design, and AI to turn difficult
+              systems questions into decision tools, workflows, knowledge
+              systems, public resources, prototypes, and implementation plans.
+            </p>
+            <Link className="inlineCaseLink" href="/work/aloha-ai">Examine the Aloha AI build →</Link>
+          </section>
+          <section>
+            <p className="eyebrow">RN Builds</p>
+            <p>
+              The developing public workbench around that practice: a place to
+              follow what RN is researching, testing, and making. This Selected
+              Work site is the verified portfolio layer; RN Builds remains in
+              development.
+            </p>
+            <Link className="inlineCaseLink" href="/#build-atlas">Explore the current build atlas →</Link>
+          </section>
+          <section>
+            <p className="eyebrow">NSAG</p>
+            <p>
+              A separate research-led institutional-design practice and the
+              home of Nervous-System-Aware Governance. Aloha AI may build
+              technical infrastructure that implements NSAG's work, but the
+              practices remain distinct.
+            </p>
+            <Link className="inlineCaseLink" href="/work/neurocognitive-systems-advisory-group">Examine the NSAG system →</Link>
+          </section>
+        </div>
+      </section>
       <section id="fit" className="fit">
         <div className="shell fitgrid">
           <p className="eyebrow">Where Culturalyst fits</p>

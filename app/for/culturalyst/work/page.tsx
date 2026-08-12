@@ -16,6 +16,21 @@ const selections = [
   },
 ].map((item) => ({ ...item, project: projects.find((project) => project.slug === item.slug)! }));
 
+const widerPortfolio = [
+  {
+    slug: "psychedelic-operations-intelligence",
+    why: "A research and operations platform that turns a fragmented emerging field into a navigable regulatory, organizational, and market-intelligence system.",
+  },
+  {
+    slug: "buechler-pacific",
+    why: "An independently initiated organization-specific concept showing how RN studies a business from public information, identifies field-work friction, and makes a tailored AI workflow concrete enough to evaluate.",
+  },
+  {
+    slug: "thorncrest-patent-first-steps",
+    why: "An independently initiated organization-specific concept translating patent-intake complexity into a guided first-step experience for prospective clients.",
+  },
+].map((item) => ({ ...item, project: projects.find((project) => project.slug === item.slug)! }));
+
 export default function CulturalystWork() {
   return (
     <main>
@@ -40,6 +55,24 @@ export default function CulturalystWork() {
         ))}
       </section>
       <section className="fit"><div className="shell fitgrid"><p className="eyebrow">Related institutional evidence</p><div><p className="bigcopy">NSAG shows how RN develops an original institutional theory and carries it into assessments, evidence, intelligence, education, and applied systems.</p><Link className="inlineCaseLink" href="/work/neurocognitive-systems-advisory-group">Read the NSAG case study →</Link></div></div></section>
+      <section className="work shell recipientWorkList">
+        <div className="sectionhead">
+          <p className="eyebrow">Continue through the wider portfolio</p>
+          <p>Field infrastructure · organizational diligence · legal translation</p>
+        </div>
+        {widerPortfolio.map(({ project, why }, index) => (
+          <article className="recipientWork" key={project.slug}>
+            <p className="eyebrow">0{index + 4} · {project.kind}</p>
+            <h2>{project.title}</h2>
+            <p className="recipientWhy">{why}</p>
+            <p>{project.demonstrates}</p>
+            <div className="atlasActions">
+              <Link href={`/work/${project.slug}`}>Read case study →</Link>
+              {project.live && <a href={project.live} target="_blank" rel="noreferrer">Open live build ↗</a>}
+            </div>
+          </article>
+        ))}
+      </section>
       <RecipientFooter next="/for/culturalyst/opportunities" nextLabel="Continue to the opportunity map" />
     </main>
   );

@@ -48,8 +48,10 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] Lead with Ownership, FlexJD, and Keiki Robotics / Oʻahu AI
 - [x] Explain relevance to creator/community infrastructure, Hawaiʻi-grounded design, discoverability, support, and funding
 - [x] Answer what RN is building and where Culturalyst fits
+- [x] Distinguish Aloha AI, RN Builds, and NSAG explicitly within the Culturalyst introduction
 - [x] Answer whom the explainer/checklist serves and how it would be shared
 - [x] Supply accessible evidence showing how RN works
+- [x] Surface Psychedelic Operations Intelligence, Buechler Pacific, and ThornCrest directly in the guided work sequence
 - [x] Present NSAG accurately as related evidence of RN's institutional method
 - [ ] Rewrite the email only after the evidence it cites is public and verified
 
