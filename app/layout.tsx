@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -8,7 +8,6 @@ export const metadata: Metadata = {
     "Builds, research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.",
   applicationName: "RN Selected Work",
   manifest: "/site.webmanifest",
-  themeColor: "#f3efe4",
   icons: {
     icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
     shortcut: "/favicon.svg",
@@ -21,6 +20,10 @@ export const metadata: Metadata = {
     siteName: "RN Selected Work",
   },
   twitter: { card: "summary_large_image", title: "RN Selected Work" },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#f3efe4",
 };
 
 export default function RootLayout({
