@@ -6,7 +6,14 @@ export const metadata: Metadata = {
   title: { default: "RN Selected Work", template: "%s | RN Selected Work" },
   description:
     "Builds, research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.",
-  icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
+  applicationName: "RN Selected Work",
+  manifest: "/site.webmanifest",
+  themeColor: "#f3efe4",
+  icons: {
+    icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
   openGraph: {
     title: "RN Selected Work",
     description: "Questions too messy for a single discipline—made concrete through research, systems, and working builds.",
