@@ -6,6 +6,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const base = "https://rn-selected-work.vercel.app";
   return [
     { url: base, changeFrequency: "weekly", priority: 1 },
+    { url: `${base}/connect`, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/writing`, changeFrequency: "weekly", priority: 0.9 },
     ...projects.map((project) => ({
       url: `${base}/work/${project.slug}`,
