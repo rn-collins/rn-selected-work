@@ -2,7 +2,7 @@
 
 Version: August 12, 2026
 
-Operational status: Waves 1–14 and represented-site R1–R6 were completed and accepted by August 13, 2026. GitHub cardinality is reconciled at 73 unique repositories with zero U dispositions. Expanded Vercel reconciliation validates a 73-project minimum with zero U dispositions. Represented-site recertification R7 is active for `ai-budget-calc`, `opfos-firm`, and `aloha-build-club`. Stage B remediation remains separate.
+Operational status: Waves 1–14 and represented-site R1–R7 were completed and accepted by August 13, 2026. GitHub cardinality is reconciled at 73 unique repositories with zero U dispositions. Expanded Vercel reconciliation validates a 73-project minimum with zero U dispositions. Represented-site recertification R8 is active for `sport-nsag`, `wnh-guide`, and `narch-advisory`. Stage B remediation remains separate.
 
 ## Purpose
 
