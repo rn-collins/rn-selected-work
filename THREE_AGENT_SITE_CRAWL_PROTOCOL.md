@@ -2,7 +2,7 @@
 
 Version: August 12, 2026
 
-Operational status: Waves 1–9 Stage A were completed and accepted by August 13, 2026. Their dispositions are recorded in `MASTER_ASSET_RECONCILIATION.md`. The EOLPC and obsolete RN Portfolio exposures were contained and production-verified; incident follow-up remains open. Wave 10 Stage A is authorized for `y`, `aloha-ai-governance`, and `aloha-behavioral-intelligence`. Stage B remediation otherwise remains separate.
+Operational status: Waves 1–14 and represented-site R1–R6 were completed and accepted by August 13, 2026. GitHub cardinality is reconciled at 73 unique repositories with zero U dispositions. Expanded Vercel reconciliation validates a 73-project minimum with zero U dispositions. Represented-site recertification R7 is active for `ai-budget-calc`, `opfos-firm`, and `aloha-build-club`. Stage B remediation remains separate.
 
 ## Purpose
 
