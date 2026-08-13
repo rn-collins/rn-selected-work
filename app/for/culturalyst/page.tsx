@@ -20,8 +20,8 @@ export default function Culturalyst() {
           <Link href="/for/culturalyst/conversation">Conversation</Link>
         </div>
       </nav>
-      <header className="recipientHero shell">
-        <p className="eyebrow">A selected view for Culturalyst</p>
+      <header id="main-content" tabIndex={-1} className="recipientHero shell">
+        <p className="eyebrow">RN Collins · Selected for Culturalyst</p>
         <h1>
           Making valuable work
           <br />
@@ -30,47 +30,44 @@ export default function Culturalyst() {
           and supportable.
         </h1>
         <p>
-          A guided view into RN Collins's work—ordered around ecosystem
-          infrastructure, Hawaiʻi-grounded audience design, and the question of
-          why meaningful work can remain difficult for institutions to find and
-          fund.
+          RN researched Culturalyst, selected the work most relevant to its
+          mission, and mapped several places where research, explanation, or a
+          working tool could help artists become easier to find, understand, and
+          support.
         </p>
       </header>
       <section className="work shell">
         <div className="sectionhead">
-          <p className="eyebrow">What RN is building</p>
-          <p>Three related bodies of work with distinct jobs.</p>
+          <p className="eyebrow">Why RN may be useful</p>
+          <p>Research the system · make the gap visible · build the useful form</p>
         </div>
         <div className="answergrid lightAnswers practiceMap">
           <section>
-            <p className="eyebrow">Aloha AI</p>
+            <p className="eyebrow">Research</p>
             <p>
-              RN's developing client-facing strategy and build practice. It
-              combines research, law, science, design, and AI to turn difficult
-              systems questions into decision tools, workflows, knowledge
-              systems, public resources, prototypes, and implementation plans.
+              RN studies the organization, the people it serves, the surrounding
+              ecosystem, and the places where valuable work is being lost,
+              misunderstood, or made harder to support.
             </p>
-            <Link className="inlineCaseLink" href="/work/aloha-ai">Examine the Aloha AI build →</Link>
+            <Link className="inlineCaseLink" href="/for/culturalyst/opportunities">See the opportunity map →</Link>
           </section>
           <section>
-            <p className="eyebrow">RN Builds</p>
+            <p className="eyebrow">Translation</p>
             <p>
-              The developing public workbench around that practice: a place to
-              follow what RN is researching, testing, and making. This Selected
-              Work site is the verified portfolio layer; RN Builds remains in
-              development.
+              RN turns a complicated institutional problem into something people
+              can see, discuss, and make a decision about—without flattening the
+              people or context involved.
             </p>
-            <Link className="inlineCaseLink" href="/#build-atlas">Explore the current build atlas →</Link>
+            <Link className="inlineCaseLink" href="/for/culturalyst/work">Review the selected evidence →</Link>
           </section>
           <section>
-            <p className="eyebrow">NSAG</p>
+            <p className="eyebrow">Building</p>
             <p>
-              A separate research-led institutional-design practice and the
-              home of Nervous-System-Aware Governance. Aloha AI may build
-              technical infrastructure that implements NSAG's work, but the
-              practices remain distinct.
+              The answer may be a research brief, visual explanation,
+              self-assessment, workflow, public resource, strategy, or working
+              prototype. The problem determines the form.
             </p>
-            <Link className="inlineCaseLink" href="/work/neurocognitive-systems-advisory-group">Examine the NSAG system →</Link>
+            <Link className="inlineCaseLink" href="/work">Explore RN's builds →</Link>
           </section>
         </div>
       </section>
@@ -79,12 +76,11 @@ export default function Culturalyst() {
           <p className="eyebrow">Where Culturalyst fits</p>
           <div>
             <p className="bigcopy">
-              Culturalyst is building the infrastructure through
-              which artists and cultural workers become discoverable, connected,
-              supported, and fundable. RN's work asks a closely related systems
-              question: who is an institution built to recognize, what evidence
-              counts, and what usable layer is missing between people and
-              opportunity?
+              Culturalyst is building infrastructure through which artists and
+              cultural workers become discoverable, connected, supported, and
+              fundable. RN asks a closely related question: who can the current
+              system recognize, who remains hard to see, and what is missing
+              between valuable work and real opportunity?
             </p>
             <p>
               Culturalyst's knowledge could become a visual explanation,
@@ -196,7 +192,7 @@ export default function Culturalyst() {
           ))}
         </div>
         <p className="allwork">
-          <Link href="/#writing">See the full selected writing list →</Link>
+          <Link href="/writing">See the full selected writing list →</Link>
         </p>
       </section>
       <footer className="footer">

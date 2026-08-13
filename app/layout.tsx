@@ -3,17 +3,17 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://rn-selected-work.vercel.app"),
-  title: { default: "RN Selected Work", template: "%s | RN Selected Work" },
+  title: { default: "RN — Research, Systems, and Selected Work", template: "%s | RN" },
   description:
-    "Builds, research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.",
+    "The practice, selected work, initiatives, and published analysis of Rayven-Nikkita (RN) Collins.",
   icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
   openGraph: {
-    title: "RN Selected Work",
-    description: "Questions too messy for a single discipline—made concrete through research, systems, and working builds.",
+    title: "RN — Research, Systems, and Selected Work",
+    description: "Questions too messy for a single discipline—studied, made visible, and developed into useful forms.",
     type: "website",
     siteName: "RN Selected Work",
   },
-  twitter: { card: "summary_large_image", title: "RN Selected Work" },
+  twitter: { card: "summary_large_image", title: "RN — Research, Systems, and Selected Work" },
 };
 
 export default function RootLayout({
@@ -23,7 +23,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <a className="skipLink" href="#main-content">Skip to main content</a>
-        <div id="main-content">{children}</div>
+        {children}
       </body>
     </html>
   );

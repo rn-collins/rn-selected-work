@@ -34,7 +34,7 @@ export default async function ProjectPage({
   if (build) return <PublicBuildCase build={build} />;
   if (!p)
     return (
-      <main className="case shell">
+      <main id="main-content" tabIndex={-1} className="case shell">
         <p>Project not found.</p>
         <Link href="/">Return to selected work</Link>
       </main>
@@ -46,10 +46,10 @@ export default async function ProjectPage({
           RN<span>↗</span>
         </Link>
         <div className="navlinks">
-          <Link href="/#work">All work</Link>
+          <Link href="/work">All work</Link>
         </div>
       </nav>
-      <article className="case shell">
+      <article id="main-content" tabIndex={-1} className="case shell">
         <p className="eyebrow">
           {p.kind} · {p.number}
         </p>
@@ -102,9 +102,10 @@ export default async function ProjectPage({
               Inspect technical source ↗
             </a>
           )}
-          <Link className="textlink" href="/#work">
+          <Link className="textlink" href="/work">
             Return to all work →
           </Link>
+          <Link className="textlink" href="/contact">Start a conversation →</Link>
         </div>
       </article>
     </main>
@@ -127,11 +128,11 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
           RN<span>↗</span>
         </Link>
         <div className="navlinks">
-          <Link href="/#build-atlas">All builds</Link>
+          <Link href="/work#build-atlas">All builds</Link>
           <a href={build.live} target="_blank" rel="noreferrer">Open build ↗</a>
         </div>
       </nav>
-      <article className="case shell">
+      <article id="main-content" tabIndex={-1} className="case shell">
         <p className="eyebrow">{build.category} · {build.practice}</p>
         <h1>{build.title}</h1>
         <p className="caseStatus">{build.status}</p>
@@ -190,7 +191,8 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
               {artifact.label} ↗
             </a>
           ))}
-          <Link className="textlink" href="/#build-atlas">Return to all builds →</Link>
+          <Link className="textlink" href="/work#build-atlas">Return to all builds →</Link>
+          <Link className="textlink" href="/contact">Start a conversation →</Link>
         </div>
       </article>
     </main>

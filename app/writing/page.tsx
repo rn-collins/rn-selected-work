@@ -1,5 +1,11 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { publicationArchive } from "../../lib/publication-archive";
+
+export const metadata: Metadata = {
+  title: "Writing",
+  description: "Located publication records by RN Collins across law, governance, neuroscience, cannabis, psychedelics, culture, institutional accountability, and Hawaiʻi.",
+};
 
 const publications = [
   "Fat Nugs Magazine",
@@ -14,9 +20,9 @@ export default function WritingArchivePage() {
         <Link className="mark" href="/">RN<span>↗</span></Link>
         <div className="navlinks"><Link href="/#work">Work</Link><Link href="/writing">Writing</Link></div>
       </nav>
-      <header className="archiveHero shell">
-        <p className="eyebrow">Complete editorial archive · through August 12, 2026</p>
-        <h1>Published work,<br /><em>in full.</em></h1>
+      <header id="main-content" tabIndex={-1} className="archiveHero shell">
+        <p className="eyebrow">Located editorial archive · reviewed through August 12, 2026</p>
+        <h1>Published work,<br /><em>located to date.</em></h1>
         <div className="archiveIntro">
           <p>{publicationArchive.length} located publication records across law, governance, neuroscience, cannabis, psychedelics, culture, institutional accountability, and Hawaiʻi.</p>
           <p>This archive searches the bylines RN Collins, Rayven-Nikkita Collins, Nikkita Collins, and RN Williams. Publication duplicates and Journal republications remain visible and are explicitly labeled.</p>

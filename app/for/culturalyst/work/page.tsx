@@ -35,7 +35,7 @@ export default function CulturalystWork() {
   return (
     <main>
       <RecipientNav />
-      <header className="recipientHero shell">
+      <header id="main-content" tabIndex={-1} className="recipientHero shell">
         <p className="eyebrow">02 · Selected evidence</p>
         <h1>Three ways RN<br /><em>makes systems</em><br />usable.</h1>
         <p>These projects were selected because each demonstrates a different part of the infrastructure Culturalyst is building around Hawaiʻi's creative ecosystem.</p>
