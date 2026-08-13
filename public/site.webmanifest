@@ -1,0 +1,17 @@
+{
+  "name": "RN Selected Work",
+  "short_name": "RN",
+  "description": "Selected builds, research, systems, and published analysis by Rayven-Nikkita (RN) Collins.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3efe4",
+  "theme_color": "#f3efe4",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
