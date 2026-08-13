@@ -39,19 +39,27 @@ These numbers are not expected to match one-to-one. A repository may be private 
 
 `psychops-intel` currently supports both the featured Psychedelic Operations Intelligence record and the narrower Atlas record Psych Ops Intel. This overlap requires later canonicalization; it must not be assumed to represent two independent products.
 
+## Wave 1 accepted dispositions — August 12, 2026
+
+- `myelin-ce` — **D, retired/superseded deployment** intended for consolidation under Aloha AI Learning. Its public routes currently redirect to a nonexistent `/ce/` successor that returns 404. Do not add a separate portfolio card. Remediation remains P0 before any learning/CE claims are promoted.
+- `aloha-ai-consulting-an6n` — **D, duplicate deployment** of canonical `aloha-ai-consulting`. It uses the same repository and commit stream, but the alternate Vercel project is protected/non-indexable and its latest production deployment is misconfigured to expect `dist`. Retire the alternate project; retain one Aloha AI case study.
+- `z2f-live` — **D, duplicate deployment** of canonical **P** asset `zero-to-frontier`. Both Vercel projects deploy the same repository, branch, commit, and byte-identical tested pages. Retain one Zero → Frontier case study and retire or redirect the duplicate project.
+
+The accepted Stage A dossiers and route/control ledgers live under `audits/<asset>/`. These dispositions resolve portfolio cardinality; they do not waive the defects recorded in those dossiers.
+
 ## Vercel projects requiring explicit component or disposition treatment
 
 ### NSAG assessment modules — provisional C
 
 `nsag-m1`, `nsag-m2`, `nsag-m3`, `nsag-m4`, `nsag-m5`, `nsag-m6`, `nsag-m7`, `nsag-m8`, `nsag-m9`, `nsag-m10`, `nsag-m11`, `nsag-m12`, `nsag-m13`, `nsag-m14`, and `nsag-m15` are linked from the NSAG case study, but none currently has its own case-study record, crawl dossier, or individual disposition. Each is a deployed consumer interface and therefore requires a separate crawl assignment even if all fifteen remain components of the parent NSAG practice.
 
-### Other unresolved Vercel projects
+### Other Vercel projects
 
-- `aloha-ai-consulting-an6n` — U; likely alternate Aloha AI project, must compare with canonical `aloha-ai-consulting`.
-- `myelin-ce` — U; deployed project and public GitHub repository, absent from RN Selected Work.
+- `aloha-ai-consulting-an6n` — D; duplicate of canonical `aloha-ai-consulting`; retire after dependency/alias review.
+- `myelin-ce` — D; retired/superseded deployment intended for Aloha AI Learning consolidation; broken successor requires remediation.
 - `rn-api` — provisional I; determine which public products depend on it and test those integrations.
 - `rn-selected-work` — X from child-site crawling; this portfolio is audited as the index itself.
-- `z2f-live` — U; determine whether it is a companion runtime, alternate deployment, or separate Zero → Frontier product.
+- `z2f-live` — D; duplicate of canonical P asset `zero-to-frontier`; retire or redirect after remediation planning.
 
 ## GitHub repositories not yet represented or dispositioned
 
