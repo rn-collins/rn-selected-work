@@ -47,11 +47,19 @@ These numbers are not expected to match one-to-one. A repository may be private 
 
 The accepted Stage A dossiers and route/control ledgers live under `audits/<asset>/`. These dispositions resolve portfolio cardinality; they do not waive the defects recorded in those dossiers.
 
+## Wave 2 accepted dispositions — August 12, 2026
+
+- `nsag-site` — **P, canonical NSAG parent**, conditional on Stage B remediation. Keep one parent case study. The audit verified a substantial 40-endpoint public system, but production API calls are blocked while several handlers can falsely display success; pre-accreditation CE language, evidence/scoring claims, exposed historic HTML artifacts, accessibility, PDF, and NSAG/Aloha AI identity issues require remediation.
+- `nsag-m1` — **C, NSAG component**, release-blocked. The assessment crashes after the first response because its Content Security Policy blocks required Chart.js; the same policy blocks PDF generation. Do not add a standalone portfolio card. The parent NSAG case study must describe it as a prototype/non-operational module until repaired and reverified.
+- `nsag-m2` — **C, NSAG component**, release-blocked. The assessment likewise cannot advance past the first response, its promised PDF has no operational invocation, and privacy/scoring/claim boundaries require remediation. Do not add a standalone portfolio card.
+
+Wave 2 evidence is stored under `audits/nsag-site/`, `audits/nsag-m1/`, and `audits/nsag-m2/`.
+
 ## Vercel projects requiring explicit component or disposition treatment
 
 ### NSAG assessment modules — provisional C
 
-`nsag-m1`, `nsag-m2`, `nsag-m3`, `nsag-m4`, `nsag-m5`, `nsag-m6`, `nsag-m7`, `nsag-m8`, `nsag-m9`, `nsag-m10`, `nsag-m11`, `nsag-m12`, `nsag-m13`, `nsag-m14`, and `nsag-m15` are linked from the NSAG case study, but none currently has its own case-study record, crawl dossier, or individual disposition. Each is a deployed consumer interface and therefore requires a separate crawl assignment even if all fifteen remain components of the parent NSAG practice.
+`nsag-m1` and `nsag-m2` are accepted C dispositions with release holds. `nsag-m3` through `nsag-m15` remain provisional C records pending separate crawls. All fifteen are linked from the NSAG case study but should remain components unless evidence establishes an independently coherent product. Each is a deployed consumer interface and therefore requires a separate crawl assignment.
 
 ### Other Vercel projects
 
