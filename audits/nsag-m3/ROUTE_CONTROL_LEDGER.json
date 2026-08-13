@@ -1,0 +1,58 @@
+{
+  "asset": "nsag-m3",
+  "audited_at": "2026-08-12T20:30:00-10:00",
+  "deployment": "https://nsag-m3.vercel.app/",
+  "repository": "rn-collins/nsag-m3",
+  "commit": "6abf2c35f305f065c142db5dca614f8d2c905acc",
+  "classification": "NSAG component; independent deployed assessment interface",
+  "routes": [
+    {"path":"/","method":"GET","http":200,"bytes":73085,"status":"broken","notes":"Only product route. Intro renders; core assessment stops after first answer because Chart is undefined under CSP."},
+    {"path":"/sitemap.xml","method":"GET","http":404,"bytes":79,"status":"broken","notes":"HTML advertises this nonexistent sitemap."},
+    {"path":"/robots.txt","method":"GET","http":404,"bytes":79,"status":"missing"},
+    {"path":"/api/track","method":"GET/OPTIONS","http":404,"bytes":79,"status":"broken","notes":"Inline page-view and scroll-depth tracking POSTs to this nonexistent same-origin route."},
+    {"path":"/nonexistent-audit-test","method":"GET","http":404,"bytes":79,"status":"verified","notes":"Default Vercel not-found response."}
+  ],
+  "external_dependencies": [
+    {"url":"https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js","http":200,"status":"broken_in_browser","notes":"Reachable, but blocked by script-src 'self'; window.jspdf is undefined."},
+    {"url":"https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js","http":200,"status":"broken_in_browser","notes":"Reachable, but blocked by script-src 'self'; Chart is undefined."},
+    {"url":"https://nsag-api.vercel.app/api/lead","options_http":200,"status":"unverified","notes":"Allows POST/OPTIONS with CORS *; no consequential submission made; storage/email behavior not inspected."},
+    {"url":"https://nsag-site.vercel.app/advisory","http":200,"status":"verified"},
+    {"url":"https://nsag-m4.vercel.app/","http":200,"status":"verified"},
+    {"url":"https://nsag-m9.vercel.app/","http":200,"status":"verified"},
+    {"url":"https://aloha-ai-consulting.vercel.app/","http":200,"status":"verified"},
+    {"url":"https://rn-portfolio-khaki.vercel.app/","http":200,"status":"verified","notes":"Live but legacy RN portfolio, despite link label RN Builds."}
+  ],
+  "controls": [
+    {"control":"Begin the Challenge","count":1,"status":"broken","result":"At 1440x936, button top was 1348px inside an 884px overflow-hidden panel; DOM automation can invoke it, but it is visually clipped/unreachable."},
+    {"control":"Sector selector","count":4,"status":"simulated","result":"Selection enables Continue and sets selectedSector; value never changes questions, scoring, results, API payload or PDF. Default variable is stale 'legal-aid'."},
+    {"control":"Continue","count":1,"status":"verified","result":"After sector selection, opens screen-q0 and shows 0/12."},
+    {"control":"Scenario options","count":48,"status":"broken","result":"First choice becomes selected, then updateRadar throws because Chart is undefined; options are disabled and assessment does not advance."},
+    {"control":"Back/revise","count":0,"status":"missing","result":"prevQuestion exists but no generated back control; answers cannot be revised."},
+    {"control":"Email gate","count":1,"status":"unreachable","result":"Core blocker prevents normal access; source only checks for '@'."},
+    {"control":"Results","count":1,"status":"unreachable","result":"Local result renderer exists but cannot be reached through deployed journey."},
+    {"control":"PDF report","count":1,"status":"broken","result":"jsPDF blocked by CSP and generateResultPDF has no call site."},
+    {"control":"Copy results","count":1,"status":"unreachable","result":"Clipboard code exists; no error fallback."},
+    {"control":"Share","count":1,"status":"unreachable","result":"Web Share/clipboard code exists only in dynamically injected results."},
+    {"control":"Print","count":1,"status":"unreachable"},
+    {"control":"Retake","count":1,"status":"unreachable","result":"Would reload and erase state."},
+    {"control":"Toolkit waitlist","count":3,"status":"simulated","result":"No checkout/toolkit delivery. Button immediately asserts waitlist success and one-day email regardless of POST result."},
+    {"control":"Contact the Architect modal","count":1,"status":"partial","result":"Open and Cancel work. Dialog has no role/name/focus trap/Escape. Submit closes on any resolved response and gives no success/error state."},
+    {"control":"Related module links","count":2,"status":"verified","result":"M4 and M9 destinations return 200."},
+    {"control":"Pageview/scroll tracking","count":2,"status":"broken","result":"POST target /api/track does not exist; errors are suppressed."}
+  ],
+  "state_model": {
+    "screens": ["intro", "sector", "q0-q11", "email gate", "cinematic reveal", "results"],
+    "implemented_progression": "intro -> sector -> q0 -> intended auto-advance -> gate -> results",
+    "observed_progression": "intro (visually clipped CTA) -> sector -> q0 -> first option selected -> runtime exception/stall",
+    "persistence": "none; answers and sector are in-memory; UTMs use sessionStorage",
+    "scoring": "12 equally weighted ordinal answers scored 1-4; two questions per dimension; tier cutoffs by mean: >=3.5 PIONEERING, >=2.5 EMERGING, >=1.5 DEVELOPING, else EARLY STAGE",
+    "validation": "explicitly unvalidated educational self-assessment"
+  },
+  "status_summary": {
+    "real": ["static content", "sector selection UI", "question generation", "related links", "contact modal open/cancel", "security headers"],
+    "partial": ["lead API endpoint presence", "contact submission code", "local scoring source"],
+    "simulated": ["sector personalization", "$500 toolkit waitlist/purchase language", "one-day personal email promise"],
+    "broken": ["assessment progression", "radar", "PDF", "pageview tracking", "scroll tracking", "advertised sitemap"],
+    "unverified": ["API persistence", "report email delivery", "toolkit existence/content", "advisory outcomes", "Oregon success anecdote", "mobile and screen-reader device behavior"]
+  }
+}
