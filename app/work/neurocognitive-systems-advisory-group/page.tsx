@@ -1,4 +1,10 @@
+import type { Metadata } from "next";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "Neurocognitive Systems Advisory Group",
+  description: "RN's case study of NSAG, Nervous-System-Aware Governance, and its research-led institutional-design systems.",
+};
 
 const modules = [
   "Trauma-Informed Legal Space",
@@ -39,7 +45,7 @@ export default function NSAGCaseStudy() {
         <Link className="mark" href="/">RN<span>↗</span></Link>
         <div className="navlinks"><Link href="/">Selected work</Link><a href="https://nsag-site.vercel.app/" target="_blank" rel="noreferrer">Open NSAG ↗</a></div>
       </nav>
-      <header className="recipientHero shell">
+      <header id="main-content" tabIndex={-1} className="recipientHero shell">
         <p className="eyebrow">Original framework · institutional-design practice · active system</p>
         <h1>Neurocognitive<br /><em>Systems Advisory</em><br />Group.</h1>
         <p>
@@ -106,12 +112,12 @@ export default function NSAGCaseStudy() {
       <section className="culturalystAnswer">
         <div className="shell answergrid">
           <section><p className="eyebrow">NSAG</p><p>The original governance framework and research-led institutional-design practice.</p></section>
-          <section><p className="eyebrow">Aloha AI</p><p>A broader strategy and technical build practice. It may implement NSAG tools, but it does not contain or define NSAG.</p></section>
-          <section><p className="eyebrow">RN Builds + Institutions of One</p><p>RN Builds is the developing public workbench. Institutions of One is a separate framework about independent capability, ownership, relationships, evidence, and portable infrastructure.</p></section>
+          <section><p className="eyebrow">Aloha AI</p><p>An AI-specific initiative within RN's practice. It may implement NSAG tools, but it does not contain or define NSAG.</p></section>
+          <section><p className="eyebrow">Selected Work + Institutions of One</p><p>RN's builds belong in the Selected Work evidence layer. Institutions of One is a distinct initiative about independent capability, ownership, relationships, evidence, and portable infrastructure.</p></section>
         </div>
       </section>
 
-      <footer className="footer"><div className="shell footergrid"><div><p className="eyebrow">Primary destination</p><h2>See the system<br /><em>in operation.</em></h2></div><div className="contact"><a href="https://nsag-site.vercel.app/" target="_blank" rel="noreferrer">Explore NSAG ↗</a><Link href="/">Return to selected work →</Link></div></div></footer>
+      <footer className="footer"><div className="shell footergrid"><div><p className="eyebrow">Primary destination</p><h2>See the system<br /><em>in operation.</em></h2></div><div className="contact"><a href="https://nsag-site.vercel.app/" target="_blank" rel="noreferrer">Explore NSAG ↗</a><Link href="/#work">Return to selected work →</Link><a href="https://www.linkedin.com/in/rn-collins" target="_blank" rel="noreferrer">Start a conversation ↗</a></div></div></footer>
     </main>
   );
 }

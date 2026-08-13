@@ -422,3 +422,14 @@ RN Selected Work is complete for a given release only when:
 - the canonical production deployment has been verified.
 
 “The page exists” is not the definition of done.
+
+## 15. Whole-estate reconciliation and multi-agent crawling
+
+This handoff does **not** certify that the earlier 35 case studies exhaust RN’s GitHub and Vercel estate. The August 12 authenticated reconciliation found 73 GitHub repositories and 50 Vercel projects. Several are components, infrastructure, duplicates, alternate versions, or unresolved assets rather than obvious public portfolio builds.
+
+Use these two controlling documents before assigning further site work:
+
+- `MASTER_ASSET_RECONCILIATION.md` — complete connected-account inventory, represented assets, unresolved assets, and the disposition gate.
+- `THREE_AGENT_SITE_CRAWL_PROTOCOL.md` — the exact three-concurrent-agent program and the required consumer, engineering, development, copy, expert-communication, brand, and business lenses.
+
+No future agent may claim “everything is on RN Selected Work” merely because every record in `lib/public-builds.ts` has a route. Completion requires every GitHub repository and Vercel project to be explicitly mapped, merged, kept private, archived, superseded, excluded, or promoted to a canonical case study.

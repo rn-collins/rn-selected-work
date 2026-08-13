@@ -1,0 +1,41 @@
+{
+  "asset": "myelin-ce",
+  "audit_stage": "A",
+  "observed_date_hst": "2026-08-12",
+  "status_vocabulary": ["verified", "broken", "simulated", "inaccessible", "unverified", "intentionally_unavailable"],
+  "deployment": {
+    "project_id": "prj_27BAHdS5tReej1zqs88SjTMZtSIM",
+    "latest_deployment_id": "dpl_6EKBFjVPxHwDRrwiKygUiujNcyia",
+    "git_commit": "ca4f049c960411ae077f93e6395fdaf8ba545d10",
+    "canonical_url": "https://myelin-ce.vercel.app",
+    "effective_url": "https://aloha-ai-consulting.vercel.app/ce/",
+    "effective_http_status": 404,
+    "status": "broken"
+  },
+  "routes": [
+    {"source":"/","repository_artifact":"index.html","redirect_target":"https://aloha-ai-consulting.vercel.app/ce/","effective_status":404,"classification":"broken"},
+    {"source":"/free-guide","repository_artifact":"free-guide.html","redirect_target":"https://aloha-ai-consulting.vercel.app/ce/","effective_status":404,"classification":"broken"},
+    {"source":"/free-guide.html","repository_artifact":"free-guide.html","intermediate_redirect":"/free-guide","redirect_target":"https://aloha-ai-consulting.vercel.app/ce/","effective_status":404,"classification":"broken"},
+    {"source":"/robots.txt","repository_artifact":null,"redirect_target":"https://aloha-ai-consulting.vercel.app/ce/","effective_status":404,"classification":"broken"},
+    {"source":"/sitemap.xml","repository_artifact":null,"redirect_target":"https://aloha-ai-consulting.vercel.app/ce/","effective_status":404,"classification":"broken"},
+    {"source":"/api/track","repository_artifact":null,"redirect_target":"https://aloha-ai-consulting.vercel.app/ce/","effective_status":404,"classification":"broken"},
+    {"source":"/(any-other-path)","repository_artifact":null,"redirect_target":"https://aloha-ai-consulting.vercel.app/ce/","effective_status":404,"classification":"broken"}
+  ],
+  "repository_only_controls": [
+    {"control":"six header anchors","result":"would scroll to existing section IDs on index.html","classification":"unverified"},
+    {"control":"Explore the catalog","result":"would scroll to #courses","classification":"unverified"},
+    {"control":"Get the free guide","result":"would navigate to free-guide.html","classification":"unverified"},
+    {"control":"eleven launch-course cards","result":"client-side detail modal generated from hard-coded COURSES object","classification":"simulated"},
+    {"control":"twelve library-series cards","result":"client-side list modal generated from hard-coded SERIES object","classification":"simulated"},
+    {"control":"111 planned-course list items","result":"generic planned-course detail generated client-side; no course content","classification":"simulated"},
+    {"control":"close, overlay, Escape and back modal controls","result":"implemented in inline JavaScript but absent from deployed consumer surface","classification":"unverified"},
+    {"control":"launch-updates email form","result":"opens free-guide.html and clears email; does not transmit or store subscription","classification":"broken"},
+    {"control":"Contact the Architect form","result":"POST coded to RN API; blocked by repository CSP if page were served; non-2xx responses would be treated as success","classification":"broken"},
+    {"control":"free-guide catalog CTA","result":"targets nonexistent myelin-ce-site.html","classification":"broken"},
+    {"control":"Nervous System Studio external link","result":"HTTP 200 destination verified; inaccessible from deployed Myelin surface","classification":"verified"},
+    {"control":"WNH external link","result":"HTTP 200 destination verified; inaccessible from deployed Myelin surface","classification":"verified"},
+    {"control":"Dru Assessment external link","result":"HTTP 200 destination verified; inaccessible from deployed Myelin surface","classification":"verified"},
+    {"control":"Aloha AI footer link","result":"HTTP 200 destination verified; inaccessible from deployed Myelin surface","classification":"verified"},
+    {"control":"RN Builds footer link","result":"HTTP 200 legacy portfolio destination verified; wrong canonical portfolio","classification":"broken"}
+  ]
+}
