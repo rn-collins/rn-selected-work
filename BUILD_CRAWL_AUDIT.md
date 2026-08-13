@@ -59,3 +59,17 @@ The 2026-08-12 pass completed level 1 across all 29 Build Atlas sites and sample
 ## Case-study rule
 
 A case study may state what the public artifact presents and what architecture is visible. It may not state that every workflow, source, calculation, data operation, form, payment path, or outcome is verified unless this ledger records the relevant interactive and evidence audit as complete.
+
+## RN Selected Work production verification
+
+Completed after the organized-atlas and publication-archive deployment on 2026-08-12:
+
+- 43 internal pages and first-party assets fetched successfully.
+- 620 internal link references checked with no failed destination.
+- All six featured-build case studies and all 29 Build Atlas case studies are reachable.
+- All 29 Atlas records expose both a case-study link and a live-build link.
+- All 29 Atlas records appear exactly once across five primary collections: 8 governance/institutional, 7 decision-intelligence, 6 evidence/knowledge, 5 education/capability, and 3 independent-practice/implementation builds.
+- Nine substantively applicable builds are cross-listed in the institutional-work section without changing their primary collection or number.
+- The writing archive renders 71 publication records: 28 Fat Nugs Magazine articles, 40 Cannabis Law Report publication URLs, and three Cannabis Law Journal editions. Known duplicates and republications are labeled.
+- 106 unique external destinations were tested from the homepage and writing archive. 105 returned ordinary successful responses. LinkedIn returned its automation-specific status 999; this is not treated as evidence that RN's profile URL is broken.
+- Desktop rendered inspection at 1363 pixels showed no horizontal overflow. The homepage and writing archive both reported a document width narrower than the viewport.
