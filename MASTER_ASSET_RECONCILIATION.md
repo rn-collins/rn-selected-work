@@ -107,6 +107,14 @@ Wave 8 evidence lives under `audits/curriculum-licensing/`, `audits/eolpc-demo-v
 
 On August 12, 2026, canonical `eolpc-demo/api/queries.js` was patched on `main` at commit `10f7b7a8312a9dc29ab96ae535479f37d59baa1f` to fail closed when `QUERY_LOG_TOKEN` is absent, require Bearer authorization, reject non-GET methods, disable caching, and suppress configuration/raw-error disclosure. Production verification confirmed anonymous access returns HTTP 503 with only `{"error":"Service unavailable"}` and no stored records. The active exposure is contained. Retention/deletion, exposure-window, logging, and notification analysis remain open incident-response work.
 
+## Wave 9 accepted dispositions — August 13, 2026
+
+- `field-intelligence-os` — **I, internal infrastructure**, pre-alpha and release-blocked. The current private repository/protected preview is not the same product as the public `field-intelligence-os.vercel.app` Kanazi/Bugesera reporting interface. Ownership and deployment mapping for that public surface are unresolved; it requires access restriction, credential/integration and data-flow review, output sanitization, and incident analysis before any public representation. Do not add a portfolio card.
+- `rn-agent-os` — **I, private Aloha AI infrastructure**, parented to Agentic Brand Management / `creator-brand-evidence`. Deterministic analyzers and scaffolding exist, while collectors, research/video evidence, measurement, learning, delivery, and alerts are simulated, incomplete, or broken. Keep private; no standalone portfolio card.
+- `rn-portfolio` — **D, superseded portfolio**. RN Selected Work is the sole canonical public portfolio. The obsolete root and public registry were permanently redirected on August 13 at commits `7075fc9022e35b73bfed571cfd74cfe49cb4f687` and `b1963c0f976bc96da0b812952233c6ceb5ef948e`; production verification confirmed 308 responses for `/` and `/data/builds.json`. Historical exposure/cache review and private evidence migration remain open. Do not add a case-study card.
+
+Wave 9 evidence lives under `audits/field-intelligence-os/`, `audits/rn-agent-os/`, and `audits/rn-portfolio/`.
+
 ## Vercel projects requiring explicit component or disposition treatment
 
 ### NSAG assessment modules — provisional C
@@ -151,10 +159,10 @@ The following repositories are absent as canonical case studies and need review.
 - `curriculum-licensing` — C; Aloha AI component/service line, commercially release-blocked
 - `eolpc-demo-v5` — D; superseded predecessor of canonical `eolpc-demo`; canonical has immediate privacy release hold
 - `fadiman-atlas` — E; access-restrict and keep off public portfolio pending authorization/rights/safety reconstruction
-- `field-intelligence-os` — U
+- `field-intelligence-os` — I; private pre-alpha infrastructure; public hostname ownership/product mismatch unresolved
 - `myelin-ce` — U
-- `rn-agent-os` — U
-- `rn-portfolio` — U; likely an older or separate portfolio surface
+- `rn-agent-os` — I; private Aloha AI infrastructure; no standalone card
+- `rn-portfolio` — D; superseded and production-redirected to RN Selected Work
 - `y` — U
 
 ### Infrastructure
