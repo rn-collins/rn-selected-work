@@ -7,7 +7,7 @@ Inventory date: August 12, 2026 (HST)
 **Not yet complete.** The connected accounts currently expose:
 
 - 73 GitHub repositories owned by `rn-collins`
-- 50 Vercel projects in the RN Collins team
+- at least 73 directly verified Vercel projects in the RN Collins team; the connector returns only a capped 50-project page, so 73 is a verified minimum rather than a proven exhaustive total
 - 35 build case studies on RN Selected Work: 6 featured projects and 29 Build Atlas projects
 
 These numbers are not expected to match one-to-one. A repository may be private infrastructure, a component, an obsolete experiment, an alternate version, or undeployed. A Vercel project may be a duplicate deployment, API, module, or companion application. Completion requires a written disposition for every record—not publishing every private asset as a portfolio card.
@@ -115,6 +115,83 @@ On August 12, 2026, canonical `eolpc-demo/api/queries.js` was patched on `main` 
 
 Wave 9 evidence lives under `audits/field-intelligence-os/`, `audits/rn-agent-os/`, and `audits/rn-portfolio/`.
 
+## Wave 10 accepted dispositions — August 13, 2026
+
+- `y` — **D, private superseded predecessor** of `nsag-m3`. Canonical chain: `y` → `nsag-m3` component → NSAG parent. Archive/rename and prevent deployment; no RN Selected Work card, link, or additional build count.
+- `aloha-ai-governance` — **P, distinct public Aloha AI build**, release-blocked. The live pipeline/filtering is real, but the current product is an unreviewed web-search feed rather than authoritative “primary-source intelligence.” Its public sweep endpoint can incur paid requests, overwrite Redis, and trigger Slack, while untrusted result content reaches unsanitized HTML. Rebuild around official source authorities, legal status/version/effective-date tracking, human review, and safe operations before adding a case study.
+- `aloha-behavioral-intelligence` — **C, Aloha AI cultural-signal/research component**, release-blocked. Production API routing is broken and the available Wikipedia/Reddit/news measures are attention proxies, not valid measures of purchasing, identity, causality, or neurological distinctiveness. Reframe as a transparent, human-reviewed Cultural Signal Brief with evidence/hypothesis separation and prohibited-inference/privacy controls; no standalone card.
+
+Wave 10 evidence lives under `audits/y/`, `audits/aloha-ai-governance/`, and `audits/aloha-behavioral-intelligence/`.
+
+## Wave 11 accepted dispositions — August 13, 2026
+
+- `aloha-culture-monitor` — **C, release-blocked Aloha AI cultural-signal component**. Consolidate with `aloha-behavioral-intelligence` into one governed Cultural Signal Brief/Watchlist. Its “live/daily” data was materially stale, Google Trends values were null, behavioral/consumer causality and governance-risk labels were unsupported, and public refresh/contact paths require security and privacy reconstruction. No standalone card.
+- `aloha-dea-tracker` — **P, distinct public Aloha AI regulatory-intelligence build**, release-blocked. Its weekly Federal Register pipeline and filters are real, but ingestion is truncated, lifecycle/effective-date/current-law modeling is absent, and live legal categories contain misclassifications. Public mutation and unsanitized-content paths require remediation before a case study is added.
+- `aloha-encoding-effect` — **C, release-blocked Aloha AI editorial/research component**. It is not a validated neuroscience mechanism or product. Unsupported quantitative examples, deterministic neuro/identity/purchase language, broken/false-success inquiry flows, and missing privacy/methods infrastructure require reconstruction. Consolidate within the governed cultural/behavioral research line; no standalone card.
+
+Wave 11 evidence lives under `audits/aloha-culture-monitor/`, `audits/aloha-dea-tracker/`, and `audits/aloha-encoding-effect/`.
+
+## Wave 12 accepted dispositions — August 13, 2026
+
+- `aloha-governance-audit` — **C, release-blocked Aloha AI campaign-governance component**. The current source does not build, the public domain is an older divergent deployment, and the checkbox-to-paragraph interaction is not an audit. Rebuild as a human-reviewed campaign issue-spotting intake; no standalone card.
+- `aloha-legal-ai-monitor` — **P, distinct public Aloha AI regulatory-intelligence build**, release-blocked. The weekly discovery pipeline works, but its badges are query themes rather than verified authorities, jurisdictions, instruments, or operative status; the live dataset lacks direct issuing-authority coverage. Reconstruct around authoritative sources, human legal review, endpoint authentication, and URL controls before adding its case study.
+- `aloha-suppression-sweep` — **C, release-blocked Aloha AI platform-access/moderation evidence component**. The dashboard is real, but suppression is undefined across heterogeneous events, HOT/WARM are not evidence grades, and unreviewed search candidates can become accusations and false positives. State-changing sweeps, stored-XSS, methods/corrections/privacy, and causal/intent/discrimination claims require governance. No standalone card.
+
+Wave 12 evidence lives under `audits/aloha-governance-audit/`, `audits/aloha-legal-ai-monitor/`, and `audits/aloha-suppression-sweep/`.
+
+## Wave 13 accepted dispositions — August 13, 2026
+
+- `aloha-third-asset` — **C, Aloha AI editorial/positioning component**. It is a long-form essay, not software. Do not add a build card, case study, live-tool link, or count. After evidence, suite-readiness, privacy, legal, neuroscience, and operational claims are corrected, place it in Writing/Editorial with a “Read article” action.
+- `nsag-admin` — **I, private NSAG infrastructure; C, platform component**, release-blocked. It is a lead-viewing/export dashboard, not an evidence or module editor. Shared-key URL authentication, stored XSS, CSV injection, assessment-integrity, and cross-service PII risks prohibit public linking or screenshots. No standalone card.
+- `nsag-api` — **I, private NSAG service infrastructure**, release-blocked. Public unauthenticated digest/write effects, URL keys, sensitive multi-service data handling, false-success contracts, and caller-controlled assessment data require redesign. Never provide a standalone card or public API link.
+
+Wave 13 evidence lives under `audits/aloha-third-asset/`, `audits/nsag-admin/`, and `audits/nsag-api/`.
+
+## Wave 14 accepted disposition and reconciliation — August 13, 2026
+
+- `rn-api` — **I, internal shared inquiry relay**, release-blocked for new integrations. It is one public Resend mail relay, not a general API, AI system, CRM, or portfolio build. Wildcard CORS, anonymous unbounded writes, missing validation/escaping/rate controls, provider false-success, raw error disclosure, and PII/processorship/retention boundaries require remediation. No card, case study, public endpoint link, or build count.
+- GitHub cardinality reconciliation: **73/73 unique repositories accounted for, zero U dispositions**. Machine ledger: `audits/estate/GITHUB_73_FINAL_RECONCILIATION.json`.
+- Frozen Vercel-50 reconciliation: **50/50 rows dispositioned**, but the “50” was a connector page cap rather than a complete estate. Direct lookup established 23 additional project names, for a verified minimum of 73 accessible Vercel projects. Expanded 73-row reconciliation is required before treating the Vercel inventory section as current.
+
+The GitHub inventory is disposition-complete but not crawl-complete: 37 repositories have repository-specific Stage A evidence and 36 rely on existing representation/mapping. The frozen Vercel set had only 18 accepted Stage A project dossiers. These evidence gaps now control represented-site recertification waves.
+
+Expanded Vercel reconciliation subsequently validated 73 unique project names and IDs, with zero U dispositions: P39 / C22 / I4 / D5 / E2 / X1. Evidence: `audits/estate/VERCEL_73_EXPANDED_RECONCILIATION.*`. Of those, 37 had accepted Stage A evidence, 35 remained mapped-only, and one is the portfolio index. The expanded count supersedes the frozen 50-project heading below while preserving that original snapshot for traceability.
+
+## Represented-site recertification R1 — August 13, 2026
+
+- `legal-risk-monitor` — **P, retain individual case study; live controlled prototype/noindex; release-blocked**. Production now renders 15 signals, superseding the earlier loading/empty evidence. Case-study language must disclose hybrid/static provenance, authored keyword risk tiers, crawler-visible literal-route defect, RSS HTML-injection risk, fail-open alert sending, false-success subscription, PII retention, and missing unsubscribe/privacy controls.
+- `nervous-system-studio` — **P, retain individual case study; release-blocked**. Correct framing: “Local-First Set-and-Setting Research Preview.” The historic `${u}` defect is no longer reproducible and 19 evidence links resolve. Current blockers are broken analytics syntax, misleading local-only waitlist/contact states, cross-origin lead handling, plaintext sensitive local data, and product-maturity/evidence overstatement.
+
+## Represented-site recertification R2 — August 13, 2026
+
+- `eolpc-demo` — **P, one canonical case study; release-held**. The public query-log exposure is contained, but high-stakes query/visit logging, method/abuse controls, unsanitized upstream content, clinical/legal routing and authority, deterministic-synthesis claims, proposed-vs-working layers, privacy/discovery routes, lead/analytics, accessibility, and rights require remediation. `eolpc-demo-v5` remains D/no second count.
+- `aloha-ai-consulting` — **P, canonical Aloha AI public parent; represented with corrections**. Verified real delivery includes a browser-local Studio, three decision tools, complete 24-chapter masterclass, 18-lesson Citation Verifier, and Decision Desk Issues 02–11. Do not call it a University/LMS/credentialing institution or claim AI inference/customer outcomes. The Clinic is conditional inquiry; candidate offers/sponsorship are proposed. Keep NSAG and Institutions of One separate.
+- `zero-to-frontier` — **P, one canonical controlled prototype; release-blocked**. All 21 canonical HTML routes work and its library contains 237 rows/233 unique destinations. Correct privacy/contact/analytics contradictions, false success, universal sourcing/verification language, dated volatile claims, missing policy/discovery routes, and duplicate canonicalization. `z2f-live` remains D/no second count.
+
+## Represented-site recertification R3 — August 13, 2026
+
+- `law-communication-library` — **P, one canonical legal knowledge-architecture case; release-held for citations/currentness**. All 143 indexed article routes return 200 and represent about 217,000 body words, but none contains a clickable external legal-authority/source link. Do not claim current, accurate, source-backed, maintained, cite-checked, or Antithesis-reviewed absent per-article sources, reviewer identity, authority/effective-date tracking, changelog, and monitoring.
+- `bm-intel` — **P, organization-specific public concept; release-blocked and uncommissioned**. It exposes 27 signals/17 sources, but unauthenticated admin and mutation APIs make the record untrustworthy, source check dates are null, no crawler/scheduler exists, old records appear new, legal countdowns are stale, and no proposal/calculator/export/download exists.
+- `psychops-intel` — **P, one release-blocked canonical product** titled “Psychedelic Operations Intelligence — Psych Ops Intel.” Remove the Atlas duplicate and count. The 47-row/44-URL feed lacks UI-required fields, defaults status incorrectly, breaks filters, relies on secondary/off-topic candidates and unsupported fallback claims, and exposes an unauthenticated method-unsafe sweep. Replace unevidenced structured-private-database claims with transparent controlled-prototype evidence.
+
+## Represented-site recertification R4 — August 13, 2026
+
+- `flexjd-site` — **P, retain featured case with qualification**. Twenty HTML routes work and the data contains 372 rows, not 372 verified opportunities: 44 are category/header rows, leaving at most about 328 substantive entries before deduplication/currentness review. Add record-level status/deadline/last-verified fields, repair malformed sources, fix analytics/contact/privacy/sitemap/governance, and avoid claiming institutional commissioning/endorsement without evidence.
+- `keiki-robotics-oahu-ai` — **P, organization/event-specific static family resource; release-blocked**. It is not yet a maintained pathway, official event deliverable, team finder, enrollment system, or durable infrastructure. Correct unsupported Oʻahu A.I./Island Robotics collaboration language, September 5 event timing, robotics/tool/age claims, access/cost/Hawaiʻi prevalence, child/privacy, and accessibility boundaries.
+- `kids-developing-brains` — **P only as a prelaunch controlled NSAG M12 applied concept; release-blocked**. It is not a live workshop business: cross-origin lead flows fail while displaying success; paid workshop/guide/school/district offers lack checkout, dates, finished materials, SOW, or fulfillment; diagnostic scoring is invalid; and age-specific neuroscience promises lack research links. Replace “live/primary-source-grounded workshop” claims with prelaunch architecture/evidence boundaries.
+
+## Represented-site recertification R5 — August 13, 2026
+
+- `ownership-platform` — **P, retain one featured Institutions of One case study; release-blocked pending instrument and data-governance remediation**. Ownership Platform is the implementation layer, not a second build or count. Sixty-two sitemap routes work, including 41 Observatory cases, two 20-item pilots, four Edit editions, and compare/evidence/participation architecture. The assessments and score bands are authored, provisional, equal-weight, and unvalidated; projected gains are recalculations, not causal outcomes. Correct prescriptive legal/IP/entity language, disconnected dashboard claims, partial-write API contracts, privacy/processors, research-participant data, and multi-tenant controls.
+- `patent-first-steps-thorncrest` — **P, featured independent legal-education concept; public-link release-blocked**. No evidence supports commission, authorization, moderator review, distribution, or a ThornCrest relationship. The live product is a static one-page guide, not intake, a calculator, saved progress, a PDF, attorney booking, or legal service. Correct event timing, micro-entity eligibility, provisional-filing/disclosure/international-grace guidance, and inventorship, ownership, minor, school/employer, assignment, and freedom-to-operate boundaries.
+- `claude-smb-buechler` — **P only as an independent generic product-translation concept; release-blocked for currentness and representation**. Production contains no Buechler Pacific or Hawaiʻi references, and source history removed earlier Buechler review/approval language. Do not claim tailoring, organizational research, commission, authorization, review, delivery, use, attendance, or relationship. The artifact is a static guide with no calculator, API, connector, or workflow implementation; its “Download PDF” control prints, and its Claude product/security guidance is stale and incomplete.
+
+## Represented-site recertification R6 — August 13, 2026
+
+- `sovereign-stack` — **P, one canonical browser-local proposal prototype; representation/remediation hold**. It provides 12 explorable rooms and local JSON/Markdown export without a backend, authentication, API, or analytics. Reframe as an independently initiated Aloha AI governance-layer concept for Purple Maiʻa; remove present-tense ownership, client, adoption, installation, security, authorization, ownership-transfer, and IDS-certification implications. Correct persistence copy, evidence boundaries, and missing build/test/lint controls.
+- `gapi-governance` — **P, one canonical NSAG Applied concept; public commercial/certification presentation release-blocked**. The implementation is one static page and a five-question unvalidated browser score, not a certification program, assessment API, MCP integration, evidence workflow, report, monitoring system, registry, customer base, or outcome record. Replace “live applied assessment” with “live framework and readiness-prototype concept,” remove unsupported certification/pricing/exposure claims, and keep Aloha AI attribution limited to technical implementation.
+- `provenance-verify` — **P only as a prelaunch manual evidence-review service concept; release-blocked**. It does not implement technical provenance, authenticity verification, C2PA/Content Credentials, source retrieval, hashing, signatures, cryptography, or chain of custody. Its browser-local regex preflight detects citation-shaped markers and can reward fabricated text. Correct false-success lead flows, intake/privacy/confidentiality/privilege/conflicts boundaries, pricing/scope contradictions, unsupported sanctions/retraction/performance claims, and absent sample/delivery evidence.
+
 ## Vercel projects requiring explicit component or disposition treatment
 
 ### NSAG assessment modules — provisional C
@@ -125,7 +202,7 @@ Wave 9 evidence lives under `audits/field-intelligence-os/`, `audits/rn-agent-os
 
 - `aloha-ai-consulting-an6n` — D; duplicate of canonical `aloha-ai-consulting`; retire after dependency/alias review.
 - `myelin-ce` — D; retired/superseded deployment intended for Aloha AI Learning consolidation; broken successor requires remediation.
-- `rn-api` — provisional I; determine which public products depend on it and test those integrations.
+- `rn-api` — I; internal shared inquiry relay, release-blocked for new integrations; no public card/link
 - `rn-selected-work` — X from child-site crawling; this portfolio is audited as the index itself.
 - `z2f-live` — D; duplicate of canonical P asset `zero-to-frontier`; retire or redirect after remediation planning.
 
@@ -135,22 +212,22 @@ The following repositories are absent as canonical case studies and need review.
 
 ### Aloha-related systems
 
-- `aloha-ai-governance` — U
-- `aloha-behavioral-intelligence` — U
-- `aloha-culture-monitor` — U
-- `aloha-dea-tracker` — U
-- `aloha-encoding-effect` — U
-- `aloha-governance-audit` — U
-- `aloha-legal-ai-monitor` — U
-- `aloha-suppression-sweep` — U
-- `aloha-third-asset` — U
+- `aloha-ai-governance` — P; distinct public regulatory-intelligence build, release-blocked pending authoritative/security reconstruction
+- `aloha-behavioral-intelligence` — C; Aloha AI cultural-signal/research component, release-blocked
+- `aloha-culture-monitor` — C; consolidate into Aloha AI Cultural Signal Brief/Watchlist; no standalone card
+- `aloha-dea-tracker` — P; distinct regulatory-intelligence build, release-blocked
+- `aloha-encoding-effect` — C; consolidate into Aloha AI cultural/behavioral research line; no standalone card
+- `aloha-governance-audit` — C; Aloha AI campaign-governance issue-spotting component, release-blocked
+- `aloha-legal-ai-monitor` — P; distinct legal-AI regulatory-intelligence build, release-blocked
+- `aloha-suppression-sweep` — C; Aloha AI platform-access/moderation evidence component, release-blocked
+- `aloha-third-asset` — C; Aloha AI editorial/positioning component; future Writing entry after claim remediation
 
 ### NSAG infrastructure and parent system
 
-- `nsag-admin` — provisional I
-- `nsag-api` — provisional I
-- `nsag-site` — U; public live destination referenced by the NSAG case study but absent from the connected Vercel-project list
-- `nsag-m1` through `nsag-m15` — provisional C; separate crawl required
+- `nsag-admin` — I/C; private release-blocked operations component; no public card/link
+- `nsag-api` — I; private release-blocked service infrastructure; no public card/link
+- `nsag-site` — P; canonical NSAG parent audited in Wave 2; Stage B remediation required
+- `nsag-m1` through `nsag-m15` — C; individually audited release-blocked components; no separate cards
 
 ### Alternate, adjacent, or potentially independent builds
 
@@ -160,18 +237,20 @@ The following repositories are absent as canonical case studies and need review.
 - `eolpc-demo-v5` — D; superseded predecessor of canonical `eolpc-demo`; canonical has immediate privacy release hold
 - `fadiman-atlas` — E; access-restrict and keep off public portfolio pending authorization/rights/safety reconstruction
 - `field-intelligence-os` — I; private pre-alpha infrastructure; public hostname ownership/product mismatch unresolved
-- `myelin-ce` — U
+- `myelin-ce` — D; retired/superseded deployment intended for Aloha AI Learning consolidation
 - `rn-agent-os` — I; private Aloha AI infrastructure; no standalone card
 - `rn-portfolio` — D; superseded and production-redirected to RN Selected Work
-- `y` — U
+- `y` — D; private superseded predecessor of `nsag-m3`
 
 ### Infrastructure
 
-- `rn-api` — provisional I
+- `rn-api` — I; internal shared inquiry relay; no public card/link
 
-## Complete Vercel inventory — 50 projects
+## Frozen Vercel snapshot — 50-project connector page
 
 `ai-budget-calc`, `aloha-ai-consulting`, `aloha-ai-consulting-an6n`, `aloha-build-club`, `aloha-creator-rights`, `bm-intel`, `creator-brand-evidence`, `destig-toolkit`, `dru-assessment`, `entheogen-atlas`, `eolpc-demo`, `flexjd-site`, `gapi-governance`, `kids-developing-brains`, `law-communication-library`, `legal-risk-monitor`, `myelin-ce`, `narch-advisory`, `nervous-system-studio`, `nsag-m1`, `nsag-m2`, `nsag-m3`, `nsag-m4`, `nsag-m5`, `nsag-m6`, `nsag-m7`, `nsag-m8`, `nsag-m9`, `nsag-m10`, `nsag-m11`, `nsag-m12`, `nsag-m13`, `nsag-m14`, `nsag-m15`, `opfos-firm`, `ownership-platform`, `provenance-verify`, `psych-ops-directory`, `psychonaut-bookworm`, `psychops-intel`, `regac-academy`, `rn-api`, `rn-selected-work`, `set-for-life`, `sovereign-stack`, `sport-nsag`, `transform-observatory`, `wnh-guide`, `z2f-live`, and `zero-to-frontier`.
+
+This list is retained only as the original capped snapshot. The controlling project-level inventory is `audits/estate/VERCEL_73_EXPANDED_RECONCILIATION.json`.
 
 ## Complete GitHub inventory — 73 repositories
 
