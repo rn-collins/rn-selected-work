@@ -2,7 +2,7 @@
 
 Version: August 12, 2026
 
-Operational status: Wave 1 launched August 12, 2026. Stage A assignments are `myelin-ce`, `aloha-ai-consulting-an6n`, and `z2f-live`. No Wave 1 site remediation is authorized until all three diagnostic dossiers pass the acceptance gate.
+Operational status: Wave 1 Stage A was completed and accepted August 12, 2026. The three dispositions are recorded in `MASTER_ASSET_RECONCILIATION.md`; all three assets resolved as duplicate or superseded deployments rather than new portfolio cards. Stage B remediation remains separate. Wave 2 Stage A is authorized for `nsag-site`, `nsag-m1`, and `nsag-m2`.
 
 ## Purpose
 
