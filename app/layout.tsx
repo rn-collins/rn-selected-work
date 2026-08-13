@@ -9,9 +9,9 @@ export const metadata: Metadata = {
   applicationName: "RN Selected Work",
   manifest: "/site.webmanifest",
   icons: {
-    icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
-    shortcut: "/favicon.svg",
-    apple: "/favicon.svg",
+    icon: [{ url: "/favicon-v2.svg", type: "image/svg+xml" }],
+    shortcut: "/favicon-v2.svg",
+    apple: "/favicon-v2.svg",
   },
   openGraph: {
     title: "RN Selected Work",
