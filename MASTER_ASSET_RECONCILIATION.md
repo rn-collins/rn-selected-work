@@ -103,6 +103,10 @@ Wave 7 evidence lives under `audits/nsag-m15/`, `audits/aiapc-site/`, and `audit
 
 Wave 8 evidence lives under `audits/curriculum-licensing/`, `audits/eolpc-demo-v5/`, and `audits/fadiman-atlas/`.
 
+### EOLPC containment record
+
+On August 12, 2026, canonical `eolpc-demo/api/queries.js` was patched on `main` at commit `10f7b7a8312a9dc29ab96ae535479f37d59baa1f` to fail closed when `QUERY_LOG_TOKEN` is absent, require Bearer authorization, reject non-GET methods, disable caching, and suppress configuration/raw-error disclosure. Production verification confirmed anonymous access returns HTTP 503 with only `{"error":"Service unavailable"}` and no stored records. The active exposure is contained. Retention/deletion, exposure-window, logging, and notification analysis remain open incident-response work.
+
 ## Vercel projects requiring explicit component or disposition treatment
 
 ### NSAG assessment modules — provisional C
