@@ -192,7 +192,7 @@ export default function Culturalyst() {
           ))}
         </div>
         <p className="allwork">
-          <Link href="/#writing">See the full selected writing list →</Link>
+          <Link href="/writing">See the full selected writing list →</Link>
         </p>
       </section>
       <footer className="footer">
