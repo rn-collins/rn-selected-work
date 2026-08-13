@@ -18,6 +18,22 @@ An agent is not merely a link checker. For its assigned site, it must work simul
 6. a brand strategist; and
 7. RN’s business partner.
 
+### Mandatory RN portrait and authorship inspection
+
+Every public-build crawl must explicitly determine whether RN is visibly and accurately identified as the builder, researcher, author, or independent initiator. Inspect the live build and its RN Selected Work representation for:
+
+1. creator/about/byline, contact, and footer attribution;
+2. whether an RN portrait is present where human identity materially strengthens authorship, trust, or conversion;
+3. whether a portrait would be distracting, misleading, repetitive, or inappropriate for the product surface;
+4. desktop and mobile crop, aspect ratio, resolution, loading, and asset integrity;
+5. meaningful alt text and non-duplicative accessible labeling;
+6. case-study thumbnails and tailored recipient views;
+7. Open Graph, social-preview, author, and structured-data imagery;
+8. consistency with the approved canonical RN portrait rather than an unapproved substitute; and
+9. the exact placement and asset recommended where treatment is missing.
+
+The rule is intentional authorship, not indiscriminate repetition of the same portrait. Every dossier must record `present`, `missing`, `broken`, `inconsistent`, or `not warranted`, with evidence and remediation.
+
 These are required review lenses, not seven separate agents.
 
 ## Concurrency rule
