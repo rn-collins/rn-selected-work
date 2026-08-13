@@ -55,11 +55,59 @@ The accepted Stage A dossiers and route/control ledgers live under `audits/<asse
 
 Wave 2 evidence is stored under `audits/nsag-site/`, `audits/nsag-m1/`, and `audits/nsag-m2/`.
 
+## Wave 3 accepted dispositions — August 12, 2026
+
+- `nsag-m3` — **C, NSAG component**, release-blocked broken prototype. Shared assessment/PDF failures are compounded by a clipped primary CTA and unsafe or outdated psychedelic-medication framing, unsupported outcome anecdotes, simulated sector personalization, and unverified toolkit/report delivery.
+- `nsag-m4` — **C, NSAG component**, release-blocked. The module inherits the blocked assessment/PDF path and additionally misgeneralizes a real cannabis documentation statistic, makes unverified program-outcome and clinical claims, uses cosmetic sector personalization, and retains copy from another module.
+- `nsag-m5` — **C, NSAG component**, release-blocked. Its twelve nominal scenarios are six duplicated generic pairs that do not measure its six stated biophilic dimensions; clinical evidence is overgeneralized to civic settings and output precision is simulated.
+
+Do not create standalone portfolio cards for Modules 3–5. Their accepted evidence lives under the corresponding `audits/nsag-m*/` directories.
+
+## Wave 4 accepted dispositions — August 12, 2026
+
+- `nsag-m6` — **C, NSAG component**, release-blocked. Duplicated generic item pairs do not measure the stated sponsorship dimensions, while public-body ethics, procurement, gifts, appropriations, tax, disclosure, constitutional, entity, and jurisdiction boundaries are materially absent.
+- `nsag-m7` — **C, NSAG component**, release-blocked. Duplicated generic questions do not measure the six stated Conscious Cities dimensions; surveillance and data governance are absent, sector choice is cosmetic, and built-environment evidence is overgeneralized.
+- `nsag-m8` — **C, NSAG component**, release-blocked. The questions have reasonable face alignment to the six Areas of Worklife but are unvalidated, and the tool over-infers institutional maturity from one respondent’s two-item-per-domain reflection. Employment, disability, clinical, privacy, and structured-debrief boundaries require remediation.
+
+All three also inherit the blocked assessment/PDF and unreliable API-success patterns documented in their individual dossiers. Do not create standalone portfolio cards.
+
+## Wave 5 accepted dispositions — August 12, 2026
+
+- `nsag-m9` — **C, NSAG component**, release-blocked. The generic duplicated instrument does not measure the advertised cannabis-healthcare dimensions, and its headline misreads a single Washington primary-care documentation study as disclosure evidence. Product-specific clinical evidence, privacy, nondiscrimination, accessibility, and jurisdictional boundaries require reconstruction.
+- `nsag-m10` — **C, NSAG component**, release-blocked. Its questions have some domain-specific face alignment but remain unvalidated and omit major healthcare-facility concerns including ventilation/infection control, water, surfaces, fire/egress, fall and behavioral safety, accessible routes/equipment, and resilience. Evidence and credentialing claims require correction.
+- `nsag-m11` — **C, NSAG component**, release-blocked. The deployed tool is a generic clinical-AI accountability template rather than a medical-technology/evidence-lifecycle assessment. It omits classification, SaMD/CDS, FDA pathways, validation, quality systems, postmarket, cybersecurity, change control, and jurisdiction, while retaining contaminated copy from another module.
+
+Do not create standalone portfolio cards for Modules 9–11. All three inherit the shared assessment/PDF/privacy/API defects documented in their dossiers.
+
+## Wave 6 accepted dispositions — August 12, 2026
+
+- `nsag-m12` — **C, NSAG component**, release-blocked. Its distinct education prompts have some face validity but cannot establish institutional maturity from one respondent and authored thresholds. All result tiers contain legal-space/client contamination, while education, child privacy, disability, discipline, trauma, and outcome claims need reconstruction.
+- `nsag-m13` — **C, NSAG component**, release-blocked. Duplicated generic questions do not measure the named traditional/complementary-medicine domains and every tier contains unrelated legal-module copy. Cultural and Indigenous authority, traditional knowledge/IP, licensure/scope, safety, product quality, informed consent, claims regulation, equity, and jurisdiction require a purpose-built instrument.
+- `nsag-m14` — **C, NSAG component**, release-blocked. Its foundational “legal vacuum / zero frameworks” premise is materially false. The module must distinguish current binding space law, national regimes, institutional/contractual governance, nonbinding instruments, actual gaps, and speculative future design. Its generic instrument omits the principal jurisdictional and operational categories.
+
+Do not create standalone portfolio cards for Modules 12–14.
+
+## Wave 7 accepted dispositions — August 12, 2026
+
+- `nsag-m15` — **C, NSAG component**, immediate release hold. One generic readiness score impermissibly collapses punitive solitary/restrictive housing, detention, psychiatric seclusion, infection isolation, long-term care, and consensual extreme-environment work/research despite different authority, rights, consent, duration, safety, and jurisdiction. The instrument and output must be rebuilt by setting.
+- `aiapc-site` — **P, independent public property**, prelaunch and release-blocked. It warrants a future independent RN Selected Work case study, explicitly labeled planned/prelaunch, after pricing/value math, tier/refund/renewal/ownership terms, subscription/checkout/delivery, API/privacy, high-stakes-content review, navigation, and licensing-document defects are remediated and reverified.
+- `clerking-site` — **E, incomplete high-risk legal-marketplace experiment**. Keep private or visibly prelaunch; do not add to public RN Selected Work unless nationwide legality claims, UPL/ethics, confidentiality/conflicts, fee/classification/student rules, secure matter architecture, access control, and actual marketplace operations are resolved.
+
+Wave 7 evidence lives under `audits/nsag-m15/`, `audits/aiapc-site/`, and `audits/clerking-site/`.
+
+## Wave 8 accepted dispositions — August 12, 2026
+
+- `curriculum-licensing` — **C, Aloha AI component/service line**, commercially release-blocked. Do not add a standalone card. Public claims require proof of delivery-ready curricula, chain of title and third-party rights, accurate degree/credit framing, and a real licensing/SOW framework before this can be marketed through Aloha AI.
+- `eolpc-demo-v5` — **D, superseded predecessor** of canonical `eolpc-demo`. Retain one EOLPC case study; do not add or count v5 separately. The canonical deployment has an immediate privacy incident/release hold: `/api/queries` fails open and exposes stored query/visit records when its token is unset. Personal data is not reproduced in the audit. Containment and incident response take priority over routine remediation.
+- `fadiman-atlas` — **E, incomplete high-risk named-person experiment**. Unpublish or access-restrict immediately; preserve privately. Do not add to RN Selected Work without documented name/likeness/product authorization, source-by-source rights clearance, medically safe and grounded product design, and a valid privacy/technical architecture. If authorization is unavailable, genericize as rights-cleared scholar-corpus infrastructure or archive/exclude.
+
+Wave 8 evidence lives under `audits/curriculum-licensing/`, `audits/eolpc-demo-v5/`, and `audits/fadiman-atlas/`.
+
 ## Vercel projects requiring explicit component or disposition treatment
 
 ### NSAG assessment modules — provisional C
 
-`nsag-m1` and `nsag-m2` are accepted C dispositions with release holds. `nsag-m3` through `nsag-m15` remain provisional C records pending separate crawls. All fifteen are linked from the NSAG case study but should remain components unless evidence establishes an independently coherent product. Each is a deployed consumer interface and therefore requires a separate crawl assignment.
+`nsag-m1` through `nsag-m15` are accepted C dispositions with release holds. All fifteen are linked from the NSAG case study and remain components; no separate portfolio cards should be created. Their individual dossiers govern remediation and evidence language.
 
 ### Other Vercel projects
 
@@ -94,11 +142,11 @@ The following repositories are absent as canonical case studies and need review.
 
 ### Alternate, adjacent, or potentially independent builds
 
-- `aiapc-site` — U
-- `clerking-site` — U
-- `curriculum-licensing` — U
-- `eolpc-demo-v5` — U; compare with canonical `eolpc-demo`
-- `fadiman-atlas` — U
+- `aiapc-site` — P; independent public property, prelaunch/release-blocked; future case study after remediation
+- `clerking-site` — E; private/prelaunch high-risk legal-marketplace experiment; exclude from public portfolio for now
+- `curriculum-licensing` — C; Aloha AI component/service line, commercially release-blocked
+- `eolpc-demo-v5` — D; superseded predecessor of canonical `eolpc-demo`; canonical has immediate privacy release hold
+- `fadiman-atlas` — E; access-restrict and keep off public portfolio pending authorization/rights/safety reconstruction
 - `field-intelligence-os` — U
 - `myelin-ce` — U
 - `rn-agent-os` — U
