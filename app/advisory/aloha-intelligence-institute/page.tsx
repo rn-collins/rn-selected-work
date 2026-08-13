@@ -1,5 +1,11 @@
+import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "Aloha Intelligence Institute",
+  description: "An independently developed, non-commissioned institutional-design proposal by RN Collins.",
+};
 
 export default function AiiCase() {
   return (
@@ -12,7 +18,7 @@ export default function AiiCase() {
           <Link href="/#work">Selected work</Link>
         </div>
       </nav>
-      <article className="case shell">
+      <article id="main-content" tabIndex={-1} className="case shell">
         <p className="eyebrow">Institutional design proposal · July 2026</p>
         <h1>Aloha Intelligence Institute</h1>
         <p className="caseStatus">
@@ -110,6 +116,7 @@ export default function AiiCase() {
           <Link className="textlink" href="/">
             Return to selected work →
           </Link>
+          <Link className="textlink" href="/contact">Start a conversation →</Link>
         </div>
       </article>
     </main>
