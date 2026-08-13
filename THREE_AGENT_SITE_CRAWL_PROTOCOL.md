@@ -2,7 +2,7 @@
 
 Version: August 12, 2026
 
-Operational status: Waves 1 and 2 Stage A were completed and accepted August 12, 2026. Their dispositions are recorded in `MASTER_ASSET_RECONCILIATION.md`. Stage B remediation remains separate. Wave 3 Stage A is authorized for `nsag-m3`, `nsag-m4`, and `nsag-m5`.
+Operational status: Waves 1–8 Stage A were completed and accepted August 12, 2026. Their dispositions are recorded in `MASTER_ASSET_RECONCILIATION.md`. All fifteen NSAG modules now have individual dossiers. A P0 privacy incident was identified on canonical `eolpc-demo`; further ordinary crawl waves are paused until containment is authorized and recorded. Stage B remediation otherwise remains separate.
 
 ## Purpose
 
