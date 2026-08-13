@@ -1,0 +1,103 @@
+{
+  "asset": "nsag-m6",
+  "audit_date": "2026-08-12",
+  "deployment": "https://nsag-m6.vercel.app/",
+  "repository": "rn-collins/nsag-m6",
+  "commit": "a862cf42d30856ff56edef0aa1666b38e684572a",
+  "disposition": "C",
+  "readiness": "release-blocked broken prototype",
+  "deployment_source_match": {
+    "verified": true,
+    "html_bytes": 71351,
+    "git_blob_sha": "b4e7ebbb2432d7e982bc0f91c6398173fb649a3a"
+  },
+  "routes": [
+    {"url":"https://nsag-m6.vercel.app/","status":200,"classification":"broken","note":"Static interface loads, but core assessment blocks after first answer because Chart.js is CSP-blocked."},
+    {"url":"https://nsag-m6.vercel.app/sitemap.xml","status":404,"classification":"broken","note":"HTML advertises this resource."},
+    {"url":"https://nsag-m6.vercel.app/robots.txt","status":404,"classification":"missing"},
+    {"url":"https://nsag-m6.vercel.app/api/track","status":404,"classification":"broken","note":"Client attempts page-view and scroll-depth POSTs."},
+    {"url":"https://nsag-m6.vercel.app/_vercel/insights/script.js","status":404,"classification":"broken"},
+    {"url":"https://nsag-m6.vercel.app/_vercel/speed-insights/script.js","status":200,"classification":"verified"},
+    {"url":"https://nsag-api.vercel.app/api/lead","status":200,"method":"OPTIONS","classification":"unverified","note":"CORS and POST are advertised; no consequential POST or persistence/email test was performed."}
+  ],
+  "external_dependencies": [
+    {"url":"https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js","origin_status":200,"browser_status":"blocked by CSP","classification":"broken"},
+    {"url":"https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js","origin_status":200,"browser_status":"blocked by CSP","classification":"broken"},
+    {"url":"https://nsag-m5.vercel.app","status":200,"classification":"verified destination"},
+    {"url":"https://nsag-m1.vercel.app","status":200,"classification":"verified destination"},
+    {"url":"https://nsag-m7.vercel.app","status":200,"classification":"verified destination"},
+    {"url":"https://nsag-site.vercel.app/advisory","status":200,"classification":"verified destination"},
+    {"url":"https://aloha-ai-consulting.vercel.app","status":200,"classification":"verified destination"},
+    {"url":"https://rn-portfolio-khaki.vercel.app","status":200,"classification":"verified legacy destination"},
+    {"url":"https://outlook.office.com/bookwithme/user/3ff7c8299177431a8fc2b099238c5e43@northeastern.edu?anonymous&ismsaljsauthenabled&ep=plink","classification":"unverified consequential booking destination"}
+  ],
+  "state_model": [
+    "intro",
+    "sector selector",
+    "questions 1-12",
+    "email gate",
+    "cinematic tier reveal",
+    "results",
+    "report/share/print/retake/toolkit/advisory actions"
+  ],
+  "controls": [
+    {"control":"Begin the Challenge","result":"opens sector selector","classification":"verified from code; live browser unavailable"},
+    {"control":"four sector choices","result":"enables Continue and stores a value that is never used","classification":"simulated personalization"},
+    {"control":"Continue","result":"opens question 1","classification":"verified from code; live browser unavailable"},
+    {"control":"48 answer buttons","result":"first click stores score, disables all four options, then throws in updateRadar before advancing","classification":"broken"},
+    {"control":"A/B/C/D keyboard shortcuts","result":"invoke visible option when assessment screen is active","classification":"partial; inaccessible state model"},
+    {"control":"Back","result":"function exists but no control is rendered","classification":"missing/dead code"},
+    {"control":"email input and See My Reflection","result":"normal journey unreachable; weak client validation; intended API POST ignores outcome","classification":"broken/unverified"},
+    {"control":"PDF report","result":"promised immediate download; generator is never called and jsPDF is CSP-blocked","classification":"broken"},
+    {"control":"Copy Results","result":"clipboard code exists only on unreachable results","classification":"unverified"},
+    {"control":"Share Result","result":"Web Share or clipboard fallback code exists only on unreachable results","classification":"unverified"},
+    {"control":"Print Result","result":"window.print code exists only on unreachable results","classification":"unverified"},
+    {"control":"Retake Challenge","result":"reload code exists only on unreachable results","classification":"unverified"},
+    {"control":"Join M6 Toolkit Waitlist — $500","result":"posts without checking success, then asserts enrollment and one-day personal response","classification":"simulated/misleading"},
+    {"control":"Contact the Architect open/cancel","result":"inline modal toggles display","classification":"code-present; accessibility deficient"},
+    {"control":"Contact form Send","result":"closes on any resolved HTTP response and silently ignores rejection","classification":"unverified/misleading failure handling"}
+  ],
+  "assessment": {
+    "questions": 12,
+    "dimensions": 6,
+    "items_per_dimension": 2,
+    "answer_scores": [1,2,3,4],
+    "tier_cutoffs_mean": {"PIONEERING":3.5,"EMERGING":2.5,"DEVELOPING":1.5,"EARLY_STAGE":"below 1.5"},
+    "dimension_bands_sum": {"Strong":"7-8","Partial":"5-6","Emerging":"3-4","Absent":"2"},
+    "validity": "not established",
+    "measurement_finding": "Each dimension's two items are exact duplicates, and every dimension uses the same generic compound response ladder. The instrument measures repeated self-reported adoption of one bundled governance template, not six distinct constructs."
+  },
+  "data_flows": [
+    {"data":"UTM parameters","destination":"sessionStorage","classification":"verified in source"},
+    {"data":"page view, referrer, UTM, scroll depth","destination":"same-origin /api/track","classification":"broken endpoint"},
+    {"data":"result email, module, tier, percentage, six dimension sums, timestamp","destination":"nsag-api /api/lead","classification":"intended; persistence and delivery unverified"},
+    {"data":"contact name, email, message","destination":"nsag-api /api/lead","classification":"intended; persistence and delivery unverified"},
+    {"data":"toolkit email, source, message, timestamp","destination":"nsag-api /api/lead","classification":"intended; UI asserts success without verification"}
+  ],
+  "claim_risk_summary": [
+    "Fooks et al. studied British American Tobacco CSR, not a validated cross-sector civic-sponsorship maturity model.",
+    "The statement that civic institutions become participants in lobbying strategies regardless of intent is an overgeneralized inference.",
+    "Federal tax, gift-acceptance, procurement, ethics and First Amendment rules differ from private nonprofit governance and are omitted.",
+    "The 20% revenue ceiling, quarterly independent monitoring and maturity tiers are authored proposals, not universal legal or evidence-based standards.",
+    "Commercial outcome claims and both anonymous PIONEERING examples are unsupported."
+  ],
+  "priority_defects": {
+    "P0": [
+      "CSP blocks Chart.js; assessment cannot advance after first response."
+    ],
+    "P1": [
+      "Promised PDF is never invoked and its dependency is blocked.",
+      "Instrument does not measure six stated dimensions: all item pairs are duplicates and all answer ladders are generic.",
+      "Civic/government/legal framing lacks jurisdiction, public-body, procurement, gift-acceptance and constitutional boundaries.",
+      "Hidden screens remain exposed to assistive technology and the modal is not accessible.",
+      "Lead forms can claim or imply success without a successful API response."
+    ]
+  },
+  "verification_boundaries": [
+    "No consequential result, contact, waitlist, booking or purchase submission was made.",
+    "No installed browser binary was available; browser automation could not be completed. Runtime failure is deterministic from matching deployed source, CSP and dependency origins, but live focus/reflow/device observations remain required.",
+    "API persistence, report email, retention, deletion, rate limiting and abuse controls remain unverified.",
+    "Toolkit existence, six-source evidence base, templates, terms and fulfillment remain unverified.",
+    "No psychometric, content-validity, reliability or outcome validation was supplied."
+  ]
+}
