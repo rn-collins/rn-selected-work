@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { projects, writing } from "../lib/portfolio";
 import { publicBuilds } from "../lib/public-builds";
+import { buildCollections, institutionalBuildSlugs } from "../lib/build-collections";
+import { publicationArchive, publicationCounts } from "../lib/publication-archive";
 
 export default function Home() {
   return (
@@ -97,25 +99,55 @@ export default function Home() {
       </section>
       <section id="build-atlas" className="atlas shell">
         <div className="sectionhead">
-          <p className="eyebrow">Build atlas</p>
-          <p>{publicBuilds.length} additional live systems, tools, courses, observatories, and public resources.</p>
+          <p className="eyebrow">Complete build atlas</p>
+          <p>{publicBuilds.length} additional builds, organized by the work each one is designed to do.</p>
         </div>
-        <div className="atlasgrid">
-          {publicBuilds.map((build, index) => (
-            <article className="atlascard" key={build.slug}>
-              <div className="atlasmeta">
-                <span>{String(index + projects.length + 1).padStart(2, "0")}</span>
-                <span>{build.category}</span>
-              </div>
-              <h2>{build.title}</h2>
-              <p className="atlasPractice">{build.practice} · {build.status}</p>
-              <p>{build.purpose}</p>
-              <div className="atlasActions">
-                <Link href={`/work/${build.slug}`}>Read case study →</Link>
-                <a href={build.live} target="_blank" rel="noreferrer">Open live build ↗</a>
-              </div>
-            </article>
+        <nav className="collectionIndex" aria-label="Build collections">
+          {buildCollections.map((collection) => (
+            <a href={`#collection-${collection.id}`} key={collection.id}>
+              <span>{collection.number}</span>{collection.title}
+            </a>
           ))}
+        </nav>
+        <div className="atlasCollections">
+          {buildCollections.map((collection) => {
+            const builds = collection.slugs
+              .map((slug) => publicBuilds.find((build) => build.slug === slug))
+              .filter((build): build is (typeof publicBuilds)[number] => Boolean(build));
+
+            return (
+              <section className="atlasCollection" id={`collection-${collection.id}`} key={collection.id}>
+                <div className="collectionHead">
+                  <span>{collection.number}</span>
+                  <div>
+                    <h2>{collection.title}</h2>
+                    <p>{collection.description}</p>
+                  </div>
+                  <small>{builds.length} builds</small>
+                </div>
+                <div className="atlasgrid">
+                  {builds.map((build) => {
+                    const overallIndex = publicBuilds.findIndex((item) => item.slug === build.slug);
+                    return (
+                      <article className="atlascard" key={build.slug}>
+                        <div className="atlasmeta">
+                          <span>{String(overallIndex + projects.length + 1).padStart(2, "0")}</span>
+                          <span>{build.category}</span>
+                        </div>
+                        <h3>{build.title}</h3>
+                        <p className="atlasPractice">{build.practice} · {build.status}</p>
+                        <p>{build.purpose}</p>
+                        <div className="atlasActions">
+                          <Link href={`/work/${build.slug}`}>Read case study →</Link>
+                          <a href={build.live} target="_blank" rel="noreferrer">Open live build ↗</a>
+                        </div>
+                      </article>
+                    );
+                  })}
+                </div>
+              </section>
+            );
+          })}
         </div>
       </section>
       <section className="advisory">
@@ -146,6 +178,28 @@ export default function Home() {
                 NSAG is an original body of work with its own framework, evidence base,
                 assessments, intelligence products, education, advisory practice,
                 and applied implementations.
+              </small>
+            </article>
+            <article>
+              <h3>Applied governance systems</h3>
+              <p>
+                NSAG’s institutional work is not one website. It extends into
+                governance infrastructure, assessments, neuroarchitecture,
+                sport, women’s health, developing brains, health education,
+                creator rights, and applied nervous-system design.
+              </p>
+              <div className="institutionalLinks">
+                {institutionalBuildSlugs.map((slug) => {
+                  const build = publicBuilds.find((item) => item.slug === slug);
+                  return build ? (
+                    <Link href={`/work/${build.slug}`} key={build.slug}>{build.title} →</Link>
+                  ) : null;
+                })}
+              </div>
+              <small>
+                These builds are cross-listed here because they operationalize
+                institutional or governance questions; each retains its primary
+                home in the complete build atlas.
               </small>
             </article>
             <article>
@@ -193,7 +247,7 @@ export default function Home() {
       <section id="writing" className="writing shell">
         <div className="sectionhead">
           <p className="eyebrow">Published work</p>
-          <p>Specific pieces, selected for different kinds of thinking.</p>
+          <p>Selected close reads, plus a complete archive of {publicationArchive.length} publication records.</p>
         </div>
         <div className="articlecols">
           <Publication
@@ -201,6 +255,23 @@ export default function Home() {
             items={writing.fnm}
           />
           <Publication title="Cannabis Law Report" items={writing.clr} />
+        </div>
+        <div className="archiveCallout">
+          <div>
+            <p className="eyebrow">Complete editorial archive</p>
+            <h2>Every located byline, not only the featured six.</h2>
+          </div>
+          <div>
+            <p>
+              {publicationCounts["Fat Nugs Magazine"]} Fat Nugs Magazine articles · {publicationCounts["Cannabis Law Report"]} Cannabis Law Report publication records · {publicationCounts["Cannabis Law Journal"]} Cannabis Law Journal editions.
+            </p>
+            <p className="archiveNote">
+              Searched under RN Collins, Rayven-Nikkita Collins, Nikkita Collins,
+              and RN Williams. Duplicate and republished URLs are labeled rather
+              than silently counted as new works.
+            </p>
+            <Link className="button" href="/writing">Browse the complete archive →</Link>
+          </div>
         </div>
       </section>
       <footer className="footer">
