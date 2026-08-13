@@ -2,7 +2,7 @@
 
 Version: August 12, 2026
 
-Operational status: Wave 1 Stage A was completed and accepted August 12, 2026. The three dispositions are recorded in `MASTER_ASSET_RECONCILIATION.md`; all three assets resolved as duplicate or superseded deployments rather than new portfolio cards. Stage B remediation remains separate. Wave 2 Stage A is authorized for `nsag-site`, `nsag-m1`, and `nsag-m2`.
+Operational status: Waves 1 and 2 Stage A were completed and accepted August 12, 2026. Their dispositions are recorded in `MASTER_ASSET_RECONCILIATION.md`. Stage B remediation remains separate. Wave 3 Stage A is authorized for `nsag-m3`, `nsag-m4`, and `nsag-m5`.
 
 ## Purpose
 
