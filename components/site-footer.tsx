@@ -1,0 +1,3 @@
+import Link from "next/link";
+import { footerNavigation } from "../lib/site-navigation";
+export function SiteFooter(){return <footer className="siteFooter"><div className="shell siteFooterGrid"><div><p className="eyebrow">RN</p><h2>Find the break.<br/><em>Choose the form.</em></h2></div><nav aria-label="Footer navigation" className="siteFooterLinks">{footerNavigation.map((link)=><Link href={link.href} key={link.href}>{link.label}</Link>)}</nav><div className="siteFooterIdentity"><p>Rayven-Nikkita (RN) Collins<br/>Honolulu, Hawaiʻi</p><a href="https://www.linkedin.com/in/rn-collins" target="_blank" rel="noreferrer">LinkedIn ↗</a><p className="note">Research, systems, selected work, and organization-specific inquiry.</p></div></div></footer>}

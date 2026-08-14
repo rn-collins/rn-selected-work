@@ -128,7 +128,11 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
         </Link>
         <div className="navlinks">
           <Link href="/#build-atlas">All builds</Link>
-          <a href={build.live} target="_blank" rel="noreferrer">Open build ↗</a>
+          {build.promoteLive !== false ? (
+            <a href={build.live} target="_blank" rel="noreferrer">Open audited artifact ↗</a>
+          ) : (
+            <span className="availability">Public link held pending remediation</span>
+          )}
         </div>
       </nav>
       <article className="case shell">
@@ -136,7 +140,7 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
         <h1>{build.title}</h1>
         <p className="caseStatus">{build.status}</p>
         <p className="caseThesis">{build.purpose}</p>
-        <section className="buildPreview" aria-labelledby="build-preview-heading">
+        {build.promoteLive !== false && <section className="buildPreview" aria-labelledby="build-preview-heading">
           <div className="buildPreviewHeader">
             <div>
               <p className="eyebrow">Controlled visual demonstration</p>
@@ -164,7 +168,7 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
           <p className="buildPreviewNote">
             This sandboxed preview shows the current public interface. Open the full site to use the build in its intended window.
           </p>
-        </section>
+        </section>}
         <div className="caseGrid">
           {build.noticed && <CaseBlock label="What I noticed" text={build.noticed} />}
           {build.researched && <CaseBlock label="What I researched" text={build.researched} />}
@@ -177,9 +181,13 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
           />
         </div>
         <div className="caseActions">
-          <a className="button" href={build.live} target="_blank" rel="noreferrer">
-            Open live build ↗
-          </a>
+          {build.promoteLive !== false ? (
+            <a className="button" href={build.live} target="_blank" rel="noreferrer">
+              Open audited artifact ↗
+            </a>
+          ) : (
+            <span className="availability">Public link held pending remediation</span>
+          )}
           {build.source && (
             <a className="button secondary" href={build.source} target="_blank" rel="noreferrer">
               Inspect technical source ↗

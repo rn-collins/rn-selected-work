@@ -18,11 +18,8 @@ export const buildCollections: BuildCollection[] = [
     slugs: [
       "sovereign-stack",
       "gapi",
-      "narch",
       "sport-nsag",
-      "womens-neuro-health",
       "ai-for-developing-brains",
-      "cannabis-healthcare-impact-assessment",
       "creator-rights-framework",
     ],
   },

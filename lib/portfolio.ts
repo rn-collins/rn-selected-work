@@ -78,48 +78,48 @@ export const projects: Project[] = [
     kind: "Research + intelligence systems",
     title: "Psychedelic Operations Intelligence",
     shortTitle: "Psychedelic Operations",
-    status: "Private working system · controlled demonstration",
+    status: "Public controlled prototype · release-blocked",
     thesis:
       "Turn a fast-moving legal and scientific field into operational intelligence.",
     summary:
-      "A structured dashboard and database environment for organizing regulatory activity, scientific evidence, organizations, programs, and operational signals across psychedelic medicine and policy.",
+      "A public monitoring prototype for organizing regulatory and operational signals across psychedelic medicine and policy, with important provenance, data-shape, filtering, and source-quality limitations documented in the case study.",
     tags: ["Data architecture", "Field monitoring", "Decision support"],
     noticed:
       "The psychedelic field moves across law, clinical research, state programs, professional education, organizations, funding, and public claims. Conventional news feeds preserve documents but not the relationships needed for decisions.",
     researched:
       "Regulatory programs, legislation, scientific evidence, institutions, professional actors, operational signals, source provenance, update cadence, and the decisions different users need to make from the same field data.",
     built:
-      "A private dashboard and structured database that connects entities, evidence, regulatory events, programs, and monitored signals. The public case study exposes the architecture and reasoning while withholding the operational dataset.",
+      "A public dashboard prototype with a visible regulatory feed, filtering interface, methodology presentation, and sweep architecture. The current feed and controls remain release-blocked pending source, schema, security, and evidence-integrity remediation.",
     serves:
       "Researchers, regulated operators, policy teams, legal professionals, educators, and organizations that need current field intelligence with source traceability.",
     demonstrates:
       "Cross-domain taxonomy, database and dashboard design, evidence provenance, monitoring logic, and decision-oriented synthesis.",
     evidenceNote:
-      "Controlled case study. The operational database remains private because it includes a maintained intelligence layer rather than a static public demo.",
+      "The public artifact is a controlled prototype, not proof of a private maintained database, comprehensive monitoring, primary-source coverage, or continuously operating alerts. Its unauthenticated sweep and current evidence defects require remediation before promotion.",
     live: "https://psychops-intel.vercel.app/",
   },
   {
     slug: "buechler-pacific",
     number: "04",
     kind: "Organization-specific concept build",
-    title: "Buechler Pacific — Claude for Small Business",
-    shortTitle: "Buechler Pacific",
-    status: "Independently initiated concept · not commissioned",
+    title: "Claude for Small Business",
+    shortTitle: "Claude for Small Business",
+    status: "Independent product-translation concept · release-blocked",
     thesis:
-      "What would useful AI look like inside a real Hawaiʻi small business—not in a generic demo?",
+      "How could a small business understand a complex AI product without mistaking a static guide for a working integration?",
     summary:
-      "A tailored, plain-English resource developed from public information about Buechler Pacific and the real adoption questions facing a Hawaiʻi small business.",
+      "A generic, plain-English Claude product guide. Its repository history preserves an independently initiated Buechler concept lineage, but the current public artifact contains no Buechler Pacific or Hawaiʻi-specific content and does not evidence a relationship, tailoring, review, approval, delivery, or use.",
     tags: ["Organizational research", "Workflow design", "AI translation"],
     noticed:
       "Small-business AI guidance often begins with features rather than work: which recurring burden matters, what information may be used, where approval belongs, and what a first low-risk workflow should accomplish.",
     researched:
-      "Anthropic's primary product materials, permissions and data-use boundaries, plan requirements, connector behavior, human approval, training resources, and the workflow realities of a specific Hawaiʻi business audience.",
+      "Anthropic product materials, permissions, data-use boundaries, plan requirements, connector behavior, human approval, and training considerations. Product and security guidance requires a current official-source review before reuse.",
     built:
-      "A branded quick-start experience that explains the product in plain language, helps a business choose a first workflow, embeds review and permission cautions, and provides an annotated primary-source desk rather than unsupported AI promises.",
+      "A static quick-start guide that explains product concepts, suggests possible workflows, and includes review and permission cautions. It does not implement a calculator, API, connector, organizational workflow, or downloadable PDF; its download control opens print.",
     serves:
       "Small-business owners and teams who need to understand where an AI workflow could be useful before adopting another tool.",
     demonstrates:
-      "Rapid organizational research, brand-sensitive explanation, primary-source discipline, responsible AI adoption framing, and a useful artifact built before a formal specification exists.",
+      "Product translation, responsible AI-adoption framing, and the ability to make a complex tool discussable before a formal specification exists.",
     live: "https://claude-smb-buechler.vercel.app/",
     repo: "https://github.com/rn-collins/claude-smb-buechler",
     image: "/evidence/buechler.png",
@@ -131,22 +131,22 @@ export const projects: Project[] = [
     kind: "Organization-specific concept build",
     title: "Keiki Robotics / Oʻahu AI",
     shortTitle: "Keiki Robotics / Oʻahu AI",
-    status: "Independently initiated concept · not commissioned",
+    status: "Independent static family-resource concept · release-blocked",
     thesis:
       "Design an emerging-technology resource around Hawaiʻi's children, families, educators, and actual pathways into robotics.",
     summary:
-      "A Hawaiʻi-grounded guide created around an Oʻahu AI robotics event, translating competition robotics into an accessible path for keiki and the adults supporting them.",
+      "A Hawaiʻi-grounded static family guide created around a publicly announced robotics event. It was independently initiated and does not evidence commission, authorization, review, endorsement, or an official relationship with Oʻahu A.I. or Island Robotics.",
     tags: ["Learning experience", "Audience design", "Hawaiʻi context"],
     noticed:
       "An exciting robotics showcase does not automatically tell a child or parent what the activity involves, which program fits their age, what it costs, or where a Hawaiʻi family can begin after the event.",
     researched:
       "Official VEX and REC Foundation program structures, age bands, construction systems, competition pathways, Hawaiʻi robotics organizations, local coaches and teams, library events, and the specific Oʻahu AI/Hawaiʻi Tech Week context.",
     built:
-      "A playful, mobile-first explainer with age-specific pathways, local entry points, evidence annotations, and next steps connected to Island Robotics, Oʻahu AI, and Hawaiʻi organizations.",
+      "A one-page, mobile-first family explainer with a browser-local checklist, myth toggles, print/share controls, and thirteen cited sources. It is not a maintained directory, team finder, enrollment pathway, offline application, or official event keepsake.",
     serves:
       "Keiki, parents, caregivers, educators, and community members who are curious about robotics but are not already fluent in the competition ecosystem.",
     demonstrates:
-      "Audience translation, youth-facing interaction design, local ecosystem research, and the ability to convert a one-time event into durable community infrastructure.",
+      "Audience translation, youth-facing interaction design, local ecosystem research, and an early concept for how one-time event information could become more useful to families.",
     live: "https://keiki-robotics-oahu-ai.vercel.app/",
     repo: "https://github.com/rn-collins/keiki-robotics-oahu-ai",
     image: "/evidence/keiki-robotics.png",
@@ -158,18 +158,18 @@ export const projects: Project[] = [
     kind: "Organization-specific concept build",
     title: "ThornCrest — Patent First Steps",
     shortTitle: "ThornCrest Patent First Steps",
-    status: "Independently initiated concept · not commissioned",
+    status: "Independent legal-education concept · release-blocked",
     thesis:
       "Help a young inventor understand the next decision before asking them to become an IP expert.",
     summary:
-      "A plain-English first-steps guide for young inventors and families, conceived around a ThornCrest Law panel at Hawaiʻi Tech Week 2026.",
+      "A plain-English static first-steps guide for young inventors and families, independently conceived around a publicly announced ThornCrest Law panel. It does not evidence commission, authorization, review, distribution, or a ThornCrest relationship.",
     tags: ["Legal service design", "Public education", "Guided intake"],
     noticed:
       "A child can leave an invention event inspired but still not know the difference between patent, trademark, copyright, and trade secret—or that public disclosure can affect rights before a family ever speaks with counsel.",
     researched:
       "USPTO and Copyright Office primary sources, patentability requirements, first-inventor-to-file, provisional applications, current fee and entity rules, pro se and pro bono assistance, Hawaiʻi's Patent and Trademark Resource Center, and youth invention resources.",
     built:
-      "A branded, interactive legal-education experience that explains the four patentability gates, corrects common myths, distinguishes forms of IP, surfaces critical timing cautions, and routes families to official and local help.",
+      "A one-page interactive legal-education guide with orientation, myth correction, IP distinctions, timing cautions, and links to official help. It is not intake, a calculator, saved progress, an actual PDF download, attorney booking, or legal service.",
     serves:
       "Young inventors, families, teachers, and first-time founders who need orientation before a professional legal conversation.",
     demonstrates:

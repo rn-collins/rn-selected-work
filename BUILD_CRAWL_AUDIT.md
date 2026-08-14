@@ -2,6 +2,22 @@
 
 Last updated: 2026-08-12 (HST)
 
+## Stage B representation remediation — tranche 01 (2026-08-13 HST)
+
+Implemented against the accepted Stage A dossiers without modifying the audited source products:
+
+- added explicit `standalone` and `promoteLive` controls to the portfolio record model;
+- removed DRU/Cannabis Healthcare Impact Assessment, NARCH, and Women’s Neuro-Health from the standalone Build Atlas count and primary collections while retaining their nested NSAG evidence routes;
+- suppressed promoted outbound links and embedded previews for those three held components;
+- replaced misleading live-product labels for Sovereign Stack, AI Build Labor Scenario Calculator, Source Integrity Audit, One-Person-Firm OS, AI for Developing Brains, Transform Observatory, Set for Life, Entheogen Atlas, Aloha Build Club, GAPI, and SPORT with audited prototype/prelaunch/release-blocked language;
+- corrected the featured Psych Ops Intel case from an unevidenced private maintained database claim to a public controlled-prototype boundary;
+- corrected Claude for Small Business, Keiki Robotics, and ThornCrest organizational relationship, functionality, and delivery claims;
+- added RN’s approved canonical portrait once on the About page as an authorship and trust signal rather than repeating it indiscriminately across product cards;
+- excluded nested non-standalone components from the promoted sitemap inventory and added canonical About, Contact, Practice, and Work routes; and
+- verified two optimized Next.js production builds: compilation, TypeScript, and static generation passed for all 58 generated pages. `git diff --check` passed. A local `next start` HTTP inspection could not run in this sandbox because Node’s network-interface discovery returned `uv_interface_addresses`; this is an environment limitation, not a build failure.
+
+This tranche corrects RN Selected Work’s representation layer. It does not clear the release blocks documented for the underlying products.
+
 ## What this ledger does
 
 This file prevents the portfolio from confusing three different levels of review:
