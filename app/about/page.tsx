@@ -19,7 +19,7 @@ export default function Page() {
         <div className="canonicalSplit">
           <figure className="caseImage portrait">
             <Image
-              src="/rn-collins-portrait.webp"
+              src="/rn-collins-portrait.svg"
               alt="Rayven-Nikkita (RN) Collins"
               width={1122}
               height={1402}
