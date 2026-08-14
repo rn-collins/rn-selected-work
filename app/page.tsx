@@ -5,6 +5,8 @@ import { buildCollections, institutionalBuildSlugs } from "../lib/build-collecti
 import { publicationArchive, publicationCounts } from "../lib/publication-archive";
 
 export default function Home() {
+  const standaloneBuilds = publicBuilds.filter((build) => build.standalone !== false);
+
   return (
     <main>
       <nav className="nav shell" aria-label="Portfolio navigation">
@@ -100,7 +102,7 @@ export default function Home() {
       <section id="build-atlas" className="atlas shell">
         <div className="sectionhead">
           <p className="eyebrow">Complete build atlas</p>
-          <p>{publicBuilds.length} additional builds, organized by the work each one is designed to do.</p>
+          <p>{standaloneBuilds.length} additional builds, organized by the work each one is designed to do.</p>
         </div>
         <nav className="collectionIndex" aria-label="Build collections">
           {buildCollections.map((collection) => (
@@ -127,7 +129,7 @@ export default function Home() {
                 </div>
                 <div className="atlasgrid">
                   {builds.map((build) => {
-                    const overallIndex = publicBuilds.findIndex((item) => item.slug === build.slug);
+                    const overallIndex = standaloneBuilds.findIndex((item) => item.slug === build.slug);
                     return (
                       <article className="atlascard" key={build.slug}>
                         <div className="atlasmeta">
@@ -139,7 +141,11 @@ export default function Home() {
                         <p>{build.purpose}</p>
                         <div className="atlasActions">
                           <Link href={`/work/${build.slug}`}>Read case study →</Link>
-                          <a href={build.live} target="_blank" rel="noreferrer">Open live build ↗</a>
+                          {build.promoteLive !== false ? (
+                            <a href={build.live} target="_blank" rel="noreferrer">Open audited artifact ↗</a>
+                          ) : (
+                            <span className="availability">Public link held pending remediation</span>
+                          )}
                         </div>
                       </article>
                     );
