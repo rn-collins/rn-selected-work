@@ -190,7 +190,7 @@ export const publicBuilds: PublicBuild[] = [
     evidence: "The live production artifact verifies 1,399 indexed editorial objects across fourteen formats, including 238 full editorial drafts, 337 quote-card objects, 563 flashcards, 112 then-versus-now comparisons, and the remaining learning and planning formats. The Research Desk exposes source-entry counts and internal editorial states, saves a local queue, and exports it. The site now states that 1,399 is an object count—not proof of external publication, peer review, licensing, independent fact-checking, or clinical authority. Third-party quotation and passage excerpts are shortened pending item-level rights review; editorial-complete and editorial-ready are internal workflow labels.",
     live: "https://psychonaut-bookworm.vercel.app/",
     source: "https://github.com/rn-collins/psychonaut-bookworm",
-  }
+  },
   {
     slug: "startup-legal-risk-monitor",
     title: "Startup Legal Risk Monitor",
