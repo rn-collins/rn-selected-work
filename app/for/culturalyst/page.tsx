@@ -1,4 +1,11 @@
 import Link from "next/link";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "For Culturalyst",
+  description: "A researched, guided view of RN Collins's work, prepared for Culturalyst.",
+  alternates: { canonical: "/for/culturalyst" },
+};
 import { projects, writing } from "../../../lib/portfolio";
 
 const featured = [

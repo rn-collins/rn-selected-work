@@ -1,4 +1,12 @@
 import Image from "next/image";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Aloha Intelligence Institute",
+  description:
+    "An independently developed institutional-design brief testing whether a proposed Hawaiʻi AI institute should exist, and in what form. Prepared for consideration; not commissioned.",
+  alternates: { canonical: "/advisory/aloha-intelligence-institute" },
+};
 import Link from "next/link";
 
 export default function AiiCase() {
@@ -82,6 +90,49 @@ export default function AiiCase() {
             </p>
           </section>
         </div>
+        <section className="verifiedRecord" aria-labelledby="brief-record">
+          <div className="verifiedRecordHead">
+            <p className="eyebrow">What the brief actually is</p>
+            <h2 id="brief-record">A test of whether the institution should exist.</h2>
+            <p className="indexStatus indexStatus--proposal">
+              <span className="indexStatusTag">Proposal</span>
+              Independently developed · July 2026 discussion draft · not commissioned or adopted
+            </p>
+          </div>
+          <div className="verifiedRecordBody">
+            <p>
+              <b>The method.</b> The brief works from primary sources — the bills
+              themselves and their legislative movement — rather than from coverage of
+              them, and maps each proposed function against the institutional
+              responsibilities that already exist. That mapping is the load-bearing part:
+              a new entity justified by functions another body already holds is a
+              duplication problem dressed as a capability problem, and it is only visible
+              if someone does the comparison line by line.
+            </p>
+            <p>
+              <b>Why the null option is on the table.</b> Institutional-design work is
+              usually commissioned by someone who has already decided the institution
+              should exist, which makes &ldquo;do not create it&rdquo; unavailable as a
+              finding. Holding it open changes what the other three paths have to prove.
+              A planning-and-design office, a networked institute and a fuller permanent
+              institute are each then tested against authority, cost, duplication, reach,
+              legitimacy and capacity rather than against each other.
+            </p>
+            <p>
+              <b>Scope discipline.</b> The proposed engagement is a bounded six-week
+              memorandum. It explicitly excludes software procurement, a statewide AI code,
+              and any commitment made without an authorised sponsor — exclusions stated up
+              front because the failure mode of this kind of work is a mandate that grows
+              quietly until nobody can say what was agreed.
+            </p>
+            <p className="indexLimits">
+              <b>What it does not establish.</b> This is a discussion draft prepared for
+              consideration. It is not a legislative finding, an endorsement, an adopted
+              plan, or a commitment by any office or institution named in it, and the
+              analysis reflects the statutory record as it stood in July 2026.
+            </p>
+          </div>
+        </section>
         <aside className="evidenceNote">
           <b>Disclosure</b>
           <p>

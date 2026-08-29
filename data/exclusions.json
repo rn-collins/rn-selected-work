@@ -1,0 +1,42 @@
+{
+  "$comment": "Builds deliberately kept out of the public index. The regeneration script reads this file, so an excluded build can never reappear by accident. Every entry must state a reason. 'silent' entries are not named anywhere in the rendered site.",
+  "exclusions": [
+    { "repo": "eolpc-demo", "reason": "Client engagement; publication forbidden by its terms.", "silent": true },
+    { "repo": "eolpc-demo-v5", "reason": "Access-gated invited-reviewer preview; publication forbidden by its terms.", "silent": true },
+    { "repo": "rn-clients", "reason": "Fees, invoices, scope and equity. Its own README forbids public linking.", "silent": true },
+    { "repo": "legal-risk-monitor", "reason": "Held private pending a credential rotation.", "silent": true },
+    { "repo": "aloha-dea-tracker", "reason": "Held private pending a credential rotation.", "silent": true },
+    { "repo": "atelier", "reason": "Single-tenant client engagement. The deployment carries a named client, their contact details, scope and terms.", "silent": true },
+    { "repo": "rooted-and-rising", "reason": "Client production plan and invoice. Commercial terms; the pages carry noindex.", "silent": true },
+    { "repo": "antithesis-ask-a-neuroscientist", "reason": "Business proposal prepared for a named firm and marked internal review. Not the author's to publish.", "silent": true },
+    { "repo": "rn-jim-ai-governance", "reason": "Engagement proposal prepared for a named individual, including terms.", "silent": true },
+    { "repo": "rn-edge-city-bhutan-2026", "reason": "Personal scholarship application to a named programme.", "silent": true },
+    { "repo": "y", "reason": "Empty repository. Nothing deployed.", "silent": true },
+
+    { "repo": "rn-selected-work", "reason": "This site. It does not index itself." },
+    { "repo": "rn-travel-command-center", "reason": "Private operational system. The deployment is gated and serves no public content." },
+    { "repo": "tech-from-here-field-kit", "reason": "Private owner workspace behind a passphrase gate." },
+    { "repo": "institutions-of-one-project-record", "reason": "Private reviewer studio behind an email and access-code gate. Its public half ships as institutions-of-one-reader." },
+    { "repo": "nsag-admin", "reason": "Internal admin dashboard behind an admin-key gate." },
+    { "repo": "rn-content-second-brain", "reason": "Internal production workspace for a client channel, with owner-only controls." },
+    { "repo": "rn-agent-os", "reason": "Self-hosted service engine. No public deployment." },
+    { "repo": "field-intelligence-os", "reason": "No production deployment." },
+    { "repo": "rn-field-app", "reason": "Deployment returns an empty page." },
+    { "repo": "rn-api", "reason": "Shared serverless API. No page to read." },
+    { "repo": "nsag-api", "reason": "Internal API for the NSAG modules. Production route returns 404." },
+    { "repo": "ask-a-neuroscientist-fashion", "reason": "No deployment." },
+    { "repo": "institutions-of-one-fashion", "reason": "No deployment." },
+    { "repo": "tech-from-here-fashion-week", "reason": "No deployment." }
+  ],
+  "aliasProjects": {
+    "$comment": "Vercel projects that are duplicates, redirects, probes or test deployments of a canonical project. Keyed by Vercel project name.",
+    "z2f-live": "zero-to-frontier",
+    "aloha-ai-consulting-an6n": "aloha-ai-consulting",
+    "aloha-ai-consulting-cert-probe": "aloha-ai-consulting",
+    "rn-content-second-brain-final-test": "rn-content-second-brain",
+    "rn-content-second-brain-site-test": "rn-content-second-brain",
+    "rn-second-brain-schema-probe": "rn-content-second-brain",
+    "rn-content-second-brain-preview": "rn-content-second-brain",
+    "hawaii-tech-week-gallery-recovered-preview": "hawaii-tech-week-project-record"
+  }
+}

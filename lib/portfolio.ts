@@ -78,7 +78,7 @@ export const projects: Project[] = [
     kind: "Research + intelligence systems",
     title: "Psychedelic Operations Intelligence",
     shortTitle: "Psychedelic Operations",
-    status: "Public controlled prototype · release-blocked",
+    status: "Live source-verified monitor · sweep overdue, reported on the build",
     thesis:
       "Turn a fast-moving legal and scientific field into operational intelligence.",
     summary:
@@ -89,13 +89,13 @@ export const projects: Project[] = [
     researched:
       "Regulatory programs, legislation, scientific evidence, institutions, professional actors, operational signals, source provenance, update cadence, and the decisions different users need to make from the same field data.",
     built:
-      "A public dashboard prototype with a visible regulatory feed, filtering interface, methodology presentation, and sweep architecture. The current feed and controls remain release-blocked pending source, schema, security, and evidence-integrity remediation.",
+      "A public dashboard over six verified official source endpoints, with a weekly sweep, a source-policy gate every candidate must clear before display, per-category sweep state, and a published collection-health block reporting how many days old the last successful sweep is. On the most recent sweep seven candidates passed the policy and forty-one were rejected as noise.",
     serves:
       "Researchers, regulated operators, policy teams, legal professionals, educators, and organizations that need current field intelligence with source traceability.",
     demonstrates:
       "Cross-domain taxonomy, database and dashboard design, evidence provenance, monitoring logic, and decision-oriented synthesis.",
     evidenceNote:
-      "The public artifact is a controlled prototype, not proof of a private maintained database, comprehensive monitoring, primary-source coverage, or continuously operating alerts. Its unauthenticated sweep and current evidence defects require remediation before promotion.",
+      "The build collects and screens; it does not verify. Screened candidates are explicitly unreviewed, and a record in the source registry means an endpoint is monitored, not that something new was published there. The last successful sweep is more than two cycles old and the site reports itself stale rather than presenting a frozen snapshot as current. This is not comprehensive monitoring, not a maintained private database, not continuously operating alerts, and not legal advice.",
     live: "https://psychops-intel.vercel.app/",
   },
   {

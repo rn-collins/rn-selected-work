@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "builds:regenerate": "node scripts/regenerate-builds.mjs",
+    "builds:check": "node scripts/regenerate-builds.mjs --check"
   },
   "dependencies": {
     "next": "16.2.6",

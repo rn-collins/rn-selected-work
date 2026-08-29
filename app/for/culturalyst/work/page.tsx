@@ -1,4 +1,11 @@
 import Link from "next/link";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "For Culturalyst — Selected work",
+  description: "Work selected for its relevance to Culturalyst's ecosystem questions.",
+  alternates: { canonical: "/for/culturalyst/work" },
+};
 import { projects } from "../../../../lib/portfolio";
 
 const selections = [

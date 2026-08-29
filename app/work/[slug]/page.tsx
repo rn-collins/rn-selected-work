@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { getProject, projects } from "../../../lib/portfolio";
 import { getPublicBuild, publicBuilds } from "../../../lib/public-builds";
+import { buildByCaseStudy, statusLabels, type Build } from "../../../lib/builds";
 
 export function generateStaticParams() {
   return [...projects, ...publicBuilds].map(({ slug }) => ({ slug }));
@@ -20,6 +21,7 @@ export async function generateMetadata({
       ? `${p?.shortTitle || build?.title} — Selected Work by RN Collins`
       : "Project not found",
     description: p?.summary || build?.purpose,
+    alternates: { canonical: `/work/${slug}` },
   };
 }
 
@@ -31,6 +33,7 @@ export default async function ProjectPage({
   const slug = (await params).slug;
   const p = getProject(slug);
   const build = getPublicBuild(slug);
+  const projectRecord = buildByCaseStudy.get(slug);
   if (build) return <PublicBuildCase build={build} />;
   if (!p)
     return (
@@ -75,6 +78,7 @@ export default async function ProjectPage({
           <CaseBlock label="Who it serves" text={p.serves} />
           <CaseBlock label="What it demonstrates" text={p.demonstrates} />
         </div>
+        {projectRecord && <VerifiedRecord build={projectRecord} />}
         {p.evidenceNote && (
           <aside className="evidenceNote">
             <b>Evidence boundary</b>
@@ -110,6 +114,53 @@ export default async function ProjectPage({
     </main>
   );
 }
+/**
+ * The verified build record, rendered from lib/build-notes.ts — the same
+ * source the generated index renders from, so a case study and the index can
+ * never disagree about a build's status.
+ */
+function VerifiedRecord({ build }: { build: Build }) {
+  return (
+    <section className="verifiedRecord" aria-labelledby="verified-record">
+      <div className="verifiedRecordHead">
+        <p className="eyebrow">Verified build record</p>
+        <h2 id="verified-record">What is actually running, and what it is not.</h2>
+        <p className={`indexStatus indexStatus--${build.statusKind}`}>
+          <span className="indexStatusTag">{statusLabels[build.statusKind]}</span>
+          {build.status}
+        </p>
+      </div>
+      <div className="verifiedRecordBody">
+        <p>
+          <b>The problem.</b> {build.problem}
+        </p>
+        <p>
+          <b>What it does.</b> {build.does}
+        </p>
+        <p>
+          <b>Built on.</b> {build.builtOn}
+        </p>
+        {build.limits && (
+          <p className="indexLimits">
+            <b>What it does not establish.</b> {build.limits}
+          </p>
+        )}
+        {build.linkHeld && (
+          <p className="indexHeld">
+            <b>Public link held.</b> {build.linkHeld}
+          </p>
+        )}
+        <p className="verifiedRecordProvenance">
+          This record is generated from the same inventory as the{" "}
+          <Link href={`/builds#${build.category}`}>complete build index</Link>: the
+          production URL was checked at the last regeneration, and the status line above
+          repeats what the build reports about itself rather than restating an intention.
+        </p>
+      </div>
+    </section>
+  );
+}
+
 function CaseBlock({ label, text }: { label: string; text: string }) {
   return (
     <section>
@@ -120,6 +171,7 @@ function CaseBlock({ label, text }: { label: string; text: string }) {
 }
 
 function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
+  const record = buildByCaseStudy.get(build.slug);
   return (
     <main>
       <nav className="nav shell" aria-label="Case study navigation">
@@ -180,6 +232,7 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
             text={build.evidence || "This portfolio record describes the verified public build and its current production destination. The underlying build remains subject to its own separate content, functional, responsive, accessibility, privacy, and release audit."}
           />
         </div>
+        {record && <VerifiedRecord build={record} />}
         <div className="caseActions">
           {build.promoteLive !== false ? (
             <a className="button" href={build.live} target="_blank" rel="noreferrer">

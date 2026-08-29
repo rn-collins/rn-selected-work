@@ -1,4 +1,12 @@
 import Link from "next/link";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Writing",
+  description:
+    "The complete located editorial archive: Fat Nugs Magazine, Cannabis Law Report, and Cannabis Law Journal publication records by RN Collins.",
+  alternates: { canonical: "/writing" },
+};
 import { publicationArchive } from "../../lib/publication-archive";
 
 const publications = [

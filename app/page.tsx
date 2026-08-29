@@ -1,12 +1,17 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { projects, writing } from "../lib/portfolio";
-import { publicBuilds } from "../lib/public-builds";
-import { buildCollections, institutionalBuildSlugs } from "../lib/build-collections";
+import { builds, institutionalBuilds, populatedCategories } from "../lib/builds";
 import { publicationArchive, publicationCounts } from "../lib/publication-archive";
 
-export default function Home() {
-  const standaloneBuilds = publicBuilds.filter((build) => build.standalone !== false);
+export const metadata: Metadata = {
+  title: "RN Selected Work",
+  description:
+    "Questions too messy for a single discipline — research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.",
+  alternates: { canonical: "/" },
+};
 
+export default function Home() {
   return (
     <main>
       <nav className="nav shell" aria-label="Portfolio navigation">
@@ -15,6 +20,7 @@ export default function Home() {
         </Link>
         <div className="navlinks">
           <a href="#work">Work</a>
+          <Link href="/builds">Build index</Link>
           <a href="#writing">Writing</a>
         </div>
       </nav>
@@ -101,59 +107,44 @@ export default function Home() {
       </section>
       <section id="build-atlas" className="atlas shell">
         <div className="sectionhead">
-          <p className="eyebrow">Complete build atlas</p>
-          <p>{standaloneBuilds.length} additional builds, organized by the work each one is designed to do.</p>
+          <p className="eyebrow">Complete build index</p>
+          <p>
+            {builds.length} builds, generated from live data rather than kept by hand.
+          </p>
         </div>
-        <nav className="collectionIndex" aria-label="Build collections">
-          {buildCollections.map((collection) => (
-            <a href={`#collection-${collection.id}`} key={collection.id}>
-              <span>{collection.number}</span>{collection.title}
-            </a>
+        <div className="indexSummaryIntro">
+          <p className="bigcopy">
+            The index behind this section is generated. A script asks GitHub what
+            repositories exist and Vercel what is deployed, checks that each production
+            URL answers, and writes the result to a data file the pages render from.
+            The previous hand-maintained list had drifted to 32 entries.
+          </p>
+          <p>
+            Each entry states the problem it addresses, what it does, what it runs on,
+            and an honest status. Retired prototypes are listed as retired, paused work
+            as paused, and thin work as thin. Client engagements, private workspaces and
+            credential-gated deployments are excluded on purpose, and the index says so.
+          </p>
+        </div>
+        <div className="indexSummaryGrid">
+          {populatedCategories.map((category) => (
+            <article key={category.id}>
+              <p className="eyebrow">{category.builds.length} builds</p>
+              <h3>{category.title}</h3>
+              <p>{category.blurb}</p>
+              <Link href={`/builds#${category.id}`}>
+                Open this section <span aria-hidden="true">→</span>
+              </Link>
+            </article>
           ))}
-        </nav>
-        <div className="atlasCollections">
-          {buildCollections.map((collection) => {
-            const builds = collection.slugs
-              .map((slug) => publicBuilds.find((build) => build.slug === slug))
-              .filter((build): build is (typeof publicBuilds)[number] => Boolean(build));
-
-            return (
-              <section className="atlasCollection" id={`collection-${collection.id}`} key={collection.id}>
-                <div className="collectionHead">
-                  <span>{collection.number}</span>
-                  <div>
-                    <h2>{collection.title}</h2>
-                    <p>{collection.description}</p>
-                  </div>
-                  <small>{builds.length} builds</small>
-                </div>
-                <div className="atlasgrid">
-                  {builds.map((build) => {
-                    const overallIndex = standaloneBuilds.findIndex((item) => item.slug === build.slug);
-                    return (
-                      <article className="atlascard" key={build.slug}>
-                        <div className="atlasmeta">
-                          <span>{String(overallIndex + projects.length + 1).padStart(2, "0")}</span>
-                          <span>{build.category}</span>
-                        </div>
-                        <h3>{build.title}</h3>
-                        <p className="atlasPractice">{build.practice} · {build.status}</p>
-                        <p>{build.purpose}</p>
-                        <div className="atlasActions">
-                          <Link href={`/work/${build.slug}`}>Read case study →</Link>
-                          {build.promoteLive !== false ? (
-                            <a href={build.live} target="_blank" rel="noreferrer">Open audited artifact ↗</a>
-                          ) : (
-                            <span className="availability">Public link held pending remediation</span>
-                          )}
-                        </div>
-                      </article>
-                    );
-                  })}
-                </div>
-              </section>
-            );
-          })}
+        </div>
+        <div className="indexSummaryFoot">
+          <Link className="button" href="/builds">
+            Read the complete build index <span aria-hidden="true">→</span>
+          </Link>
+          <p>
+            Six of these carry a longer case study, linked from their entry in the index.
+          </p>
         </div>
       </section>
       <section className="advisory">
@@ -195,17 +186,22 @@ export default function Home() {
                 creator rights, and applied nervous-system design.
               </p>
               <div className="institutionalLinks">
-                {institutionalBuildSlugs.map((slug) => {
-                  const build = publicBuilds.find((item) => item.slug === slug);
-                  return build ? (
-                    <Link href={`/work/${build.slug}`} key={build.slug}>{build.title} →</Link>
-                  ) : null;
-                })}
+                {institutionalBuilds.map((build) =>
+                  build.caseStudy ? (
+                    <Link href={`/work/${build.caseStudy}`} key={build.repo}>
+                      {build.title} →
+                    </Link>
+                  ) : (
+                    <Link href={`/builds#${build.category}`} key={build.repo}>
+                      {build.title} →
+                    </Link>
+                  ),
+                )}
               </div>
               <small>
-                These builds are cross-listed here because they operationalize
-                institutional or governance questions; each retains its primary
-                home in the complete build atlas.
+                These {institutionalBuilds.length} builds are cross-listed here because they
+                operationalize institutional or governance questions; each keeps its primary
+                home in the generated build index.
               </small>
             </article>
             <article>

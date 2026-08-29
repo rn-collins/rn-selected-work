@@ -3,6 +3,7 @@ export type SiteLink = { label: string; href: string };
 export const primaryNavigation: readonly SiteLink[] = [
   { label: "Practice", href: "/practice" },
   { label: "Selected Work", href: "/work" },
+  { label: "Build Index", href: "/builds" },
   { label: "For Organizations", href: "/for-organizations" },
   { label: "Initiatives", href: "/initiatives" },
   { label: "Writing", href: "/writing" },

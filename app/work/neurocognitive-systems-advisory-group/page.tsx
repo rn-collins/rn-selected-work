@@ -1,4 +1,12 @@
 import Link from "next/link";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Neurocognitive Systems Advisory Group",
+  description:
+    "The NSAG case study: the nervous-system-aware governance framework, its assessment modules, and the boundary between what it establishes and what it proposes.",
+  alternates: { canonical: "/work/neurocognitive-systems-advisory-group" },
+};
 
 const modules = [
   "Trauma-Informed Legal Space",
