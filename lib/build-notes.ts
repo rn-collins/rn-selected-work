@@ -120,6 +120,51 @@ export const categories: { id: CategoryId; title: string; blurb: string }[] = [
 export const buildNotes: BuildNote[] = [
   // ---------------------------------------------------------------- monitoring
   {
+    repo: "legal-risk-monitor",
+    title: "Founder Legal Radar",
+    category: "monitoring",
+    status: "Live · register checked 19 August 2026",
+    statusKind: "live",
+    problem:
+      "A founder does not have a legal department, and the legal exposures that matter to an early company are scattered across agencies that each publish separately. The usual answer is a long checklist that nobody owns, so nothing on it ever becomes an action.",
+    does:
+      "Keeps a selected register of United States startup legal exposures, each one linked to the official source and labelled by source type. Every record can be moved through a review status — unreviewed, watching, ask counsel, closed — so the register becomes a set of owned decisions rather than reading. Records can be filtered by operating profile and product exposure, saved, and exported as JSON.",
+    builtOn:
+      "A static workspace with all review state held in the browser. No account, no tracking, and nothing about which records you read leaves the machine.",
+    limits:
+      "Deliberately selected rather than comprehensive, and educational issue spotting only. It is not legal advice, creates no attorney-client relationship, and the register does not attempt to cover every exposure a company may have.",
+  },
+  {
+    repo: "aloha-dea-tracker",
+    title: "DEA Scheduling Monitor",
+    category: "monitoring",
+    status: "Live · reads the Federal Register API directly",
+    statusKind: "live",
+    problem:
+      "Controlled-substance scheduling moves through the Federal Register in several document types at once, and the ones that decide anything — final rules, proposed rules, temporary orders, quotas — arrive mixed in with registrations and routine notices. Reading it raw means sorting signal from filing traffic by hand.",
+    does:
+      "Pulls DEA documents from the Federal Register API over a rolling 180-day window and sorts them into high-signal actions, final rules, proposed actions open for comment, and quota and temporary orders. Registrations and general notices stay available as reference categories, and the counts across views reconcile to the same document set rather than being computed separately.",
+    builtOn:
+      "Scheduled collection against federalregister.gov, the primary source, with a source-health panel that reports the refresh cadence so a stale feed shows as stale.",
+    limits:
+      "Automated document discovery, not legal analysis. It tells you a document exists and what type it is; it does not tell you what it means for any particular substance, registrant, or programme.",
+  },
+  {
+    repo: "nsag-admin",
+    title: "NSAG Lead Intelligence",
+    category: "tools",
+    status: "Live · internal · admin key required",
+    statusKind: "live",
+    problem:
+      "The NSAG assessment modules each collected enquiries on their own, so there was no single place to see which modules were drawing interest, from what kinds of organisation, or whether a tier was producing anything at all.",
+    does:
+      "Aggregates enquiries across the NSAG modules into one dashboard, filterable by module and by organisation tier, with totals for leads, active modules and organisations represented, and a CSV export.",
+    builtOn:
+      "An admin-key gate in front of the dashboard; the lead data is not served until the key is accepted.",
+    limits:
+      "This is internal tooling, not a public product. It is listed here because it is part of the estate and reachable, not because there is anything on it for a visitor to use — without the key it shows only the sign-in.",
+  },
+  {
     repo: "aloha-ai-governance",
     title: "AI Governance Tracker",
     category: "monitoring",

@@ -17,16 +17,6 @@
       "silent": true
     },
     {
-      "repo": "legal-risk-monitor",
-      "reason": "Held private pending a credential rotation.",
-      "silent": true
-    },
-    {
-      "repo": "aloha-dea-tracker",
-      "reason": "Held private pending a credential rotation.",
-      "silent": true
-    },
-    {
       "repo": "atelier",
       "reason": "Single-tenant client engagement. The deployment carries a named client, their contact details, scope and terms.",
       "silent": true
@@ -71,10 +61,6 @@
     {
       "repo": "institutions-of-one-project-record",
       "reason": "Private reviewer studio behind an email and access-code gate. Its public half ships as institutions-of-one-reader."
-    },
-    {
-      "repo": "nsag-admin",
-      "reason": "Internal admin dashboard behind an admin-key gate."
     },
     {
       "repo": "rn-content-second-brain",
