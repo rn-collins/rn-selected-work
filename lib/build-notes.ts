@@ -810,7 +810,7 @@ export const buildNotes: BuildNote[] = [
       "Tracks legal and regulatory signals relevant to an international expansion across the US, UK, Germany and Poland, scoring each by business impact and likelihood, and flagging on the record which items require outside counsel confirmation before anyone acts on them.",
     builtOn: "A Next.js application on Vercel over owned Supabase infrastructure.",
     limits:
-      "Issue-spotting and regulatory intelligence only. Not legal advice; items marked as requiring outside counsel must be confirmed by an attorney before action.",
+      "That any of it was commissioned, adopted, or checked by a lawyer — 18 of the 27 signals are flagged for attorney confirmation precisely because the system does not supply it.",
     caseStudy: "burgermeister-expansion-intel",
   },
   {
