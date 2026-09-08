@@ -2,6 +2,31 @@
   "$comment": "Builds deliberately kept out of the public index. The regeneration script reads this file, so an excluded build can never reappear by accident. Every entry must state a reason. 'silent' entries are not named anywhere in the rendered site.",
   "exclusions": [
     {
+      "repo": "antithesis-ask-a-neuroscientist",
+      "reason": "Business proposal prepared for a named firm and marked internal review. Not the author's to publish.",
+      "silent": true
+    },
+    {
+      "repo": "atelier",
+      "reason": "Single-tenant client engagement. The deployment carries a named client, their contact details, scope and terms.",
+      "silent": true
+    },
+    {
+      "repo": "bennett",
+      "reason": "Client engagement. The deployment serves a deliberate blank cover and the repository is private.",
+      "silent": true
+    },
+    {
+      "repo": "chapman",
+      "reason": "Client engagement. The deployment serves a deliberate blank cover and the repository is private.",
+      "silent": true
+    },
+    {
+      "repo": "emari",
+      "reason": "Client engagement. The deployment serves a deliberate blank cover and the repository is private.",
+      "silent": true
+    },
+    {
       "repo": "eolpc-demo",
       "reason": "Client engagement; publication forbidden by its terms.",
       "silent": true
@@ -12,28 +37,38 @@
       "silent": true
     },
     {
+      "repo": "gloria",
+      "reason": "Client engagement. Not the author's to publish.",
+      "silent": true
+    },
+    {
+      "repo": "leilani",
+      "reason": "Client engagement. Not the author's to publish.",
+      "silent": true
+    },
+    {
+      "repo": "mario",
+      "reason": "Client engagement. Not the author's to publish.",
+      "silent": true
+    },
+    {
+      "repo": "nam",
+      "reason": "Client engagement. The deployment serves a deliberate blank cover and the repository is private.",
+      "silent": true
+    },
+    {
+      "repo": "ospace",
+      "reason": "Client engagement. Not the author's to publish.",
+      "silent": true
+    },
+    {
+      "repo": "ray",
+      "reason": "Client engagement. The deployment serves a deliberate blank cover and the repository is private.",
+      "silent": true
+    },
+    {
       "repo": "rn-clients",
       "reason": "Fees, invoices, scope and equity. Its own README forbids public linking.",
-      "silent": true
-    },
-    {
-      "repo": "atelier",
-      "reason": "Single-tenant client engagement. The deployment carries a named client, their contact details, scope and terms.",
-      "silent": true
-    },
-    {
-      "repo": "rooted-and-rising",
-      "reason": "Client production plan and invoice. Commercial terms; the pages carry noindex.",
-      "silent": true
-    },
-    {
-      "repo": "antithesis-ask-a-neuroscientist",
-      "reason": "Business proposal prepared for a named firm and marked internal review. Not the author's to publish.",
-      "silent": true
-    },
-    {
-      "repo": "rn-jim-ai-governance",
-      "reason": "Engagement proposal prepared for a named individual, including terms.",
       "silent": true
     },
     {
@@ -42,9 +77,67 @@
       "silent": true
     },
     {
-      "repo": "y",
-      "reason": "Empty repository. Nothing deployed.",
+      "repo": "rn-jim-ai-governance",
+      "reason": "Engagement proposal prepared for a named individual, including terms.",
       "silent": true
+    },
+    {
+      "repo": "rooted-and-rising",
+      "reason": "Client production plan and invoice. Commercial terms; the pages carry noindex.",
+      "silent": true
+    },
+    {
+      "repo": "souza",
+      "reason": "Client engagement. Not the author's to publish.",
+      "silent": true
+    },
+    {
+      "repo": "test-invalid-do-not-use",
+      "reason": "Deliberately invalid deployment, kept to prove the gate rejects it.",
+      "silent": true
+    },
+    {
+      "repo": "y",
+      "reason": "Single-page NSAG readiness instrument with no deployment of its own. The repository name is an accident of scaffolding.",
+      "silent": true
+    },
+    {
+      "repo": "field-intelligence-os",
+      "reason": "No production deployment."
+    },
+    {
+      "repo": "institutions-of-one-project-record",
+      "reason": "Private reviewer studio behind an email and access-code gate. Its public half ships as institutions-of-one-reader."
+    },
+    {
+      "repo": "nsag-api",
+      "reason": "Internal API for the NSAG modules. Production route returns 404."
+    },
+    {
+      "repo": "rn-agent-os",
+      "reason": "Self-hosted service engine. No public deployment."
+    },
+    {
+      "repo": "rn-api",
+      "reason": "Shared serverless API. No page to read."
+    },
+    {
+      "repo": "rn-collins",
+      "reason": "The GitHub profile README. Not a build.",
+      "silent": false
+    },
+    {
+      "repo": "rn-content-second-brain",
+      "reason": "Internal production workspace for a client channel, with owner-only controls."
+    },
+    {
+      "repo": "rn-estate-tools",
+      "reason": "Command-line tooling, not a site. It is the ship gate every build here has to pass, and it keeps a written record of the twelve ways it has been wrong.",
+      "silent": false
+    },
+    {
+      "repo": "rn-field-app",
+      "reason": "Deployment returns an empty page."
     },
     {
       "repo": "rn-selected-work",
@@ -57,51 +150,6 @@
     {
       "repo": "tech-from-here-field-kit",
       "reason": "Private owner workspace behind a passphrase gate."
-    },
-    {
-      "repo": "institutions-of-one-project-record",
-      "reason": "Private reviewer studio behind an email and access-code gate. Its public half ships as institutions-of-one-reader."
-    },
-    {
-      "repo": "rn-content-second-brain",
-      "reason": "Internal production workspace for a client channel, with owner-only controls."
-    },
-    {
-      "repo": "rn-agent-os",
-      "reason": "Self-hosted service engine. No public deployment."
-    },
-    {
-      "repo": "field-intelligence-os",
-      "reason": "No production deployment."
-    },
-    {
-      "repo": "rn-field-app",
-      "reason": "Deployment returns an empty page."
-    },
-    {
-      "repo": "rn-api",
-      "reason": "Shared serverless API. No page to read."
-    },
-    {
-      "repo": "nsag-api",
-      "reason": "Internal API for the NSAG modules. Production route returns 404."
-    },
-    {
-      "repo": "ask-a-neuroscientist-fashion",
-      "reason": "No deployment."
-    },
-    {
-      "repo": "institutions-of-one-fashion",
-      "reason": "No deployment."
-    },
-    {
-      "repo": "tech-from-here-fashion-week",
-      "reason": "No deployment."
-    },
-    {
-      "repo": "rn-estate-tools",
-      "reason": "Command-line tooling, not a site. It is the ship gate every build here has to pass, and it keeps a written record of the twelve ways it has been wrong.",
-      "silent": false
     }
   ],
   "aliasProjects": {

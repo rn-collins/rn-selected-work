@@ -740,6 +740,66 @@ export const buildNotes: BuildNote[] = [
 
   // ------------------------------------------------------------------ records
   {
+    repo: "future-professional-profiles",
+    title: "Future Professional Profiles",
+    category: "practice",
+    status: "Live · concept line",
+    statusKind: "prototype",
+    problem:
+      "A professional profile is normally written by its subject, which makes it a statement of intent rather than a piece of evidence, and leaves no way to tell a researched position from a self-description.",
+    does:
+      "Builds profiles from researched material instead: each sets out a position, the evidence behind it, and a publishing approach that follows from both.",
+    builtOn:
+      "A research directory holding the source material each profile is built from, kept separate from the published versions so the two never blur.",
+    limits:
+      "These are concept profiles. Nothing here was commissioned or agreed with a subject, and no profile represents anyone's actual plans.",
+  },
+  {
+    repo: "ask-a-neuroscientist-fashion",
+    title: "The Dressed Nervous System",
+    category: "atlases",
+    status: "Live · seven rooms, fifty claim records",
+    statusKind: "live",
+    problem:
+      "Clothing and the nervous system is a subject that rewards a confident sentence and punishes a careful one. The striking findings — that a garment measurably changes how you think — are the ones that travelled furthest and replicated worst, and popular writing repeats them in the same voice it uses for the settled material.",
+    does:
+      "Separates the compelling experience from the evidence across seven installed rooms, one per question: what clothing does as pressure, texture, memory, rhythm, role and social signal. Fifty claim records each name the measure, the source, the evidence status, and the conclusion the finding cannot carry.",
+    builtOn:
+      "Twenty-two traceable Open Access objects from public collections, embedded under their own terms with canonical records and download links. No AI imagery anywhere in the exhibition.",
+    limits:
+      "A claim record states what a study measured, not what it proved. Several rooms rest on narrow experiments that have not replicated, and the rooms say so rather than dropping them.",
+  },
+  {
+    repo: "institutions-of-one-fashion",
+    title: "Institutions of One × Fashion",
+    category: "records",
+    status: "Live · 44 dossiers across four rooms",
+    statusKind: "live",
+    problem:
+      "Fashion is where singular authority is most visible and least examined: the house carries one name, and the question of what actually makes that authority transferable, ownable and survivable is answered with biography instead of structure.",
+    does:
+      "Asks what allows one person's authority to become legible, transferable, owned and durable, across four rooms — Build, Carry, Control, Continue — holding 44 evidence-mapped dossiers. Each room takes one question: what makes the work recognisably yours, how it travels beyond your body, who owns the name and the leverage, and what survives absence, sale, succession or death.",
+    builtOn:
+      "The Institutions of One research programme, applied to a field that makes its subject unusually observable. Not biography and not brand study — the subject is institutional engineering.",
+    limits:
+      "An exhibition, not a survey. The dossiers are selected because they make a structural question legible, not because they are representative of the industry.",
+  },
+  {
+    repo: "tech-from-here-fashion-week",
+    title: "Signal / Seam",
+    category: "records",
+    status: "Live · Edition 01, London · seven systems, twenty-one claims",
+    statusKind: "live",
+    problem:
+      "Fashion Week is covered as spectacle, which leaves the technical city underneath it undocumented: the invitation that determines entry, the staging that manufactures attention, the camera that establishes the transferable view, and the records that decide what survives the week.",
+    does:
+      "Cuts the temporary city open across seven systems — entry, staging, image, distribution, casting, wholesale, archive — carrying three claim records each. The interface gives uncertainty the same visual weight as fact, so a supported claim and an unsupported one are never presented alike.",
+    builtOn:
+      "Public evidence only, with an editable kit published alongside each system so the working material is inspectable rather than described.",
+    limits:
+      "Edition 01 covers London. The seven-city frame is the intended shape, not the delivered one, and nothing here should be read as covering the others.",
+  },
+  {
     repo: "tech-from-here-amsterdam-eindhoven",
     title: "Tech From Here: Amsterdam + Eindhoven",
     category: "records",
