@@ -974,38 +974,48 @@ export const buildNotes: BuildNote[] = [
   },
 ];
 
-/** The fifteen retired NSAG prototype modules, listed rather than quietly dropped. */
-const retiredNsagModules: [string, string, string][] = [
-  ["nsag-m1", "M1", "Governance & Accountability"],
-  ["nsag-m2", "M2", "Risk & Compliance"],
-  ["nsag-m3", "M3", "Privacy & Data Protection"],
-  ["nsag-m4", "M4", "AI Governance"],
-  ["nsag-m5", "M5", "Cybersecurity"],
-  ["nsag-m6", "M6", "Quality Systems"],
-  ["nsag-m7", "M7", "Workforce Competency"],
-  ["nsag-m8", "M8", "Accessibility"],
-  ["nsag-m9", "M9", "Research Integrity"],
-  ["nsag-m10", "M10", "Clinical Governance"],
-  ["nsag-m11", "M11", "Education Standards"],
-  ["nsag-m12", "M12", "Public-Sector Assurance"],
-  ["nsag-m13", "M13", "Vendor Assurance"],
-  ["nsag-m14", "M14", "Measurement & Evaluation"],
-  ["nsag-m15", "M15", "Implementation Readiness"],
+/**
+ * The fifteen NSAG modules.
+ *
+ * Each was first published as its own deployment; those standalone deployments were
+ * retired on 15 August 2026 and the hostnames now serve a signpost so links already
+ * published against them keep resolving. The modules themselves are current and live on
+ * the NSAG site. This table used to carry a generic governance taxonomy — "Risk &
+ * Compliance", "Vendor Assurance" — which matched none of them.
+ */
+const nsagModules: [string, string, string][] = [
+  ["nsag-m1", "M1", "Trauma-Informed Legal Space"],
+  ["nsag-m2", "M2", "AI Legal Navigation"],
+  ["nsag-m3", "M3", "Psychedelic Harm Reduction"],
+  ["nsag-m4", "M4", "Cannabis Public Health Infrastructure"],
+  ["nsag-m5", "M5", "Biophilic Civic Infrastructure"],
+  ["nsag-m6", "M6", "Ethical Civic Sponsorship"],
+  ["nsag-m7", "M7", "Conscious Cities"],
+  ["nsag-m8", "M8", "Burnout Recovery Infrastructure"],
+  ["nsag-m9", "M9", "Cannabis Healthcare Visibility"],
+  ["nsag-m10", "M10", "Healthcare Built Environment"],
+  ["nsag-m11", "M11", "Medical Technology and Evidence Standards"],
+  ["nsag-m12", "M12", "Nervous-System-Aware Education Systems"],
+  ["nsag-m13", "M13", "Traditional and Complementary Medicine Governance"],
+  ["nsag-m14", "M14", "Space Governance and Interplanetary Jurisdiction"],
+  ["nsag-m15", "M15", "Isolation, Confinement and Extreme Environment Governance"],
 ];
 
-for (const [repo, code, domain] of retiredNsagModules) {
+for (const [repo, code, subject] of nsagModules) {
+  const slug = code.toLowerCase();
   buildNotes.push({
     repo,
-    title: `NSAG ${code} — ${domain}`,
-    category: "retired",
-    status: "Retired · deployment kept online as a record, not maintained",
-    statusKind: "retired",
-    problem: `One of fifteen prototype modules that split institutional governance into separate assessable domains. This one covered ${domain.toLowerCase()}.`,
+    title: `NSAG ${code} — ${subject}`,
+    category: "records",
+    status: "Live on the NSAG site · this address is a signpost",
+    statusKind: "live",
+    problem: `One of fifteen modules setting out the evidence base for a single institutional design problem. This one is ${subject.toLowerCase()}.`,
     does:
-      "Serves a retirement notice. The module's assessment is no longer available and the page says so; the deployment stays up so that links to it resolve to an honest statement rather than a 404 or, worse, a working-looking form.",
-    builtOn: "A static page on Vercel.",
+      `States the evidence base for the problem, the six governance dimensions the module assesses, and what it does and does not establish. The module is published and free to read at nsag-site.vercel.app/${slug}.`,
+    builtOn:
+      "Fifteen separate deployments originally, one per module, which meant scope, evidence and release status had to be maintained in fifteen places. They were consolidated onto the NSAG site on 15 August 2026.",
     limits:
-      "Retired. It is not maintained, it should not be treated as a current product, and the current advisory work lives on the NSAG site instead.",
+      `This hostname is not the module. It serves a signpost so that links published against the old standalone deployment keep resolving rather than 404ing. The module itself is current at nsag-site.vercel.app/${slug}.`,
   });
 }
 

@@ -115,9 +115,9 @@ async function probe(url) {
 function readNoteKeys() {
   const source = readFileSync(join(ROOT, "lib", "build-notes.ts"), "utf8");
   const keys = [...source.matchAll(/^\s{4}repo:\s*"([a-z0-9-]+)"/gm)].map((m) => m[1]);
-  // The retired NSAG modules are generated from a tuple table rather than
-  // written out one by one, so pick those up too.
-  const table = source.match(/retiredNsagModules[\s\S]*?\n\];/);
+  // The NSAG module notes are generated from a tuple table rather than written
+  // out one by one, so pick those up too.
+  const table = source.match(/nsagModules[\s\S]*?\n\];/);
   if (table) keys.push(...[...table[0].matchAll(/\["([a-z0-9-]+)",/g)].map((m) => m[1]));
   return new Set(keys);
 }
