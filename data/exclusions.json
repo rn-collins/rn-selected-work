@@ -114,10 +114,6 @@
       "reason": "Internal API for the NSAG modules. Production route returns 404."
     },
     {
-      "repo": "rn-agent-os",
-      "reason": "Self-hosted service engine. No public deployment."
-    },
-    {
       "repo": "rn-api",
       "reason": "Shared serverless API. No page to read."
     },

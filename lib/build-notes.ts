@@ -740,6 +740,21 @@ export const buildNotes: BuildNote[] = [
 
   // ------------------------------------------------------------------ records
   {
+    repo: "rn-agent-os",
+    title: "Agent OS",
+    category: "tools",
+    status: "Live · one endpoint hosted, the rest self-hosted",
+    statusKind: "live",
+    problem:
+      "Brand management runs on judgement calls that nobody records: whether a post was disclosed, whether a claim is defensible, and who signed off. The evidence for those decisions usually exists only in somebody's inbox.",
+    does:
+      "Coordinates agents that read public or permissioned content, grade the evidence behind each claim, and surface disclosure and claims risk for human review, with a sign-off gate before anything is treated as settled. The Disclosure and Claims agent is hosted and answers directly: given a post, it returns whether it reads as paid, whether disclosure is present, and each claim it found with a category and a risk level.",
+    builtOn:
+      "A nine-table evidence model on Postgres with pgvector, an orchestrator that routes to a hosted model, a local one, or a deterministic fallback so it never hard-fails offline, and five agents. Seven containers in total, of which one — the part needing no database, no key and no local model — is deployed publicly.",
+    limits:
+      "Public and permissioned data only, and not legal advice: it surfaces risk for a person and their counsel to read. The hosted endpoint is not a hosted engine — evidence storage, retrieval, the local model, workflows and dashboards all still require the self-hosted stack.",
+  },
+  {
     repo: "future-professional-profiles",
     title: "Future Professional Profiles",
     category: "practice",
