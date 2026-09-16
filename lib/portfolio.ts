@@ -153,16 +153,16 @@ export const projects: Project[] = [
     imageAlt: "Preview of the Hawaiʻi keiki robotics guide",
   },
   {
-    slug: "thorncrest-patent-first-steps",
+    slug: "patent-first-steps",
     number: "06",
-    kind: "Organization-specific concept build",
-    title: "ThornCrest — Patent First Steps",
-    shortTitle: "ThornCrest Patent First Steps",
-    status: "Independent legal-education concept · release-blocked",
+    kind: "Independent build",
+    title: "So You Have an Invention: First Steps",
+    shortTitle: "Patent First Steps",
+    status: "Independent legal-education guide · live",
     thesis:
       "Help a young inventor understand the next decision before asking them to become an IP expert.",
     summary:
-      "A plain-English static first-steps guide for young inventors and families, independently conceived around a publicly announced ThornCrest Law panel. It does not evidence commission, authorization, review, distribution, or a ThornCrest relationship.",
+      "A plain-English static first-steps guide to patents for young inventors and their families, written by RN for people attending the Patent Your Invention panel at Hawaiʻi Tech Week 2026.",
     tags: ["Legal service design", "Public education", "Guided intake"],
     noticed:
       "A child can leave an invention event inspired but still not know the difference between patent, trademark, copyright, and trade secret—or that public disclosure can affect rights before a family ever speaks with counsel.",
@@ -174,9 +174,9 @@ export const projects: Project[] = [
       "Young inventors, families, teachers, and first-time founders who need orientation before a professional legal conversation.",
     demonstrates:
       "Legal research, risk-sensitive public education, guided service design, youth accessibility, and a pathway from public knowledge to appropriate professional help.",
-    live: "https://patent-first-steps-thorncrest.vercel.app/",
-    repo: "https://github.com/rn-collins/patent-first-steps-thorncrest",
-    image: "/evidence/thorncrest.png",
+    live: "https://patent-first-steps.vercel.app/",
+    repo: "https://github.com/rn-collins/patent-first-steps",
+    image: "/evidence/patent-first-steps.png",
     imageAlt: "Preview of the Patent First Steps guide for young inventors",
   },
 ];

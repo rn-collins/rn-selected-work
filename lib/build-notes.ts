@@ -639,18 +639,18 @@ export const buildNotes: BuildNote[] = [
     caseStudy: "keiki-robotics",
   },
   {
-    repo: "patent-first-steps-thorncrest",
-    title: "So You Have an Invention — First Steps",
+    repo: "patent-first-steps",
+    title: "So You Have an Invention: First Steps",
     category: "education",
-    status: "Live · built with ThornCrest Law for Hawaiʻi Tech Week 2026",
+    status: "Live · made for Hawaiʻi Tech Week 2026",
     statusKind: "live",
     problem:
       "Young inventors are told to protect the idea and left to work out what that means from sources written for people who already have counsel. The costly mistakes happen early and quietly — usually a disclosure made before anyone explained what disclosure does — and by the time someone can afford advice, the option they needed has often already closed.",
     does:
       "Explains what a patent actually is, sets out four gates an idea has to clear to be patentable, walks the first steps, and shows how to run a free search without paying anyone. It spends a section killing the myths that cost inventors the most — chiefly about disclosure — and points at free Hawaiʻi help, including a number to call.",
     builtOn: "A static single-page site with an installable web manifest, served from Vercel.",
-    limits: "General information prepared with a law firm. Not legal advice and not an attorney-client relationship.",
-    caseStudy: "thorncrest-patent-first-steps",
+    limits: "General information. Not legal advice and not an attorney-client relationship.",
+    caseStudy: "patent-first-steps",
   },
   {
     repo: "claude-smb-buechler",

@@ -33,8 +33,8 @@ const widerPortfolio = [
     why: "An independently initiated organization-specific concept showing how RN studies a business from public information, identifies field-work friction, and makes a tailored AI workflow concrete enough to evaluate.",
   },
   {
-    slug: "thorncrest-patent-first-steps",
-    why: "An independently initiated organization-specific concept translating patent-intake complexity into a guided first-step experience for prospective clients.",
+    slug: "patent-first-steps",
+    why: "An independent guide that turns patent basics into a guided first-step experience for young inventors and their families.",
   },
 ].map((item) => ({ ...item, project: projects.find((project) => project.slug === item.slug)! }));
 

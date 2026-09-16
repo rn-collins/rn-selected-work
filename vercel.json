@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/work/thorncrest-patent-first-steps",
+      "destination": "/work/patent-first-steps",
+      "permanent": true
+    }
+  ]
+}

@@ -694,11 +694,11 @@
       "hasNote": true
     },
     {
-      "repo": "patent-first-steps-thorncrest",
-      "live": "https://patent-first-steps-thorncrest.vercel.app",
+      "repo": "patent-first-steps",
+      "live": "https://patent-first-steps.vercel.app",
       "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/patent-first-steps-thorncrest",
-      "githubDescription": "A plain-English first-steps guide for young inventors, with ThornCrest Law, at Hawaiʻi Tech Week 2026.",
+      "repoUrl": "https://github.com/rn-collins/patent-first-steps",
+      "githubDescription": "A plain-English first-steps guide to patents for young inventors and their families, by RN Collins, made for Hawaiʻi Tech Week 2026.",
       "pushedAt": "2026-09-03T13:20:22Z",
       "httpStatus": 200,
       "renderedWords": 1734,
