@@ -66,6 +66,31 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <section className="work shell" aria-labelledby="source-desk-title">
+        <div className="sectionhead">
+          <p className="eyebrow">Source Desk / Interactive field guide</p>
+          <p>Research, visual explanation, and a public question pathway.</p>
+        </div>
+        <div className="projects">
+          <article className="project">
+            <div className="projecttop">
+              <span className="num">01</span>
+              <span className="kind">Science communication · independently initiated</span>
+            </div>
+            <h2 id="source-desk-title">What a Color Plate Can Tell Us</h2>
+            <p className="status">Live educational resource · September 2026</p>
+            <p className="thesis">A childhood eye appointment becomes a guide to what color plates measure, how X-linked inheritance works, and how to make color-coded information accessible.</p>
+            <p className="copy">Historic test imagery with clear rights, interactive conceptual models, source and limitation notes, and a public route for questions. The demonstrations are educational, not diagnostic.</p>
+            <div className="projectfoot">
+              <div className="tags"><span>Science communication</span><span>Interactive education</span><span>Accessible design</span></div>
+              <div className="projectActions" aria-label="Color Vision Field Guide links">
+                <a href="https://color-vision-field-guide.vercel.app/" target="_blank" rel="noreferrer">Explore the field guide <span>↗</span></a>
+                <a href="https://github.com/rn-collins/color-vision-field-guide" target="_blank" rel="noreferrer">Inspect sources and code <span>↗</span></a>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
       <section id="work" className="work shell">
         <div className="sectionhead">
           <p className="eyebrow">Builds</p>
