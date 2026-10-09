@@ -93,6 +93,8 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] `/sources/[slug]` (for example `/sources/oct-08`) lists, for each Ask a Neuroscientist post, the research it cites, its other sources, and every slide and Story image with its credit and record link.
 - [x] `/sources` lists posts from their posting day on (Hawaii time; rebuilt daily). Pages for scheduled posts exist ahead of time so the address printed on a slide works the day it posts.
 - [x] Data is generated, not hand-kept: `data/aan-sources.json` comes from `aan-studio/renders/sources_export.py` in `rn-content-second-brain`, which drops research notes, contact pages and API mirror links.
+- [x] Each page opens with the article or listing the post was built from: RN's Polymath article (12 posts), the Dutch Design Week listing (48), or the post's main source (19); the six Receptor Card and Brain and Body posts start with their research list.
 - [x] The slides print `rn-selected-work.vercel.app/sources/<mon-dd>` on the cover and the last slide.
+- [x] Site tagline changed from "Find the break. Choose the form." to "Find the gap. Build what is missing." (footer, Culturalyst conversation page; the Culturalyst invitation reads "Understand the gap. Then build what is missing.").
 - [ ] Extend the export to January to March 2027 posts once those packages are proofed.
 - [ ] Sources pages are short reference lists and fall under the estate check's 400-word substance floor; decide whether the gate should exempt `/sources/*`.

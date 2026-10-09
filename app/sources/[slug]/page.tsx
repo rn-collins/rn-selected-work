@@ -46,6 +46,14 @@ export default async function SourcePage({ params }: { params: Promise<{ slug: s
           number card, the number is quoted from the study named on the card.
         </p>
 
+        {p.origin && (
+          <a className={styles.origin} href={p.origin.url} target="_blank" rel="noreferrer">
+            <span className={styles.originLabel}>{p.origin.kind === "article" ? "The article" : p.origin.kind === "listing" ? "The work" : "Start here"}</span>
+            <span className={styles.originTitle}>{p.origin.label} <span aria-hidden="true">↗</span></span>
+            <span className={styles.host}>{host(p.origin.url)}</span>
+          </a>
+        )}
+
         {p.research.length > 0 && (
           <section className={styles.block} aria-labelledby="research">
             <h2 id="research">Research cited</h2>

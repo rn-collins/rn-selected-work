@@ -7,6 +7,11 @@
    "date": "2026-10-08",
    "id": "22",
    "title": "Touch On Connection",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/touch-on-connection"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -35,10 +40,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW 2026 listing: Touch On Connection",
-     "url": "https://ddw.nl/en/programme/touch-on-connection"
-    },
     {
      "label": "DDW 2025 archive: Touch Of Connection",
      "url": "https://ddw.nl/en/programme/archive/2025/touch-of-connection"
@@ -136,6 +137,11 @@
    "date": "2026-10-09",
    "id": "11",
    "title": "Back to the Flax #6 (seed listed #4, the 2025 edition)",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/back-to-the-flax-6"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -152,10 +158,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing, Back to the Flax #6 (2026)",
-     "url": "https://ddw.nl/en/programme/back-to-the-flax-6"
-    },
     {
      "label": "DDW listing, Cordage & Knotting (2026)",
      "url": "https://ddw.nl/en/programme/back-to-the-flax-6-cordage-amp-knotting"
@@ -273,6 +275,11 @@
    "date": "2026-10-10",
    "id": "47",
    "title": "Overload",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/overload"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -293,10 +300,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Overload",
-     "url": "https://ddw.nl/en/programme/overload"
-    },
     {
      "label": "DDW location page: Gebouw SFF (Bosch)",
      "url": "https://ddw.nl/en/locations/gebouw-sff-bosch"
@@ -392,6 +395,11 @@
    "date": "2026-10-11",
    "id": "89",
    "title": "Ways of Seeing",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/ways-of-seeing"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -424,10 +432,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Ways of Seeing",
-     "url": "https://ddw.nl/en/programme/ways-of-seeing"
-    },
     {
      "label": "DDW location page: Piet Hein Eek",
      "url": "https://ddw.nl/en/locations/piet-hein-eek"
@@ -530,6 +534,11 @@
    "date": "2026-10-12",
    "id": "46",
    "title": "IK ZIE JE",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/ik-zie-je"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -546,10 +555,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: IK ZIE JE",
-     "url": "https://ddw.nl/en/programme/ik-zie-je"
-    },
     {
      "label": "DDW location page: Eindhoven Library",
      "url": "https://ddw.nl/en/locations/eindhoven-library"
@@ -660,6 +665,11 @@
    "date": "2026-10-13",
    "id": "23",
    "title": "Electric Grand: Walk inside a Piano",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/electric-grand-walk-inside-a-piano"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -672,10 +682,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Electric Grand, Walk inside a Piano",
-     "url": "https://ddw.nl/en/programme/electric-grand-walk-inside-a-piano"
-    },
     {
      "label": "DDW update, 8 Sep 2026: Large-scale designs take over Eindhoven during Dutch Design Week 2026",
      "url": "https://ddw.nl/en/updates/large-scale-designs-take-over-eindhoven-during-dutch-design-week-2026"
@@ -789,6 +795,11 @@
    "date": "2026-10-14",
    "id": "08",
    "title": "Colonic Cleansing Clinic",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/colonic-cleansing-clinic-2"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -809,10 +820,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Colonic Cleansing Clinic",
-     "url": "https://ddw.nl/en/programme/colonic-cleansing-clinic-2"
-    },
     {
      "label": "DDW update: Large-scale designs take over Eindhoven during Dutch Design Week 2026 (Sep 8, 2026)",
      "url": "https://ddw.nl/en/updates/large-scale-designs-take-over-eindhoven-during-dutch-design-week-2026"
@@ -915,6 +922,11 @@
    "date": "2026-10-15",
    "id": "01",
    "title": "Spreekkamer van de Toekomst (The Consultation Room of the Future)",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/spreekkamer-van-de-toekomst"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -935,10 +947,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Spreekkamer Van De Toekomst",
-     "url": "https://ddw.nl/en/programme/spreekkamer-van-de-toekomst"
-    },
     {
      "label": "DDW location page: Markt Eindhoven",
      "url": "https://ddw.nl/en/locations/markt-eindhoven"
@@ -1060,6 +1068,11 @@
    "date": "2026-10-16",
    "id": "26",
    "title": "Urban Reef: De Regeneratieve Gevel (in HUB Bouw aan Morgen)",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/hub-bouw-aan-morgen-van-materiaal-tot-sociaal-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -1076,10 +1089,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW 2026 listing: HUB Bouw aan Morgen, van materiaal tot sociaal",
-     "url": "https://ddw.nl/en/programme/hub-bouw-aan-morgen-van-materiaal-tot-sociaal-1"
-    },
     {
      "label": "DDW 2026 listing (site.ddw.nl): HUB programme 17473",
      "url": "https://site.ddw.nl/en/programme/17473/hub-bouw-aan-morgen-van-materiaal-tot-sociaal"
@@ -1206,6 +1215,11 @@
    "date": "2026-10-17",
    "id": "03",
    "title": "Gezondheid van Jezelf? / Your Own Health?",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/your-own-health"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -1218,10 +1232,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Your Own Health?",
-     "url": "https://ddw.nl/en/programme/your-own-health"
-    },
     {
      "label": "DDW location page: Klokgebouw Hall 4",
      "url": "https://ddw.nl/en/locations/klokgebouw-hall-4"
@@ -1336,6 +1346,11 @@
    "date": "2026-10-18",
    "id": "04",
    "title": "Phygital Seasoning",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/phygital-seasoning"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -1356,10 +1371,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW 2026 listing: Phygital Seasoning",
-     "url": "https://ddw.nl/en/programme/phygital-seasoning"
-    },
     {
      "label": "DDW 2026 location page: Sprout Coffee Roasters & Aroma Records",
      "url": "https://ddw.nl/en/locations/sprout-coffee-roasters-aroma-records"
@@ -1470,6 +1481,11 @@
    "date": "2026-10-19",
    "id": "10",
    "title": "HUB Bouw aan Morgen, van materiaal tot sociaal",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/hub-bouw-aan-morgen-van-materiaal-tot-sociaal-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -1482,10 +1498,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing, HUB Bouw aan Morgen 2026",
-     "url": "https://ddw.nl/en/programme/hub-bouw-aan-morgen-van-materiaal-tot-sociaal-1"
-    },
     {
      "label": "DDW location page, de Melkfabriek",
      "url": "https://ddw.nl/en/locations/de-melkfabriek"
@@ -1599,6 +1611,11 @@
    "date": "2026-10-20",
    "id": "NLNUTMEG",
    "title": "Nutmeg: the Banda massacre, two Rijksmuseum objects and a Dutch case report",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://www.rijksmuseum.nl/en/collection/object/SK-A-4476--a628c6d3e1490c939b66b14f267658a0"
+   },
    "series": "The Netherlands",
    "research": [
     {
@@ -1611,10 +1628,6 @@
     }
    ],
    "other": [
-    {
-     "label": "Rijksmuseum, SK-A-4476, workshop of Johannes Vingboons, Two Views of Dutch East India Company Trading Posts: Lawec in Cambodia and Banda in the Southern Moluccas, c. 1662-c. 1663 (record page)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/SK-A-4476--a628c6d3e1490c939b66b14f267658a0"
-    },
     {
      "label": "Rijksmuseum, SK-A-4476 catalogue entry, de Groot (2026); the page shows both Erlend and Erlund",
      "url": "https://www.rijksmuseum.nl/en/collection/SK-A-4476/catalogue-entry"
@@ -1736,6 +1749,11 @@
    "date": "2026-10-21",
    "id": "HEMPMUSEUM",
    "title": "Rope, bottles and a receptor: what the Hash Marihuana & Hemp Museum shows about cannabis history",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://hashmuseum.com/amsterdam"
+   },
    "series": "The Netherlands",
    "research": [
     {
@@ -1748,10 +1766,6 @@
     }
    ],
    "other": [
-    {
-     "label": "Hash Marihuana & Hemp Museum, Amsterdam visitor page.",
-     "url": "https://hashmuseum.com/amsterdam"
-    },
     {
      "label": "Hash Marihuana & Hemp Museum, About page (?p=45).",
      "url": "https://hashmuseum.com/?p=45"
@@ -1870,6 +1884,11 @@
    "date": "2026-10-22",
    "id": "HORTUS",
    "title": "The Hortus coffee plant: Amsterdam, Paris and caffeine's brain target",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://dehortus.gardenexplorer.org/taxon-24157.aspx"
+   },
    "series": "The Netherlands",
    "research": [
     {
@@ -1910,10 +1929,6 @@
     }
    ],
    "other": [
-    {
-     "label": "Hortus Botanicus Amsterdam plant database: Coffea arabica (taxon 24157).",
-     "url": "https://dehortus.gardenexplorer.org/taxon-24157.aspx"
-    },
     {
      "label": "Hortus Botanicus Amsterdam plant database: Coffea canephora (taxon 40880).",
      "url": "https://dehortus.gardenexplorer.org/taxon-40880.aspx"
@@ -2043,6 +2058,11 @@
    "date": "2026-10-23",
    "id": "44",
    "title": "Philips Design. Soul & Science",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/philips-design-soul-amp-science"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -2051,10 +2071,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Philips Design. Soul & Science (Area51)",
-     "url": "https://ddw.nl/en/programme/philips-design-soul-amp-science"
-    },
     {
      "label": "DDW listing: Soul & Science (Area51)",
      "url": "https://site.ddw.nl/en/programme/17242/philips-design-soul-amp-science"
@@ -2169,6 +2185,11 @@
    "date": "2026-10-24",
    "id": "AANPM04",
    "title": "What MDMA Does to a Marriage: three kinds of evidence",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/what-mdma-does-to-a-marriage"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -2205,10 +2226,6 @@
     }
    ],
    "other": [
-    {
-     "label": "RN Collins, \"What MDMA Does to a Marriage\", The Polymath (Sep 2026)",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/what-mdma-does-to-a-marriage"
-    },
     {
      "label": "MAPS, \"MAPS Statement on FDA's Public Release of Complete Response Letter for MDMA-assisted Therapy\" (Sep 4, 2025)",
      "url": "https://maps.org/2025/09/04/fda-public-release-of-crl/"
@@ -2323,6 +2340,11 @@
    "date": "2026-10-25",
    "id": "38",
    "title": "Dutch Design Awards 2026 Emerging Talent finalist: Ori Orisun Merhav, Woven Landscapes",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/index.php/en/programme/woven-landscapes-by-ori-orisun-merhav"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -2339,10 +2361,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW 2026 listing: Woven Landscapes by Ori Orisun Merhav",
-     "url": "https://ddw.nl/index.php/en/programme/woven-landscapes-by-ori-orisun-merhav"
-    },
     {
      "label": "Dutch Design Awards finalists 2026",
      "url": "https://www.dutchdesignawards.nl/en/update/dutch-design-awards-announces-finalists-emerging-talent-award-2026/"
@@ -2445,12 +2463,13 @@
    "date": "2026-10-26",
    "id": "NL01",
    "title": "First follow-up report on the Dutch closed coffeeshop chain experiment",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://www.trimbos.nl/wp-content/uploads/2026/09/TRI-41-040_Onderzoek-Experiment-Gesloten-Coffeeshopketen.-.pdf"
+   },
    "series": "The Netherlands",
    "research": [
-    {
-     "label": "T1 report (Mennes et al., 2026)",
-     "url": "https://www.trimbos.nl/wp-content/uploads/2026/09/TRI-41-040_Onderzoek-Experiment-Gesloten-Coffeeshopketen.-.pdf"
-    },
     {
      "label": "Nulmeting 2022 report (Mennes et al., 2024)",
      "url": "https://zoek.officielebekendmakingen.nl/blg-1137196.pdf"
@@ -2574,6 +2593,11 @@
    "date": "2026-10-27",
    "id": "NLCIGAR",
    "title": "The museum a cigar built: Eindhoven's tobacco past and nicotine's receptors",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://vanabbemuseum.nl/en/museum/about-the-museum/founder-and-directors"
+   },
    "series": "The Netherlands",
    "research": [
     {
@@ -2606,10 +2630,6 @@
     }
    ],
    "other": [
-    {
-     "label": "Van Abbemuseum, Founder and directors",
-     "url": "https://vanabbemuseum.nl/en/museum/about-the-museum/founder-and-directors"
-    },
     {
      "label": "Crossref record for doi 10.1038/nrn1298",
      "url": "https://api.crossref.org/works/10.1038%2FNRN1298"
@@ -2704,6 +2724,11 @@
    "date": "2026-10-28",
    "id": "EB01",
    "title": "Does a trip scramble your brain? The entropic brain debate",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://doi.org/10.1038/s41586-026-10910-z"
+   },
    "series": "Brain Science",
    "research": [
     {
@@ -2721,10 +2746,6 @@
     {
      "label": "McCulloch et al. (2026), Nature Communications",
      "url": "https://www.nature.com/articles/s41467-026-74215-5"
-    },
-    {
-     "label": "Stoliker et al. (2026), Nature",
-     "url": "https://doi.org/10.1038/s41586-026-10910-z"
     },
     {
      "label": "Girn et al. (2026), Nature Medicine",
@@ -2828,6 +2849,11 @@
    "date": "2026-10-29",
    "id": "NLHEMPCRETE",
    "title": "Hemp you can live in",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://www.tue.nl/en/research/researchers/florent-gauvin"
+   },
    "series": "The Netherlands",
    "research": [
     {
@@ -2848,10 +2874,6 @@
     }
    ],
    "other": [
-    {
-     "label": "TU/e researcher page: Florent Gauvin (English)",
-     "url": "https://www.tue.nl/en/research/researchers/florent-gauvin"
-    },
     {
      "label": "TU/e researcher page: Florent Gauvin (Dutch)",
      "url": "https://www.tue.nl/onderzoek/researchers/florent-gauvin"
@@ -2977,13 +2999,14 @@
    "date": "2026-10-30",
    "id": "15",
    "title": "TU/e at DDW: Thriving Together: Healthy & Inclusive Environments (focus: Making the Invisible Visible)",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/tue-at-ddw"
+   },
    "series": "Dutch Design Week",
    "research": [],
    "other": [
-    {
-     "label": "DDW listing: TU/e at DDW",
-     "url": "https://ddw.nl/en/programme/tue-at-ddw"
-    },
     {
      "label": "DDW listing: Making the Invisible Visible",
      "url": "https://ddw.nl/en/programme/making-the-invisible-visible-designing-healthier-air-in-cities"
@@ -3102,6 +3125,11 @@
    "date": "2026-10-31",
    "id": "AANPM01",
    "title": "Ganga: the 1913 import claim and Jamaica's customs returns",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/ganga-cannabis-sativa"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -3118,10 +3146,6 @@
     }
    ],
    "other": [
-    {
-     "label": "RN Collins (2026, September 25). Ganga (Cannabis Sativa). The Polymath, Herbal Histories.",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/ganga-cannabis-sativa"
-    },
     {
      "label": "Rubin, V., & Comitas, L. (1975). Ganja in Jamaica: A medical anthropological study of chronic marihuana use. Mouton (De Gruyter record). Chapter III, Ganja legislation, from p. 20.",
      "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110812077/html"
@@ -3216,13 +3240,14 @@
    "date": "2026-11-01",
    "id": "16",
    "title": "Huis, een installatie over drempels (House, an installation about thresholds)",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/huis-een-installatie-over-drempels"
+   },
    "series": "Dutch Design Week",
    "research": [],
    "other": [
-    {
-     "label": "DDW listing: Huis, een installatie over drempels",
-     "url": "https://ddw.nl/en/programme/huis-een-installatie-over-drempels"
-    },
     {
      "label": "DDW listing by ID (16744)",
      "url": "https://site.ddw.nl/en/programme/16744/huis-een-installatie-over-drempels"
@@ -3337,6 +3362,11 @@
    "date": "2026-11-02",
    "id": "24",
    "title": "Hidden Potential of Food: Foodie Boulevard",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/hidden-potential-of-food-foodie-boulevard"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -3345,10 +3375,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Hidden Potential of Food",
-     "url": "https://ddw.nl/en/programme/hidden-potential-of-food-foodie-boulevard"
-    },
     {
      "label": "DDW 2026 programme 18210",
      "url": "https://site.ddw.nl/en/programme/18210/hidden-potential-of-food-foodie-boulevard"
@@ -3464,6 +3490,11 @@
    "date": "2026-11-03",
    "id": "AANPM02",
    "title": "Suggested but Not Proven: the Shakespeare pipe residue study",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/suggested-but-not-proven"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -3472,10 +3503,6 @@
     }
    ],
    "other": [
-    {
-     "label": "RN Collins, \"Suggested but Not Proven\", The Polymath (Sep 2026)",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/suggested-but-not-proven"
-    },
     {
      "label": "Thackeray, van der Merwe and van der Merwe (2001), S Afr J Sci 97(1/2):19 to 21, abstract as reproduced on the Erowid reference record",
      "url": "https://taz4.erowid.org/references/refs_view.php?ID=1457"
@@ -3590,6 +3617,11 @@
    "date": "2026-11-04",
    "id": "07",
    "title": "Stuck in the Screen? In Defense of Drifting",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/stuck-in-the-screen-in-defense-of-drifting"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -3614,10 +3646,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Stuck in the Screen? In Defense of Drifting",
-     "url": "https://ddw.nl/en/programme/stuck-in-the-screen-in-defense-of-drifting"
-    },
     {
      "label": "DDW 2026 update",
      "url": "https://ddw.nl/en/updates/ddw26"
@@ -3727,6 +3755,7 @@
    "date": "2026-11-05",
    "id": "BB05",
    "title": "Brain and Body: why music gives you chills",
+   "origin": null,
    "series": "Brain and Body",
    "research": [
     {
@@ -3865,6 +3894,11 @@
    "date": "2026-11-06",
    "id": "113",
    "title": "Beacons of Hope",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/beacons-of-hope"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -3885,10 +3919,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Beacons of Hope",
-     "url": "https://ddw.nl/en/programme/beacons-of-hope"
-    },
     {
      "label": "DDW listing (site.ddw.nl)",
      "url": "https://site.ddw.nl/en/programme/17654/beacons-of-hope"
@@ -4002,6 +4032,11 @@
    "date": "2026-11-07",
    "id": "NLOPIUM",
    "title": "A thermos full of opium: a 1930 police album and the colonial opium monopoly",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://www.rijksmuseum.nl/en/collection/NG-2006-65-15"
+   },
    "series": "The Netherlands",
    "research": [
     {
@@ -4049,10 +4084,6 @@
     {
      "label": "Rijksmuseum. Fotoalbum met politiefoto's over de opiumsmokkel, 1930. NG-2006-65.",
      "url": "https://www.rijksmuseum.nl/nl/collectie/object/Fotoalbum-met-politiefoto-s-over-de-opiumsmokkel-1930--90d4d486cbcb89d1e6223b08ba3ea04d"
-    },
-    {
-     "label": "Rijksmuseum. Thermosfles en bloempot waarin opium werd gesmokkeld, 1920 to 1930. NG-2006-65-15.",
-     "url": "https://www.rijksmuseum.nl/en/collection/NG-2006-65-15"
     },
     {
      "label": "Van Luijk, E.W., & Van Ours, J.C. (2001). The effects of government policy on drug use: Java, 1875 to 1904. Journal of Economic History, 61(1), 1 to 18.",
@@ -4156,6 +4187,11 @@
    "date": "2026-11-08",
    "id": "17",
    "title": "4TU Design United Dialogues 4: Health & Wellbeing",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/4tudesign-united-dialogues-4-health-wellbeing"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -4176,10 +4212,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW 2026 listing: 4TU.Design United Dialogues 4: Health & Wellbeing",
-     "url": "https://ddw.nl/en/programme/4tudesign-united-dialogues-4-health-wellbeing"
-    },
     {
      "label": "4TU.Design United, 2026 Design Bridges edition page, Health & Wellbeing",
      "url": "https://www.4tu.nl/du/editions/2026-design-bridges-technology-people-society-planet/#health-wellbeing"
@@ -4293,6 +4325,11 @@
    "date": "2026-11-09",
    "id": "87",
    "title": "Tactile Notation",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/tactile-notation-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -4313,10 +4350,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Tactile Notation",
-     "url": "https://ddw.nl/en/programme/tactile-notation-1"
-    },
     {
      "label": "DDW location page: Kelderman en van Noort (KEVN)",
      "url": "https://ddw.nl/en/locations/kelderman-en-van-noort-kevn"
@@ -4419,6 +4452,11 @@
    "date": "2026-11-10",
    "id": "AANPM03",
    "title": "A Meal on Mushrooms: what food does to psilocybin is still unstudied",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/a-meal-on-mushrooms"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -4447,10 +4485,6 @@
     }
    ],
    "other": [
-    {
-     "label": "RN Collins (Sep 25, 2026), A Meal on Mushrooms, The Polymath",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/a-meal-on-mushrooms"
-    },
     {
      "label": "Hasler, F., et al. (1997), pharmacokinetic profiles of oral and intravenous psilocybin in man, Pharmaceutica Acta Helvetiae 72(3), 175 to 184 (abstract on Erowid and SONAR)",
      "url": "https://erowid.org/references/refs_view.php?ID=6796"
@@ -4577,6 +4611,11 @@
    "date": "2026-11-11",
    "id": "120",
    "title": "CANVAS: Surface of Sleep",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/canvas-surface-of-sleep"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -4593,10 +4632,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: CANVAS: Surface of Sleep",
-     "url": "https://ddw.nl/en/programme/canvas-surface-of-sleep"
-    },
     {
      "label": "DDW listing (site.ddw.nl)",
      "url": "https://site.ddw.nl/en/programme/17006/canvas-surface-of-sleep"
@@ -4707,6 +4742,7 @@
    "date": "2026-11-12",
    "id": "BB07",
    "title": "Brain and Body: why time flies when you're having fun",
+   "origin": null,
    "series": "Brain and Body",
    "research": [
     {
@@ -4844,6 +4880,11 @@
    "date": "2026-11-13",
    "id": "NLCOCAINE",
    "title": "Amsterdam's cocaine factory, Java coca and a World War I claim",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://cris.maastrichtuniversity.nl/en/publications/the-history-of-the-nederlandsche-coca%C3%AFne-fabriek-and-its-successo"
+   },
    "series": "The Netherlands",
    "research": [
     {
@@ -4864,10 +4905,6 @@
     }
    ],
    "other": [
-    {
-     "label": "Bosman, H.H. (2012). The history of the Nederlandsche Cocaïne Fabriek and its successors: as manufactorers of narcotic drugs, analyzed from an international perpective [PhD thesis, Maastricht University]. doi 10.26481/dis.20121108hb. Supervisor Ernst Homburg.",
-     "url": "https://cris.maastrichtuniversity.nl/en/publications/the-history-of-the-nederlandsche-coca%C3%AFne-fabriek-and-its-successo"
-    },
     {
      "label": "Pieters, T. (2012, December 10; updated 2023, August 30). Java coca and the Dutch narcotics industry: an almost forgotten 20th c. history of drugs story. Points.",
      "url": "https://www.pointshistory.org/post/java-coca-and-the-dutch-narcotics-industry-an-almost-forgotten-20th-c-history-of-drugs-story"
@@ -4993,6 +5030,11 @@
    "date": "2026-11-14",
    "id": "06",
    "title": "WAVE: Prototyping a neuro-inclusive future",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/wave-prototyping-a-neuro-inclusive-future-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -5013,10 +5055,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: WAVE: Prototyping a neuro-inclusive future",
-     "url": "https://ddw.nl/en/programme/wave-prototyping-a-neuro-inclusive-future-1"
-    },
     {
      "label": "DDW 2026 record 16998",
      "url": "https://site.ddw.nl/en/programme/16998/wave-prototyping-a-neuro-inclusive-future"
@@ -5130,6 +5168,11 @@
    "date": "2026-11-15",
    "id": "NLHAGUE1912",
    "title": "The Hague, 1912: why the first drug treaty named four substances",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://unodc.org/unodc/en/frontpage/the-1912-hague-international-opium-convention.html"
+   },
    "series": "The Netherlands",
    "research": [
     {
@@ -5157,10 +5200,6 @@
     {
      "label": "Papers Relating to the Foreign Relations of the United States, 1912, Document 306: International Opium Convention (unofficial translation), Sen. Doc. No. 733, 62d Cong., 2d sess. Office of the Historian, US Department of State.",
      "url": "https://history.state.gov/historicaldocuments/frus1912/d306"
-    },
-    {
-     "label": "UNODC (2009, January 23). The 1912 Hague International Opium Convention.",
-     "url": "https://unodc.org/unodc/en/frontpage/the-1912-hague-international-opium-convention.html"
     },
     {
      "label": "UNODC (2012, March). 100 years of narcotics control.",
@@ -5257,6 +5296,11 @@
    "date": "2026-11-16",
    "id": "105",
    "title": "Proximate Intimacies",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/proximate-intimacies"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -5273,10 +5317,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Proximate Intimacies",
-     "url": "https://ddw.nl/en/programme/proximate-intimacies"
-    },
     {
      "label": "DOAJ record, Cartaud et al. (2018)",
      "url": "https://doaj.org/article/e0e4beee875c4087bc713b6d19f5719f"
@@ -5378,6 +5418,11 @@
    "date": "2026-11-17",
    "id": "AANPM05",
    "title": "What brain scans can and cannot tell us about orgasm",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/what-brain-scans-can-and-cannot-tell-us-about-orgasm"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -5394,10 +5439,6 @@
     }
    ],
    "other": [
-    {
-     "label": "RN Collins (2026, September). What Brain Scans Can, and Cannot, Tell Us About Orgasm. The Polymath, High Culture",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/what-brain-scans-can-and-cannot-tell-us-about-orgasm"
-    },
     {
      "label": "Logothetis, N. K. (2008). What we can do and what we cannot do with fMRI. Nature, 453(7197), 869 to 878. doi:10.1038/nature06976 (record and Nature summary on RePEc)",
      "url": "https://ideas.repec.org/a/nat/nature/v453y2008i7197d10.1038_nature06976.html"
@@ -5488,6 +5529,11 @@
    "date": "2026-11-18",
    "id": "NLKHAT",
    "title": "Khat: a leaf on List II, a plant in the Hortus",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://dehortus.gardenexplorer.org/taxon-26272.aspx"
+   },
    "series": "The Netherlands",
    "research": [
     {
@@ -5511,10 +5557,6 @@
     {
      "label": "Feyissa, A. M., & Kelly, J. P. (2008). A review of the neuropharmacological properties of khat. Progress in Neuro-Psychopharmacology and Biological Psychiatry, 32(5), 1147-1166. doi:10.1016/j.pnpbp.2007.12.033 (University of Galway research portal record).",
      "url": "https://research.universityofgalway.ie/en/publications/a-review-of-the-neuropharmacological-properties-of-khat-4/"
-    },
-    {
-     "label": "Hortus Botanicus Amsterdam plant database (Garden Explorer), Catha edulis. Last update 2026-09-30.",
-     "url": "https://dehortus.gardenexplorer.org/taxon-26272.aspx"
     },
     {
      "label": "Githua, K. K., Maitho, T. E., Nguta, J. M., & Okumu, M. O. (2022). Studies on the ethnopharmacology, antimicrobial activity, and toxicity of Catha edulis (Vahl.) Endl., in Sprague Dawley rats. F1000Research, 11, 286.",
@@ -5603,6 +5645,11 @@
    "date": "2026-11-19",
    "id": "AANPM42",
    "title": "Knowledge Is Not Finished When I Understand It: explaining, forgetting and the illusion of understanding",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/knowledge-is-not-finished-when-i-understand-it"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -5622,12 +5669,7 @@
      "url": "https://profiles.cardiff.ac.uk/staff/sumnerp"
     }
    ],
-   "other": [
-    {
-     "label": "RN Collins (2026, September 24). Knowledge Is Not Finished When I Understand It. The Polymath.",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/knowledge-is-not-finished-when-i-understand-it"
-    }
-   ],
+   "other": [],
    "images": [
     {
      "where": "Slide 1",
@@ -5713,12 +5755,13 @@
    "date": "2026-11-20",
    "id": "NLPOTENCY",
    "title": "Stronger cannabis, first-time treatment and a five-year lag: what 16 years of Dutch data show",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://discovery.ucl.ac.uk/id/eprint/10055997/"
+   },
    "series": "The Netherlands",
    "research": [
-    {
-     "label": "Freeman, T. P., van der Pol, P., Kuijpers, W., Wisselink, J., Das, R. K., Rigter, S., van Laar, M., Griffiths, P., Swift, W., Niesink, R., & Lynskey, M. T. (2018). Changes in cannabis potency and first-time admissions to drug treatment: a 16-year study in the Netherlands. Psychological Medicine, 48(14), 2346-2352. doi 10.1017/S0033291717003877. UCL Discovery record.",
-     "url": "https://discovery.ucl.ac.uk/id/eprint/10055997/"
-    },
     {
      "label": "Freeman et al. (2018), author accepted manuscript (PDF), UCL Discovery.",
      "url": "https://discovery.ucl.ac.uk/10055997/1/Freeman%20Cannabis%20potency%20and%20drug%20treatment%20submission%20CLEAN.pdf"
@@ -5836,6 +5879,7 @@
    "date": "2026-11-21",
    "id": "RC01",
    "title": "Receptor cards: TRPV1, why chili feels hot",
+   "origin": null,
    "series": "Receptor Card",
    "research": [
     {
@@ -5982,6 +6026,11 @@
    "date": "2026-11-22",
    "id": "NLAYAHUASCA",
    "title": "Ayahuasca in the Dutch courts, 2001 to 2019, and what the brain science adds",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI%3ANL%3AHR%3A2019%3A1456"
+   },
    "series": "The Netherlands",
    "research": [
     {
@@ -6013,10 +6062,6 @@
     {
      "label": "Hoge Raad, Oct 1, 2019, nr. 18/01356 (InView record)",
      "url": "https://www.inview.nl/document/id4940c7b86fa54c1b8ed44885b47eed7a/hr-01-10-2019-nr-18-01356"
-    },
-    {
-     "label": "Rechtspraak.nl record titles (seen in search results): ECLI:NL:HR:2019:1456, Hoge Raad, 18/01356; ECLI:NL:GHAMS:2018:688, Gerechtshof Amsterdam, 23-003371-16; ECLI:NL:RBAMS:2001:AB1739, voorheen LJN AB1739, Rechtbank Amsterdam, 13/067455-99",
-     "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI%3ANL%3AHR%3A2019%3A1456"
     },
     {
      "label": "Walsh, C. (2019, January 25). Ayahuasca and Religious Freedom in the Dutch Courts: from Tolerance to Intolerance. ICEERS.",
@@ -6155,6 +6200,11 @@
    "date": "2026-11-23",
    "id": "86",
    "title": "Felt Connection: sensation carried between bodies",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/felt-connection-sensation-carried-between-bodies-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -6163,10 +6213,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Felt Connection, sensation carried between bodies (ddw.nl)",
-     "url": "https://ddw.nl/en/programme/felt-connection-sensation-carried-between-bodies-1"
-    },
     {
      "label": "DDW listing",
      "url": "https://site.ddw.nl/en/programme/16902/felt-connection-sensation-carried-between-bodies"
@@ -6258,6 +6304,11 @@
    "date": "2026-11-24",
    "id": "AANPM07",
    "title": "Who Gets a Protected Nervous System? Noise, interruption, sleep and control",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/who-gets-a-protected-nervous-system"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -6289,12 +6340,7 @@
      "url": "https://www.med.upenn.edu/uep/faculty_basner.html"
     }
    ],
-   "other": [
-    {
-     "label": "RN Collins (2026, September 25). Who Gets a Protected Nervous System? The Polymath.",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/who-gets-a-protected-nervous-system"
-    }
-   ],
+   "other": [],
    "images": [
     {
      "where": "Slide 1",
@@ -6387,12 +6433,13 @@
    "date": "2026-11-25",
    "id": "NLTRUFFLE",
    "title": "Same compound, two laws: Dutch psilocybin mushrooms and truffles",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2008-486.pdf"
+   },
    "series": "The Netherlands",
    "research": [
-    {
-     "label": "Besluit van 17 november 2008, houdende wijziging van lijst I en II, behorende bij de Opiumwet. Staatsblad 2008, 486. Signed by Beatrix and A. Klink.",
-     "url": "https://zoek.officielebekendmakingen.nl/stb-2008-486.pdf"
-    },
     {
      "label": "Pellegrini, M., Rotolo, M. C., Marchei, E., Pacifici, R., Saggio, F., & Pichini, S. (2013). Magic truffles or Philosopher's stones: a legal way to sell psilocybin? Drug Testing and Analysis, 5(3), 182-185. doi 10.1002/dta.1400.",
      "url": "https://pubmed.ncbi.nlm.nih.gov/22887928/"
@@ -6540,6 +6587,11 @@
    "date": "2026-11-26",
    "id": "27",
    "title": "Zachtzicht by Natrufied Architecture (HUB Bouw aan Morgen)",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://site.ddw.nl/en/programme/17473/hub-bouw-aan-morgen-van-materiaal-tot-sociaal"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -6552,10 +6604,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW 2026 listing: HUB Bouw aan Morgen (site.ddw.nl, programme 17473)",
-     "url": "https://site.ddw.nl/en/programme/17473/hub-bouw-aan-morgen-van-materiaal-tot-sociaal"
-    },
     {
      "label": "Rijkswaterstaat news, 16 Sep 2025: Zacht Zicht wins Start-up Challenge 2025",
      "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2025/09/zacht-zicht-wint-start-up-challenge-2025-geluidscherm-van-de-toekomst-komt-tot-leven"
@@ -6661,6 +6709,11 @@
    "date": "2026-11-27",
    "id": "70",
    "title": "Mission Day | Health & Wellbeing",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-health-wellbeing"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -6673,10 +6726,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Mission Day | Health & Wellbeing (2026)",
-     "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-health-wellbeing"
-    },
     {
      "label": "DDW listing: Collaborative care: Design regional care pathways",
      "url": "https://ddw.nl/en/programme/collaborative-care-design-regional-care-pathways"
@@ -6779,6 +6828,7 @@
    "date": "2026-11-28",
    "id": "RC02",
    "title": "Receptor cards: TRPM8, why mint feels cold",
+   "origin": null,
    "series": "Receptor Card",
    "research": [
     {
@@ -6913,6 +6963,11 @@
    "date": "2026-11-29",
    "id": "45",
    "title": "Lightwall",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/lightwall-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -6932,12 +6987,7 @@
      "url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2000/change-blindness-in-the-absence-of-a-visual-disruption"
     }
    ],
-   "other": [
-    {
-     "label": "DDW listing: Lightwall",
-     "url": "https://ddw.nl/en/programme/lightwall-1"
-    }
-   ],
+   "other": [],
    "images": [
     {
      "where": "Slide 1",
@@ -7030,6 +7080,11 @@
    "date": "2026-11-30",
    "id": "94",
    "title": "RELISH",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/relish"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -7050,10 +7105,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: RELISH",
-     "url": "https://ddw.nl/en/programme/relish"
-    },
     {
      "label": "ArtEZ story: Jasmin explores whether design can change the way we eat",
      "url": "https://www.artez.nl/en/stories/jasmin-explores-whether-design-can-change-the-way-we-eat"
@@ -7137,6 +7188,11 @@
    "date": "2026-12-01",
    "id": "MJ01",
    "title": "Your body's own cannabinoids: CB1, CB2, anandamide and 2-AG",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://www.rcsb.org/structure/8GHV"
+   },
    "series": "Cannabis Science",
    "research": [
     {
@@ -7279,6 +7335,11 @@
    "date": "2026-12-02",
    "id": "MJ02",
    "title": "Noise, choices and long days standing: what a big trade show floor asks of the brain and body",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://abcwest.cogs.indiana.edu/pmwiki/pdf/scheibehenne.options.2010.pdf"
+   },
    "series": "Cannabis Science",
    "research": [
     {
@@ -7288,10 +7349,6 @@
     {
      "label": "Iyengar, S. S., & Lepper, M. R. (2000). When choice is demotivating: Can one desire too much of a good thing? Journal of Personality and Social Psychology, 79(6), 995-1006. PDF hosted by a University of Washington course page.",
      "url": "https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20&%20Lepper%20(2000).pdf"
-    },
-    {
-     "label": "Scheibehenne, B., Greifeneder, R., & Todd, P. M. (2010). Can there ever be too many options? A meta-analytic review of choice overload. Journal of Consumer Research, 37, 409-425. Author PDF.",
-     "url": "https://abcwest.cogs.indiana.edu/pmwiki/pdf/scheibehenne.options.2010.pdf"
     },
     {
      "label": "Danziger, S., Levav, J., & Avnaim-Pesso, L. (2011). Extraneous factors in judicial decisions. PNAS, 108(17), 6889-6892. doi 10.1073/pnas.1018033108. PubMed Central.",
@@ -7413,12 +7470,13 @@
    "date": "2026-12-03",
    "id": "MJ03",
    "title": "CBD as a medicine: what the trials show, and what is still unproven",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/210365s024s029s030lbl.pdf"
+   },
    "series": "Cannabis Science",
    "research": [
-    {
-     "label": "FDA-approved prescribing information for a prescription cannabidiol oral solution (NDA 210365), revised 05/2026, accessdata.fda.gov.",
-     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/210365s024s029s030lbl.pdf"
-    },
     {
      "label": "Devinsky, O., Cross, J. H., Laux, L., et al. (2017). Trial of cannabidiol for drug-resistant seizures in the Dravet syndrome. New England Journal of Medicine, 376(21), 2011-2020. doi 10.1056/NEJMoa1611618. Abstract checked on PubMed (PMID 28538134), Oct 6, 2026.",
      "url": "https://pubmed.ncbi.nlm.nih.gov/28538134/"
@@ -7543,6 +7601,11 @@
    "date": "2026-12-04",
    "id": "MJ04",
    "title": "Lemon, lavender, pine: terpenes, the nose, and scent claims that outrun the evidence",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://PDB101.rcsb.org/motm/282"
+   },
    "series": "Cannabis Science",
    "research": [
     {
@@ -7556,10 +7619,6 @@
     {
      "label": "Frontiers Science News blog (2018). The smell of lavender is relaxing, science confirms.",
      "url": "https://blog.frontiersin.org/2018/11/06/lavender-odor-relaxing-linalool/"
-    },
-    {
-     "label": "Goodsell, D. S. Molecule of the Month 282: Odorant Receptors. RCSB PDB-101.",
-     "url": "https://PDB101.rcsb.org/motm/282"
     },
     {
      "label": "Billesbølle, C. B., et al. (2023). Structural basis of odorant recognition by a human odorant receptor. Nature, 615, 742-749. RCSB PDB 8F76.",
@@ -7689,6 +7748,11 @@
    "date": "2026-12-05",
    "id": "MJ05",
    "title": "What cannabis science still does not know: the 2017 National Academies evidence grades",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://www.nationalacademies.org/news/2017/01/health-effects-of-marijuana-and-cannabis-derived-products-presented-in-new-report"
+   },
    "series": "Cannabis Science",
    "research": [
     {
@@ -7709,10 +7773,6 @@
     }
    ],
    "other": [
-    {
-     "label": "National Academies of Sciences, Engineering, and Medicine. News release, Jan 12, 2017: Health effects of marijuana and cannabis-derived products presented in new report.",
-     "url": "https://www.nationalacademies.org/news/2017/01/health-effects-of-marijuana-and-cannabis-derived-products-presented-in-new-report"
-    },
     {
      "label": "National Academies, Congressional briefing and testimony page: The Health Effects of Cannabis and Cannabinoids.",
      "url": "https://www.nationalacademies.org/units/NRCEO-NRC%20EO-23-P-592/congressional-briefing-and-testimony/the-health-effects-of-cannabis-and-cannabinoids"
@@ -7827,6 +7887,11 @@
    "date": "2026-12-06",
    "id": "56",
    "title": "FROM FIELD TO REFUGE",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/from-field-to-refuge-from-sensory-chaos-to-a-spac"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -7843,10 +7908,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: FROM FIELD TO REFUGE",
-     "url": "https://ddw.nl/en/programme/from-field-to-refuge-from-sensory-chaos-to-a-spac"
-    },
     {
      "label": "DDW location page: Klokgebouw",
      "url": "https://ddw.nl/en/locations/klokgebouw"
@@ -7948,6 +8009,11 @@
    "date": "2026-12-07",
    "id": "58",
    "title": "Navigating Stress",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/navigating-stress-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -7964,10 +8030,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Navigating Stress",
-     "url": "https://ddw.nl/en/programme/navigating-stress-1"
-    },
     {
      "label": "Design Academy Eindhoven: Navigating Stress (Mirte van der Nat, 2021)",
      "url": "https://designacademy.nl/page/3755/navigating-stress"
@@ -8058,6 +8120,11 @@
    "date": "2026-12-08",
    "id": "88",
    "title": "Re-charge #3",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/re-charge-3-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -8078,10 +8145,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Re-charge #3",
-     "url": "https://ddw.nl/en/programme/re-charge-3-1"
-    },
     {
      "label": "Rijksmuseum soup tureen and soup plate pages",
      "url": "https://www.rijksmuseum.nl/en/collection/node/soup+tureen--298d9777ab07e8c3f9d21d7676e6a710"
@@ -8172,6 +8235,11 @@
    "date": "2026-12-09",
    "id": "82",
    "title": "SOW HEMP",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/sow-hemp"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -8196,10 +8264,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: SOW HEMP",
-     "url": "https://ddw.nl/en/programme/sow-hemp"
-    },
     {
      "label": "Rijksmuseum records (5)",
      "url": "https://www.rijksmuseum.nl/en/collection/RP-T-1937-26"
@@ -8290,6 +8354,11 @@
    "date": "2026-12-10",
    "id": "60",
    "title": "CalmReef: Interactive modules for inner balance",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/calmreef-interactive-modules-for-inner-balance"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -8298,10 +8367,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: CalmReef",
-     "url": "https://ddw.nl/en/programme/calmreef-interactive-modules-for-inner-balance"
-    },
     {
      "label": "West, Melvin, McNamara and Gordon (2017), Australian Occupational Therapy Journal, record (Deakin)",
      "url": "https://deakin.figshare.com/articles/journal_contribution/An_evaluation_of_the_use_and_efficacy_of_a_sensory_room_within_an_adolescent_psychiatric_inpatient_unit/20765653"
@@ -8399,6 +8464,11 @@
    "date": "2026-12-11",
    "id": "114",
    "title": "Design by Resonance",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/design-by-resonance"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -8419,10 +8489,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Design by Resonance",
-     "url": "https://ddw.nl/en/programme/design-by-resonance"
-    },
     {
      "label": "DDW listing",
      "url": "https://site.ddw.nl/en/programme/17339/design-by-resonance"
@@ -8524,6 +8590,11 @@
    "date": "2026-12-12",
    "id": "57",
    "title": "Detailed Talks | through the lens of Autism",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/detailed-talks-through-the-lens-of-autism"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -8548,10 +8619,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Detailed Talks | through the lens of Autism",
-     "url": "https://ddw.nl/en/programme/detailed-talks-through-the-lens-of-autism"
-    },
     {
      "label": "National Autistic Society: The double empathy problem (Damian Milton, 2018)",
      "url": "https://www.autism.org.uk/advice-and-guidance/professional-practice/double-empathy"
@@ -8646,6 +8713,11 @@
    "date": "2026-12-13",
    "id": "61",
    "title": "In the Head of a Young Mind",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/in-the-head-of-a-young-mind"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -8662,10 +8734,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: In the Head of a Young Mind",
-     "url": "https://ddw.nl/en/programme/in-the-head-of-a-young-mind"
-    },
     {
      "label": "DDW listing (second record): In the Head of a Young Mind",
      "url": "https://ddw.nl/en/programme/in-the-head-of-a-young-mind-3"
@@ -8764,6 +8832,11 @@
    "date": "2026-12-14",
    "id": "83",
    "title": "CO2Balance Collection by ReHemptation",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/co2balance-co2balance-collection-by-rehemptation"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -8776,10 +8849,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: CO2Balance Collection by ReHemptation",
-     "url": "https://ddw.nl/en/programme/co2balance-co2balance-collection-by-rehemptation"
-    },
     {
      "label": "Rijksmuseum record pages (10 objects, see images)",
      "url": "https://www.rijksmuseum.nl/en/collection/BK-NM-14201"
@@ -8867,6 +8936,11 @@
    "date": "2026-12-15",
    "id": "AANPM08",
    "title": "LSD at the 2A receptor and the CIA's 1953 supply memo",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/most-of-the-cias-lsd-came-from-eli-lilly"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -8899,10 +8973,6 @@
     }
    ],
    "other": [
-    {
-     "label": "RN Collins (2026, September 25). Most of the CIA's LSD Came from Eli Lilly. The Polymath.",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/most-of-the-cias-lsd-came-from-eli-lilly"
-    },
     {
      "label": "Kim, K., et al. (2020). Structure of a Hallucinogen-Activated Gq-Coupled 5-HT2A Serotonin Receptor. Cell, 182(6), 1574-1588.e19. doi:10.1016/j.cell.2020.08.024 (abstract).",
      "url": "https://escholarship.org/uc/item/0wc7m3gg"
@@ -8990,6 +9060,11 @@
    "date": "2026-12-16",
    "id": "62",
    "title": "Into the Body",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/into-the-body"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -9002,10 +9077,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Into the Body",
-     "url": "https://ddw.nl/en/programme/into-the-body"
-    },
     {
      "label": "DDW location page: The Body Building",
      "url": "https://ddw.nl/en/locations/the-body-building"
@@ -9107,6 +9178,11 @@
    "date": "2026-12-17",
    "id": "99",
    "title": "Om Gezien Te Worden Met Blote Ogen",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/om-gezien-te-worden-met-blote-ogen-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -9127,10 +9203,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Om Gezien Te Worden Met Blote Ogen",
-     "url": "https://ddw.nl/en/programme/om-gezien-te-worden-met-blote-ogen-1"
-    },
     {
      "label": "ArtEZ news: Sieger White Young Talent Award 2026",
      "url": "https://www.artez.nl/en/news/isabel-van-de-stadt-en-lina-holinski-winnen-sieger-white-young-talent-award-2026"
@@ -9233,6 +9305,11 @@
    "date": "2026-12-18",
    "id": "112",
    "title": "Everything Moist Seems Alive",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/everything-moist-seems-alive"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -9253,10 +9330,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Everything Moist Seems Alive",
-     "url": "https://ddw.nl/en/programme/everything-moist-seems-alive"
-    },
     {
      "label": "Stimuleringsfonds Creatieve Industrie: grant record",
      "url": "https://www.stimuleringsfonds.nl/en/grants-issued/everything-moist-seems-alive"
@@ -9344,6 +9417,7 @@
    "date": "2026-12-19",
    "id": "RC03",
    "title": "Receptor cards: TRPA1, why wasabi stings",
+   "origin": null,
    "series": "Receptor Card",
    "research": [
     {
@@ -9493,6 +9567,11 @@
    "date": "2026-12-20",
    "id": "65",
    "title": "JOYN: Inclusive Tableware",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/joyn-inclusive-tableware"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -9501,10 +9580,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: JOYN, Inclusive Tableware",
-     "url": "https://ddw.nl/en/programme/joyn-inclusive-tableware"
-    },
     {
      "label": "Meshack and Norman (2002), Clinical Rehabilitation, PEDro record",
      "url": "https://search.pedro.org.au/search-results/record-detail/12036"
@@ -9610,6 +9685,11 @@
    "date": "2026-12-21",
    "id": "84",
    "title": "Local Linoleum",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/local-linoleum"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -9622,10 +9702,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Local Linoleum (EN)",
-     "url": "https://ddw.nl/en/programme/local-linoleum"
-    },
     {
      "label": "Dezeen (2024): Flaxwood installation by Christien Meindertsma and Dzek",
      "url": "https://www.dezeen.com/2024/05/02/christien-meindertsma-linoleum-flaxwood-dzek/amp/"
@@ -9714,6 +9790,11 @@
    "date": "2026-12-22",
    "id": "AANPM06",
    "title": "The memoir and the brain: what psychedelic stories can and cannot show",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/the-celebrity-psychedelic-memoir-is-a-genre-now"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -9750,10 +9831,6 @@
     }
    ],
    "other": [
-    {
-     "label": "RN Collins (2026, September 25). The Celebrity Psychedelic Memoir Is a Genre Now. The Polymath, High Culture.",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/the-celebrity-psychedelic-memoir-is-a-genre-now"
-    },
     {
      "label": "Palhano-Fontes, F., et al. (2015). The psychedelic state induced by ayahuasca modulates the activity and connectivity of the default mode network. PLoS ONE, 10(2), e0118143 (UFRN repository record).",
      "url": "https://repositorio.ufrn.br/items/42a3741a-466a-4a2d-b9e9-08a1e08682a8/full"
@@ -9837,6 +9914,11 @@
    "date": "2026-12-23",
    "id": "66",
    "title": "Soft Companions",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/soft-companions"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -9853,10 +9935,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW 2026 listing: Soft Companions (English)",
-     "url": "https://ddw.nl/en/programme/soft-companions"
-    },
     {
      "label": "DDW listing: Soft Companions (Dutch)",
      "url": "https://ddw.nl/nl/programma/17314/soft-companions"
@@ -9951,6 +10029,11 @@
    "date": "2026-12-24",
    "id": "AANPM40",
    "title": "Her garden was her medicine cabinet: what research records about home herbs",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/her-garden-was-her-medicine-cabinet"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -9963,10 +10046,6 @@
     }
    ],
    "other": [
-    {
-     "label": "RN Collins (2026, September 24). Her Garden Was Her Medicine Cabinet. The Polymath (Formation Notes essay).",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/her-garden-was-her-medicine-cabinet"
-    },
     {
      "label": "Clement, Y. N., Williams, A. F., Khan, K., et al. (2005). A gap between acceptance and knowledge of herbal remedies by physicians: the need for educational intervention. BMC Complementary and Alternative Medicine, 5, 20.",
      "url": "https://pesquisa.bvsalud.org/portal/resource/en/med-17423"
@@ -10061,6 +10140,11 @@
    "date": "2026-12-25",
    "id": "55",
    "title": "The Smelling Brain",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/the-smelling-brain-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -10085,10 +10169,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: The Smelling Brain",
-     "url": "https://ddw.nl/en/programme/the-smelling-brain-1"
-    },
     {
      "label": "Rijksmuseum record pages (13 images)",
      "url": "https://www.rijksmuseum.nl/en/collection/BK-15203"
@@ -10179,6 +10259,7 @@
    "date": "2026-12-26",
    "id": "RC04",
    "title": "Receptor cards: PIEZO2, how you feel touch and know where your body is",
+   "origin": null,
    "series": "Receptor Card",
    "research": [
     {
@@ -10352,6 +10433,11 @@
    "date": "2026-12-27",
    "id": "131",
    "title": "Hydraulic Harmonies",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/hydraulic-harmonies-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -10368,10 +10454,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Hydraulic Harmonies",
-     "url": "https://ddw.nl/en/programme/hydraulic-harmonies-1"
-    },
     {
      "label": "DOAJ record: McPherson et al. (2020)",
      "url": "https://doaj.org/article/48f3890dea0b41899e607afca17af81d"
@@ -10466,6 +10548,11 @@
    "date": "2026-12-28",
    "id": "67",
    "title": "Uitgescrolled",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/uitgescrolled"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -10482,10 +10569,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: Uitgescrolled (ddw.nl)",
-     "url": "https://ddw.nl/en/programme/uitgescrolled"
-    },
     {
      "label": "DDW listing: Uitgescrolled (site.ddw.nl)",
      "url": "https://site.ddw.nl/en/programme/16936/uitgescrolled"
@@ -10587,6 +10670,11 @@
    "date": "2026-12-29",
    "id": "AANPM09",
    "title": "Built for Nervous Systems: stress, memory, money worries and plain writing",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/why-legal-and-public-systems-must-be-designed-for-nervous-systems"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -10611,10 +10699,6 @@
     }
    ],
    "other": [
-    {
-     "label": "RN Collins (2026, September 25). Why Legal and Public Systems Must Be Designed for Nervous Systems. The Polymath.",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/why-legal-and-public-systems-must-be-designed-for-nervous-systems"
-    },
     {
      "label": "Knauft, K., et al. (2021). Perceived chronic stress influences the effect of acute stress on cognitive flexibility. Scientific Reports (December 2021). DOAJ record.",
      "url": "https://doaj.org/article/1486ee52744d405ebc79a9b5373489b4"
@@ -10709,6 +10793,11 @@
    "date": "2026-12-30",
    "id": "85",
    "title": "The Biodesign Warehouse, Department Store for Life",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/the-biodesign-warehouse-department-store-for-life-1"
+   },
    "series": "Dutch Design Week",
    "research": [
     {
@@ -10725,10 +10814,6 @@
     }
    ],
    "other": [
-    {
-     "label": "DDW listing: The Biodesign Warehouse, Department Store for Life",
-     "url": "https://ddw.nl/en/programme/the-biodesign-warehouse-department-store-for-life-1"
-    },
     {
      "label": "DDW press release: Emma van der Leest and Anab Jain are the Beacons of DDW 2026",
      "url": "https://ddw.nl/en/press/press-releases/design-pionieers-emma-van-der-leest-and-anab-jain-are-the-beacons-van-dutch-design-week-press"
@@ -10842,6 +10927,11 @@
    "date": "2026-12-31",
    "id": "AANPM43",
    "title": "Recognition before credentials: what science identity research shows",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/the-recognition-came-before-the-credentials"
+   },
    "series": "The Polymath",
    "research": [
     {
@@ -10850,10 +10940,6 @@
     }
    ],
    "other": [
-    {
-     "label": "RN Collins (2026, September 24). The Recognition Came Before the Credentials. The Polymath.",
-     "url": "https://polymath-rn-collins.beehiiv.com/p/the-recognition-came-before-the-credentials"
-    },
     {
      "label": "Wang, J., & Hazari, Z. (2018). Promoting high school students' physics identity through explicit and implicit recognition. Physical Review Physics Education Research, 14(2), 020111. doi:10.1103/PhysRevPhysEducRes.14.020111 (CC BY 4.0).",
      "url": "https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.14.020111"

@@ -18,3 +18,8 @@
 .back{margin-top:40px;font-size:16px}
 @media(max-width:600px){.images div{grid-template-columns:1fr;gap:4px}.intro{font-size:17px}}
 .back a{color:var(--ink);text-underline-offset:3px}
+.origin{display:grid;gap:4px;margin:0 0 34px;padding:22px 24px;background:var(--ink);color:var(--paper);text-decoration:none;max-width:680px}
+.origin:hover .originTitle{text-decoration:underline;text-underline-offset:3px}
+.originLabel{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--lime)}
+.originTitle{font-size:22px;line-height:1.3}
+.origin .host{opacity:.8}

@@ -211,9 +211,9 @@ export default function Culturalyst() {
           <div>
             <p className="eyebrow">The invitation</p>
             <h2>
-              Understand the break.
+              Understand the gap.
               <br />
-              <em>Then choose the form.</em>
+              <em>Then build what is missing.</em>
             </h2>
           </div>
           <div className="contact">
