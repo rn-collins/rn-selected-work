@@ -196,63 +196,80 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Petri Leijdekkers, \"Piet Hein Eek: The Value of Sustainability\", The Low Countries",
+     "url": "https://the-low-countries.com/wp-content/uploads/2024/08/Paginas-van-TLC_190-197.pdf"
+    }
+   ],
    "other": [
     {
-     "label": "Dutch Design Week, Piet Hein Eek location page (DDW 2026)",
+     "label": "Dutch Design Week, Piet Hein Eek location page (2026)",
      "url": "https://ddw.nl/en/locations/piet-hein-eek"
     },
     {
-     "label": "Visit Brabant, Piet Hein Eek",
-     "url": "https://www.visitbrabant.com/en/locations/290844392/piet-hein-eek"
+     "label": "Herbestemming.nl, Strijp R, Eindhoven",
+     "url": "https://www.herbestemming.nl/projecten/strijp-r-eindhoven"
     },
     {
-     "label": "Herbestemming.nl, Strijp-R Eindhoven",
-     "url": "https://www.herbestemming.nl/projecten/strijp-r-eindhoven"
+     "label": "Louis Kalff Institute, Piet Hein Eek (biography)",
+     "url": "https://www.louiskalffinstituut.nl/?p=2443"
+    },
+    {
+     "label": "Innovation Origins (IO+ archive), \"Piet Hein Eek wins first Culture prize Brabant\"",
+     "url": "https://ioplus.nl/archive/en/piet-hein-eek-wins-first-culture-prize-brabant/"
+    },
+    {
+     "label": "Innovation Origins (IO+ archive), \"Piet Hein Eek is busy... but will he be on time for DDW?\"",
+     "url": "https://ioplus.nl/archive/piet-hein-eek-busy-will-time-ddw/"
+    },
+    {
+     "label": "IKEA, \"INDUSTRIELL: celebrate the beauty of imperfection\"",
+     "url": "https://www.ikea.com/in/en/ideas/industriell-celebrate-the-beauty-of-imperfection-pubc9b34e38/"
     },
     {
      "label": "Piet Hein Eek, DDW 2019 page",
      "url": "https://pietheineek.nl/ddw-2019"
     },
     {
-     "label": "Innovation Origins (ioplus), Piet Hein Eek is busy before DDW (October 16, 2017)",
-     "url": "https://ioplus.nl/archive/piet-hein-eek-busy-will-time-ddw/"
-    },
-    {
-     "label": "Advantage Austria, Oostenrijkse stand op Dutch Design Week trekt aandacht",
-     "url": "https://www.advantageaustria.org/nl/news/Oostenrijkse_stand_op_Dutch_Design_Week_trekt_aandacht.html"
-    },
-    {
-     "label": "Omroep Brabant, Ontwerper Piet Hein Eek opent zijn hotel tijdens Dutch Design Week (October 17, 2021)",
+     "label": "Omroep Brabant, \"Ontwerper Piet Hein Eek opent zijn hotel tijdens Dutch Design Week\"",
      "url": "https://www.omroepbrabant.nl/nieuws/3972510/ontwerper-piet-hein-eek-opent-zijn-hotel-tijdens-dutch-design-week"
     },
     {
-     "label": "Dutch Design Daily, DDW24 Area Piet Hein Eek",
-     "url": "https://dutchdesigndaily.com/stories/ddw24-area-piet-hein-eek"
-    },
-    {
-     "label": "TL Magazine, Looking back at Dutch Design Week 2018 (November 2, 2018)",
-     "url": "https://tlmagazine.com/looking-back-dutch-design-week-2018/"
-    },
-    {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven)",
-     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
-    },
-    {
-     "label": "Innovation Origins (ioplus), Piet Hein Eek wins first Culture prize Brabant (July 3, 2017)",
-     "url": "https://ioplus.nl/archive/en/piet-hein-eek-wins-first-culture-prize-brabant/"
-    },
-    {
-     "label": "The Kindcraft, Dutch Design Week 2017",
-     "url": "https://thekindcraft.com/dutch-design-week-2017"
-    },
-    {
-     "label": "Dutch Design Week, Area sneak peek: Piet Hein Eek (October 6, 2021)",
+     "label": "Dutch Design Week, \"Area Sneak Peek: Strijp T+R\"",
      "url": "https://archive.ddw.nl/en/news/688/area-sneak-peek-strijp-tr"
     },
     {
-     "label": "Dutch Design Week, FRIET - Piet Hein Eek location page (DDW 2026)",
-     "url": "https://ddw.nl/index.php/en/locations/friet-piet-hein-eek"
+     "label": "Advantage Austria, \"Oostenrijkse stand op Dutch Design Week trekt aandacht\"",
+     "url": "https://www.advantageaustria.org/nl/news/Oostenrijkse_stand_op_Dutch_Design_Week_trekt_aandacht.html"
+    },
+    {
+     "label": "TL Magazine, \"Looking Back: Dutch Design Week 2018\"",
+     "url": "https://tlmagazine.com/looking-back-dutch-design-week-2018/"
+    },
+    {
+     "label": "Dutch Design Week official Flickr account, Piet Hein Eek albums 2015 to 2024",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+    },
+    {
+     "label": "Kazerne, Open Mind (past exhibition)",
+     "url": "https://kazerne.com/design/past-exhibitions/open-mind/"
+    },
+    {
+     "label": "Dutch Design Week program, De collectie is... De Edelkoort collectie",
+     "url": "https://site.ddw.nl/en/programme/8186/de-collectie-is-de-edelkoort-collectie"
+    },
+    {
+     "label": "Homo Faber (Michelangelo Foundation), De Winkel van Piet Hein Eek",
+     "url": "https://www.homofaber.com/en/discover/de-winkel-van-piet-hein-eek-furniture-making-netherlands"
+    },
+    {
+     "label": "This is Eindhoven, \"DDW-tip: Piet Hein Eek\"",
+     "url": "https://www.thisiseindhoven.com/en/see-and-do/culture-and-design/dutch-design-week-for-beginners/ddw-tip-piet-hein-eek"
+    },
+    {
+     "label": "Dutch Design Daily, \"DDW24 Area Piet Hein Eek\"",
+     "url": "https://dutchdesigndaily.com/stories/ddw24-area-piet-hein-eek"
     }
    ],
    "images": [
@@ -1720,48 +1737,104 @@
    "research": [],
    "other": [
     {
-     "label": "Core77, \"Dutch Design Week 2015: Baars & Bloemhoff Presents Transitions,\" October 28, 2015",
+     "label": "Baars & Bloemhoff, Over ons (About us)",
+     "url": "https://www.baars-bloemhoff.nl/over-ons"
+    },
+    {
+     "label": "Baars & Bloemhoff, 50 jarig jubileum",
+     "url": "https://www.baars-bloemhoff.nl/over-ons/50-jaar"
+    },
+    {
+     "label": "Core77, Ray Hu, \"Dutch Design Week 2015: Baars & Bloemhoff Presents Transitions,\" October 28, 2015",
      "url": "https://www.core77.com/posts/42104/Dutch-Design-Week-2015-Baars-n-Bloemhoff-Presents-%E2%80%9CTransitions%E2%80%9D"
     },
     {
-     "label": "Materialdistrict, \"Transitions II: the second Baars & Bloemhoff exhibition for the Dutch Design Week,\" October 7, 2016",
+     "label": "Baars & Bloemhoff, Transitions I",
+     "url": "https://www.baars-bloemhoff.nl/inspiratie/projecten/transitions/transitions-1"
+    },
+    {
+     "label": "Baars & Bloemhoff, Transitions II",
+     "url": "https://www.baars-bloemhoff.nl/inspiratie/projecten/transitions/transitions-2"
+    },
+    {
+     "label": "MaterialDistrict, \"Transitions II: the second Baars & Bloemhoff exhibition for the Dutch Design Week,\" October 7, 2016",
      "url": "https://materialdistrict.com/article/transitions-ii-second-baars-bloemhoff-exhibition-dutch-design-week/"
     },
     {
-     "label": "Baars & Bloemhoff, home page",
-     "url": "https://www.baars-bloemhoff.nl/"
+     "label": "Architectuur.nl, \"Baars & Bloemhoff presenteert Transitions II\"",
+     "url": "https://www.architectuur.nl/nieuws/baars-bloemhoff-presenteert-transitions-ii/"
     },
     {
-     "label": "Baars & Bloemhoff, Transitions III press page",
-     "url": "https://www.baars-bloemhoff.nl/inspiratie/projecten/transitions/transitions-3/persbericht1"
-    },
-    {
-     "label": "IO+, \"Matter revealed and Transitions III: Broeinest uncovers,\" October 26, 2017",
-     "url": "https://ioplus.nl/archive/en/matter-revealed-transitions-iii-broeinest-uncovers/"
-    },
-    {
-     "label": "Wallpaper*, Dutch Design Week 2018 highlights",
-     "url": "https://www.wallpaper.com/design/dutch-design-week-2018-highlights"
-    },
-    {
-     "label": "Baars & Bloemhoff, Terugblik Below the Surface (DDW19)",
-     "url": "https://www.baars-bloemhoff.nl/terugblik-below-the-surface-cms-terugblik_belowthesurface-ddw19"
-    },
-    {
-     "label": "IOIA, Baars&Bloemhoff project page",
-     "url": "https://www.ioia.nl/baarsbloemhoff"
-    },
-    {
-     "label": "Broeinest, home page",
-     "url": "https://www.broeinest.nl/"
+     "label": "Baars & Bloemhoff, \"8 Broeinest Trend Werelden gecureerd door Raw Color\"",
+     "url": "https://www.baars-bloemhoff.nl/nieuws/broeinest-8-trend-werelden"
     },
     {
      "label": "Baars & Bloemhoff, Dutch Design Week page",
      "url": "https://www.baars-bloemhoff.nl/dutch-design-week-cms-Dutch_Design_Week"
     },
     {
-     "label": "Baars & Bloemhoff, Transitions pages (Transitions I, III, IV)",
-     "url": "https://www.baars-bloemhoff.nl/inspiratie/projecten/transitions/transitions-1"
+     "label": "Baars & Bloemhoff, Transitions III",
+     "url": "https://www.baars-bloemhoff.nl/inspiratie/projecten/transitions/transitions-3"
+    },
+    {
+     "label": "Baars & Bloemhoff, Transitions III press release",
+     "url": "https://www.baars-bloemhoff.nl/inspiratie/projecten/transitions/transitions-3/persbericht1"
+    },
+    {
+     "label": "IO+ (Innovation Origins archive), \"Matter revealed and Transitions III: Broeinest uncovers,\" October 26, 2017",
+     "url": "https://ioplus.nl/archive/en/matter-revealed-transitions-iii-broeinest-uncovers/"
+    },
+    {
+     "label": "Studio Mieke Meijer, Broeinest (project page)",
+     "url": "https://www.miekemeijer.com/broeinest"
+    },
+    {
+     "label": "Baars & Bloemhoff, Transitions IV: The not so Flat Collection",
+     "url": "https://www.baars-bloemhoff.nl/inspiratie/transitions/transitions-iv"
+    },
+    {
+     "label": "KABK, \"KABK alumni at the Dutch Design Week 2018\"",
+     "url": "https://www.kabk.nl/en/events/kabk-alumni-ddw-2018"
+    },
+    {
+     "label": "Wallpaper*, Giovanna Dunmall, \"Highlights from Dutch Design Week 2018\"",
+     "url": "https://www.wallpaper.com/design/dutch-design-week-2018-highlights"
+    },
+    {
+     "label": "MVSA Architects, \"Our four top inspirations from Dutch Design Week 2018\"",
+     "url": "https://mvsa-architects.com/en/news/our-four-top-inspirations-from-dutch-design-week-2018/"
+    },
+    {
+     "label": "Baars & Bloemhoff, Terugblik Below the Surface (DDW19)",
+     "url": "https://www.baars-bloemhoff.nl/terugblik-below-the-surface-cms-terugblik_belowthesurface-ddw19"
+    },
+    {
+     "label": "Studio IOIA, Baars&Bloemhoff (Below the Surface)",
+     "url": "https://www.ioia.nl/baarsbloemhoff"
+    },
+    {
+     "label": "Baars & Bloemhoff, \"Van platenboer naar designhotspot\" (interview with Bart Dekkers and Janou Bonnie, Magazine 03)",
+     "url": "https://www.baars-bloemhoff.nl/in-gesprek-met-bart-dekkers-en-janou-bonnie-cms-magazine-03-interview-broeinest"
+    },
+    {
+     "label": "MaterialDistrict, \"Opening second location Broeinest in Rotterdam,\" February 16, 2017",
+     "url": "https://materialdistrict.com/article/opening-second-location-broeinest-rotterdam/"
+    },
+    {
+     "label": "MaterialDistrict, \"Broeinest Amsterdam is officially open!\" May 25, 2018",
+     "url": "https://materialdistrict.com/article/broeinest-amsterdam-open/"
+    },
+    {
+     "label": "Baars & Bloemhoff, \"Broeinest UTR geopend in Werkspoorfabriek\"",
+     "url": "https://www.baars-bloemhoff.nl/broeinest-utr-geopend-in-werkspoorfabriek-cms-terugblik_opening-broeinestutr"
+    },
+    {
+     "label": "Broeinest, Broeinest Atelier Eindhoven",
+     "url": "https://www.broeinest.nl/eindhoven/"
+    },
+    {
+     "label": "Baars & Bloemhoff, Home page",
+     "url": "https://www.baars-bloemhoff.nl/"
     },
     {
      "label": "Dutch Design Week official Flickr account, Baars & Bloemhoff albums 2015 to 2019",
@@ -5244,34 +5317,78 @@
    },
    "research": [
     {
-     "label": "Baltan Laboratories, Jaarverslag 2015 (annual report, Dutch)",
+     "label": "Baltan Laboratories, Jaarverslag 2014",
+     "url": "https://www.baltanlaboratories.org/content/4-about/5-downloads/baltan2014_jaarverslag_sp.pdf"
+    },
+    {
+     "label": "Baltan Laboratories, Jaarverslag 2015",
      "url": "https://www.baltanlaboratories.org/content/4-about/5-downloads/baltan2015_jaarverslag_sp.pdf"
+    },
+    {
+     "label": "Baltan Laboratories, Jaarverslag 2017",
+     "url": "https://www.baltanlaboratories.org/about/downloads/baltan_jaarverslag2017_v2.pdf"
+    },
+    {
+     "label": "Architectuurcentrum Eindhoven, NatLab, een historische plek met toekomst",
+     "url": "https://www.architectuurcentrumeindhoven.nl/archief/natlab-een-historische-plek-met-toekomst/"
     }
    ],
    "other": [
     {
-     "label": "Dutch Design Week official Flickr albums for Age of Wonderland, 2015, 2016 and 2017",
+     "label": "Dutch Design Week official Flickr albums, Age of Wonderland 2015, 2016, 2017",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
     },
     {
-     "label": "Hivos, \"100 Days of Learning, final edition of Age of Wonderland\" (October 17, 2017)",
+     "label": "Hivos, 100 Days of Learning, final edition of Age of Wonderland",
      "url": "https://hivos.org/100-days-of-learning-final-edition-of-age-of-wonderland/"
     },
     {
-     "label": "Hivos, \"Age of Wonderland 2016\" (October 17, 2016)",
+     "label": "Hivos, Age of Wonderland 2016",
      "url": "https://hivos.org/age-of-wonderland-2016/"
     },
     {
-     "label": "Neon Moire, \"12 go-to events at Dutch Design Week 2016\" (October 13, 2016)",
-     "url": "https://www.neonmoire.com/announcement/12-go-to-events-at-dutch-design-week-2016"
-    },
-    {
-     "label": "Baltan Laboratories, event page \"Age of Wonderland during WDE\"",
+     "label": "Baltan Laboratories, event page Age of Wonderland during WDE",
      "url": "https://www.baltanlaboratories.org/events/age-of-wonderland-during-wde"
     },
     {
-     "label": "Studio International, review of Age of Wonderland (DDW 2014)",
+     "label": "Baltan Laboratories, Looking back on a successful Age of Wonderland",
+     "url": "https://www.baltanlaboratories.org/library/looking-back-on-a-successful-age-of-wonderland"
+    },
+    {
+     "label": "Baltan Laboratories, Out now: Age of Wonderland 2016 Aftermovie",
+     "url": "https://www.baltanlaboratories.org/library/out-now-age-of-wonderland-2016-aftermovie"
+    },
+    {
+     "label": "Baltan Laboratories, Age of Wonderland 2017: 100 days of learning",
+     "url": "https://www.baltanlaboratories.org/library/age-of-wonderland-2017-100-days-of-learning"
+    },
+    {
+     "label": "Baltan Laboratories, 100 Days of Learning Exhibition: a living archive at the Natlab",
+     "url": "https://www.baltanlaboratories.org/events/days-of-learning-exhibition"
+    },
+    {
+     "label": "Baltan Laboratories, Open Social Innovation Lab (October 2014)",
+     "url": "https://www.baltanlaboratories.org/events/open-social-innovation-lab"
+    },
+    {
+     "label": "Dutch Design Week, Age of Wonderland presents: Big data. Big DADA?",
+     "url": "https://archive.ddw.nl/en/press/age-of-wonderland-presents-big-data-big-dada"
+    },
+    {
+     "label": "Studio International, Age of Wonderland (review of DDW 2014)",
      "url": "https://www.studiointernational.com/index.php/age-of-wonderland-dutch-design-week-eindhoven-review"
+    },
+    {
+     "label": "Age of Wonderland program site (ageofwonderland.nl), Internet Archive capture",
+     "url": "https://web.archive.org/web/2018/http://ageofwonderland.nl/retrospect/2017"
+    },
+    {
+     "label": "Baltan Laboratories, About and history",
+     "url": "https://www.baltanlaboratories.org/about"
+    },
+    {
+     "label": "Baltan Laboratories, Natlab inaugurated as historic site by EPS",
+     "url": "https://www.baltanlaboratories.org/library/natlab-inaugurated-as-historic-site"
     }
    ],
    "images": [

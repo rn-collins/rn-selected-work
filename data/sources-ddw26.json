@@ -13,22 +13,55 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "NIST AI 100-4, Reducing Risks Posed by Synthetic Content",
+     "url": "https://doi.org/10.6028/NIST.AI.100-4"
+    }
+   ],
    "other": [
     {
      "label": "DDW program listing, Design Innovation Sessions | Digital Futures",
      "url": "https://ddw.nl/en/programme/design-innovation-sessions-3"
     },
     {
-     "label": "DDW, Mission Day | Digital futures",
+     "label": "CLICKNL, Design Innovation Sessions 2026: Digital Futures",
+     "url": "https://www.clicknl.nl/en/dis-2026-digital-futures/"
+    },
+    {
+     "label": "DDW Mission Day | Digital Futures",
      "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-digital-futures"
     },
     {
-     "label": "European Commission AI Act Service Desk, Article 50",
+     "label": "EU AI Act, Article 50 (consolidated as at July 27, 2026, AI Act Service Desk)",
      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50"
     },
     {
-     "label": "University of Amsterdam news item, January 28, 2026 (Dutch)",
+     "label": "EU AI Act, Article 113 (AI Act Service Desk)",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-113"
+    },
+    {
+     "label": "EU AI Act, Article 111 (AI Act Service Desk)",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-111"
+    },
+    {
+     "label": "European Commission, Code of Practice on Transparency of AI-generated Content",
+     "url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content"
+    },
+    {
+     "label": "EU AI Act, Article 53 (AI Act Service Desk)",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-53"
+    },
+    {
+     "label": "European Commission, Template for general-purpose AI model providers to summarise their training content (FAQ)",
+     "url": "https://digital-strategy.ec.europa.eu/en/faqs/template-general-purpose-ai-model-providers-summarise-their-training-content"
+    },
+    {
+     "label": "TU Delft agenda, Doctoral defence C.P. Alfrink",
+     "url": "https://www.tudelft.nl/en/evenementen/2024/tu-delft/05-mei/doctoral-defence-cp-alfrink"
+    },
+    {
+     "label": "University of Amsterdam, Subsidie voor veilige generatieve AI in de creatieve sector",
      "url": "https://www.uva.nl/shared-content/faculteiten/nl/faculteit-economie-en-bedrijfskunde/nieuws/2026/01/subsidie-voor-veilige-generatieve-ai-in-de-creatieve-sector.html"
     },
     {
@@ -36,12 +69,8 @@
      "url": "https://www.clicknl.nl/en/pps-projecten/safe-gen-ai"
     },
     {
-     "label": "DDW Mission Days 2026",
-     "url": "https://ddw.nl/en/programme/mission-days-2026"
-    },
-    {
-     "label": "TU Delft, Alfrink PhD defense",
-     "url": "https://www.tudelft.nl/en/evenementen/2024/tu-delft/05-mei/doctoral-defence-cp-alfrink"
+     "label": "Council of the EU, document 16710/1/24 REV 1",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-16710-2024-REV-1/en/pdf"
     }
    ],
    "images": [
@@ -130,26 +159,62 @@
    },
    "research": [
     {
-     "label": "Europe PMC record for Doshi and Hauser, Science Advances, July 2024 (DOI 10.1126/sciadv.adn5290)",
-     "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1126/sciadv.adn5290&resultType=core&format=json"
+     "label": "Doshi and Hauser, Generative AI enhances individual creativity but reduces the collective diversity of novel content (Science Advances, open access via PubMed Central)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11244532"
     },
     {
-     "label": "Doshi and Hauser (2024), Science Advances, abstract via Exeter repository",
-     "url": "https://ore.exeter.ac.uk/articles/journal_contribution/Generative_AI_enhances_individual_creativity_but_reduces_the_collective_diversity_of_novel_content/29809991"
+     "label": "Wadinambiarachchi et al., The Effects of Generative AI on Design Fixation and Divergent Thinking (CHI 2024)",
+     "url": "https://arxiv.org/abs/2403.11164"
+    },
+    {
+     "label": "Anderson, Shah and Kreminski, Homogenization Effects of Large Language Models on Human Creative Ideation (C&C 2024)",
+     "url": "https://arxiv.org/abs/2402.01536"
+    },
+    {
+     "label": "Mack Institute (Wharton), Increasing AI Idea Variance (summary of Meincke, Mollick and Terwiesch)",
+     "url": "https://mackinstitute.wharton.upenn.edu/2024/new-paper-on-prompting-diverse-ideas-increasing-ai-idea-variance/"
+    },
+    {
+     "label": "Sourati, Ziabari and Dehghani, The Homogenizing Effect of Large Language Models on Human Expression and Thought (arXiv v2)",
+     "url": "https://arxiv.org/abs/2508.01491"
     }
    ],
    "other": [
     {
-     "label": "DDW program listing, 5th Design & AI Symposium",
+     "label": "Dutch Design Week program listing, 5th Design & AI symposium: Return on Investment (2026)",
      "url": "https://ddw.nl/en/programme/5th-design-ai-symposium-1"
     },
     {
-     "label": "DDW archive, 4th Design & AI Symposium, October 21, 2025",
-     "url": "https://ddw.nl/en/programme/archive/2025/4th-design-amp-ai-symposium"
+     "label": "Design & AI Symposium 2026, organizers' website",
+     "url": "https://designandai.nl"
     },
     {
-     "label": "DDW program listing, Design & AI: Many (Re)Turns",
+     "label": "Eventbrite, 5th Design & AI symposium (TU Eindhoven Industrial Design)",
+     "url": "https://www.eventbrite.nl/e/5th-design-ai-symposium-tickets-1999513650153"
+    },
+    {
+     "label": "Design & AI Symposium 2025, organizers' website",
+     "url": "https://designandai.nl/2025"
+    },
+    {
+     "label": "Design & AI Symposium 2024, organizers' website",
+     "url": "https://designandai.nl/2024"
+    },
+    {
+     "label": "Dutch Design Week program listing, Design & AI: Many (Re)Turns",
      "url": "https://site.ddw.nl/en/programme/18023/design-amp-ai-many-returns"
+    },
+    {
+     "label": "PsyPost, Real-world evidence shows generative AI is making human creative output more uniform (report on a preprint by de Rooij and Biskjaer)",
+     "url": "https://www.psypost.org/real-world-evidence-shows-generative-ai-is-making-human-creative-output-more-uniform/"
+    },
+    {
+     "label": "IFAA, Report of the Federative International Programme on Anatomical Terminologies (FIPAT)",
+     "url": "https://ifaa.net/?p=1401"
+    },
+    {
+     "label": "NL Times, Dutch experts call for ambitious plan to dominate global artificial intelligence race",
+     "url": "https://nltimes.nl/node/84768"
     }
    ],
    "images": [
@@ -236,15 +301,92 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Ellen MacArthur Foundation, A New Textiles Economy: Redesigning fashion's future",
+     "url": "https://emf.org/a-new-textiles-economy"
+    },
+    {
+     "label": "Nederlandse Textieltafel, press release on advice Samen verder in Circulair Textiel (via InRetail)",
+     "url": "https://www.inretail.nl/wp-content/uploads/2026/06/Persbericht-Textieltafel.pdf"
+    },
+    {
+     "label": "Minister van Klimaat en Groene Groei, letter to the Tweede Kamer, Kamerstukken II 2025/26, 32 852, nr. 408",
+     "url": "https://www.eerstekamer.nl/nonav/behandeling/20260626/brief_regering_kabinetsreactie_op_3/document3/f=/vmyufj38fpzq.pdf"
+    }
+   ],
    "other": [
     {
-     "label": "DDW program listing, Textile & Material Innovation HUB",
+     "label": "Dutch Design Week program listing, Textile & Material Innovation HUB (2026)",
      "url": "https://ddw.nl/en/programme/textile-material-innovation-hub"
     },
     {
-     "label": "DDW program listing, Soft Companions",
+     "label": "Dutch Design Week program listing, Soft Companions (2026)",
      "url": "https://ddw.nl/en/programme/soft-companions"
+    },
+    {
+     "label": "Dutch Design Week program archive, Textile and Material innovation (2025)",
+     "url": "https://ddw.nl/en/programme/archive/2025/textile-and-material-innovation-1"
+    },
+    {
+     "label": "Dutch Design Week, Call for Entries is open (press archive, DDW25)",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/984/call-for-entries-is-open-dutch-design-week-2025"
+    },
+    {
+     "label": "Dutch Design Week, The call for entries is now live (2026 edition)",
+     "url": "https://site.ddw.nl/en/news/1007/de-call-for-entries-is-geopend"
+    },
+    {
+     "label": "Rijksmonumentenregister, Klokgebouw, monument number 518769",
+     "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/518769"
+    },
+    {
+     "label": "Dutch Design Week magazine archive, Close-up: Klokgebouw (DDW19)",
+     "url": "https://archive.ddw.nl/en/magazine-archive/373/close-up-klokgebouw"
+    },
+    {
+     "label": "European Environment Agency press release, Consumption of clothing, footwear, other textiles in the EU reaches new record high",
+     "url": "https://www.eea.europa.eu/en/newsroom/news/consumption-of-clothing-footwear-other-textiles-in-the-eu-reaches-new-record-high"
+    },
+    {
+     "label": "European Commission, Sustainable and Circular Textiles Strategy",
+     "url": "https://environment.ec.europa.eu/strategy/textiles-strategy_en"
+    },
+    {
+     "label": "Staatsblad 2023, 132: Besluit uitgebreide producentenverantwoordelijkheid textiel, with explanatory note",
+     "url": "https://zoek.officielebekendmakingen.nl/stb-2023-132.html"
+    },
+    {
+     "label": "Afval Circulair, FAQ EPR for textiles, English",
+     "url": "https://www.afvalcirculair.nl/uitgebreide-producentenverantwoordelijkheid-upv/overzicht-upv/upv-textiel/faq-upv-textiel/faq-epr-for-textiles-english"
+    },
+    {
+     "label": "Stichting UPV Textiel, Hoofd- en hergebruikdoelstellingen UPV Textiel behaald",
+     "url": "https://www.stichtingupvtextiel.nl/blog/hoofd-en-hergebruikdoelstellingen-upv-textiel-behaald/"
+    },
+    {
+     "label": "Stichting UPV Textiel, Actualisering kostprijsonderzoek: kosten stijgen, opbrengsten dalen",
+     "url": "https://www.stichtingupvtextiel.nl/blog/actualisering-kostprijsonderzoek-kosten-stijgen-opbrengsten-dalen/"
+    },
+    {
+     "label": "Stichting UPV Textiel, Oplopende tekorten textielketen 2025/2026",
+     "url": "https://www.stichtingupvtextiel.nl/blog/oplopende-tekorten-textielketen-2025-2026/"
+    },
+    {
+     "label": "European Parliament Legislative Observatory, Waste Framework Directive: textiles and food waste (summary of Directive (EU) 2025/1892)",
+     "url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1845495"
+    },
+    {
+     "label": "World Health Organization, Social connection linked to improved health and reduced risk of early death",
+     "url": "https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death"
+    },
+    {
+     "label": "Dutch Design Week program listing, Piece by Piece: Textile Waste to Designed Space (2026)",
+     "url": "https://ddw.nl/en/programme/piece-by-piece-textile-waste-to-designed-space"
+    },
+    {
+     "label": "Dutch Design Awards, About the organisation",
+     "url": "https://www.dutchdesignawards.nl/en/organisation/"
     }
    ],
    "images": [
@@ -338,31 +480,108 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Bai and others, Constitutional AI: Harmlessness from AI Feedback, arXiv:2212.08073",
+     "url": "https://arxiv.org/abs/2212.08073"
+    },
+    {
+     "label": "Anthropic, Collective Constitutional AI: Aligning a language model with public input",
+     "url": "https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input"
+    },
+    {
+     "label": "Roozenbeek and van der Linden, Fake news game confers psychological resistance against online misinformation, Palgrave Communications",
+     "url": "https://www.nature.com/articles/s41599-019-0279-9"
+    },
+    {
+     "label": "Kleinberger, Cunha, Vemuri and Hirskyj-Douglas, Birds of a Feather Video-Flock Together, CHI 2023",
+     "url": "https://eprints.gla.ac.uk/297082/1/297082.pdf"
+    },
+    {
+     "label": "Dirk van Delft, 100 Years of Philips Research, Europhysics News 45/2",
+     "url": "https://www.europhysicsnews.org/articles/epn/pdf/2014/02/epn2014452p27.pdf"
+    },
+    {
+     "label": "Henk Hagenbeuk, Herinneringen aan het Philips Nat.Lab. op de Kastanjelaan (deel 3 slot)",
+     "url": "https://hagenbeuk.nl/wp-content/uploads/2017/10/NatLab3.pdf"
+    }
+   ],
    "other": [
     {
-     "label": "DDW program listing, 4TU.Design United Dialogues 3: Digital Futures",
+     "label": "Dutch Design Week program listing, 4TU.Design United Dialogues 3: Digital Futures (2026)",
      "url": "https://ddw.nl/en/programme/4tudesign-united-dialogues-3-digital-futures"
     },
     {
-     "label": "4TU.Design United, 2026 Design Bridges edition page, Digital Futures section",
+     "label": "Dutch Design Week program listing, 4TU.Design United Dialogues Design Bridges (2026)",
+     "url": "https://ddw.nl/en/programme/4tudesign-united-dialogues-design-bridges"
+    },
+    {
+     "label": "4TU.Design United, 2026 Design Bridges edition page",
      "url": "https://www.4tu.nl/du/editions/2026-design-bridges-technology-people-society-planet/"
     },
     {
-     "label": "Wikipedia, Philips Natuurkundig Laboratorium",
-     "url": "https://en.wikipedia.org/wiki/Philips_Natuurkundig_Laboratorium"
+     "label": "4TU.Design United, 2025 Less Hope, More Action! edition page",
+     "url": "https://www.4tu.nl/du/editions/2025-less-hope-more-action!/"
     },
     {
-     "label": "4TU.Design United 2026 Design Bridges edition, Digital Futures",
-     "url": "https://www.4tu.nl/du/editions/2026-design-bridges-technology-people-society-planet/#digital-futures"
+     "label": "4TU.Design United project page, Curio",
+     "url": "https://www.4tu.nl/du/projects/curio/"
     },
     {
-     "label": "4TU DDW 2026 page",
-     "url": "https://www.4tu.nl/du/about-us/events/dutch-design-week-2026/"
+     "label": "4TU.Design United project page, cliMATE",
+     "url": "https://www.4tu.nl/du/projects/climate/"
     },
     {
-     "label": "DDW highlights release, September 29, 2026",
-     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+     "label": "4TU.Design United project page, The Virus In Our Home",
+     "url": "https://www.4tu.nl/du/projects/the-virus-in-our-home/"
+    },
+    {
+     "label": "4TU.Design United project page, Gossiping Senseos",
+     "url": "https://www.4tu.nl/du/projects/gossiping-senseos/"
+    },
+    {
+     "label": "4TU.Design United project page, Interaction Design for Accessible Repair",
+     "url": "https://www.4tu.nl/du/projects/interaction-design-for-accessible-repair/"
+    },
+    {
+     "label": "4TU.Design United project page, Con/Vince",
+     "url": "https://www.4tu.nl/du/projects/con-vince/"
+    },
+    {
+     "label": "4TU.Design United project page, Designing Interactive Sound Enrichment for Captive Parrots",
+     "url": "https://www.4tu.nl/du/projects/designing-interactive-sound-enrichment-for-captive-parrots/"
+    },
+    {
+     "label": "4TU.Design United project page, Situated Access",
+     "url": "https://www.4tu.nl/du/projects/situated-access/"
+    },
+    {
+     "label": "4TU.Design United project page, The Constitution Builder",
+     "url": "https://www.4tu.nl/du/projects/the-constitution-builder/"
+    },
+    {
+     "label": "International AI Safety Report 2026",
+     "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026"
+    },
+    {
+     "label": "The Royal Swedish Academy of Sciences, press release, The Nobel Prize in Chemistry 2024",
+     "url": "https://www.nobelprize.org/prizes/chemistry/2024/press-release/"
+    },
+    {
+     "label": "ITU and UNITAR, Global e-Waste Monitor 2024 press release",
+     "url": "https://unitar.org/about/news-stories/press/global-e-waste-monitor-2024-electronic-waste-rising-five-times-faster-documented-e-waste-recycling"
+    },
+    {
+     "label": "European Commission, Right to repair: New consumer rights for easy and attractive repairs",
+     "url": "https://commission.europa.eu/news-and-media/news/right-repair-new-consumer-rights-easy-and-attractive-repairs-2026-07-31_en"
+    },
+    {
+     "label": "This is Eindhoven, Eindhoven from A to Z: Natlab",
+     "url": "https://www.thisiseindhoven.com/en/city-life/eindhoven-from-a-to-z/eindhoven-van-a-tot-z-natlab"
+    },
+    {
+     "label": "Dutch Design Week magazine archive, Close-up: Klokgebouw (DDW19)",
+     "url": "https://archive.ddw.nl/en/magazine-archive/373/close-up-klokgebouw"
     }
    ],
    "images": [
@@ -463,31 +682,68 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Wennink Report, The Roadmap to Future Prosperity (English edition)",
+     "url": "https://www.rapportwennink.nl/downloads/wennink_report_12december2025.pdf"
+    },
+    {
+     "label": "D66, VVD and CDA, Aan de slag: Coalitieakkoord 2026-2030",
+     "url": "https://www.kabinetsformatie2025.nl/site/binaries/site-content/collections/documents/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030/coalitieakkoord-d66-vvd-cda.pdf"
+    },
+    {
+     "label": "Innovatieplatform, Het Innovatieplatform: van inzicht naar implementatie (midterm review), Kamerstukken II 27 406, nr. 65 attachment",
+     "url": "https://zoek.officielebekendmakingen.nl/kst-27406-65-b1.pdf"
+    },
+    {
+     "label": "Cultuurmonitor, Design domain page (Dutch)",
+     "url": "https://www.cultuurmonitor.nl/domein/design/"
+    },
+    {
+     "label": "Monitor creatieve industrie, 2025 edition home page",
+     "url": "https://www.monitorcreatieveindustrie.nl/"
+    }
+   ],
    "other": [
     {
-     "label": "DDW program listing, Symposium: De creatieve economie",
+     "label": "Dutch Design Week program listing, Peter Wennink | Symposium: De creatieve economie (2026)",
      "url": "https://ddw.nl/en/programme/symposium-de-creatieve-economie-met-oa-peter-wennink"
     },
     {
-     "label": "Emerce, article submitted by Dutch Design Week, September 15, 2026 (Dutch)",
-     "url": "https://www.emerce.nl/?p=7089132"
+     "label": "Dutch Design Foundation, Symposium | De creatieve economie (event page, Dutch)",
+     "url": "https://www.dutchdesignfoundation.com/updates/de-creatieve-economie-symposium-tijdens-ddw/"
     },
     {
-     "label": "Accountant.nl, article on the Wennink report, December 2025 (Dutch)",
-     "url": "https://www.accountant.nl/nieuws/2025/12/peter-wennink-wil-dat-nederland-nu-investeert-om-toekomstige-welvaart-veilig-te-stellen/"
+     "label": "Emerce Industry Wire (submitted item), Voormalig ASML-topman Peter Wennink spreekt op Dutch Design Week",
+     "url": "https://www.emerce.nl/wire/voormalig-asmltopman-peter-wennink-spreekt-dutch-design-week-creatieve-industrie-economische-groei-nederland"
     },
     {
-     "label": "Dutch Design Foundation event page",
-     "url": "https://www.dutchdesignfoundation.com/en/calendar/symposium-the-creative-economy/"
+     "label": "Minister van Economische Zaken, letter to the Tweede Kamer, Kamerstukken II 32 637, nr. 739",
+     "url": "https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2025D51780&did=2025D51780"
     },
     {
-     "label": "DDW activities list",
-     "url": "https://ddw.nl/en/programme/activities-and-events"
+     "label": "Rapport Wennink, Projectvoorstellen (appendix, Tweede Kamer document 2025D51782)",
+     "url": "https://www.tweedekamer.nl/downloads/document?id=2025D51782"
     },
     {
-     "label": "DDW highlights release, September 29, 2026",
-     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+     "label": "Cabinet response to the advice of the top sectors, Kamerstukken II 32 637, nr. 15",
+     "url": "https://zoek.officielebekendmakingen.nl/kst-32637-15.html"
+    },
+    {
+     "label": "Kennisland, De Topsector Creatieve Industrie moet het nu zelf doen (Dutch)",
+     "url": "https://kl.nl/opinie/de-topsector-creatieve-industrie-moet-het-nu-zelf-doen/"
+    },
+    {
+     "label": "De Creatieve Coalitie, Monitor Creatieve Industrie 2024 summary (Dutch)",
+     "url": "https://www.decreatievecoalitie.nl/nieuws/monitor-creatieve-industrie-2024-een-groeiende-sector-maar-positie-van-werkenden-verdient-aandacht"
+    },
+    {
+     "label": "Vereniging Nederlandse Poppodia en -Festivals, Achtergrond: rapport-Wennink en wat het voor onze sector kan betekenen (Dutch)",
+     "url": "https://vnpf.nl/nieuws/achtergrond-rapport-wennink-en-wat-het-voor-onze-sector-kan-betekenen/"
+    },
+    {
+     "label": "Dutch Design Week, Dutch Design Week 2025 brings together the best in design (press archive)",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/1001/dutch-design-week-2025-brings-together-the-best-in-design"
     }
    ],
    "images": [
@@ -588,59 +844,80 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Arnal, Flinker, Kleinschmidt, Giraud and Poeppel, Human Screams Occupy a Privileged Niche in the Communication Soundscape, Current Biology",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4562283"
+    },
+    {
+     "label": "Pessoa, Emotion and Attention Effects: Is It All a Matter of Timing? Not Yet, Frontiers in Human Neuroscience",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2944665"
+    },
+    {
+     "label": "Johns Hopkins University via ScienceDaily, Rise In Hospital Noise Poses Problems For Patients And Staff (Busch-Vishniac and West, J Acoust Soc Am 118(6):3629-45)",
+     "url": "https://www.sciencedaily.com/releases/2005/11/051121101949.htm"
+    },
+    {
+     "label": "Darbyshire and Young, An investigation of sound levels on intensive care units with reference to the WHO guidelines, Critical Care 17(5):R187",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4056361/"
+    }
+   ],
    "other": [
     {
-     "label": "Dutch Design Awards, Emerging Talent Award 2026 finalists, July 9, 2026",
+     "label": "Dutch Design Awards, announcement of the Emerging Talent Award 2026 finalists",
      "url": "https://www.dutchdesignawards.nl/en/update/dutch-design-awards-announces-finalists-emerging-talent-award-2026/"
     },
     {
-     "label": "Colette Aliman, personal site",
-     "url": "https://www.colettealiman.com/"
-    },
-    {
-     "label": "CLOT Magazine, article on Soundscapes of Fear, December 27, 2020",
-     "url": "https://clotmag.com/news/insight-colette-aliman-lauriane-heims-soundscapes-of-fear"
-    },
-    {
-     "label": "Z33, Studiocalh profile",
-     "url": "https://www.z33.be/en/profiel/studiocalh/"
-    },
-    {
-     "label": "Studio Julia Janssen, Chadding project page",
-     "url": "https://studiojuliajanssen.com/projecten/chadding/"
-    },
-    {
-     "label": "DDA jury 2026",
+     "label": "Dutch Design Awards, announcement of the 2026 jury",
      "url": "https://www.dutchdesignawards.nl/en/update/dutch-design-awards-announces-2026-jury-to-select-class-of-emerging-talent/"
     },
     {
-     "label": "Processing Foundation bio",
-     "url": "https://processingfoundation.org/people/colette-aliman/"
+     "label": "Dutch Design Awards, Emerging Talent Award 2026 (criteria, jury, prizes, Class of 2025)",
+     "url": "https://www.dutchdesignawards.nl/en/emerging-talent-award-2026/"
     },
     {
-     "label": "Mozilla blog on Julia Janssen",
-     "url": "https://blog.mozilla.org/en/internet-culture/julia-janssen-data-protection-privacy-rise-25-mozilla-ai/"
+     "label": "Dutch Design Awards, About the organisation",
+     "url": "https://www.dutchdesignawards.nl/en/organisation/"
     },
     {
-     "label": "Falling Walls profile",
-     "url": "https://falling-walls.com/node/1354"
+     "label": "Keep an Eye Foundation, Over Keep an Eye (Dutch)",
+     "url": "https://keepaneye.nl/over-keep-an-eye/"
     },
     {
-     "label": "KABK profile of Sondi Rumohr",
-     "url": "https://www.kabk.nl/docenten/sondi-rumohr"
+     "label": "Colette Aliman, personal site (home page, Soundscapes of Fear, Centering Listening in Designed Places of Care)",
+     "url": "https://www.colettealiman.com/"
     },
     {
-     "label": "Amsterdam Fashion Week",
+     "label": "CLOT Magazine, Insight: Colette Aliman & Lauriane Heim Soundscapes of Fear",
+     "url": "https://clotmag.com/news/insight-colette-aliman-lauriane-heims-soundscapes-of-fear"
+    },
+    {
+     "label": "Studio Julia Janssen, agenda page, Dutch Design Week exhibition",
+     "url": "https://studiojuliajanssen.com/agenda/dutch-design-week/"
+    },
+    {
+     "label": "Studio Julia Janssen, project page, Chadding",
+     "url": "https://studiojuliajanssen.com/projecten/chadding/"
+    },
+    {
+     "label": "PPC Land, OpenAI finally pulls trigger on ChatGPT ads after monthslong delay",
+     "url": "https://ppc.land/openai-finally-pulls-trigger-on-chatgpt-ads-after-monthslong-delay/"
+    },
+    {
+     "label": "International AI Safety Report 2026",
+     "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026"
+    },
+    {
+     "label": "Sondi, Info",
+     "url": "https://www.sondi.online/info"
+    },
+    {
+     "label": "Amsterdam Fashion Week, Ülkühan Akgül and Batuhan Demir win the Frans Molenaar Prize 2025",
      "url": "https://amsterdamfashionweek.nl/ulkuhanbatuhan-win-the-frans-molenaar-prize-2025/"
     },
     {
-     "label": "Hypebae interview (Sep 2026)",
-     "url": "https://hypebae.com/2026/9/the-body-issue-esmay-wagemans-interviews-ai-material-research-sevdaliza-body-representation"
-    },
-    {
-     "label": "DDW highlights release, September 29, 2026",
-     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+     "label": "Esmay Wagemans, Info",
+     "url": "https://www.esmaywagemans.com/info"
     }
    ],
    "images": [
@@ -755,19 +1032,100 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Burrow-Giles Lithographic Co. v. Sarony, 111 U.S. 53 (opinion text)",
+     "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep111/usrep111053/usrep111053.pdf"
+    },
+    {
+     "label": "Copyright and Artificial Intelligence, Part 2: Copyrightability",
+     "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf"
+    },
+    {
+     "label": "Re: Zarya of the Dawn (VAu001480196), letter",
+     "url": "https://www.copyright.gov/docs/zarya-of-the-dawn.pdf"
+    },
+    {
+     "label": "Review Board decision, Théâtre D'opéra Spatial",
+     "url": "https://www.copyright.gov/rulings-filings/review-board/docs/Theatre-Dopera-Spatial.pdf"
+    },
+    {
+     "label": "Thaler v. Perlmutter, No. 23-5233, opinion",
+     "url": "https://media.cadc.uscourts.gov/opinions/docs/2025/03/23-5233.pdf"
+    },
+    {
+     "label": "Li v. Liu, (2023) Jing 0491 Min Chu No. 11279, judgment (English translation)",
+     "url": "https://english.bjinternetcourt.gov.cn/pdf/BeijingInternetCourtCivilJudgment112792023.pdf"
+    },
+    {
+     "label": "Report on Copyright and Artificial Intelligence",
+     "url": "https://assets.publishing.service.gov.uk/media/69ba692226909a14239612e4/CP2602959_-_Report_on_Copyright_and_Artificial_Intelligence_web.pdf"
+    }
+   ],
    "other": [
     {
-     "label": "DDW program listing, PROMPT",
+     "label": "DDW program listing, PROMPT: Not the Brush, but the Prompt",
      "url": "https://ddw.nl/en/programme/prompt"
     },
     {
-     "label": "DDW highlights release, September 29, 2026",
+     "label": "PROMPT: Art & Design in the Age of Artificial Intelligence, event page",
+     "url": "https://nextnature.org/en/events/prompt"
+    },
+    {
+     "label": "PROMPT @ Next Nature (blog post)",
+     "url": "https://www.peterlunenfeld.com/2026/08/29/prompt-next-nature/"
+    },
+    {
+     "label": "Prompt, Art & Design in the Age of Artificial Intelligence (product page)",
+     "url": "https://www.bispublishers.com/prompt.html"
+    },
+    {
+     "label": "Prompt by Mieke Gerritzen (title page)",
+     "url": "https://www.hachette.co.uk/titles/mieke-gerritzen/prompt/9789063698003/"
+    },
+    {
+     "label": "These are the Highlights of Dutch Design Week 2026",
      "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
     },
     {
-     "label": "DDW activities list",
-     "url": "https://ddw.nl/en/programme/activities-and-events"
+     "label": "Docket for No. 25-449, Thaler v. Perlmutter",
+     "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-449.html"
+    },
+    {
+     "label": "Allen v. Perlmutter, case tracker",
+     "url": "https://www.mcbrayerfirm.com/blogs-intellectual-property-case-tracker,Allen-v-Perlmutter"
+    },
+    {
+     "label": "Hoge Raad, May 30, 2008, ECLI:NL:HR:2008:BC2153 (Endstra tapes)",
+     "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2008:BC2153"
+    },
+    {
+     "label": "Auteurswet (Dutch Copyright Act), Articles 1 and 10",
+     "url": "https://wetten.overheid.nl/BWBR0001886/"
+    },
+    {
+     "label": "Policy questionnaire on generative AI and copyright, Presidency summary of Member States contributions (16710/1/24 REV 1)",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-16710-2024-REV-1/en/pdf"
+    },
+    {
+     "label": "Czech court finds that AI tool DALL-E cannot be the author of a copyright work",
+     "url": "https://ipkitten.blogspot.com/2024/04/czech-court-finds-that-ai-tool-dall-e.html"
+    },
+    {
+     "label": "Copyright, Designs and Patents Act 1988, section 9",
+     "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/9"
+    },
+    {
+     "label": "O Sole Mio: CJEU's tune on copyright protection of works of applied art",
+     "url": "https://cms.law/en/nld/legal-updates/o-sole-mio-cjeu-s-tune-on-copyright-protection-of-works-of-applied-art"
+    },
+    {
+     "label": "European Parliament resolution on copyright and generative AI (IRIS 2026-3:1/7)",
+     "url": "https://merlin.obs.coe.int/article/10499"
+    },
+    {
+     "label": "CJEU to rule on AI and copyright in a landmark case against Google",
+     "url": "https://www.stephensonharwood.com/insights/cjeu-to-rule-on-ai-and-copyright-in-a-landmark-case-against-google/"
     }
    ],
    "images": [
@@ -854,23 +1212,104 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Draft joint guidelines on the interplay between the DMA and the GDPR",
+     "url": "https://www.edpb.europa.eu/system/files/2025-10/joint_com-edpb_gls_interplay_dma_gdpr_for_public_consultation_en.pdf"
+    },
+    {
+     "label": "Guidelines on the right to data portability (WP242 rev.01)",
+     "url": "https://www.autoriteitpersoonsgegevens.nl/uploads/imported/wp242_rev01_enpdf_0.pdf"
+    },
+    {
+     "label": "Report on the review of the Digital Markets Act, COM(2026) 178 final",
+     "url": "https://digital-markets-act.ec.europa.eu/system/files/2026-04/DMA%20Review%20Report_COM_2026_178_1_EN.pdf"
+    },
+    {
+     "label": "Staff Working Document SWD(2026) 123 final, DMA review",
+     "url": "https://digital-markets-act.ec.europa.eu/document/download/788ff6d9-f0bf-47d2-80a8-611d5ee5bc51_en?filename=DMA+Review_Commission+Staff+Working+Document_SWD_2026_123_1_EN.pdf"
+    }
+   ],
    "other": [
     {
-     "label": "DDW program listing, The Internet Used To Be A Home (also read at ddw.nl)",
+     "label": "DDW program listing, The Internet Used To Be a Home",
      "url": "https://ddw.nl/en/programme/the-internet-used-to-be-a-home"
     },
     {
-     "label": "European Commission, DMA portal, end-user data portability",
-     "url": "https://digital-markets-act.ec.europa.eu/developer-portal/end-user-data-portability_en"
+     "label": "The Internet Used To Be a Place / home, research site: start page",
+     "url": "https://trish.hotglue.me/?Startpage"
     },
     {
-     "label": "Trisha Koevoets portfolio, Mijn werk",
+     "label": "Research site: introduction",
+     "url": "https://trish.hotglue.me/introductie"
+    },
+    {
+     "label": "Research site: Inleiding and Hoofd- & deelvragen",
+     "url": "https://trish.hotglue.me/?vragen/"
+    },
+    {
+     "label": "Research site: eindwerk (final work)",
+     "url": "https://trish.hotglue.me/?eindwerk/"
+    },
+    {
+     "label": "Research site: deskresearch",
+     "url": "https://trish.hotglue.me/?deskresearch/"
+    },
+    {
+     "label": "Research site: fieldresearch",
+     "url": "https://trish.hotglue.me/?Fieldresearch/"
+    },
+    {
+     "label": "Research site: prototypes",
+     "url": "https://trish.hotglue.me/?prototypes/"
+    },
+    {
+     "label": "Research site: designcriteria",
+     "url": "https://trish.hotglue.me/?designcriteria/"
+    },
+    {
+     "label": "Portfolio, Mijn werk page",
      "url": "https://trishakoevoets.com/mijn-werk/"
     },
     {
-     "label": "DDW participants FAQ",
-     "url": "https://site.ddw.nl/en/participation/participants-faq"
+     "label": "End user data portability, Questions and answers (Article 6(9))",
+     "url": "https://digital-markets-act.ec.europa.eu/developer-portal/end-user-data-portability_en"
+    },
+    {
+     "label": "Gatekeepers Portal",
+     "url": "https://digital-markets-act.ec.europa.eu/gatekeepers_en"
+    },
+    {
+     "label": "Tiktok's enshittification",
+     "url": "https://pluralistic.net/2023/01/21/potemkin-ai/"
+    },
+    {
+     "label": "How monopoly enshittified Amazon",
+     "url": "https://pluralistic.net/2022/11/28/enshittification/"
+    },
+    {
+     "label": "Announcing the Enshittification tour (colophon)",
+     "url": "https://pluralistic.net/2025/09/30/enshittification-tour/"
+    },
+    {
+     "label": "GeoCities",
+     "url": "https://wiki.archiveteam.org/index.php/GeoCities"
+    },
+    {
+     "label": "Social media apps are 'deliberately' addictive to users",
+     "url": "https://www.bbc.com/news/technology-44640959"
+    },
+    {
+     "label": "Licensing the Web",
+     "url": "https://home.cern/science/computing/the-birth-of-the-web/licensing-web/"
+    },
+    {
+     "label": "Moving or leaving accounts",
+     "url": "https://docs.joinmastodon.org/user/moving/"
+    },
+    {
+     "label": "Commission and EDPB publish contributions to the consultation on the draft joint guidelines",
+     "url": "https://digital-markets-act.ec.europa.eu/commission-and-edpb-publish-contributions-consultation-draft-joint-guidelines-interplay-between-dma-2026-03-12_en"
     }
    ],
    "images": [
@@ -952,43 +1391,75 @@
    },
    "research": [
     {
-     "label": "A&L Goodbody, guide to Article 50 of the EU AI Act, 2026",
-     "url": "https://www.algoodbody.com/files/uploads/news_insights_pub/Guide_to_Article_50_of_the_EU_AI_Act.pdf"
+     "label": "Tea Bag Index: a novel approach to collect uniform decomposition data across ecosystems (abstract record)",
+     "url": "https://pure.knaw.nl/portal/en/publications/tea-bag-index-a-novel-approach-to-collect-uniform-decomposition-d/"
     },
     {
-     "label": "CCIA, Barata Mir, Transparency Obligations (Art. 50)",
-     "url": "https://ccianet.org/wp-content/uploads/2025/12/Transparency-Obligations-for-All-AI-Systems-Article-50-of-the-AI-Act-Written-by-Dr.-Joan-Barata-Mir.pdf"
+     "label": "Investigation of the Protective Function of a Lignin Coating of Natural Fiber Geotextiles against Biodegradation (literature survey section)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10343413/"
+    },
+    {
+     "label": "PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models",
+     "url": "https://arxiv.org/abs/2406.11802"
     }
    ],
    "other": [
     {
-     "label": "DDW program listing, NAITURE (also read at ddw.nl)",
+     "label": "DDW program listing, NAITURE",
      "url": "https://ddw.nl/en/programme/naiture"
     },
     {
-     "label": "AI Act Article 50, text on artificialintelligenceact.eu (copy)",
-     "url": "https://artificialintelligenceact.eu/article/50/"
+     "label": "Merel Mierop, NAITURE, student page",
+     "url": "https://www.artez.nl/en/students/merel-mierop"
     },
     {
-     "label": "Regulation (EU) 2024/1689 on EUR-Lex (did not render)",
-     "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng"
+     "label": "AI Act, Article 50 (consolidated text as at July 27, 2026)",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50"
     },
     {
-     "label": "DDW participants FAQ",
-     "url": "https://site.ddw.nl/en/participation/participants-faq"
+     "label": "AI Act, Article 111 (consolidated text as at July 27, 2026)",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-111"
+    },
+    {
+     "label": "EU Official Journal publishes Digital Omnibus on AI, amending AI Act",
+     "url": "https://www.cuatrecasas.com/en/global/intellectual-property/art/digital-omnibus-ai-has-been-published"
+    },
+    {
+     "label": "Commission Guidelines on the implementation of the transparency obligations under Article 50 of the AI Act, C(2026) 5054 final, Annex",
+     "url": "https://ec.europa.eu/newsroom/dae/redirection/document/131215"
+    },
+    {
+     "label": "Guidelines on transparency obligations for providers and deployers of AI systems (publication page)",
+     "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems"
+    },
+    {
+     "label": "Code of Practice on Transparency of AI-generated Content",
+     "url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content"
+    },
+    {
+     "label": "Commission publishes Code of Practice on marking and labelling AI-generated content",
+     "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content"
+    },
+    {
+     "label": "Quick Facts: Transparency rules for AI systems",
+     "url": "https://digital-strategy.ec.europa.eu/en/factpages/quick-facts-transparency-rules-ai-systems"
+    },
+    {
+     "label": "EU Icons for labelling AI-generated content",
+     "url": "https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
      "what": "Two fabric letter Rs on white after burial: the left one still shows its woven net with soil caught in it, the right one has broken apart into dark fragments",
-     "credit": "Photo: Merel Mierop/ArtEZ",
+     "credit": "Source: ArtEZ",
      "url": "https://www.artez.nl/en/students/merel-mierop",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Close-up of two buried fabric samples on white: unbleached cotton netting full of soil on the left, grey felt with roots and soil on the right",
+     "what": "Close-up of two fabric samples on white: unbleached cotton netting full of soil on the left, grey felt with roots and soil on the right",
      "credit": "Photo: Merel Mierop",
      "url": "https://ddw.nl/en/programme/naiture",
      "card": false
@@ -996,14 +1467,14 @@
     {
      "where": "Slide 3",
      "what": "A dug-up piece of grey felt holding dark soil and pale roots, photographed on white",
-     "credit": "Photo: Merel Mierop/ArtEZ",
+     "credit": "Source: ArtEZ",
      "url": "https://www.artez.nl/en/students/merel-mierop",
      "card": false
     },
     {
      "where": "Slide 4",
      "what": "A soil-covered plinth with a small screen set into its slanted top, in front of a wall of posters showing the letter R in pale tones",
-     "credit": "Photo: Merel Mierop/ArtEZ",
+     "credit": "Source: ArtEZ",
      "url": "https://www.artez.nl/en/students/merel-mierop",
      "card": false
     },
@@ -1055,30 +1526,67 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Gaseous and Particulate Contamination Limits for Data Centers (ASHRAE TC 9.9 white paper)",
+     "url": "https://i.dell.com/sites/csdocuments/Business_solutions_whitepapers_Documents/en/us/gas-particulate-contamination.pdf"
+    },
+    {
+     "label": "NIST SP 800-88 Rev. 2, Guidelines for Media Sanitization",
+     "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r2.pdf"
+    },
+    {
+     "label": "Assessment of the energy performance and sustainability of data centres in EU, First technical report",
+     "url": "https://op.europa.eu/o/opportal-service/download-handler?identifier=83be4c3e-5c79-11f0-a9d0-01aa75ed71a1&format=PDF&language=en&productionSystem=cellar"
+    },
+    {
+     "label": "Frequently asked questions on the European database on data centres, version 1.9",
+     "url": "https://energy.ec.europa.eu/document/download/2597a32b-c791-4d87-a9da-57b64a3c4d7d_en?filename=2026_07_03%20FAQ%20on%20European%20database%20on%20data%20centres%201v7-AA%281%29.pdf"
+    },
+    {
+     "label": "Questions and answers on the Data centre energy efficiency package",
+     "url": "https://energy.ec.europa.eu/document/download/f0b46beb-d0e4-4fdb-a8e4-2282f061fe2d_en?filename=Memo%20QA_data%20centres_integrating%20CABs-AAA%281%29.pdf"
+    }
+   ],
    "other": [
     {
      "label": "DDW program listing, dust vessel for a lasting memory",
      "url": "https://ddw.nl/en/programme/dust-vessel-for-a-lasting-memory"
     },
     {
-     "label": "DDW program page with project text and maker bio",
+     "label": "DDW program page with project description and maker bio",
      "url": "https://site.ddw.nl/en/programme/16756/dust-vessel-for-a-lasting-memory"
     },
     {
-     "label": "Swedish Energy Agency, data centre energy performance reporting",
-     "url": "https://www.energimyndigheten.se/en/climate/climate/data-centre-energy-performance-reporting/"
+     "label": "Laminar Flow Cabinets And Data Recovery",
+     "url": "https://www.forensicfocus.com/news/laminar-flow-cabinets-and-data-recovery/"
     },
     {
-     "label": "DDW participants FAQ",
-     "url": "https://site.ddw.nl/en/participation/participants-faq"
+     "label": "Rapportageplicht energie-efficientie datacentra",
+     "url": "https://www.rvo.nl/onderwerpen/energiebesparingsplicht/eed-auditplicht/rapportageplicht-datacentra"
+    },
+    {
+     "label": "Rapportages energie-efficientie van datacentra (spreadsheet, data year 2025, dated October 5, 2026)",
+     "url": "https://www.rvo.nl/sites/default/files/2026-10/Rapportages%20energie-effici%C3%ABntie%20van%20datacentra.xlsx"
+    },
+    {
+     "label": "Datacenters verbruiken 4,6 procent van de elektriciteit",
+     "url": "https://www.cbs.nl/nl-nl/nieuws/2025/51/datacenters-verbruiken-4-6-procent-van-de-elektriciteit"
+    },
+    {
+     "label": "Energy performance of data centres",
+     "url": "https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive/energy-performance-data-centres_en"
+    },
+    {
+     "label": "Minimum performance standards for data centres in Europe, public consultation launched",
+     "url": "https://energy.ec.europa.eu/news/minimum-performance-standards-data-centres-europe-public-consultation-launched-2026-09-21_en"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "A polished steel disc with a round hole in its center, tilted on a pale grey surface: the memory platter shown on the Dutch Design Week listing for the dust vessel project by Xiaotong Li",
-     "credit": "Photo: Xiaotong Li",
+     "what": "A polished steel disc with a round hole in its center, tilted on a pale grey surface: the hero image on the Dutch Design Week listing, captioned \"memory platter\" there, which does not say what the object is",
+     "credit": "Photo: Dutch Design Week",
      "url": "https://ddw.nl/en/programme/dust-vessel-for-a-lasting-memory",
      "card": false
     },
@@ -1158,31 +1666,60 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
-   "other": [
+   "research": [
     {
-     "label": "ISEA2022 symposium archives, Manifestations presentation",
+     "label": "ISEA2022 symposium archives, institutional presentation by Viola van Alphen and Agnes van Djik",
      "url": "https://www.isea-symposium-archives.org/?p=70479"
     },
     {
-     "label": "Regulation (EU) 2022/2065 (Digital Services Act), Article 27, official English text on EUR-Lex",
-     "url": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj"
+     "label": "Paddy Leerssen, \"The DSA's first shadow banning case\"",
+     "url": "https://dsa-observatory.eu/2024/08/06/the-dsas-first-shadow-banning-case"
     },
     {
-     "label": "DDW 2026 programme listing",
-     "url": "https://ddw.nl/en/programme/art-tech-fun-ai-robots-manifestations-1"
+     "label": "Maximilian Gahntz and Claire Pershan, \"Action Recommended: How the Digital Services Act Addresses Platform Recommender Systems\"",
+     "url": "https://verfassungsblog.de/action-recommended/"
     },
     {
-     "label": "Stimuleringsfonds grant announcement (Jan 2026)",
+     "label": "Valentina Golunova, IRIS 2025-9:1/8, \"Dutch court orders Meta to ensure Dutch users' right to set a chronological feed as their default\"",
+     "url": "https://merlin.obs.coe.int/article/10403"
+    },
+    {
+     "label": "Matteo Fabbri, \"Ineffective by design: Bits of Freedom vs Meta...\"",
+     "url": "https://dsa-observatory.eu/2026/07/30/ineffective-by-design-bits-of-freedom-vs-meta-at-the-forefront-of-enforcing-user-control-for-recommender-systems-under-the-dsa/"
+    }
+   ],
+   "other": [
+    {
+     "label": "Manifestations, program page for 2026 (Dutch)",
+     "url": "https://www.manifestations.nl/"
+    },
+    {
+     "label": "Creative Industries Fund NL, Creative Industries Festivals Grant Scheme: 21 projects selected",
      "url": "https://www.stimuleringsfonds.nl/en/news/creative-industries-festivals-grant-scheme-21-projects-selected"
     },
     {
-     "label": "DSA Article 27 (gesetze.legal copy)",
-     "url": "https://gesetze.legal/eu/vo_eu_2022_2065/27"
+     "label": "Stichting Art & Technology, home page",
+     "url": "https://artandtechnology.nl"
     },
     {
-     "label": "DDW participants FAQ",
-     "url": "https://site.ddw.nl/en/participation/participants-faq"
+     "label": "European Commission, The Digital Services Act",
+     "url": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package"
+    },
+    {
+     "label": "Rechtbank Amsterdam, July 5, 2024, ECLI:NL:RBAMS:2024:3980",
+     "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBAMS:2024:3980"
+    },
+    {
+     "label": "Rechtbank Amsterdam, October 2, 2025, ECLI:NL:RBAMS:2025:7253",
+     "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBAMS:2025:7253"
+    },
+    {
+     "label": "European Commission press release, Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
+     "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-addictive-design-instagram-and-facebook-breach-digital-services-act"
+    },
+    {
+     "label": "Autoriteit Consument en Markt, ACM tekent samenwerkingsprotocol over DSA met elf organisaties",
+     "url": "https://www.acm.nl/nl/publicaties/acm-tekent-samenwerkingsprotocol-over-dsa-met-elf-organisaties"
     }
    ],
    "images": [
@@ -1269,15 +1806,100 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Tjep., press release, Tjep. brings Infinite Scroll to Dutch Design Week",
+     "url": "https://tjep.com/s/Infinite_Scroll_Press_Release_EN_4.pdf"
+    },
+    {
+     "label": "Tjep., Infinite Scroll: Edition & Prices (autumn 2026)",
+     "url": "https://tjep.com/s/Infinite-Scroll-Prices-EN-NL_3.pdf"
+    },
+    {
+     "label": "Waag, About the Theatrum Anatomicum",
+     "url": "https://waag.org/sites/waag/files/media/publicaties/about-theatrum-anatomicum.pdf"
+    },
+    {
+     "label": "Bouwen met Staal, Kunstobject de Zwerm",
+     "url": "https://www.nationalestaalprijs.nl/sites/default/files/imported_files/1954/Artikel_BmS_Kunstobject_de_Zwerm.pdf"
+    }
+   ],
    "other": [
     {
-     "label": "DDW program listing, Infinite Scroll (also read at app-api.ddw.nl)",
+     "label": "Dutch Design Week program listing, Infinite Scroll",
      "url": "https://ddw.nl/en/programme/infinite-scroll"
     },
     {
-     "label": "Tjep. studio website",
-     "url": "https://tjep.com"
+     "label": "Tjep., Infinite Scroll project page",
+     "url": "https://tjep.com/art-public-space/infinite-scroll"
+    },
+    {
+     "label": "Tjep., home page (current)",
+     "url": "https://www.tjep.com/"
+    },
+    {
+     "label": "Tjep., About Frank Tjepkema & Tjep.",
+     "url": "https://tjep.com/about"
+    },
+    {
+     "label": "GLUE Amsterdam, exhibitor page for Tjep.",
+     "url": "https://www.glue.amsterdam/exhibitors/tjep"
+    },
+    {
+     "label": "Dutch Design Week, location page, Kazerne - Design Lab",
+     "url": "https://site.ddw.nl/en/locations/682/kazerne-home-of-design"
+    },
+    {
+     "label": "Kazerne, Heritage",
+     "url": "https://kazerne.com/en/about/heritage/"
+    },
+    {
+     "label": "Apple, Apple Reinvents the Phone with iPhone",
+     "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/"
+    },
+    {
+     "label": "Hugh E. Williams, Ideas and Invention (and the story of Bing's Image Search)",
+     "url": "https://hughewilliams.com/2012/03/06/ideas-and-invention-and-the-story-of-bings-image-search/"
+    },
+    {
+     "label": "United States patent 7,664,739, Object search UI and dragging object results",
+     "url": "https://patents.google.com/patent/US7664739"
+    },
+    {
+     "label": "Signal vs. Noise, No more \"more\" pages?",
+     "url": "https://signalvnoise.com/archives2/no_more_more_pages"
+    },
+    {
+     "label": "Patrick Nelson, We touch our phones 2,617 times a day, says study, Network World",
+     "url": "https://www.networkworld.com/article/3092446/we-touch-our-phones-2617-times-a-day-says-study.html"
+    },
+    {
+     "label": "European Commission, Commission preliminarily finds TikTok's addictive design in breach of the Digital Services Act",
+     "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-addictive-design-breach-digital-services-act"
+    },
+    {
+     "label": "European Commission, Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
+     "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-addictive-design-instagram-and-facebook-breach-digital-services-act"
+    },
+    {
+     "label": "DutchNews.nl, MEPs call for a 16-years age limit to access social media",
+     "url": "https://www.dutchnews.nl/2025/11/meps-call-for-a-16-years-age-limit-to-access-social-media/"
+    },
+    {
+     "label": "International Council of Design, Dutch Design Awards announces winners of 2004 competition",
+     "url": "https://www.theicod.org/resources/news-archive/dutch-design-awards-announces-winners-of-2004-competition"
+    },
+    {
+     "label": "Tjep., Zwerm project page",
+     "url": "https://www.tjep.com/public-spaces/zwerm"
+    },
+    {
+     "label": "RotterdamStyle, Big Art Rotterdam brings large-scale art to the city",
+     "url": "https://rotterdamstyle.com/arts-culture/big-art-rotterdam-brings-large-scale-art-to-the-city"
+    },
+    {
+     "label": "Nir Eyal, Infinite Scroll: The Web's Slot Machine, TechCrunch",
+     "url": "https://techcrunch.com/2012/08/18/infinite-scroll-the-webs-slot-machine/"
     }
    ],
    "images": [
@@ -1364,15 +1986,72 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Daniel J. Solove, \"I've Got Nothing to Hide\" and Other Misunderstandings of Privacy, San Diego Law Review 44 (2007), abstract page",
+     "url": "https://digital.sandiego.edu/sdlr/vol44/iss4/5/"
+    },
+    {
+     "label": "EDPB Guidelines 05/2020 on consent under Regulation 2016/679, version 1.1",
+     "url": "https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_202005_consent_en.pdf"
+    },
+    {
+     "label": "EDPB Guidelines 3/2019 on processing of personal data through video devices, version 2.0",
+     "url": "https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_201903_video_devices_en_0.pdf"
+    },
+    {
+     "label": "Maynez, Narayan, Bohnet and McDonald, On Faithfulness and Factuality in Abstractive Summarization (ACL 2020)",
+     "url": "https://arxiv.org/abs/2005.00661"
+    }
+   ],
    "other": [
     {
-     "label": "DDW program listing, transparent.citizen",
+     "label": "Dutch Design Week program listing, transparent.citizen",
      "url": "https://ddw.nl/en/programme/transparentcitizen-1"
     },
     {
-     "label": "DDW highlights release, September 29, 2026",
+     "label": "Dutch Design Week, These are the Highlights of Dutch Design Week 2026",
      "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+    },
+    {
+     "label": "amaranth studio, home page",
+     "url": "https://www.amaranthstudio.com/"
+    },
+    {
+     "label": "Prix Ars Electronica archive, Hasan Elahi, Tracking Transience",
+     "url": "https://archive.aec.at/prix/120500/"
+    },
+    {
+     "label": "Microsoft Research, MyLifeBits",
+     "url": "https://www.microsoft.com/en-us/research/project/mylifebits/"
+    },
+    {
+     "label": "GDPR Article 4, Definitions (reference copy)",
+     "url": "https://gdpr-info.eu/art-4-gdpr/"
+    },
+    {
+     "label": "GDPR Article 9 (reference copy)",
+     "url": "https://gdpr-info.eu/art-9-gdpr/"
+    },
+    {
+     "label": "GDPR Article 2, Material scope (reference copy)",
+     "url": "https://gdpr-info.eu/art-2-gdpr/"
+    },
+    {
+     "label": "GDPR Recital 18 (reference copy)",
+     "url": "https://gdpr-info.eu/recitals/no-18/"
+    },
+    {
+     "label": "GDPR Article 7, Conditions for consent (reference copy)",
+     "url": "https://gdpr-info.eu/art-7-gdpr/"
+    },
+    {
+     "label": "GDPR Article 15, Right of access (reference copy)",
+     "url": "https://gdpr-info.eu/art-15-gdpr/"
+    },
+    {
+     "label": "Rechtbank Den Haag, February 5, 2020, SyRI (English translation), ECLI:NL:RBDHA:2020:1878",
+     "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBDHA:2020:1878"
     }
    ],
    "images": [
@@ -1459,23 +2138,96 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "EDPB Guidelines 3/2019 on processing of personal data through video devices, version 2.0",
+     "url": "https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_201903_video_devices_en_0.pdf"
+    },
+    {
+     "label": "CJEU Press release No 186/23, SCHUFA Holding (Scoring), C-634/21",
+     "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2023-12/cp230186en.pdf"
+    },
+    {
+     "label": "University of Maryland A. James Clark School of Engineering, UM Study: Hackers Attack Computers Every 39 Seconds",
+     "url": "https://eng.umd.edu/media/pressreleases/pr020607_hacker.html"
+    }
+   ],
    "other": [
     {
-     "label": "Dutch Design Week 2026 program listing: CYBERAWARE: AI Surveillance & Cybersecurity",
+     "label": "Dutch Design Week program listing, CYBERAWARE: AI Surveillance & Cybersecurity",
      "url": "https://ddw.nl/en/programme/cyberaware-ai-surveillance-cybersecurity"
     },
     {
-     "label": "Vision For Xperiences, About (Kees Moolenaar's studio)",
-     "url": "https://vfx.productions/about"
+     "label": "Manifestations 2026, program page (Dutch)",
+     "url": "https://www.manifestations.nl/"
     },
     {
-     "label": "European Commission, AI Act: regulatory framework for AI",
+     "label": "Kees Moolenaar, CYBERAWARE project page",
+     "url": "https://keesmoolenaar.com/cyberaware"
+    },
+    {
+     "label": "Vision For Xperiences, About",
+     "url": "https://vfx.productions/about/"
+    },
+    {
+     "label": "HKU, Exposure 2026",
+     "url": "https://www.hku.nl/en/events/exposure-2026"
+    },
+    {
+     "label": "GDPR Article 4, Definitions (reference copy)",
+     "url": "https://gdpr-info.eu/art-4-gdpr/"
+    },
+    {
+     "label": "GDPR Article 22 (reference copy)",
+     "url": "https://gdpr-info.eu/art-22-gdpr/"
+    },
+    {
+     "label": "GDPR Article 15 (reference copy)",
+     "url": "https://gdpr-info.eu/art-15-gdpr/"
+    },
+    {
+     "label": "European Commission, AI Act",
      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
     },
     {
-     "label": "Regulation (EU) 2024/1689, AI Act, EUR-Lex (metadata only)",
-     "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng"
+     "label": "AI Act Service Desk, Timeline for the Implementation of the EU AI Act",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act"
+    },
+    {
+     "label": "AI Act Service Desk, Article 50",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50"
+    },
+    {
+     "label": "AI Act Service Desk, Article 5: Prohibited AI practices",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-5"
+    },
+    {
+     "label": "AI Act Service Desk, Annex III",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-3"
+    },
+    {
+     "label": "European Parliament Legislative Observatory, procedure 2021/0106(COD)",
+     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0106(COD)"
+    },
+    {
+     "label": "EDPB, Dutch Supervisory Authority imposes a fine on Clearview",
+     "url": "https://www.edpb.europa.eu/news/national-news/2024/dutch-supervisory-authority-imposes-fine-clearview-because-illegal-data_en"
+    },
+    {
+     "label": "Autoriteit Persoonsgegevens, Facial recognition",
+     "url": "https://www.autoriteitpersoonsgegevens.nl/en/themes/identification/biometrics/facial-recognition"
+    },
+    {
+     "label": "Today's General Counsel, IBM Study: Most Cyber Breaches Involve Human Error",
+     "url": "https://todaysgeneralcounsel.com/ibm-study-cyber-breaches-involve-human-error/"
+    },
+    {
+     "label": "Verizon, 2026 Data Breach Investigations Report (landing page)",
+     "url": "https://www.verizon.com/business/resources/reports/dbir/"
+    },
+    {
+     "label": "Rechtbank Den Haag, February 5, 2020, SyRI (English translation), ECLI:NL:RBDHA:2020:1878",
+     "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBDHA:2020:1878"
     }
    ],
    "images": [
@@ -1569,15 +2321,116 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "ESA Space Debris Office, ESA's Annual Space Environment Report, issue 10.0",
+     "url": "https://www.sdo.esoc.esa.int/publications/Space_Environment_Report_I10R0_20260501.pdf"
+    },
+    {
+     "label": "Linda Henkel, Point-and-shoot memories (Psychological Science 25(2), 2014), abstract page",
+     "url": "https://digitalcommons.fairfield.edu/psychology-facultypubs/26"
+    },
+    {
+     "label": "Masa Galic, Surveillance and privacy in smart cities and living labs (Tilburg University dissertation), abstract page",
+     "url": "https://research.tilburguniversity.edu/en/publications/surveillance-and-privacy-in-smart-cities-and-living-labs-conceptu/"
+    },
+    {
+     "label": "von Ahn, Maurer, McMillen, Abraham and Blum, reCAPTCHA (Science, 2008)",
+     "url": "https://www.cs.cmu.edu/~biglou/reCAPTCHA_Science.pdf"
+    },
+    {
+     "label": "EDPB Guidelines 02/2021 on virtual voice assistants, version 2.0",
+     "url": "https://www.edpb.europa.eu/system/files/2021-07/edpb_guidelines_202102_on_vva_v2.0_adopted_en.pdf"
+    },
+    {
+     "label": "Chandra, Kleiman-Weiner, Ragan-Kelley and Tenenbaum, Sycophantic Chatbots Cause Delusional Spiraling, Even in Ideal Bayesians",
+     "url": "https://arxiv.org/abs/2602.19141"
+    },
+    {
+     "label": "Moore and 13 co-authors, Characterizing Delusional Spirals through Human-LLM Chat Logs",
+     "url": "https://arxiv.org/abs/2603.16567"
+    }
+   ],
    "other": [
     {
-     "label": "Dutch Design Week 2026 program listing: CODE 2026: Terms of Intimacy",
+     "label": "Dutch Design Week program listing, CODE 2026: Terms of Intimacy",
      "url": "https://ddw.nl/en/programme/code-2026-terms-of-intimacy"
     },
     {
-     "label": "CODE, IMPAKT Centre for Media Culture (project site)",
-     "url": "https://code.impakt.nl/"
+     "label": "Flanders Arts Institute, Open call: CODE 2026 - Reclaiming Digital Agency",
+     "url": "https://www.kunsten.be/en/calls/open-call-code-2026-reclaiming-digital-agency/"
+    },
+    {
+     "label": "PSS-Archi, Batiment SFF (Eindhoven, Pays-Bas)",
+     "url": "https://www.pss-archi.eu/immeubles/NL-772-100150.html"
+    },
+    {
+     "label": "Dutch Design Week program listing, A Satellite in My Body",
+     "url": "https://ddw.nl/en/programme/a-satellite-in-my-body"
+    },
+    {
+     "label": "Dutch Design Week program listing, Algodance",
+     "url": "https://ddw.nl/en/programme/algodance"
+    },
+    {
+     "label": "Dutch Design Week program listing, For Your Eyes Only",
+     "url": "https://ddw.nl/en/programme/for-your-eyes-only"
+    },
+    {
+     "label": "Dutch Design Week program listing, GODI",
+     "url": "https://ddw.nl/en/programme/godi"
+    },
+    {
+     "label": "Dutch Design Week program listing, I'd prefer not to",
+     "url": "https://ddw.nl/en/programme/id-prefer-not-to"
+    },
+    {
+     "label": "Dutch Design Week program listing, Passphrase",
+     "url": "https://ddw.nl/en/programme/passphrase"
+    },
+    {
+     "label": "Dutch Design Week program listing, The Affirmation Machine",
+     "url": "https://ddw.nl/en/programme/the-affirmation-machine"
+    },
+    {
+     "label": "United Nations Office for Outer Space Affairs, The Outer Space Treaty (General Assembly resolution 2222 (XXI))",
+     "url": "https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html"
+    },
+    {
+     "label": "ESA Space Environment Report 2026",
+     "url": "https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2026"
+    },
+    {
+     "label": "Rechtbank Amsterdam, July 5, 2024, ECLI:NL:RBAMS:2024:3980",
+     "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBAMS:2024:3980"
+    },
+    {
+     "label": "Billy Perrigo, OpenAI Used Kenyan Workers on Less Than $2 Per Hour, TIME",
+     "url": "https://time.com/6247678/openai-chatgpt-kenya-workers/"
+    },
+    {
+     "label": "GDPR Article 9 (reference copy)",
+     "url": "https://gdpr-info.eu/art-9-gdpr/"
+    },
+    {
+     "label": "GDPR Article 1 (reference copy)",
+     "url": "https://gdpr-info.eu/art-1-gdpr/"
+    },
+    {
+     "label": "EDPB, AI: the Italian Supervisory Authority fines company behind chatbot Replika",
+     "url": "https://www.edpb.europa.eu/news/national-news/2025/ai-italian-supervisory-authority-fines-company-behind-chatbot-replika_en"
+    },
+    {
+     "label": "AI Act Service Desk, Article 50",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50"
+    },
+    {
+     "label": "AI Act Service Desk, Timeline for the Implementation of the EU AI Act",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act"
+    },
+    {
+     "label": "AI Act Service Desk, Article 5",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-5"
     }
    ],
    "images": [
@@ -1671,19 +2524,80 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "European Data Protection Board, 2025 Coordinated Enforcement Action: Implementation of the right to erasure by controllers",
+     "url": "https://www.edpb.europa.eu/system/files/2026-02/edpb_cef-report_2025_right-to-erasure_en.pdf"
+    },
+    {
+     "label": "NIST SP 800-88 Rev. 2, Guidelines for Media Sanitization",
+     "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r2.pdf"
+    }
+   ],
    "other": [
     {
      "label": "Dutch Design Week 2026 program listing: RE:GISTER",
      "url": "https://ddw.nl/en/programme/register-1"
     },
     {
-     "label": "Dutch Design Week 2026, Mission Day: Equal Society",
+     "label": "Dutch Design Week 2026, Mission Day: Equal society",
      "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-equal-society"
     },
     {
      "label": "Gion Berlijn, About",
      "url": "https://www.gionberlijn.com/About"
+    },
+    {
+     "label": "Waag Futurelab, Hyperlink 2026",
+     "url": "https://waag.org/en/event/hyperlink26/"
+    },
+    {
+     "label": "Waag Futurelab, Exhibition: Short Circuit",
+     "url": "https://waag.org/en/event/exhibition-short-circuit/"
+    },
+    {
+     "label": "PublicSpaces Conference 2026, Gion Berlijn",
+     "url": "https://conference.publicspaces.net/en/people/dion-berlijn"
+    },
+    {
+     "label": "GLOW Eindhoven, Monoculture by Gion Berlijn and Dynamo",
+     "url": "https://gloweindhoven.nl/en/project/monoculture-by-gion-berlijn-dynamo/"
+    },
+    {
+     "label": "Statistics Netherlands (CBS), Data centres consume 4.6 percent of the Netherlands' electricity",
+     "url": "https://www.cbs.nl/en-gb/news/2025/51/data-centres-consume-4-6-percent-of-the-netherlands-electricity"
+    },
+    {
+     "label": "GDPR Article 17 (reproduction of the Regulation text)",
+     "url": "https://gdpr-info.eu/art-17-gdpr/"
+    },
+    {
+     "label": "GDPR Article 12 (reproduction of the Regulation text)",
+     "url": "https://gdpr-info.eu/art-12-gdpr/"
+    },
+    {
+     "label": "GDPR Article 19 (reproduction of the Regulation text)",
+     "url": "https://gdpr-info.eu/art-19-gdpr/"
+    },
+    {
+     "label": "GDPR Article 15 (reproduction of the Regulation text)",
+     "url": "https://gdpr-info.eu/art-15-gdpr/"
+    },
+    {
+     "label": "GDPR Article 5 (reproduction of the Regulation text)",
+     "url": "https://gdpr-info.eu/art-5-gdpr/"
+    },
+    {
+     "label": "Autoriteit Persoonsgegevens, Recht op gegevens verwijderen",
+     "url": "https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/recht-op-gegevens-verwijderen"
+    },
+    {
+     "label": "Autoriteit Persoonsgegevens, Fine for recruitment company for ignoring requests for removal",
+     "url": "https://www.autoriteitpersoonsgegevens.nl/en/current/fine-for-recruitment-company-for-ignoring-requests-for-removal"
+    },
+    {
+     "label": "NIST Computer Security Resource Center, SP 800-88 Rev. 2 publication page",
+     "url": "https://csrc.nist.gov/pubs/sp/800/88/r2/final"
     }
    ],
    "images": [
@@ -1777,7 +2691,28 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "von Ahn et al., reCAPTCHA: Human-Based Character Recognition via Web Security Measures, Science 321",
+     "url": "https://www.site.uottawa.ca/~stan/csi2911/reCaptcha_Science.pdf"
+    },
+    {
+     "label": "W3C, Inaccessibility of CAPTCHA, Group Draft Note",
+     "url": "https://www.w3.org/TR/turingtest/"
+    },
+    {
+     "label": "Plesner, Vontobel, Wattenhofer, Breaking reCAPTCHAv2 (arXiv:2409.08831)",
+     "url": "https://arxiv.org/pdf/2409.08831.pdf"
+    },
+    {
+     "label": "Searles et al., An Empirical Study & Evaluation of Modern CAPTCHAs (arXiv:2307.12108)",
+     "url": "https://arxiv.org/pdf/2307.12108.pdf"
+    },
+    {
+     "label": "Jones and Bergen, Large Language Models Pass the Turing Test (arXiv:2503.23674)",
+     "url": "https://arxiv.org/pdf/2503.23674.pdf"
+    }
+   ],
    "other": [
     {
      "label": "Dutch Design Week 2026 program listing: I am [not] a Robot",
@@ -1788,12 +2723,44 @@
      "url": "https://maximilianherzen.com/"
     },
     {
-     "label": "Wikipedia: reCAPTCHA",
-     "url": "https://en.wikipedia.org/wiki/ReCAPTCHA"
+     "label": "Official Google Blog, Teaching computers to read: Google acquires reCAPTCHA",
+     "url": "https://googleblog.blogspot.com/2009/09/teaching-computers-to-read-google.html"
     },
     {
-     "label": "DDW participants FAQ",
-     "url": "https://site.ddw.nl/en/participation/participants-faq"
+     "label": "Google Online Security Blog, Street View and reCAPTCHA technology just got smarter",
+     "url": "https://security.googleblog.com/2014/04/street-view-and-recaptcha-technology.html"
+    },
+    {
+     "label": "Google for Developers, reCAPTCHA v3",
+     "url": "https://developers.google.com/recaptcha/docs/v3"
+    },
+    {
+     "label": "Google for Developers, reCAPTCHA FAQ",
+     "url": "https://developers.google.com/recaptcha/docs/faq"
+    },
+    {
+     "label": "Cloudflare, Humanity wastes about 500 years per day on CAPTCHAs",
+     "url": "https://blog.cloudflare.com/introducing-cryptographic-attestation-of-personhood"
+    },
+    {
+     "label": "Imperva, 2025 Imperva Bad Bot Report: How AI is Supercharging the Bot Threat",
+     "url": "https://www.imperva.com/blog/2025-imperva-bad-bot-report-how-ai-is-supercharging-the-bot-threat/"
+    },
+    {
+     "label": "Imperva, Bad Bot Report 2026: Bots in the Agentic Age",
+     "url": "https://www.imperva.com/blog/bad-bot-report-2026-bots-agentic-age/"
+    },
+    {
+     "label": "RFC 9576, The Privacy Pass Architecture",
+     "url": "https://www.rfc-editor.org/rfc/rfc9576.html"
+    },
+    {
+     "label": "Ars Technica, OpenAI's ChatGPT Agent casually clicks through \"I am not a robot\" verification test",
+     "url": "https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/"
+    },
+    {
+     "label": "GDPR Article 13 (reproduction of the Regulation text)",
+     "url": "https://gdpr-info.eu/art-13-gdpr/"
     }
    ],
    "images": [
@@ -1873,7 +2840,20 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Microsoft, Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone (arXiv:2404.14219)",
+     "url": "https://arxiv.org/pdf/2404.14219.pdf"
+    },
+    {
+     "label": "Luccioni, Jernite and Strubell, Power Hungry Processing: Watts Driving the Cost of AI Deployment? (arXiv:2311.16863; ACM FAccT 2024)",
+     "url": "https://arxiv.org/pdf/2311.16863.pdf"
+    },
+    {
+     "label": "Gebru et al., Datasheets for Datasets (arXiv:1803.09010)",
+     "url": "https://arxiv.org/pdf/1803.09010.pdf"
+    }
+   ],
    "other": [
     {
      "label": "Dutch Design Week 2026 program listing: Slow & Small AI",
@@ -1884,12 +2864,28 @@
      "url": "https://ddw.nl/en/locations/mu-hybrid-art-house"
     },
     {
-     "label": "Visual Methodologies Collective, homepage",
-     "url": "https://www.visualmethodologies.org"
+     "label": "ARIAS Amsterdam, The Rhine as Liquid Archive: Towards New Mythologies with Slow AI",
+     "url": "https://www.arias.amsterdam/projects/the-rhine-as-liquid-archive"
     },
     {
-     "label": "DDW participants FAQ",
-     "url": "https://site.ddw.nl/en/participation/participants-faq"
+     "label": "TNO, GPT-NL: a sovereign language model for the Netherlands",
+     "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/"
+    },
+    {
+     "label": "European Commission, Commission presents template for General-Purpose AI model providers to summarise the data used to train their model",
+     "url": "https://digital-strategy.ec.europa.eu/en/news/commission-presents-template-general-purpose-ai-model-providers-summarise-data-used-train-their"
+    },
+    {
+     "label": "European Commission, Template for general-purpose AI model providers to summarise their training content (Q&A)",
+     "url": "https://digital-strategy.ec.europa.eu/en/faqs/template-general-purpose-ai-model-providers-summarise-their-training-content"
+    },
+    {
+     "label": "ARIAS Amsterdam, Slow AI",
+     "url": "https://www.arias.amsterdam/projects/slow-ai"
+    },
+    {
+     "label": "ARIAS Amsterdam, Slow AI Symposium: Practices of Thinking, Sensing, and Refusing",
+     "url": "https://www.arias.amsterdam/projects/slow-ai-symposium-practices-of-thinking-sensing-and-refusing"
     }
    ],
    "images": [
@@ -1924,7 +2920,7 @@
     {
      "where": "Slide 5",
      "what": "A pale, ghostly figure of folds of white cloth, with an animal-like head, projected onto a dark brick wall",
-     "credit": "Photo: Broersen & Lukács/DDW",
+     "credit": "Image: Persijn Broersen and Margit Lukács",
      "url": "https://ddw.nl/en/programme/slow-small-ai",
      "card": false
     },
@@ -1969,45 +2965,78 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Synergy Research Group, European Cloud Providers' Local Market Share Now Holds Steady at 15%",
+     "url": "https://srgresearch.com/articles/european-cloud-providers-local-market-share-now-holds-steady-at-15"
+    },
+    {
+     "label": "Court of Justice of the EU, Press release No 125/19, Judgment in Case C-673/17 (Planet49)",
+     "url": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2019-10/cp190125en.pdf"
+    }
+   ],
    "other": [
     {
      "label": "Dutch Design Week 2026 program listing: Het Nationaal Design Debat",
      "url": "https://ddw.nl/en/programme/het-nationaal-design-debat"
     },
     {
-     "label": "Dutch Design Week, press release: These are the highlights of Dutch Design Week 2026 (September 29, 2026)",
+     "label": "Waag Futurelab, National Design Debate 2026: Shaping Europe (event page)",
+     "url": "https://waag.org/en/event/national-design-debate-2026-shaping-europe/"
+    },
+    {
+     "label": "Dutch Design Week, These are the Highlights of Dutch Design Week 2026",
      "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
     },
     {
-     "label": "Wikipedia: Evoluon",
-     "url": "https://en.wikipedia.org/wiki/Evoluon"
+     "label": "Netherlands Court of Audit, Dutch central government entered the cloud ill-prepared",
+     "url": "https://english.rekenkamer.nl/latest/news/2025/01/15/dutch-central-government-entered-the-cloud-ill-prepared"
+    },
+    {
+     "label": "Tweede Kamer, Migraties van overheids-ICT naar het buitenland",
+     "url": "https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/kamer_in_het_kort/migraties-van-overheids-ict-naar-het-buitenland"
+    },
+    {
+     "label": "Waag Futurelab, About Waag",
+     "url": "https://waag.org/en/about-waag/"
+    },
+    {
+     "label": "Blender, History",
+     "url": "https://www.blender.org/about/history/"
+    },
+    {
+     "label": "Philips Museum (Philips Company Archives), The Evoluon. A good idea has many fathers",
+     "url": "https://www.philips.nl/en/a-w/philips-museum/stories/het-evoluon.html"
+    },
+    {
+     "label": "GDPR Recital 32 (reproduction of the Regulation text)",
+     "url": "https://gdpr-info.eu/recitals/no-32/"
     },
     {
      "label": "Next Nature Museum, museum page",
      "url": "https://nextnature.org/museum"
     },
     {
-     "label": "Waag Futurelab, homepage",
-     "url": "https://waag.org/en/"
+     "label": "Waag Futurelab, Next Nature Museum and Waag Futurelab launch the National Design Debate",
+     "url": "https://waag.org/en/article/next-nature-museum-and-waag-futurelab-launch-national-design-debate/"
     },
     {
-     "label": "DDW participants FAQ",
-     "url": "https://site.ddw.nl/en/participation/participants-faq"
+     "label": "Dutch Design Week, Design Debate 2025 (program archive)",
+     "url": "https://ddw.nl/en/programme/archive/2025/design-debate-2025"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
      "what": "The Evoluon in Eindhoven, the round, flying-saucer-shaped former Philips exhibition building, seen from a lawn with the lattice mast beside it",
-     "credit": "Photo: Zairon",
+     "credit": "Photo: Zairon, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File%3AEindhoven_Evoluon_06.jpg",
      "card": false
     },
     {
      "where": "Slide 2",
      "what": "Illustrative photo: the Evoluon beside its pond, the flying-saucer building with fountains and the lattice mast on a sunny day",
-     "credit": "Photo: Zairon",
+     "credit": "Photo: Zairon, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File%3AEindhoven_Evoluon_03.jpg",
      "card": false
     },
@@ -2021,7 +3050,7 @@
     {
      "where": "Slide 4",
      "what": "Illustrative photo: the white-domed Evoluon and its lattice mast seen across a lawn under a blue sky",
-     "credit": "Photo: Hein56didden",
+     "credit": "Photo: Hein56didden, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File%3AEvoluon_te_Eindhoven.jpg",
      "card": false
     },
@@ -2035,21 +3064,21 @@
     {
      "where": "Slide 6",
      "what": "Illustrative photo: the shaded terrace under the Evoluon's concrete saucer at dusk, with a heavy concrete support on the right and a glass pavilion behind",
-     "credit": "Photo: Cmglee",
+     "credit": "Photo: Cmglee, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File%3ACmglee_Evoluon_under_restaurant.jpg",
      "card": false
     },
     {
      "where": "Slide 7",
      "what": "The Evoluon's name in large letters on a concrete sign under the saucer-shaped building's V-shaped supports, on a sunny day",
-     "credit": "Photo: Zairon",
+     "credit": "Photo: Zairon, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File%3AEindhoven_Evoluon_13.jpg",
      "card": false
     },
     {
      "where": "Slide 8",
      "what": "Illustrative photo: the ribbed underside of the Evoluon's saucer above a glass-walled hall with a red sign",
-     "credit": "Photo: Zairon",
+     "credit": "Photo: Zairon, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File%3AEindhoven_Evoluon_10.jpg",
      "card": false
     },
@@ -2073,23 +3102,60 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "ekip, Artificial Intelligence for the Culture and Creative Industries (Policy Lab 1)",
+     "url": "https://ekipengine.eu/wp-content/uploads/2024/11/Policy-Lab-1-AI-and-CCI-1.pdf"
+    },
+    {
+     "label": "ekip, How EU innovation policy can better support CCIs: spaces, infrastructures, and ecosystems (Policy Lab 10)",
+     "url": "https://ekipengine.eu/wp-content/uploads/2024/11/EKIP_Policy-Recommendation-10.pdf"
+    },
+    {
+     "label": "ekip, Cultural heritage institutions within open innovation ecosystems (Policy Lab 8)",
+     "url": "https://ekipengine.eu/wp-content/uploads/2024/11/EKIP_PolicyLab_8_Policy_Recommendation-PREVIEW-1.pdf"
+    }
+   ],
    "other": [
     {
      "label": "Dutch Design Week 2026 program listing: From Policy to Action (ekip final event)",
      "url": "https://ddw.nl/en/programme/ekip-the-european-cultural-and-creative-industries-innovation-policy-platform-the-final-event-from-policy-to-action"
     },
     {
-     "label": "Dutch Design Week 2026, Mission Day: Equal Society",
+     "label": "Dutch Design Week 2026, Mission Day: Equal society",
      "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-equal-society"
     },
     {
-     "label": "ekip, About us",
+     "label": "ekip, About ekip",
      "url": "https://ekipengine.eu/about-us/"
     },
     {
-     "label": "DDW participants FAQ",
-     "url": "https://site.ddw.nl/en/participation/participants-faq"
+     "label": "ekip, Policy documents",
+     "url": "https://ekipengine.eu/policy-documents/"
+    },
+    {
+     "label": "CORDIS, European Cultural and Creative Sectors and Industries Policy Platform (EKIP), grant 101112111",
+     "url": "https://cordis.europa.eu/project/id/101112111"
+    },
+    {
+     "label": "Eurostat, EU cultural sector in 2025: 8.9 million people employed",
+     "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260710-2"
+    },
+    {
+     "label": "Rijksoverheid, Wie niet kiest, verliest: nieuw industriebeleid met focus",
+     "url": "https://www.rijksoverheid.nl/actueel/nieuws/2025/10/17/wie-niet-kiest-verliest-nieuw-industriebeleid-met-focus"
+    },
+    {
+     "label": "Minister of Economic Affairs, letter to the Tweede Kamer on industrial policy, Kamerstuk 29 826, no. 277",
+     "url": "https://www.tweedekamer.nl/downloads/document?id=2025D44449"
+    },
+    {
+     "label": "EIT, Transforming Europe's Cultural and Creative Sectors and Industries with the EIT (call for proposals)",
+     "url": "https://www.eit.europa.eu/news-events/news/transforming-europes-cultural-and-creative-sectors-and-industries-european"
+    },
+    {
+     "label": "European Commission, A new plan for culture in Europe",
+     "url": "https://commission.europa.eu/news-and-media/news/new-plan-culture-europe-2025-11-12_en"
     }
    ],
    "images": [
@@ -2169,15 +3235,76 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Piza, Welsh, Farrington and Thomas, CCTV Surveillance for Crime Prevention: A 40-Year Systematic Review with Meta-Analysis (NCJRS abstract)",
+     "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/cctv-surveillance-crime-prevention-40-year-systematic-review-meta"
+    },
+    {
+     "label": "Swedish National Council for Crime Prevention (Brå), CCTV and crime prevention",
+     "url": "https://bra.se/english/publications/archive/2018-06-12-cctv-and-crime-prevention"
+    },
+    {
+     "label": "Gill and Spriggs, Assessing the impact of CCTV, Home Office Research Study 292",
+     "url": "https://www.aclunc.org/sites/default/files/292_Assessing_the_Impact_of_CCTV_2005.pdf"
+    },
+    {
+     "label": "Statistics Netherlands (CBS), Bijna helft jonge vrouwen loopt of rijdt weleens om voor eigen veiligheid",
+     "url": "https://www.cbs.nl/nl-nl/nieuws/2025/29/bijna-helft-jonge-vrouwen-loopt-of-rijdt-weleens-om-voor-eigen-veiligheid"
+    },
+    {
+     "label": "Norris and Armstrong, CCTV and the Social Structuring of Surveillance, Crime Prevention Studies 10",
+     "url": "https://www.aclunc.org/sites/default/files/CCTV_%20and_the_Social_Structuring_of_Surveillance.pdf"
+    },
+    {
+     "label": "Amnesty International, We Sense Trouble (EUR 35/2971/2020)",
+     "url": "https://www.amnesty.org/en/wp-content/uploads/2021/05/EUR3529712020ENGLISH.pdf"
+    },
+    {
+     "label": "Slachtofferhulp Nederland, informatieblad Wet seksuele misdrijven",
+     "url": "https://slachtofferhulp.nl:443/globalassets/media/professionals/informatieblad-wsm-18-juli-2024.pdf"
+    },
+    {
+     "label": "Crenshaw, Demarginalizing the Intersection of Race and Sex (catalog record)",
+     "url": "https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8"
+    }
+   ],
    "other": [
     {
      "label": "DDW program listing, Blind Spots: A Speculative Care Infrastructure",
      "url": "https://ddw.nl/en/programme/blind-spots-a-speculative-care-infrastructure"
     },
     {
-     "label": "DDW press release, September 8, 2026",
-     "url": "https://ddw.nl/en/press/press-releases/large-scale-designs-take-over-eindhoven-during-dutch-design-week-2026"
+     "label": "Fairspace, home page",
+     "url": "https://fairspace.co/"
+    },
+    {
+     "label": "Fairspace, projects page",
+     "url": "https://fairspace.co/projects/"
+    },
+    {
+     "label": "Fairspace, about page",
+     "url": "https://fairspace.co/about-us/"
+    },
+    {
+     "label": "Shruthi Venkat, Woven Streets (2025)",
+     "url": "https://www.shruthivenkat.com/woven-streets"
+    },
+    {
+     "label": "Minister of Justice and Security, letter to the House of Representatives on the evaluation of Article 151c Gemeentewet, April 12, 2022 (Kamerstuk 28684, no. 698)",
+     "url": "https://zoek.officielebekendmakingen.nl/kst-28684-698.odt"
+    },
+    {
+     "label": "Municipality of Eindhoven, Camerabeleid art. 151c Gemeentewet",
+     "url": "https://lokaleregelgeving.overheid.nl/CVDR700965"
+    },
+    {
+     "label": "EU AI Act, Article 5 (EUR-Lex consolidated version as at July 27, 2026, via AI Act Service Desk)",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-5"
+    },
+    {
+     "label": "EU AI Act, Article 113 (via AI Act Service Desk)",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-113"
     }
    ],
    "images": [
@@ -2266,8 +3393,16 @@
    },
    "research": [
     {
-     "label": "U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2: Copyrightability (January 2025)",
+     "label": "U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2: Copyrightability",
      "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf"
+    },
+    {
+     "label": "D.C. Circuit, Thaler v. Perlmutter, No. 23-5233",
+     "url": "https://media.cadc.uscourts.gov/opinions/docs/2025/03/23-5233.pdf"
+    },
+    {
+     "label": "CMS Netherlands, O Sole Mio: CJEU's tune on copyright protection of works of applied art",
+     "url": "https://cms.law/en/nld/legal-updates/o-sole-mio-cjeu-s-tune-on-copyright-protection-of-works-of-applied-art"
     }
    ],
    "other": [
@@ -2280,8 +3415,24 @@
      "url": "https://www.aalto.fi/en/research-art/art-ai-fact"
     },
     {
-     "label": "DDW highlights release, September 29, 2026",
-     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+     "label": "Aalto University news, Aalto ARTS exhibiting AI-inspired designs at Dutch Design Week 2026",
+     "url": "https://www.aalto.fi/en/news/aalto-arts-exhibiting-ai-inspired-designs-at-dutch-design-week-2026"
+    },
+    {
+     "label": "DDW program listing, Shipwreck Dress",
+     "url": "https://ddw.nl/en/programme/shipwreck-dress"
+    },
+    {
+     "label": "Aalto University news, The journey of a 17th-century shipwreck continues as a unique knitted dress",
+     "url": "https://www.aalto.fi/en/news/the-journey-of-a-17th-century-shipwreck-continues-as-a-unique-knitted-dress"
+    },
+    {
+     "label": "Supreme Court of the United States, docket 25-449, Thaler v. Perlmutter",
+     "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-449.html"
+    },
+    {
+     "label": "Council of the EU, document 16710/1/24 REV 1, policy questionnaire on generative AI and copyright",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-16710-2024-REV-1/en/pdf"
     }
    ],
    "images": [
@@ -2368,19 +3519,68 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "van der Maden and others, When Discourse Stalls (arXiv:2503.08565)",
+     "url": "https://arxiv.org/abs/2503.08565"
+    },
+    {
+     "label": "Theelen and others, Uncertainty in the studio (DRS2026 abstract record)",
+     "url": "https://dl.designresearchsociety.org/drs-conference-papers/drs2026/researchpapers/256"
+    },
+    {
+     "label": "Benjamin, Berger, Merrill, Pierce, ML Uncertainty as a Design Material (arXiv:2101.04035)",
+     "url": "https://arxiv.org/abs/2101.04035"
+    },
+    {
+     "label": "Wadinambiarachchi and others, The Effects of Generative AI on Design Fixation and Divergent Thinking (arXiv:2403.11164)",
+     "url": "https://arxiv.org/abs/2403.11164"
+    },
+    {
+     "label": "Doshi and Hauser, Generative AI enhances individual creativity but reduces the collective diversity of novel content",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11244532/"
+    }
+   ],
    "other": [
     {
      "label": "DDW program listing, Design & AI: Many (Re)Turns",
      "url": "https://ddw.nl/en/programme/design-ai-many-returns"
     },
     {
-     "label": "Dezeen, Rima Sabina Aouf, February 2, 2026, Vera van der Burg From Text-to-Clay",
-     "url": "https://www.dezeen.com/2026/02/02/vera-van-der-burg-ai-ceramics-text-to-clay/"
+     "label": "DDW program listing, 5th Design & AI symposium: Return on Investment",
+     "url": "https://site.ddw.nl/en/programme/17482/5th-design-amp-ai-symposium"
     },
     {
-     "label": "DDW highlights release, September 29, 2026",
-     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+     "label": "Design & AI Symposium 2026 website",
+     "url": "https://designandai.nl/"
+    },
+    {
+     "label": "DDW location page, Gebouw SFF (Bosch)",
+     "url": "https://ddw.nl/en/locations/gebouw-sff-bosch"
+    },
+    {
+     "label": "DDW 2025 archive listing, From Text-to-Clay (Vera van der Burg)",
+     "url": "https://site.ddw.nl/en/programme/15309/from-text-to-clay"
+    },
+    {
+     "label": "4TU.Design United, project page From-Text-to-Clay",
+     "url": "https://www.4tu.nl/du/projects/From-Text-to-Clay/"
+    },
+    {
+     "label": "MaterialDistrict, AI as reflective material: bridging digital design and ceramic craft",
+     "url": "https://materialdistrict.com/article/ai-as-reflective-material-bridging-digital-design-and-ceramic-craft/"
+    },
+    {
+     "label": "DDW 2025 archive listing, NOIOBVKAC (Sam Theelen, Jesse Benjamin)",
+     "url": "https://site.ddw.nl/en/programme/15406/noiobvkac"
+    },
+    {
+     "label": "Michael J. North, Illustrating De Fabrica",
+     "url": "https://circulatingnow.nlm.nih.gov/2014/07/08/illustrating-de-fabrica/"
+    },
+    {
+     "label": "DDW 2025 archive listing, 4th Design & AI Symposium",
+     "url": "https://site.ddw.nl/en/programme/14590/4th-design-amp-ai-symposium"
     }
    ],
    "images": [
@@ -2467,22 +3667,67 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Ouyang and others, Training language models to follow instructions with human feedback (arXiv:2203.02155)",
+     "url": "https://arxiv.org/abs/2203.02155"
+    },
+    {
+     "label": "Sharma and others, Towards Understanding Sycophancy in Language Models (arXiv:2310.13548)",
+     "url": "https://arxiv.org/abs/2310.13548"
+    },
+    {
+     "label": "Steyvers and others, What Large Language Models Know and What People Think They Know (arXiv:2401.13835)",
+     "url": "https://arxiv.org/abs/2401.13835"
+    },
+    {
+     "label": "Kim and others, \"I'm Not Sure, But...\": uncertainty expression, reliance and trust (arXiv:2405.00623)",
+     "url": "https://arxiv.org/abs/2405.00623"
+    },
+    {
+     "label": "Weizenbaum, ELIZA, Communications of the ACM 9(1)",
+     "url": "https://linguist238.stanford.edu/p36-weizenabaum.pdf"
+    },
+    {
+     "label": "Common Sense Media, press release on Talk, Trust, and Trade-Offs",
+     "url": "https://www.commonsensemedia.org/press-releases/nearly-3-in-4-teens-have-used-ai-companions-new-national-survey-finds"
+    },
+    {
+     "label": "Better Internet for Kids, AI chatbots as everyday companions for young people",
+     "url": "https://better-internet-for-kids.europa.eu/en/ai-chatbots-everyday-companions-young-people"
+    }
+   ],
    "other": [
     {
      "label": "DDW program listing, Optimal Intelligence",
      "url": "https://ddw.nl/en/programme/optimal-intelligence"
     },
     {
-     "label": "The Social Path website",
-     "url": "https://the-social-path.nl"
+     "label": "The Social Path, website (Dutch)",
+     "url": "https://the-social-path.nl/"
     },
     {
-     "label": "NOW SHOW Class of 2026, Optimal Intelligence project page",
+     "label": "NOW SHOW, St. Joost School of Art & Design, Class of 2026, Optimal Intelligence",
      "url": "https://www.nowshow.nl/class-of-2026/optimal-intelligence/"
     },
     {
-     "label": "Young Graduates HUB location page",
+     "label": "TechCrunch, OpenAI explains why ChatGPT became too sycophantic",
+     "url": "https://techcrunch.com/2025/04/29/openai-explains-why-chatgpt-became-too-sycophantic/"
+    },
+    {
+     "label": "EU AI Act, Article 50 (consolidated as at July 27, 2026, AI Act Service Desk)",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50"
+    },
+    {
+     "label": "EU AI Act, Article 113 (AI Act Service Desk)",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-113"
+    },
+    {
+     "label": "EU AI Act, Article 5 (AI Act Service Desk)",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-5"
+    },
+    {
+     "label": "DDW location page, Young Graduates HUB | DDW x Design Perron",
      "url": "https://ddw.nl/en/locations/young-graduates-hub-ddw-x-design-perron"
     }
    ],
@@ -2563,29 +3808,118 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Eslami et al., \"I always assumed that I wasn't really that close to [her]\": Reasoning about invisible algorithms in the News Feed (CHI 2015)",
+     "url": "https://courses.cs.umbc.edu/graduate/691/spring21/pdf/Eslami_Algorithms_CHI15.pdf"
+    },
+    {
+     "label": "Kramer, Guillory and Hancock, Experimental evidence of massive-scale emotional contagion through social networks (PNAS)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4066473/"
+    },
+    {
+     "label": "University of Chicago Press, W. J. T. Mitchell, What Do Pictures Want? The Lives and Loves of Images",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/W/bo3534152.html"
+    },
+    {
+     "label": "Project MUSE, Addiction by Design: Machine Gambling in Las Vegas (publisher's summary)",
+     "url": "https://muse.jhu.edu/book/61897"
+    },
+    {
+     "label": "Cheng et al., Debriefing for technology-enhanced simulation: a systematic review and meta-analysis (Medical Education 48(7))",
+     "url": "https://experts.mcmaster.ca/scholarly-works/808200"
+    }
+   ],
    "other": [
     {
-     "label": "DDW program listing, Ai, Ai, Ai: Slopject & Squishies",
+     "label": "Dutch Design Week program listing, Ai, Ai, Ai: Slopject & Squishies (2026)",
      "url": "https://ddw.nl/en/programme/ai-ai-ai-slopject-squishies"
     },
     {
-     "label": "The Hmm website",
+     "label": "The Hmm, Make your own slopject (education page, Dutch)",
+     "url": "https://thehmm.nl/education/make-your-own-slobject/"
+    },
+    {
+     "label": "The Hmm, Squish the System (education page, Dutch)",
+     "url": "https://thehmm.nl/education/squish-the-system/"
+    },
+    {
+     "label": "The Hmm, ai, ai, ai (education page, Dutch)",
+     "url": "https://thehmm.nl/education/kruip-met-ai-ai-ai-in-de-huid-van-ai/"
+    },
+    {
+     "label": "The Hmm, Hmmterviewee of the Month: Maria Mombers",
+     "url": "https://thehmm.nl/hmmterviewee-of-the-month-maria-mombers/"
+    },
+    {
+     "label": "Maria Mombers, You May Also Like (artist site)",
+     "url": "https://mariamombers.nl/you-may-also-like"
+    },
+    {
+     "label": "The Hmm, home page",
      "url": "https://www.thehmm.nl"
+    },
+    {
+     "label": "The Hmm, Glossary: What Was I Looking At Again?",
+     "url": "https://thehmm.nl/glossary-what-was-i-looking-at-again/"
+    },
+    {
+     "label": "The Hmm, Celebrating 10 Years of The Hmm + Book Launch (event page)",
+     "url": "https://thehmm.nl/event/celebrating-10-years-of-the-hmm-book-launch/"
+    },
+    {
+     "label": "The Hmm, ai, ai, ai: a space to play, fail and tinker with machines (event page, 2025)",
+     "url": "https://thehmm.nl/event/ai-ai-ai-a-space-to-play-fail-and-tinker-with-machines/"
+    },
+    {
+     "label": "TikTok Newsroom, How TikTok recommends videos #ForYou",
+     "url": "https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/"
+    },
+    {
+     "label": "Instagram, See Posts you Care About First in your Feed",
+     "url": "https://about.instagram.com/blog/announcements/see-posts-you-care-about-first-in-your-feed"
+    },
+    {
+     "label": "MobileSyrup, Twitter launches new algorithmic Show me the best Tweets first timeline option",
+     "url": "https://mobilesyrup.com/2016/02/10/twitter-launches-new-algorithmic-show-me-the-best-tweets-first-timeline-option/"
+    },
+    {
+     "label": "European Commission, The Digital Services Act",
+     "url": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package"
+    },
+    {
+     "label": "Japan Creative Centre, Embassy of Japan in Singapore, Gotcha!: The Weird and Wonderful World of Gachapon (JCC E-Magazine)",
+     "url": "https://www.sg.emb-japan.go.jp/JCC/E-Magazine-Oct-2021-Gachapon.html"
+    },
+    {
+     "label": "Associated Press via KFVS12, Merriam-Webster's 2025 word of the year is slop",
+     "url": "https://www.kfvs12.com/2025/12/15/merriam-websters-2025-word-year-is-slop-heres-why"
+    },
+    {
+     "label": "City of Amsterdam, Young Netizens Programme (OpenResearch Amsterdam)",
+     "url": "https://openresearch.amsterdam/en/page/115942/young-netizens-programme"
+    },
+    {
+     "label": "VisitBrabant, MU Hybrid Art House",
+     "url": "https://visitbrabant.com/en/locations/1596584260/mu-hybrid-art-house"
+    },
+    {
+     "label": "ai, ai, ai, project site",
+     "url": "https://aiaiai.art"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
      "what": "Illustrative photo: three tall screens blurring past a slot-machine display marked MACHINES, mounted on a pale sculptural frame in front of a window",
-     "credit": "Photo: Maria Mombers",
+     "credit": "Photo: Gjorgji Despodov",
      "url": "https://mariamombers.nl/you-may-also-like",
      "card": false
     },
     {
      "where": "Slide 2",
      "what": "Illustrative photo: a black seat facing a stack of three screens on a silver platform in a bright room with tall windows",
-     "credit": "Photo: Maria Mombers",
+     "credit": "Photo: Gjorgji Despodov",
      "url": "https://mariamombers.nl/you-may-also-like",
      "card": false
     },
@@ -2613,14 +3947,14 @@
     {
      "where": "Slide 6",
      "what": "Illustrative photo: a blue-haired cartoon avatar waving from the middle of three screens in Maria Mombers's installation You May Also Like",
-     "credit": "Photo: Maria Mombers",
+     "credit": "Photo: Gjorgji Despodov",
      "url": "https://mariamombers.nl/you-may-also-like",
      "card": false
     },
     {
      "where": "Slide 7",
      "what": "Illustrative photo: the side of a pale sculptural machine with a back-mounted screen and a column of prize tiers numbered 80, 60, 40 and 30",
-     "credit": "Photo: Maria Mombers",
+     "credit": "Photo: Gjorgji Despodov",
      "url": "https://mariamombers.nl/you-may-also-like",
      "card": false
     },
@@ -2658,23 +3992,68 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "VespaSmartTrap-ONE, Prototype Field Test Manual (PDF)",
+     "url": "https://raw.githubusercontent.com/aggerritsen/VespaSmartTrap-BASE/main/3D/Concept_VespaSmartTrap-ONE_InstuctionMAnual_v02.pdf"
+    },
+    {
+     "label": "Theo Zeegers (EIS Kenniscentrum Insecten), Aziatische hoornaar is here to stay, Kijk op Exoten no. 50",
+     "url": "https://natuurtijdschriften.nl/pub/1031248/Exoten2025013003010.pdf"
+    },
+    {
+     "label": "Lioy et al., Effectiveness and Selectiveness of Traps and Baits for Catching the Invasive Hornet Vespa velutina (Insects 11(10))",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7602873"
+    },
+    {
+     "label": "Barbet-Massin, Salles and Courchamp, The economic cost of control of the invasive yellow-legged Asian hornet (NeoBiota 55)",
+     "url": "https://neobiota.pensoft.net/article/38550/"
+    },
+    {
+     "label": "O'Shea-Wheller et al., VespAI: a deep learning-based system for the detection of invasive hornets (Communications Biology)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10991484"
+    }
+   ],
    "other": [
     {
-     "label": "DDW program listing, The Hornet Trap: Designing for Living Systems",
+     "label": "Dutch Design Week program listing, The Hornet Trap: Designing for Living Systems (2026)",
      "url": "https://ddw.nl/en/programme/the-hornet-trap-designing-for-living-systems"
     },
     {
-     "label": "Stichting Arvespa website",
+     "label": "Stichting Arvespa, Open technology for biodiversity (website)",
      "url": "https://arvespa.org"
     },
     {
-     "label": "VespaSmartTrap-BASE repository README",
-     "url": "https://github.com/aggerritsen/VespaSmartTrap-BASE"
+     "label": "VespaSmartTrap-BASE, README (firmware, model, thresholds, license)",
+     "url": "https://raw.githubusercontent.com/aggerritsen/VespaSmartTrap-BASE/main/README.md"
     },
     {
-     "label": "DDW Mission Day Digital Futures",
-     "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-digital-futures"
+     "label": "VespaSmartTrap-BASE, 3D housing README",
+     "url": "https://raw.githubusercontent.com/aggerritsen/VespaSmartTrap-BASE/main/3D/README.md"
+    },
+    {
+     "label": "VespaSmartTrap-ONE, README",
+     "url": "https://raw.githubusercontent.com/aggerritsen/VespaSmartTrap-ONE/main/README.md"
+    },
+    {
+     "label": "GitHub repository record for aggerritsen/VespaSmartTrap-BASE",
+     "url": "https://api.github.com/repos/aggerritsen/VespaSmartTrap-BASE"
+    },
+    {
+     "label": "BNNVARA Vroege Vogels, Strijd tegen Aziatische hoornaar is schadelijk voor biodiversiteit",
+     "url": "https://www.bnnvara.nl/vroegevogels/artikelen/strijd-tegen-aziatische-hoornaar-is-schadelijk-voor-biodiversiteit"
+    },
+    {
+     "label": "NH Nieuws, Vijftig Aziatische hoornaars gevangen in Aalsmeer: Bijvangst blijft een risico",
+     "url": "https://www.nhnieuws.nl/nieuws/361078/vijftig-aziatische-hoornaars-gevangen-in-aalsmeer-bijvangst-blijft-een-risico"
+    },
+    {
+     "label": "Omroep Brabant, Studenten schieten imkers te hulp bij bestrijding gevaarlijke hoornaars",
+     "url": "https://www.omroepbrabant.nl/nieuws/4792353/studenten-schieten-imkers-te-hulp-bij-bestrijding-gevaarlijke-hoornaars"
+    },
+    {
+     "label": "VespaSmartTrap-BASE, GV2 module README",
+     "url": "https://raw.githubusercontent.com/aggerritsen/VespaSmartTrap-BASE/main/gv2/README.md"
     }
    ],
    "images": [
@@ -2754,23 +4133,88 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Routekaart Duurzame Cultuursector (PDF, Dutch)",
+     "url": "https://duurzamecultuursector.nl/wp-content/uploads/2025/11/RVO_Routekaart_A4_Liggend_V9.pdf"
+    },
+    {
+     "label": "PBL, Klimaat- en Energieverkenning 2026, main messages (PDF, Dutch)",
+     "url": "https://omgevingsweb.nl/wp-content/uploads/2026/09/pbl-2026-hoofdboodschappen-uit-de-klimaat-en-energieverkenning-2026-6237.pdf"
+    },
+    {
+     "label": "CBS, Milieu-impact van de media- en cultuursector (Mosterd and Schenau)",
+     "url": "https://www.cbs.nl/-/media/_pdf/2025/48/milieudruk_cultuursector_2022.pdf"
+    },
+    {
+     "label": "Asheen Phansey, Introducing handprinting: the good you do minus your footprint (Trellis)",
+     "url": "https://trellis.net/article/introducing-handprinting-good-you-do-minus-your-footprint/"
+    },
+    {
+     "label": "Gbeve, Francoeur, Bernard and Tanguay, Influencing pro-environmental behaviors through visual arts: a scoping review (Frontiers in Psychology)",
+     "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1712588/full"
+    }
+   ],
    "other": [
     {
-     "label": "DDW program listing, Programma Duurzame Cultuursector",
+     "label": "Dutch Design Week program listing, Programma Duurzame Cultuursector (2026)",
      "url": "https://ddw.nl/en/programme/programma-duurzame-cultuursector"
     },
     {
-     "label": "Kunsten '92 home page",
+     "label": "Kunsten '92, home page (Dutch)",
      "url": "https://www.kunsten92.nl"
     },
     {
-     "label": "Programma Duurzame Cultuursector, survey post on the Climate Handprint, May 6, 2026",
+     "label": "Programma Duurzame Cultuursector, home page (Dutch)",
+     "url": "https://duurzamecultuursector.nl/"
+    },
+    {
+     "label": "Programma Duurzame Cultuursector, Over het programma (Dutch)",
+     "url": "https://duurzamecultuursector.nl/over-het-programma/"
+    },
+    {
+     "label": "Programma Duurzame Cultuursector, FAQ (Dutch)",
+     "url": "https://duurzamecultuursector.nl/faq/"
+    },
+    {
+     "label": "RVO, Cultuursector maakt plan voor verduurzaming (Dutch)",
+     "url": "https://www.rvo.nl/nieuws/cultuursector-maakt-plan-voor-verduurzaming"
+    },
+    {
+     "label": "Programma Duurzame Cultuursector, Enquete Klimaathandafdruk culturele en creatieve sector",
      "url": "https://duurzamecultuursector.nl/blog/enquete-klimaathandafdruk-culturele-en-creatieve-sector/"
     },
     {
-     "label": "Programma Duurzame Cultuursector, agenda page for the DDW workshop",
+     "label": "Programma Duurzame Cultuursector, agenda page for the DDW workshop (Dutch)",
      "url": "https://duurzamecultuursector.nl/agenda/workshop-klimaathandafdruk-op-dutch-design-week/"
+    },
+    {
+     "label": "Programma Duurzame Cultuursector, Brief Kunsten '92: zet de culturele en creatieve sector in als partner in de klimaataanpak",
+     "url": "https://duurzamecultuursector.nl/blog/brief-kunsten-92-zet-de-culturele-en-creatieve-sector-in-als-partner-in-de-klimaataanpak/"
+    },
+    {
+     "label": "VTT, Carbon handprint: New environmental indicator for evaluating the positive climate impacts of products",
+     "url": "https://www.vttresearch.com/media/news/carbon-handprint"
+    },
+    {
+     "label": "VTT, Carbon handprint guide: V. 2.0 Applicable for environmental handprint (research portal)",
+     "url": "https://cris.vtt.fi/en/publications/carbon-handprint-guide-v-20-applicable-for-environmental-handprin/"
+    },
+    {
+     "label": "WBCSD, Guidance on Avoided Emissions v2.0",
+     "url": "https://www.wbcsd.org/resources/guidance-on-avoided-emissions-helping-business-drive-innovations-and-scale-solutions-towards-net-zero/"
+    },
+    {
+     "label": "Programma Duurzame Cultuursector, Nieuwe regels tegen greenwashing: wat betekenen ze voor musea? (from the Museumvereniging)",
+     "url": "https://duurzamecultuursector.nl/blog/nieuweregelstegengreenwashing/"
+    },
+    {
+     "label": "Baker McKenzie, Spain: EU Green Claims Rules Apply from 27 September",
+     "url": "https://www.bakermckenzie.com/en/insight/publications/2026/09/spain-eu-green-claims-rules-apply-from-27-september"
+    },
+    {
+     "label": "Programma Duurzame Cultuursector knowledge base, Podcast: NRC Het Uur met Anoek Nuyens (Dutch)",
+     "url": "https://duurzamecultuursector.nl/kennisbank/podcast-nrc-het-uur-met-anoek-nuyens/"
     }
    ],
    "images": [
@@ -2857,18 +4301,55 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Wright and Upama, Semitransparent solar cells: a window to the future? (UNSW Newsroom)",
+     "url": "https://newsroom.unsw.edu.au/news/science-tech/semitransparent-solar-cells-window-future"
+    },
+    {
+     "label": "Li et al., Color-neutral, semitransparent organic photovoltaics for power window applications (PNAS 117(35))",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7474591"
+    },
+    {
+     "label": "Xie et al., Recent progress of organic photovoltaics for indoor energy harvesting (Nano Energy 82)",
+     "url": "https://research.nottingham.edu.cn:443/en/publications/recent-progress-of-organic-photovoltaics-for-indoor-energy-harves"
+    },
+    {
+     "label": "Bellekom, van Weerden, Hooimeijer and Visser, Zonnepanelen op je gevel (Hanze University of Applied Sciences)",
+     "url": "https://research.hanze.nl/en/publications/zonnepanelen-op-je-gevel-2/"
+    }
+   ],
    "other": [
     {
-     "label": "DDW program listing, Between Lights",
+     "label": "Dutch Design Week program listing, Between Lights (2026)",
      "url": "https://ddw.nl/en/programme/between-lights"
+    },
+    {
+     "label": "Dutch Design Awards, Young Designer 2015: Teresa van Dongen",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/teresa-van-dongen/"
+    },
+    {
+     "label": "Stimuleringsfonds Creatieve Industrie, Talent 2015: Marjan van Aubel, Current Window",
+     "url": "https://talent.stimuleringsfonds.nl/2015/names/marjan-van-aubel/"
     },
     {
      "label": "U.S. Department of Energy, Organic Photovoltaics Research",
      "url": "https://www.energy.gov/eere/solar/organic-photovoltaics-research"
     },
     {
-     "label": "DDW highlights release, September 29, 2026",
+     "label": "Compound Semiconductor, Solliance and imec join forces in thin film PV R&D",
+     "url": "https://compoundsemiconductor.net/article/88488/Solliance_and_imec_join_forces_in_thin_film_PV_RandD"
+    },
+    {
+     "label": "Heliatek, HeliaSol product page and home page (German)",
+     "url": "https://www.heliatek.com/de/produkte/heliasol/"
+    },
+    {
+     "label": "ScienceDaily, Improving photosynthesis? Solar cells beat plants at harvesting sun's energy, for now (DOE/NREL release)",
+     "url": "https://www.sciencedaily.com/releases/2011/05/110512151408.htm"
+    },
+    {
+     "label": "Dutch Design Week, These are the Highlights of Dutch Design Week 2026 (press release)",
      "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
     }
    ],
