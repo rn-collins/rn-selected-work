@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-10T00:15:39.926Z",
+  "generatedAt": "2026-10-10T00:26:32.439Z",
   "generatedBy": "scripts/regenerate-builds.mjs",
   "counts": {
     "repositories": 126,
     "vercelProjects": 159,
-    "excluded": 55,
-    "published": 78,
+    "excluded": 56,
+    "published": 77,
     "unreachable": 0
   },
   "builds": [
@@ -178,18 +178,6 @@
       "hasNote": true
     },
     {
-      "repo": "anatomy-of-everything",
-      "live": "https://anatomy-of-everything.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/anatomy-of-everything",
-      "githubDescription": "The Anatomy of Everything — RN franchise, canonical works and platform production packages.",
-      "pushedAt": "2026-09-27T17:06:16Z",
-      "httpStatus": 200,
-      "renderedWords": 140,
-      "reachable": true,
-      "hasNote": true
-    },
-    {
       "repo": "ask-a-neuroscientist-fashion",
       "live": "https://ask-a-neuroscientist-fashion.vercel.app",
       "visibility": "public",
@@ -354,18 +342,6 @@
       "pushedAt": "2026-09-03T07:04:48Z",
       "httpStatus": 200,
       "renderedWords": 582,
-      "reachable": true,
-      "hasNote": true
-    },
-    {
-      "repo": "hawaii-tech-week-project-record",
-      "live": "https://hawaii-tech-week-project-record.vercel.app",
-      "visibility": "private",
-      "repoUrl": null,
-      "githubDescription": "Recovered durable source for the Hawaiʻi Tech Week public gallery and private owner archive workflow.",
-      "pushedAt": "2026-10-09T21:44:28Z",
-      "httpStatus": 200,
-      "renderedWords": 844,
       "reachable": true,
       "hasNote": true
     },
@@ -810,6 +786,18 @@
       "pushedAt": "2026-09-09T19:10:59Z",
       "httpStatus": 200,
       "renderedWords": 59,
+      "reachable": true,
+      "hasNote": true
+    },
+    {
+      "repo": "rn-ask-a-neuroscientist",
+      "live": "https://rn-ask-a-neuroscientist.vercel.app",
+      "visibility": "unknown",
+      "repoUrl": null,
+      "githubDescription": null,
+      "pushedAt": null,
+      "httpStatus": 200,
+      "renderedWords": 754,
       "reachable": true,
       "hasNote": true
     },

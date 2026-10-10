@@ -17,6 +17,11 @@
       "silent": true
     },
     {
+      "repo": "anatomy-of-everything",
+      "reason": "Production packages are downloadable from the page. Held until the work is published.",
+      "silent": true
+    },
+    {
       "repo": "antithesis-ask-a-neuroscientist",
       "reason": "Business proposal prepared for a named firm and marked internal review. Not the author's to publish.",
       "silent": true
@@ -78,6 +83,11 @@
     {
       "repo": "gloria",
       "reason": "Client engagement. Not the author's to publish.",
+      "silent": true
+    },
+    {
+      "repo": "hawaii-tech-week-project-record",
+      "reason": "Carousels, documents and images are downloadable from the page. Held until the work is published.",
       "silent": true
     },
     {
@@ -161,11 +171,6 @@
     {
       "repo": "rn-api",
       "reason": "Shared serverless API. No page to read."
-    },
-    {
-      "repo": "rn-ask-a-neuroscientist",
-      "reason": "Channel landing page for the show, held while the series is unpublished.",
-      "silent": true
     },
     {
       "repo": "rn-build-queue",

@@ -770,6 +770,21 @@ export const buildNotes: BuildNote[] = [
       "These are concept profiles. Nothing here was commissioned or agreed with a subject, and no profile represents anyone's actual plans.",
   },
   {
+    repo: "rn-ask-a-neuroscientist",
+    title: "Ask a Neuroscientist",
+    category: "education",
+    status: "Live · series companion, publishing from October 2026",
+    statusKind: "live",
+    problem:
+      "A post about what a plant does to the brain has room for a claim and almost nothing else: not the receptor it acts on, not the interaction that makes it dangerous with a prescription, not the law where the reader lives.",
+    does:
+      "Holds the series in one place: the receptor families each plant acts on, a brain map, a glossary, a twenty-five year policy timeline, warnings written as warnings, myths checked against mechanisms, and a plant-by-plant tour from Hawaiʻi and Alaska to Peru, Gabon and Yemen. Readers can send a question, and answered ones are published back.",
+    builtOn:
+      "A static companion to the posts, with a page for each card and no tracking.",
+    limits:
+      "Education, not medical advice. The series began at Fat Nugs Magazine.",
+  },
+  {
     repo: "ask-a-neuroscientist-fashion",
     title: "The Dressed Nervous System",
     category: "atlases",
@@ -815,21 +830,6 @@ export const buildNotes: BuildNote[] = [
       "Nothing here has been published or scheduled. Inclusion in the record is not editorial approval, rights clearance or a claim that any draft is finished.",
   },
   {
-    repo: "anatomy-of-everything",
-    title: "The Anatomy of Everything",
-    category: "records",
-    status: "Platform record · two works drafted, nothing published",
-    statusKind: "paused",
-    problem:
-      "A familiar moment — a hug, a driver's neck under load — looks simple until you ask which systems produce it, and then the evidence sits across physiology, engineering and culture with no single place that holds it together.",
-    does:
-      "Sets out the franchise and carries its first two works, each with the production package behind it: the research, the essay, and the versions for every surface the work would travel across, from an Instagram carousel to a long-form film script.",
-    builtOn:
-      "A static platform that publishes the production package alongside each work, so the working material is inspectable rather than summarised.",
-    limits:
-      "Nothing has been published or scheduled. The previews are unpublished drafts.",
-  },
-  {
     repo: "color-vision-field-guide",
     title: "Color Vision Field Guide",
     category: "education",
@@ -873,21 +873,6 @@ export const buildNotes: BuildNote[] = [
       "A production system that publishes the public atlas while keeping documentary media, rights records, internal source notes and human-QA evidence access-controlled. Public release does not convert an unresolved internal approval into a verified fact.",
     limits:
       "The public atlas covers the Amsterdam and Eindhoven corpus only. Private rights and production records remain private.",
-  },
-  {
-    repo: "hawaii-tech-week-project-record",
-    title: "Tech From Here · Hawaiʻi Tech Week",
-    category: "records",
-    status: "Review collection · publication not authorised",
-    statusKind: "paused",
-    problem:
-      "A gallery rebuilt from an owner archive has to prove it is the same gallery — same revisions, same media, same approvals — or it is just a new site making claims about an old one.",
-    does:
-      "Presents 14 complete story drafts about the networks, instruments, standards, archives and living systems Hawaiʻi gave the world, with 140 visual slides, 14 interactives and nine platform drafts per story, rebuilt from the verified owner archive with all 14 immutable public revisions, 18 controlled media files, frozen release bundles and approval records preserved.",
-    builtOn:
-      "A build-and-test pipeline over a committed public-record snapshot sufficient to rebuild every reader-facing page, with verified binary originals still segregated in the private owner archive.",
-    limits:
-      "The collection is built for structured review and the site states that publication is not authorised. These are story drafts under review, not published articles.",
   },
   {
     repo: "institutions-of-one-reader",
