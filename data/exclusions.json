@@ -2,6 +2,21 @@
   "$comment": "Builds deliberately kept out of the public index. The regeneration script reads this file, so an excluded build can never reappear by accident. Every entry must state a reason. 'silent' entries are not named anywhere in the rendered site.",
   "exclusions": [
     {
+      "repo": "aan-api",
+      "reason": "Private API behind the Ask a Neuroscientist growth tools. No page to read.",
+      "silent": true
+    },
+    {
+      "repo": "aan-growth-console",
+      "reason": "Private operating console for the Ask a Neuroscientist channels.",
+      "silent": true
+    },
+    {
+      "repo": "aan-x-dwts",
+      "reason": "Unpublished editorial programme. Nothing in it has been released.",
+      "silent": true
+    },
+    {
       "repo": "antithesis-ask-a-neuroscientist",
       "reason": "Business proposal prepared for a named firm and marked internal review. Not the author's to publish.",
       "silent": true
@@ -22,6 +37,21 @@
       "silent": true
     },
     {
+      "repo": "content-os",
+      "reason": "Private multi-tenant content system in development.",
+      "silent": true
+    },
+    {
+      "repo": "content-strategy-system",
+      "reason": "Private design record for content-os.",
+      "silent": true
+    },
+    {
+      "repo": "culturalyst-content-digest",
+      "reason": "Client content digest. Not the author's to publish.",
+      "silent": true
+    },
+    {
       "repo": "emari",
       "reason": "Client engagement. The deployment serves a deliberate blank cover and the repository is private.",
       "silent": true
@@ -37,9 +67,42 @@
       "silent": true
     },
     {
+      "repo": "field-intelligence-os",
+      "reason": "No production deployment."
+    },
+    {
+      "repo": "gidens",
+      "reason": "Client engagement. Private review site behind an editor key.",
+      "silent": true
+    },
+    {
       "repo": "gloria",
       "reason": "Client engagement. Not the author's to publish.",
       "silent": true
+    },
+    {
+      "repo": "htw-content-intel",
+      "reason": "Private working intelligence build for a client channel.",
+      "silent": true
+    },
+    {
+      "repo": "htw-field-kit",
+      "reason": "Private owner field kit behind a passphrase gate.",
+      "silent": true
+    },
+    {
+      "repo": "hwit-proposal-collins",
+      "reason": "Proposal prepared for a named organisation.",
+      "silent": true
+    },
+    {
+      "repo": "inspiration-hawaii-proposal",
+      "reason": "Proposal prepared for a named organisation.",
+      "silent": true
+    },
+    {
+      "repo": "institutions-of-one-project-record",
+      "reason": "Private reviewer studio behind an email and access-code gate. Its public half ships as institutions-of-one-reader."
     },
     {
       "repo": "leilani",
@@ -52,12 +115,41 @@
       "silent": true
     },
     {
+      "repo": "miguel",
+      "reason": "Client engagement. Not the author's to publish.",
+      "silent": true
+    },
+    {
+      "repo": "miguel-licensing",
+      "reason": "Client licensing record. Not the author's to publish.",
+      "silent": true
+    },
+    {
       "repo": "nam",
       "reason": "Client engagement. The deployment serves a deliberate blank cover and the repository is private.",
       "silent": true
     },
     {
+      "repo": "nervous-system-in-the-room",
+      "reason": "Unpublished editorial gallery. Nothing in it has been released.",
+      "silent": true
+    },
+    {
+      "repo": "nsag-api",
+      "reason": "Internal API for the NSAG modules. Production route returns 404."
+    },
+    {
       "repo": "ospace",
+      "reason": "Client engagement. Not the author's to publish.",
+      "silent": true
+    },
+    {
+      "repo": "ourspace-content-proposal",
+      "reason": "Client content plan naming the client and its terms.",
+      "silent": true
+    },
+    {
+      "repo": "piiku-glitchy",
       "reason": "Client engagement. Not the author's to publish.",
       "silent": true
     },
@@ -67,8 +159,51 @@
       "silent": true
     },
     {
+      "repo": "rn-ai-field-notes",
+      "reason": "Private working notebook of builds and experiments.",
+      "silent": true
+    },
+    {
+      "repo": "rn-api",
+      "reason": "Shared serverless API. No page to read."
+    },
+    {
+      "repo": "rn-ask-a-neuroscientist",
+      "reason": "Channel landing page for the show, held while the series is unpublished.",
+      "silent": true
+    },
+    {
+      "repo": "rn-build-queue",
+      "reason": "Private working queue of RN's own unreleased builds.",
+      "silent": true
+    },
+    {
+      "repo": "rn-build-queue-site",
+      "reason": "Deploy mirror of rn-build-queue. No separate build.",
+      "silent": true
+    },
+    {
+      "repo": "rn-case-of-the-week",
+      "reason": "Working content concept, not released.",
+      "silent": true
+    },
+    {
       "repo": "rn-clients",
       "reason": "Fees, invoices, scope and equity. Its own README forbids public linking.",
+      "silent": true
+    },
+    {
+      "repo": "rn-collins",
+      "reason": "The GitHub profile README. Not a build.",
+      "silent": false
+    },
+    {
+      "repo": "rn-content-second-brain",
+      "reason": "Internal production workspace for a client channel, with owner-only controls."
+    },
+    {
+      "repo": "rn-cultural-activation-system",
+      "reason": "Private working system behind the editorial projects.",
       "silent": true
     },
     {
@@ -77,9 +212,36 @@
       "silent": true
     },
     {
+      "repo": "rn-estate-tools",
+      "reason": "Command-line tooling, not a site. It is the ship gate every build here has to pass, and it keeps a written record of the twelve ways it has been wrong.",
+      "silent": false
+    },
+    {
+      "repo": "rn-field-app",
+      "reason": "Deployment returns an empty page."
+    },
+    {
       "repo": "rn-jim-ai-governance",
       "reason": "Engagement proposal prepared for a named individual, including terms.",
       "silent": true
+    },
+    {
+      "repo": "rn-master-post-studio",
+      "reason": "Private post archive behind a passphrase gate.",
+      "silent": true
+    },
+    {
+      "repo": "rn-museum-motion",
+      "reason": "Proposal gallery prepared for a named organisation.",
+      "silent": true
+    },
+    {
+      "repo": "rn-selected-work",
+      "reason": "This site. It does not index itself."
+    },
+    {
+      "repo": "rn-travel-command-center",
+      "reason": "Private operational system. The deployment is gated and serves no public content."
     },
     {
       "repo": "rooted-and-rising",
@@ -92,6 +254,15 @@
       "silent": true
     },
     {
+      "repo": "tech-from-here-field-kit",
+      "reason": "Private owner workspace behind a passphrase gate."
+    },
+    {
+      "repo": "tech-from-here-netherlands-field-kit",
+      "reason": "Private owner field kit for the Netherlands editions.",
+      "silent": true
+    },
+    {
       "repo": "test-invalid-do-not-use",
       "reason": "Deliberately invalid deployment, kept to prove the gate rejects it.",
       "silent": true
@@ -100,63 +271,43 @@
       "repo": "y",
       "reason": "Single-page NSAG readiness instrument with no deployment of its own. The repository name is an accident of scaffolding.",
       "silent": true
-    },
-    {
-      "repo": "field-intelligence-os",
-      "reason": "No production deployment."
-    },
-    {
-      "repo": "institutions-of-one-project-record",
-      "reason": "Private reviewer studio behind an email and access-code gate. Its public half ships as institutions-of-one-reader."
-    },
-    {
-      "repo": "nsag-api",
-      "reason": "Internal API for the NSAG modules. Production route returns 404."
-    },
-    {
-      "repo": "rn-api",
-      "reason": "Shared serverless API. No page to read."
-    },
-    {
-      "repo": "rn-collins",
-      "reason": "The GitHub profile README. Not a build.",
-      "silent": false
-    },
-    {
-      "repo": "rn-content-second-brain",
-      "reason": "Internal production workspace for a client channel, with owner-only controls."
-    },
-    {
-      "repo": "rn-estate-tools",
-      "reason": "Command-line tooling, not a site. It is the ship gate every build here has to pass, and it keeps a written record of the twelve ways it has been wrong.",
-      "silent": false
-    },
-    {
-      "repo": "rn-field-app",
-      "reason": "Deployment returns an empty page."
-    },
-    {
-      "repo": "rn-selected-work",
-      "reason": "This site. It does not index itself."
-    },
-    {
-      "repo": "rn-travel-command-center",
-      "reason": "Private operational system. The deployment is gated and serves no public content."
-    },
-    {
-      "repo": "tech-from-here-field-kit",
-      "reason": "Private owner workspace behind a passphrase gate."
     }
   ],
   "aliasProjects": {
     "$comment": "Vercel projects that are duplicates, redirects, probes or test deployments of a canonical project. Keyed by Vercel project name.",
-    "z2f-live": "zero-to-frontier",
+    "aan-base64-test": "$scratch",
+    "aan-deploy-schema-test": "$scratch",
+    "aan-dwts-not-one-to-one-assets": "$scratch",
+    "aan-dwts-preview": "$scratch",
+    "aan-dwts-the-reset-assets": "$scratch",
+    "aan-dwts-why-i-stopped-assets": "$scratch",
+    "aan-image-proxy-direct": "$scratch",
+    "aan-image-proxy-test": "$scratch",
+    "aan-incremental-test": "$scratch",
+    "aan-localfile-test": "$scratch",
+    "aan-path-probe": "$scratch",
+    "aan-proxy-test": "$scratch",
+    "aan-schema-probe": "$scratch",
+    "aan-source-check": "$scratch",
+    "aan-x-dwts-archive-20260921": "$scratch",
+    "aan-x-dwts-audited-release": "$scratch",
+    "aan-x-dwts-exporter": "$scratch",
+    "aan-x-dwts-exporter-audit-test": "$scratch",
+    "aan-x-dwts-publishing": "$scratch",
+    "aan-x-dwts-renderer": "$scratch",
+    "aan-x-dwts-renderer-test": "$scratch",
+    "aan-x-dwts-schema-test": "$scratch",
+    "aan-x-dwts-studio": "$scratch",
+    "aan-x-dwts-studio-test": "$scratch",
+    "aan-x-dwts-test": "$scratch",
     "aloha-ai-consulting-an6n": "aloha-ai-consulting",
     "aloha-ai-consulting-cert-probe": "aloha-ai-consulting",
+    "deployment-format-probe": "$scratch",
+    "hawaii-tech-week-gallery-recovered-preview": "hawaii-tech-week-project-record",
     "rn-content-second-brain-final-test": "rn-content-second-brain",
+    "rn-content-second-brain-preview": "rn-content-second-brain",
     "rn-content-second-brain-site-test": "rn-content-second-brain",
     "rn-second-brain-schema-probe": "rn-content-second-brain",
-    "rn-content-second-brain-preview": "rn-content-second-brain",
-    "hawaii-tech-week-gallery-recovered-preview": "hawaii-tech-week-project-record"
+    "z2f-live": "zero-to-frontier"
   }
 }

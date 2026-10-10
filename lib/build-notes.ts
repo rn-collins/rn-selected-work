@@ -800,6 +800,51 @@ export const buildNotes: BuildNote[] = [
       "An exhibition, not a survey. The dossiers are selected because they make a structural question legible, not because they are representative of the industry.",
   },
   {
+    repo: "tech-from-here-mjbizcon",
+    title: "Tech From Here: MJBizCon",
+    category: "records",
+    status: "Project record · research complete, nothing published",
+    statusKind: "paused",
+    problem:
+      "Cannabis coverage reports the politics and the money. The machinery that actually governs the plant — the tag on every plant, the laboratory test, the state tracking interface, the rules written around them — is where the decisions get made, and it is barely described.",
+    does:
+      "Holds the research corpus behind an investigation into how Nevada regulates cannabis as a technical system: 92 source records, a fourteen-part story architecture, and the production material each part would need. The archive is searchable, and every draft carries the readiness state it was left in.",
+    builtOn:
+      "Public records and published sources, kept in a repository that separates research from anything approved for release.",
+    limits:
+      "Nothing here has been published or scheduled. Inclusion in the record is not editorial approval, rights clearance or a claim that any draft is finished.",
+  },
+  {
+    repo: "anatomy-of-everything",
+    title: "The Anatomy of Everything",
+    category: "records",
+    status: "Platform record · two works drafted, nothing published",
+    statusKind: "paused",
+    problem:
+      "A familiar moment — a hug, a driver's neck under load — looks simple until you ask which systems produce it, and then the evidence sits across physiology, engineering and culture with no single place that holds it together.",
+    does:
+      "Sets out the franchise and carries its first two works, each with the production package behind it: the research, the essay, and the versions for every surface the work would travel across, from an Instagram carousel to a long-form film script.",
+    builtOn:
+      "A static platform that publishes the production package alongside each work, so the working material is inspectable rather than summarised.",
+    limits:
+      "Nothing has been published or scheduled. The previews are unpublished drafts.",
+  },
+  {
+    repo: "color-vision-field-guide",
+    title: "Color Vision Field Guide",
+    category: "education",
+    status: "Live · sourced guide, written September 2026",
+    statusKind: "live",
+    problem:
+      "A child who cannot read a colour cue is often told he is not paying attention. The answer is usually ordinary and inherited, but the material families meet first is either a clinical page written for practitioners or an online test that cannot test anything.",
+    does:
+      "Starts with one family's eye appointment and works outward: what the plates do and do not show, how the common red–green differences are inherited, how prevalence estimates differ between populations, and what changes at school and at home once a child's colour vision is known.",
+    builtOn:
+      "A static guide built on cited sources, with public-domain historic plates shown as teaching images and each estimate attributed to the body that published it.",
+    limits:
+      "Not a test and not a diagnosis. Screens change what anyone sees, population estimates do not describe an individual, and the family's own genotype is not established.",
+  },
+  {
     repo: "tech-from-here-fashion-week",
     title: "Signal / Seam",
     category: "records",
