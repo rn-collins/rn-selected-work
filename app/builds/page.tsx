@@ -135,6 +135,9 @@ export default function BuildIndexPage() {
                     )}
                     {build.linkHeld && <p className="indexHeld">{build.linkHeld}</p>}
                     <div className="indexActions">
+                      <Link href={`/builds/${build.repo}`}>
+                        See it running <span aria-hidden="true">→</span>
+                      </Link>
                       {!build.linkHeld && (
                         <a href={build.live} target="_blank" rel="noreferrer">
                           Open the build <span aria-hidden="true">↗</span>
