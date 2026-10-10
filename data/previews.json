@@ -71,7 +71,7 @@
  },
  "ask-a-neuroscientist-fashion.vercel.app": {
   "captured": "2026-10-09",
-  "embed": false,
+  "embed": true,
   "image": "/previews/ask-a-neuroscientist-fashion.jpg"
  },
  "bm-intel-ivory.vercel.app": {
@@ -156,7 +156,7 @@
  },
  "institutions-of-one-reader.vercel.app": {
   "captured": "2026-10-09",
-  "embed": false,
+  "embed": true,
   "image": "/previews/institutions-of-one-reader.jpg"
  },
  "keiki-robotics-oahu-ai.vercel.app": {
@@ -276,7 +276,7 @@
  },
  "ownership-platform.vercel.app": {
   "captured": "2026-10-09",
-  "embed": false,
+  "embed": true,
   "image": "/previews/ownership-platform.jpg"
  },
  "patent-first-steps.vercel.app": {
