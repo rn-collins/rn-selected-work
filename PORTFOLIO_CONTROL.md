@@ -43,6 +43,16 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] Give each article a specific blurb covering its question, argument/finding, evidence/disciplinary method, and what it demonstrates about RN's work
 - [x] Select for range rather than allowing one article to stand in for an entire publication
 
+- [x] Journal of Biophilic Design: five articles by RN (Issues 17, 18, 20, 21, 22) reproduced in full at `/writing/journal-of-biophilic-design/[slug]`, credited to the issue where each first appeared, with references (`data/journal/*.json`, text extracted from the issue PDFs and checked against the printed pages)
+- [x] Archive re-crawled 9 Oct 2026: Fat Nugs Magazine author archive (32 articles) and Cannabis Law Report (50 articles incl. Series 3 No. 1–9); Cannabis Law Journal republications unchanged (3)
+
+## Build windows
+
+- [x] Every build has a record page at `/builds/[repo]` with the browser-window demonstration; the six project case studies, the NSAG page and the public-build case studies use the same `LivePreview` component
+- [x] The window is the live site only where the site permits embedding (X-Frame-Options / CSP frame-ancestors); otherwise it holds a dated screenshot. 64 of 83 probed sites forbid framing, so an iframe of them would be blank
+- [x] Held builds (NARCH, Women's Neuro-Health) and non-visual surfaces (`nsag-admin`, `rn-agent-os`) show no window
+- [ ] Re-run `python3 scripts/capture-previews.py` after a build's interface changes (screenshots are dated)
+
 ## Culturalyst view and Sean response
 
 - [x] Lead with Ownership, FlexJD, and Keiki Robotics / Oʻahu AI
@@ -97,6 +107,8 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] The slides print `rn-selected-work.vercel.app/sources/<mon-dd>` on the cover and the last slide.
 - [x] Site tagline changed from "Find the break. Choose the form." to "Find the gap. Build what is missing." (footer, Culturalyst conversation page; the Culturalyst invitation reads "Understand the gap. Then build what is missing.").
 - [ ] Extend the export to January to March 2027 posts once those packages are proofed.
+- [x] Tech From Here (RN Collins) sources pages at `/sources/tfh/<set-id>` for the 38 ready DDW26 sets, from `data/sources-tfh.json` (`sources_export.py tfh`). They are not listed on `/sources/tfh` or in the sitemap until a set has a posting date; the address in each Threads first reply works now.
+- [x] One shared page body (`components/sources-detail.tsx`) serves every account.
 - [x] Sources pages carry `rn:kind="reference"` and `rn:entries`; the estate check judges them on completeness (every entry rendered, no empty section, links resolve) instead of the 400-word floor. Checked locally: /sources, /sources/oct-08 and /sources/oct-09 pass with 0 blocker, 0 major.
 
 ## RN Collins sources pages (one account per package family)

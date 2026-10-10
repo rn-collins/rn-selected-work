@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import { LivePreview } from "../../../components/live-preview";
 
 export const metadata: Metadata = {
   title: "Neurocognitive Systems Advisory Group",
@@ -56,6 +57,10 @@ export default function NSAGCaseStudy() {
           physiological conditions of the people inside them.
         </p>
       </header>
+
+      <div className="shell">
+        <LivePreview url="https://nsag-site.vercel.app/" title="Neurocognitive Systems Advisory Group" />
+      </div>
 
       <section className="fit">
         <div className="shell fitgrid">

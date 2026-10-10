@@ -8,6 +8,10 @@ export const metadata: Metadata = {
   alternates: { canonical: "/writing" },
 };
 import { publicationArchive } from "../../lib/publication-archive";
+import { journalArticles, journalName, journalUrl } from "../../lib/journal-articles";
+
+const journalId = "journal-of-biophilic-design";
+const totalRecords = publicationArchive.length + journalArticles.length;
 
 const publications = [
   "Fat Nugs Magazine",
@@ -23,14 +27,15 @@ export default function WritingArchivePage() {
         <div className="navlinks"><Link href="/#work">Work</Link><Link href="/writing">Writing</Link></div>
       </nav>
       <header className="archiveHero shell">
-        <p className="eyebrow">Complete editorial archive · through August 12, 2026</p>
+        <p className="eyebrow">Complete editorial archive · through October 9, 2026</p>
         <h1>Published work,<br /><em>in full.</em></h1>
         <div className="archiveIntro">
-          <p>{publicationArchive.length} located publication records across law, governance, neuroscience, cannabis, psychedelics, culture, institutional accountability, and Hawaiʻi.</p>
-          <p>This archive searches the bylines RN Collins, Rayven-Nikkita Collins, Nikkita Collins, and RN Williams. Publication duplicates and Journal republications remain visible and are explicitly labeled.</p>
+          <p>{totalRecords} located publication records across law, governance, neuroscience, cannabis, psychedelics, culture, institutional accountability, and Hawaiʻi.</p>
+          <p>Five articles from the Journal of Biophilic Design are reproduced in full below, because the journal’s issues cannot be linked to. This archive searches the bylines RN Collins, Rayven-Nikkita Collins, Nikkita Collins, and RN Williams. Publication duplicates and Journal republications remain visible and are explicitly labeled.</p>
         </div>
       </header>
       <nav className="publicationJump shell" aria-label="Jump to publication">
+        <a href={`#${journalId}`}>{journalName} <span>{journalArticles.length}</span></a>
         {publications.map((publication) => (
           <a href={`#${publication.toLowerCase().replaceAll(" ", "-")}`} key={publication}>
             {publication} <span>{publicationArchive.filter((item) => item.publication === publication).length}</span>
@@ -38,6 +43,30 @@ export default function WritingArchivePage() {
         ))}
       </nav>
       <div className="archiveBody shell">
+        <section className="publicationArchive" id={journalId}>
+          <div className="publicationArchiveHead">
+            <p className="eyebrow">Publication</p>
+            <h2>{journalName}</h2>
+            <span>{journalArticles.length} full texts</span>
+          </div>
+          <p className="archiveDisclosure">
+            The journal is sold as an ebook or in print, so these articles are reproduced here in full as printed. Each page credits the issue where it first appeared. <a href={journalUrl} target="_blank" rel="noreferrer">The journal’s issues ↗</a>
+          </p>
+          <section className="seriesGroup">
+            <h3>Science columns, Issues 17 to 22</h3>
+            <div className="archiveList">
+              {journalArticles.map((article) => (
+                <article key={article.slug}>
+                  <time>Issue {article.issue}</time>
+                  <div>
+                    <h4><Link href={`/writing/${journalId}/${article.slug}`}>{article.title}{article.subtitle ? `: ${article.subtitle}` : ""}</Link></h4>
+                    <p>{article.author} · {article.theme} issue · full text</p>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </section>
+        </section>
         {publications.map((publication) => {
           const articles = publicationArchive
             .filter((item) => item.publication === publication)
