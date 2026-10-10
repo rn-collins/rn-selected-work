@@ -3753,138 +3753,133 @@
   {
    "slug": "nov-05",
    "date": "2026-11-05",
-   "id": "BB05",
-   "title": "Brain and Body: why music gives you chills",
-   "origin": null,
-   "series": "Brain and Body",
+   "id": "18",
+   "title": "(Un)stilled Pain by Li Qiu, Design Academy Eindhoven Graduation Show 2026",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://www.designacademy.nl/page/10128/un-stilled-pain"
+   },
+   "series": "Dutch Design Week",
    "research": [
     {
-     "label": "Blood and Zatorre (2001), Intensely pleasurable responses to music correlate with activity in brain regions implicated in reward and emotion, PNAS 98(20):11818-23, doi 10.1073/pnas.191355898 (MGH NMR publications record)",
-     "url": "https://nmr.mgh.harvard.edu/node/2976"
+     "label": "Raja et al. 2020, Pain 161(9):1976 to 1982, revised IASP definition of pain (PMC7680716)",
+     "url": "https://doi.org/10.1097/j.pain.0000000000001939"
     },
     {
-     "label": "UFRJ library record of Blood and Zatorre (2001), abstract opening",
-     "url": "https://buscaintegrada.ufrj.br/Record/pubmed-58814"
+     "label": "Shaballout et al. 2019, JMIR mHealth uHealth 7(1):e11412 (PMC6329897)",
+     "url": "https://doi.org/10.2196/11412"
     },
     {
-     "label": "Berklee College of Music, Musical \"Chills\" among Topics of Music Therapy Symposium (news page)",
-     "url": "https://www.berklee.edu/node/2394716"
+     "label": "Chen et al. 2008, Academic Emergency Medicine 15(5):414 to 418",
+     "url": "https://doi.org/10.1111/j.1553-2712.2008.00100.x"
     },
     {
-     "label": "Salimpoor, Benovoy, Larcher, Dagher and Zatorre (2011), Anatomically distinct dopamine release during anticipation and experience of peak emotion to music, Nature Neuroscience 14(2):257-262 (Zatorre lab PDF)",
-     "url": "https://www.zlab.mcgill.ca/publications/docs/salimpoor_2011_nn.pdf"
-    },
-    {
-     "label": "Sachs, Ellis, Schlaug and Loui (2016), Brain connectivity reflects human aesthetic responses to music, Soc Cogn Affect Neurosci, doi 10.1093/scan/nsw009 (PDF hosted at MIT Media Lab)",
-     "url": "https://web.media.mit.edu/~tod/media/pdfs/Class3-1_Sachs_Ellis_Schlaug_Loui-2016.pdf"
-    },
-    {
-     "label": "Mas-Herrero, Zatorre, Rodriguez-Fornells and Marco-Pallares (2014), Dissociation between musical and monetary reward responses in specific musical anhedonia, Current Biology 24(6):699-704 (Universitat de Barcelona repository)",
-     "url": "https://diposit.ub.edu/items/966dfa09-fe4d-4207-8c8f-7e61ee6d9917/full"
+     "label": "Nnoaham et al. 2011, Fertility and Sterility 96(2):366 to 373 (PMC3679489)",
+     "url": "https://doi.org/10.1016/j.fertnstert.2011.05.090"
     }
    ],
    "other": [
     {
-     "label": "Grey Matters (student neuroscience journal), The Pleasure of Music",
-     "url": "https://greymattersjournal.org/the-pleasure-of-music"
+     "label": "DAE news: Introducing the nominees for the 2026 DAE Awards (16/9/2026)",
+     "url": "https://www.designacademy.nl/page/10097/introducing-the-nominees-for-the-2026-dae-awards"
     },
     {
-     "label": "Mitchell Colver, Why do only some people get skin orgasms from listening to music? (The Conversation, republished by Neuroscience News)",
-     "url": "https://neurosciencenews.com/frisson-chills-music-9933/"
+     "label": "DAE press release: DAE Graduation Show '26 Presenting the New Generation of Designers",
+     "url": "https://mailchi.mp/designacademy/design-academy-eindhoven-awardseng-13883628"
     },
     {
-     "label": "ScienceDaily (March 2014), on Mas-Herrero et al.",
-     "url": "https://sciencedaily.com/releases/2014/03/140306130411.htm"
+     "label": "DAE: Graduation Show 2026",
+     "url": "https://www.designacademy.nl/page/10108/graduation-show-2026"
     },
     {
-     "label": "IDIBELL news, Some people are not moved by music",
-     "url": "https://idibell.cat/en/?p=6171"
-    },
-    {
-     "label": "JazzTimes, Scientists Link Music to Food, Drugs, Sex (2001 news report)",
-     "url": "https://www.jazztimes.com/?p=700"
-    },
-    {
-     "label": "Image records: The Met, Cleveland Museum of Art Open Access, Saint Louis Art Museum",
-     "url": "https://www.metmuseum.org/art/collection/search/828363"
+     "label": "DDW listing, DAE Graduation Show 2026",
+     "url": "https://ddw.nl/en/programme/design-academy-eindhoven-graduation-show-2026"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Antoine Jean Duclos after Augustin de Saint-Aubin, Le Concert, etching and engraving, 1774, The Met 2019.282.101",
-     "credit": "Antoine Jean Duclos after Augustin de Saint-Aubin, Le Concert (1774). The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/828363",
+     "what": "Sébastien Le Clerc, le Jeune, La Veneration, Le Ravissement, Extrême Douleur corporelle, from \"Caractères des passions, gravés sur les desseins de l'illustre Monsieur le Brun\", Etching, 1695 to 1720, 53.600.2892 (The Metropolitan Museum of Art)",
+     "credit": "Sébastien Le Clerc, le Jeune, The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1953 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/681487",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Wallerant Vaillant, The Concert, mezzotint, second state of two, 17th century, The Met 51.501.1818",
-     "credit": "Wallerant Vaillant, The Concert (17th century). The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/382730",
+     "what": "Jean-François Leleu, Architect’s table (table à la Tronchin), Mahogany and mahogany veneer on oak, gilt bronze, white metal, and leather, ca. 1780 to 90, 2019.283.6 (The Metropolitan Museum of Art)",
+     "credit": "Jean-François Leleu, The Metropolitan Museum of Art, Bequest of Mrs. Charles Wrightsman, 2019 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/826329",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Jean Villiaume, Treble Viol, wood, 1743, Mirecourt, France, The Met 89.4.1344 (Crosby Brown Collection)",
-     "credit": "Jean Villiaume, Treble Viol (1743). The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/501910",
+     "what": "Unknown maker, Fragment of a Cubit Measuring Rod, Slate, ca. 1550 to 1300 BCE, 25.7.41 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Dr. and Mrs. Thomas H. Foulds, 1925 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/554519",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Lute, Venice, Italy, about 1550, wood with bone, ebonized wood and mother-of-pearl inlay, Cleveland Museum of Art 1918.362",
-     "credit": "Lute, Venice, about 1550. The Cleveland Museum of Art (CC0)",
-     "url": "https://openaccess-api.clevelandart.org/api/collectiononline/metadata/1918.362",
+     "what": "Unknown maker, Eglinton Tournament Magic Lantern Slide, Glass, paint, wood, ca. 1839, 2013.136 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Ed and Pieper Dittus, 2013 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/35929",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Nicolas Etienne Edelinck after Charles Antoine Coypel, Music, etching and engraving, 1714 to 1767, The Met 62.602.1032",
-     "credit": "Nicolas Etienne Edelinck after Charles Antoine Coypel, Music (1714 to 1767). The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/819981",
+     "what": "Henri Simon Thomassin, Allegory on Melancholy, with a woman kneeling towards the left holding a skull, Etching and engraving, 1729 to 40, 60.708(165) (The Metropolitan Museum of Art)",
+     "credit": "Henri Simon Thomassin, The Metropolitan Museum of Art, Gift of Harry G. Friedman, 1960 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/815750",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Pajot of Jenzat (record spells it \"Jánzat\"), Vielle a roue (hurdy-gurdy), wood, 1700s, Cleveland Museum of Art 1918.378",
-     "credit": "Pajot, Vielle a roue (hurdy-gurdy), 1700s. The Cleveland Museum of Art (CC0)",
-     "url": "https://openaccess-api.clevelandart.org/api/collectiononline/metadata/1918.378",
-     "card": false
+     "what": "Number card made for this post: 4.81 / 10, how much patients' own pain drawings helped doctors understand them (47 inpatients in acute pain) (Shaballout N, Aloumar A, Neubert TA, Dusch M, Beissner F (2019), JMIR mHealth uHealth 7(1): e11412)",
+     "credit": "Shaballout N, Aloumar A, Neubert TA, Dusch M, Beissner F (2019), JMIR mHealth uHealth 7(1): e11412",
+     "url": "https://doi.org/10.2196/11412",
+     "card": true
     },
     {
      "where": "Slide 7",
-     "what": "Unknown maker, Oud, Wood, gut, and metal, late 1800s to early 1900s, 1918.350 (Cleveland Museum of Art)",
-     "credit": "Unknown maker, Cleveland Museum of Art, The Charles G. King Jr. collection; Gift of Ralph King in memory of Charles G. King Jr. (CC0)",
-     "url": "https://clevelandart.org/art/1918.350",
-     "card": false
+     "what": "Number card made for this post: 65 vs 49 min, median wait for pain medicine, women vs men, similar pain scores (one US emergency department) (Chen EH et al. (2008), Academic Emergency Medicine 15(5): 414 to 418)",
+     "credit": "Chen EH et al. (2008), Academic Emergency Medicine 15(5): 414 to 418",
+     "url": "https://doi.org/10.1111/j.1553-2712.2008.00100.x",
+     "card": true
     },
     {
      "where": "Slide 8",
-     "what": "Felix Edouard Vallotton, The Flute, from the series \"Musical Instruments\", woodcut, 1896, Saint Louis Art Museum 196:1966.1",
-     "credit": "Felix Vallotton, The Flute (1896). Saint Louis Art Museum (public domain)",
-     "url": "https://www.slam.org/collection/objects/5696/",
+     "what": "Number card made for this post: 6.7 years, from first endometriosis symptoms to a surgical diagnosis (1,418 women, 10 countries) (Nnoaham KE et al. (2011), Fertility and Sterility 96(2): 366 to 373)",
+     "credit": "Nnoaham KE et al. (2011), Fertility and Sterility 96(2): 366 to 373",
+     "url": "https://doi.org/10.1016/j.fertnstert.2011.05.090",
+     "card": true
+    },
+    {
+     "where": "Slide 9",
+     "what": "Carletto Caliari, Studies of Hands (recto), charcoal (stumped in places) heightened with white chalk, c. 1586, 1929.549.a (Cleveland Museum of Art)",
+     "credit": "Carletto Caliari, Cleveland Museum of Art, Dudley P. Allen Fund (CC0)",
+     "url": "https://clevelandart.org/art/1929.549.a",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Transverse Flute in C, French, 18th century (?), wood, brass and ivory, The Met 89.4.2038",
-     "credit": "Transverse Flute in C, French, 18th century. The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/502616",
+     "what": "Louis A. Smith, Wheel barometer, Mahogany, brass, paper, barometric mechanism, and various other materials, ca. 1841 to 45, 2013.960.3 (The Metropolitan Museum of Art)",
+     "credit": "Louis A. Smith, The Metropolitan Museum of Art, Gift of Mr. and Mrs. Stuart P. Feld, 2013 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/629573",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Lute, Venice, Italy, record dated 1300s, wood, Cleveland Museum of Art 1918.367",
-     "credit": "Lute, Venice (record dated 1300s). The Cleveland Museum of Art (CC0)",
-     "url": "https://openaccess-api.clevelandart.org/api/collectiononline/metadata/1918.367",
+     "what": "Unknown maker, Folding portable lantern in book form, between 1860 and 1869, N7433.3 .F65 1860 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Lynn and Bruce Heckman (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/910083",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Il Poccetti, Harpsichord top, painted wood, late 16th century, Florence, The Met 20.137.1",
-     "credit": "Il Poccetti, Harpsichord top (late 16th century). The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/194620",
+     "what": "Unknown maker, Beaker with Relief-cut Decoration, Glass, colorless; blown, cut, 9th to 10th century, 1974.45 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Purchase, Rogers Fund, and Jack A. Josephson, Dr. and Mrs. Lewis Balamuth, and Mr. and Mrs. Alvin W. Pearson Gifts, 1974 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/452522",
      "card": false
     }
    ]
@@ -11174,158 +11169,145 @@
   {
    "slug": "jan-02",
    "date": "2027-01-02",
-   "id": "RC05",
-   "title": "Receptor cards: melanopsin, how light sets your body clock",
-   "origin": null,
-   "series": "Receptor Card",
+   "id": "CLRA8",
+   "title": "When a psilocybin session gets hard: what research says about difficult moments, screening and medications",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://cannabislaw.report/rn-collins-series-3-no-8-no-standard-of-care-no-medical-status-full-liability-the-facilitator-malpractice-question-oregons-framework-raises/"
+   },
+   "series": "Cannabis Law Report",
    "research": [
     {
-     "label": "Brown University news release (Feb 7, 2002), Beyond rods and cones",
-     "url": "https://archive2.news.brown.edu/1987-2007/2001-02/01-080.html"
+     "label": "Carbonaro, T. M., et al. (2016). Survey study of challenging experiences after ingesting psilocybin mushrooms: Acute and enduring positive and negative consequences. J Psychopharmacol 30(12):1268 to 1278. doi:10.1177/0269881116662634",
+     "url": "https://doi.org/10.1177/0269881116662634"
     },
     {
-     "label": "Brown University news release (Jan 26, 2005), Brown Scientists Uncover Inner Workings of Rare Eye Cells",
-     "url": "https://archive2.news.brown.edu/1987-2007/2004-05/04-076.html"
+     "label": "Studerus, E., Gamma, A., Kometer, M., & Vollenweider, F. X. (2012). Prediction of psilocybin response in healthy volunteers. PLoS ONE 7(2):e30800. doi:10.1371/journal.pone.0030800",
+     "url": "https://doi.org/10.1371/journal.pone.0030800"
     },
     {
-     "label": "Pickard and Sollars (2010), Sci China Life Sci 53:58-67, abstract (SpringerLink)",
-     "url": "https://link.springer.com/article/10.1007/s11427-010-0024-5"
+     "label": "Johnson, M. W., Richards, W. A., & Griffiths, R. R. (2008). Human hallucinogen research: guidelines for safety. J Psychopharmacol 22(6):603 to 620. doi:10.1177/0269881108093587",
+     "url": "https://doi.org/10.1177/0269881108093587"
     },
     {
-     "label": "Lucas et al. (2003), Science 299:245-247 (University of Manchester research record)",
-     "url": "https://research.manchester.ac.uk/en/publications/diminished-pupillary-light-reflex-at-high-irradiances-in-melanops/"
+     "label": "Gukasyan, N., Griffiths, R. R., Yaden, D. B., Antoine, D. G., & Nayak, S. M. (2023). Attenuation of psilocybin mushroom effects during and after SSRI/SNRI antidepressant use. J Psychopharmacol 37(7):707 to 716. doi:10.1177/02698811231179910",
+     "url": "https://doi.org/10.1177/02698811231179910"
     },
     {
-     "label": "Hattar et al. (2003), Nature 424:75-81 (abstract)",
-     "url": "https://www.nature.com/articles/nature01761"
+     "label": "Becker, A. M., et al. (2022). Acute effects of psilocybin after escitalopram or placebo pretreatment in a randomized, double-blind, placebo-controlled, crossover study in healthy subjects. Clin Pharmacol Ther 111(4):886 to 895. doi:10.1002/cpt.2487",
+     "url": "https://doi.org/10.1002/cpt.2487"
     },
     {
-     "label": "Zaidi et al. (2007), Curr Biol 17:2122-2128 (author manuscript, Harvard DASH)",
-     "url": "https://dash.harvard.edu/bitstream/handle/1/4853416/2151130.pdf?sequence=1"
+     "label": "Henssler, J., et al. (2024). Incidence of antidepressant discontinuation symptoms: a systematic review and meta-analysis. Lancet Psychiatry 11(7):526 to 535. doi:10.1016/S2215-0366(24)00133-0",
+     "url": "https://doi.org/10.1016/S2215-0366(24)00133-0"
     },
     {
-     "label": "RCSB PDB 2Z73 (Murakami and Kouyama, 2008)",
-     "url": "https://rcsb.org/structure/2Z73"
+     "label": "Moncrieff, J., et al. (2025). Evidence on antidepressant withdrawal: an appraisal and reanalysis of a recent systematic review. Psychol Med 55:e191. doi:10.1017/S0033291725100652",
+     "url": "https://doi.org/10.1017/S0033291725100652"
     },
     {
-     "label": "RCSB PDB 2ZIY (Shimamura et al., 2008)",
-     "url": "https://www.rcsb.org/structure/2ziy"
-    },
-    {
-     "label": "RCSB PDB 6I9K (Varma et al., 2019)",
-     "url": "https://rcsb.org/structure/6I9K"
-    },
-    {
-     "label": "RCSB PDB 9EPR (Tejero et al., 2024)",
-     "url": "https://www.rcsb.org/structure/9EPR"
-    },
-    {
-     "label": "RCSB PDB policies",
-     "url": "https://www.rcsb.org/pages/policies"
+     "label": "Oregon Administrative Rules 333-333-3050, 3060, 4700, 4820, 5040, 5050, 5080, 5120, 5130, 5200 (Cornell LII copies; last amendment shown PH 82-2024, effective Jan 1, 2025).",
+     "url": "https://www.law.cornell.edu/regulations/oregon/Or-Admin-Code-SS-333-333-5050"
     }
    ],
    "other": [
     {
-     "label": "Brown Alumni Magazine, Vision Quest (Zachary Block)",
-     "url": "https://www.brownalumnimagazine.com/articles/2007-07-01/vision-quest"
+     "label": "Oregon Revised Statutes chapter 475A (2025 edition, oregonlegislature.gov).",
+     "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html"
     },
     {
-     "label": "ScienceDaily / Cell Press release (Dec 14, 2007)",
-     "url": "https://www.sciencedaily.com/releases/2007/12/071213120939.htm"
+     "label": "Oregon Legislature. SB 303 (2023) overview; HB 2387 (2025) enrolled.",
+     "url": "https://olis.oregonlegislature.gov/liz/2023R1/Measures/Overview/SB303"
     },
     {
-     "label": "Bailes and Lucas (2013), title and summary (innerscene.com)",
-     "url": "https://www.innerscene.com/papers/human-melanopsin-forms-a-pigment-maximally-sensitive-to-blue-light-lmax-z-479-nm-supporting-activation-of-g-q11-and-g-io-signalling-cascades"
-    },
-    {
-     "label": "PDBj 3AYM (Murakami and Kouyama, 2011)",
-     "url": "https://pdbj.org/mine/summary/3AYM"
-    },
-    {
-     "label": "PDBj 8R0N and 8R0P (Lamm et al., 2025)",
-     "url": "https://pdbj.org/mine/summary/8r0p"
-    },
-    {
-     "label": "The Met record pages (four prints)",
-     "url": "https://www.metmuseum.org/art/collection/search/45295"
+     "label": "Psychedelic Alpha. The Oregon Psilocybin Services Tracker.",
+     "url": "https://psychedelicalpha.com/data/the-oregon-psilocybin-services-tracker"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Utagawa Hiroshige, New Year's Sunrise after Snow at Susaki, from Famous Places in the Eastern Capital, woodblock print, ca. 1831, The Met JP2463 (landscape, no real person)",
-     "credit": "Utagawa Hiroshige, New Year's Sunrise after Snow at Susaki, ca. 1831. The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/45295",
+     "what": "Anton Melbye, Fishing Boat at Sea, Charcoal, black chalk, and red chalk, 1866, 2017.213 (The Metropolitan Museum of Art)",
+     "credit": "Anton Melbye, The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 2017 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/749591",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Currier & Ives, Winter Morning, hand-colored lithograph, 1857 to 1907, The Met 63.550.339",
-     "credit": "Currier & Ives, Winter Morning. The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/849540",
-     "card": false
+     "what": "Number card made for this post: 39%, ranked their hardest psilocybin experience among the five most challenging of their lives (Carbonaro et al. (2016), J Psychopharmacol 30(12))",
+     "credit": "Carbonaro et al. (2016), J Psychopharmacol 30(12)",
+     "url": "https://doi.org/10.1177/0269881116662634",
+     "card": true
     },
     {
      "where": "Slide 3",
-     "what": "Peter Henry Emerson, A Winter's Sunrise, photogravure, before 1891, published 1895, 2025.17 (Cleveland Museum of Art)",
-     "credit": "Peter Henry Emerson, Cleveland Museum of Art, Mr. and Mrs. Roger J. Lerch in Memory of Carl J. Lerch and Winifred J. Lerch Endowment (CC0)",
-     "url": "https://clevelandart.org/art/2025.17",
+     "what": "Julianna Diehl Fenstermacher, Signature Quilt, Cotton, 1855, 2015.710 (The Metropolitan Museum of Art)",
+     "credit": "Julianna Diehl Fenstermacher, The Metropolitan Museum of Art, Gift of Gordon H. Frey, 2015 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/700692",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "RCSB PDB 9EPR (assembly-1): Cryo-EM Structure of Jumping Spider Rhodopsin-1 bound to a Gi heterotrimer (4.90 Å, released Oct 30, 2024)",
-     "credit": "RCSB PDB (RCSB.org), PDB ID 9EPR; Tejero et al. (2024), Nat Commun 15:8928. CC BY 4.0",
-     "url": "https://www.rcsb.org/structure/9EPR",
+     "what": "Vilhelm Hammershøi, Figure Reading at a Table in an Interior at Night, Fabricated black and red chalk, ca. 1891, 2012.377 (The Metropolitan Museum of Art)",
+     "credit": "Vilhelm Hammershøi, The Metropolitan Museum of Art, Van Day Truex Fund, 2012 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/406969",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "RCSB PDB 6I9K (assembly-1): Crystal structure of Jumping Spider Rhodopsin-1 bound to 9-cis retinal (Hasarius adansoni, X-ray, 2.15 Å, released July 3, 2019)",
-     "credit": "RCSB PDB (RCSB.org), PDB ID 6I9K; Varma et al. (2019), PNAS 116:14547-14556. CC BY 4.0",
-     "url": "https://www.rcsb.org/structure/6I9K",
+     "what": "Henry Farrer, Lighthouse, Etching, 1880, 17.3.3610 (The Metropolitan Museum of Art)",
+     "credit": "Henry Farrer, The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1917 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/382738",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Currier & Ives, Winter Morning in the Country, hand-colored lithograph, 1873, The Met 63.550.120 (snowy farm scene with a sleigh and small period figures; no real private person)",
-     "credit": "Currier & Ives, Winter Morning in the Country, 1873. The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/380483",
-     "card": false
+     "what": "Number card made for this post: 47%, of reports from people on SSRIs described weaker than expected psilocybin effects (Gukasyan et al. (2023), J Psychopharmacol 37(7))",
+     "credit": "Gukasyan et al. (2023), J Psychopharmacol 37(7)",
+     "url": "https://doi.org/10.1177/02698811231179910",
+     "card": true
     },
     {
      "where": "Slide 7",
-     "what": "George Percival Gaskell, Sunrise in the Clearing, mezzotint, 1883 to 1934, 1951.471 (Cleveland Museum of Art)",
-     "credit": "George Percival Gaskell, Cleveland Museum of Art, Gift of Edward F. Miller (CC0)",
-     "url": "https://clevelandart.org/art/1951.471",
+     "what": "Unknown maker, Two Scale Balance Beams, Copper (cast), 9th to 11th century, 1987.394.402 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/315477",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Utagawa Hiroshige, Evening Snow (Kanbara, Tōkaidō series), woodblock print, The Met JP2866 (landscape)",
-     "credit": "Utagawa Hiroshige, Evening Snow. The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/57044",
-     "card": false
+     "what": "Number card made for this post: 31%, had discontinuation symptoms after stopping an antidepressant (17% after placebo), 79 studies (Henssler et al. (2024), Lancet Psychiatry 11(7))",
+     "credit": "Henssler et al. (2024), Lancet Psychiatry 11(7)",
+     "url": "https://doi.org/10.1016/S2215-0366(24)00133-0",
+     "card": true
+    },
+    {
+     "where": "Slide 9",
+     "what": "Number card made for this post: 120, hours of core training, the minimum for Oregon facilitator training programs (OAR 333-333-3050 (Cornell LII copy))",
+     "credit": "OAR 333-333-3050 (Cornell LII copy)",
+     "url": "https://www.law.cornell.edu/regulations/oregon/Or-Admin-Code-SS-333-333-3050",
+     "card": true
     },
     {
      "where": "Story 1",
-     "what": "George Inness, Sunrise, 1887, oil on canvas, The Met 54.156",
-     "credit": "George Inness, Sunrise, 1887. The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/11235",
+     "what": "Martin Johnson Heade, Approaching Thunder Storm, Oil on canvas, 1859, 1975.160 (The Metropolitan Museum of Art)",
+     "credit": "Martin Johnson Heade, The Metropolitan Museum of Art, Gift of Erving Wolf Foundation and Mr. and Mrs. Erving Wolf, in memory of Diane R. Wolf, 1975 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/11050",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Ernest Haskell, Sunrise, pen and ink, c. 1900 to 1925, 1949.121 (Cleveland Museum of Art)",
-     "credit": "Ernest Haskell, Cleveland Museum of Art, Bequest of Mrs. Madeleine Hamill in memory of Lawrence Hamill (CC0)",
-     "url": "https://clevelandart.org/art/1949.121",
+     "what": "Carleton E. Watkins, Multnomah Falls Cascade, Columbia River, Albumen silver print from glass negative, 1867, 2005.100.108 (The Metropolitan Museum of Art)",
+     "credit": "Carleton E. Watkins, The Metropolitan Museum of Art, Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/283221",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "John Frederick Kensett, Twilight on the Sound, Darien, Connecticut, Oil on canvas, 1872, 74.24 (The Metropolitan Museum of Art)",
-     "credit": "John Frederick Kensett, The Metropolitan Museum of Art, Gift of Thomas Kensett, 1874 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/11329",
+     "what": "Unknown maker, Inkstand, ormolu and lacquer, c. 1745 to 1749, 1960.101 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of Carrie Moss Halle in memory of Salmon Portland Halle (CC0)",
+     "url": "https://clevelandart.org/art/1960.101",
      "card": false
     }
    ]
@@ -12841,145 +12823,129 @@
   {
    "slug": "jan-16",
    "date": "2027-01-16",
-   "id": "RC07",
-   "title": "Receptor cards: TAS1R2 and TAS1R3, why sugar tastes sweet",
-   "origin": null,
-   "series": "Receptor Card",
+   "id": "CLRA7",
+   "title": "Who gets psilocybin services, and who gets studied? Research diversity and Oregon's 2025 service data",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://cannabislaw.report/rn-collins-series-3-no-9-psychedelic-licensing-equity-what-cannabiss-experience-may-predict/"
+   },
+   "series": "Cannabis Law Report",
    "research": [
     {
-     "label": "RCSB PDB 9NOT (Juen et al., 2025), with Cell abstract",
-     "url": "https://www1.rcsb.org/structure/9NOT"
+     "label": "Oregon Psilocybin Services (Oregon Health Authority). 2025 Year-End Data Summary Document. Data Jan 1 to Dec 31, 2025.",
+     "url": "https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/2025-Year-End-Data-Summary.pdf"
     },
     {
-     "label": "RCSB PDB 9NOR, 9NOS, 9NOU, 9NOV, 9NOW, 9NOX, 9NOY (Juen et al., 2025)",
-     "url": "https://rcsb.org/structure/9NOV"
+     "label": "Michaels, T. I., Purdon, J., Collins, A., & Williams, M. T. (2018). Inclusion of people of color in psychedelic-assisted psychotherapy: a review of the literature. BMC Psychiatry 18:245. doi:10.1186/s12888-018-1824-6",
+     "url": "https://doi.org/10.1186/s12888-018-1824-6"
     },
     {
-     "label": "Shi et al. (2025), Nature 645:801-808, PubMed record",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/40555359/"
+     "label": "Oregon Psilocybin Services. Equity and Access fact sheet (May 2025).",
+     "url": "https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/OPS-Equity-and-Access.pdf"
     },
     {
-     "label": "RCSB PDB 9UTC (Shi et al., 2025)",
-     "url": "https://rcsb.org/structure/9UTC"
+     "label": "Illinois Cannabis Regulation Oversight Office. 2025 Annual Cannabis Report (Sept 30, 2025), IDFPR and DCEO sections.",
+     "url": "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/forms/auc/fy2025-annual-cannabis-report.pdf"
     },
     {
-     "label": "Li et al. (2005), PLoS Genetics 1(1):e3",
-     "url": "https://journals.plos.org/plosgenetics/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0010003"
-    },
-    {
-     "label": "Fushan et al. (2009), Curr Biol 19:1288-1293 (PMC author manuscript)",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2742917"
-    },
-    {
-     "label": "RCSB PDB policies",
-     "url": "https://www.rcsb.org/pages/policies"
+     "label": "Variscite NY Four, LLC v. New York State Cannabis Control Board, No. 24-384-cv (2d Cir. Aug. 12, 2025), slip opinion.",
+     "url": "https://storage.courtlistener.com/pdf/2025/08/12/variscite_ny_four_llc_v._new_york_state_cannabis_control_board.pdf"
     }
    ],
    "other": [
     {
-     "label": "Mammalian sweet taste receptors, Cell (2001), abstract (QxMD Read record, PMID 11509186)",
-     "url": "https://read.qxmd.com/read/11509186/mammalian-sweet-taste-receptors"
+     "label": "National Institute on Drug Abuse. Psilocybin (Magic Mushrooms), research topic page.",
+     "url": "https://nida.nih.gov/research-topics/psilocybin-magic-mushrooms"
     },
     {
-     "label": "Zhao et al. (2003), Cell 115:255-266, abstract (Janelia publication page)",
-     "url": "https://janelia.org/publication/receptors-mammalian-sweet-and-umami-taste"
-    },
-    {
-     "label": "HHMI release via ScienceDaily (Nov 3, 2003), Researchers Define Molecular Basis Of Human 'Sweet Tooth'",
-     "url": "https://www.sciencedaily.com/releases/2003/11/031103070440.htm"
-    },
-    {
-     "label": "ShanghaiTech University news (June 25, 2025)",
-     "url": "https://www.shanghaitech.edu.cn/en/2025/0625/c1260a1112253/page.htm"
-    },
-    {
-     "label": "The Met record pages (four sugar bowls, four cat statuettes)",
-     "url": "https://www.metmuseum.org/art/collection/search/200222"
+     "label": "Oregon Health Authority. Notice of Proposed Rulemaking, chapter 333, Oregon Psilocybin Services (filed Aug 28, 2026), and OPS Administrative Rules page.",
+     "url": "https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS/Pages/Psilocybin-Administrative-Rules.aspx"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Pierre Benardié (or Berardier), Sugar bowl, silver and glass, Lyons, 1775 to 1781, The Met 48.187.193a-c",
-     "credit": "Pierre Benardié, Sugar bowl, 1775 to 1781. The Metropolitan Museum of Art, Bequest of Catherine D. Wentworth, 1948 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/200222",
+     "what": "Unknown maker, Mortise lock with key, Iron, early 16th century, 10.100.196a, b (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Rogers Fund, 1910 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/191476",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "RCSB PDB 9NOS (assembly-1): Human sweet taste receptor (TAS1R2 + TAS1R3) from the PEG400 dataset (3.50 Å, released May 14, 2025)",
-     "credit": "RCSB PDB (RCSB.org), PDB ID 9NOS; Juen et al. (2025), Cell 188:4141-4153, doi 10.1016/j.cell.2025.04.021. CC BY 4.0",
-     "url": "https://www.rcsb.org/structure/9NOS",
+     "what": "Unknown maker, Telegraph Instrument, Brass, ca. 1837 to 44, 76.7 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of George Hutchins, 1876 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/8484",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Thomas Shields, Sugar Bowl, silver, 1765 to 85, 40.57.4a, b (The Metropolitan Museum of Art)",
-     "credit": "Thomas Shields, The Metropolitan Museum of Art, Gift of Mrs. J. Amory Haskell, in memory of the families of John L. Riker and Jonathan Amory Haskell, 1940 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/2524",
+     "what": "Alexander Jackson Davis, Presentation Drawing of a Dining Room in the English Perpendicular Style, for Knoll (now Lyndhurst), Tarrytown NY, Watercolor over graphite, 1837, 24.66.867 (The Metropolitan Museum of Art)",
+     "credit": "Alexander Jackson Davis, The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1924 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/913005",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "New England Glass Company, Sugar bowl, free-blown glass with applied decoration, 1815 to 35, 2000.509.2a, b (The Metropolitan Museum of Art)",
-     "credit": "New England Glass Company, The Metropolitan Museum of Art, Gift of Mr. and Mrs. Robert Keller, in memory of Gretchen Keller, 2000 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/2509",
-     "card": false
-    },
-    {
-     "where": "Slide 5",
-     "what": "RCSB PDB 9UTC (assembly-1): The VFT domains of human sweet taste receptor TAS1R2 and TAS1R3 in the sucralose-bound state (3.33 Å, released July 16, 2025)",
-     "credit": "RCSB PDB (RCSB.org), PDB ID 9UTC; Shi et al. (2025), Nature 645:801-808, doi 10.1038/s41586-025-09302-6. CC BY 4.0",
-     "url": "https://www.rcsb.org/structure/9UTC",
-     "card": false
-    },
-    {
-     "where": "Slide 6",
-     "what": "Number card made for this post: 247 letters, Deleted from the cat's sweet receptor gene, Tas1r2 (Li et al. (2005), PLoS Genetics 1(1):e3, doi 10.1371/journal.pgen.0010003)",
-     "credit": "Li et al. (2005), PLoS Genetics 1(1):e3, doi 10.1371/journal.pgen.0010003",
-     "url": "https://journals.plos.org/plosgenetics/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0010003",
+     "what": "Number card made for this post: 82.3%, of participants in 18 psychedelic studies were non-Hispanic White (Michaels et al. (2018), BMC Psychiatry 18:245)",
+     "credit": "Michaels et al. (2018), BMC Psychiatry 18:245",
+     "url": "https://doi.org/10.1186/s12888-018-1824-6",
      "card": true
     },
     {
-     "where": "Slide 7",
-     "what": "Sugar bowl (part of a set), silver, Anglo-Indian, 1860 to 1880, The Met 1972.116.2",
-     "credit": "Sugar bowl, Anglo-Indian, 1860 to 1880. The Metropolitan Museum of Art, Gift of Marie Z. Lake, 1972 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/205466",
+     "where": "Slide 5",
+     "what": "Number card made for this post: 5,935, clients received psilocybin services in Oregon in 2025 (Oregon Psilocybin Services, 2025 Year-End Data Summary)",
+     "credit": "Oregon Psilocybin Services, 2025 Year-End Data Summary",
+     "url": "https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/2025-Year-End-Data-Summary.pdf",
+     "card": true
+    },
+    {
+     "where": "Slide 6",
+     "what": "Carleton E. Watkins, Cape Horn, Columbia River, Oregon, Albumen silver print from glass negative, 1867, 2005.100.493 (The Metropolitan Museum of Art)",
+     "credit": "Carleton E. Watkins, The Metropolitan Museum of Art, Gilman Collection, Gift of The Howard Gilman Foundation, 2005 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/286513",
      "card": false
     },
     {
+     "where": "Slide 7",
+     "what": "Number card made for this post: 13, times staff contacted emergency services in Oregon's licensed system, 2025 (Oregon Psilocybin Services, 2025 Year-End Data Summary)",
+     "credit": "Oregon Psilocybin Services, 2025 Year-End Data Summary",
+     "url": "https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/2025-Year-End-Data-Summary.pdf",
+     "card": true
+    },
+    {
      "where": "Slide 8",
-     "what": "William Forbes, Sugar Bowl, silver, 1835 to 40, 1981.22.4a, b (The Metropolitan Museum of Art)",
-     "credit": "William Forbes, The Metropolitan Museum of Art, Gift of Guerdon Holden Nelson, Cyril Irwin Nelson, Nicholas Macy Nelson and Michael Underhill Nelson, in devoted memory of their grandmother, Elinor Irwin Holden, and their mother, Elise Macy Nelson, 1981 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/2519",
+     "what": "John Carlin, Account Book Ledger, Ink on paper, marbleized cardboard, 1835 to 56, 2009.202 (The Metropolitan Museum of Art)",
+     "credit": "John Carlin, The Metropolitan Museum of Art, Dale T. Johnson Fund, 2009 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/20365",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Cat Statuette, cupreous metal, Egypt, Late Period to Ptolemaic Period, 664 to 30 BCE, The Met 17.120.146",
-     "credit": "Cat Statuette, Egypt, 664 to 30 BCE. The Metropolitan Museum of Art, Bequest of Isaac D. Fletcher, 1917 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/552042",
+     "what": "Asakura Sansho, Gold Coins, Woodblock print (surimono); ink and color on paper, 1813, JP2015 (The Metropolitan Museum of Art)",
+     "credit": "Asakura Sansho, The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/54764",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Statuette of cat, cupreous metal, Egypt, Late Period to Ptolemaic Period, 664 to 30 BCE, The Met 04.2.598",
-     "credit": "Statuette of cat, Egypt, 664 to 30 BCE. The Metropolitan Museum of Art, Gift of Darius Ogden Mills, 1904 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/570732",
+     "what": "E.C. Stockert, Portable compass dial, Wood, 18th century, 03.21.56 (The Metropolitan Museum of Art)",
+     "credit": "E.C. Stockert, The Metropolitan Museum of Art, Gift of Mrs. Stephen D. Tucker, 1903 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/188858",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "RCSB PDB 9NOY (assembly-1): Human TAS1R2 transmembrane domains from the TAS1R2-TM-G protein complex (3.70 Å, released May 21, 2025)",
-     "credit": "RCSB PDB (RCSB.org), PDB ID 9NOY; Juen et al. (2025), Cell 188:4141-4153, doi 10.1016/j.cell.2025.04.021. CC BY 4.0",
-     "url": "https://www.rcsb.org/structure/9NOY",
+     "what": "Unknown maker, Key, Wrought iron, 17th to 18th century, 1975.436.13 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Richard S. Perkins, 1975 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/206361",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Unknown maker, Vinaigrette box, silver, ca. 1800, 1983.575.59 (The Metropolitan Museum of Art)",
-     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Herbert K. Reis, in memory of Rose-Frances K. Reis (Mrs. Ralph A. Reis), 1983 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/207466",
+     "what": "Jonathan Goldsmith, Door Knocker from the Isaac Gillet House, Painesville, Ohio, brass, c. 1840, 1964.33 (Cleveland Museum of Art)",
+     "credit": "Jonathan Goldsmith, Cleveland Museum of Art, Gift of Philip A. Child (CC0)",
+     "url": "https://clevelandart.org/art/1964.33",
      "card": false
     }
    ]
@@ -24831,6 +24797,450 @@
      "what": "Anonymous photographer, View of the harbour of Port-au-Prince, Haiti (Gezicht op de haven van Port-au-Prince op Haïti), daylight collodion silver print, c. 1870 to 1900, Rijksmuseum RP-F-F01154-AD, from a photo album of sights in Europe, Trinidad, Haiti, Martinique and Suriname (a different photograph from the Kingstown view on X)",
      "credit": "Rijksmuseum, Amsterdam (public domain)",
      "url": "https://www.rijksmuseum.nl/en/collection/object/Gezicht-op-de-haven-van-Port-au-Prince-op-Haiti--265347b23c818335d8a1b370529da25a",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "sep-29",
+   "date": "2027-09-29",
+   "id": "BB05",
+   "title": "Brain and Body: why music gives you chills",
+   "origin": null,
+   "series": "Brain and Body",
+   "research": [
+    {
+     "label": "Blood and Zatorre (2001), Intensely pleasurable responses to music correlate with activity in brain regions implicated in reward and emotion, PNAS 98(20):11818-23, doi 10.1073/pnas.191355898 (MGH NMR publications record)",
+     "url": "https://nmr.mgh.harvard.edu/node/2976"
+    },
+    {
+     "label": "UFRJ library record of Blood and Zatorre (2001), abstract opening",
+     "url": "https://buscaintegrada.ufrj.br/Record/pubmed-58814"
+    },
+    {
+     "label": "Berklee College of Music, Musical \"Chills\" among Topics of Music Therapy Symposium (news page)",
+     "url": "https://www.berklee.edu/node/2394716"
+    },
+    {
+     "label": "Salimpoor, Benovoy, Larcher, Dagher and Zatorre (2011), Anatomically distinct dopamine release during anticipation and experience of peak emotion to music, Nature Neuroscience 14(2):257-262 (Zatorre lab PDF)",
+     "url": "https://www.zlab.mcgill.ca/publications/docs/salimpoor_2011_nn.pdf"
+    },
+    {
+     "label": "Sachs, Ellis, Schlaug and Loui (2016), Brain connectivity reflects human aesthetic responses to music, Soc Cogn Affect Neurosci, doi 10.1093/scan/nsw009 (PDF hosted at MIT Media Lab)",
+     "url": "https://web.media.mit.edu/~tod/media/pdfs/Class3-1_Sachs_Ellis_Schlaug_Loui-2016.pdf"
+    },
+    {
+     "label": "Mas-Herrero, Zatorre, Rodriguez-Fornells and Marco-Pallares (2014), Dissociation between musical and monetary reward responses in specific musical anhedonia, Current Biology 24(6):699-704 (Universitat de Barcelona repository)",
+     "url": "https://diposit.ub.edu/items/966dfa09-fe4d-4207-8c8f-7e61ee6d9917/full"
+    }
+   ],
+   "other": [
+    {
+     "label": "Grey Matters (student neuroscience journal), The Pleasure of Music",
+     "url": "https://greymattersjournal.org/the-pleasure-of-music"
+    },
+    {
+     "label": "Mitchell Colver, Why do only some people get skin orgasms from listening to music? (The Conversation, republished by Neuroscience News)",
+     "url": "https://neurosciencenews.com/frisson-chills-music-9933/"
+    },
+    {
+     "label": "ScienceDaily (March 2014), on Mas-Herrero et al.",
+     "url": "https://sciencedaily.com/releases/2014/03/140306130411.htm"
+    },
+    {
+     "label": "IDIBELL news, Some people are not moved by music",
+     "url": "https://idibell.cat/en/?p=6171"
+    },
+    {
+     "label": "JazzTimes, Scientists Link Music to Food, Drugs, Sex (2001 news report)",
+     "url": "https://www.jazztimes.com/?p=700"
+    },
+    {
+     "label": "Image records: The Met, Cleveland Museum of Art Open Access, Saint Louis Art Museum",
+     "url": "https://www.metmuseum.org/art/collection/search/828363"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Antoine Jean Duclos after Augustin de Saint-Aubin, Le Concert, etching and engraving, 1774, The Met 2019.282.101",
+     "credit": "Antoine Jean Duclos after Augustin de Saint-Aubin, Le Concert (1774). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/828363",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Wallerant Vaillant, The Concert, mezzotint, second state of two, 17th century, The Met 51.501.1818",
+     "credit": "Wallerant Vaillant, The Concert (17th century). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/382730",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Jean Villiaume, Treble Viol, wood, 1743, Mirecourt, France, The Met 89.4.1344 (Crosby Brown Collection)",
+     "credit": "Jean Villiaume, Treble Viol (1743). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/501910",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Lute, Venice, Italy, about 1550, wood with bone, ebonized wood and mother-of-pearl inlay, Cleveland Museum of Art 1918.362",
+     "credit": "Lute, Venice, about 1550. The Cleveland Museum of Art (CC0)",
+     "url": "https://openaccess-api.clevelandart.org/api/collectiononline/metadata/1918.362",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Nicolas Etienne Edelinck after Charles Antoine Coypel, Music, etching and engraving, 1714 to 1767, The Met 62.602.1032",
+     "credit": "Nicolas Etienne Edelinck after Charles Antoine Coypel, Music (1714 to 1767). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/819981",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Pajot of Jenzat (record spells it \"Jánzat\"), Vielle a roue (hurdy-gurdy), wood, 1700s, Cleveland Museum of Art 1918.378",
+     "credit": "Pajot, Vielle a roue (hurdy-gurdy), 1700s. The Cleveland Museum of Art (CC0)",
+     "url": "https://openaccess-api.clevelandart.org/api/collectiononline/metadata/1918.378",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Unknown maker, Oud, Wood, gut, and metal, late 1800s to early 1900s, 1918.350 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, The Charles G. King Jr. collection; Gift of Ralph King in memory of Charles G. King Jr. (CC0)",
+     "url": "https://clevelandart.org/art/1918.350",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Felix Edouard Vallotton, The Flute, from the series \"Musical Instruments\", woodcut, 1896, Saint Louis Art Museum 196:1966.1",
+     "credit": "Felix Vallotton, The Flute (1896). Saint Louis Art Museum (public domain)",
+     "url": "https://www.slam.org/collection/objects/5696/",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Transverse Flute in C, French, 18th century (?), wood, brass and ivory, The Met 89.4.2038",
+     "credit": "Transverse Flute in C, French, 18th century. The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/502616",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Lute, Venice, Italy, record dated 1300s, wood, Cleveland Museum of Art 1918.367",
+     "credit": "Lute, Venice (record dated 1300s). The Cleveland Museum of Art (CC0)",
+     "url": "https://openaccess-api.clevelandart.org/api/collectiononline/metadata/1918.367",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Il Poccetti, Harpsichord top, painted wood, late 16th century, Florence, The Met 20.137.1",
+     "credit": "Il Poccetti, Harpsichord top (late 16th century). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/194620",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "oct-02",
+   "date": "2027-10-02",
+   "id": "RC05",
+   "title": "Receptor cards: melanopsin, how light sets your body clock",
+   "origin": null,
+   "series": "Receptor Card",
+   "research": [
+    {
+     "label": "Brown University news release (Feb 7, 2002), Beyond rods and cones",
+     "url": "https://archive2.news.brown.edu/1987-2007/2001-02/01-080.html"
+    },
+    {
+     "label": "Brown University news release (Jan 26, 2005), Brown Scientists Uncover Inner Workings of Rare Eye Cells",
+     "url": "https://archive2.news.brown.edu/1987-2007/2004-05/04-076.html"
+    },
+    {
+     "label": "Pickard and Sollars (2010), Sci China Life Sci 53:58-67, abstract (SpringerLink)",
+     "url": "https://link.springer.com/article/10.1007/s11427-010-0024-5"
+    },
+    {
+     "label": "Lucas et al. (2003), Science 299:245-247 (University of Manchester research record)",
+     "url": "https://research.manchester.ac.uk/en/publications/diminished-pupillary-light-reflex-at-high-irradiances-in-melanops/"
+    },
+    {
+     "label": "Hattar et al. (2003), Nature 424:75-81 (abstract)",
+     "url": "https://www.nature.com/articles/nature01761"
+    },
+    {
+     "label": "Zaidi et al. (2007), Curr Biol 17:2122-2128 (author manuscript, Harvard DASH)",
+     "url": "https://dash.harvard.edu/bitstream/handle/1/4853416/2151130.pdf?sequence=1"
+    },
+    {
+     "label": "RCSB PDB 2Z73 (Murakami and Kouyama, 2008)",
+     "url": "https://rcsb.org/structure/2Z73"
+    },
+    {
+     "label": "RCSB PDB 2ZIY (Shimamura et al., 2008)",
+     "url": "https://www.rcsb.org/structure/2ziy"
+    },
+    {
+     "label": "RCSB PDB 6I9K (Varma et al., 2019)",
+     "url": "https://rcsb.org/structure/6I9K"
+    },
+    {
+     "label": "RCSB PDB 9EPR (Tejero et al., 2024)",
+     "url": "https://www.rcsb.org/structure/9EPR"
+    },
+    {
+     "label": "RCSB PDB policies",
+     "url": "https://www.rcsb.org/pages/policies"
+    }
+   ],
+   "other": [
+    {
+     "label": "Brown Alumni Magazine, Vision Quest (Zachary Block)",
+     "url": "https://www.brownalumnimagazine.com/articles/2007-07-01/vision-quest"
+    },
+    {
+     "label": "ScienceDaily / Cell Press release (Dec 14, 2007)",
+     "url": "https://www.sciencedaily.com/releases/2007/12/071213120939.htm"
+    },
+    {
+     "label": "Bailes and Lucas (2013), title and summary (innerscene.com)",
+     "url": "https://www.innerscene.com/papers/human-melanopsin-forms-a-pigment-maximally-sensitive-to-blue-light-lmax-z-479-nm-supporting-activation-of-g-q11-and-g-io-signalling-cascades"
+    },
+    {
+     "label": "PDBj 3AYM (Murakami and Kouyama, 2011)",
+     "url": "https://pdbj.org/mine/summary/3AYM"
+    },
+    {
+     "label": "PDBj 8R0N and 8R0P (Lamm et al., 2025)",
+     "url": "https://pdbj.org/mine/summary/8r0p"
+    },
+    {
+     "label": "The Met record pages (four prints)",
+     "url": "https://www.metmuseum.org/art/collection/search/45295"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Utagawa Hiroshige, New Year's Sunrise after Snow at Susaki, from Famous Places in the Eastern Capital, woodblock print, ca. 1831, The Met JP2463 (landscape, no real person)",
+     "credit": "Utagawa Hiroshige, New Year's Sunrise after Snow at Susaki, ca. 1831. The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/45295",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Currier & Ives, Winter Morning, hand-colored lithograph, 1857 to 1907, The Met 63.550.339",
+     "credit": "Currier & Ives, Winter Morning. The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/849540",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Peter Henry Emerson, A Winter's Sunrise, photogravure, before 1891, published 1895, 2025.17 (Cleveland Museum of Art)",
+     "credit": "Peter Henry Emerson, Cleveland Museum of Art, Mr. and Mrs. Roger J. Lerch in Memory of Carl J. Lerch and Winifred J. Lerch Endowment (CC0)",
+     "url": "https://clevelandart.org/art/2025.17",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "RCSB PDB 9EPR (assembly-1): Cryo-EM Structure of Jumping Spider Rhodopsin-1 bound to a Gi heterotrimer (4.90 Å, released Oct 30, 2024)",
+     "credit": "RCSB PDB (RCSB.org), PDB ID 9EPR; Tejero et al. (2024), Nat Commun 15:8928. CC BY 4.0",
+     "url": "https://www.rcsb.org/structure/9EPR",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "RCSB PDB 6I9K (assembly-1): Crystal structure of Jumping Spider Rhodopsin-1 bound to 9-cis retinal (Hasarius adansoni, X-ray, 2.15 Å, released July 3, 2019)",
+     "credit": "RCSB PDB (RCSB.org), PDB ID 6I9K; Varma et al. (2019), PNAS 116:14547-14556. CC BY 4.0",
+     "url": "https://www.rcsb.org/structure/6I9K",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Currier & Ives, Winter Morning in the Country, hand-colored lithograph, 1873, The Met 63.550.120 (snowy farm scene with a sleigh and small period figures; no real private person)",
+     "credit": "Currier & Ives, Winter Morning in the Country, 1873. The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/380483",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "George Percival Gaskell, Sunrise in the Clearing, mezzotint, 1883 to 1934, 1951.471 (Cleveland Museum of Art)",
+     "credit": "George Percival Gaskell, Cleveland Museum of Art, Gift of Edward F. Miller (CC0)",
+     "url": "https://clevelandart.org/art/1951.471",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Utagawa Hiroshige, Evening Snow (Kanbara, Tōkaidō series), woodblock print, The Met JP2866 (landscape)",
+     "credit": "Utagawa Hiroshige, Evening Snow. The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/57044",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "George Inness, Sunrise, 1887, oil on canvas, The Met 54.156",
+     "credit": "George Inness, Sunrise, 1887. The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/11235",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Ernest Haskell, Sunrise, pen and ink, c. 1900 to 1925, 1949.121 (Cleveland Museum of Art)",
+     "credit": "Ernest Haskell, Cleveland Museum of Art, Bequest of Mrs. Madeleine Hamill in memory of Lawrence Hamill (CC0)",
+     "url": "https://clevelandart.org/art/1949.121",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "John Frederick Kensett, Twilight on the Sound, Darien, Connecticut, Oil on canvas, 1872, 74.24 (The Metropolitan Museum of Art)",
+     "credit": "John Frederick Kensett, The Metropolitan Museum of Art, Gift of Thomas Kensett, 1874 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/11329",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "oct-09-2027",
+   "date": "2027-10-09",
+   "id": "RC07",
+   "title": "Receptor cards: TAS1R2 and TAS1R3, why sugar tastes sweet",
+   "origin": null,
+   "series": "Receptor Card",
+   "research": [
+    {
+     "label": "RCSB PDB 9NOT (Juen et al., 2025), with Cell abstract",
+     "url": "https://www1.rcsb.org/structure/9NOT"
+    },
+    {
+     "label": "RCSB PDB 9NOR, 9NOS, 9NOU, 9NOV, 9NOW, 9NOX, 9NOY (Juen et al., 2025)",
+     "url": "https://rcsb.org/structure/9NOV"
+    },
+    {
+     "label": "Shi et al. (2025), Nature 645:801-808, PubMed record",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40555359/"
+    },
+    {
+     "label": "RCSB PDB 9UTC (Shi et al., 2025)",
+     "url": "https://rcsb.org/structure/9UTC"
+    },
+    {
+     "label": "Li et al. (2005), PLoS Genetics 1(1):e3",
+     "url": "https://journals.plos.org/plosgenetics/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0010003"
+    },
+    {
+     "label": "Fushan et al. (2009), Curr Biol 19:1288-1293 (PMC author manuscript)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2742917"
+    },
+    {
+     "label": "RCSB PDB policies",
+     "url": "https://www.rcsb.org/pages/policies"
+    }
+   ],
+   "other": [
+    {
+     "label": "Mammalian sweet taste receptors, Cell (2001), abstract (QxMD Read record, PMID 11509186)",
+     "url": "https://read.qxmd.com/read/11509186/mammalian-sweet-taste-receptors"
+    },
+    {
+     "label": "Zhao et al. (2003), Cell 115:255-266, abstract (Janelia publication page)",
+     "url": "https://janelia.org/publication/receptors-mammalian-sweet-and-umami-taste"
+    },
+    {
+     "label": "HHMI release via ScienceDaily (Nov 3, 2003), Researchers Define Molecular Basis Of Human 'Sweet Tooth'",
+     "url": "https://www.sciencedaily.com/releases/2003/11/031103070440.htm"
+    },
+    {
+     "label": "ShanghaiTech University news (June 25, 2025)",
+     "url": "https://www.shanghaitech.edu.cn/en/2025/0625/c1260a1112253/page.htm"
+    },
+    {
+     "label": "The Met record pages (four sugar bowls, four cat statuettes)",
+     "url": "https://www.metmuseum.org/art/collection/search/200222"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Pierre Benardié (or Berardier), Sugar bowl, silver and glass, Lyons, 1775 to 1781, The Met 48.187.193a-c",
+     "credit": "Pierre Benardié, Sugar bowl, 1775 to 1781. The Metropolitan Museum of Art, Bequest of Catherine D. Wentworth, 1948 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/200222",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "RCSB PDB 9NOS (assembly-1): Human sweet taste receptor (TAS1R2 + TAS1R3) from the PEG400 dataset (3.50 Å, released May 14, 2025)",
+     "credit": "RCSB PDB (RCSB.org), PDB ID 9NOS; Juen et al. (2025), Cell 188:4141-4153, doi 10.1016/j.cell.2025.04.021. CC BY 4.0",
+     "url": "https://www.rcsb.org/structure/9NOS",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Thomas Shields, Sugar Bowl, silver, 1765 to 85, 40.57.4a, b (The Metropolitan Museum of Art)",
+     "credit": "Thomas Shields, The Metropolitan Museum of Art, Gift of Mrs. J. Amory Haskell, in memory of the families of John L. Riker and Jonathan Amory Haskell, 1940 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/2524",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "New England Glass Company, Sugar bowl, free-blown glass with applied decoration, 1815 to 35, 2000.509.2a, b (The Metropolitan Museum of Art)",
+     "credit": "New England Glass Company, The Metropolitan Museum of Art, Gift of Mr. and Mrs. Robert Keller, in memory of Gretchen Keller, 2000 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/2509",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "RCSB PDB 9UTC (assembly-1): The VFT domains of human sweet taste receptor TAS1R2 and TAS1R3 in the sucralose-bound state (3.33 Å, released July 16, 2025)",
+     "credit": "RCSB PDB (RCSB.org), PDB ID 9UTC; Shi et al. (2025), Nature 645:801-808, doi 10.1038/s41586-025-09302-6. CC BY 4.0",
+     "url": "https://www.rcsb.org/structure/9UTC",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Number card made for this post: 247 letters, Deleted from the cat's sweet receptor gene, Tas1r2 (Li et al. (2005), PLoS Genetics 1(1):e3, doi 10.1371/journal.pgen.0010003)",
+     "credit": "Li et al. (2005), PLoS Genetics 1(1):e3, doi 10.1371/journal.pgen.0010003",
+     "url": "https://journals.plos.org/plosgenetics/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0010003",
+     "card": true
+    },
+    {
+     "where": "Slide 7",
+     "what": "Sugar bowl (part of a set), silver, Anglo-Indian, 1860 to 1880, The Met 1972.116.2",
+     "credit": "Sugar bowl, Anglo-Indian, 1860 to 1880. The Metropolitan Museum of Art, Gift of Marie Z. Lake, 1972 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/205466",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "William Forbes, Sugar Bowl, silver, 1835 to 40, 1981.22.4a, b (The Metropolitan Museum of Art)",
+     "credit": "William Forbes, The Metropolitan Museum of Art, Gift of Guerdon Holden Nelson, Cyril Irwin Nelson, Nicholas Macy Nelson and Michael Underhill Nelson, in devoted memory of their grandmother, Elinor Irwin Holden, and their mother, Elise Macy Nelson, 1981 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/2519",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Cat Statuette, cupreous metal, Egypt, Late Period to Ptolemaic Period, 664 to 30 BCE, The Met 17.120.146",
+     "credit": "Cat Statuette, Egypt, 664 to 30 BCE. The Metropolitan Museum of Art, Bequest of Isaac D. Fletcher, 1917 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/552042",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Statuette of cat, cupreous metal, Egypt, Late Period to Ptolemaic Period, 664 to 30 BCE, The Met 04.2.598",
+     "credit": "Statuette of cat, Egypt, 664 to 30 BCE. The Metropolitan Museum of Art, Gift of Darius Ogden Mills, 1904 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/570732",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "RCSB PDB 9NOY (assembly-1): Human TAS1R2 transmembrane domains from the TAS1R2-TM-G protein complex (3.70 Å, released May 21, 2025)",
+     "credit": "RCSB PDB (RCSB.org), PDB ID 9NOY; Juen et al. (2025), Cell 188:4141-4153, doi 10.1016/j.cell.2025.04.021. CC BY 4.0",
+     "url": "https://www.rcsb.org/structure/9NOY",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Unknown maker, Vinaigrette box, silver, ca. 1800, 1983.575.59 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Herbert K. Reis, in memory of Rose-Frances K. Reis (Mrs. Ralph A. Reis), 1983 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/207466",
      "card": false
     }
    ]

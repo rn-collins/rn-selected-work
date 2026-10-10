@@ -2,6 +2,9 @@ import Link from "next/link";
 import { host, type SourceLink, type SourcePost } from "../lib/aan-sources";
 import styles from "../app/sources/sources.module.css";
 
+// RN's client line (Oct 10, 2026): exact wording, never change it. Sits below the references, outside the lists.
+const CLIENT_LINE = "I'm taking on clients for storytelling strategy and content production and operations. DMs are open.";
+
 // One sources page body, shared by every account (Ask a Neuroscientist, Tech From Here, ...).
 function Links({ items }: { items: SourceLink[] }) {
   return (
@@ -64,6 +67,7 @@ export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = A
             </dl>
           </section>
         )}
+        <p className={styles.client}>{CLIENT_LINE}</p>
         <p className={styles.back}><Link href={backHref}>{backLabel}</Link></p>
       </article>
   );
