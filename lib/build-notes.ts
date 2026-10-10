@@ -773,16 +773,16 @@ export const buildNotes: BuildNote[] = [
     repo: "rn-ask-a-neuroscientist",
     title: "Ask a Neuroscientist",
     category: "education",
-    status: "Live · series companion, publishing from October 2026",
+    status: "Live · 88 sourced pages, series publishing from October 2026",
     statusKind: "live",
     problem:
-      "A post about what a plant does to the brain has room for a claim and almost nothing else: not the receptor it acts on, not the interaction that makes it dangerous with a prescription, not the law where the reader lives.",
+      "A post about what a plant does to the brain has room for a claim and almost nothing else: not the receptor it acts on, not the interaction that makes it dangerous with a prescription, not the law where the reader lives. The link under the post used to lead to the same words again, animated, and nothing more.",
     does:
-      "Holds the series in one place: the receptor families each plant acts on, a brain map, a glossary, a twenty-five year policy timeline, warnings written as warnings, myths checked against mechanisms, and a plant-by-plant tour from Hawaiʻi and Alaska to Peru, Gabon and Yemen. Readers can send a question, and answered ones are published back.",
+      "Gives every card in the series a page a reader can use: the animated card, then the mechanism explained, the warning, the sources, and where to go next. Covers the plants place by place from Hawaiʻi and Alaska to Peru, Gabon and Yemen, the receptor families they act on, a glossary, a policy timeline, myths checked against mechanisms, and the everyday questions about sleep, memory and grief. Readers can send a question, and answered ones are published back.",
     builtOn:
-      "A static companion to the posts, with a page for each card and no tracking.",
+      "A static build that keeps each post card as the hero of its page and assembles the reader layer, indexes, search and link previews around it. Questions post to the site's own store, so no email address sits on the page.",
     limits:
-      "Education, not medical advice. The series began at Fat Nugs Magazine.",
+      "Education, not medical or legal advice. Each page states what its evidence does not establish, and the law as of the date on the page. The series began at Fat Nugs Magazine.",
   },
   {
     repo: "ask-a-neuroscientist-fashion",
