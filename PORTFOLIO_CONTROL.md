@@ -97,4 +97,6 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] The slides print `rn-selected-work.vercel.app/sources/<mon-dd>` on the cover and the last slide.
 - [x] Site tagline changed from "Find the break. Choose the form." to "Find the gap. Build what is missing." (footer, Culturalyst conversation page; the Culturalyst invitation reads "Understand the gap. Then build what is missing.").
 - [ ] Extend the export to January to March 2027 posts once those packages are proofed.
+- [x] Tech From Here (RN Collins) sources pages at `/sources/tfh/<set-id>` for the 38 ready DDW26 sets, from `data/sources-tfh.json` (`sources_export.py tfh`). They are not listed on `/sources/tfh` or in the sitemap until a set has a posting date; the address in each Threads first reply works now.
+- [x] One shared page body (`components/sources-detail.tsx`) serves every account.
 - [x] Sources pages carry `rn:kind="reference"` and `rn:entries`; the estate check judges them on completeness (every entry rendered, no empty section, links resolve) instead of the 400-word floor. Checked locally: /sources, /sources/oct-08 and /sources/oct-09 pass with 0 blocker, 0 major.

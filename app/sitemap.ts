@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { projects } from "../lib/portfolio";
 import { publicBuilds } from "../lib/public-builds";
 import { postedSoFar } from "../lib/aan-sources";
+import { tfhPostedSoFar } from "../lib/tfh-sources";
 
 export const revalidate = 86400;
 
@@ -30,5 +31,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/advisory/aloha-intelligence-institute`, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/sources`, changeFrequency: "daily", priority: 0.6 },
     ...postedSoFar().map((p) => ({ url: `${base}/sources/${p.slug}`, changeFrequency: "monthly" as const, priority: 0.4 })),
+    { url: `${base}/sources/tfh`, changeFrequency: "weekly", priority: 0.5 },
+    ...tfhPostedSoFar().map((p) => ({ url: `${base}/sources/tfh/${p.slug}`, changeFrequency: "monthly" as const, priority: 0.4 })),
   ];
 }
