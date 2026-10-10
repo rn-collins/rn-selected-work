@@ -121,3 +121,12 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] Every sources page and account index links to RN Selected Work itself (a line under the title and a block at the end: home, selected work index, all sources).
 - [x] `/sources` links to every account index (the only change to the Ask a Neuroscientist page; its addresses and behavior are unchanged).
 - [ ] Refresh the maker, edition and Dutch Design Awards pages when their essays are rewritten (deep essays supply the sources where they exist).
+
+## Essay pages (noindex until RN flips one flag)
+
+- [x] Each long-form essay behind a package has a page at `/essays/<account>/<id>`; the id is the same as the matching sources page (`/sources/<account>/<id>`, for example `/essays/ddw26/s100` goes with `/sources/ddw26/s100`). `/essays` lists the accounts and `/essays/<account>` lists the essays.
+- [x] Accounts built: `ddw26` (28), `venues` (20), `makers` (44), `editions` (11), `dda` (8). The `ddw27` essays (27) are not written to a final version yet; they appear when the export is re-run (below).
+- [x] Page: byline RN Collins, the standfirst, plain-English headings, the section on what the record does not show, bracketed source numbers linking to a numbered source list (label and link only), a link to the matching sources page, a link to RN Selected Work, and a link to subscribe to The Polymath. A date is shown only if the essay file carries one; none does yet.
+- [x] Data is generated, not hand-kept: `data/essays-<account>.json` comes from `scripts/export_essays.py`, which reads the studio's article registry (`render-kit/article_registry.json`) and each essay's `article.json` and `article.md`. Re-run `python3 scripts/export_essays.py <content-studio folder>` after an essay changes or a new one lands (for example the DDW 27 essays), then rebuild.
+- [x] Indexing is off. One constant controls it: `ESSAYS_INDEXABLE` in `lib/essays-config.ts`, currently `false`. While it is `false`, every essay page and index carries `noindex` and none is in `sitemap.xml`.
+- [ ] To turn indexing on (RN's packages post after October 17, 2026): change `export const ESSAYS_INDEXABLE = false;` to `true` in `lib/essays-config.ts`, commit and deploy. The pages become indexable and `/essays`, each account index and every essay join `sitemap.xml`. To turn it off again, set it back to `false`.
