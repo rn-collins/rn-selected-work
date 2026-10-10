@@ -427,6 +427,21 @@ export const publicBuilds: PublicBuild[] = [
     evidence: "The remediated live tool verifies seven question paths, conditional issue prompts, a no-clearance result boundary, restart control, related links, a no-data LinkedIn contact path, visible RN authorship, and privacy, terms, robots, and sitemap routes. The former automated regulatory-feed presentation is suppressed. The tool does not inspect documents or establish ownership, consent, disclosure adequacy, substantiation, platform approval, rights clearance, legal compliance, or permission to publish; current matter-specific review remains required.",
     live: "https://aloha-creator-rights.vercel.app/",
   },
+  {
+    slug: "hawaii-tech-week-field-kit",
+    title: "Hawaii Tech Week 2026 Field Kit",
+    category: "Field investigation + content systems",
+    practice: "Field Intelligence",
+    status: "Live portfolio page · event coverage and content-system sample",
+    purpose: "Show one week of event photography and video at the standard it takes to publish it: sharp, de-duplicated, captioned from what is actually in the frame, and connected to the system that checks it.",
+    noticed: "The week produced 1,273 phone stills, 139 phone videos, and 108 camera videos. Nothing about that volume says which frames are good, which clips are steady, which quotes were actually said, or who agreed to be shown.",
+    researched: "Every still was logged with a description, people, on-screen text, and quality notes. Video was sampled for darkness, soft or covered lens, and shake, and speech clips were transcribed so captions say what was said rather than what a log guessed. Quotes in drafted posts were checked against transcripts and each person on camera was recorded with the evidence for their status.",
+    built: "A single page with a photo wall and video wall for each of the five days, each day paired with a real post rendered both in a plain template and in a concept look drawn from its venue and a Pinterest Predicts 2026 trend, plus a plain-language account of the logging, checking, consent, and rendering steps behind it.",
+    serves: "Event organizers, venues, brands, and publishers deciding what a documented week should produce and how it should be checked.",
+    demonstrates: "Photography and video selection, caption writing, event documentation, content-system design, and rendering one source into several brand looks.",
+    evidence: "The live page was checked in a browser: all 180 photos and 30 clips load and play, ten clips carry decoded audio, there are no console errors, and the layout does not scroll sideways at phone width. People pictured attended a public event whose posted notice said it would be photographed and recorded; that does not establish that each person individually agreed to appear in a portfolio, which is why the page is excluded from search engines. It is not an official Hawaii Tech Week, venue, or sponsor page, and the looks are concept looks. The review system it describes is private, so its counts are not independently verifiable from the page.",
+    live: "https://htw-field-kit.vercel.app/",
+  },
 ];
 
 export function getPublicBuild(slug: string) {

@@ -918,6 +918,22 @@ export const buildNotes: BuildNote[] = [
     caseStudy: "ownership-platform",
   },
 
+  {
+    repo: "htw-field-kit",
+    title: "Hawaii Tech Week 2026 Field Kit",
+    category: "records",
+    status: "Live · event coverage and content-system sample",
+    statusKind: "live",
+    problem:
+      "A week of an event produces far more frames and footage than anyone can post, and most of it is never chosen, checked, or connected to what it shows. The usual outcome is a few lucky highlights or a folder nobody can search.",
+    does:
+      "Shows the best of one week (Aug 31 to Sept 4, 2026) on a single page: 180 photos from an iPhone and a Nikon and 30 Nikon video clips, ten of them with sound, sorted by day and venue, filterable by space or people, with a lightbox. Each day also shows one real post twice, in a plain template and in a concept look drawn from that venue, and the page explains the content system behind it: every frame logged, quotes checked against transcripts, and each person on camera recorded with what they agreed to.",
+    builtOn:
+      "One static HTML page with its photos and video. No build step, no tracking, no account. Hosted on Vercel.",
+    limits:
+      "Event documentation and a work sample, not an official Hawaii Tech Week, venue, or sponsor page, and the looks are concept looks rather than any venue's branding. The review system it describes is private, so the page's own counts (1,273 stills and 247 videos logged, 208 drafted posts) cannot be verified from the page. It is set to be skipped by search engines because it shows attendees.",
+    caseStudy: "hawaii-tech-week-field-kit",
+  },
   // ----------------------------------------------------------------- practice
   {
     repo: "aloha-ai-consulting",

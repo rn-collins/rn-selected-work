@@ -86,11 +86,6 @@
       "silent": true
     },
     {
-      "repo": "htw-field-kit",
-      "reason": "Private owner field kit behind a passphrase gate.",
-      "silent": true
-    },
-    {
       "repo": "hwit-proposal-collins",
       "reason": "Proposal prepared for a named organisation.",
       "silent": true
