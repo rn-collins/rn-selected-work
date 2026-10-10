@@ -7,11 +7,15 @@ import styles from "./sources.module.css";
 // Rebuilt daily so each post appears here on its posting day.
 export const revalidate = 86400;
 
-export const metadata: Metadata = {
+export function generateMetadata(): Metadata {
+  return {
   title: "Ask a Neuroscientist: sources",
   description: "The research, records and image credits behind every Ask a Neuroscientist post by RN Collins, linked to the originals.",
   alternates: { canonical: "/sources" },
-};
+  // Estate-wide page genre tag (see rn-estate-tools README): judged on completeness, not length.
+  other: { "rn:kind": "reference", "rn:entries": String(postedSoFar().length) },
+  };
+}
 
 export default function SourcesIndex() {
   const posts = postedSoFar().slice().reverse();

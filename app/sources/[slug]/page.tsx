@@ -16,6 +16,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: `Sources: ${p.title}`,
     description: `Every study, record and image behind the Ask a Neuroscientist post of ${longDate(p.date)}, "${p.title}", linked to the original.`,
     alternates: { canonical: `/sources/${p.slug}` },
+    // Estate-wide page genre tag (see rn-estate-tools README): judged on completeness, not length.
+    other: { "rn:kind": "reference", "rn:entries": String(p.research.length + p.other.length + p.images.length) },
   };
 }
 
