@@ -3,7 +3,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { getProject, projects } from "../../../lib/portfolio";
 import { getPublicBuild, publicBuilds } from "../../../lib/public-builds";
-import { buildByCaseStudy, statusLabels, type Build } from "../../../lib/builds";
+import { VerifiedRecord } from "../../../components/verified-record";
+import { LivePreview } from "../../../components/live-preview";
+import { buildByCaseStudy } from "../../../lib/builds";
 
 export function generateStaticParams() {
   return [...projects, ...publicBuilds].map(({ slug }) => ({ slug }));
@@ -59,17 +61,21 @@ export default async function ProjectPage({
         <h1>{p.title}</h1>
         <p className="caseStatus">{p.status}</p>
         <p className="caseThesis">{p.thesis}</p>
-        {p.image && (
-          <div className="caseImage">
-            <Image
-              src={p.image}
-              alt={p.imageAlt || "Project preview"}
-              width={1200}
-              height={630}
-              sizes="(max-width: 900px) 100vw, 900px"
-              priority
-            />
-          </div>
+        {p.live ? (
+          <LivePreview url={p.live} title={p.shortTitle || p.title} />
+        ) : (
+          p.image && (
+            <div className="caseImage">
+              <Image
+                src={p.image}
+                alt={p.imageAlt || "Project preview"}
+                width={1200}
+                height={630}
+                sizes="(max-width: 900px) 100vw, 900px"
+                priority
+              />
+            </div>
+          )
         )}
         <div className="caseGrid">
           <CaseBlock label="What I noticed" text={p.noticed} />
@@ -114,53 +120,6 @@ export default async function ProjectPage({
     </main>
   );
 }
-/**
- * The verified build record, rendered from lib/build-notes.ts — the same
- * source the generated index renders from, so a case study and the index can
- * never disagree about a build's status.
- */
-function VerifiedRecord({ build }: { build: Build }) {
-  return (
-    <section className="verifiedRecord" aria-labelledby="verified-record">
-      <div className="verifiedRecordHead">
-        <p className="eyebrow">Verified build record</p>
-        <h2 id="verified-record">What is actually running, and what it is not.</h2>
-        <p className={`indexStatus indexStatus--${build.statusKind}`}>
-          <span className="indexStatusTag">{statusLabels[build.statusKind]}</span>
-          {build.status}
-        </p>
-      </div>
-      <div className="verifiedRecordBody">
-        <p>
-          <b>The problem.</b> {build.problem}
-        </p>
-        <p>
-          <b>What it does.</b> {build.does}
-        </p>
-        <p>
-          <b>Built on.</b> {build.builtOn}
-        </p>
-        {build.limits && (
-          <p className="indexLimits">
-            <b>What it does not establish.</b> {build.limits}
-          </p>
-        )}
-        {build.linkHeld && (
-          <p className="indexHeld">
-            <b>Public link held.</b> {build.linkHeld}
-          </p>
-        )}
-        <p className="verifiedRecordProvenance">
-          This record is generated from the same inventory as the{" "}
-          <Link href={`/builds#${build.category}`}>complete build index</Link>: the
-          production URL was checked at the last regeneration, and the status line above
-          repeats what the build reports about itself rather than restating an intention.
-        </p>
-      </div>
-    </section>
-  );
-}
-
 function CaseBlock({ label, text }: { label: string; text: string }) {
   return (
     <section>
@@ -192,35 +151,7 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
         <h1>{build.title}</h1>
         <p className="caseStatus">{build.status}</p>
         <p className="caseThesis">{build.purpose}</p>
-        {build.promoteLive !== false && <section className="buildPreview" aria-labelledby="build-preview-heading">
-          <div className="buildPreviewHeader">
-            <div>
-              <p className="eyebrow">Controlled visual demonstration</p>
-              <h2 id="build-preview-heading">Current live interface</h2>
-            </div>
-            <a href={build.live} target="_blank" rel="noreferrer">
-              Open full site ↗
-            </a>
-          </div>
-          <div className="buildPreviewBrowser">
-            <div className="buildPreviewChrome" aria-hidden="true">
-              <span />
-              <span />
-              <span />
-              <p>{new URL(build.live).hostname}</p>
-            </div>
-            <iframe
-              src={build.live}
-              title={`Live preview of ${build.title}`}
-              loading="lazy"
-              referrerPolicy="no-referrer"
-              sandbox="allow-scripts allow-same-origin"
-            />
-          </div>
-          <p className="buildPreviewNote">
-            This sandboxed preview shows the current public interface. Open the full site to use the build in its intended window.
-          </p>
-        </section>}
+        {build.promoteLive !== false && <LivePreview url={build.live} title={build.title} />}
         <div className="caseGrid">
           {build.noticed && <CaseBlock label="What I noticed" text={build.noticed} />}
           {build.researched && <CaseBlock label="What I researched" text={build.researched} />}
