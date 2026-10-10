@@ -1,0 +1,2942 @@
+{
+ "generated": "2026-10-09",
+ "host": "rn-selected-work.vercel.app",
+ "posts": [
+  {
+   "slug": "s12",
+   "date": "2026-10-18",
+   "id": "12",
+   "title": "Mission Day: Digital Futures, the AI we choose",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, Design Innovation Sessions | Digital Futures",
+     "url": "https://ddw.nl/en/programme/design-innovation-sessions-3"
+    },
+    {
+     "label": "DDW, Mission Day | Digital futures",
+     "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-digital-futures"
+    },
+    {
+     "label": "European Commission AI Act Service Desk, Article 50",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50"
+    },
+    {
+     "label": "University of Amsterdam news item, January 28, 2026 (Dutch)",
+     "url": "https://www.uva.nl/shared-content/faculteiten/nl/faculteit-economie-en-bedrijfskunde/nieuws/2026/01/subsidie-voor-veilige-generatieve-ai-in-de-creatieve-sector.html"
+    },
+    {
+     "label": "CLICKNL, SafeGenAI project page",
+     "url": "https://www.clicknl.nl/en/pps-projecten/safe-gen-ai"
+    },
+    {
+     "label": "DDW Mission Days 2026",
+     "url": "https://ddw.nl/en/programme/mission-days-2026"
+    },
+    {
+     "label": "TU Delft, Alfrink PhD defense",
+     "url": "https://www.tudelft.nl/en/evenementen/2024/tu-delft/05-mei/doctoral-defence-cp-alfrink"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the entrance of the Natlab building on Strijp-S in Eindhoven, a brick building with a wide canopy and steps, photographed in 2012",
+     "credit": "Photo: Rosemoon, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:NatLab_Strijp_S_Eindhoven_ingang_2.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a theatre auditorium seen from the side of the stage, with a lit stage, two large projection screens and an audience in the stalls far off (Corbett Auditorium)",
+     "credit": "Photo: Gronkhammer, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Corbett_Auditorium_w_Audience_2_(credit_TM_Photography).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the curved glass and steel front of the Berlaymont building in Brussels, the European Commission's headquarters, under a blue sky",
+     "credit": "Photo: Trougnouf, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: an empty stepped auditorium with rows of black seats and spotlights in a dark ceiling, facing a small stage (Wikimania 2024)",
+     "credit": "Photo: Balise42, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Kyiv_auditorium_at_Wikimania_2024.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: modern University of Amsterdam buildings of glass and brick beside a canal on the Roeterseiland campus",
+     "credit": "Photo: Fons Heijnsbroek, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Modern_architecture_of_university_buildings_at_the_campus_Roeterseiland;_free_photo_Amsterdam,_Fons_Heijnsbroek_10-2021.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: euro banknotes and coins spread across a table",
+     "credit": "Photo: Avij, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A studio portrait of Monika Kackovic, associate professor at the Amsterdam Business School, who leads the SafeGenAI project and is one of the named speakers",
+     "credit": "Source: University of Amsterdam",
+     "url": "https://www.uva.nl/shared-content/faculteiten/nl/faculteit-economie-en-bedrijfskunde/nieuws/2026/01/subsidie-voor-veilige-generatieve-ai-in-de-creatieve-sector.html",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a long room inside Natlab on Strijp-S with both walls covered in rows of small black-and-white photographs, a pipe-lined ceiling and two small figures leaning over a white table at the far end, from Dutch Design Week 2021",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/51628703130/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: stamped hallmarks on the handles of two silver spoons",
+     "credit": "Photo: Saippuakauppias, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Spoon_Stuerler_Hallmarks.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a hand holding a mirrorless camera, with the lens and control dials in focus",
+     "credit": "Photo: Shixart1985, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Camera_held_in_hand_with_focus_on_lens_and_controls.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s13",
+   "date": "2026-10-18",
+   "id": "13",
+   "title": "5th Design & AI Symposium: Taking Stock: What has AI done for/to Design?",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [
+    {
+     "label": "Europe PMC record for Doshi and Hauser, Science Advances, July 2024 (DOI 10.1126/sciadv.adn5290)",
+     "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1126/sciadv.adn5290&resultType=core&format=json"
+    },
+    {
+     "label": "Doshi and Hauser (2024), Science Advances, abstract via Exeter repository",
+     "url": "https://ore.exeter.ac.uk/articles/journal_contribution/Generative_AI_enhances_individual_creativity_but_reduces_the_collective_diversity_of_novel_content/29809991"
+    }
+   ],
+   "other": [
+    {
+     "label": "DDW program listing, 5th Design & AI Symposium",
+     "url": "https://ddw.nl/en/programme/5th-design-ai-symposium-1"
+    },
+    {
+     "label": "DDW archive, 4th Design & AI Symposium, October 21, 2025",
+     "url": "https://ddw.nl/en/programme/archive/2025/4th-design-amp-ai-symposium"
+    },
+    {
+     "label": "DDW program listing, Design & AI: Many (Re)Turns",
+     "url": "https://site.ddw.nl/en/programme/18023/design-amp-ai-many-returns"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a hand drawing wireframes in blue pen on sheets of paper on a wooden desk, with a coffee mug and notebook beside it",
+     "credit": "Photo: Green Chameleon",
+     "url": "https://commons.wikimedia.org/wiki/File:Designer_sketching_Wireframes_(Unsplash).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a pair of hands typing on a silver laptop at a wooden table, faces out of frame",
+     "credit": "Photo: Shixart1985",
+     "url": "https://commons.wikimedia.org/wiki/File:Hands_typing_on_a_laptop_at_a_wooden_table_during_a_casual_indoor_setting_with_a_relaxed_atmosphere.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a hand writing in a notebook with a fountain pen",
+     "credit": "Photo: Aaron Burden",
+     "url": "https://commons.wikimedia.org/wiki/File:Writing_with_a_fountain_pen_(Unsplash).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a long row of near-identical white cottages on a green hillside in Glencolumbkille, Ireland",
+     "credit": "Photo: Colin Park",
+     "url": "https://commons.wikimedia.org/wiki/File:Identical_houses_at_Glencolumbkille_-_geograph.org.uk_-_6329815.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The Bosch building at Strijp-S seen through a steel canopy, with the red Bosch sign on a long brick-colored block under a blue sky",
+     "credit": "Source: designandai.nl",
+     "url": "https://designandai.nl/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a modern tiered lecture theatre with curved dark benches, round stools and ceiling projectors, empty of people",
+     "credit": "Photo: Melisalee",
+     "url": "https://commons.wikimedia.org/wiki/File:Lecture_Theatre_of_the_Hive_Building.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The Bosch building at Strijp-S in Eindhoven, a long gridded block with blue windows and the red Bosch sign on top, seen between trees under a blue sky",
+     "credit": "Photo: Steven Lek",
+     "url": "https://commons.wikimedia.org/wiki/File:Bosch_building_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "Illustrative photo: a long library aisle of green shelves holding rows of bound blue scientific journal volumes",
+     "credit": "Photo: Kai3952",
+     "url": "https://commons.wikimedia.org/wiki/File:Stack_of_journals_and_books_in_the_Central_Geological_Survey_Library,_MOEA.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "Illustrative photo: folded and cut paper models of textured surfaces lying on sheets covered in handwritten notes",
+     "credit": "Photo: Dick Thomas Johnson",
+     "url": "https://commons.wikimedia.org/wiki/File:Secret_Source_of_Inspiration_Designers%27_Hidden_Sketches_and_Mockups_(50008390642).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a hand drawing geometric logo shapes with a black pen on paper beside a white keyboard",
+     "credit": "Photo: Claireneon",
+     "url": "https://commons.wikimedia.org/wiki/File:Logo_designer_using_pen_and_paper.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s35",
+   "date": "2026-10-18",
+   "id": "35",
+   "title": "What if we rethink how we make, use and value materials?",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, Textile & Material Innovation HUB",
+     "url": "https://ddw.nl/en/programme/textile-material-innovation-hub"
+    },
+    {
+     "label": "DDW program listing, Soft Companions",
+     "url": "https://ddw.nl/en/programme/soft-companions"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: silvery blown glass objects with bubbled surfaces on a plinth at Dutch Design Week 2017 in the Klokgebouw, photographed on October 29, 2017",
+     "credit": "Photo: Ymnes, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:DDW2017_-_Klokgebouw_4.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The Klokgebouw at Strijp-S in Eindhoven, a long white former Philips factory with a clock tower seen across a lawn under a blue sky, photographed on September 6, 2016",
+     "credit": "Photo: Choinowski, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Klokgebouw_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "Illustrative photo: a close view of a cream knitted textile sample with deep ribbed folds and symmetrical ridges, from Katrijn Westland's Soft Companions",
+     "credit": "Photo: Katrijn Westland/DDW",
+     "url": "https://ddw.nl/en/programme/soft-companions",
+     "card": false
+    },
+    {
+     "where": "Slide 3b",
+     "what": "Illustrative photo: white mycelium threads branching across a dark ground in a close photograph",
+     "credit": "Photo: Svitlana Shakhnovych, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Mycelium_(mushroom).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Illustrative photo: two hands holding a soft ribbed textile creature in pink and tan against a pale background, a companion from Katrijn Westland's Soft Companions",
+     "credit": "Photo: Katrijn Westland/DDW",
+     "url": "https://ddw.nl/en/programme/soft-companions",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Illustrative photo: a dark marbled carabiner pressed from recycled plastic with the words Precious Plastic on it, on a white ground, photographed in 2021",
+     "credit": "Photo: Ezlev, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Precious_Plastic_carabiner.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Driftling, one of the Soft Companions: a small knitted textile creature in gray-green with long hanging strands, standing on a pale ground",
+     "credit": "Photo: Kasper Heden/DDW",
+     "url": "https://ddw.nl/en/programme/soft-companions",
+     "card": false
+    },
+    {
+     "where": "Slide 6a",
+     "what": "The Klokgebouw at Strijp-S in Eindhoven seen from below, its white clock tower rising over a fence and a yellow container, photographed on July 31, 2018",
+     "credit": "Photo: Steven Lek, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Klokgebouw_Philips_Strijp-S_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6b",
+     "what": "Illustrative photo: a white room in the Klokgebouw at Dutch Design Week 2017 with blue-printed trays laid on the floor and a screen on the wall, photographed on October 29, 2017",
+     "credit": "Photo: Ymnes, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:DDW2017_-_Klokgebouw_1.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a metal shelf of glass jars and domes holding plant and material samples with a tablet display at Dutch Design Week 2017 in the Klokgebouw",
+     "credit": "Photo: Ymnes, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:DDW2017_-_Klokgebouw_5.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a close view of a pink knitted wool fabric with four thin needles lying across it",
+     "credit": "Photo: Girlmath, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Needles_in_knitted_wool.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s39",
+   "date": "2026-10-18",
+   "id": "39",
+   "title": "AI cures disease. AI builds bioweapons. Which future is real?",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, 4TU.Design United Dialogues 3: Digital Futures",
+     "url": "https://ddw.nl/en/programme/4tudesign-united-dialogues-3-digital-futures"
+    },
+    {
+     "label": "4TU.Design United, 2026 Design Bridges edition page, Digital Futures section",
+     "url": "https://www.4tu.nl/du/editions/2026-design-bridges-technology-people-society-planet/"
+    },
+    {
+     "label": "Wikipedia, Philips Natuurkundig Laboratorium",
+     "url": "https://en.wikipedia.org/wiki/Philips_Natuurkundig_Laboratorium"
+    },
+    {
+     "label": "4TU.Design United 2026 Design Bridges edition, Digital Futures",
+     "url": "https://www.4tu.nl/du/editions/2026-design-bridges-technology-people-society-planet/#digital-futures"
+    },
+    {
+     "label": "4TU DDW 2026 page",
+     "url": "https://www.4tu.nl/du/about-us/events/dutch-design-week-2026/"
+    },
+    {
+     "label": "DDW highlights release, September 29, 2026",
+     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Natlab building on Kastanjelaan in Eindhoven, a brick former Philips physics laboratory with a long low front, photographed from the street on a sunny day in 2017",
+     "credit": "Photo: Johan Bakker, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:0772GM0277_Natlab_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The Natlab building at Strijp-S in Eindhoven seen across the road, its brick facade and entrance canopy under a blue sky, photographed in 2012",
+     "credit": "Photo: Rosemoon, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:NatLab_Strijp_S_Eindhoven.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a black spiked virus-shaped object on a white ground, a prototype from The Virus In Our Home, one of the nine Digital Futures projects",
+     "credit": "Source: 4TU.Design United",
+     "url": "https://www.4tu.nl/du/projects/the-virus-in-our-home/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: the Con/Vince card game laid out on a white surface: a pentagon-shaped tray, a stack of small colored tokens and a red card box",
+     "credit": "Source: 4TU.Design United",
+     "url": "https://www.4tu.nl/du/projects/con-vince/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: hands at a table opening a laptop with a small pry tool beside a phone showing a repair guide, from the Interaction Design for Accessible Repair project, one of the nine Digital Futures projects",
+     "credit": "Source: 4TU.Design United",
+     "url": "https://www.4tu.nl/du/projects/interaction-design-for-accessible-repair/",
+     "card": false
+    },
+    {
+     "where": "Slide 6a",
+     "what": "Illustrative photo: a hand holding a pen and writing in a notebook, a close view with no face",
+     "credit": "Photo: Tookapic, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Pen-writing-notes-studying.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6b",
+     "what": "Illustrative photo: an African grey parrot perched on a wooden perch inside a cage, photographed in 2009",
+     "credit": "Photo: Julie R, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Psittacus_erithacus_-on_wooden_perch_in_cage-6b.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "The entrance steps and canopy of Natlab at Strijp-S, Eindhoven, with the glass doors behind a low brick wall, photographed in 2012",
+     "credit": "Photo: Rosemoon, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:NatLab_Strijp_S_Eindhoven_ingang.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "The copper plaque on the Natlab facade reading Philips Natuurkundig Laboratorium with the date 1923, set in brick, photographed in 2012",
+     "credit": "Photo: Rosemoon, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:NatLab_Strijp_S_Eindhoven_gevelplaquette.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 7c",
+     "what": "Illustrative photo: an aerial view of the TU Delft campus along the Mekelweg with its buildings and tree-lined roads, photographed in 2020",
+     "credit": "Photo: We Like Sharing, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_TU_Delft_campus.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a black square speaker-like prototype with a small red button and a pale dot on top, on a white ground, from The Virus In Our Home, one of the nine Digital Futures projects",
+     "credit": "Source: 4TU.Design United",
+     "url": "https://www.4tu.nl/du/projects/the-virus-in-our-home/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a hand typing on a laptop keyboard beside a notebook, a close view with no face",
+     "credit": "Photo: Pixel.la, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hand-laptop-notebook-typing_(23698140194).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s40",
+   "date": "2026-10-18",
+   "id": "40",
+   "title": "A growth plan for the Netherlands named four areas, DDW says. Design wasn't one.",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, Symposium: De creatieve economie",
+     "url": "https://ddw.nl/en/programme/symposium-de-creatieve-economie-met-oa-peter-wennink"
+    },
+    {
+     "label": "Emerce, article submitted by Dutch Design Week, September 15, 2026 (Dutch)",
+     "url": "https://www.emerce.nl/?p=7089132"
+    },
+    {
+     "label": "Accountant.nl, article on the Wennink report, December 2025 (Dutch)",
+     "url": "https://www.accountant.nl/nieuws/2025/12/peter-wennink-wil-dat-nederland-nu-investeert-om-toekomstige-welvaart-veilig-te-stellen/"
+    },
+    {
+     "label": "Dutch Design Foundation event page",
+     "url": "https://www.dutchdesignfoundation.com/en/calendar/symposium-the-creative-economy/"
+    },
+    {
+     "label": "DDW activities list",
+     "url": "https://ddw.nl/en/programme/activities-and-events"
+    },
+    {
+     "label": "DDW highlights release, September 29, 2026",
+     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the Binnenhof in The Hague, a brick courtyard with stepped gables and the Hall of Knights tower in the distance, photographed in 2015",
+     "credit": "Photo: Hubertl, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Binnenhof,_The_Hague_1834.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The Evoluon in Eindhoven, the saucer-shaped building that houses Next Nature Museum, seen across a lawn beside a large tree and the tower, photographed on August 1, 2015",
+     "credit": "Photo: Zairon, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Eindhoven_Evoluon_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Peter Wennink speaking with both hands raised in front of a slide titled De route naar toekomstige welvaart, Rapport Wennink, photographed on December 12, 2025, the day the report was presented",
+     "credit": "Source: Dutch Design Week",
+     "url": "https://ddw.nl/en/programme/symposium-de-creatieve-economie-met-oa-peter-wennink",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Illustrative photo: rows of server racks in a data center with blinking lights, photographed in 2015",
+     "credit": "Photo: Carl Lender, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Illustrative photo: a cluster of offshore wind turbines with blue three-blade rotors standing in the North Sea off the Dutch coast, the Princess Amalia wind farm",
+     "credit": "Photo: Ad Meskens, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Prinses_Amalia_windmolenpark_3.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: product design objects on white plinths at Dutch Design Week 2017 in the Klokgebouw: a candle holder, a round mirror, small geometric stands and a vase of yellow flowers",
+     "credit": "Photo: Ymnes, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:DDW2017_-_Klokgebouw_8.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the former publishing house of the Dutch newspaper Trouw on the Wibautstraat in Amsterdam, a concrete and glass office block behind bare trees, photographed in 2009",
+     "credit": "Photo: Janericloebe, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_Wibautstraat_Trouw_001.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "The Evoluon on Noord Brabantlaan in Eindhoven seen from the side, its flat saucer roof over a lawn and a low brick wing, photographed on May 17, 2022",
+     "credit": "Photo: Pim van Tend, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Eindhoven-noordbrabantlaan-220802.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: the interior of the Evoluon in Eindhoven, a tiled honeycomb ceiling over a ring-shaped exhibition floor lit in red and white, photographed on September 8, 2012",
+     "credit": "Photo: Alex P. Kok, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Evoluon,_interieur_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7c",
+     "what": "Illustrative photo: a view of the Eindhoven city centre from a footbridge, with the glass Blob building, shops and a crossing street, photographed on April 10, 2010",
+     "credit": "Photo: Curt Woyte, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:PiazzaBlob_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the Binnenhof buildings in The Hague across the Hofvijver pond, photographed on August 5, 2015",
+     "credit": "Photo: Michielverbeek, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Den_Haag,_het_Binnenhof_diverse_RM_met_de_Hofvijver_op_de_voorgrond_foto8_2015-08-05_18.56.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a designed tableware set of cups, bowls and a dark container on a tray, shown on a white table at Dutch Design Week 2017 in the Klokgebouw",
+     "credit": "Photo: Ymnes, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:DDW2017_-_Klokgebouw_6.JPG",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s41",
+   "date": "2026-10-18",
+   "id": "41",
+   "title": "Five Dutch Design Awards finalists look at what tech does to us.",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Dutch Design Awards, Emerging Talent Award 2026 finalists, July 9, 2026",
+     "url": "https://www.dutchdesignawards.nl/en/update/dutch-design-awards-announces-finalists-emerging-talent-award-2026/"
+    },
+    {
+     "label": "Colette Aliman, personal site",
+     "url": "https://www.colettealiman.com/"
+    },
+    {
+     "label": "CLOT Magazine, article on Soundscapes of Fear, December 27, 2020",
+     "url": "https://clotmag.com/news/insight-colette-aliman-lauriane-heims-soundscapes-of-fear"
+    },
+    {
+     "label": "Z33, Studiocalh profile",
+     "url": "https://www.z33.be/en/profiel/studiocalh/"
+    },
+    {
+     "label": "Studio Julia Janssen, Chadding project page",
+     "url": "https://studiojuliajanssen.com/projecten/chadding/"
+    },
+    {
+     "label": "DDA jury 2026",
+     "url": "https://www.dutchdesignawards.nl/en/update/dutch-design-awards-announces-2026-jury-to-select-class-of-emerging-talent/"
+    },
+    {
+     "label": "Processing Foundation bio",
+     "url": "https://processingfoundation.org/people/colette-aliman/"
+    },
+    {
+     "label": "Mozilla blog on Julia Janssen",
+     "url": "https://blog.mozilla.org/en/internet-culture/julia-janssen-data-protection-privacy-rise-25-mozilla-ai/"
+    },
+    {
+     "label": "Falling Walls profile",
+     "url": "https://falling-walls.com/node/1354"
+    },
+    {
+     "label": "KABK profile of Sondi Rumohr",
+     "url": "https://www.kabk.nl/docenten/sondi-rumohr"
+    },
+    {
+     "label": "Amsterdam Fashion Week",
+     "url": "https://amsterdamfashionweek.nl/ulkuhanbatuhan-win-the-frans-molenaar-prize-2025/"
+    },
+    {
+     "label": "Hypebae interview (Sep 2026)",
+     "url": "https://hypebae.com/2026/9/the-body-issue-esmay-wagemans-interviews-ai-material-research-sevdaliza-body-representation"
+    },
+    {
+     "label": "DDW highlights release, September 29, 2026",
+     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a person in silhouette walking toward a hall of hanging glass-like panels beside tall windows, the Chadding installation by Julia Janssen, one of the five finalists",
+     "credit": "Photo: Studio Julia Janssen",
+     "url": "https://studiojuliajanssen.com/projecten/chadding/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: the Dutch Design Awards exhibition at the MicroLab hall in Strijp-S, rows of lit display walls under blue light with no visitors, photographed on October 21, 2023 by Nick Bookelaar for Dutch Design Week",
+     "credit": "Photo: Nick Bookelaar/DDW",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/53322627033/",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "Illustrative photo: a Dutch Design Awards display wall of large embroidered banners beside a text panel under blue light at Strijp-S MicroLab, photographed on October 21, 2023 by Nick Bookelaar for Dutch Design Week",
+     "credit": "Photo: Nick Bookelaar/DDW",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/53322745209/",
+     "card": false
+    },
+    {
+     "where": "Slide 3b",
+     "what": "Illustrative photo: a red display wall holding three large framed black-and-white photographs at the Dutch Design Awards exhibition in Strijp-S MicroLab, photographed on October 21, 2023 by Nick Bookelaar for Dutch Design Week",
+     "credit": "Photo: Nick Bookelaar/DDW",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/53321525572/",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Julia Janssen standing in front of the Chadding wall of blue, green and black panels carrying chatbot answers, photographed in 2026",
+     "credit": "Photo: Studio Julia Janssen",
+     "url": "https://studiojuliajanssen.com/news/chadding-on-tour/",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "a close view of the Chadding installation: blue and green gradient panels asking Are you lying to me? beside black panels with chatbot answers",
+     "credit": "Photo: Studio Julia Janssen",
+     "url": "https://studiojuliajanssen.com/projecten/chadding/",
+     "card": false
+    },
+    {
+     "where": "Slide 5a",
+     "what": "a dark gallery room with a tall screen showing a figure in a dance pose, Sondi's installation PlayPretend 2, photographed by Aad Hoogendoorn",
+     "credit": "Photo: Aad Hoogendoorn",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/sondi/",
+     "card": false
+    },
+    {
+     "where": "Slide 5b",
+     "what": "a portrait of the designer Sondi in a patterned top and long skirt standing in front of shelves of groceries, photographed by Ruby Cruden",
+     "credit": "Photo: Ruby Cruden",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/sondi/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "a portrait of Colette Aliman standing in her studio beside a desk with audio equipment and shelves of books, photographed by Matilde Stolfa",
+     "credit": "Photo: Matilde Stolfa",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/colette-aliman-2/",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "a cropped view of a garment covered in flat pebble-like pieces with a matching handbag held at the hip, no face shown, from Ülkühan Akgül's collection Etnisch Profiteren, photographed by Dion Bal",
+     "credit": "Photo: Dion Bal",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/ulkuhan-akgul/",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "a translucent amber silicone wearable cast to the shape of a torso with shoulder pieces, hanging against a gray ground, the Body Politics Silicone Suit by Esmay Wagemans",
+     "credit": "Photo: Esmay Wagemans",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/esmay-wagemans/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "the Chadding wall of acrylic panels in blue and green with black answer panels, one of the two works Julia Janssen's site lists for her Dutch Design Week 2026 show",
+     "credit": "Photo: Studio Julia Janssen",
+     "url": "https://studiojuliajanssen.com/projecten/chadding/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the Ketelhuisplein square at Dutch Design Week 2017 with small colorful birdhouse-like stands on poles and a green display board, photographed on October 29, 2017",
+     "credit": "Photo: Ymnes, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:DDW2017_-_Ketelhuisplein_01.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a Shure MV7 podcast microphone on a stand against a plain background, photographed in 2021",
+     "credit": "Photo: Panos Sakalakis, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Shure_MV7_microphone.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s43",
+   "date": "2026-10-18",
+   "id": "43",
+   "title": "Oil paint changed art. So did photography. Next Nature Museum says AI is next.",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, PROMPT",
+     "url": "https://ddw.nl/en/programme/prompt"
+    },
+    {
+     "label": "DDW highlights release, September 29, 2026",
+     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+    },
+    {
+     "label": "DDW activities list",
+     "url": "https://ddw.nl/en/programme/activities-and-events"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The central hall of the Evoluon in Eindhoven, home of the Next Nature Museum, with its honeycomb ceiling and the Retrofuture exhibition signs, photographed on October 25, 2023 during Dutch Design Week",
+     "credit": "Photo: Solches, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Eindhoven-Evoluon-2023.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: two hands typing on a laptop keyboard, no face shown",
+     "credit": "Photo: Simon Hattinga Verschure, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Typing_on_a_laptop_(Unsplash).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a tube of cadmium red oil paint lying on a wooden table with a red paint swirl squeezed out beside its cap",
+     "credit": "Photo: W.carter, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Cadmium_red_pale_oil_paint_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: the humanoid robot artist Ai-Da standing beside its large self-portrait, a pastel green and violet painted face, photographed in 2021",
+     "credit": "Photo: Leemurz, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Ai-Da.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a hand holding a stylus over a dark graphics tablet beside a keyboard, no face shown",
+     "credit": "Photo: Glenn Carstens-Peters, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Stylus_on_a_graphics_tablet_(Unsplash).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the conference centre lobby of the Evoluon in Eindhoven, with orange and yellow sofas, a coffee table and a painting on the brick wall, photographed in 2016",
+     "credit": "Photo: Cmglee, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Cmglee_Evoluon_conference_centre.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "The original entrance of the Evoluon on Noord Brabantlaan in Eindhoven, a concrete saucer-shaped building with a wide canopy over a gravel forecourt, photographed on May 17, 2022",
+     "credit": "Photo: Pim van Tend, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Eindhoven-noordbrabantlaan-220803.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: a corner room lined with shelves of identical bound volumes, a printed Wikipedia library installation at the Evoluon in Eindhoven, photographed on May 26, 2023",
+     "credit": "Photo: Niksbij26, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bibliotheek_Wikipedia_02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a museum gallery room with framed paintings hung on a pale wall above a wooden floor and two benches, photographed in 2024",
+     "credit": "Photo: Krzysztof Popławski, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Muzeum_w_Gliwicach_-_Willa_Caro_-_sala_wystawowa,_wystawa_Zofii_Stryjeńskiej,_sierpień_2024_KsP_069.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a hand writing in a spiral notebook with a yellow pencil, wood shavings on the page, no face shown",
+     "credit": "Photo: Thought Catalog, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Taking_notes_with_a_pencil_(Unsplash).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s48",
+   "date": "2026-10-18",
+   "id": "48",
+   "title": "The Internet Used To Be A Home",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, The Internet Used To Be A Home (also read at ddw.nl)",
+     "url": "https://ddw.nl/en/programme/the-internet-used-to-be-a-home"
+    },
+    {
+     "label": "European Commission, DMA portal, end-user data portability",
+     "url": "https://digital-markets-act.ec.europa.eu/developer-portal/end-user-data-portability_en"
+    },
+    {
+     "label": "Trisha Koevoets portfolio, Mijn werk",
+     "url": "https://trishakoevoets.com/mijn-werk/"
+    },
+    {
+     "label": "DDW participants FAQ",
+     "url": "https://site.ddw.nl/en/participation/participants-faq"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the NeXT workstation that served the first web pages at CERN: a grey monitor, a keyboard and a desk lamp on a display table with information cards",
+     "credit": "Photo: Henry Mühlpfordt, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:CERN_NEXT_Server_2010-07-01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A large wooden moving crate in a park, shot with a fisheye lens, with a blue starburst sticker reading Big Tech verhuis service and a red oval reading Samen naar een beter internet beside a pointer cursor",
+     "credit": "Photo: Trisha Koevoets",
+     "url": "https://trishakoevoets.com/mijn-werk/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a computer mouse resting on a sheet of paper, seen close up from the side",
+     "credit": "Photo: Bhullargraphic, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Acer_computer_mouse_on_paper.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: three blurred figures hurrying along a brightly lit walkway behind a mesh barrier, shot from floor level",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/48990989336/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: three USB flash drives with swivel covers and a key ring lying together on a desk",
+     "credit": "Photo: Èl-Gueuye-Noere, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Schayete_USB_2.0_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the rear of a patch panel with bundles of colored fiber cables running into connectors",
+     "credit": "Photo: Robert.Harker, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Network_Fiber_Patch_Rear_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the DDW x Design Perron hall in 2025 at the Station location: white garments on stands, a photograph on an easel, bright windows, no visitors in frame",
+     "credit": "Photo: Cleo Goossens/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54900672247/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a small green exit sign high on a large dark concrete wall, easy to miss",
+     "credit": "Photo: Isengardt, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Exit_(180079343).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a stack of sealed cardboard moving boxes in an empty room with unassembled wardrobe shelves behind them",
+     "credit": "Photo: Someone Not Awful, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Verhuizing_maart_2016.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s49",
+   "date": "2026-10-18",
+   "id": "49",
+   "title": "NAITURE",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [
+    {
+     "label": "A&L Goodbody, guide to Article 50 of the EU AI Act, 2026",
+     "url": "https://www.algoodbody.com/files/uploads/news_insights_pub/Guide_to_Article_50_of_the_EU_AI_Act.pdf"
+    },
+    {
+     "label": "CCIA, Barata Mir, Transparency Obligations (Art. 50)",
+     "url": "https://ccianet.org/wp-content/uploads/2025/12/Transparency-Obligations-for-All-AI-Systems-Article-50-of-the-AI-Act-Written-by-Dr.-Joan-Barata-Mir.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "DDW program listing, NAITURE (also read at ddw.nl)",
+     "url": "https://ddw.nl/en/programme/naiture"
+    },
+    {
+     "label": "AI Act Article 50, text on artificialintelligenceact.eu (copy)",
+     "url": "https://artificialintelligenceact.eu/article/50/"
+    },
+    {
+     "label": "Regulation (EU) 2024/1689 on EUR-Lex (did not render)",
+     "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng"
+    },
+    {
+     "label": "DDW participants FAQ",
+     "url": "https://site.ddw.nl/en/participation/participants-faq"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Two fabric letter Rs on white after burial: the left one still shows its woven net with soil caught in it, the right one has broken apart into dark fragments",
+     "credit": "Photo: Merel Mierop/ArtEZ",
+     "url": "https://www.artez.nl/en/students/merel-mierop",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Close-up of two buried fabric samples on white: unbleached cotton netting full of soil on the left, grey felt with roots and soil on the right",
+     "credit": "Photo: Merel Mierop",
+     "url": "https://ddw.nl/en/programme/naiture",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A dug-up piece of grey felt holding dark soil and pale roots, photographed on white",
+     "credit": "Photo: Merel Mierop/ArtEZ",
+     "url": "https://www.artez.nl/en/students/merel-mierop",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A soil-covered plinth with a small screen set into its slanted top, in front of a wall of posters showing the letter R in pale tones",
+     "credit": "Photo: Merel Mierop/ArtEZ",
+     "url": "https://www.artez.nl/en/students/merel-mierop",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a framed scrap of grave-found cloth with green and brown fragments of weave on white, in a museum case",
+     "credit": "Photo: Zde, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:From_Slavic_graves,_fabric_remains,_City_of_Prague_Museum,_200415.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a worn German ten-mark banknote with a watermark showing through, photographed against white",
+     "credit": "Photo: Takkk, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:German_banknote_watermark_-_10_Mark.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the DDW x Design Perron hall in 2025 at the Station location: pleated white garments on stands against tall windows, no visitors in frame",
+     "credit": "Photo: Cleo Goossens/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54901545211/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a dark brown, long-buried jacket laid out flat on a glass-topped case with a few buttons beside it",
+     "credit": "Photo: Bullenwächter, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Jan_Spiekers_Jacket.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a small trowel heaped with dark soil beside a pile of earth and a clay pot",
+     "credit": "Photo: Neslihan Gunaydin, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Trowel.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s50",
+   "date": "2026-10-18",
+   "id": "50",
+   "title": "dust vessel for a lasting memory",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, dust vessel for a lasting memory",
+     "url": "https://ddw.nl/en/programme/dust-vessel-for-a-lasting-memory"
+    },
+    {
+     "label": "DDW program page with project text and maker bio",
+     "url": "https://site.ddw.nl/en/programme/16756/dust-vessel-for-a-lasting-memory"
+    },
+    {
+     "label": "Swedish Energy Agency, data centre energy performance reporting",
+     "url": "https://www.energimyndigheten.se/en/climate/climate/data-centre-energy-performance-reporting/"
+    },
+    {
+     "label": "DDW participants FAQ",
+     "url": "https://site.ddw.nl/en/participation/participants-faq"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A polished steel disc with a round hole in its center, tilted on a pale grey surface: the memory platter shown on the Dutch Design Week listing for the dust vessel project by Xiaotong Li",
+     "credit": "Photo: Xiaotong Li",
+     "url": "https://ddw.nl/en/programme/dust-vessel-for-a-lasting-memory",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: two technicians in full cleanroom suits at a lab bench in a photolithography cleanroom, faces covered",
+     "credit": "Photo: UCL, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Cleanroom_-_photolithography_lab_(9148355951).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: dust settled on a ceramic lamp base and on the wood beside it, close up",
+     "credit": "Photo: Insect photographer, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Dusty_old_lamp-stand.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a clean room at Jefferson Lab with grey floor tiles, steel assembly frames and a worker in a full clean suit in the distance",
+     "credit": "Photo: Aileen Devlin/Jefferson Lab",
+     "url": "https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: an opened hard disk drive on white: the mirror-finished platter, the spindle and the read arm",
+     "credit": "Photo: Mk2010, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hard_disk_drive_platter,_Samsung_MP0402H.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a large grey data center hall in Luleå, Sweden, with a small service building and a gravel path under a cloudy sky",
+     "credit": "Photo: Christopher Down, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Lulea_Facebook_datacenter_building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: an aerial view at dusk of a Google data center in Council Bluffs, Iowa: a long gray hall beside a row of cooling towers, with steam rising from some of them, and chiller units along the side",
+     "credit": "Photo: Chad Davis, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Google_Data_Center,_Council_Bluffs_Iowa_(49062863796).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A bright hall at PLAN B in Eindhoven in 2019: a round ceramic table of colored vessels in the middle, a row of ceramics along a bench, tall windows behind",
+     "credit": "Photo: Iris Rijskamp/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/49033471367/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: two black server cabinets behind glass in a data room, cables running overhead",
+     "credit": "Photo: Raysonho, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:SunRackMountServers.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a large grey data center building in Frankfurt with a fenced perimeter and a tower of service stairs",
+     "credit": "Photo: KaiKemmann, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:EXA_Infrastructure,_Data_center,_Weism%C3%BCllerstra%C3%9Fe,_60314_Frankfurt,_Germany_01.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s53",
+   "date": "2026-10-18",
+   "id": "53",
+   "title": "Manifestations: Art, Tech, Fun, AI, Robots",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "ISEA2022 symposium archives, Manifestations presentation",
+     "url": "https://www.isea-symposium-archives.org/?p=70479"
+    },
+    {
+     "label": "Regulation (EU) 2022/2065 (Digital Services Act), Article 27, official English text on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj"
+    },
+    {
+     "label": "DDW 2026 programme listing",
+     "url": "https://ddw.nl/en/programme/art-tech-fun-ai-robots-manifestations-1"
+    },
+    {
+     "label": "Stimuleringsfonds grant announcement (Jan 2026)",
+     "url": "https://www.stimuleringsfonds.nl/en/news/creative-industries-festivals-grant-scheme-21-projects-selected"
+    },
+    {
+     "label": "DSA Article 27 (gesetze.legal copy)",
+     "url": "https://gesetze.legal/eu/vo_eu_2022_2065/27"
+    },
+    {
+     "label": "DDW participants FAQ",
+     "url": "https://site.ddw.nl/en/participation/participants-faq"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A white robot arm inside a glass booth lit orange, with handwriting on the blue panels behind it",
+     "credit": "Photo: Paul&Albert",
+     "url": "https://ddw.nl/en/programme/art-tech-fun-ai-robots-manifestations-1",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A large sign in the Manifestations hall at VEEM reading Take a seat, you speak, we listen, with a seated visitor far back in the dark room",
+     "credit": "Source: Manifestations",
+     "url": "https://2026.manifestations.nl/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Slices of toast hanging on threads against dark blue velvet, each burnt with a sentence, among them I am annoyed by my mother and Jij mag blijven",
+     "credit": "Photo: Edwin Smits/Manifestations",
+     "url": "https://2026.manifestations.nl/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A wheeled mechanical sculpture with two red eyes and green limbs, lit in a dark hall at Manifestations 2025",
+     "credit": "Photo: Edwin Smits/Manifestations",
+     "url": "https://2026.manifestations.nl/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Five garment sculptures on figures in blue and violet light inside the Manifestations hall at VEEM in 2025",
+     "credit": "Photo: Edwin Smits/Manifestations",
+     "url": "https://2026.manifestations.nl/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: an Apollo-era control panel with grouped, labeled switches and lamps, each setting named on the panel",
+     "credit": "Photo: Steve Jurvetson, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Guidance_and_Navigation_Indicator_Control_Panel.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a worn control box with two toggle switches marked off, standby and on, a red indicator lamp and a knob",
+     "credit": "Photo: Shixart1985, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Vintage_electronic_device_control_panel_with_toggle_switches_and_indicator_light_in_close-up_detail.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The Veemgebouw on the former Philips Strijp complex in Eindhoven, seen from the side: a tall brown brick block with rounded corners and white bands between its rows of windows, against a blue sky, photographed in 2011",
+     "credit": "Photo: Edwin Oude Wesselink",
+     "url": "https://commons.wikimedia.org/wiki/File:Veemgebouw.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Two green figures with red caps holding rifles in the Manifestations hall at VEEM in 2025, a visitor walking past behind them",
+     "credit": "Source: Manifestations",
+     "url": "https://2026.manifestations.nl/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "A dark hall at Manifestations with lines of sparks falling in rows from a ring overhead, a silhouette standing among them",
+     "credit": "Source: Manifestations",
+     "url": "https://2026.manifestations.nl/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s68",
+   "date": "2026-10-18",
+   "id": "68",
+   "title": "Infinite Scroll",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, Infinite Scroll (also read at app-api.ddw.nl)",
+     "url": "https://ddw.nl/en/programme/infinite-scroll"
+    },
+    {
+     "label": "Tjep. studio website",
+     "url": "https://tjep.com"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A brass Infinite Scroll robot by Tjep.: a polished brass linkage with a large gear wheel holds a smartphone upright, and its stylus arm touches the glowing green screen",
+     "credit": "Photo: Tjep.",
+     "url": "https://ddw.nl/en/programme/infinite-scroll",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "One brass Valet from Infinite Scroll in the Theatrum Anatomicum of the Waag in Amsterdam, shot low from the side: the stylus arm reaches the phone screen, which shows a portrait",
+     "credit": "Photo: Tjep.",
+     "url": "https://www.tjep.com/art-public-space/infinite-scroll",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Six dark plinths in a row inside the wood-panelled Theatrum Anatomicum at the Waag, five of them each carrying one small Valet robot and its phone, the sixth set apart on the right",
+     "credit": "Photo: Tjep.",
+     "url": "https://www.tjep.com/art-public-space/infinite-scroll",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A stainless steel Valet in front of a black plinth holding a tablet-sized screen that shows the time, 13:24, with the stylus arm and gear linkage below it",
+     "credit": "Photo: Tjep.",
+     "url": "https://www.tjep.com/art-public-space/infinite-scroll",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Three Valets in steel, corten and brass on black and white plinths at Big Art in Rotterdam, each holding a phone showing a portrait",
+     "credit": "Photo: Tjep.",
+     "url": "https://www.tjep.com/art-public-space/infinite-scroll",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A corten steel Valet on a plinth at the Waag, its rusted gear linkage and phone lit from the side against the old wooden walls",
+     "credit": "Photo: Tjep.",
+     "url": "https://www.tjep.com/art-public-space/infinite-scroll",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The raised gold letters of the Tjep. studio sign catching low sun against a louvered metal facade",
+     "credit": "Photo: Tjep.",
+     "url": "https://www.tjep.com/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A 2025 exhibition at Kazerne in Eindhoven: pale cylindrical objects on a shelf beside the curved wooden arm of a chair, in warm side light",
+     "credit": "Photo: Cleo Goossens/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54901518076/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Three Valets on black plinths in a row at the Waag, steel, brass and corten, each holding a phone with a portrait",
+     "credit": "Photo: Tjep.",
+     "url": "https://www.tjep.com/art-public-space/infinite-scroll",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Five Valets in a row on black and white plinths in the concrete hall at Big Art in Rotterdam, each with a phone upright",
+     "credit": "Photo: Tjep.",
+     "url": "https://www.tjep.com/art-public-space/infinite-scroll",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s71",
+   "date": "2026-10-18",
+   "id": "71",
+   "title": "transparent.citizen",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, transparent.citizen",
+     "url": "https://ddw.nl/en/programme/transparentcitizen-1"
+    },
+    {
+     "label": "DDW highlights release, September 29, 2026",
+     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a single CCTV camera on a bracket seen from below against a brick facade and blue sky in Times Square, New York",
+     "credit": "Photo: Rishabh Varshney",
+     "url": "https://commons.wikimedia.org/wiki/File:Outdoor_cctv_(Unsplash).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a white-backed product shot of an Amazon Echo Dot smart speaker with its four buttons on top",
+     "credit": "Photo: Raimond Spekking",
+     "url": "https://commons.wikimedia.org/wiki/File:Amazon_Echo_Dot_(RS03QR)-0479.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a Garmin heart rate monitor watch on a wrist showing a time and a heart rate zone",
+     "credit": "Photo: U.S. Air Force",
+     "url": "https://commons.wikimedia.org/wiki/File:Garmin_heart_rate_monitor.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a Brother HL-1050 laser printer with sheets of paper lying in its output tray",
+     "credit": "Photo: Hubert Berberich",
+     "url": "https://commons.wikimedia.org/wiki/File:Brother_HL-1050_03.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a stack of perforated continuous printer paper folded in a block on a glass shelf, with the top fold rolling over",
+     "credit": "Photo: Agaath",
+     "url": "https://commons.wikimedia.org/wiki/File:Kettingpapier.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a white dome security camera on a red wall next to a round sign reading Security Cameras In Use",
+     "credit": "Photo: Myotus",
+     "url": "https://commons.wikimedia.org/wiki/File:Vandal_dome-style_security_camera_next_to_signage_on_exterior_of_Target_store.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: a brick house with white-framed windows and a birch tree at Hemelrijken 117 in Eindhoven, on the same street as the venue address",
+     "credit": "Photo: Alex P. Kok",
+     "url": "https://commons.wikimedia.org/wiki/File:Eindhoven,_Hemelrijken_117.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: the street Hemelrijken in Eindhoven with a long low brick building along the road",
+     "credit": "Photo: Rosemoon",
+     "url": "https://commons.wikimedia.org/wiki/File:GM0283_Hemelrijken_75a-f,_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a long aisle between tall racks of servers in a university data center",
+     "credit": "Photo: Christopher Bowns",
+     "url": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a close view of the edge of fan-fold continuous stationery with punched side holes and green stripes",
+     "credit": "Photo: Kungfuman",
+     "url": "https://commons.wikimedia.org/wiki/File:Endlospapier_fan-fold_paper.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s72",
+   "date": "2026-10-18",
+   "id": "72",
+   "title": "CYBERAWARE: AI Surveillance & Cybersecurity",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Dutch Design Week 2026 program listing: CYBERAWARE: AI Surveillance & Cybersecurity",
+     "url": "https://ddw.nl/en/programme/cyberaware-ai-surveillance-cybersecurity"
+    },
+    {
+     "label": "Vision For Xperiences, About (Kees Moolenaar's studio)",
+     "url": "https://vfx.productions/about"
+    },
+    {
+     "label": "European Commission, AI Act: regulatory framework for AI",
+     "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+    },
+    {
+     "label": "Regulation (EU) 2024/1689, AI Act, EUR-Lex (metadata only)",
+     "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Wide view of the CYBERAWARE installation in an exhibition hall: a black console on a wheeled cart facing a tall screen, with plants and other exhibits behind it",
+     "credit": "Source: Kees Moolenaar",
+     "url": "https://ddw.nl/en/programme/cyberaware-ai-surveillance-cybersecurity",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Two black 3D-printed CCTV camera housings seen from below, mounted on a white pole in front of a brick wall",
+     "credit": "Source: Kees Moolenaar",
+     "url": "https://www.keesmoolenaar.com/cyberaware",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Front view of the CYBERAWARE control console, a black 3D-printed panel lettered CYBERAWARE by Kees Moolenaar, with switches, dials and a button bar, and a dark screen behind it",
+     "credit": "Source: Kees Moolenaar",
+     "url": "https://ddw.nl/en/programme/cyberaware-ai-surveillance-cybersecurity",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Close view of a hand pressing the button bar on the black console, next to status lights and vents",
+     "credit": "Source: Kees Moolenaar",
+     "url": "https://ddw.nl/en/programme/cyberaware-ai-surveillance-cybersecurity",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: an Epson dot-matrix receipt printer on a shop counter with a printed receipt coming out of it",
+     "credit": "Photo: Dinkun Chen",
+     "url": "https://commons.wikimedia.org/wiki/File:EPSON_IMPACT_DOT_MATRIX_RECEIPT_PRINTER.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "The CYBERAWARE console seen from the side: a tilted black control panel on a wheeled steel cart with a rack of black equipment underneath and a tall screen to the right, in a bright hall",
+     "credit": "Source: Kees Moolenaar",
+     "url": "https://www.keesmoolenaar.com/cyberaware",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the HKU University of the Arts Utrecht building at Oudenoord seen across a road under a blue sky, a long cream and brick block with blue awnings",
+     "credit": "Photo: FaceMePLS",
+     "url": "https://commons.wikimedia.org/wiki/File:'Hogeschool_voor_de_Kunsten'_Oudenoord_Utrecht_(20519666915).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "The Veem building on the former Philips site at Strijp-S in Eindhoven, the building whose floor 8 hosts CYBERAWARE at Torenallee 100",
+     "credit": "Photo: Edwin Oude Wesselink",
+     "url": "https://commons.wikimedia.org/wiki/File:Veemgebouw_Eindhoven_Strijp.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "Close view of the lower part of the CYBERAWARE console, seen from the front: the button bar with its five tactile controls and icons, the status and power modules and the vents on the black 3D-printed panel",
+     "credit": "Source: Kees Moolenaar",
+     "url": "https://www.keesmoolenaar.com/cyberaware",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the empty plenary chamber of the European Parliament in Strasbourg, rows of blue seats rising to the back wall",
+     "credit": "Photo: Diliff",
+     "url": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a black Epson TM-T88VI receipt printer with its lid closed",
+     "credit": "Photo: TaurusEmerald",
+     "url": "https://commons.wikimedia.org/wiki/File:Epson_TM-T88VI_Receipt_Printer.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s73",
+   "date": "2026-10-18",
+   "id": "73",
+   "title": "CODE 2026: Terms of Intimacy",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Dutch Design Week 2026 program listing: CODE 2026: Terms of Intimacy",
+     "url": "https://ddw.nl/en/programme/code-2026-terms-of-intimacy"
+    },
+    {
+     "label": "CODE, IMPAKT Centre for Media Culture (project site)",
+     "url": "https://code.impakt.nl/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Close photograph of GODI, a translucent pink 3D-printed gadget with a glowing cyan display, wrapped in heavy steel chains",
+     "credit": "Source: IMPAKT",
+     "url": "https://code.impakt.nl/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Installation view of I'd prefer not to: a metal shelving frame with laptops, microphones and a vertical amber light tube, standing among dark curved panels in a gallery",
+     "credit": "Photo: Simon Pillaud",
+     "url": "https://ddw.nl/en/programme/code-2026-terms-of-intimacy",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Installation view of GODI: a white mosquito-net canopy hanging from a ring above the floor, with a small screen leaning against the wall beside it",
+     "credit": "Photo: Simon Pillaud",
+     "url": "https://ddw.nl/en/programme/code-2026-terms-of-intimacy",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Installation view of Passphrase cropped to the work itself: a microphone on a boom stand in front of a row of black posters on a white wall, between dark curved sound panels",
+     "credit": "Photo: Simon Pillaud",
+     "url": "https://ddw.nl/en/programme/code-2026-terms-of-intimacy",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Installation view of The Affirmation Machine: a person lying on a low bench under a shiny dark red quilted cover, face hidden, in a white gallery room",
+     "credit": "Photo: Simon Pillaud",
+     "url": "https://ddw.nl/en/programme/code-2026-terms-of-intimacy",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the CODE program booth from the 2023 edition, a black draped stand with a screen reading CODE and a line about artists and non-artists from Europe working together on projects about digital rights",
+     "credit": "Source: IMPAKT",
+     "url": "https://code.impakt.nl/",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Installation view of Algodance: a laptop on a white plinth, a wall panel covered in stickers and a pink screen, with a visitor seen from behind",
+     "credit": "Photo: Simon Pillaud",
+     "url": "https://ddw.nl/en/programme/code-2026-terms-of-intimacy",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "Illustrative photo: the junction of Ingenieur Kalffstraat and Torenallee in Eindhoven at Strijp-S, near the venue address (Torenallee 49)",
+     "credit": "Photo: Steven Lek",
+     "url": "https://commons.wikimedia.org/wiki/File:Ingenieur_Kalffstraat_Torenallee_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "Illustrative photo: the Torenallee in Eindhoven at Strijp-S, the street of the venue address",
+     "credit": "Photo: Steven Lek",
+     "url": "https://commons.wikimedia.org/wiki/File:Torenallee_4.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: an Amazon Echo Dot smart speaker next to a white coffee mug on a black surface, shot to show its size",
+     "credit": "Photo: Pittigrilli",
+     "url": "https://commons.wikimedia.org/wiki/File:Amazon_Echo_Dot_(virtual_digital_assistant)_with_normal_coffee_mug_as_size_comparison.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: an Amazon Echo smart speaker on a dark wooden table with a flashing red light ring",
+     "credit": "Photo: Smart Home Perfected",
+     "url": "https://commons.wikimedia.org/wiki/File:Alexa_Amazon_Echo_Smart_Speaker_-_Flashing_Red_Ring_(Creative_Commons)_(51048329348).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s74",
+   "date": "2026-10-18",
+   "id": "74",
+   "title": "RE:GISTER",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Dutch Design Week 2026 program listing: RE:GISTER",
+     "url": "https://ddw.nl/en/programme/register-1"
+    },
+    {
+     "label": "Dutch Design Week 2026, Mission Day: Equal Society",
+     "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-equal-society"
+    },
+    {
+     "label": "Gion Berlijn, About",
+     "url": "https://www.gionberlijn.com/About"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a large data center at Middenmeer in the Netherlands, green-grey halls beyond an empty road under a cloudy sky",
+     "credit": "Photo: Hay Kranen",
+     "url": "https://commons.wikimedia.org/wiki/File:Microsoft_Data_Center_Middenmeer,_the_Netherlands_-_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: an IBM 3279 terminal on a desk with green text on its curved CRT screen",
+     "credit": "Photo: Patrick Finnegan",
+     "url": "https://commons.wikimedia.org/wiki/File:IBM_3279-S3G.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: server racks behind a glass door in a locked room",
+     "credit": "Photo: Jemimus",
+     "url": "https://commons.wikimedia.org/wiki/File:HP_server_racks_behind_glass_-_IMG_3670.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The prototype of RE:GISTER shown at Waag Hyperlink 2026: a green-lit corner of a panelled room with an old CRT monitor on a stand above a glowing keyboard, and a second small CRT screen to the right",
+     "credit": "Photo: Gion Berlijn",
+     "url": "https://ddw.nl/en/programme/register-1",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: an empty walk-through body scanner at an airport security test site, a tall frame with a blue body silhouette and footprints on the floor",
+     "credit": "Photo: Raimond Spekking",
+     "url": "https://commons.wikimedia.org/wiki/File:NRW-Verkehrsminister_Hendrik_Wüst_-_Vorstellung_Easy_Security-6283.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a small black Alphacom 32 thermal printer with a paper roll under its clear cover",
+     "credit": "Photo: ccwoodcock",
+     "url": "https://commons.wikimedia.org/wiki/File:Alphacom_32_thermal_printer_(7101899885).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a red sign on a post beside a gravel path through green shrubs and tall trees at a state park, asking visitors to respect the privacy of cabin campers",
+     "credit": "Photo: RickObst",
+     "url": "https://commons.wikimedia.org/wiki/File:Respect_Privacy_sign_at_Cape_Lookout_State_Park.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "Illustrative photo: the Torenallee in Eindhoven at Strijp-S, the street of the venue address (Torenallee 49)",
+     "credit": "Photo: Steven Lek",
+     "url": "https://commons.wikimedia.org/wiki/File:Torenallee_Eindhoven_3.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "Illustrative photo: the Torenallee in Eindhoven, the street at Strijp-S where the venue sits",
+     "credit": "Photo: Steven Lek",
+     "url": "https://commons.wikimedia.org/wiki/File:Torenallee_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the pieces of a physically destroyed hard drive on a table",
+     "credit": "Photo: IT Liquidators",
+     "url": "https://commons.wikimedia.org/wiki/File:Destroyed_Hard_Drive.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a bunch of keys on a ring with a red pocket knife, on a grey background",
+     "credit": "Photo: Basile Morin",
+     "url": "https://commons.wikimedia.org/wiki/File:Key_ring.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s75",
+   "date": "2026-10-18",
+   "id": "75",
+   "title": "I am [not] a Robot",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Dutch Design Week 2026 program listing: I am [not] a Robot",
+     "url": "https://ddw.nl/en/programme/i-am-not-a-robot"
+    },
+    {
+     "label": "Maximilian Herzen, personal site",
+     "url": "https://maximilianherzen.com/"
+    },
+    {
+     "label": "Wikipedia: reCAPTCHA",
+     "url": "https://en.wikipedia.org/wiki/ReCAPTCHA"
+    },
+    {
+     "label": "DDW participants FAQ",
+     "url": "https://site.ddw.nl/en/participation/participants-faq"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Black-and-white close-up of the Enter key and the keys around it on an old beige computer keyboard, shot at a steep angle so the keys fade out of focus",
+     "credit": "Photo: Nils Krämer/Dutch Design Week",
+     "url": "https://ddw.nl/en/programme/i-am-not-a-robot",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Black-and-white photograph of hands resting on old keyboards on a dark table, with a white cable running toward the camera",
+     "credit": "Photo: Nils Krämer/Dutch Design Week",
+     "url": "https://ddw.nl/en/programme/i-am-not-a-robot",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a woman's hands typing on a laptop keyboard with a round alarm clock on the laptop beside them, seen from above",
+     "credit": "Photo: Shixart1985",
+     "url": "https://commons.wikimedia.org/wiki/File%3AHands_are_typing_on_a_laptop_keyboard_while_a_clock_rests_next_to_the_device.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a Sony CRT monitor in a dim hall showing a still image with white, warped lettering across it, two blurred figures at its sides, from Maximilian Herzen's installation photographs on the DDW listing",
+     "credit": "Photo: Nils Krämer/Dutch Design Week",
+     "url": "https://ddw.nl/en/programme/i-am-not-a-robot",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: an Internet Archive Scribe book scanner: a cradle that holds an open book under cameras, with a glass platen",
+     "credit": "Photo: Jason Scott",
+     "url": "https://commons.wikimedia.org/wiki/File%3AScribe_Book_Scanner.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Black-and-white wide photograph of a darkened round hall: two visitors seen from behind stand at a lit angular plinth, a screen with a faint line drawing hangs above them, and speakers on stands sit at the sides",
+     "credit": "Photo: Nils Krämer/Dutch Design Week",
+     "url": "https://ddw.nl/en/programme/i-am-not-a-robot",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a large former Philips factory building on Strijp-S, Eindhoven: a white concrete frame with rows of windows above an arcade of arched ground-floor shopfronts, one reading De Ontdekfabriek, under a blue sky",
+     "credit": "Photo: olafpictures",
+     "url": "https://commons.wikimedia.org/wiki/File%3ANetherlands_Office_Philips_Eindhoven_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a PR2 research robot with two white arms holding an open book up to its sensor head in an office",
+     "credit": "Photo: Troy Straszheim",
+     "url": "https://commons.wikimedia.org/wiki/File%3APR2_Robot_reads_the_Mythical_Man-Month_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a backlit laptop keyboard with fingers on the home keys",
+     "credit": "Photo: Colin",
+     "url": "https://commons.wikimedia.org/wiki/File%3ABacklit_keyboard.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s78",
+   "date": "2026-10-18",
+   "id": "78",
+   "title": "Slow & Small AI",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Dutch Design Week 2026 program listing: Slow & Small AI",
+     "url": "https://ddw.nl/en/programme/slow-small-ai"
+    },
+    {
+     "label": "Dutch Design Week 2026 location page: MU Hybrid Art House",
+     "url": "https://ddw.nl/en/locations/mu-hybrid-art-house"
+    },
+    {
+     "label": "Visual Methodologies Collective, homepage",
+     "url": "https://www.visualmethodologies.org"
+    },
+    {
+     "label": "DDW participants FAQ",
+     "url": "https://site.ddw.nl/en/participation/participants-faq"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a wide hall at MU Hybrid Art House with a long printed fabric scroll running across a concrete floor, wooden stools, a standing screen and a projected wall, set up for the Bio.Stories show during Dutch Design Week 2021",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/51628046563/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a person walking past large screens in a darkened MU Hybrid Art House gallery during Dutch Design Week 2021, one screen showing a hand and Japanese text",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/51627017287/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: long rows of black Frontier supercomputer cabinets under cable trays and yellow ducting in a large machine hall at Oak Ridge National Laboratory",
+     "credit": "Photo: Oak Ridge National Lab",
+     "url": "https://commons.wikimedia.org/wiki/File%3AFrontier_supercomputer_%2810%29.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a visitor in a ginger-yellow jacket holding open a large printed book of black-and-white pictures on a table, with small cards beside it, at MU Hybrid Art House during Dutch Design Week 2021",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/51628699850/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A pale, ghostly figure of folds of white cloth, with an animal-like head, projected onto a dark brick wall",
+     "credit": "Photo: Broersen & Lukács/DDW",
+     "url": "https://ddw.nl/en/programme/slow-small-ai",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a tilted close view down the front of a wooden library card catalog: rows of small drawers with brass pulls and label holders, some holding white cards",
+     "credit": "Photo: TBurmeister (WMF)",
+     "url": "https://commons.wikimedia.org/wiki/File%3ACard_catalog_at_the_Indiana_State_Library_-_cabinet_exterior.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A long LED wall running down a darkened exhibition hall at MU Hybrid Art House, visitors standing at the far end, during Dutch Design Week 2021",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/51628062698/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: folded textile samples with dyed patterns lying in a carved dip of an oak table beside a small printed card, in the Bio.Stories show at MU Hybrid Art House during Dutch Design Week 2021",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/51627828336/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a black Frontier supercomputer cabinet printed with a night-sky pattern and the machine's name, at Oak Ridge National Laboratory",
+     "credit": "Photo: Oak Ridge National Lab",
+     "url": "https://commons.wikimedia.org/wiki/File%3AFrontier_supercomputer_%286%29.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s79",
+   "date": "2026-10-18",
+   "id": "79",
+   "title": "Het Nationaal Design Debat",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Dutch Design Week 2026 program listing: Het Nationaal Design Debat",
+     "url": "https://ddw.nl/en/programme/het-nationaal-design-debat"
+    },
+    {
+     "label": "Dutch Design Week, press release: These are the highlights of Dutch Design Week 2026 (September 29, 2026)",
+     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+    },
+    {
+     "label": "Wikipedia: Evoluon",
+     "url": "https://en.wikipedia.org/wiki/Evoluon"
+    },
+    {
+     "label": "Next Nature Museum, museum page",
+     "url": "https://nextnature.org/museum"
+    },
+    {
+     "label": "Waag Futurelab, homepage",
+     "url": "https://waag.org/en/"
+    },
+    {
+     "label": "DDW participants FAQ",
+     "url": "https://site.ddw.nl/en/participation/participants-faq"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Evoluon in Eindhoven, the round, flying-saucer-shaped former Philips exhibition building, seen from a lawn with the lattice mast beside it",
+     "credit": "Photo: Zairon",
+     "url": "https://commons.wikimedia.org/wiki/File%3AEindhoven_Evoluon_06.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: the Evoluon beside its pond, the flying-saucer building with fountains and the lattice mast on a sunny day",
+     "credit": "Photo: Zairon",
+     "url": "https://commons.wikimedia.org/wiki/File%3AEindhoven_Evoluon_03.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the hemicycle of the European Parliament seen from a high balcony: curving rows of dark blue seats and desks around the central floor, almost empty, photographed in June 2025",
+     "credit": "Photo: Elekes Andor, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:European_Parliament_(20).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: the white-domed Evoluon and its lattice mast seen across a lawn under a blue sky",
+     "credit": "Photo: Hein56didden",
+     "url": "https://commons.wikimedia.org/wiki/File%3AEvoluon_te_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the entrepreneurs' lounge atrium inside the Evoluon in Eindhoven, with tall timber-clad columns branching into a wooden ceiling above open work tables, photographed in 2016",
+     "credit": "Photo: Cmglee, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Cmglee_Evoluon_lounge.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the shaded terrace under the Evoluon's concrete saucer at dusk, with a heavy concrete support on the right and a glass pavilion behind",
+     "credit": "Photo: Cmglee",
+     "url": "https://commons.wikimedia.org/wiki/File%3ACmglee_Evoluon_under_restaurant.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The Evoluon's name in large letters on a concrete sign under the saucer-shaped building's V-shaped supports, on a sunny day",
+     "credit": "Photo: Zairon",
+     "url": "https://commons.wikimedia.org/wiki/File%3AEindhoven_Evoluon_13.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the ribbed underside of the Evoluon's saucer above a glass-walled hall with a red sign",
+     "credit": "Photo: Zairon",
+     "url": "https://commons.wikimedia.org/wiki/File%3AEindhoven_Evoluon_10.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "De Waag, the medieval weigh house on Nieuwmarkt in Amsterdam, with its three pointed towers and a terrace of parasols in front",
+     "credit": "Photo: Gouwenaar",
+     "url": "https://commons.wikimedia.org/wiki/File%3ADe_Waag_Nieuwmarkt_Amsterdam.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s80",
+   "date": "2026-10-18",
+   "id": "80",
+   "title": "From Policy to Action: Putting Europe's Cultural and Creative Industries at the heart of innovation",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Dutch Design Week 2026 program listing: From Policy to Action (ekip final event)",
+     "url": "https://ddw.nl/en/programme/ekip-the-european-cultural-and-creative-industries-innovation-policy-platform-the-final-event-from-policy-to-action"
+    },
+    {
+     "label": "Dutch Design Week 2026, Mission Day: Equal Society",
+     "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-equal-society"
+    },
+    {
+     "label": "ekip, About us",
+     "url": "https://ekipengine.eu/about-us/"
+    },
+    {
+     "label": "DDW participants FAQ",
+     "url": "https://site.ddw.nl/en/participation/participants-faq"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Wide view from above of the Natlab Main Stage during the 2025 Dutch Design Week Mission Days: a panel on stools in front of a large screen, with round tables of people filling the floor",
+     "credit": "Photo: Nick Bookelaar/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54915526072/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A table at an ekip event with a plush Highland cow in a tartan scarf, an ekip-branded red water bottle, takeaway cups and printed leaflets",
+     "credit": "Source: ekip",
+     "url": "https://ekipengine.eu/a-model-that-works-what-the-ekip-academy-showed-about-building-innovation-ecosystems/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Close-up of the ekip logo, a white lotus-like flower and the words 'European Cultural and Creative Industries Innovation Policy Platform', printed on orange fabric at an ekip event",
+     "credit": "Source: ekip",
+     "url": "https://ekipengine.eu/a-model-that-works-what-the-ekip-academy-showed-about-building-innovation-ecosystems/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: an empty conference room in Finlandia Hall, Helsinki, designed by Alvar Aalto, with rows of chairs and desks facing the front under a high white ceiling",
+     "credit": "Photo: WanderingTrad, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Finlandia_Hall_conference_room.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the Luna building, a tall grey-and-white tower block on the Eindhoven University of Technology campus, seen from above with trees and a low domed hall below",
+     "credit": "Photo: A. C. Santacruz",
+     "url": "https://commons.wikimedia.org/wiki/File%3ALuna_Eindhoven_Cropped.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a row of EU flags on tall poles in front of the curved glass facade of the Berlaymont building in Brussels, the seat of the European Commission",
+     "credit": "Photo: almathias",
+     "url": "https://commons.wikimedia.org/wiki/File%3ABerlaymont_building_in_Brussels.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The brick Natlab building in Strijp-S, Eindhoven, with a book bus and visitors sitting on a block in the paved yard in front of its entrance",
+     "credit": "Photo: Spoorzone Eindhoven",
+     "url": "https://commons.wikimedia.org/wiki/File%3AActiviteiten_rondom_NatLab.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a cinema-style room with red walls filled with an audience, seen through a dark doorway, at the Natlab during the 2025 Dutch Design Week Mission Days",
+     "credit": "Photo: Nick Bookelaar/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54916604108/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the empty stage of the Singapore Conference Hall set up with chairs and music stands before a concert, under rows of stage lights and a wooden ceiling",
+     "credit": "Photo: ZKang123, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Singapore_Conference_Hall_interior_(SCO_Rhapsody_in_Spring)_20240127_213234.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s100",
+   "date": "2026-10-18",
+   "id": "100",
+   "title": "Blind Spots: who is safety built for?",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, Blind Spots: A Speculative Care Infrastructure",
+     "url": "https://ddw.nl/en/programme/blind-spots-a-speculative-care-infrastructure"
+    },
+    {
+     "label": "DDW press release, September 8, 2026",
+     "url": "https://ddw.nl/en/press/press-releases/large-scale-designs-take-over-eindhoven-during-dutch-design-week-2026"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a dark brick wall studded with rows of white CCTV cameras all pointing the same way, cropped above two figures standing at its foot",
+     "credit": "Photo: Matthew Henry, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Women_look_at_security_cameras_(Unsplash).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a folded, origami-style wearable object, half blue and half orange, on a plinth with a small caption card, shown at ENGAGE Rotterdam in 2025",
+     "credit": "Source: shruthivenkat.com",
+     "url": "https://www.shruthivenkat.com/woven-streets",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a single white CCTV camera on a pole beside the balconies of a brick apartment building in London",
+     "credit": "Photo: Acabashi, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Sclater_Street_Cygnet_Street_apartments_Brick_Lane_Tower_Hamlets_London_E1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: green polyethylene safety netting stretched over the scaffolding of a high-rise under construction, with nets overlapping and torn at the edges",
+     "credit": "Photo: Marek Ślusarczyk, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:11_Scaffolding_safety_plastic_net_-_polyethylene_material_nets_at_construction_site_in_Makati_Manila.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: dozens of colourful paper strips with handwritten wishes hang from a bamboo branch at a Tanabata festival in Japan",
+     "credit": "Photo: Joe deSousa, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Wishes_on_small_pieces_of_paper_hung_on_during_Tanabata_festival;_2014.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a public square at dusk in Vieux-Québec with tall street lamps, benches under trees and small groups of people sitting and walking",
+     "credit": "Photo: Wilfredor, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Square_with_lamps_and_benches_at_dusk,_Vieux-Québec.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the council chamber of Glasgow City Chambers, with curved rows of benches, a carved dais and a large chandelier",
+     "credit": "Photo: Michael D Beckwith, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Glasgow_City_Chambers_The_Council_Chamber.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the Ketelhuisplein square on Strijp-S during Dutch Design Week 2017, with striped flags, exhibition pavilions and a visitor walking away from the camera",
+     "credit": "Photo: Ymnes, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:DDW2017_-_Ketelhuisplein_02.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a heavy yellow and orange concrete barrier on a paved footpath beside a glass-fronted building",
+     "credit": "Photo: Santeri Viinamäki, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Concrete_barrier_20180625.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: an empty, brightly lit pedestrian underpass with painted walls at night in Lahti, Finland",
+     "credit": "Photo: JIP, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Mannerheiminkatu_underpass_in_Lahti_on_a_June_night.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s101",
+   "date": "2026-10-18",
+   "id": "101",
+   "title": "art-ai-fact: who is the author of an object a person and an AI make together?",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [
+    {
+     "label": "U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2: Copyrightability (January 2025)",
+     "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "DDW program listing, art-ai-fact",
+     "url": "https://ddw.nl/en/programme/art-ai-fact"
+    },
+    {
+     "label": "Aalto University, art-ai-fact project page",
+     "url": "https://www.aalto.fi/en/research-art/art-ai-fact"
+    },
+    {
+     "label": "DDW highlights release, September 29, 2026",
+     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A wooden-frame scale model of a two-storey building with an open stair and a concrete roof slab, on a concrete base against a pale wall: the CRAFT BOT model shown on the art-ai-fact listing",
+     "credit": "Source: Aalto University",
+     "url": "https://ddw.nl/en/programme/art-ai-fact",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Close-up of the neckline of a brown knitted garment with a ribbed collar and a leaf-like pattern worked into the knit, on a pale blue ground: a detail of the Shipwreck Dress on the art-ai-fact listing, made from 17th century shipwreck material with the help of AI-assisted design",
+     "credit": "Photo: Esa Kapila/Aalto University",
+     "url": "https://ddw.nl/en/programme/art-ai-fact",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: dozens of lit, flower-shaped pink and white lamps hang from a dark ceiling while a few visitors, seen as silhouettes, photograph them: Aalto's Evolumination installation at Dutch Design Week 2023, the header image of the art-ai-fact page",
+     "credit": "Source: Aalto University",
+     "url": "https://www.aalto.fi/en/research-art/art-ai-fact",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A flat lay on a brown ground: a weathered timber plank, a knitted garment, a cone of tan yarn, tufts of fiber and a bowl of fine powder, the materials of the Shipwreck Dress on the art-ai-fact listing",
+     "credit": "Photo: Esa Kapila/Aalto University",
+     "url": "https://ddw.nl/en/programme/art-ai-fact",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Tall stacks of rough-sawn timber planks of different species, each with its own grain and bark edge, stored outdoors under a cloudy sky: the stack of timber pictured on Aalto's project page for AI-assisted joints for diverse wood species",
+     "credit": "Photo: Maria Larsson",
+     "url": "https://www.aalto.fi/en/research-art/when-tree-types-matter-ai-assisted-joint-design-for-diverse-wood-species",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a pair of Fiskars scissors with orange handles on a white ground",
+     "credit": "Photo: Evan-amos, Public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Fiskars-scissors.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "White seamless-knit garments in sculptural shapes hang among rows of white tubes in strong window light: the Textile Design Meets AI installation credited to Mikko Raskinen on the art-ai-fact listing",
+     "credit": "Photo: Mikko Raskinen/Aalto University",
+     "url": "https://ddw.nl/en/programme/art-ai-fact",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a purple display shelf of small objects and a white wall of the Dutch Circular Design hall inside the Klokgebouw on Strijp-S during Dutch Design Week 2024, with one visitor seen from the side",
+     "credit": "Photo: Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54135271414/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a white 3D-printed chair whose back and legs are looping lines, lit against a dark museum wall",
+     "credit": "Photo: Jl FilpoC, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Front,_Acron_Formservice_AB.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: the impressed maker's mark and number on the unglazed base of a ceramic ball vase",
+     "credit": "Photo: Dreamyshade, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Stangl_Pottery_ball_vase_stamp.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s102",
+   "date": "2026-10-18",
+   "id": "102",
+   "title": "Design & AI: Many (Re)Turns",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, Design & AI: Many (Re)Turns",
+     "url": "https://ddw.nl/en/programme/design-ai-many-returns"
+    },
+    {
+     "label": "Dezeen, Rima Sabina Aouf, February 2, 2026, Vera van der Burg From Text-to-Clay",
+     "url": "https://www.dezeen.com/2026/02/02/vera-van-der-burg-ai-ceramics-text-to-clay/"
+    },
+    {
+     "label": "DDW highlights release, September 29, 2026",
+     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Seven hand-built ceramic sculptures in blue, white, cream, red and yellow on a dark table in front of a brick and concrete wall: Vera van der Burg's From Text-to-Clay, the project behind Inside Text-to-Clay in the show, built by hand from pictures an image model produced",
+     "credit": "Source: Dezeen",
+     "url": "https://www.dezeen.com/2026/02/02/vera-van-der-burg-ai-ceramics-text-to-clay/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A tall hand-built ceramic sculpture of stacked, looping hollow rings in grey glaze stands on a concrete floor before a brick wall, throwing a hard shadow: a work from Vera van der Burg's From Text-to-Clay, built by hand from pictures an image model produced",
+     "credit": "Source: Dezeen",
+     "url": "https://www.dezeen.com/2026/02/02/vera-van-der-burg-ai-ceramics-text-to-clay/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Two tall hand-built ceramic sculptures with openwork, chair-like forms in brown and pink glaze stand on pale blocks against a brick wall: a work from Vera van der Burg's From Text-to-Clay, one of the projects in the show",
+     "credit": "Source: Dezeen",
+     "url": "https://www.dezeen.com/2026/02/02/vera-van-der-burg-ai-ceramics-text-to-clay/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A blue-glazed ceramic sculpture of twisting, looping bands of clay on a concrete floor in hard light, from Vera van der Burg's From Text-to-Clay",
+     "credit": "Source: Dezeen",
+     "url": "https://www.dezeen.com/2026/02/02/vera-van-der-burg-ai-ceramics-text-to-clay/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A person's hands, face out of frame, hold a glossy red handheld object with a small screen, a keypad and sculpted channels along its body: a prototype image from Sam Theelen's Uncertainty in the Studio, a project in the show",
+     "credit": "Source: Dutch Design Week",
+     "url": "https://ddw.nl/en/programme/uncertainty-in-the-studio",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A woman at a clay table in a large studio, building a sculpture, in front of walls covered with grids of printed pictures and yellow sticky notes: Vera van der Burg, one of the two participants named on the slide, at work on From Text-to-Clay",
+     "credit": "Source: Material District",
+     "url": "https://materialdistrict.com/article/ai-as-reflective-material-bridging-digital-design-and-ceramic-craft/",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A cream, unglazed ceramic sculpture of thin branching loops rising from a curled base stands on a concrete floor before a brick wall, its shadow cast to the left: a work from Vera van der Burg's From Text-to-Clay, a project in the Design & AI show",
+     "credit": "Source: Dezeen",
+     "url": "https://www.dezeen.com/2026/02/02/vera-van-der-burg-ai-ceramics-text-to-clay/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The grey concrete SFF office tower on Strijp-S in Eindhoven, with a red Bosch sign near the top, seen from a car park on a sunny day in 2019",
+     "credit": "Photo: Choinowski, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:SFF-gebouw_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Two hand-built ceramic sculptures in pale pink and cream glaze with curling edges and cut-out openings lie on a concrete floor before a brick wall: work from Vera van der Burg's From Text-to-Clay",
+     "credit": "Source: Dezeen",
+     "url": "https://www.dezeen.com/2026/02/02/vera-van-der-burg-ai-ceramics-text-to-clay/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "A full-size motorcycle prototype with a bare front fork and a body of dark, wrapped and sculpted panels stands on a kickstand beside a brick wall at dusk, lit from within at the back: an image from the listing of Sam Theelen's Uncertainty in the Studio, whose third project lets an algorithm decide the form of a motorcycle",
+     "credit": "Source: Dutch Design Week",
+     "url": "https://ddw.nl/en/programme/uncertainty-in-the-studio",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s103",
+   "date": "2026-10-18",
+   "id": "103",
+   "title": "Optimal Intelligence: if you built a chatbot, which dial would you turn first?",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, Optimal Intelligence",
+     "url": "https://ddw.nl/en/programme/optimal-intelligence"
+    },
+    {
+     "label": "The Social Path website",
+     "url": "https://the-social-path.nl"
+    },
+    {
+     "label": "NOW SHOW Class of 2026, Optimal Intelligence project page",
+     "url": "https://www.nowshow.nl/class-of-2026/optimal-intelligence/"
+    },
+    {
+     "label": "Young Graduates HUB location page",
+     "url": "https://ddw.nl/en/locations/young-graduates-hub-ddw-x-design-perron"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A wooden wedge-shaped console on a stand with a glowing display and a row of three dials, set inside a clear tube lined with orange fabric: the control point of Optimal Intelligence by Jelte Burggraaf",
+     "credit": "Source: NOW SHOW, St. Joost",
+     "url": "https://www.nowshow.nl/class-of-2026/optimal-intelligence/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Two tall clear cylinders hung with orange fabric stand on round wooden bases in a bright hall with a wall covered in drawings; each holds a small console on a stand",
+     "credit": "Source: NOW SHOW, St. Joost",
+     "url": "https://www.nowshow.nl/class-of-2026/optimal-intelligence/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: glass pipettes and test tubes standing in a laboratory, lit against a blue rack",
+     "credit": "Photo: Sarka Na kopci, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Test_tubes_in_a_laboratory.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: the panel of a 1975 synthesizer with rows of dials, buttons and a meter above a keyboard",
+     "credit": "Photo: Jorge Royan, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Berlin-_Musical_instruments_synthesizer_1975_-_4065.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a white robot head with a smooth, human-shaped face and a small screen on its chest, at a maker fair in Berlin",
+     "credit": "Photo: Matti Blume, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Maker_Faire,_Berlin_(BL7C0046).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a hand holding a smartphone against a blue textile, the screen showing a social media post",
+     "credit": "Photo: Mictlancihuatl, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hand_holding_Smartphone.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: Kennedyplein in Eindhoven in March 2025, a wide red-paved street between glass office buildings with a cyclist on the left",
+     "credit": "Photo: Smiley.toerist, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Kennedyplein_Eindhoven_2025.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the front of Eindhoven Centraal station seen across an empty square under a partly cloudy sky, with a tower block behind it",
+     "credit": "Photo: Sneeuwvlakte, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Station_Eindhoven_Centraal_(2024).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a close view of red and black dials with white indicator lines on an instrument panel, labelled with settings such as attack and decay",
+     "credit": "Photo: David J, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Clavia_Nord_Rack_2_knobs_(by_David_J).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s121",
+   "date": "2026-10-18",
+   "id": "121",
+   "title": "Ai, Ai, Ai: Slopject & Squishies",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, Ai, Ai, Ai: Slopject & Squishies",
+     "url": "https://ddw.nl/en/programme/ai-ai-ai-slopject-squishies"
+    },
+    {
+     "label": "The Hmm website",
+     "url": "https://www.thehmm.nl"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: three tall screens blurring past a slot-machine display marked MACHINES, mounted on a pale sculptural frame in front of a window",
+     "credit": "Photo: Maria Mombers",
+     "url": "https://mariamombers.nl/you-may-also-like",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a black seat facing a stack of three screens on a silver platform in a bright room with tall windows",
+     "credit": "Photo: Maria Mombers",
+     "url": "https://mariamombers.nl/you-may-also-like",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a silver game token with a stamped design, photographed up close",
+     "credit": "Photo: Mark Morgan",
+     "url": "https://commons.wikimedia.org/wiki/File:Game_Token_(no_cash_value_silver)_(5645627811).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a row of capsule toy machines with round coin slots and turn dials",
+     "credit": "Photo: Ka23 13",
+     "url": "https://commons.wikimedia.org/wiki/File:Capsule_toy_machine_20211229_142535.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a small tan capybara squishy toy sitting on a mint-green fleece blanket",
+     "credit": "Photo: WASMP",
+     "url": "https://commons.wikimedia.org/wiki/File:Capybara_squishy.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a blue-haired cartoon avatar waving from the middle of three screens in Maria Mombers's installation You May Also Like",
+     "credit": "Photo: Maria Mombers",
+     "url": "https://mariamombers.nl/you-may-also-like",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the side of a pale sculptural machine with a back-mounted screen and a column of prize tiers numbered 80, 60, 40 and 30",
+     "credit": "Photo: Maria Mombers",
+     "url": "https://mariamombers.nl/you-may-also-like",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A hall inside MU Hybrid Art House in Eindhoven, dark concrete columns and a pipe ceiling lit by a single blue neon line looping across the floor, photographed during a 2022 exhibition",
+     "credit": "Photo: Anouk van den Brink",
+     "url": "https://commons.wikimedia.org/wiki/File:Spiraling_into_Infinity_in_MU_Hybrid_Art_House.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a server rack seen from the back, rows of units wired with green and black cables in the dark",
+     "credit": "Photo: Abigor",
+     "url": "https://commons.wikimedia.org/wiki/File:Servers_in_a_Rack.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a hand holding a smartphone with a lit screen",
+     "credit": "Photo: NeONBRAND",
+     "url": "https://commons.wikimedia.org/wiki/File:Smartphone_in_Hand_(Unsplash).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s122",
+   "date": "2026-10-18",
+   "id": "122",
+   "title": "The Hornet Trap: Designing for Living Systems",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, The Hornet Trap: Designing for Living Systems",
+     "url": "https://ddw.nl/en/programme/the-hornet-trap-designing-for-living-systems"
+    },
+    {
+     "label": "Stichting Arvespa website",
+     "url": "https://arvespa.org"
+    },
+    {
+     "label": "VespaSmartTrap-BASE repository README",
+     "url": "https://github.com/aggerritsen/VespaSmartTrap-BASE"
+    },
+    {
+     "label": "DDW Mission Day Digital Futures",
+     "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-digital-futures"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Vespa Smart Trap prototype standing on bare soil among weeds in sunlight: a smoked-brown housing with a clear front panel showing a glass trap jar and funnel inside",
+     "credit": "Photo: Arvespa.org",
+     "url": "https://github.com/aggerritsen/VespaSmartTrap-BASE/blob/main/3D/Trap01.jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A yellow-legged hornet (Vespa velutina, also called the Asian hornet) feeding on a white flower head, showing its dark body, yellow-orange band and yellow lower legs",
+     "credit": "Photo: Gilles San Martin",
+     "url": "https://commons.wikimedia.org/wiki/File:Asian_hornet_(33283876513)_(2).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Front of the Vespa Smart Trap prototype on a plywood bench: a dark housing with a clear panel, the camera and actuator housing behind it, a funnel path and a small solar panel on top",
+     "credit": "Photo: Arvespa.org",
+     "url": "https://github.com/aggerritsen/VespaSmartTrap-BASE/blob/main/3D/Trap02.jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The electronics of the Vespa Smart Trap on a desk: a modem board, a motor driver and a Grove Vision AI camera module joined by a green circuit board and colored cables",
+     "credit": "Photo: Arvespa.org",
+     "url": "https://github.com/aggerritsen/VespaSmartTrap-BASE/blob/main/docs/Media.jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Two Vespa Smart Trap BASE prototypes side by side on a pale studio ground, one closed and one with its front open to show the funnel and the jar",
+     "credit": "Photo: Arvespa.org",
+     "url": "https://arvespa.org/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "The inside of the Vespa Smart Trap prototype seen through its clear side: a white funnel leading down to a jar, with the camera mount above",
+     "credit": "Photo: Arvespa.org",
+     "url": "https://github.com/aggerritsen/VespaSmartTrap-BASE/blob/main/3D/Trap03.jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The Innovation Powerhouse in Eindhoven from the street: a former power plant with two tall brick chimneys, a yellow upper block and a brick base, under a blue sky",
+     "credit": "Photo: Steven Lek",
+     "url": "https://commons.wikimedia.org/wiki/File:Innovation_Powerhouse_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The Vespa Smart Trap prototype standing on a table with a circled inset of the camera and circuit board that does the recognizing",
+     "credit": "Photo: Arvespa.org",
+     "url": "https://arvespa.org/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a beekeeper in a veiled hat crouching beside two hives on a grassy slope, watching for hornets",
+     "credit": "Photo: Copyleft",
+     "url": "https://commons.wikimedia.org/wiki/File:Ruches_avec_un_apiculteur_en_embuscade_contre_les_frelons.JPG",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s124",
+   "date": "2026-10-18",
+   "id": "124",
+   "title": "Programma Duurzame Cultuursector",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, Programma Duurzame Cultuursector",
+     "url": "https://ddw.nl/en/programme/programma-duurzame-cultuursector"
+    },
+    {
+     "label": "Kunsten '92 home page",
+     "url": "https://www.kunsten92.nl"
+    },
+    {
+     "label": "Programma Duurzame Cultuursector, survey post on the Climate Handprint, May 6, 2026",
+     "url": "https://duurzamecultuursector.nl/blog/enquete-klimaathandafdruk-culturele-en-creatieve-sector/"
+    },
+    {
+     "label": "Programma Duurzame Cultuursector, agenda page for the DDW workshop",
+     "url": "https://duurzamecultuursector.nl/agenda/workshop-klimaathandafdruk-op-dutch-design-week/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a single bare human footprint pressed into damp sand with bits of seaweed around it",
+     "credit": "Photo: Kritzolina",
+     "url": "https://commons.wikimedia.org/wiki/File:Human_footprint.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a white all-electric MAN lorry with an orchestra's banner parked on a cobbled street in a Dutch town",
+     "credit": "Source: Duurzame Cultuursector",
+     "url": "https://duurzamecultuursector.nl/kennisbank/handreiking-elektrisch-transport-tourende-organisaties-volgeladen-op-pad/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a white painted handprint on a gray concrete wall",
+     "credit": "Photo: Kent Madsen",
+     "url": "https://commons.wikimedia.org/wiki/File:White_handprint_on_a_concrete_wall.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The Hoftoren in The Hague, a tall glass tower with a white crown, labeled on Commons as the Ministry of Education, Culture and Science building",
+     "credit": "Photo: Joris van Rooden",
+     "url": "https://commons.wikimedia.org/wiki/File:Ministerie_OCW.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the main hall of Muziekgebouw Eindhoven seen from above, an orchestra on the stage and a full audience around it",
+     "credit": "Photo: Muziekgebouw Eindhoven",
+     "url": "https://commons.wikimedia.org/wiki/File:Grote_Zaal_Muziekgebouw_Eindhoven_door_Bram_Saeys.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: an electric lorry plugged into a charging unit inside a loading bay",
+     "credit": "Source: Duurzame Cultuursector",
+     "url": "https://duurzamecultuursector.nl/kennisbank/handreiking-elektrisch-transport-podia-iedere-zaal-een-laadpaal/",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "The tower at Stationsweg 1 in Eindhoven, the building of The Social Hub Eindhoven (formerly The Student Hotel), under a blue sky with clouds",
+     "credit": "Photo: FaceMePLS",
+     "url": "https://commons.wikimedia.org/wiki/File:The_Student_Hotel_-_Stationsweg_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "The Social Hub Eindhoven tower on Stationsweg seen across the street in clear blue sky, with Eindhoven station buildings at its left",
+     "credit": "Photo: Jan Geerling",
+     "url": "https://commons.wikimedia.org/wiki/File:Stationsweg,_The_Student_Hotel_toren_Eindhoven_-_Centrum_1803-001b.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a green retractable tape measure with the yellow tape pulled out and numbered",
+     "credit": "Photo: Evan-Amos",
+     "url": "https://commons.wikimedia.org/wiki/File:Measuring-tape.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a hand holding a magnifying glass over a green postage stamp on a page of stamps",
+     "credit": "Photo: Heptagon",
+     "url": "https://commons.wikimedia.org/wiki/File:Magnifying_glass2.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s129",
+   "date": "2026-10-18",
+   "id": "129",
+   "title": "Between Lights",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW program listing, Between Lights",
+     "url": "https://ddw.nl/en/programme/between-lights"
+    },
+    {
+     "label": "U.S. Department of Energy, Organic Photovoltaics Research",
+     "url": "https://www.energy.gov/eere/solar/organic-photovoltaics-research"
+    },
+    {
+     "label": "DDW highlights release, September 29, 2026",
+     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: rooftop solar panels covering part of a pitched roof on a two-storey house with a lawn in front",
+     "credit": "Photo: Gray Watson",
+     "url": "https://commons.wikimedia.org/wiki/File:Solar_panels_on_house_roof.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a stainless-steel solar garden light on a short post with its small solar cell on top, standing among leaves",
+     "credit": "Photo: Leon Brooks",
+     "url": "https://commons.wikimedia.org/wiki/File:Solar_garden_light.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a close view of building-integrated photovoltaic glass, a pane covered in a fine dot pattern with the room and sky showing through",
+     "credit": "Photo: Traparker",
+     "url": "https://commons.wikimedia.org/wiki/File:BIPV_glass.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: gloved hands holding a flexible organic photovoltaic sheet, curved so the printed silver stripes catch the light",
+     "credit": "Photo: FreudianCritz",
+     "url": "https://commons.wikimedia.org/wiki/File:OPV_slot-die.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a leaded window glowing with warm light from inside a house at night",
+     "credit": "Photo: Acabashi",
+     "url": "https://commons.wikimedia.org/wiki/File:Cottage_lit_window_at_night_in_Nuthurst,_West_Sussex_England.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a microscope view of the pointed tip of a Canadian pondweed leaf, its cells packed with green chloroplasts along a central vein, against a black background",
+     "credit": "Photo: KarlGaff, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Canadian_Pond_Weed_Leaf_Tip.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The Klokgebouw at Strijp-S in Eindhoven under a blue sky: a white former Philips factory block with a clock tower",
+     "credit": "Photo: Steven Lek",
+     "url": "https://commons.wikimedia.org/wiki/File:Klokgebouw_Philips_Strijp-S_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a studio photo of supercapacitor cells and battery-style modules in black and silver cases",
+     "credit": "Photo: Sechsa",
+     "url": "https://commons.wikimedia.org/wiki/File:Supercapacitor_-_ultracapacitor_products_of_SECH_SA.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a white house with blue solar panels mounted on its facade and roof among shrubs",
+     "credit": "Photo: PaulAsimov",
+     "url": "https://commons.wikimedia.org/wiki/File:Fassadensolar_eines_Wohnhauses.jpg",
+     "card": false
+    }
+   ]
+  }
+ ]
+}

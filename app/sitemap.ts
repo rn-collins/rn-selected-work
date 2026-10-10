@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { projects } from "../lib/portfolio";
 import { publicBuilds } from "../lib/public-builds";
 import { postedSoFar } from "../lib/aan-sources";
+import { accounts, listed } from "../lib/sources";
 
 export const revalidate = 86400;
 
@@ -30,5 +31,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/advisory/aloha-intelligence-institute`, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/sources`, changeFrequency: "daily", priority: 0.6 },
     ...postedSoFar().map((p) => ({ url: `${base}/sources/${p.slug}`, changeFrequency: "monthly" as const, priority: 0.4 })),
+    ...accounts.flatMap((a) => [
+      { url: `${base}/sources/${a.key}`, changeFrequency: "daily" as const, priority: 0.5 },
+      ...listed(a).map((p) => ({ url: `${base}/sources/${a.key}/${p.slug}`, changeFrequency: "monthly" as const, priority: 0.4 })),
+    ]),
   ];
 }

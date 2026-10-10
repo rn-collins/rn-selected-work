@@ -98,3 +98,13 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] Site tagline changed from "Find the break. Choose the form." to "Find the gap. Build what is missing." (footer, Culturalyst conversation page; the Culturalyst invitation reads "Understand the gap. Then build what is missing.").
 - [ ] Extend the export to January to March 2027 posts once those packages are proofed.
 - [x] Sources pages carry `rn:kind="reference"` and `rn:entries`; the estate check judges them on completeness (every entry rendered, no empty section, links resolve) instead of the 400-word floor. Checked locally: /sources, /sources/oct-08 and /sources/oct-09 pass with 0 blocker, 0 major.
+
+## RN Collins sources pages (one account per package family)
+
+- [x] `/sources/<account>/<slug>` (accounts `ddw26`, `venues`, `makers`, `editions`; for example `/sources/ddw26/s100`) lists the article, the sources and every slide image with its credit and record link. Ask a Neuroscientist keeps `/sources/<mon-dd>` and `data/aan-sources.json`, untouched.
+- [x] `/sources/<account>` lists each post from its posting day on, in Europe/Amsterdam time (rebuilt daily). Pages exist ahead of time so the address printed on a slide works on posting day.
+- [x] Data is generated, not hand-kept: `data/sources-<account>.json` comes from `render-kit/sources_export_ours.py`, with the same cleaning rules as the Ask a Neuroscientist export. Slugs are id-based (they do not change when a post is rescheduled).
+- [x] Each page opens with RN's article in The Polymath: the newsletter's subscribe page until the issue exists, then the issue address.
+- [x] Pages carry `rn:kind="reference"` and `rn:entries`.
+- [ ] Add `htw`, `ioo`, `ddw27`, `dda`, `polymath`, `fatnugs` and `clr` accounts as their packages are finished.
+- [ ] Link the account indexes from `/sources`.
