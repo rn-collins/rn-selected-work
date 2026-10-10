@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09",
+ "generated": "2026-10-10",
  "host": "rn-selected-work.vercel.app",
  "posts": [
   {
@@ -13,27 +13,92 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Design United / TU/e, Mind the Step 2015 brochure (PDF)",
+     "url": "https://www.4tu.nl/du/about-us/downloads/mindthestep-2015-lr.pdf"
+    }
+   ],
    "other": [
     {
-     "label": "Dutch Design Week press release, \"Dutch Design Week announces 2015 theme: What if...\" (July 23, 2015)",
+     "label": "DDW press release, Dutch Design Week announces 2015 theme: What if...",
      "url": "https://archive.ddw.nl/en/press1/press-archive/114/dutch-design-week-announces-2015-theme-what-if"
     },
     {
-     "label": "Dutch Design Week press release, \"Surprising presentations and unusual locations in Strijp-S\" (October 17, 2015)",
+     "label": "DDW press release, Tickets for Dutch Design Week available now",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/115/tickets-for-dutch-design-week-available-now"
+    },
+    {
+     "label": "DDW press release, Surprising presentations and unusual locations in Strijp-S",
      "url": "https://archive.ddw.nl/en/press1/press-archive/121/surprising-presentations-and-unusual-locations-in-strijp-s"
     },
     {
-     "label": "Dutch Design Week closing press release on more than 275,000 visitors (October 25, 2015)",
+     "label": "DDW press release, Surprising presentations and unusual locations in Eindhoven city centre",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/120/surprising-presentations-and-unusual-locations-in-eindhoven-city-centre"
+    },
+    {
+     "label": "DDW press release, Debates, lectures and seminars during DDW",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/118/debates-lectures-and-seminars-during-ddw"
+    },
+    {
+     "label": "DDW press release, Successful 14th DDW attracts more than 275,000 visitors",
      "url": "https://archive.ddw.nl/en/press1/press-archive/124/successful-14th-ddw-attracts-more-than-275000-visitors"
     },
     {
-     "label": "Dutch Design Week, About DDW (list of past themes)",
+     "label": "DDW press release, Symbolic presentation ECO coin at Dutch Design Week",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/123/symbolic-presentation-eco-coin-at-dutch-design-week"
+    },
+    {
+     "label": "DDW press release, Ambassadors DDW announced",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/110/ambassadors-ddw-announced"
+    },
+    {
+     "label": "DDW press release, Programme DDW Music",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/116/programme-ddw-music"
+    },
+    {
+     "label": "DDW press release, Dutch Design Week launches new website",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/117/dutch-design-week-launches-new-website"
+    },
+    {
+     "label": "DDW press release, UP: Successful 13th DDW",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/107/up-successful-13th-ddw"
+    },
+    {
+     "label": "Dutch Design Week, About DDW",
      "url": "https://site.ddw.nl/en/about-ddw"
     },
     {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven), 2015",
+     "label": "VPRO, Tien tips voor Dutch Design Week 2015",
+     "url": "https://www.vpro.nl/dutch-design-week/artikelen/tien-tips-voor-dutch-design-week-2015"
+    },
+    {
+     "label": "Omroep Brabant, Dutch Design Week 2015: zes hoogtepunten",
+     "url": "https://www.omroepbrabant.nl/nieuws/2185603/dutch-design-week-2015-zes-hoogtepunten-die-je-gezien-moet-hebben"
+    },
+    {
+     "label": "Dutch Design Awards, Refugee Republic (Submarine Channel)",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/refugee-republic/"
+    },
+    {
+     "label": "Emerce Industry Wire (submitted item), Van Gogh multimediatour wint Dutch Design Award",
+     "url": "https://www.emerce.nl/wire/gogh-multimediatour-wint-dutch-design-award"
+    },
+    {
+     "label": "4TU Design United, Mind the Step 2015",
+     "url": "https://www.4tu.nl/du/about-us/publications/mind-the-step-2015/"
+    },
+    {
+     "label": "DDW official Flickr albums 2015",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+    },
+    {
+     "label": "DDW press release, Maarten Baas and Bas van Abel ambassadors DDW 2016",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/125/maarten-baas-and-bas-van-abel-ambassadors-ddw-2016"
+    },
+    {
+     "label": "DDW press release (Dutch), Creatieve industrie ontvangt delegatie Tweede Kamer",
+     "url": "https://archive.ddw.nl/nl/pers1/pers-archief/122"
     }
    ],
    "images": [
@@ -123,24 +188,88 @@
    "research": [],
    "other": [
     {
-     "label": "Dutch Design Week press release, \"DDW announces the 2016 theme: The making of\" (July 21, 2016)",
+     "label": "DDW press release, DDW announces the 2016 theme: The making of",
      "url": "https://archive.ddw.nl/en/press1/press-archive/127/ddw-announces-the-2016-theme-the-making-of"
     },
     {
-     "label": "Dutch Design Week press release, \"DDW presents: Maarten Baas Makes Time\" (August 31, 2016)",
+     "label": "DDW press release, DDW presents: Maarten Baas Makes Time",
      "url": "https://archive.ddw.nl/en/press1/press-archive/129/ddw-presents-maarten-baas-makes-time"
     },
     {
-     "label": "Dutch Design Week closing press release on more than 295,000 visitors (October 30, 2016)",
+     "label": "DDW press release, Successful 15th DDW attracts more than 295,000 visitors",
      "url": "https://archive.ddw.nl/en/press1/press-archive/136/successful-15th-ddw-attracts-more-than-295000-visitors"
     },
     {
-     "label": "Dutch Design Week, About DDW (list of past themes)",
+     "label": "DDW press release, Queen Maxima visit (English text, Dutch title)",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/135/koningin-maxima-onderzoekt-status-van-dutch-design-tijdens-vijftienjarig-jubileum-ddw-2016"
+    },
+    {
+     "label": "DDW press release, Official launch World Design Weeks Network",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/133/official-launch-world-design-weeks-network"
+    },
+    {
+     "label": "DDW press release, Age of Wonderland presents: Big data. Big DADA?",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/132/age-of-wonderland-presents-big-data-big-dada"
+    },
+    {
+     "label": "DDW press release (Dutch), Dutch Design Week ontvangt financiele bijdrage van OCW",
+     "url": "https://archive.ddw.nl/nl/pers1/pers-archief/131"
+    },
+    {
+     "label": "DDW press release (Dutch), Kick-off themajaar Mondriaan tot Dutch design 2017",
+     "url": "https://archive.ddw.nl/nl/pers1/pers-archief/134"
+    },
+    {
+     "label": "DDW press release, Maarten Baas and Bas van Abel ambassadors DDW 2016",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/125/maarten-baas-and-bas-van-abel-ambassadors-ddw-2016"
+    },
+    {
+     "label": "DDW press release, Successful 14th DDW attracts more than 275,000 visitors",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/124/successful-14th-ddw-attracts-more-than-275000-visitors"
+    },
+    {
+     "label": "Dutch Design Week, About DDW",
      "url": "https://site.ddw.nl/en/about-ddw"
     },
     {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven), 2016",
+     "label": "Neon Moire, 12 go-to events at Dutch Design Week 2016",
+     "url": "https://www.neonmoire.com/blog/36/12-go-to-events-at-dutch-design-week-2016"
+    },
+    {
+     "label": "VPRO, 10 tips voor de Dutch Design Week 2016",
+     "url": "https://www.vpro.nl/dutch-design-week/artikelen/10-tips-voor-de-dutch-design-week-2016"
+    },
+    {
+     "label": "Dutch Design Awards, FLAX Chair (2016 Product winner)",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/flax-chair/"
+    },
+    {
+     "label": "Dutch Design Awards, Crystal houses/Glass Brick (2016)",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/crystal-houses/"
+    },
+    {
+     "label": "Waag, Waag @ Dutch Design Week 2016",
+     "url": "https://waag.org/en/event/waag-dutch-design-week-2016/"
+    },
+    {
+     "label": "Kazerne, BCXSY exhibition history",
+     "url": "https://kazerne.com/en/design/designers/bcxsy/"
+    },
+    {
+     "label": "DDW official Flickr albums 2016",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+    },
+    {
+     "label": "DDW press release, Surprising presentations and unusual locations in Strijp-S",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/121/surprising-presentations-and-unusual-locations-in-strijp-s"
+    },
+    {
+     "label": "DDW press release, Dutch Design Week unveils its music programme line-up",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/128/dutch-design-week-unveils-its-music-programme-line-up"
+    },
+    {
+     "label": "DDW press release, Music programme Dutch Design Week complete",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/130/music-programme-dutch-design-week-complete"
     }
    ],
    "images": [
@@ -244,24 +373,120 @@
    "research": [],
    "other": [
     {
-     "label": "Dutch Design Week press release, \"DDW announces 2017 theme: Stretch\" (July 27, 2017)",
+     "label": "DDW press release, DDW announces 2017 theme: Stretch",
      "url": "https://archive.ddw.nl/en/press1/press-archive/139/ddw-announces-2017-theme-stretch"
     },
     {
-     "label": "Dutch Design Week press release, \"Dutch Design Week program complete and online\" (September 27, 2017)",
+     "label": "DDW press release, Dutch Design Week selects three new ambassadors this year",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/138/dutch-design-week-selects-three-new-ambassadors-this-year"
+    },
+    {
+     "label": "DDW press release, Dutch Design Week programme complete and online",
      "url": "https://archive.ddw.nl/en/press1/press-archive/141/dutch-design-week-programme-complete-and-online"
     },
     {
-     "label": "Dutch Design Week press release, \"Dutch Design Week 2017 stretched the world\" (October 29, 2017)",
+     "label": "DDW press release, Dutch Design Week 2017 stretched the world",
      "url": "https://archive.ddw.nl/en/press1/press-archive/146/dutch-design-week-2017-stretched-the-world"
     },
     {
-     "label": "Dutch Design Week, About DDW (list of past themes)",
+     "label": "DDW press release, Designers and NS work together to reinvent travelling by train",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/142/designers-and-ns-work-together-to-reinvent-travelling-by-train"
+    },
+    {
+     "label": "DDW press release, DDF and New Horizon go for circular Dutch Design Week",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/144/ddf-and-new-horizon-go-for-circular-dutch-design-week"
+    },
+    {
+     "label": "DDW press release, VPRO and DDW announce De toekomstbouwers",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/145/vpro-and-ddw-announce-new-television-programme-de-toekomstbouwers-eight-young-ddw-designers-take-center-stage"
+    },
+    {
+     "label": "DDW press release, Crowdfunding Dutch Design announces projects",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/143/crowdfunding-dutch-design-announces-projects"
+    },
+    {
+     "label": "DDW press release, Dutch Design Week announces music programme",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/140/dutch-design-week-announces-music-programme"
+    },
+    {
+     "label": "DDW press release, Good ensemble of music and design during DDW",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/148/good-ensemble-of-music-and-design-during-ddw"
+    },
+    {
+     "label": "IO+ Archive, Frank Kolkman wins DDA Young Designer Award",
+     "url": "https://ioplus.nl/archive/en/frank-kolkman-wins-dda-young-designer-award/"
+    },
+    {
+     "label": "IO+ Archive, Royal FloraHolland winner of the DDA commissioning award",
+     "url": "https://ioplus.nl/archive/en/royal-floraholland-winner-dda-best-client-award/"
+    },
+    {
+     "label": "Dutch Design Awards, DeFlat Kleiburg",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/deflat-kleiburg/"
+    },
+    {
+     "label": "MaterialDistrict, The People's Pavilion is made from borrowed materials",
+     "url": "https://materialdistrict.com/article/peoples-pavilion/"
+    },
+    {
+     "label": "4TU Design United, Mind the Step editions (2018 page, edition list 2014 to 2019)",
+     "url": "https://www.4tu.nl/du/editions/2018%20Mind%20the%20Step/"
+    },
+    {
+     "label": "DDW press release (Dutch), Kick-off themajaar Mondriaan tot Dutch design 2017",
+     "url": "https://archive.ddw.nl/nl/pers1/pers-archief/134"
+    },
+    {
+     "label": "DDW press release, Successful 15th DDW attracts more than 295,000 visitors",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/136/successful-15th-ddw-attracts-more-than-295000-visitors"
+    },
+    {
+     "label": "Dutch Design Week, About DDW",
      "url": "https://site.ddw.nl/en/about-ddw"
     },
     {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven), 2017",
+     "label": "DDW official Flickr albums 2017",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+    },
+    {
+     "label": "IO+ Archive (Dutch), 14% meer bezoek voor Dutch Design Week 2017",
+     "url": "https://ioplus.nl/archive/nl/14-meer-bezoek-voor-dutch-design-week-2017/"
+    },
+    {
+     "label": "IO+ Archive (Dutch), DDW levert Eindhoven miljoenen op",
+     "url": "https://ioplus.nl/archive/nl/ddw-levert-eindhoven-miljoenen-op/"
+    },
+    {
+     "label": "IO+ Archive (Dutch), Dutch Design Week trekt weer meer bezoekers (2018)",
+     "url": "https://ioplus.nl/archive/nl/dutch-design-week-trekt-weer-meer-bezoekers-toename-vooral-uit-het-buitenland/"
+    },
+    {
+     "label": "DDW press release (Dutch), Dutch Design Week ontvangt financiele bijdrage van OCW",
+     "url": "https://archive.ddw.nl/nl/pers1/pers-archief/131"
+    },
+    {
+     "label": "DDW news, Good Design for a Bad World talks by Marcus Fairs",
+     "url": "https://archive.ddw.nl/en/news/67/good-design-for-a-bad-world-talks-by-marcus-fairs"
+    },
+    {
+     "label": "DDW news, Trends at DDW17: The immaterial materialized",
+     "url": "https://archive.ddw.nl/en/news/75/trends-at-ddw17-the-immaterial-materialized"
+    },
+    {
+     "label": "DDW news, Sand symposium by Atelier NL",
+     "url": "https://archive.ddw.nl/en/news/74/sand-symposium-by-atelier-nl"
+    },
+    {
+     "label": "DDW news, Agri meets Design reflects on DDW17",
+     "url": "https://archive.ddw.nl/en/news/100/agri-meets-design-reflects-on-ddw17"
+    },
+    {
+     "label": "DDW news, People's Pavilion wins Frame Sustainability Award",
+     "url": "https://archive.ddw.nl/en/news/90/peoples-pavilion-wins-frame-sustainability-award"
+    },
+    {
+     "label": "Dutch Design Awards, People's Pavilion (2018 Habitat winner)",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/peoples-pavilion/"
     }
    ],
    "images": [
@@ -379,28 +604,108 @@
    "research": [],
    "other": [
     {
-     "label": "Dutch Design Week press release, \"These are the ambassadors for Dutch Design Week 2018\" (June 22, 2018)",
-     "url": "https://archive.ddw.nl/en/press1/press-archive/151/these-are-the-ambassadors-for-dutch-design-week-2018"
-    },
-    {
-     "label": "Dutch Design Week press release, \"Dutch Design Week theme announced: If not us, then who?\" (September 5, 2018)",
+     "label": "DDW press release, Dutch Design Week theme announced: If not us, then who?",
      "url": "https://archive.ddw.nl/en/press1/press-archive/154/dutch-design-week-theme-announced-if-not-us-then-who"
     },
     {
-     "label": "Dutch Design Week press release, \"Dutch Design Week 2018 shows vision of the future\" (October 28, 2018)",
+     "label": "DDW press release, These are the ambassadors for Dutch Design Week 2018",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/151/these-are-the-ambassadors-for-dutch-design-week-2018"
+    },
+    {
+     "label": "DDW press release, Renault official partner of Dutch Design Week",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/149/renault-official-partner-of-dutch-design-week"
+    },
+    {
+     "label": "DDW press release, Dutch Design Week 2018 shows vision of the future",
      "url": "https://archive.ddw.nl/en/press1/press-archive/232/dutch-design-week-2018-shows-vison-of-the-future"
     },
     {
-     "label": "Emerce wire, \"TU/e Research: eerste eigen expositie van TU/e op Dutch Design Week\" (October 18, 2018)",
+     "label": "Emerce Industry Wire, TU/e Research: eerste eigen expositie van TU/e op DDW",
      "url": "https://www.emerce.nl/wire/tue-research-eerste-eigen-expositie-tue-dutch-design-week"
     },
     {
-     "label": "Dutch Design Week, About DDW (list of past themes)",
+     "label": "4TU Design United, 2018 Mind the Step",
+     "url": "https://www.4tu.nl/du/editions/2018%20Mind%20the%20Step/"
+    },
+    {
+     "label": "Kazerne, Ongoing Dialogue",
+     "url": "https://kazerne.com/design/ongoing-dialogue"
+    },
+    {
+     "label": "Dutch Design Awards, Change is the catalyst for the winners of DDA18",
+     "url": "https://www.dutchdesignawards.nl/en/update/1365-2/"
+    },
+    {
+     "label": "Dutch Design Awards, People's Pavilion (2018 Habitat winner)",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/peoples-pavilion/"
+    },
+    {
+     "label": "IO+ Archive (Dutch), DDW trekt weer meer bezoekers (2018)",
+     "url": "https://ioplus.nl/archive/nl/dutch-design-week-trekt-weer-meer-bezoekers-toename-vooral-uit-het-buitenland/"
+    },
+    {
+     "label": "IO+ Archive (Dutch), 14% meer bezoek voor DDW 2017",
+     "url": "https://ioplus.nl/archive/nl/14-meer-bezoek-voor-dutch-design-week-2017/"
+    },
+    {
+     "label": "Omroep Brabant, Nog nooit zoveel bezoekers (2017)",
+     "url": "https://www.omroepbrabant.nl/nieuws/2584963/nog-nooit-zoveel-bezoekers-dutch-design-week-breekt-alle-records"
+    },
+    {
+     "label": "Omroep Brabant, Door de DDW hoort Eindhoven bij de grote drie",
+     "url": "https://www.omroepbrabant.nl/nieuws/3970802/door-de-dutch-design-week-hoort-eindhoven-bij-de-grote-drie-van-de-wereld"
+    },
+    {
+     "label": "IO+ Archive (Dutch), DDW levert Eindhoven miljoenen op",
+     "url": "https://ioplus.nl/archive/nl/ddw-levert-eindhoven-miljoenen-op/"
+    },
+    {
+     "label": "Italianbark, Dutch Design Week 2018 most interesting exhibits",
+     "url": "https://www.italianbark.com/dutch-design-week-2018-best-trends/"
+    },
+    {
+     "label": "Dutch Design Week, About DDW",
      "url": "https://site.ddw.nl/en/about-ddw"
     },
     {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven), 2018",
+     "label": "DDW official Flickr albums 2018",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+    },
+    {
+     "label": "DDW press release, Dutch Design Week 2017 stretched the world",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/146/dutch-design-week-2017-stretched-the-world"
+    },
+    {
+     "label": "Dutch Design Awards, MX3D wins Public award at Dutch Design Awards 2018",
+     "url": "https://www.dutchdesignawards.nl/en/update/mx3d-wint-public-awards-bij-dutch-design-awards-2018/"
+    },
+    {
+     "label": "CLICKNL, Dutch Design Awards 2018",
+     "url": "https://www.clicknl.nl/en/news/dutch-design-awards-2018"
+    },
+    {
+     "label": "DDW news, Largest temporary charging station in Europe at Sectie-C",
+     "url": "https://archive.ddw.nl/en/news/221/largest-temporary-charging-station-in-europe-at-sectie-c-in-eindhoven"
+    },
+    {
+     "label": "DDW news, NS, Mecanoo and Gispen share their vision of a train interior",
+     "url": "https://archive.ddw.nl/en/news/173/ns-mecanoo-and-gispen-share-their-common-vision-of-a-train-interior-at-the-innova"
+    },
+    {
+     "label": "DDW news, Winner New Material Award 2018",
+     "url": "https://archive.ddw.nl/en/news/204/winner-new-material-award-2018-algae-lab-luma-by-studio-klarenbeek-dros-and-ateli"
+    },
+    {
+     "label": "DDW news, Winner De Toekomstbouwers 2018: Lex Hoefsloot",
+     "url": "https://archive.ddw.nl/en/news/231/winner-de-toekomstbouwers-2018-lex-hoefsloot"
+    },
+    {
+     "label": "DDW news, Dutch Design Week has started",
+     "url": "https://archive.ddw.nl/en/news/201/dutch-design-week-has-started"
+    },
+    {
+     "label": "Kazerne, \"Ongoing Dialogue\" (autumn 2018 to spring 2019)",
+     "url": "https://kazerne.com/en/design/past-exhibitions/ongoing-dialogue/"
     }
    ],
    "images": [
@@ -511,32 +816,100 @@
    "research": [],
    "other": [
     {
-     "label": "Dutch Design Week press release, \"DDW announces 2019 ambassadors\" (July 4, 2019)",
+     "label": "DDW press release, DDW announces 2019 ambassadors",
      "url": "https://archive.ddw.nl/en/press1/press-archive/300/ddw-announces-2019-ambassadors"
     },
     {
-     "label": "Dutch Design Week press release on the 2019 program (September 24, 2019)",
+     "label": "DDW press release, Dutch Design Week shows vision of the future",
      "url": "https://archive.ddw.nl/en/press1/press-archive/331/dutch-design-week-shows-vision-of-the-future"
     },
     {
-     "label": "Dutch Design Week press release, \"Final round-up of themes explored at Dutch Design Week\" (October 18, 2019)",
-     "url": "https://archive.ddw.nl/en/press1/press-archive/408/final-round-up-of-themes-explored-at-dutch-design-week"
-    },
-    {
-     "label": "Dutch Design Week press release, \"New ways of building showcased at Dutch Design Week\" (October 20, 2019)",
-     "url": "https://archive.ddw.nl/en/press1/press-archive/410/new-ways-of-building-showcased-at-dutch-design-week"
-    },
-    {
-     "label": "Dutch Design Week press release, \"Dutch Design Week 2019 is a wrap!\" (October 27, 2019)",
+     "label": "DDW press release, Dutch Design Week 2019 is a wrap",
      "url": "https://archive.ddw.nl/en/press1/press-archive/403/dutch-design-week-2019-is-a-wrap"
     },
     {
-     "label": "Dutch Design Week, About DDW (list of past themes)",
+     "label": "DDW press release, Mobility, privacy and gender identity at Dutch Design Week",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/338/mobility-privacy-and-gender-identity-at-dutch-design-week"
+    },
+    {
+     "label": "DDW press release, New ways of building showcased at Dutch Design Week",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/410/new-ways-of-building-showcased-at-dutch-design-week"
+    },
+    {
+     "label": "Omroep Brabant, Gekapte populieren langs A2 krijgen een tweede leven",
+     "url": "https://www.omroepbrabant.nl/nieuws/3090048/gekapte-populieren-langs-a2-krijgen-een-tweede-leven-als-grootste-bouwwerk-ooit-op-dutch-design-week"
+    },
+    {
+     "label": "DDW magazine, Close-Up: Ketelhuisplein",
+     "url": "https://archive.ddw.nl/en/magazine-archive/400/close-up-ketelhuisplein"
+    },
+    {
+     "label": "MaterialDistrict, MaterialDistrict goes Floriade Part 3",
+     "url": "https://materialdistrict.com/article/materialdistrict-goes-floriade-part-3/"
+    },
+    {
+     "label": "DDW press release, Spotlight on Health at Dutch Design Week",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/407/spotlight-on-health-at-dutch-design-week"
+    },
+    {
+     "label": "IO+ Archive (Dutch), 350.000 bezoekers voor DDW 2019",
+     "url": "https://ioplus.nl/archive/nl/350-000-bezoekers-voor-dutch-design-week-2019/"
+    },
+    {
+     "label": "Omroep Brabant, DDW trekt iets minder bezoekers",
+     "url": "https://www.omroepbrabant.nl/nieuws/3095365/Dutch-Design-Week-minder-in-trek-dan-vorig-jaar-350-000-bezoekers"
+    },
+    {
+     "label": "DDW press release, Final round-up of themes explored at Dutch Design Week",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/408/final-round-up-of-themes-explored-at-dutch-design-week"
+    },
+    {
+     "label": "4TU Design United, 2019 TILT SHIFT: Reframing Futures",
+     "url": "https://www.4tu.nl/du/editions/2019%20TILT%20SHIFT%20Reframing%20Futures/"
+    },
+    {
+     "label": "Dutch Design Awards, Winners Dutch Design Awards 2019 set new design standard",
+     "url": "https://www.dutchdesignawards.nl/en/update/winners-dutch-design-awards-2019-set-new-design-standard/"
+    },
+    {
+     "label": "Dutch Design Awards, Power Plant wins Public Award at DDA 2019",
+     "url": "https://www.dutchdesignawards.nl/en/update/publicaward/"
+    },
+    {
+     "label": "DDW official Flickr albums 2019",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+    },
+    {
+     "label": "Dutch Design Week, About DDW",
      "url": "https://site.ddw.nl/en/about-ddw"
     },
     {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven), 2019",
-     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+     "label": "DDW press release (Dutch), Koning en DDF op werkbezoek bij Sectie-C",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/281/koning-en-ddf-op-werkbezoek-bij-sectie-c"
+    },
+    {
+     "label": "DDW news, Council for Culture advices: DDF in Basic Infrastructure from 2021",
+     "url": "https://archive.ddw.nl/en/news/497/raad-voor-cultuur-adviseert-ddf-vanaf-2021-in-basis-infrastructuur"
+    },
+    {
+     "label": "DDW news, Renault Design Rides drives record number of emission-free kilometres at DDW19",
+     "url": "https://archive.ddw.nl/en/news/406/renault-design-rides-drives-record-number-of-emission-free-kilometres-at-ddw19"
+    },
+    {
+     "label": "DDW news, Visit the ABN AMRO Game Changers at DDW19",
+     "url": "https://archive.ddw.nl/en/news/336/visit-the-abn-amro-game-changers-at-ddw19"
+    },
+    {
+     "label": "DDW news, Visit the What if Lab exhibition at DDW or in Indonesia",
+     "url": "https://archive.ddw.nl/en/news/353/visit-the-what-if-lab-exhibition-at-ddw-or-in-indonesia"
+    },
+    {
+     "label": "DDW news, DDW receives prize for accessibility for disabled visitors",
+     "url": "https://archive.ddw.nl/en/news/451/ddw-receives-prize-for-accessibility-for-disabled-visitors"
+    },
+    {
+     "label": "DDW news, Largest temporary charging station in Europe at Sectie-C (2018)",
+     "url": "https://archive.ddw.nl/en/news/221/largest-temporary-charging-station-in-europe-at-sectie-c-in-eindhoven"
     }
    ],
    "images": [
@@ -647,36 +1020,64 @@
    "research": [],
    "other": [
     {
-     "label": "Dutch Design Week press release, \"Dutch Design Week presents 2020 theme: The New Intimacy\" (July 7, 2020)",
+     "label": "DDW press release, Dutch Design Week presents 2020 theme: The New Intimacy",
      "url": "https://archive.ddw.nl/en/press1/press-archive/529/dutch-design-week-presents-2020-theme-the-new-intimacy"
     },
     {
-     "label": "Dutch Design Week press release on the live and online plan for 2020 (June 8, 2020)",
+     "label": "DDW press release, DDW 2020: live studio exhibitions and extensive online programme",
      "url": "https://archive.ddw.nl/en/press1/press-archive/500/dutch-design-week-2020-live-studio-exhibitions-extensive-online-programme"
     },
     {
-     "label": "Dutch Design Week press release, \"Dutch Design Week 2020 will only take place virtually\" (September 30, 2020)",
+     "label": "DDW press release, Dutch Design Week 2020 will only take place virtually",
      "url": "https://archive.ddw.nl/en/press1/press-archive/542/dutch-design-week-2020-will-only-take-place-virtually"
     },
     {
-     "label": "Dutch Design Week press release, \"Dutch Design Week 2020 was an online success\" (October 25, 2020)",
+     "label": "DDW press release, Dutch Design Week 2020 was an online success",
      "url": "https://archive.ddw.nl/en/press1/press-archive/599/dutch-design-week-2020-was-an-online-success"
     },
     {
-     "label": "Dutch Design Week, \"Meet the DDW20 ambassadors\" (October 15, 2020)",
+     "label": "DDW news, Council for Culture advices: DDF in Basic Infrastructure from 2021",
+     "url": "https://archive.ddw.nl/en/news/497/raad-voor-cultuur-adviseert-ddf-vanaf-2021-in-basis-infrastructuur"
+    },
+    {
+     "label": "DDW magazine, Meet the DDW20 ambassadors",
      "url": "https://archive.ddw.nl/en/magazine-archive/554/meet-the-ddw20-ambassadors"
     },
     {
-     "label": "Dutch Design Week, About DDW (list of past themes)",
-     "url": "https://site.ddw.nl/en/about-ddw"
-    },
-    {
-     "label": "Dutch Design Week press release, \"Dutch Design Week 2019 is a wrap!\" (October 27, 2019)",
+     "label": "DDW press release, Dutch Design Week 2019 is a wrap",
      "url": "https://archive.ddw.nl/en/press1/press-archive/403/dutch-design-week-2019-is-a-wrap"
     },
     {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven), 2020",
+     "label": "IO+ Archive, Dutch Design Week 2020 will be held online",
+     "url": "https://ioplus.nl/archive/en/dutch-design-week-2020-will-be-held-online/"
+    },
+    {
+     "label": "Dutch Design Awards, Winners Dutch Design Awards 2020",
+     "url": "https://www.dutchdesignawards.nl/en/update/winnaars-dutch-design-awards-2020/"
+    },
+    {
+     "label": "Dutch Design Week, About DDW",
+     "url": "https://site.ddw.nl/en/about-ddw"
+    },
+    {
+     "label": "DDW official Flickr albums 2020",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+    },
+    {
+     "label": "DDW news, Talks & Streams: 20 October and 22 October",
+     "url": "https://archive.ddw.nl/en/news/571/talks-streams-20-october"
+    },
+    {
+     "label": "DDW news, Corona update",
+     "url": "https://archive.ddw.nl/en/news/487/corona-update"
+    },
+    {
+     "label": "DDW news, Apply now for DDW20",
+     "url": "https://archive.ddw.nl/en/news/513/apply-now-for-ddw20"
+    },
+    {
+     "label": "4TU Design United, 2020 Up Close & Personal",
+     "url": "https://www.4tu.nl/du/editions/2020%20Up%20Close%20%26%20Personal/"
     }
    ],
    "images": [
@@ -770,27 +1171,100 @@
     "label": "The Polymath, where RN publishes this article",
     "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
    },
-   "research": [],
+   "research": [
+    {
+     "label": "Domus, review of Nicolin, Castelli di carte (XIV Triennale di Milano 1968)",
+     "url": "https://www.domusweb.it/en/reviews/2011/09/22/castelli-di-carte.html"
+    }
+   ],
    "other": [
     {
-     "label": "Dutch Design Week press release on the 2021 program (September 21, 2021)",
-     "url": "https://archive.ddw.nl/en/press1/press-archive/726/dutch-design-week-presents-a-broad-programme"
-    },
-    {
-     "label": "Dutch Design Week press release, \"Countdown to Dutch Design Week 2021\" (October 14, 2021)",
-     "url": "https://archive.ddw.nl/en/press1/press-archive/702/countdown-to-dutch-design-week-2021"
-    },
-    {
-     "label": "Dutch Design Week press release, \"Dutch Design Week 2021: an optimistic course\" (October 24, 2021)",
+     "label": "DDW press release, Dutch Design Week 2021: an optimistic course",
      "url": "https://archive.ddw.nl/en/press1/press-archive/728/dutch-design-week-2021-an-optimistic-course"
     },
     {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven), 2021",
+     "label": "DDW press release, DDW sets course for a live stage in 2021",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/653/dutch-design-week-sets-course-for-a-live-stage-in-eindhoven-in-2021"
+    },
+    {
+     "label": "DDW press release, Dutch Design Week presents a broad programme",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/726/dutch-design-week-presents-a-broad-programme"
+    },
+    {
+     "label": "DDW press release, DDW introduces its 2021 ambassadors",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/669/dutch-design-week-introduces-its-2021-ambassadors"
+    },
+    {
+     "label": "DDW press release, thonik designs new identity Dutch Design Week",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/649/thonik-designs-new-identity-dutch-design-week"
+    },
+    {
+     "label": "DDW press release, Countdown to Dutch Design Week 2021",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/702/countdown-to-dutch-design-week-2021"
+    },
+    {
+     "label": "Omroep Brabant, Door de Dutch Design Week hoort Eindhoven bij de grote drie",
+     "url": "https://www.omroepbrabant.nl/nieuws/3970802/door-de-dutch-design-week-hoort-eindhoven-bij-de-grote-drie-van-de-wereld"
+    },
+    {
+     "label": "Wallpaper, Dutch Design Week 2021: latest news",
+     "url": "https://www.wallpaper.com/design/dutch-design-week-guide"
+    },
+    {
+     "label": "ArchDaily event listing, Dutch Design Week 2021",
+     "url": "https://www.archdaily.com/967768/dutch-design-week-2021"
+    },
+    {
+     "label": "DDW official Flickr albums 2021",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
     },
     {
-     "label": "Dutch Design Week, About DDW (list of past themes)",
+     "label": "Dutch Design Awards, Meet the winners of Dutch Design Awards 2021",
+     "url": "https://www.dutchdesignawards.nl/en/update/meet-the-winners-of-dutch-design-awards-2021/"
+    },
+    {
+     "label": "Dutch Design Week, About DDW",
      "url": "https://site.ddw.nl/en/about-ddw"
+    },
+    {
+     "label": "Dutch Design Week, Facts & Figures (press page)",
+     "url": "https://site.ddw.nl/en/press1/facts-figures"
+    },
+    {
+     "label": "DDW magazine, Column: The Magic Number (Jeroen Junte)",
+     "url": "https://archive.ddw.nl/en/magazine-archive/707/column-the-magic-number"
+    },
+    {
+     "label": "DDW magazine, A square metre as a positive protest",
+     "url": "https://archive.ddw.nl/en/magazine-archive/732/a-square-metre-as-a-positive-protest"
+    },
+    {
+     "label": "DDW magazine, Architects of the living world",
+     "url": "https://archive.ddw.nl/en/magazine-archive/715/architects-of-the-living-world"
+    },
+    {
+     "label": "DDW magazine, A million matter particles",
+     "url": "https://archive.ddw.nl/en/magazine-archive/687/a-million-matter-particles"
+    },
+    {
+     "label": "DDW magazine, How do you envision the society of the future?",
+     "url": "https://archive.ddw.nl/en/magazine-archive/685/how-do-you-envision-the-society-of-the-future"
+    },
+    {
+     "label": "4TU Design United, 2021 Up Close & Personal",
+     "url": "https://www.4tu.nl/du/editions/2021%20Up%20Close%20%26%20Personal/"
+    },
+    {
+     "label": "DDW news, What's new at DDW",
+     "url": "https://archive.ddw.nl/en/news/686/whats-new-at-ddw"
+    },
+    {
+     "label": "DDW news, Area Sneak Peek: Strijp-S",
+     "url": "https://archive.ddw.nl/en/news/689/area-sneak-peek-strijp-s"
+    },
+    {
+     "label": "DDW news, Design sector moderately positive after corona year",
+     "url": "https://archive.ddw.nl/en/news/638/design-sector-moderately-positive-after-corona-year"
     }
    ],
    "images": [
@@ -901,28 +1375,108 @@
    "research": [],
    "other": [
     {
-     "label": "Dutch Design Week press release, \"DDW22 Theme revealed\" (June 7, 2022)",
+     "label": "DDW press release, DDW22 Theme revealed",
      "url": "https://archive.ddw.nl/en/press1/press-archive/767/ddw22-theme-revealed"
     },
     {
-     "label": "Dutch Design Week press release on the 2022 program (September 13, 2022)",
+     "label": "DDW press release, DDW22: The mission continues",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/807/ddw22-the-mission-continues"
+    },
+    {
+     "label": "DDW press release, Programme DDW22 live now",
      "url": "https://archive.ddw.nl/en/press1/press-archive/779/programme-ddw22-live-now"
     },
     {
-     "label": "Dutch Design Week press release, \"DDW22: The mission continues\" (November 3, 2022)",
-     "url": "https://archive.ddw.nl/en/press1/press-archive/807/ddw22-the-mission-continues"
+     "label": "DDW press release, Marjan van Aubel and Formafantasma ambassadors DDW22",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/778/marjan-van-aubel-and-formafantasma-ambassadors-ddw22"
+    },
+    {
+     "label": "DDW magazine, Marjan van Aubel presents: Solar Pavilion + Sunne Experience",
+     "url": "https://archive.ddw.nl/en/magazine-archive/793/marjan-van-aubel-presents-solar-pavilion-sunne-experience"
+    },
+    {
+     "label": "DDW press release, Get Set voor DDW22",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/794/get-set-voor-ddw22"
+    },
+    {
+     "label": "DDW program, The collection is... The Edelkoort collection",
+     "url": "https://archive.ddw.nl/en/programme/8186/de-collectie-is-de-edelkoort-collectie"
+    },
+    {
+     "label": "Dutch Design Awards, Winners Dutch Design Awards 2022",
+     "url": "https://www.dutchdesignawards.nl/en/update/winnaars-dutch-design-awards-2022/"
+    },
+    {
+     "label": "Studio 040, DDW trekt 350.000 bezoekers (headline only)",
+     "url": "https://studio040.nl/nieuws/artikel/ddw-trekt-350000-bezoekers-nieuwe-generatie-ontwerpers-is-opgestaan"
+    },
+    {
+     "label": "Innovation Origins, Step into the world of 2050 during Dutch Design Week",
+     "url": "https://innovationorigins.com/en/step-into-the-world-of-2050-during-dutch-design-week/"
+    },
+    {
+     "label": "Dutch Design Week, Facts & Figures (press page)",
+     "url": "https://site.ddw.nl/en/press1/facts-figures"
+    },
+    {
+     "label": "DDW official Flickr albums 2022",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+    },
+    {
+     "label": "VPRO, 10 tips voor Dutch Design Week 2022",
+     "url": "https://www.vpro.nl/dutch-design-week/artikelen/10-tips-voor-dutch-design-week-2022"
+    },
+    {
+     "label": "Dutch Design Week, About DDW",
+     "url": "https://site.ddw.nl/en/about-ddw"
+    },
+    {
+     "label": "IO+ Archive (Dutch), 350.000 bezoekers voor Dutch Design Week 2019",
+     "url": "https://ioplus.nl/archive/nl/350-000-bezoekers-voor-dutch-design-week-2019/"
+    },
+    {
+     "label": "DDW magazine, Get Set for... the theme of DDW22",
+     "url": "https://archive.ddw.nl/en/magazine-archive/765/get-set-for-the-theme-of-ddw22"
+    },
+    {
+     "label": "DDW magazine, Formafantasma presents: Learning with symposium",
+     "url": "https://archive.ddw.nl/en/magazine-archive/790/formafantasma-presents-learning-with-symposium"
+    },
+    {
+     "label": "DDW magazine, What if Lab at Dutch Design Week",
+     "url": "https://archive.ddw.nl/en/magazine-archive/789/what-if-lab-at-dutch-design-week"
+    },
+    {
+     "label": "DDW magazine, World Design Embassies: Step into the world of 2050",
+     "url": "https://archive.ddw.nl/en/magazine-archive/787/world-design-embassies-step-into-the-world-of-2050"
+    },
+    {
+     "label": "DDW magazine, Column: international view on Dutch Design Awards (Nick Axel)",
+     "url": "https://archive.ddw.nl/en/magazine-archive/798/column-international-view-on-dutch-design-awards"
+    },
+    {
+     "label": "4TU Design United, 2022 Transitions",
+     "url": "https://www.4tu.nl/du/editions/2022%20Transitions/"
+    },
+    {
+     "label": "DDW news, DDW22 Grand Opening",
+     "url": "https://archive.ddw.nl/en/news/796/ddw22-grand-opening"
+    },
+    {
+     "label": "DDW news, New focus for DDF director Martijn Paulen",
+     "url": "https://archive.ddw.nl/en/news/756/new-focus-for-ddf-director-martijn-paulen"
+    },
+    {
+     "label": "DDW news, Behind the scenes at the Solar Pavilion",
+     "url": "https://archive.ddw.nl/en/news/799/behind-the-scenes-at-the-solar-pavilion"
+    },
+    {
+     "label": "DDW news, Dutch Design at Floriade",
+     "url": "https://archive.ddw.nl/en/news/762/dutch-design-at-floriade"
     },
     {
      "label": "Dutch Design Week press release on the 2021 edition (October 24, 2021)",
      "url": "https://archive.ddw.nl/en/press1/press-archive/728/dutch-design-week-2021-an-optimistic-course"
-    },
-    {
-     "label": "Dutch Design Week, About DDW (list of past themes)",
-     "url": "https://site.ddw.nl/en/about-ddw"
-    },
-    {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven), 2022",
-     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
     }
    ],
    "images": [
@@ -1012,28 +1566,116 @@
    "research": [],
    "other": [
     {
-     "label": "Dutch Design Week press release, \"Picture This: DDW23, the best of all weeks\" (May 17, 2023)",
+     "label": "DDW press release, Picture This: DDW23, the best of all weeks",
      "url": "https://archive.ddw.nl/en/press1/press-archive/817/picture-this-ddw23-the-best-of-all-weeks"
     },
     {
-     "label": "Dutch Design Week press release on the 2023 program (September 5, 2023)",
+     "label": "DDW press release, Save the Date: Dutch Design Week 2023",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/814/save-the-date-dutch-design-week-2023"
+    },
+    {
+     "label": "DDW press release, Programme Dutch Design Week Now Live",
      "url": "https://archive.ddw.nl/en/press1/press-archive/825/programme-dutch-design-week-now-live"
     },
     {
-     "label": "Dutch Design Week press release, \"Picture This: Dutch Design Week 2023\" (October 4, 2023)",
+     "label": "DDW press release, Picture This: Dutch Design Week 2023",
      "url": "https://archive.ddw.nl/en/press1/press-archive/839/picture-this-dutch-design-week-2023"
     },
     {
-     "label": "Dutch Design Week press release, \"Dutch Design Week 2023 keeps moving forward\" (October 29, 2023)",
+     "label": "DDW press release, Dutch Design Week 2023 keeps moving forward",
      "url": "https://archive.ddw.nl/en/press1/press-archive/874/dutch-design-week-2023-keeps-moving-forward"
     },
     {
-     "label": "Dutch Design Week, About DDW (list of past themes)",
+     "label": "DDW press release, Dutch Design Foundation taking on the Public Design Practice",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/828/dutch-design-foundation-taking-on-the-public-design-practice"
+    },
+    {
+     "label": "DDW press release, Katja Pahnke and Martijn Paulen new management",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/837/katja-pahnke-and-martijn-paulen-will-form-the-new-management-of-dutch-design-foundation"
+    },
+    {
+     "label": "Het Koninklijk Huis, Koningin Maxima bezoekt Dutch Design Week 2023",
+     "url": "https://www.koninklijkhuis.nl/actueel/nieuws/2023/10/23/koningin-maxima-bezoekt-dutch-design-week-2023-in-eindhoven"
+    },
+    {
+     "label": "Dutch Design Awards, Makership, research and collaboration rewarded in DDA 2023",
+     "url": "https://www.dutchdesignawards.nl/en/update/creatorship-research-and-collaboration-rewarded-in-winners-dutch-design-awards-2023/"
+    },
+    {
+     "label": "Dutch Design Awards, Bosk (2023 Habitat winner)",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/bosk/"
+    },
+    {
+     "label": "Dutch Design Awards, The public has spoken (Public Award 2023)",
+     "url": "https://www.dutchdesignawards.nl/en/update/the-public-has-spoken-the-winner-of-the-dda-public-award-is/"
+    },
+    {
+     "label": "Dutch Design Week, Facts & Figures (press page)",
+     "url": "https://site.ddw.nl/en/press1/facts-figures"
+    },
+    {
+     "label": "DDW official Flickr albums 2023",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+    },
+    {
+     "label": "Dutch Design Week, About DDW",
      "url": "https://site.ddw.nl/en/about-ddw"
     },
     {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven), 2023",
-     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+     "label": "DDW news, Dutch Design Week Day 1",
+     "url": "https://archive.ddw.nl/en/news/856/dutch-design-week-day-1"
+    },
+    {
+     "label": "DDW news, Dutch Design Week 2023 Grand Opening",
+     "url": "https://archive.ddw.nl/en/news/858/dutch-design-week-2023-grand-opening"
+    },
+    {
+     "label": "DDW news, Dutch Design Week Day 3",
+     "url": "https://archive.ddw.nl/en/news/860/dutch-design-week-day-3"
+    },
+    {
+     "label": "DDW news, Dutch Design Week Day 4",
+     "url": "https://archive.ddw.nl/en/news/864/dutch-design-week-day-4"
+    },
+    {
+     "label": "DDW news, Dutch Design Week Day 6",
+     "url": "https://archive.ddw.nl/en/news/867/dutch-design-week-day-6"
+    },
+    {
+     "label": "DDW news, Dutch Design Week Day 8",
+     "url": "https://archive.ddw.nl/en/news/870/dutch-design-week-day-8"
+    },
+    {
+     "label": "DDW news, Dutch Design Week Day 9",
+     "url": "https://archive.ddw.nl/en/news/872/dutch-design-week-day-9"
+    },
+    {
+     "label": "4TU Design United, 2023 Ever-changing Relationships",
+     "url": "https://www.4tu.nl/du/editions/2023%20Ever-changing%20Relationships/"
+    },
+    {
+     "label": "DDW news, Yinka Ilori: my mission is all about creating moments of joy in public spaces",
+     "url": "https://archive.ddw.nl/en/news/841/yinka-ilori-my-mission-is-all-about-creating-moments-of-joy-in-public-spaces"
+    },
+    {
+     "label": "DDW news, Stefan Diez: there is no contradiction between good and sustainable design",
+     "url": "https://archive.ddw.nl/en/news/845/stefan-diez-there-is-no-contradiction-between-good-and-sustainable-design"
+    },
+    {
+     "label": "DDW news, Discover the seven selected designers of the Secrid Talent Podium",
+     "url": "https://archive.ddw.nl/en/news/851/discover-the-seven-selected-designers-of-the-secrid-talent-podium"
+    },
+    {
+     "label": "DDW news, Picture This: we're done with the throwaway society",
+     "url": "https://archive.ddw.nl/en/news/835/picture-this-were-done-with-the-throwaway-society"
+    },
+    {
+     "label": "DDW news, Dutch Design Foundation presents Mission Club",
+     "url": "https://archive.ddw.nl/en/news/873/dutch-design-foundation-presents-mission-club"
+    },
+    {
+     "label": "DDW news, Dutch Design Week signs the Green Deal Event",
+     "url": "https://archive.ddw.nl/en/news/813/dutch-design-week-signs-the-green-deal-event"
     }
    ],
    "images": [
@@ -1137,24 +1779,108 @@
    "research": [],
    "other": [
     {
-     "label": "Dutch Design Week press release, \"Dutch Design Week reveals 2024 theme: REAL UNREAL\" (June 28, 2024)",
+     "label": "DDW press release, Dutch Design Week reveals 2024 theme: REAL UNREAL",
      "url": "https://archive.ddw.nl/en/press1/press-archive/909/dutch-design-week-reveals-2024-theme-real-unreal"
     },
     {
-     "label": "Dutch Design Week press release on the 2024 program (September 10, 2024)",
+     "label": "DDW press release, Call for Entries is open: Dutch Design Week 2024",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/908/call-for-entries-is-open-dutch-design-week-2024"
+    },
+    {
+     "label": "DDW press release, The 2024 Evolution of Dutch Design Awards",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/911/the-2024-evolution-of-dutch-design-awards"
+    },
+    {
+     "label": "DDW press release, Dive in the programme of Dutch Design Week 2024",
      "url": "https://archive.ddw.nl/en/press1/press-archive/917/dive-in-the-programme-of-dutch-design-week-2024"
     },
     {
-     "label": "Dutch Design Week press release, \"The future looks bright at Dutch Design Week 2024\" (October 29, 2024)",
+     "label": "DDW press release, Meet the DDW24 beacons",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/935/meet-the-ddw24-beacons"
+    },
+    {
+     "label": "DDW press release, The future looks bright at Dutch Design Week 2024",
      "url": "https://archive.ddw.nl/en/press1/press-archive/973/the-future-looks-bright-at-dutch-design-week-2024"
     },
     {
-     "label": "Dutch Design Week, About DDW (list of past themes)",
+     "label": "DDW program, Trilix Bamboo Pavilion",
+     "url": "https://archive.ddw.nl/en/programme/11923/trilix-bamboo-pavilion"
+    },
+    {
+     "label": "Dutch Design Week, Facts & Figures (press page)",
+     "url": "https://site.ddw.nl/en/press1/facts-figures"
+    },
+    {
+     "label": "Dutch Design Week, About DDW",
      "url": "https://site.ddw.nl/en/about-ddw"
     },
     {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven), 2024",
+     "label": "DDW official Flickr albums 2024",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+    },
+    {
+     "label": "Neon Moire, 12 go-to events at Dutch Design Week 2016",
+     "url": "https://www.neonmoire.com/blog/36/12-go-to-events-at-dutch-design-week-2016"
+    },
+    {
+     "label": "DDW press release, Successful 15th DDW attracts more than 295,000 visitors",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/136/successful-15th-ddw-attracts-more-than-295000-visitors"
+    },
+    {
+     "label": "DDW news, Grand Projects in public spaces",
+     "url": "https://archive.ddw.nl/en/news/929/grand-projects-in-public-spaces"
+    },
+    {
+     "label": "DDW news, Designing Society: exploring a better future",
+     "url": "https://archive.ddw.nl/en/news/928/designing-society-exploring-a-better-future"
+    },
+    {
+     "label": "DDW news, The unique DNA of Eindhoven is at risk",
+     "url": "https://archive.ddw.nl/en/news/902/the-unique-dna-of-eindhoven-is-at-risk"
+    },
+    {
+     "label": "DDW news, Design Academy will stay in Eindhoven",
+     "url": "https://archive.ddw.nl/en/news/906/design-academy-will-stay-in-eindhoven"
+    },
+    {
+     "label": "DDW news, Losing Stroomhuis is a big loss for the creative community",
+     "url": "https://archive.ddw.nl/en/news/961/losing-stroomhuis-is-a-big-loss-for-the-creative-community"
+    },
+    {
+     "label": "DDW news, Dutch Design Week receives Trouw Sustainable 100 award",
+     "url": "https://archive.ddw.nl/en/news/951/dutch-design-week-receives-trouw-sustainable-100-award"
+    },
+    {
+     "label": "DDW news, Visitors of Dutch Design Week 2024 donate to Stichting VluchtelingenWerk Nederland",
+     "url": "https://archive.ddw.nl/en/news/977/visitors-of-dutch-design-week-2024-donate-to-stichting-vluchtelingenwerk-nederland"
+    },
+    {
+     "label": "DDW news, Tickets: nine for the price of one",
+     "url": "https://archive.ddw.nl/en/news/926/tickets-nine-for-the-price-of-one"
+    },
+    {
+     "label": "DDW news, Creative Voices of Dutch Design Week 2024",
+     "url": "https://archive.ddw.nl/en/news/967/creative-voices-of-dutch-design-week-2024"
+    },
+    {
+     "label": "DDW news, The seven talents reflect on the Secrid Talent Podium 2024",
+     "url": "https://archive.ddw.nl/en/news/979/the-seven-talents-reflect-on-the-secrid-talent-podium-2024"
+    },
+    {
+     "label": "4TU Design United, 2024 Changing Gears",
+     "url": "https://www.4tu.nl/du/editions/2024%20Changing-Gears/"
+    },
+    {
+     "label": "DDW news, Looking back at Designing Society",
+     "url": "https://archive.ddw.nl/en/news/976/looking-back-at-designing-society-the-ddw24-exhibition-by-dutch-design-foundation"
+    },
+    {
+     "label": "DDW press release, Surprising presentations and unusual locations in Eindhoven city centre (2015)",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/120/surprising-presentations-and-unusual-locations-in-eindhoven-city-centre"
+    },
+    {
+     "label": "DDW press release, Programme DDW Music (2015)",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/116/programme-ddw-music"
     }
    ],
    "images": [
@@ -1244,36 +1970,120 @@
    "research": [],
    "other": [
     {
-     "label": "Dutch Design Week press release, \"25th Dutch Design Week explores Past. Present. Possible.\" (July 8, 2025)",
+     "label": "DDW press release, 25th Dutch Design Week explores Past. Present. Possible.",
      "url": "https://archive.ddw.nl/en/press1/press-archive/993/25th-dutch-design-week-explores-past-present-possible"
     },
     {
-     "label": "Dutch Design Week press release, \"Dutch Design Week 2025 brings together the best in design\" (September 18, 2025)",
+     "label": "DDW press release, Dutch Design Week 2025 brings together the best in design",
      "url": "https://archive.ddw.nl/en/press1/press-archive/1001/dutch-design-week-2025-brings-together-the-best-in-design"
     },
     {
-     "label": "Dutch Design Week press release, \"The City as a Stage for Design\" (August 7, 2025)",
+     "label": "DDW press release, The City as a Stage for Design",
      "url": "https://archive.ddw.nl/en/press1/press-archive/995/the-city-as-a-stage-for-design"
     },
     {
-     "label": "Dutch Design Week press release, \"Queen Maxima opens 25th Dutch Design Week\" (October 16, 2025)",
-     "url": "https://archive.ddw.nl/en/press1/press-archive/1003/queen-maxima-opens-25th-dutch-design-week"
+     "label": "DDW press release, Queen Maxima to open the 25th Dutch Design Week",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/1002/queen-maxima-to-open-the-25th-dutch-design-week-in-eindhoven"
     },
     {
-     "label": "Dutch Design Week program page, \"Bridging Minds\"",
+     "label": "DDW program, Bridging Minds",
      "url": "https://ddw.nl/en/programme/archive/2025/bridging-minds"
     },
     {
-     "label": "Dutch Design Week program page, \"Class of 25\"",
-     "url": "https://ddw.nl/en/programme/archive/2025/class-of-25"
+     "label": "Architonic via designboom, interview with Miriam van der Lubbe",
+     "url": "https://www.designboom.com/design/dutch-design-week-turns-eindhoven-into-a-living-lab-with-more-than-2500-designers/"
     },
     {
-     "label": "Dutch Design Week official Flickr albums (dutchdesignweekeindhoven), 2025",
+     "label": "DDW press release, Queen Maxima opens 25th Dutch Design Week",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/1003/queen-maxima-opens-25th-dutch-design-week"
+    },
+    {
+     "label": "DDW press release, The future looks bright at Dutch Design Week 2024",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/973/the-future-looks-bright-at-dutch-design-week-2024"
+    },
+    {
+     "label": "Het Koninklijk Huis, Koningin Maxima bezoekt Dutch Design Week 2023",
+     "url": "https://www.koninklijkhuis.nl/actueel/nieuws/2023/10/23/koningin-maxima-bezoekt-dutch-design-week-2023-in-eindhoven"
+    },
+    {
+     "label": "Dutch Design Week, Facts & Figures (press page)",
+     "url": "https://site.ddw.nl/en/press1/facts-figures"
+    },
+    {
+     "label": "Dutch Design Week, About DDW",
+     "url": "https://site.ddw.nl/en/about-ddw"
+    },
+    {
+     "label": "DDW official Flickr albums 2025",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
     },
     {
-     "label": "Dutch Design Week, About DDW (list of past themes)",
-     "url": "https://site.ddw.nl/en/about-ddw"
+     "label": "DDW program, Class of 25",
+     "url": "https://ddw.nl/en/programme/archive/2025/class-of-25"
+    },
+    {
+     "label": "DDW press release, Next generation of top designers wins Dutch Design Awards 2025",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/1004/next-generation-of-top-designers-wins-dutch-design-awards-2025"
+    },
+    {
+     "label": "DDW press release, The 2024 Evolution of Dutch Design Awards",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/911/the-2024-evolution-of-dutch-design-awards"
+    },
+    {
+     "label": "DDW press release, Paulen announces departure as of 1 January 2026",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/997/managing-director-martijn-paulen-announces-departure-from-dutch-design-foundation-as-of-1-january-2026"
+    },
+    {
+     "label": "DDW press release, Future > Factory > Furniture > goes international",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/986/future-factory-furniture-goes-international"
+    },
+    {
+     "label": "Omroep Brabant, Door de DDW hoort Eindhoven bij de grote drie",
+     "url": "https://www.omroepbrabant.nl/nieuws/3970802/door-de-dutch-design-week-hoort-eindhoven-bij-de-grote-drie-van-de-wereld"
+    },
+    {
+     "label": "DDW press release, Successful 14th DDW (2015)",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/124/successful-14th-ddw-attracts-more-than-275000-visitors"
+    },
+    {
+     "label": "DDW press release, theme The New Intimacy (2020)",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/529/dutch-design-week-presents-2020-theme-the-new-intimacy"
+    },
+    {
+     "label": "DDW press release, live stage in 2021",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/653/dutch-design-week-sets-course-for-a-live-stage-in-eindhoven-in-2021"
+    },
+    {
+     "label": "DDW press release, Save the Date 2023",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/814/save-the-date-dutch-design-week-2023"
+    },
+    {
+     "label": "DDW press release, Call for Entries 2024",
+     "url": "https://archive.ddw.nl/en/press1/press-archive/908/call-for-entries-is-open-dutch-design-week-2024"
+    },
+    {
+     "label": "DDW news, Discover the Grand Projects in Public Space at DDW25",
+     "url": "https://archive.ddw.nl/en/news/992/discover-the-grand-projects-in-public-space-at-ddw25"
+    },
+    {
+     "label": "DDW news, Dutch Design Week presents HUBS",
+     "url": "https://archive.ddw.nl/en/news/998/dutch-design-week-presents-hubs"
+    },
+    {
+     "label": "DDW news, Forward Furniture: discover the future of visionary furniture design",
+     "url": "https://archive.ddw.nl/en/news/999/forward-furniture-discover-the-future-of-visionary-furniture-design"
+    },
+    {
+     "label": "DDW news, Former beacons at Dutch Design Week 2025",
+     "url": "https://archive.ddw.nl/en/news/1000/former-beacons-at-dutch-design-week-2025-bas-van-de-poel-stefan-diez-and-many-more"
+    },
+    {
+     "label": "DDW news, Thank you for coming, see you at Dutch Design Week 2026",
+     "url": "https://archive.ddw.nl/en/news/1005/thank-you-for-coming-see-you-at-dutch-design-week-2026"
+    },
+    {
+     "label": "4TU Design United, 2025 Less Hope, More Action",
+     "url": "https://www.4tu.nl/du/editions/2025-less-hope-more-action!/"
     }
    ],
    "images": [

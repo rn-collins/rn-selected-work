@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09",
+ "generated": "2026-10-10",
  "host": "rn-selected-work.vercel.app",
  "posts": [
   {
@@ -75,6 +75,18 @@
     {
      "label": "Dutch Design Week magazine archive, Close up Klokgebouw",
      "url": "https://site.ddw.nl/en/magazine-archive/373/close-up-klokgebouw"
+    },
+    {
+     "label": "Wikipedia (nl), Strijp-S",
+     "url": "https://nl.wikipedia.org/wiki/Strijp-S"
+    },
+    {
+     "label": "Wikipedia (en), Strijp-S",
+     "url": "https://en.wikipedia.org/wiki/Strijp-S"
+    },
+    {
+     "label": "This is Eindhoven, DDW tip Klokgebouw",
+     "url": "https://www.thisiseindhoven.com/en/see-and-do/culture-and-design/ddw-tip-klokgebouw"
     }
    ],
    "images": [
@@ -205,6 +217,10 @@
    },
    "research": [
     {
+     "label": "Architectuurcentrum Eindhoven, Doe-het-zelf-architectuurwandeling Strijp-S (PDF)",
+     "url": "https://www.architectuurcentrumeindhoven.nl/wp-content/uploads/2020/06/DVDA-Strijp-S.pdf"
+    },
+    {
      "label": "Erfgoed Brabant Verhalen, Strijp-S (Jan van Oudheusden)",
      "url": "https://erfgoedbrabantverhalen.nl/page/4024/strijp-s"
     },
@@ -273,6 +289,14 @@
     {
      "label": "This is Eindhoven, DDW-tip: Ketelhuisplein",
      "url": "https://www.thisiseindhoven.com/en/see-and-do/culture-and-design/ddw-tip-ketelhuisplein"
+    },
+    {
+     "label": "Wikipedia (nl), Strijp-S",
+     "url": "https://nl.wikipedia.org/wiki/Strijp-S"
+    },
+    {
+     "label": "Wikipedia (en), Strijp-S",
+     "url": "https://en.wikipedia.org/wiki/Strijp-S"
     }
    ],
    "images": [
@@ -501,6 +525,14 @@
     {
      "label": "Open Monumentendag, Kazerne Design en erfgoed (second entry)",
      "url": "https://www.openmonumentendag.nl/monument/karerne-design-en-erfgeod/"
+    },
+    {
+     "label": "Kazerne, visit page",
+     "url": "https://kazerne.com/en/visit/"
+    },
+    {
+     "label": "Kazerne, about page",
+     "url": "https://kazerne.com/en/about"
     }
    ],
    "images": [
@@ -746,6 +778,18 @@
     {
      "label": "Design Perron, pictures and video",
      "url": "https://www.designperron.nl/pictures"
+    },
+    {
+     "label": "DDW, Design Perron location page (nl)",
+     "url": "https://site.ddw.nl/nl/locaties/519/design-perron"
+    },
+    {
+     "label": "rijksmonumenten.nl, Station Eindhoven (copy of the register)",
+     "url": "https://rijksmonumenten.nl/monument/530936/station-eindhoven/eindhoven/"
+    },
+    {
+     "label": "Wikipedia (nl), Station Eindhoven Centraal",
+     "url": "https://nl.wikipedia.org/wiki/Station_Eindhoven_Centraal"
     }
    ],
    "images": [
@@ -1028,6 +1072,38 @@
     {
      "label": "MU, Statutory information and ANBI",
      "url": "https://archive.mu.nl/basicpage/about-mu/statuary-information-anbi"
+    },
+    {
+     "label": "Driehoek Strijp-S, 'mu hybrid art house' (MU's own history text), March 10, 2022",
+     "url": "https://www.driehoekstrijps.nl/nieuws/mu-hybrid-art-house"
+    },
+    {
+     "label": "Visit Brabant, MU Hybrid Art House",
+     "url": "https://www.visitbrabant.com/en/locations/1596584260/mu-hybrid-art-house"
+    },
+    {
+     "label": "MU Hybrid Art House profile on Flickr (MU's own text)",
+     "url": "https://www.flickr.com/people/mu-eindhoven/"
+    },
+    {
+     "label": "Wikipedia, Strijp-S",
+     "url": "https://en.wikipedia.org/wiki/Strijp-S"
+    },
+    {
+     "label": "Dutch Design Week, Programme",
+     "url": "https://ddw.nl/en/programme"
+    },
+    {
+     "label": "Dutch Design Week, Everything Moist Seems Alive",
+     "url": "https://ddw.nl/en/programme/everything-moist-seems-alive"
+    },
+    {
+     "label": "Dutch Design Daily, 'DDW25 Other Intelligences', October 20, 2025",
+     "url": "https://dutchdesigndaily.com/stories/ddw25-other-intelligences/"
+    },
+    {
+     "label": "Dutch Design Week, location page 'MU Hybrid Art House | Container Plug-in-City'",
+     "url": "https://site.ddw.nl/en/locations/1292/mu-hybrid-art-house-container-plug-in-city"
     }
    ],
    "images": [
@@ -1253,6 +1329,26 @@
     {
      "label": "Nationaal Renovatie Platform, Veemgebouw",
      "url": "https://nrp.nl/projecten/veemgebouw-eindhoven/"
+    },
+    {
+     "label": "Wikipedia (Dutch), Veemgebouw",
+     "url": "https://nl.wikipedia.org/wiki/Veemgebouw"
+    },
+    {
+     "label": "Eindhoven-Now, 'Philips experimentele TV uitzendingen in Eindhoven'",
+     "url": "https://www.eindhoven-now.nl/geschiedenis/10650-philips-experimentele-tv-uitzendingen-in-eindhoven.html"
+    },
+    {
+     "label": "Manifestations 2022 website",
+     "url": "https://2022.manifestations.nl/en/"
+    },
+    {
+     "label": "Dutch Design Week, Locations and Programme pages (page title)",
+     "url": "https://ddw.nl/en/locations"
+    },
+    {
+     "label": "Dutch Design Week, Programme",
+     "url": "https://ddw.nl/en/programme"
     }
    ],
    "images": [
@@ -1466,6 +1562,26 @@
     {
      "label": "Dutch Design Week, Natlab location page (DDW 2026)",
      "url": "https://site.ddw.nl/en/locations/738/natlab"
+    },
+    {
+     "label": "Strijp-S, building page NatLab",
+     "url": "https://strijp-s.nl/en/building/natlab"
+    },
+    {
+     "label": "This is Eindhoven, Eindhoven from A to Z: Natlab",
+     "url": "https://www.thisiseindhoven.com/en/city-life/eindhoven-from-a-to-z/eindhoven-van-a-tot-z-natlab"
+    },
+    {
+     "label": "Natlab (cinema) website",
+     "url": "https://www.natlab.nl/en"
+    },
+    {
+     "label": "Wikipedia, Philips Natuurkundig Laboratorium",
+     "url": "https://en.wikipedia.org/wiki/Philips_Natuurkundig_Laboratorium"
+    },
+    {
+     "label": "Neonmoire, 12 go-to events at Dutch Design Week 2016",
+     "url": "http://www.neonmoire.com/announcement/12-go-to-events-at-dutch-design-week-2016"
     }
    ],
    "images": [
@@ -1733,6 +1849,18 @@
     {
      "label": "LOLA Landscape Architects, Evoluon Park",
      "url": "https://lola.land/project/evoluon-park/"
+    },
+    {
+     "label": "Visit Brabant, RetroFuture",
+     "url": "https://www.visitbrabant.com/en/locations/3185243362/retrofuture"
+    },
+    {
+     "label": "Wikipedia, Evoluon",
+     "url": "https://en.wikipedia.org/wiki/Evoluon"
+    },
+    {
+     "label": "Strijp-S sitemap, building pages",
+     "url": "https://www.strijp-s.nl/sitemap.xml"
     }
    ],
    "images": [
@@ -1927,6 +2055,22 @@
     {
      "label": "eindhoven4044.nl, Sinterklaasbombardement",
      "url": "https://www.eindhoven4044.nl/11/Sinterklaasbombardement.html"
+    },
+    {
+     "label": "Strijp-S news, Dutch Design Week 2025 celebrates 25 years of innovation",
+     "url": "https://strijp-s.nl/en/news/dutch-design-week-2025-celebrates-25-years-of-innovation"
+    },
+    {
+     "label": "Wikipedia, Strijp-S",
+     "url": "https://en.wikipedia.org/wiki/Strijp-S"
+    },
+    {
+     "label": "arqa.com, Strijp-S (gives 2004; Driehoek Strijp-S and Herbestemming also give 2004)",
+     "url": "https://arqa.com/en/_arqanews-archivo-en/strijp-s.html"
+    },
+    {
+     "label": "This is Eindhoven, Natlab entry",
+     "url": "https://www.thisiseindhoven.com/en/city-life/eindhoven-from-a-to-z/eindhoven-van-a-tot-z-natlab"
     }
    ],
    "images": [
@@ -2183,6 +2327,10 @@
     {
      "label": "TAC, A bit of history of TAC",
      "url": "https://www.tac.nu/a-bit-of-history-of-tac/?lang=en"
+    },
+    {
+     "label": "WhichMuseum, DDW: Beyond Generations",
+     "url": "https://whichmuseum.nl/tentoonstelling/ddw-beyond-generations-design-academy-eindhoven-en-van-abbemuseum-van-abbemuseum-9039"
     }
    ],
    "images": [
@@ -2375,6 +2523,14 @@
     {
      "label": "Dutch Design Week, Microlab - Playground (2026 listing)",
      "url": "https://site.ddw.nl/en/locations/1374/microlab-playground"
+    },
+    {
+     "label": "Wikipedia (nl), Strijp-S",
+     "url": "https://nl.wikipedia.org/wiki/Strijp-S"
+    },
+    {
+     "label": "Design Society, Dutch Design Week 2022 (December 12, 2022)",
+     "url": "https://designsociety.gr/en/post/dutch-design-week-2022-oi-nees-texnologies-i-biosimotita-kai-oi-neoi-dimiourgoi-se-proto-plano_661"
     }
    ],
    "images": [
@@ -2557,6 +2713,10 @@
     {
      "label": "VDL Groep, Geschiedenis",
      "url": "https://www.vdlgroep.com/nl/vdl-groep/geschiedenis"
+    },
+    {
+     "label": "DDW, locations list (DDW 2026)",
+     "url": "https://site.ddw.nl/en/locations"
     }
    ],
    "images": [
@@ -2971,6 +3131,18 @@
     {
      "label": "Dutch Design Week, Atelier NL location page (2026)",
      "url": "https://ddw.nl/en/locations/atelier-nl"
+    },
+    {
+     "label": "DDW 2026 locations list",
+     "url": "https://ddw.nl/en/locations"
+    },
+    {
+     "label": "postcode.site, 5615 PP",
+     "url": "https://postcode.site/postcode/5615-pp"
+    },
+    {
+     "label": "Wikipedia (en), Strijp-S",
+     "url": "https://en.wikipedia.org/wiki/Strijp-S"
     }
    ],
    "images": [
@@ -3176,6 +3348,30 @@
     {
      "label": "Het Houtblad, \"Circulair paviljoen verhuist\"",
      "url": "https://www.hethoutblad.nl/architectuur/circulair-paviljoen-verhuist/91544/"
+    },
+    {
+     "label": "Wikipedia (nl), De Ontdekfabriek",
+     "url": "https://nl.wikipedia.org/wiki/De_Ontdekfabriek"
+    },
+    {
+     "label": "Driehoek Strijp-S, De Ontdekfabriek",
+     "url": "https://www.driehoekstrijps.nl/whats-going-on/jeugd/de-ontdekfabriek"
+    },
+    {
+     "label": "VisitBrabant, De Ontdekfabriek",
+     "url": "https://www.visitbrabant.com/nl/locaties/2514333746/de-ontdekfabriek"
+    },
+    {
+     "label": "Demcon, Our new partner: De Ontdekfabriek (February 1, 2023)",
+     "url": "https://demcon.com/news/our-new-partner-de-ontdekfabriek"
+    },
+    {
+     "label": "This is Eindhoven, 10x Happiest spots for kids (July 8, 2025)",
+     "url": "https://www.thisiseindhoven.com/en/see-and-do/recreation/10x-happiest-spots-for-kids"
+    },
+    {
+     "label": "Wikipedia (en), Strijp-S",
+     "url": "https://en.wikipedia.org/wiki/Strijp-S"
     }
    ],
    "images": [
@@ -3354,6 +3550,18 @@
     {
      "label": "GLOW Eindhoven, Waterfalls of Light (Binini + Cano)",
      "url": "https://gloweindhoven.nl/en/project/waterfalls-of-light/"
+    },
+    {
+     "label": "This is Eindhoven, NRE-terrein",
+     "url": "https://www.thisiseindhoven.com/en/work-and-study/tech-and-maker-districts/nre-terrein"
+    },
+    {
+     "label": "Wikipedia (nl), NRE-terrein",
+     "url": "https://nl.wikipedia.org/wiki/NRE-terrein"
+    },
+    {
+     "label": "This is Eindhoven, DDW tip Kanaalzone (October 1, 2026)",
+     "url": "https://www.thisiseindhoven.com/en/see-and-do/culture-and-design/ddw-tip-kanaalzone"
     }
    ],
    "images": [
@@ -3536,6 +3744,26 @@
     {
      "label": "Dutch Design Week, Locations 2026",
      "url": "https://site.ddw.nl/en/locations"
+    },
+    {
+     "label": "DDW news, Open call: Dutch Design Week is seeking Grand Projects in public spaces",
+     "url": "https://site.ddw.nl/en/news/892/open-call-dutch-design-week-is-seeking-grand-projects-in-public-spaces"
+    },
+    {
+     "label": "EO Blauw Bloed, Paul en de Provincie: Noord-Brabant, de innovatieve stad Eindhoven",
+     "url": "https://blauwbloed.eo.nl/royaltynieuws/paul-en-de-provincie-noord-brabant-de-innovatieve-stad-eindhoven"
+    },
+    {
+     "label": "Wikipedia (nl), Stadhuis van Eindhoven",
+     "url": "https://nl.wikipedia.org/wiki/Stadhuis_van_Eindhoven"
+    },
+    {
+     "label": "Wikipedia (en), Jan van der Laan",
+     "url": "https://en.wikipedia.org/wiki/Jan_van_der_Laan"
+    },
+    {
+     "label": "Gemeenteblad Eindhoven, gmb-2025-514694 (November 26, 2025)",
+     "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-514694.html"
     }
    ],
    "images": [
@@ -4084,6 +4312,18 @@
     {
      "label": "Dutch Design Week official Flickr account, Canal-labeled albums 2023, 2024 and 2025",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
+    },
+    {
+     "label": "DDW 2026 locations list",
+     "url": "https://ddw.nl/en/locations"
+    },
+    {
+     "label": "DDW programme archive, Carte Blanche",
+     "url": "https://ddw.nl/en/programme/12402/carte-blanche"
+    },
+    {
+     "label": "This is Eindhoven, Area-tip: Kanaalzone (October 1, 2026)",
+     "url": "https://www.thisiseindhoven.com/en/see-and-do/culture-and-design/ddw-tip-kanaalzone"
     }
    ],
    "images": [
