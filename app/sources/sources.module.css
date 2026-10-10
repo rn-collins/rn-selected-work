@@ -15,7 +15,8 @@
 .credit{font-size:14px;opacity:.8}
 .index{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
 .index li{padding:16px 0;border-bottom:1px solid var(--line);font-size:19px}
-.back{margin-top:40px;font-size:16px}
+.client{margin-top:44px;padding-top:18px;border-top:1px solid var(--line, currentColor);font-size:17px;line-height:1.5;max-width:680px}
+.back{margin-top:24px;font-size:16px}
 @media(max-width:600px){.images div{grid-template-columns:1fr;gap:4px}.intro{font-size:17px}}
 .back a{color:var(--ink);text-underline-offset:3px}
 .origin{display:grid;gap:4px;margin:0 0 34px;padding:22px 24px;background:var(--ink);color:var(--paper);text-decoration:none;max-width:680px}

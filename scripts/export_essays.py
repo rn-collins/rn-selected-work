@@ -7,7 +7,7 @@ The content-studio folder holds render-kit/article_registry.json. Each registry 
 "unpublished_essay" and whose long_form.essay_path points at an existing article.json is exported, with the
 essay text read from the article.md beside it. The entry's sources_slug gives the account and the id, which are the
 same account and id as the matching sources page (/sources/<account>/<id>). An entry whose essay file does not exist
-yet (the DDW 27 essays) is reported as pending; run the script again once the file lands.
+yet is reported as pending; run the script again once the file lands.
 
 Read into the output: title, standfirst (subtitle), page title and description, byline, date (only when the essay has
 one), the body text with its plain-English headings, and the numbered sources (label and address only).
@@ -67,8 +67,8 @@ def public_link(label, url):
 
 
 # --- article.md -> blocks ---------------------------------------------------------------------------------
-CITE = re.compile(r"(?:\[S\d+\])+")
-TOKEN = re.compile(r"(\*\*[^*]+\*\*)|((?:\[S\d+\])+)")
+CITE = re.compile(r"(?:\[S\d+[a-z]?\])+")
+TOKEN = re.compile(r"(\*\*[^*]+\*\*)|((?:\[S\d+[a-z]?\])+)")
 
 
 def inline(text):
@@ -80,7 +80,7 @@ def inline(text):
         if m.group(1):
             runs.append(["b", m.group(1)[2:-2]])
         else:
-            runs.append(["c", re.findall(r"S\d+", m.group(2))])
+            runs.append(["c", re.findall(r"S\d+[a-z]?", m.group(2))])
         pos = m.end()
     if pos < len(text):
         runs.append(["t", text[pos:]])
