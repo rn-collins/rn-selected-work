@@ -1,0 +1,2702 @@
+{
+ "generated": "2026-10-09",
+ "host": "rn-selected-work.vercel.app",
+ "posts": [
+  {
+   "slug": "c14-02",
+   "date": "2026-10-13",
+   "id": "C14-02",
+   "title": "A Rule Tested Between Hawaiian Islands Changed How Shared Networks Speak",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-02"
+   },
+   "research": [
+    {
+     "label": "THE ALOHANET — SURFING FOR WIRELESS DATA (eng.hawaii.edu)",
+     "url": "https://www.eng.hawaii.edu/wp-content/uploads/2020/06/THE-ALOHANET-%E2%80%94-SURFING-FOR-WIRELESS-DATA.pdf"
+    },
+    {
+     "label": "Jresv86n6p591 A1b (nvlpubs.nist.gov)",
+     "url": "https://nvlpubs.nist.gov/nistpubs/jres/086/jresv86n6p591_A1b.pdf"
+    },
+    {
+     "label": "dl.acm.org/doi/10.1145/360248.360253",
+     "url": "https://dl.acm.org/doi/10.1145/360248.360253"
+    },
+    {
+     "label": "50 years of alohanet (hawaii.edu)",
+     "url": "https://www.hawaii.edu/news/2021/06/16/50-years-of-alohanet/"
+    },
+    {
+     "label": "manoa.hawaii.edu/news/article.php",
+     "url": "https://manoa.hawaii.edu/news/article.php?aId=10965"
+    }
+   ],
+   "other": [
+    {
+     "label": "ntrs.nasa.gov/citations/19750023705",
+     "url": "https://ntrs.nasa.gov/citations/19750023705"
+    },
+    {
+     "label": "How alohanet helped hawaii make waves networking and it innovation (statetechmagazine.com)",
+     "url": "https://statetechmagazine.com/article/2016/06/how-alohanet-helped-hawaii-make-waves-networking-and-it-innovation"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A 1971 photograph of ALOHAnet equipment at the University of Hawaiʻi: a video terminal and the rack unit labeled ALOHA TCU, the terminal control unit, in a window office with Diamond Head behind",
+     "credit": "Photo: Norm Abramson/UH Mānoa",
+     "url": "https://spectrum.ieee.org/alohanet-introduced-random-access-protocols-to-the-computing-world",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a 1973 photograph of an ALOHAnet user terminal with the ALOHA PCU, the programmable control unit, on a desk at the University of Hawaiʻi, Diamond Head behind",
+     "credit": "Source: Abramson, IEEE ComMag 2009",
+     "url": "https://www.eng.hawaii.edu/wp-content/uploads/2020/06/THE-ALOHANET-%E2%80%94-SURFING-FOR-WIRELESS-DATA.pdf (IEEE Communications Magazine, December 2009, p. 23, Figure 2)",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the Hawaiian Islands seen from the International Space Station in January 2014, with Oʻahu, Molokaʻi, Maui and Hawaiʻi Island in view",
+     "credit": "Photo: NASA",
+     "url": "https://commons.wikimedia.org/wiki/File:ISS-38_Hawaiian_Island_chain.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a 1970s Experimental Packet Radio rack (Rockwell radio unit and digital unit, Collins Radio) from DARPA's Packet Radio Program, on display at the Computer History Museum",
+     "credit": "Photo: Marcin Wichary, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Terminal_Interface_Unit_(TIU)_and_Experimental_Packet_Radio_(EPR)_(2230480776).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a Hewlett-Packard 2100 minicomputer with tape drives and a printer, photographed at the European Southern Observatory in Chile in 1974",
+     "credit": "Photo: ESO, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:ESO_Hewlett_Packard_2100_minicomputer.jpg (https://www.eso.org/public/images/potw1223a/)",
+     "card": false
+    },
+    {
+     "where": "Slide 6a",
+     "what": "Illustrative photo: the Wilfred J. Holmes Hall, College of Engineering sign at the University of Hawaiʻi at Mānoa, the building where the ALOHA System was developed",
+     "credit": "Source: ETHW (IEEE History Center)",
+     "url": "https://ethw.org/File:Alohanet_plaque_Holmes_building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6b",
+     "what": "Black-and-white studio portrait of Franklin Kuo as a younger man in a dark jacket, white shirt and striped tie, photographed as a framed print on a grey wall",
+     "credit": "Photo: Masao Miyamoto, UH Archives",
+     "url": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: a rack of SRI International packet radio equipment from DARPA's packet radio program (a Gateway, a Packet Radio Ministation and a Terminal/Host Interface Unit), on display at the Computer History Museum",
+     "credit": "Photo: Marcin Wichary",
+     "url": "https://commons.wikimedia.org/wiki/File:Army_Packet_Radio_Network_Protocol_Study_-_SRI,_November_1977.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: a 10BASE5 Ethernet transceiver (an AMP tap with a Cabletron ST-500 unit) clamped onto a yellow coaxial cable",
+     "credit": "Photo: Fernost",
+     "url": "https://commons.wikimedia.org/wiki/File:Yellowcable_mit_AMP_tranceiver_auf_AUI_P4510208.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The ALOHAnet satellite dish on the roof of Holmes Hall at the University of Hawaiʻi at Mānoa, with some of the College of Engineering team standing in front, in an undated photograph courtesy of Ram Chandran",
+     "credit": "Photo: courtesy Ram Chandran",
+     "url": "https://www.hawaii.edu/news/2020/10/13/alohanet-honored-as-engineering-milestone/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The IEEE Milestone plaque for the demonstration of the ALOHA packet radio data network, 1971, installed at Holmes Hall, University of Hawaiʻi at Mānoa, photographed as an object",
+     "credit": "Source: ETHW (IEEE History Center)",
+     "url": "https://ethw.org/File:ALOHAnet-Milestone.png",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: a public Wi-Fi sticker with the Wi-Fi icon on a lamp post in Vienna, Austria",
+     "credit": "Photo: Herzi Pinki",
+     "url": "https://commons.wikimedia.org/wiki/File:Wi-Fi_sign,_Spittelauer_Platz.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: the front of a white 5-port Edimax Fast Ethernet hub, a shared-medium network box, with a Power light, a COL (collision) light and numbered port lights",
+     "credit": "Photo: George Shuklin",
+     "url": "https://commons.wikimedia.org/wiki/File:Edimax_Ethernet_Hub.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10c",
+     "what": "Illustrative photo: the front of an 8-port Netgear DS108 dual-speed Ethernet hub, with rows of small indicator lights marked Col (collision) and Utilization %, a built-in readout of how much of a shared channel is in use",
+     "credit": "Photo: heimnetzwerke.net",
+     "url": "https://commons.wikimedia.org/wiki/File:Netgear_DS108_Hub.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-12",
+   "date": "2026-10-14",
+   "id": "C14-12",
+   "title": "The Papaya Was Engineered. So Was the Rescue System.",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-12"
+   },
+   "research": [
+    {
+     "label": "HITAHR 05 08 94 (ctahr.hawaii.edu)",
+     "url": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/HITAHR_05-08-94.pdf"
+    },
+    {
+     "label": "App to track papaya ringspot virus created (hawaii.edu)",
+     "url": "https://www.hawaii.edu/news/2014/04/16/app-to-track-papaya-ringspot-virus-created/"
+    },
+    {
+     "label": "IpHandbook Ch 17 27 Goldman Papayas (ipmall.law.unh.edu)",
+     "url": "https://ipmall.law.unh.edu/sites/default/files/hosted_resources/IP_handbook/ch17/ipHandbook-Ch%2017%2027%20Goldman%20Papayas.pdf"
+    },
+    {
+     "label": "Cornell and university hawaii introduce first genetically engineered fruit crop (news.cornell.edu)",
+     "url": "https://news.cornell.edu/stories/1996/09/cornell-and-university-hawaii-introduce-first-genetically-engineered-fruit-crop"
+    },
+    {
+     "label": "law.cornell.edu/cfr/text/40/174.515",
+     "url": "https://www.law.cornell.edu/cfr/text/40/174.515"
+    },
+    {
+     "label": "ams.usda.gov",
+     "url": "https://www.ams.usda.gov/sites/default/files/media/BEPapayaSummary.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "apsnet.org",
+     "url": "https://www.apsnet.org/edcenter/apsnetfeatures/Pages/papayaringspot.aspx"
+    },
+    {
+     "label": "ars.usda.gov/research/publications/publication",
+     "url": "https://www.ars.usda.gov/research/publications/publication/?seqNo115=146156"
+    },
+    {
+     "label": "apsnet.org",
+     "url": "https://www.apsnet.org/edcenter/apsnetfeatures/Pages/Papaya.aspx"
+    },
+    {
+     "label": "File:Starr 070215 4510 Carica papaya (commons.wikimedia.org)",
+     "url": "https://commons.wikimedia.org/wiki/File:Starr_070215-4510_Carica_papaya.jpg"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Two tall papaya trees loaded with green fruit stand in a Hawaiʻi Island orchard under a partly cloudy sky, with more rows of trees behind them",
+     "credit": "Photo: Greb, USDA ARS",
+     "url": "https://www.ars.usda.gov/oc/images/photos/jan04/k10929-1/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A papaya field in Hawaiʻi affected by papaya ringspot virus: rows of stunted, yellowed and mottled papaya trees on dark ground, with forest in the distance",
+     "credit": "Photo: Scot Nelson, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Prsv-13.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "Illustrative photo: the third prototype of the Cornell biolistic gene gun, a metal chamber with a brass valve on top and a round window in front, photographed against a dark ground by the Smithsonian",
+     "credit": "Source: Smithsonian NMAH",
+     "url": "https://www.si.edu/object/biolistic-particle-gun-prototype-iii:nmah_1167048",
+     "card": false
+    },
+    {
+     "where": "Slide 3b",
+     "what": "Illustrative photo: a horticulturist at the Hawaii Agriculture Research Center checks the root development of small papaya shoots in a tray, photographed by USDA in 2004",
+     "credit": "Photo: Greb, USDA ARS",
+     "url": "https://www.ars.usda.gov/oc/images/photos/jan04/k10927-1/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Inside a shaded greenhouse, a horticulturist and a research center director look over trays of young papaya plants",
+     "credit": "Photo: Greb, USDA ARS",
+     "url": "https://www.ars.usda.gov/oc/images/photos/jan04/k10926-1/",
+     "card": false
+    },
+    {
+     "where": "Slide 5a",
+     "what": "Illustrative photo: a worker in a hat and protective gear sprays fungicide from a tractor-mounted rig between rows of tall papaya trees on dark ground, a Hawaiʻi orchard photographed in the late 1980s or early 1990s by plant pathologist Wayne Nishijima",
+     "credit": "Photo: Wayne Nishijima, CC0",
+     "url": "https://www.flickr.com/photos/scotnelson/12818450985/",
+     "card": false
+    },
+    {
+     "where": "Slide 5b",
+     "what": "Illustrative photo: a basket of whole papayas, green to orange, photographed at Laulima Farm in Kīpahulu, Maui, in 2012 by botanists Forest and Kim Starr",
+     "credit": "Photo: Forest and Kim Starr",
+     "url": "https://commons.wikimedia.org/wiki/File:Starr-120606-7048-Carica_papaya-fruit-Laulima_Farm_Kipahulu-Maui_(24517881513).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Two people stand between rows of papaya trees on dark volcanic ground in the Waiakea Conservation District, Hawaiʻi Island, each holding a papaya: a plant supervisor for Tropical Hawaiian Products and an NRCS conservationist, discussing the orchard",
+     "credit": "Photo: Ron Nichols, USDA NRCS",
+     "url": "https://commons.wikimedia.org/wiki/File:NRCSHI97004_-_Hawaii_(2157)(NRCS_Photo_Gallery).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Two men in a packing shed examine green papayas in cardboard boxes after hot-forced-air treatment, a quarantine step for Hawaiʻi papaya exports, photographed by USDA in 1998",
+     "credit": "Photo: Scott Bauer, USDA ARS",
+     "url": "https://www.ars.usda.gov/oc/images/photos/jan98/k7888-2/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A line of people holding signs stands along a highway beside palm trees on Maui, with a police monitoring camera on a tripod in the foreground; this was a 2012 GMO Free Maui protest at the gate of a Monsanto test field",
+     "credit": "Photo: Viriditas, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Remote_police_crowd_monitoring_of_Occupy_Wall_Street_Maui_and_GMO_Free_Maui_protest.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: two plantings of papaya side by side along a dirt track in Hawaiʻi, healthy dense transgenic trees on the left and sparse virus-infected trees with bare trunks on the right, photographed by University of Hawaii plant pathologist Stephen Ferreira",
+     "credit": "Photo: Stephen Ferreira, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Prsv-11.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a papaya field where most trees stand as bare, leafless trunks among weeds, with a low cinder hill behind, a field hit by Phytophthora blight, photographed by Scot Nelson of Honolulu and posted in 2011 (the file page links a University of Hawaii extension publication but gives no place or date)",
+     "credit": "Photo: Scot Nelson, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Phytophthora_blight_papaya_(5681631932).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: a USDA plant physiologist examines papaya plantlets growing in a petri dish in a research lab, photographed by USDA in 2004",
+     "credit": "Photo: Greb, USDA ARS",
+     "url": "https://www.ars.usda.gov/oc/images/photos/jan04/k10923-1/",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: a papaya cut open to show its seed cavity packed with round, dark, jelly-coated seeds, photographed at Laulima Farm in Kīpahulu, Maui, in 2012 by Forest and Kim Starr",
+     "credit": "Photo: Forest and Kim Starr",
+     "url": "https://commons.wikimedia.org/wiki/File:Starr-120606-7045-Carica_papaya-fruit_and_seeds-Laulima_Farm_Kipahulu-Maui_(25051447731).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-14",
+   "date": "2026-10-17",
+   "id": "C14-14",
+   "title": "Hawaiʻi Once Ran on a Half-Hour the Continent Forgot",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-14"
+   },
+   "research": [
+    {
+     "label": "evols.library.manoa.hawaii.edu/handle/10524/239",
+     "url": "https://evols.library.manoa.hawaii.edu/handle/10524/239"
+    },
+    {
+     "label": "STATUTE 107 Pg1510 (govinfo.gov)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg1510.pdf"
+    },
+    {
+     "label": "evols.library.manoa.hawaii.edu/bitstream/10524/239/2/JL26215.pdf",
+     "url": "https://evols.library.manoa.hawaii.edu/bitstream/10524/239/2/JL26215.pdf"
+    },
+    {
+     "label": "STATUTE 31 Pg141 (govinfo.gov)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-31/pdf/STATUTE-31-Pg141.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "HRS 0001 0031 (data.capitol.hawaii.gov)",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0001/HRS_0001-0031.htm"
+    },
+    {
+     "label": "Local time faqs (nist.gov)",
+     "url": "https://www.nist.gov/pml/time-and-frequency-division/local-time-faqs"
+    },
+    {
+     "label": "Time act (transportation.gov)",
+     "url": "https://www.transportation.gov/regulations/time-act"
+    },
+    {
+     "label": "data.iana.org/time-zones/tzdb/northamerica",
+     "url": "https://data.iana.org/time-zones/tzdb/northamerica"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The clock on the tower of Aliʻiōlani Hale, Honolulu, in a 1966 survey photograph, with the Hawaiian motto lettered above the dial",
+     "credit": "Photo: Jack E. Boucher, HABS/NPS",
+     "url": "https://commons.wikimedia.org/wiki/File:TOP_STAGE_OF_TOWER,_SHOWING_CLOCK_-_Aliiolani_Hale,_463_King_Street,_Honolulu,_Honolulu_County,_HI_HABS_HI,2-HONLU,3-7.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: the USS California docking at Honolulu Harbor beside Aloha Tower on May 15, 1928, with the tower's clock faces at the left",
+     "credit": "Photo: National Park Service",
+     "url": "https://commons.wikimedia.org/wiki/File:The_USS_California_docking_at_Honolulu_Harbor_by_Aloha_Tower,_May_15,_1928._(67d42b6b-1dd8-b71b-0bcd-ead33ae83b48).jpg (NPGallery asset 67d42b6b-1dd8-b71b-0bcd-ead33ae83b48)",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The top of the front page of the Hawaiian Gazette, Honolulu, semi-weekly, Friday January 10, 1896: the issue that printed the Department of the Interior's standard-time notice on page 5",
+     "credit": "Source: Hawaiian Gazette, Jan 10, 1896",
+     "url": "https://archive.org/details/honolulu-hawaiian-gazette-1896-01-10 (page image n0)",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "United States Marines and sailors from the USS Boston landing at Honolulu on January 17, 1893, drawn up in ranks on a wharf, in a Hawaiʻi State Archives print",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1zTn (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_1zTn.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "President Clinton signing Public Law 103-150, the joint resolution of November 23, 1993, at his desk in the Oval Office, with several people standing behind him",
+     "credit": "Photo: White House, NARA",
+     "url": "https://commons.wikimedia.org/wiki/File:Photograph_of_President_William_Jefferson_Clinton_Signing_Public_Law_103-150_in_the_Oval_Office_at_the_White_House_in_Washington,_D.C._-_DPLA_-_d894e2ef7e8ac2b0082f7dcf4955c37e.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The Republic of Hawaiʻi cabinet seated around a table, in a Frank Davey photograph from the Hawaiʻi State Archives",
+     "credit": "Photo: Frank Davey (HSA)",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1xfv (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_1xfv.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "The Hawaiian flag being lowered at the annexation ceremony at ʻIolani Palace on August 12, 1898, photographed by Frank Davey, in the Hawaiʻi State Archives 8 by 10 print",
+     "credit": "Photo: Frank Davey (HSA)",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1CLZ (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_1CLZ.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the clock panel at a Mutual Telephone Company operator position in Honolulu, 1934, with separate clocks labeled Far Eastern, Pacific, Mountain, Honolulu, Central, Eastern and Greenwich",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1Bmx (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_1Bmx.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the transit telescope room at the U.S. Naval Observatory in Washington, between 1909 and 1919, with the instrument that observed the clock stars to fix the time",
+     "credit": "Source: Library of Congress",
+     "url": "https://commons.wikimedia.org/wiki/File:Naval_observatory_transit_telescope_which_observes_the_%22Clock_Stars%22_(...)_secure(?)_the_time(?)_LCCN2016821018.jpg (Library of Congress LCCN 2016821018)",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a hand setting back the hands of a large clock at the U.S. Naval Observatory in Washington, 1918, in a Library of Congress photograph captioned as turning back the clock, cropped to the dial",
+     "credit": "Photo: Harris & Ewing, LOC",
+     "url": "https://commons.wikimedia.org/wiki/File:NAVAL_OBSERVATORY._C.B._WATTS_TURNING_BACK_THE_CLOCK_LCCN2016869006.jpg (Library of Congress LCCN 2016869006)",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a war-bond display in a downtown Honolulu shop window at Hotel and Fort Streets in 1942, watched by uniformed police, with a street clock reflected in the window glass",
+     "credit": "Photo: U.S. Army Signal Corps",
+     "url": "https://commons.wikimedia.org/wiki/File:SC_151472_-_The_Hub_Store,_Hotel_and_Fort_Streets,_submits_this_display_of_ordnance_equipment_to_foster_the_sale_of_War_Bonds_in_downtown_Honolulu,_T.H._(52015763700).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "The Senate of the Twenty-Fourth Legislature of the Territory of Hawaii, a group portrait taken in 1947 and held by the Hawaiʻi State Archives, cropped to the photograph and brightened from a dark negative scan",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/51zq (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_51zq.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: the clock face and ALOHA lettering at the top of Aloha Tower, Honolulu, photographed in 2015",
+     "credit": "Photo: Gerald Watanabe",
+     "url": "https://commons.wikimedia.org/wiki/File:Alohatow4.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13a",
+     "what": "Illustrative photo: the clock stage of the Aliʻiōlani Hale tower, Honolulu, with two black clock faces, in a Historic American Buildings Survey photograph",
+     "credit": "Photo: HABS/NPS",
+     "url": "https://commons.wikimedia.org/wiki/File:TOWER_DETAIL,_FROM_EAST_-_Aliiolani_Hale,_463_King_Street,_Honolulu,_Honolulu_County,_HI_HABS_HI,2-HONLU,3-6.tif (LOC https://www.loc.gov/pictures/item/hi0040.photos.058030p, page not read: bot-blocked)",
+     "card": false
+    },
+    {
+     "where": "Slide 13b",
+     "what": "Illustrative photo: the blue-faced clock with Roman numerals on the gray stone tower of Kawaiahaʻo Church, Honolulu, against a clear sky, photographed in 2022 by w_lemay",
+     "credit": "Photo: w_lemay (Flickr)",
+     "url": "https://commons.wikimedia.org/wiki/File:Kawaiaha'o_Church,_Punchbowl_Street,_Honolulu,_HI_-_52238443573.jpg (Flickr https://www.flickr.com/photos/59081381@N03/52238443573/)",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Illustrative photo: three wall clocks labeled London, Berlin and Jersey at the Jersey War Tunnels museum, 2009",
+     "credit": "Photo: fw190a8",
+     "url": "https://commons.wikimedia.org/wiki/File:Clocks_London,_Berlin,_Jersey._Jersey_War_Tunnels_(Hohlgangsanlage_8),_WW2_German_underground_hospital._2009.jpg (Flickr 3481260516)",
+     "card": false
+    },
+    {
+     "where": "Slide 15a",
+     "what": "Illustrative photo: Aliʻiōlani Hale with its clock tower, seen from ʻIolani Palace around 1888",
+     "credit": "Source: Hawaii State Archives",
+     "url": "https://commons.wikimedia.org/wiki/File:Aliiolani_Hale,_1888_(PPWD-1-7-017).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 15b",
+     "what": "Illustrative photo: the exposed timing mechanism of an antique clock, brass wheels, a lever arm and a round pendulum bob mounted on a wooden board inside a circular frame, in a 1949 photograph by Raymond Sato held by the Hawaiʻi State Archives, which labels it Queen Liliʻuokalani's clock",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/1zWS (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_1zWS.0.jpeg, cropped to the print)",
+     "card": false
+    },
+    {
+     "where": "Slide 16a",
+     "what": "Kawaiahaʻo Church, Honolulu, with the round dial of its tower clock clear on the tower and a group of men at the churchyard gate, from a Hawaiʻi State Archives glass plate negative, cropped and contrast-adjusted",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/48g0 (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_48g0.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 16b",
+     "what": "Illustrative photo: Fort and Merchant Streets, Honolulu, around 1897, looking toward the harbor, a dirt-and-rail street between stone commercial blocks with a round street clock hanging over the sidewalk at left, from the Hawaiʻi State Archives",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/1Ds0 (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_1Ds0.0.jpeg, cropped to the print)",
+     "card": false
+    },
+    {
+     "where": "Slide 16c",
+     "what": "Illustrative photo: a plantation worker time clock standing in a small open wooden shed at Pioneer Mill, Lahaina, Maui, a round clock dial above a large wheel ringed with numbered pegs and a long lever, photographed by Jack E. Boucher for the National Park Service in July 1966 (Hawaiʻi State Archives)",
+     "credit": "Photo: Jack E. Boucher, USNPS",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/4TM4 (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_4TM4.0.jpeg, cropped to the frame and reduced to 6000 px)",
+     "card": false
+    },
+    {
+     "where": "Slide 16d",
+     "what": "Illustrative photo: the stone clock tower of Aliʻiōlani Hale, Honolulu, seen looking steeply upward from the side, a round clock dial under a flag, with palm fronds at left, photographed in 2006 by Mordomo",
+     "credit": "Photo: Mordomo (Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Ali%CA%BBi%C5%8Dlani_Hale_from_side.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-06",
+   "date": "2026-10-20",
+   "id": "C14-06",
+   "title": "The Two Marks Your Computer Had to Learn",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-06"
+   },
+   "research": [
+    {
+     "label": "olelo.hawaii.edu/en/enehana/unicode",
+     "url": "https://www.olelo.hawaii.edu/en/enehana/unicode"
+    },
+    {
+     "label": "olelo.hawaii.edu/en/enehana/apple08242002",
+     "url": "https://www.olelo.hawaii.edu/en/enehana/apple08242002"
+    },
+    {
+     "label": "Hawaiian keyboard for chrome (hawaii.edu)",
+     "url": "https://www.hawaii.edu/news/2020/09/15/hawaiian-keyboard-for-chrome/"
+    },
+    {
+     "label": "Hawaiian language considerations (hawaii.edu)",
+     "url": "https://www.hawaii.edu/offices/communications/standards/hawaiian-language-considerations/"
+    }
+   ],
+   "other": [
+    {
+     "label": "Chapter 7 (unicode.org)",
+     "url": "https://unicode.org/versions/Unicode17.0.0/core-spec/chapter-7/"
+    },
+    {
+     "label": "unicode.org/Public/17.0.0/ucd",
+     "url": "https://www.unicode.org/Public/17.0.0/ucd/"
+    },
+    {
+     "label": "Hawaiian fonts (keoladonaghy.com)",
+     "url": "https://keoladonaghy.com/olelo-tech/hawaiian-fonts/"
+    },
+    {
+     "label": "keoladonaghy.com/olelo-tech/macintosh",
+     "url": "https://keoladonaghy.com/olelo-tech/macintosh/"
+    },
+    {
+     "label": "Chrome os hawaiian keyboard (keoladonaghy.com)",
+     "url": "https://keoladonaghy.com/olelo-tech/chrome-os-hawaiian-keyboard/"
+    },
+    {
+     "label": "unicode.org",
+     "url": "https://unicode.org/mail-arch/unicode-ml/Archives-Old/UML012/0385.html"
+    },
+    {
+     "label": "unicode.org",
+     "url": "https://unicode.org/mail-arch/unicode-ml/y2002-m09/0007.html"
+    },
+    {
+     "label": "unicode.org/reports/tr35/tr35-71/tr35.html",
+     "url": "https://www.unicode.org/reports/tr35/tr35-71/tr35.html"
+    },
+    {
+     "label": "unicode.org/reports/tr15",
+     "url": "https://www.unicode.org/reports/tr15/"
+    },
+    {
+     "label": "Why two hawaiian keyboards you ask (keoladonaghy.com)",
+     "url": "https://keoladonaghy.com/2007/12/26/why-two-hawaiian-keyboards-you-ask/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A carved wooden sign at the entrance to Hāʻena State Park on Kauaʻi, with the Hawaiʻi State Parks seal under the name",
+     "credit": "Photo: Famartin",
+     "url": "https://commons.wikimedia.org/wiki/File:2021-10-08_11_32_45_Sign_at_the_entrance_to_H%C4%81%CA%BBena_State_Park_along_Hawaii_State_Route_560_(Kuhio_Highway)_in_H%C4%81%CA%BBena,_Kauai,_Hawaii.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A page from an 1822 Hawaiian primer printed on Maui, scanned as a printed artifact",
+     "credit": "Source: American Antiquarian Society",
+     "url": "https://commons.wikimedia.org/wiki/File:Pi%CA%BB%C4%81p%C4%81.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: an Apple Macintosh LC, a 1990 personal computer, with an Apple Extended keyboard, photographed against a plain ground",
+     "credit": "Photo: Hannes Grobe",
+     "url": "https://commons.wikimedia.org/wiki/File:Macintosh-LC_hg.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: an open drawer of a wooden card catalog at the Boston Athenaeum, its cards filed behind a typed label, with rows of numbered drawers around it",
+     "credit": "Photo: Joseph Reagle",
+     "url": "https://commons.wikimedia.org/wiki/File:30-1511-boston,_library.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a National Park Service interpretive sign at the Puʻuloa petroglyphs in Hawaiʻi Volcanoes National Park, its title and its word ʻohana printed with the ʻokina inside Hawaiian words",
+     "credit": "Photo: LuxTonnerre",
+     "url": "https://commons.wikimedia.org/wiki/File:Signs_at_Pu%CA%BBu_Loa_Petroglyphs_(2926485453).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: Haleʻōlelo, the two-story building of Ka Haka ʻUla O Keʻelikōlani College of Hawaiian Language at the University of Hawaiʻi at Hilo, a red-roofed complex across a lawn under a blue sky",
+     "credit": "Source: University of Hawaiʻi",
+     "url": "https://www.hawaii.edu/sustainability/projects/leed-projects/hale-olelo-hawaiian-language-building-leed-silver.php",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the National Park Service welcome sign of Puʻukoholā Heiau National Historic Site on Hawaiʻi Island, its name printed with a kahakō over the final A and an apostrophe-like mark for the ʻokina",
+     "credit": "Photo: Ken Lund",
+     "url": "https://commons.wikimedia.org/wiki/File:Welcome_Sign_at_Pu%27ukohola_Heiau_National_Historic_Site,_Kawaihae,_Hawaii.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Keola Donaghy, University of Hawaiʻi Maui College professor, in a close portrait, smiling in glasses with several flower leis around his neck, photographed by James Uyeda for UH and Maui Now in 2020",
+     "credit": "Photo: James Uyeda",
+     "url": "https://mauinow.com/2020/09/14/hawaiian-language-keyboard-developed-by-uh-maui-professor-is-released-by-google/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: an early Samsung Chromebook, a Series 3 laptop, open on a table, photographed in January 2013",
+     "credit": "Photo: Nahusm",
+     "url": "https://commons.wikimedia.org/wiki/File:Chromebook_serie_3.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: an HP Chromebook 11 G2 open on a desk, a UK keyboard layout and a browser window on the screen, photographed in 2018",
+     "credit": "Photo: Edoderoo",
+     "url": "https://commons.wikimedia.org/wiki/File:HP_11_G2_Chromebook_G6V82ES.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: a close view of the keys of a Chromebook laptop keyboard, set to the Dvorak layout, with the apostrophe key at the top left of the letters",
+     "credit": "Photo: Panamitsu",
+     "url": "https://commons.wikimedia.org/wiki/File:Dvorak_keyboard_chromebook.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12a",
+     "what": "Illustrative photo: the entrance sign of Puʻuhonua o Hōnaunau National Historical Park on Hawaiʻi Island, a National Park Service sign on a lava-rock wall under three carved posts, its name carrying a kahakō over the O and an apostrophe-like mark for the ʻokina",
+     "credit": "Photo: Ken Lund",
+     "url": "https://commons.wikimedia.org/wiki/File:Pu%27uhonua_o_Honaunau_National_Historical_Park,_Honaunau,_Hawaii_(18)_(4529707556).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12b",
+     "what": "Illustrative photo: the roadside entrance sign for Hawaiʻi Volcanoes National Park on the Hawaii Belt Road, a carved wooden sign with the National Park Service arrowhead on a black lava-rock wall, the park name written with a mark that looks like a turned comma before the i",
+     "credit": "Photo: Famartin, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:2021-10-09_12_25_29_Entrance_sign_for_Hawaii_Volcanoes_National_Park_along_southwestbound_Hawaii_State_Route_11_(Hawaii_Belt_Road)_in_Hawaii_County,_Hawaii.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12c",
+     "what": "Illustrative photo: a late-1990s iMac G3 desktop computer running Mac OS 9, with its keyboard and mouse on a table",
+     "credit": "Photo: Hanul, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Mac_OS_9_on_iMac_G3.jpg (Flickr https://www.flickr.com/photos/hanulsieger/3401027185/)",
+     "card": false
+    },
+    {
+     "where": "Slide 13a",
+     "what": "The top of the first page of Ka Nupepa Kuokoa, the Hawaiian-language newspaper, volume 1 number 1, Honolulu, October 1861, photographed as a printed object: a heavy black masthead with an ornamental border, an engraving of a camel captioned Ke Kamelo o Arabia, and columns of Hawaiian text on either side",
+     "credit": "Source: HI State Archives, PNS-179",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/50NS",
+     "card": false
+    },
+    {
+     "where": "Slide 13b",
+     "what": "Illustrative photo: the black leather cover of a Hawaiian-language Bible, Ka Baibala Hemolele, with its title in gold script",
+     "credit": "Photo: Yoshi Canopus, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaiian_language_bible.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 14a",
+     "what": "Illustrative photo: the National Park Service sign of the Kīlauea Visitor Center at Hawaiʻi Volcanoes National Park, a brown signboard under a roof with the NPS arrowhead, Kīlauea written with a kahakō over the I and Hawaiʻi with an ʻokina-like mark",
+     "credit": "Photo: Hawaiʻi Volcanoes NPS",
+     "url": "https://commons.wikimedia.org/wiki/File:HAVO_20240625_K%C4%ABlauea_Visitor_Center_east_sign_J_Ferracane_(53816741504).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 14b",
+     "what": "Illustrative photo: a Family Restroom sign at Daniel K. Inouye International Airport in Honolulu, navy blue with figures in aloha-print clothing, the Hawaiian word ʻOhana printed beneath the English",
+     "credit": "Photo: Steven Pavlov, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:2023-04-24,_Daniel_K._Inouye_International_Airport,_Honolulu,_Hawaii,_008.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-01",
+   "date": "2026-10-22",
+   "id": "C14-01",
+   "title": "The Hawaiian Technology Inside the Sound of Modern Music",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-01"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "How hawaiian steel guitar changed american music 180972028 (smithsonianmag.com)",
+     "url": "https://www.smithsonianmag.com/smithsonian-institution/how-hawaiian-steel-guitar-changed-american-music-180972028/"
+    },
+    {
+     "label": "Hawaiian steel guitar resistance hidden history (nypl.org)",
+     "url": "https://www.nypl.org/blog/2020/08/12/hawaiian-steel-guitar-resistance-hidden-history"
+    },
+    {
+     "label": "Joseph kekuku (pacific-strings.org)",
+     "url": "https://www.pacific-strings.org/joseph-kekuku"
+    },
+    {
+     "label": "patents.google.com/patent/US2089171A/en",
+     "url": "https://patents.google.com/patent/US2089171A/en"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A handmade steel guitar in a Country Music Hall of Fame display case, shown with its museum label and a Milton Brown and His Musical Brownies poster",
+     "credit": "Photo: e Kat, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:1935_handmade_Steel_Guitar_(parts_missing)_used_by_Bob_Dunn_on_January_1935_sessions,_as_1st_amplified_instruments_on_country_recording_-_Country_Music_Hall_of_Fame_and_Museum_(2018-08-21_13.04.27_by_e_Kat).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A sepia studio portrait of a young man in a light suit, a flower lei around his neck, seated in a carved chair with a steel guitar lying flat across his lap and both hands resting on it",
+     "credit": "Source: Lo-Max Films, American Epic",
+     "url": "https://livingarchives.halekulani.com/culture/an-epic-journey/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A halftone newspaper photograph of five men in matching white tunics with dark sashes, holding ukuleles and guitars, printed on page 6 of The Colville Examiner of July 22, 1916 under a headline about Hawaiian music at the Chautauqua; the article text names Kekuku's Hawaiian quintette",
+     "credit": "Photo: Colville Examiner, PD, cropped",
+     "url": "https://www.loc.gov/resource/sn88085318/1916-07-22/ed-1/?sp=6",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A black-and-white photograph, about 1952, of a Hawaiian musical group on a stage in Chicago, a hula dancer at each side: one player works a steel guitar mounted on a stand, beside players on upright bass and guitar, all in aloha shirts and leis before a painted island backdrop",
+     "credit": "Photo: Pauly Studios, HI State Archives",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1Dmt",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A 1950 photograph of teacher and steel guitar maker Eddie Alkire seated with an electric steel guitar across his knee at a national guitar teachers' convention, beside a display board headed Frequent Questions that asks what the chord name of your tuning is, with instruction books and sheet music at his elbow",
+     "credit": "Source: Sousa Archives, U. Illinois",
+     "url": "https://hawaiiexhibit.web.illinois.edu/two-photographs-of-student-eharp-ensembles-ca-1955/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A Rickenbacker Electro B6 lap steel guitar from the late 1930s lying on a grey surface, photographed from above, with its chrome-covered horseshoe-magnet pickup set under the strings near the bridge",
+     "credit": "Photo: Eagledj, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Lap_Steel-Rickenbacker_Electro_B6.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A 1934 aluminum-cast Ro-Pat-In 'Frying Pan' electric lap steel guitar in a museum case at the Museum of Making Music",
+     "credit": "Photo: doryfour, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Rickenback_Frying_Pan_aluminum-cast_guitar_(1934).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "The 1931 one-piece maple prototype of the Rickenbacker Frying Pan electric lap steel guitar, a round solid body with a long neck and a pickup under the strings, standing in a glass display case with reflections and a museum label behind it",
+     "credit": "Photo: wetwebwork, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Flying_Pan_prototype_(1931)_using_one-piece_maple.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "Close view of the body of an original 1934 Rickenbacker Electro A-22 'Frying Pan' lap steel guitar: a solid, round cast-aluminum disc with a horseshoe-magnet pickup and a bridge, seven strings running across it and no sound hole or hollow soundbox",
+     "credit": "Photo: Retrofret Vintage Guitars",
+     "url": "https://retrofret.com/products/rickenbacker-model-a-22-7-string-lap-steel-electric-guitar-1934-9363",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "A 1938 Farm Security Administration photograph of a guitarist playing a steel-bodied guitar at a microphone during a Cajun band contest at the National Rice Festival in Crowley, Louisiana",
+     "credit": "Photo: Russell Lee, FSA, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:CrowleySteelGuitar1938.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "A photograph of the center label of a Victor 78 rpm record, number 18569-B, Tomi Tomi (Hawaiian Hula Hula), credited to the Hawaiian Quintette with Hawaiian stringed instruments and drawn from the incidental music to Richard Walton Tully's play The Bird of Paradise; the Hawaiʻi State Archives dates the recording April 11, 1913",
+     "credit": "Source: HI State Archives, Victor 18569",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/4T5n",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "A two-neck electric console steel guitar built in Detroit around 1963 by Felton W. Williams Jr. for gospel church music, shown on its steel legs",
+     "credit": "Photo: Smithsonian NMAAHC, CC0",
+     "url": "https://nmaahc.si.edu/object/nmaahc_2011.64.1a-f",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-05",
+   "date": "2026-10-28",
+   "id": "C14-05",
+   "title": "Hawaiʻi Built a Searchable World Before Search Engines",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-05"
+   },
+   "research": [
+    {
+     "label": "libweb.hawaii.edu",
+     "url": "https://libweb.hawaii.edu/libdept/hawaiian/newspaperguide/files/newspapersofhawaii.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "About the collection (guides.loc.gov)",
+     "url": "https://guides.loc.gov/early-hawaiian-imprints/about-the-collection"
+    },
+    {
+     "label": "loc.gov/item/sn85047056",
+     "url": "https://www.loc.gov/item/sn85047056/"
+    },
+    {
+     "label": "papakilodatabase.com/pdnupepa",
+     "url": "https://www.papakilodatabase.com/pdnupepa/?a=cl&cl=CL1"
+    },
+    {
+     "label": "Nupepa engaged readers global affairs changing society (kawaiola.news)",
+     "url": "https://kawaiola.news/moomeheu/moolelo/nupepa-engaged-readers-global-affairs-changing-society/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The masthead and top of the front page of Hawaiʻi Holomua, Honolulu, May 2, 1891: the title in blackletter capitals either side of an engraved emblem of a coast with ships, a ribbon bearing the motto 'Ua mau ke ea o ka aina i ka pono', the date line and the first columns of Hawaiian-language type",
+     "credit": "Source: Hawaii Holomua, 1891",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_Holomua_front_page,_May_2,_1891.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: tall stacks of folded, printed copies of the Honolulu Star-Bulletin piled on the floor and on a bench in a plant, with a Society section lying on top and a small American flag on the wall",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/487c",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The masthead of Ka Nupepa Kuokoa, May 13, 1893: the title in ornate decorative lettering over a ribbon of Hawaiian text, with a subtitle line beneath, scanned at high resolution",
+     "credit": "Masthead: Ka Nupepa Kuokoa, 1893",
+     "url": "https://commons.wikimedia.org/wiki/File:Ka_Nupepa_Kuokoa_masthead_1893-05-13.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Page one of Ko Hawaii Pae Aina, Honolulu, June 1, 1878 (Buke I, Helu 22), shown whole as a printed object: the title across the top, display advertisements down the left column, an installment of a serialized story (Mokuna VII of 'He Moolelo no na Kiai Ekolu') and a report on the legislature's 1878 session in the columns",
+     "credit": "Photo: Chimchimere, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Ko_Hawaii_Pae_Aina.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The front page of Ka Lama Hawaii, Lahainaluna, Maui, December 5, 1834 (Makahiki I, Helu 22): the blackletter title, the Hawaiian motto line, a woodcut of a hyena and a column of Hawaiian text set in metal type, scanned from the aged paper",
+     "credit": "Source: Ulukau, via Hawaiʻi Public Radio",
+     "url": "https://www.hawaiipublicradio.org/local-news/2025-03-31/this-lahainaluna-high-teacher-brought-hawaiis-first-newspaper-back-to-life",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A crowd of newsboys in front of the Ke Aloha Aina Printing Office, 1906",
+     "credit": "Photo: Ke Aloha Aina, 1906",
+     "url": "https://commons.wikimedia.org/wiki/File:Newsboys_for_Ke_Aloha_Aina,_1906.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "The front page of Ka Lama Hawaii, Lahainaluna, Maui, May 16, 1834, Helu 14, with a masthead, a Hawaiian motto line and an illustration of a lion",
+     "credit": "Page: Ka Lama Hawaii, 1834",
+     "url": "https://commons.wikimedia.org/wiki/File:Ka_Lama_Hawaii.gif",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: a photograph of a bound volume of Ka Lama Hawaiʻi opened to the front page of Helu 7, printed at Lahainaluna on March 28, 1834, showing the masthead, motto, volume and issue line, and a printed engraving of a horse headed He Lio",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/4XtR",
+     "card": false
+    },
+    {
+     "where": "Slide 7c",
+     "what": "A studio portrait photograph by H. L. Chase, about 1865, of the Rev",
+     "credit": "Photo: H. L. Chase, Mission Houses",
+     "url": "https://commons.wikimedia.org/wiki/File:Judge_Lorrin_Andrews,_photograph_by_H._L._Chase,_Mission_Houses_Museum_Archives.jpg (Mission Houses Museum Archives item https://hmha.missionhouses.org/items/show/11291)",
+     "card": false
+    },
+    {
+     "where": "Slide 7d",
+     "what": "Illustrative photo: the northeast front of Hale Paʻi, the printing house on the grounds of Lahainaluna Seminary on Maui, a low whitewashed stone building with a shingle roof, a door and two windows, under a large tree, photographed for the Historic American Buildings Survey",
+     "credit": "Photo: HABS, Library of Congress",
+     "url": "https://commons.wikimedia.org/wiki/File:NORTHEAST_FACADE,_GENERAL_VIEW_-_Hale_Pa%27i_(Printing_Shop),_On_grounds_of_Lahainaluna_Seminary,_Lahaina,_Maui_County,_HI_HABS_HI,5-LAHA,11-1.tif (LOC https://www.loc.gov/pictures/item/hi0010.photos.058642p)",
+     "card": false
+    },
+    {
+     "where": "Slide 7e",
+     "what": "Illustrative photo: a bronze-colored plaque set into a lava-rock wall at Puʻukohola Heiau National Historic Site on Hawaiʻi Island, carrying a quotation attributed to Kamehameha I dated May 8, 1819, in Hawaiian with its English translation beneath",
+     "credit": "Photo: Ken Lund, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Plaque_of_Kamehameha_May_8,_1819_Quote.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a close view of a microfilm and microfiche conversion scanner, a nextScan FlexScan, with a roll of film threaded between the supply reel and a take-up reel and a macro camera lens above the film path",
+     "credit": "Photo: Arid024, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Microfilm_and_Microfiche_Conversion_Scanner.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the scanning station of the He Aupuni Palapala project at Bishop Museum Library & Archives, a bound newspaper volume open on a padded cradle under an overhead camera on a tall stand, with studio lights and a computer showing the captured page",
+     "credit": "Source: Bishop Museum Archives",
+     "url": "https://kaiwakiloumoku.ksbe.edu/article/videos-he-aupuni-palapala (image https://kaiwakiloumoku.ksbe.edu/images/articles/2021-bpm-new-machine.jpg, 1000 x 750; the earlier 800 x 600 file was a smaller copy of this same photograph)",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: the 1889 Bernice P. Bishop Museum building in Kalihi, Honolulu, a dark lava-stone hall with turrets and tall windows behind pandanus trees, photographed in 2016",
+     "credit": "Photo: Mark Miller",
+     "url": "https://commons.wikimedia.org/wiki/File:Bishop_Museum_2016_C.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: the front of the old Hawaiʻi State Archives (the Kanaina Building) in Honolulu, a white single-story classical building with the word ARCHIVES over its doorway and a walkway leading to wooden doors",
+     "credit": "Photo: Steven Pavlov, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:2023-04-19,_Kanaina_Building_(Old_Hawaii_State_Archives),_01.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-03",
+   "date": "2026-11-04",
+   "id": "C14-03",
+   "title": "After Hilo Had No Warning, Hawaiʻi Helped Build a Pacific One",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-03"
+   },
+   "research": [
+    {
+     "label": "Noaa 47432 DS1 (repository.library.noaa.gov)",
+     "url": "https://repository.library.noaa.gov/view/noaa/47432/noaa_47432_DS1.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "1 april 1946 (tsunami.ioc.unesco.org)",
+     "url": "https://tsunami.ioc.unesco.org/en/1-april-1946"
+    },
+    {
+     "label": "Tsunami historical series aleutian islands 1946 (sos.noaa.gov)",
+     "url": "https://sos.noaa.gov/catalog/datasets/tsunami-historical-series-aleutian-islands-1946/"
+    },
+    {
+     "label": "tsunami.gov",
+     "url": "https://www.tsunami.gov/?page=history"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Aerial photograph of downtown Hilo and Hilo Bay on 1 April 1946, taken from the air after the tsunami: rows of commercial blocks sit behind a shoreline strip scattered with wreckage, with a ship lying offshore",
+     "credit": "Photo: U.S. Army Air Forces (NARA)",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_-_Hilo_-_NARA_-_23937271.jpg (NARA catalog https://catalog.archives.gov/id/23937271, RG 18 Airscapes series, local id 18-AA-37-15)",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A street in Hilo after the waves of April 1946: a leaning, partly collapsed wooden building and wrecked storefronts at right, a tilted utility pole, large boulders and debris scattered across the wet roadway, and a stone building with a flagpole at left",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/4Xqv (Photograph Collection > Acetate Negatives > General Collection > TIDAL WAVE DAMAGE, APRIL 1946, AN-PNS-96-18474 (negative 18474); image https://digitalarchives.hawaii.gov/resources/images/ark_70111_4Xqv.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Photograph of a Hilo street after the 1 April 1946 tsunami: splintered timber from smashed buildings fills the roadway, a car is half buried in the debris, and storefront signs for Cafe 100 and Hilo Products still hang along the covered sidewalk",
+     "credit": "Source: USGS Hawaiian Volcano Obs.",
+     "url": "https://www.usgs.gov/media/images/damage-hilo-tsunami-struck-april-fools-day-1946 (full-size file https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/19460401_UNKNOWN_37-012_copy.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a tall green clock memorial in Hilo, its hands stopped at the hour of a tsunami, standing in a small garden with flowers at its base",
+     "credit": "Photo: Denys, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hilo_Monument_Tsunami.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Photograph of the white stone memorial at Laupāhoehoe Point, Hawaiʻi Island, engraved “In memory of those who lost their lives in the tidal wave, April 1, 1946,” with a list of names and ages and fresh flower leis, fruit and shells laid at its base",
+     "credit": "Photo: Wmpearl, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Monument_to_the_victims_of_tsunami_at_Laupahoehoe,_the_Big_Island_of_Hawaii_on_April_1,_1946.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Color photograph, circa 1960, of the Coast and Geodetic Survey Honolulu Observatory at Ewa Beach on Oʻahu: a brick sign reading United States Department of Commerce, Coast and Geodetic Survey, Honolulu Observatory, Geomagnetism, Seismology, with low observatory buildings, a flagpole and a car behind",
+     "credit": "Photo: NOAA Photo Library (cgs02158)",
+     "url": "https://commons.wikimedia.org/wiki/File:Honolulu_Observatory.jpg (NOAA Photo Library, Historic C&GS Collection, image cgs02158; original http://www.photolib.noaa.gov/historic/c&gs/ not reachable by automated access)",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the NOAA Inouye Regional Center on Ford Island, Oʻahu, under a rainbow, a long low building with a glass central entrance",
+     "credit": "Photo: N. Becker, NOAA",
+     "url": "https://www.tsunami.gov/?page=history (image https://www.tsunami.gov/images/NOAA-IRC_rainbow_15Dec2017_N_Becker.jpg, the history page of NOAA tsunami.gov)",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "Aerial photograph of the low Hilo shore on 1 April 1946: planted fields cut by drainage ditches, scattered by wreckage, with houses thrown across the ground and a pond in the middle",
+     "credit": "Photo: U.S. Army Air Forces (NARA)",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_-_Hilo_-_NARA_-_23937267.jpg (NARA catalog https://catalog.archives.gov/id/23937267, RG 18 Airscapes series, local id 18-AA-37-13)",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "Photograph of two boats left stranded on the sand at Haleiwa Bay on Oʻahu after the April 1946 tsunami, with trees and low hills behind and a handwritten note on the print reading Oahu and Apr 5 1946",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/4X1t (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_4X1t.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a Coast and Geodetic Survey tide gauge house on stilts standing in the surf at Fuga Island, the Philippines, in 1927, with two boats on the beach",
+     "credit": "Source: NOAA Photo Library (theb3301)",
+     "url": "https://commons.wikimedia.org/wiki/File:Fuga_Island_Tide_Gauge_1927.jpg (NOAA Photo Library, Historic C&GS Collection, image theb3301)",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: the Honolulu Telephone Exchange about 1910, a long row of operators in white blouses seated at a wooden switchboard under hanging lamps, with a supervisor standing at the far end beside a clock",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/1Bn4 (Photograph Collection > General Photographic Collection, PP-17-3-025, Communications - Telephone (negative 19,363); image https://digitalarchives.hawaii.gov/resources/images/ark_70111_1Bn4.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: the Heeia Wireless Station, Oʻahu, undated: two very tall slender radio masts rise over low trees and a small shed at the edge of a calm bay, with mountains and heavy clouds behind",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/1Bm8 (Photograph Collection > General Photographic Collection, PP-17-2-009, Communications - Wireless (negative 5,192); image https://digitalarchives.hawaii.gov/resources/images/ark_70111_1Bm8.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: a high-angle view of a row of shops at the Hilo shore on April 1, 1946, its roof torn open and the yard heaped with splintered timber, with cars and a jeep standing in the debris and several people picking through the wreckage",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/5102 (Photograph Collection > Acetate Negatives > General Collection > TIDAL WAVE DAMAGE, APRIL 1946, AN-PNS-186-1999.012 (negative 1999.012); image https://digitalarchives.hawaii.gov/resources/images/ark_70111_5102.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 13a",
+     "what": "Photograph of the front of the Pacific Tsunami Museum on Kamehameha Avenue in Hilo, a blocky stone building with a blue museum sign over the entrance and palm trees beside it",
+     "credit": "Photo: Yoshi Canopus, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Pacific_Tsunami_Museum_-_Outside.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13b",
+     "what": "Aerial photograph of the Hilo shoreline on 1 April 1946: a band of wrecked buildings and scoured ground runs along the curve of the bay, with surf and a pier on the right and intact downtown blocks behind",
+     "credit": "Photo: U.S. Army Air Forces (NARA)",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_-_Hilo_-_NARA_-_23937269.jpg (NARA catalog https://catalog.archives.gov/id/23937269, RG 18 Airscapes series, local id 18-AA-37-14)",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Photograph from NOAA Ship Pisces: an orange small boat with crew tows a white DART tsunami buoy across deep blue open ocean during a recovery after the buoy broke from its anchor",
+     "credit": "Photo: L. Urasky, NOAA",
+     "url": "https://commons.wikimedia.org/wiki/File:EsrL20vVcAImJZ-.jpg (NOAA Teacher at Sea post https://twitter.com/TeacherAtSea/status/1354120427820335104)",
+     "card": false
+    },
+    {
+     "where": "Slide 15a",
+     "what": "Illustrative photo: a tidal wave of April 1946 breaking over a shoreline embankment and surging into a grove of coconut palms under a heavy sky, spray streaming from the trees",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/4ZTb (Photograph Collection > Acetate Negatives > General Collection > TIDAL WAVE DAMAGE, APRIL 1946, AN-PNS-147-23108 (negative 23108); image https://digitalarchives.hawaii.gov/resources/images/ark_70111_4ZTb.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 15b",
+     "what": "Photograph of Kamehameha Avenue in downtown Hilo after the April 1946 tsunami: a wooden building collapsed into the street in a heap of boards and corrugated roofing, with the Hilo Dry Goods sign on the intact building to the right",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/4ZmW (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_4ZmW.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 15c",
+     "what": "Illustrative photo: a Hilo street after the April 1946 tsunami, with utility poles snapped and leaning, wires hanging across the road, a collapsed roof and debris, and a theater sign reading Waiakea at right (Hawaiʻi State Archives, April 1946)",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/4ZmM (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_4ZmM.0.jpeg)",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-08",
+   "date": "2026-11-11",
+   "id": "C14-08",
+   "title": "The Gate That Thinks With the Tide",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-08"
+   },
+   "research": [
+    {
+     "label": "Completion heeia fishpond (hawaii.edu)",
+     "url": "https://www.hawaii.edu/news/2025/12/29/completion-heeia-fishpond/"
+    },
+    {
+     "label": "Loko iʻa needs assessment (seagrant.soest.hawaii.edu)",
+     "url": "https://seagrant.soest.hawaii.edu/loko-i%CA%BBa-needs-assessment/"
+    },
+    {
+     "label": "Hawaiian fishponds (hawaii.edu)",
+     "url": "https://www.hawaii.edu/news/2025/11/17/hawaiian-fishponds/"
+    },
+    {
+     "label": "Predatory fish invasive species (hawaii.edu)",
+     "url": "https://www.hawaii.edu/news/2022/10/19/predatory-fish-invasive-species/"
+    },
+    {
+     "label": "doi.org/10.1002/aff2.68",
+     "url": "https://doi.org/10.1002/aff2.68"
+    }
+   ],
+   "other": [
+    {
+     "label": "The fishpond (paepaeoheeia.org)",
+     "url": "https://paepaeoheeia.org/the-fishpond/"
+    },
+    {
+     "label": "kuahawaii.org/huimalamalokoia",
+     "url": "https://kuahawaii.org/huimalamalokoia/"
+    },
+    {
+     "label": "Hawaiian fishponds providing physical and cultural sustenance (fisheries.noaa.gov)",
+     "url": "https://www.fisheries.noaa.gov/feature-story/hawaiian-fishponds-providing-physical-and-cultural-sustenance"
+    },
+    {
+     "label": "5 12 25 jellyfish control at heʻeia fish pond (dlnr.hawaii.gov)",
+     "url": "https://dlnr.hawaii.gov/dar/5-12-25-jellyfish-control-at-he%CA%BBeia-fish-pond/"
+    },
+    {
+     "label": "Kanda mullet (dlnr.hawaii.gov)",
+     "url": "https://dlnr.hawaii.gov/ais/marine-invasive-species/kanda-mullet/"
+    },
+    {
+     "label": "civilbeat.org",
+     "url": "https://www.civilbeat.org/?p=1708814"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Looking across the shore toward Heʻeia Fishpond in Kāneʻohe Bay: the long, low line of the pond wall and its tree-covered stretches sit on calm water, with the green Koʻolau ridges rising behind in low light",
+     "credit": "Photo: Joel Bradshaw",
+     "url": "https://commons.wikimedia.org/wiki/File:Oahu-Heeia-fishpond&Koolaus.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A small waterfall and cascades on Heʻeia Stream running over dark rocks through dense green forest",
+     "credit": "Photo: Michelle Mishina/TNC",
+     "url": "https://www.nature.org/en-us/magazine/magazine-articles/oahu-watershed/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A mākāhā at Heʻeia Fishpond: a stone-lined channel through the pond wall with brown water flowing between the walls and a short wooden footbridge across it, a green hill behind, and a group of visitors standing on the bridge for a site visit",
+     "credit": "Photo: Kevin Fujii/Civil Beat",
+     "url": "https://www.civilbeat.org/2025/11/this-hawaiian-fishpond-is-nearly-restored-all-thats-missing-is-fresh-water/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Close view of a mākāhā at Heʻeia Fishpond: lashed wooden slats across the top while a white rush of water pours through the opening below",
+     "credit": "Photo: Kevin Fujii/Civil Beat",
+     "url": "https://www.civilbeat.org/2025/12/photo-essay-building-a-hawaiian-fishpond-wall-to-connect-people/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Wide-angle photograph of a slatted mākāhā at Heʻeia Fishpond: upright wooden poles lashed to a cross rail across a stone-walled channel, clear shallow water in front, a thatched hale on the wall and the Koʻolau ridge behind",
+     "credit": "Photo: Jeff Sanner, Hawaii Business",
+     "url": "https://www.hawaiibusiness.com/sustainable-fish-harvesting-hawaiian-fishpond-restoration/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: three people in waders and boots, seen from behind, walking along the narrow top of the Heʻeia Fishpond wall beside green naupaka, with open water and a distant marker on both sides",
+     "credit": "Photo: Kevin Fujii/Civil Beat",
+     "url": "https://www.civilbeat.org/2025/05/photo-essay-volunteers-remove-upside-down-jellyfish-from-hawaiian-fishpond/",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Aerial view in low evening light of Heʻeia Fishpond: the long, low rock wall (kuapā) runs in a gentle line across calm water toward the far shore, with the Koʻolau ridge and Kāneʻohe town behind",
+     "credit": "Photo: Michelle Mishina/TNC",
+     "url": "https://www.nature.org/en-us/magazine/magazine-articles/oahu-watershed/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Dozens of volunteers in a long line on the stone wall at Heʻeia Fishpond passing buckets of coral rubble hand to hand along the new section of wall, with open water and a distant headland behind",
+     "credit": "Photo: Kevin Fujii/Civil Beat",
+     "url": "https://www.civilbeat.org/2025/12/photo-essay-building-a-hawaiian-fishpond-wall-to-connect-people/",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "A repaired stretch of Heʻeia Fishpond's stone wall under restoration in 2010: neat stacked basalt on one side, a gap with water flowing through, white buckets of coral rubble and heaped boulders in the foreground, and green hills beyond",
+     "credit": "Photo: Kanu Hawaii",
+     "url": "https://commons.wikimedia.org/wiki/File:Panoramic-middle-of--heeia-fishpond-wall.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Aerial view looking out over Heʻeia: cultivated wetland fields in the foreground, the pond with its curving wall in the middle, and Kāneʻohe Bay with Mokuʻoloʻe beyond under scattered cloud",
+     "credit": "Photo: Michelle Mishina/TNC",
+     "url": "https://www.nature.org/en-us/magazine/magazine-articles/oahu-watershed/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Close side view of the stacked basalt wall of Heʻeia Fishpond, with fitted dark stones in rows and a low band of green on top, the pond's still water behind and cloud-covered Koʻolau slopes above",
+     "credit": "Photo: Jeff Sanner, Hawaii Business",
+     "url": "https://www.hawaiibusiness.com/sustainable-fish-harvesting-hawaiian-fishpond-restoration/",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Heʻeia Fishpond seen from Heʻeia State Park in October 2011: the pond wall curves out into the water with the town of Kāneʻohe and the Koʻolau mountains behind, and overhead wires cross the frame",
+     "credit": "Photo: Jtciszewski",
+     "url": "https://commons.wikimedia.org/wiki/File:He`eia_fish_pond_from_He`eia_State_Park_24_October_2011.png",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Two restoration workers in sun hats bend over a boulder beside Heʻeia Stream, pulling a thick mat of invasive grass and roots out of the ground while others work in the stream behind",
+     "credit": "Photo: Michelle Mishina, TNC",
+     "url": "https://www.nature.org/en-us/magazine/magazine-articles/oahu-watershed/",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Five fish laid on a white table beside a ruler: three long, silver barracuda (kaku) with dark spots and two deep-bodied yellow-finned jacks (papio)",
+     "credit": "Photo: Paepae o Heʻeia",
+     "url": "https://paepaeoheeia.org/wp-content/uploads/2018/08/predator.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "A pale, frilled upside-down jellyfish (Cassiopea) lifted in a white-rimmed dip net out of dark pond water",
+     "credit": "Photo: Kevin Fujii/Civil Beat",
+     "url": "https://www.civilbeat.org/2025/05/photo-essay-volunteers-remove-upside-down-jellyfish-from-hawaiian-fishpond/",
+     "card": false
+    },
+    {
+     "where": "Slide 15",
+     "what": "A line of volunteers and staff wading in shallow water in Heʻeia Fishpond with nets and buckets, a barge alongside, houses and the cloud-covered Koʻolau ridge behind",
+     "credit": "Photo: Kevin Fujii/Civil Beat",
+     "url": "https://www.civilbeat.org/2025/05/photo-essay-volunteers-remove-upside-down-jellyfish-from-hawaiian-fishpond/",
+     "card": false
+    },
+    {
+     "where": "Slide 16a",
+     "what": "Black-and-white aerial photograph of Heʻeia Fishpond taken in 1928: the dark, rounded pond with its wall along the bay edge at top, the coast road crossing below it, and a patchwork of wetland kalo fields filling the valley floor beneath, with ridges and clouds at the bottom",
+     "credit": "Source: Kākoʻo ʻŌiwi",
+     "url": "https://www.civilbeat.org/2025/11/this-hawaiian-fishpond-is-nearly-restored-all-thats-missing-is-fresh-water/",
+     "card": false
+    },
+    {
+     "where": "Slide 16b",
+     "what": "Volunteers and staff in waders and bright gloves stand in a line along the stone wall of Heʻeia Fishpond, passing white buckets of removed jellyfish from hand to hand, with a long queue of helpers stretching behind them toward Kāneʻohe Bay",
+     "credit": "Photo: Kevin Fujii/Civil Beat",
+     "url": "https://www.civilbeat.org/2025/05/photo-essay-volunteers-remove-upside-down-jellyfish-from-hawaiian-fishpond/",
+     "card": false
+    },
+    {
+     "where": "Slide 17a",
+     "what": "Illustrative photo: two channels of still water run on either side of a gravel path through green wetland, with a stand of tall trees on the right and a low bridge in the hazy distance",
+     "credit": "Photo: Michelle Mishina/TNC",
+     "url": "https://www.nature.org/en-us/magazine/magazine-articles/oahu-watershed/",
+     "card": false
+    },
+    {
+     "where": "Slide 17b",
+     "what": "Illustrative photo: the back and fin of a full-size mullet break the surface of brackish water near a mākāhā in the wall of Heʻeia Fishpond, photographed by Civil Beat in November 2025",
+     "credit": "Photo: Kevin Fujii/Civil Beat",
+     "url": "https://www.civilbeat.org/2025/11/this-hawaiian-fishpond-is-nearly-restored-all-thats-missing-is-fresh-water/",
+     "card": false
+    },
+    {
+     "where": "Slide 18",
+     "what": "Distant view from across the water of a dense crowd of volunteers lined along the whole length of the Heʻeia Fishpond wall, with a house, palms and forested hillside above",
+     "credit": "Photo: Kevin Fujii/Civil Beat",
+     "url": "https://www.civilbeat.org/2025/12/photo-essay-building-a-hawaiian-fishpond-wall-to-connect-people/",
+     "card": false
+    },
+    {
+     "where": "Slide 19a",
+     "what": "Close-up of hands lashing peeled wooden poles to a cross rail with dark cord to build a new mākāhā at Heʻeia Fishpond",
+     "credit": "Photo: Kevin Fujii/Civil Beat",
+     "url": "https://www.civilbeat.org/2025/12/photo-essay-building-a-hawaiian-fishpond-wall-to-connect-people/",
+     "card": false
+    },
+    {
+     "where": "Slide 19b",
+     "what": "Illustrative photo: a green lei strung along the shore of Heʻeia Fishpond on a clear day, with the water of the pond and the Koʻolau ridge behind",
+     "credit": "Photo: Kevin Fujii/Civil Beat",
+     "url": "https://www.civilbeat.org/2025/12/photo-essay-building-a-hawaiian-fishpond-wall-to-connect-people/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-13",
+   "date": "2026-11-18",
+   "id": "C14-13",
+   "title": "Hawaiʻi Once Powered a Barge with the Temperature Difference in the Ocean",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-13"
+   },
+   "research": [
+    {
+     "label": "princeton.edu/~ota/disk3/1980/8016/801606.PDF",
+     "url": "https://www.princeton.edu/~ota/disk3/1980/8016/801606.PDF"
+    },
+    {
+     "label": "repository.library.noaa.gov/view/noaa/47051",
+     "url": "https://repository.library.noaa.gov/view/noaa/47051"
+    },
+    {
+     "label": "NELHA CEMP APPENDIX C Seawater (nelha.hawaii.gov)",
+     "url": "https://nelha.hawaii.gov/wp-content/uploads/2020/10/NELHA_CEMP_APPENDIX_C_Seawater.pdf"
+    },
+    {
+     "label": "About hnei (hnei.hawaii.edu)",
+     "url": "https://www.hnei.hawaii.edu/about-hnei/"
+    }
+   ],
+   "other": [
+    {
+     "label": "Mini otec operational results (tethys-engineering.pnnl.gov)",
+     "url": "https://tethys-engineering.pnnl.gov/publications/mini-otec-operational-results"
+    },
+    {
+     "label": "makai.com/renewable-energy/otec",
+     "url": "https://www.makai.com/renewable-energy/otec/"
+    },
+    {
+     "label": "makai.com/pipelines",
+     "url": "https://www.makai.com/pipelines/"
+    },
+    {
+     "label": "nelha.hawaii.gov/about",
+     "url": "https://nelha.hawaii.gov/about/"
+    },
+    {
+     "label": "makai.com/pipelines/otec",
+     "url": "https://www.makai.com/pipelines/otec"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "An aerial color photograph of the Mini-OTEC barge afloat on dark blue water off Hawaiʻi in 1979: MINI OTEC painted on the gray hull, a white deckhouse, red ammonia piping and tall blue plate heat exchangers on the deck",
+     "credit": "Source: Makai Ocean Engineering",
+     "url": "https://www.makai.com/ocean-thermal-energy-conversion/ (image file https://www.makai.com/wp-content/uploads/2022/06/0miniOTEC.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A halftone photograph of the Mini-OTEC barge afloat off Keāhole Point in 1979, side on: a low steel barge with MINI OTEC lettered along the hull, a small deckhouse and plant equipment on deck",
+     "credit": "Photo: Lockheed, via DOE/SERI",
+     "url": "https://www.osti.gov/biblio/5390257 (report p.3, Figure 4; PDF https://www.osti.gov/servlets/purl/5390257, PDF page 8)",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a tall rectangular plate-and-fin heat exchanger standing in an industrial hall (credited to Argonne National Laboratory), with a flanged pipe at the top and an inset showing its finned cross-section",
+     "credit": "Photo: Argonne Lab, via DOE/SERI",
+     "url": "https://www.osti.gov/biblio/5390257 (report p.9, Figure 1.7, PDF page 14; credited Courtesy of ANL)",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "An aerial photograph of the land-based experimental open-cycle OTEC plant at Keāhole Point, Hawaiʻi Island, which ran from 1993 to 1998: a tall round concrete vacuum vessel at lower left with white seawater pipes running past it, low buildings, a parking area and the lava coast with the Keāhole lighthouse at upper right",
+     "credit": "Photo: US DOE (Luis Vega, AIP)",
+     "url": "https://commons.wikimedia.org/wiki/File:OTEC_in_Hawaii.jpg (Commons gives the source as the Hawaii DBEDT page hawaii.gov/dbedt/ert/otec_hi.html and tags it PD-USGov-DOE); the same aerial photo is credited to Luis Vega at https://www.eurekalert.org/multimedia/888521",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a steel test tower with tanks and piping beside the sea at the Seacoast Test Facility, Keāhole Point: the heat- and mass-transfer scoping apparatus DOE used for open-cycle OTEC experiments in the late 1980s",
+     "credit": "Photo: DOE/SERI",
+     "url": "https://www.osti.gov/biblio/5390257 (report p.3, Figure 3, PDF page 8)",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a scuba diver swimming above a large-diameter seawater pipeline lying on the seabed, held down with chains and flanged joints, in blue water",
+     "credit": "Source: Makai Ocean Engineering",
+     "url": "https://www.makai.com/ocean-thermal-energy-conversion/ (image file https://www.makai.com/wp-content/uploads/2022/06/NELHA-DiverAbove55.jpg, captioned Large Diameter Ocean Pipe)",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: a rusted navigation-light tower on a slab of black lava at Keāhole Point, with the Pacific behind it, photographed in January 2020",
+     "credit": "Photo: Dsealy (Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Keahole_Point_Light_2020.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: the Makai Ocean Engineering heat-exchanger test facility at the Natural Energy Laboratory of Hawaii Authority, Keāhole Point, photographed in September 2013, a steel tower carrying white pipes beside a palm",
+     "credit": "Source: NELHA",
+     "url": "https://nelha.hawaii.gov/home/otec/ (NELHA Clean Energy Test Bed page; image https://nelha.hawaii.gov/wp-content/uploads/2023/08/Makai-Sep-2013-photo.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 7c",
+     "what": "Illustrative photo: a large black pipe lies on the lava shore at the Hawaiʻi Ocean Science and Technology Park, Keāhole Point, beside the corner of a white shipping-container demonstration building, with the Pacific behind a security fence, from the Natural Energy Laboratory of Hawaii Authority website (cropped)",
+     "credit": "Source: NELHA, cropped",
+     "url": "https://nelha.hawaii.gov/home/containerized-demonstrations/ (Containerized Demonstrations section; image https://nelha.hawaii.gov/wp-content/uploads/2023/08/container.jpg, shown as a slide on the NELHA home page, cropped)",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "A black-and-white halftone photograph from a 1980 Department of Energy brochure, captioned Mini-OTEC producing electricity off the coast of Hawaii: the barge seen from the stern quarter with MINI OTEC on the hull and plant equipment on deck",
+     "credit": "Source: SERI / US DOE, 1980",
+     "url": "https://www.osti.gov/biblio/8148120 (SERI/SP-732-334, The Ocean Option: Abundant Energy from the Seas, May 1980, p.4, photo captioned Mini-OTEC producing electricity off the coast of Hawaii; PDF https://www.osti.gov/servlets/purl/8148120)",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "Illustrative photo: an aerial view straight down on the Hawaiʻi Ocean Science and Technology Park at Keāhole Point, rows of green, red and tan culture ponds and white buildings on a black lava point ringed by surf, from the Natural Energy Laboratory of Hawaii Authority",
+     "credit": "Source: NELHA",
+     "url": "https://nelha.hawaii.gov/ (home page, Visit HOST Park slide; image https://nelha.hawaii.gov/wp-content/uploads/2023/08/IMG_5021_edited-1-scaled.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a tall steel frame structure carrying large white pipes and a Makai Ocean Engineering sign, the company's OTEC research facility at Keāhole Point, photographed in 2019 under a blue sky",
+     "credit": "Photo: Vitafougue (Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Makai%27s_Ocean_Thermal_Energy_Conversion.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: heavy surf and spray breaking over a lava shelf at the Natural Energy Laboratory of Hawaii, with the lines of three seawater pipes running out through the surf zone, from a 1989 report",
+     "credit": "Photo: NELH, via DOE/SERI",
+     "url": "https://www.osti.gov/biblio/5390257 (report p.14, Figure 2.2, PDF page 18; credited Courtesy of NELH)",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: the Makai Research Pier at Waimānalo, Oʻahu, a concrete pier on piles running over turquoise water to a tan hangar-like building with a green slope behind, photographed in 2008 by Ossewa",
+     "credit": "Photo: Ossewa (Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Makai_Research_Pier.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "A black-and-white photograph of workmen assembling the long black polyethylene cold-water pipe for Mini-OTEC at the water's edge, with a mobile crane lifting a section; the 1980 DOE brochure calls it the 2000-foot cold water pipe used by Mini-OTEC. It is the actual pipe the sentence describes (the story gives about 670 meters, roughly 2,200 feet, as the intake depth; the caption rounds to 2,000 feet)",
+     "credit": "Source: SERI / US DOE, 1980",
+     "url": "https://www.osti.gov/biblio/8148120 (SERI/SP-732-334, The Ocean Option, May 1980, p.6, photo captioned Workmen assemble the 2000-foot cold water pipe used by Mini-OTEC; PDF https://www.osti.gov/servlets/purl/8148120)",
+     "card": false
+    },
+    {
+     "where": "Slide 12a",
+     "what": "Illustrative photo: a long black polyethylene pipe lies across churning surf beside a work vessel with a person on deck, with the Kona coast behind, as a pipe is deployed at the Natural Energy Laboratory of Hawaii",
+     "credit": "Photo: R. M. Towill, via DOE/SERI",
+     "url": "https://www.osti.gov/biblio/5390257 (report p.18, Figure 3.2, PDF page 22; credited Courtesy of R.M. Towill Corporation)",
+     "card": false
+    },
+    {
+     "where": "Slide 12b",
+     "what": "Illustrative photo: a long white pipe section with a rounded end cap being lowered over the side of a work barge into dark blue water, two workers in hard hats on the deck",
+     "credit": "Source: Makai Ocean Engineering",
+     "url": "https://www.makai.com/ocean-thermal-energy-conversion/ (image file https://www.makai.com/wp-content/uploads/2022/06/8-ft-lowering.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: a large pipe lying on a coral seabed in bright blue water, held by chains and crossed steel anchor frames",
+     "credit": "Source: Makai Ocean Engineering",
+     "url": "https://www.makai.com/ocean-thermal-energy-conversion/ (image file https://www.makai.com/wp-content/uploads/2022/06/teepees.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Illustrative photo: the Pacific meeting a black lava shoreline and pale sand at Keāhole Point, Hawaiʻi Island, at dusk in July 2023",
+     "credit": "Photo: Relativity (Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Ocean_near_Keahole_Point.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 15",
+     "what": "Illustrative photo: the OTEC demonstration plant on Kume Island, Japan: a blue steel frame several stories high with white vessels, stairs and railings, and white pipes at the right, on a lawn under a blue sky",
+     "credit": "Photo: Okinawa Prefecture",
+     "url": "https://eos.org/features/the-century-old-renewable-youve-never-heard-of (Eos, 24 Jan 2022; image https://eos.org/wp-content/uploads/2022/01/otec-kume.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 16",
+     "what": "An aerial photograph taken on 11 October 2021 looking along Keāhole Point, Hawaiʻi Island: a flat lava peninsula with rows of low buildings, tanks and ponds, a straight road down its spine and surf along the left shore",
+     "credit": "Photo: Famartin (Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:2021-10-11_07_03_41_View_of_Keahole_Point_in_Kalaoa,_Hawaii_County,_Hawaii_from_an_aircraft_just_after_takeoff_from_Kona_International_Airport.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 17",
+     "what": "A photograph at sunset of a long black polyethylene pipeline floating across the surface of a tropical lagoon toward the shore, with the jagged peak of Bora Bora silhouetted behind",
+     "credit": "Source: Makai Ocean Engineering",
+     "url": "https://www.makai.com/swac-seawater-air-conditioning/ (page https://www.makai.com/?p=690, image https://www.makai.com/wp-content/uploads/2022/06/Bora-Bora-Wide-1.jpg, captioned Bora Bora SWAC Pipeline)",
+     "card": false
+    },
+    {
+     "where": "Slide 18",
+     "what": "Illustrative photo: the Star II research submersible, a white pressure sphere with portholes and a tail frame, being launched from its recovery transport at sea in 1977 to inspect the seabed along a proposed cold-water pipeline route off Keāhole Point",
+     "credit": "Photo: Noda, UH Sea Grant",
+     "url": "https://repository.library.noaa.gov/view/noaa/47051 (report p.7, Plate 3, PDF page 11)",
+     "card": false
+    },
+    {
+     "where": "Slide 19",
+     "what": "Illustrative photo: a tall steel-framed OTEC test plant with a Makai Ocean Engineering sign, a windsock and large white pipes, photographed in 2013 at Keāhole Point, Hawaiʻi",
+     "credit": "Photo: HIOceanEngineer (Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Makai_105kW_OTEC_Plant.png",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-04",
+   "date": "2026-11-25",
+   "id": "C14-04",
+   "title": "When Two Versions of the Law Disagree",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-04"
+   },
+   "research": [
+    {
+     "label": "SB109 SD2 (data.capitol.hawaii.gov)",
+     "url": "https://data.capitol.hawaii.gov/sessions/session2025/bills/SB109_SD2_.PDF"
+    }
+   ],
+   "other": [
+    {
+     "label": "SB16 SSCR6 (data.capitol.hawaii.gov)",
+     "url": "https://data.capitol.hawaii.gov/sessions/session2023/commreports/SB16_SSCR6_.HTM"
+    },
+    {
+     "label": "4879 5 (law.justia.com)",
+     "url": "https://law.justia.com/cases/hawaii/supreme-court/1973/4879-5.html"
+    },
+    {
+     "label": "Section 1 13 (law.justia.com)",
+     "url": "https://law.justia.com/codes/hawaii/title-1/chapter-1/section-1-13/"
+    },
+    {
+     "label": "lrb.hawaii.gov/constitution",
+     "url": "https://lrb.hawaii.gov/constitution/"
+    },
+    {
+     "label": "HRS 0001 0013 (capitolwebsite.azurewebsites.net)",
+     "url": "https://capitolwebsite.azurewebsites.net/hrscurrent/Vol01_Ch0001-0042F/HRS0001/HRS_0001-0013.HTM"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a black-and-white photograph from about 1870 of Aliʻiōlani Hale in Honolulu, a two-story stone government building with a clock tower and a tall flagpole in an open yard",
+     "credit": "Photo: HABS / Hawaii State Archives",
+     "url": "https://commons.wikimedia.org/wiki/File:GENERAL_EXTERIOR_VIEW_OF_NORTHEAST_(FRONT)_ELEVATION_FROM_EAST_(Photo_ca_1870,_from_original_in_Hawaii_State_Arvhices).__Photocopy_1966_-_Aliiolani_Hale,_463_King_Street,_Honolulu,_HABS_HI,2-HONLU,3-21.tif (HABS HI-2-HONLU-3-21, 1966 photocopy of a c. 1870 print in the Hawaii State Archives; cropped to the print)",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a group photograph of the members of the Legislature of the Kingdom of Hawaii in 1886, seated and standing in front of a stone building",
+     "credit": "Source: Hawaii State Archives, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Legislature_of_the_Kingdom_of_Hawaii_in_1886_(PPWD-4-2-007,_original).jpg (Hawaii State Archives call number PPWD-4-2-007; cropped from the archive scan to the print)",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Black-and-white photograph, about 1872, of the Old Courthouse on Queen Street in Honolulu: a two-story stone building with a pedimented roof, a small balcony over a columned porch, an iron fence and a fountain in front",
+     "credit": "Photo: HABS, Library of Congress",
+     "url": "https://commons.wikimedia.org/wiki/File:NORTHWEST_FRONT_(photograph,_ca._1872)_-_Old_Courthouse,_Queen_Street_between_Fort_and_Bishop_Streets,_Honolulu,_Honolulu_County,_HI_HABS_HI,2-HONLU,7-5.tif (HABS HI-2-HONLU,7-5, Library of Congress; copy photograph of a c. 1872 print; cropped to the print)",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a black-and-white survey photograph of an ornate oval cast-iron ventilation grille set in the ceiling of the Supreme Court chambers in Aliʻiōlani Hale, a pattern of scrolls and flowers inside a rectangular frame",
+     "credit": "Photo: HABS, Library of Congress",
+     "url": "https://commons.wikimedia.org/wiki/File:IRON_VENTILATION_GRILLE_IN_CEILING_OF_SUPREME_COURT_CHAMBERS_-_Aliiolani_Hale,_463_King_Street,_Honolulu,_Honolulu_County,_HI_HABS_HI,2-HONLU,3-20.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the first printing office in Honolulu in an undated Hawaiʻi State Archives glass-plate photograph, a long low coral-stone building with a shingled roof and covered porch beside a white two-story frame house, across a lawn with a sprinkler and a large lava boulder",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/4872 (Photograph Collection > Glass Plate Negatives > BUILDINGS: Business > Printing Office, PNM-307-20506 (negative 19159); image https://digitalarchives.hawaii.gov/resources/images/ark_70111_4872.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a black-and-white survey photograph looking along the covered porch of the Mission Printing Office in Honolulu, with a rough coral-stone wall on the right, a plank door and wooden posts",
+     "credit": "Photo: HABS, Library of Congress",
+     "url": "https://commons.wikimedia.org/wiki/File:ENTRANCE,_INSIDE_PORCH_-_Mission_Printing_Office,_King_and_Kawaiahao_Streets,_Honolulu,_Honolulu_County,_HI_HABS_HI,2-HONLU,20-3.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the Kanaina Building in Honolulu, the former Hawaiʻi State Archives, a white single-story neoclassical building with columns at the entrance, seen from a corner with a palm tree and a small stone marker in front",
+     "credit": "Photo: Steven Pavlov, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:2023-04-19,_Kanaina_Building_(Old_Hawaii_State_Archives),_03.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a black-and-white Historic American Buildings Survey photograph of the front of the Mission Printing Office in Honolulu, a low coral-stone building with a metal roof and a vine-covered porch beside a lawn",
+     "credit": "Photo: HABS, Library of Congress",
+     "url": "https://commons.wikimedia.org/wiki/File:GENERAL_VIEW,_NORTH_(FRONT)_ELEVATION_FROM_NORTHEAST_-_Mission_Printing_Office,_King_and_Kawaiahao_Streets,_Honolulu,_Honolulu_County,_HI_HABS_HI,2-HONLU,20-1.tif (Library of Congress, HABS HI-2-HONLU-20-1; cropped to the picture)",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the Library of Hawaii in Honolulu in an undated sepia print by L. E. Edgeworth, a two-story pale building with a row of tall columns across its front and a spreading monkeypod tree overhead",
+     "credit": "Photo: L. E. Edgeworth",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/1z2H (Photograph Collection > Withdrawn Photographic Collection, PPWD-2-4-002, Buildings, Government - Library of Hawaii; image https://digitalarchives.hawaii.gov/resources/images/ark_70111_1z2H.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: the open entrance of the Hawaii State Capitol in Honolulu, with the round Great Seal of the State of Hawaii above slender white columns and slatted walls",
+     "credit": "Photo: w_lemay, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Breezeway,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI.jpg (Flickr https://www.flickr.com/photos/59081381@N03/52220728051/)",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: a shelf of red bound volumes of the 2007 Oregon Revised Statutes in the law library at UC Berkeley",
+     "credit": "Photo: Coolcaesar, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_Revised_Statutes.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10c",
+     "what": "Illustrative photo: the painted coat of arms of the Hawaiian Kingdom fixed to the iron gate of ʻIolani Palace in Honolulu, with the Hawaiian-language motto Ua mau ke ea o ka ʻāina i ka pono on its banner and the palace blurred behind",
+     "credit": "Photo: Tony Hisgett, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Iolani_Palace_Gates_(30005210893).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10d",
+     "what": "Photograph of delegates to the 1950 Hawaiʻi constitutional convention, wearing leis, gathered around two seated men signing a large printed sheet headed The Constitution of the State of Hawaii (Hawaiʻi State Archives, 1950)",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/4Xj6 (image https://digitalarchives.hawaii.gov/resources/images/ark_70111_4Xj6.0.jpeg)",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: the open central atrium of the Hawaii State Capitol in Honolulu, with tiered balconies around a shallow blue pool and a paved court",
+     "credit": "Photo: Farragutful, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:2020_Hawaii_State_Capitol_05.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: the entrance to the Hawaii State Senate chamber inside the State Capitol in Honolulu, a tall open hall with slatted walls and a balcony above",
+     "credit": "Photo: Xpixupload",
+     "url": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Hawaii_State_Senate_chamber,_USA.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: a black-and-white Historic American Buildings Survey photograph of the curved first-floor stairway of Aliʻiōlani Hale, with a checkerboard floor and a carved newel post",
+     "credit": "Photo: HABS, Library of Congress",
+     "url": "https://commons.wikimedia.org/wiki/File:FIRST_FLOOR,_STAIRWAY_-_Aliiolani_Hale,_463_King_Street,_Honolulu,_Honolulu_County,_HI_HABS_HI,2-HONLU,3-16.tif (Library of Congress https://www.loc.gov/pictures/item/hi0040.photos.058040p)",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Illustrative photo: a black-and-white Historic American Buildings Survey photograph of the second-floor balcony around the rotunda of Aliʻiōlani Hale, with a railing and columns",
+     "credit": "Photo: HABS, Library of Congress",
+     "url": "https://commons.wikimedia.org/wiki/File:SECOND-FLOOR_BALCONY_OF_ROTUNDA_-_Aliiolani_Hale,_463_King_Street,_Honolulu,_Honolulu_County,_HI_HABS_HI,2-HONLU,3-18.tif (Library of Congress, HABS HI-2-HONLU-3-18)",
+     "card": false
+    },
+    {
+     "where": "Slide 15",
+     "what": "Illustrative photo: a hand reaching over a book scanner in a dark room, with a bound volume of newspapers open on the scanning cradle in a pool of light",
+     "credit": "Photo: Jennifer Nesbitt, U.S. Air Force",
+     "url": "https://commons.wikimedia.org/wiki/File:A_book_scanner_used_to_digitize_Nellis_Air_Force_Base_newspapers_at_the_UNLV_Lied_Library_in_Las_Vegas,_Nevada,_April_21,_2026.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 16a",
+     "what": "Illustrative photo: Aliʻiōlani Hale in Honolulu in color, the historic stone government building with a clock tower and a gilded statue of Kamehameha I in front, seen across a hedge and palm trees",
+     "credit": "Photo: Meweldon, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Court_Building_in_Honolulu.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 16b",
+     "what": "Illustrative photo: the Hawaiʻi State Capitol in Honolulu seen from the lawn, a concrete building with a wide flat roof carried on slender columns, under a blue sky",
+     "credit": "Photo: Farragutful, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:2020_Hawaii_State_Capitol_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 17a",
+     "what": "Illustrative photo: a black-and-white survey photograph of the main entrance of Aliʻiōlani Hale, a stone arch and columns with a leafy plant at the right",
+     "credit": "Photo: HABS, Library of Congress",
+     "url": "https://commons.wikimedia.org/wiki/File:MAIN_ENTRANCE_-_Aliiolani_Hale,_463_King_Street,_Honolulu,_Honolulu_County,_HI_HABS_HI,2-HONLU,3-12.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 17b",
+     "what": "Illustrative photo: the stone Printing Press Building at the Mission Houses Museum in Honolulu, with the stone marker recording the first Hawaiian printing on January 7, 1822, in front of its doors",
+     "credit": "Photo: Joel Bradshaw, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Honolulu-Mission-Houses-Press.JPG",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-09",
+   "date": "2026-12-02",
+   "id": "C14-09",
+   "title": "The Observatory That Turned a Volcano into a Century-Long Signal",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-09"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Summit webcams (usgs.gov)",
+     "url": "https://www.usgs.gov/volcanoes/kilauea/summit-webcams"
+    },
+    {
+     "label": "usgs.gov/volcanoes/kilauea/multimedia",
+     "url": "https://www.usgs.gov/volcanoes/kilauea/multimedia"
+    },
+    {
+     "label": "Volcano watch founding hawaiian volcano observatory (usgs.gov)",
+     "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-founding-hawaiian-volcano-observatory"
+    },
+    {
+     "label": "pubs.usgs.gov/publication/gip135",
+     "url": "https://pubs.usgs.gov/publication/gip135"
+    },
+    {
+     "label": "Hawaiian volcano observatory record book 1912 (usgs.gov)",
+     "url": "https://www.usgs.gov/publications/hawaiian-volcano-observatory-record-book-1912"
+    },
+    {
+     "label": "Volcano watch how it all began first steps toward volcano monitoring united (usgs.gov)",
+     "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-how-it-all-began-first-steps-toward-volcano-monitoring-united"
+    },
+    {
+     "label": "Volcano watch five years flow reflections destructive 2018 eruption kilauea (usgs.gov)",
+     "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-five-years-flow-reflections-destructive-2018-eruption-kilauea"
+    },
+    {
+     "label": "parkplanning.nps.gov/HAVODisasterRecovery",
+     "url": "https://parkplanning.nps.gov/HAVODisasterRecovery"
+    },
+    {
+     "label": "Volcano watch hvo transforms stacks paper earthquake records digital squiggles (usgs.gov)",
+     "url": "https://www.usgs.gov/news/volcano-watch-hvo-transforms-stacks-paper-earthquake-records-digital-squiggles"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Aerial photograph taken on May 8, 2018 of the Hawaiian Volcano Observatory's Okamura building and the Jaggar Museum on Uēkahuna Bluff, above the dark floor of Kīlauea's caldera",
+     "credit": "Photo: J. Christensen, NPS",
+     "url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Jaggar_Museum_and_USGS_HVO_facilities_(49888485321).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a view straight down the six-meter borehole that houses HVO's UWE tiltmeter at the summit of Kīlauea, taken during releveling on July 2, 2024",
+     "credit": "Photo: M. Warren, USGS",
+     "url": "https://www.usgs.gov/media/images/july-2-2024-leveling-uwe-tiltmeter-summit-kilauea-1",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: two HVO technicians install a solar-powered seismic station near the summit of Kīlauea in February 2008, with an antenna mast, solar panel and Mauna Loa in the background",
+     "credit": "Source: USGS Hawaiian Volcano Observatory",
+     "url": "https://www.usgs.gov/media/images/hvo-technicians-working-seismic-station-summit-kilauea",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Photograph pasted into HVO's 1912 record book, dated January 25, 1912 and initialed by Jaggar: a dim view across Halemaʻumaʻu from the rim, with three figures at the lower right on the edge",
+     "credit": "Photo: Thomas A. Jaggar, 1912",
+     "url": "https://pubs.usgs.gov/publication/70274519",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a row of paper-drum seismograph recorders in the Thomas A. Jaggar Museum, each labeled with a different HVO station name, photographed in 2010",
+     "credit": "Photo: Ken Lund",
+     "url": "https://commons.wikimedia.org/wiki/File:Seismographs,_Thomas_A._Jaggar_Museum,_Hawai%CA%BBi_Volcanoes_National_Park,_Hawaii_(4529366202).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Photograph from HVO's 1912 record book, dated January 26, 1912 (nine days after the arrival the slide describes) and initialed by Jaggar: two men stand on the cracked lava crust of the crater floor near a steam vent, under the high crater wall",
+     "credit": "Photo: Thomas A. Jaggar, 1912",
+     "url": "https://pubs.usgs.gov/publication/70274519",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Photograph of the Volcano House hotel manager's room in the early 1900s, from a glass-plate negative at the Hawaiʻi State Archives: a man sits at a table in a room hung with dried leaf fringe and framed portraits, and the plate carries the caption 'Volcano House Manager's Room'. It shows the room of the hotel that Demosthenes Lycurgus operated; who the seated man is has not been confirmed",
+     "credit": "Source: Hawaiʻi State Archives",
+     "url": "https://digitalarchives.hawaii.gov/item/ark:70111/492S",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Photograph taken May 28, 1912 inside Halemaʻumaʻu: two men stand on the lava floor beside a crate of sampling bottles, with tubing running to a steaming dome from which the gases were collected",
+     "credit": "Photo: A. L. Day and E. S. Shepherd",
+     "url": "https://archive.org/details/bulletinofgeolo241913geol (Bulletin of the Geological Society of America, vol. 24, 1913, plate 20; leaf 677)",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "1912 photograph of the Whitney Laboratory of Seismology: a timber-beamed room with concrete piers carrying tall pendulum seismographs and recording gear, with windows along one wall",
+     "credit": "Photo: T. A. Jaggar, 1912, USGS",
+     "url": "https://pubs.usgs.gov/gip/135/ (GIP 135, p. 36; file gip135.pdf)",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Photograph from HVO's 1912 record book, dated February 4, 1912 and initialed by Jaggar: the wooden Technology Station on Kīlauea's rim behind a picket fence, with a man standing in the doorway",
+     "credit": "Photo: Thomas A. Jaggar, 1912",
+     "url": "https://pubs.usgs.gov/publication/70274519",
+     "card": false
+    },
+    {
+     "where": "Slide 11a",
+     "what": "Photograph from HVO's 1912 record book, dated February 16, 1912 and initialed by Jaggar: a plain wooden building frame under construction on open ground, with workers beside it",
+     "credit": "Photo: Thomas A. Jaggar, 1912",
+     "url": "https://pubs.usgs.gov/publication/70274519",
+     "card": false
+    },
+    {
+     "where": "Slide 11b",
+     "what": "Illustrative photo: two cylinders wrapped in paper seismograms, one covered in short spikes from an earthquake swarm and one with the dense bands of harmonic tremor, mounted on the wall of the Jaggar Museum at the Hawaiian Volcano Observatory",
+     "credit": "Photo: Ken Lund",
+     "url": "https://commons.wikimedia.org/wiki/File:Seismographs,_Thomas_A._Jaggar_Museum,_Hawai%CA%BBi_Volcanoes_National_Park,_Hawaii_(4529368786).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Photograph from June 6, 2024 of an HVO field engineer burying the cable for a new seismometer at a Kīlauea Southwest Rift Zone station that already carries GPS and high-resolution gas equipment, with solar panels and a radio dish beyond",
+     "credit": "Photo: M. Warren, USGS",
+     "url": "https://www.usgs.gov/media/images/june-6-2024-installing-a-new-seismometer-kilauea-southwest-rift-zone",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Photograph from June 2018 of a temporary GPS station on the floor of Kīlauea's caldera: a yellow tripod carrying a GPS antenna, with a solar panel and radio telemetry, steaming crater wall behind",
+     "credit": "Source: USGS Volcano Hazards Program",
+     "url": "https://www.usgs.gov/media/images/kilauea-volcano-gps-station",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Photograph of an HVO geochemist at the rim of Halemaʻumaʻu photographing an FTIR spectrometer on a tripod pointed into the gas-filled crater; the page dates the image to July 2016",
+     "credit": "Source: USGS Volcano Hazards Program",
+     "url": "https://www.usgs.gov/media/images/usgs-hvo-geochemist-measuring-gases-released-kilauea-a-fo",
+     "card": false
+    },
+    {
+     "where": "Slide 15",
+     "what": "Illustrative photo: a silhouetted HVO scientist and three instruments on tripods at the rim of Halemaʻumaʻu against glowing gas and steam during the summit eruption on September 29, 2021",
+     "credit": "Photo: D. Downs, USGS",
+     "url": "https://www.usgs.gov/media/images/hvo-scientists-monitor-ongoing-eruption",
+     "card": false
+    },
+    {
+     "where": "Slide 16",
+     "what": "Photograph of a smoked-drum seismic recorder in a museum case: a black, soot-coated cylinder on its axle beside a wooden instrument box",
+     "credit": "Photo: Ed Shiinoki, NPS",
+     "url": "https://commons.wikimedia.org/wiki/File:Seismic_Recorder.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 17",
+     "what": "Close photograph of a paper seismogram at Hawaiʻi Volcanoes National Park showing the 2011 Tōhoku earthquake as a dense band of pen traces, with handwritten notes \"Japan Earthquake\" and a local 4.6 event",
+     "credit": "Photo: Joe Parks",
+     "url": "https://commons.wikimedia.org/wiki/File:T%C5%8Dhoku_Seismogram_-_Flickr_-_Joe_Parks.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 18",
+     "what": "USGS photograph from summer 2017 of the Hawaiian Volcano Observatory's archive: aisles of steel shelving packed with labeled cardboard boxes of paper seismograms, with handwritten labels such as Smoke Records",
+     "credit": "Source: USGS Hawaiian Volcano Observatory",
+     "url": "https://www.usgs.gov/media/images/usgs-hawaiian-volcano-observatory-historical-seismograms (as preserved at HTW public-record/preserved-media/c14-09/hvo-historical-seismograms.png, C14-09-IMAGE-003, restored by HTW PR #9)",
+     "card": false
+    },
+    {
+     "where": "Slide 19",
+     "what": "Illustrative photo: Hawaii Army National Guard soldiers in hard hats frame a wooden micro-shelter in Pāhoa on June 7, 2018, one of twenty built for people displaced by the 2018 lava flows",
+     "credit": "Photo: Hawaii National Guard",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_National_Guard_(40862940230).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 20",
+     "what": "Photograph taken July 24, 2018: a deep crack runs across the ash-coated Jaggar Museum overlook deck on Uēkahuna Bluff beside an interpretive sign, with the enlarged Halemaʻumaʻu crater behind it",
+     "credit": "Photo: Jon Christensen, NPS",
+     "url": "https://commons.wikimedia.org/wiki/File:Large_crack_at_Jaggar_Museum_Overlook_Deck_(43699003592).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 21",
+     "what": "Photograph taken July 8, 2021 of the Hawaiian Volcano Observatory building on Uēkahuna Bluff behind a fence and an AREA CLOSED sign, closed because of structural damage from the 2018 eruption",
+     "credit": "Photo: Larry D. Moore",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaiian_Volcano_Observatory_Closed_2021.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 22a",
+     "what": "Illustrative photo: two HVO scientists inspect a seismic station with a solar panel in forest on Mauna Loa in April 2019",
+     "credit": "Source: USGS Hawaiian Volcano Observatory",
+     "url": "https://www.usgs.gov/media/images/hvo-scientists-inspect-a-seismic-station-mauna-loa",
+     "card": false
+    },
+    {
+     "where": "Slide 22b",
+     "what": "Two HVO field technicians in orange work on a volcanic gas monitoring station on a slope of dark tephra at Kīlauea summit, one lying on a cardboard sheet to reach the cracked solar panel while the other works behind it",
+     "credit": "Photo: L. DeSmither, USGS",
+     "url": "https://www.usgs.gov/media/images/august-27-2026-usgs-staff-repair-monitoring-equipment-kilauea-summit",
+     "card": false
+    },
+    {
+     "where": "Slide 23a",
+     "what": "Illustrative photo: an HVO scientist in a helmet aims a laser rangefinder across Halemaʻumaʻu at the lava lake on December 28, 2020, to turn the lake surface into a measured distance and depth",
+     "credit": "Photo: M. Patrick, USGS",
+     "url": "https://www.usgs.gov/media/images/hvo-scientist-monitors-eruption",
+     "card": false
+    },
+    {
+     "where": "Slide 23b",
+     "what": "Illustrative photo: an HVO geologist in an orange helmet and high-visibility vest records a lava fountain in Halemaʻumaʻu with a camera on a tripod from the caldera rim on May 5, 2026",
+     "credit": "Photo: M. Patrick, USGS",
+     "url": "https://www.usgs.gov/media/images/may-5-2026-scientist-monitors-episode-46-lava-fountaining-kilauea-summit",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-11",
+   "date": "2026-12-09",
+   "id": "C14-11",
+   "title": "The Lines That Changed the Land",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-11"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "papakilodatabase.com",
+     "url": "https://www.papakilodatabase.com/"
+    },
+    {
+     "label": "About us (ags.hawaii.gov)",
+     "url": "https://ags.hawaii.gov/survey/about-us/"
+    },
+    {
+     "label": "Available survey information (ags.hawaii.gov)",
+     "url": "https://ags.hawaii.gov/survey/available-survey-information/"
+    },
+    {
+     "label": "State land survey division digitizing maps to help public (ags.hawaii.gov)",
+     "url": "https://ags.hawaii.gov/blog/main/state-land-survey-division-digitizing-maps-to-help-public/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A handwritten Land Commission award-book page of October 12, 1850: a pen-and-ink plat of a parcel with a creek along one edge, hachured hillside and neighboring-land names, the tail of a courses-and-distances description above it, a costs list and the commissioners' signatures below",
+     "credit": "Scan: Hawaiʻi State Archives",
+     "url": "https://archive.org/details/esrp260351545",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A handwritten Land Commission page signed by surveyor A. F. Turner in July 1850: a description of a Honolulu lot that starts at the corner of Nuuanu and King Streets and runs by bearings and chain lengths to the point of commencement, with a hand-drawn plat showing the Bethel Chapel and neighboring lots beside it",
+     "credit": "Scan: Hawaiʻi State Archives",
+     "url": "https://archive.org/details/esrp260351545",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a sepia print, about 1885, of Kahana Bay on Oʻahu: a curve of beach and calm water below a steep, forested valley wall, with a few small houses along the shore",
+     "credit": "Source: HI State Archives, c. 1885",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1xMj",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A handwritten page headed in Hawaiian as a notice to everyone holding kuleana ʻāina across the Hawaiian islands, dated February 11, 1846 and signed by the Land Commission's commissioners including William Richards and John Ricord",
+     "credit": "Scan: Hawaiʻi State Archives",
+     "url": "https://archive.org/details/esrp260351545",
+     "card": false
+    },
+    {
+     "where": "Slide 5a",
+     "what": "A handwritten Land Commission award-book page of October 27, 1852, headed with an award number (Helu 570B), with two ʻāpana described by bearings and distances and signed by surveyor S. P. Kalama, two hand-drawn plats of the parcels at the bottom, and the commissioners' signatures with the fee line at the top",
+     "credit": "Scan: Hawaiʻi State Archives",
+     "url": "https://archive.org/details/esrp260351545",
+     "card": false
+    },
+    {
+     "where": "Slide 5b",
+     "what": "Illustrative photo: a rusted metal target on a post set in a mortared lava-rock pier, a Hawaii Territorial Survey triangulation station called LUKE, with the Wailuku valley and clouded mountains behind it",
+     "credit": "Photo: Wikimedia Commons contributor",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_Territorial_Survey_LUKE_survey_marker_Wailuku_Maui_HI.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A handwritten Land Commission page for claim 539 at Honaunau, Kona, Hawaiʻi: a plat of the parcel at the top, a short summary of the claim and the award, and a description that starts at a marked rock, follows a small stone wall (kaʻuʻ) and a stream bed between named neighboring lands and runs by bearings and chains back to the start",
+     "credit": "Scan: Hawaiʻi State Archives",
+     "url": "https://archive.org/details/esrp260351545",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A handwritten Land Commission page in Hawaiian with ruled lists of bearings and chain distances for three separate ʻāpana, the neighboring holding named at the end of each line, a handwritten column of sums in the right margin, and three hand-drawn plats with a chain scale below",
+     "credit": "Scan: Hawaiʻi State Archives",
+     "url": "https://archive.org/details/esrp260351545",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A black-and-white photograph from above of taro plots in Hālawa Valley, Molokaʻi: dozens of small walled and ditched loʻi stepping across the valley floor, a stream along the upper right and a thatched-roof house at the lower right",
+     "credit": "Photo: Pan-Pacific Press Bureau",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/0gk7",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: an undated sepia print that the archive's record captions Kuleana, showing two thatched Hawaiian houses on open ground below a steep, cloud-topped valley wall",
+     "credit": "Source: HI State Archives, PP-32-1-001",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1Ddm",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "A photograph inside the State Land Survey Division of a floor-to-ceiling rack of numbered pigeonholes holding rolled paper maps under a yellow sign reading LAHAINA MAPS, with more rolls stacked above and below",
+     "credit": "Photo: Courtesy Hawaiʻi DAGS",
+     "url": "https://ags.hawaii.gov/blog/main/state-land-survey-division-digitizing-maps-to-help-public/ (image https://ags.hawaii.gov/wp-content/uploads/2025/07/Rolled-up-maps-at-Land-Survey-Division_Courtesy-DAGS.jpg, alt text at source: Rolled up maps of Lahaina at DAGS Land Survey Division)",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Two State Land Survey Division staff members standing at the water's edge of a rocky Lahaina shoreline on Maui, one holding papers, with a survey stake standing in the shallows and Lānaʻi on the horizon, photographed in 2025",
+     "credit": "Photo: Courtesy Hawaiʻi DAGS",
+     "url": "https://ags.hawaii.gov/blog/main/state-land-surveyors-help-lahaina-community/ (DAGS, State Land Surveyors Help Lahaina Community, posted Jul 5, 2025; image https://ags.hawaii.gov/wp-content/uploads/2025/07/IMG_2636-scaled.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "A close photograph of shelved index volumes at the Hawaiʻi State Archives: two gray cloth-bound books with white spine lettering reading Land Commission Awards, Index to Testimony and Registers, beside green volumes of land indices",
+     "credit": "Photo: Courtesy Hawaiʻi State Archives",
+     "url": "https://ags.hawaii.gov/?p=47861 (DAGS, Hawaiʻi State Archives Digitizes Indexes to Hundreds of Thousands of Records, January 2026; image https://ags.hawaii.gov/wp-content/uploads/2026/01/Indexes_Courtesy-DAGS-Hawaii-State-Archives.jpg, alt text at source: Book spines labeled Land Commission Awards- Indexes to Testimony and Registers)",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "A handwritten Land Commission page from November 1853: a description of a Honolulu lot at Puaa by bearings and chain lengths signed by surveyor A. F. Turner, a hand-drawn plat with a scale of one chain to an inch, and below it the start of another award, number 7767, with a ruled fee table and the commissioners' signatures",
+     "credit": "Scan: Hawaiʻi State Archives",
+     "url": "https://archive.org/details/esrp260351545",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: densely built house lots climbing a hillside below the Koʻolau ridgeline at Hawaiʻi Kai, Oʻahu, photographed in October 1973 for the federal DOCUMERICA project",
+     "credit": "Photo: Charles O'Rear, NARA",
+     "url": "https://commons.wikimedia.org/wiki/File:HAWAII-KAI,_BUILT_ON_A_SWAMP_AND_A_HILLSIDE,_IS_A_FAST-GROWING_AREA_EAST_OF_DOWNTOWN_HONOLULU._SCARCITY_OF_LAND_AND..._-_NARA_-_553926.jpg (NARA 553926; Flickr usnationalarchives/7153539133)",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Two surveyors, rodman Harry Kawamoto and topographer J. O. Kilmartin, standing at the Mauna Kea triangulation station on the cinder plateau of Hawaiʻi Island on October 25, 1925; the station was set by the Hawaiian Government Survey in 1892",
+     "credit": "Photo: J. O. Kilmartin, USGS, 1925",
+     "url": "https://commons.wikimedia.org/wiki/File:Harry_Kawamoto_and_J.O._Kilmartin_at_Mauna_Kea_triangulation_station._Hawaii._1925.jpg (USGS; ScienceBase https://www.sciencebase.gov/catalog/item/5b19631ee4b092d9652381ab)",
+     "card": false
+    },
+    {
+     "where": "Slide 15a",
+     "what": "A handwritten Land Commission award-book page dated September 3, 1853: award number 4779 at Wailua, Koʻolau, Maui, a description by bearings and distances signed by surveyor A. F. Turner, a small plat of a long narrow parcel beside a stream, and the four commissioners' signatures over a paid fee",
+     "credit": "Scan: Hawaiʻi State Archives",
+     "url": "https://archive.org/details/esrp260351545",
+     "card": false
+    },
+    {
+     "where": "Slide 15b",
+     "what": "Illustrative photo: the whitewashed Hale Paʻi at Lahainaluna on Maui, a long low building with a shingle roof and blue-trimmed windows, with a roofed school bell in front",
+     "credit": "Photo: Joel Bradshaw",
+     "url": "https://commons.wikimedia.org/wiki/File:Maui-Lahaina-Halepai-entrance.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 15c",
+     "what": "Illustrative photo: the patchwork of flooded and green taro fields on the floor of Lower Hanalei Valley on Kauaʻi in evening light, with steep green ridges rising behind",
+     "credit": "Photo: Bealbrown, Wikipedia",
+     "url": "https://commons.wikimedia.org/wiki/File:Taro_fields.JPG",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-07",
+   "date": "2026-12-16",
+   "id": "C14-07",
+   "title": "The Machine Inside the Mountain",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-07"
+   },
+   "research": [
+    {
+     "label": "File:Engineering features of the Waiahole Water Project of the Waiahole Water Co. Island of Oahu, Territory of Hawaii (IA engineeringfeatu00klue 0) (commons.wikimedia.org)",
+     "url": "https://commons.wikimedia.org/wiki/File:Engineering_features_of_the_Waiahole_Water_Project_of_the_Waiahole_Water_Co._Island_of_Oahu%2C_Territory_of_Hawaii_%28IA_engineeringfeatu00klue_0%29.pdf"
+    },
+    {
+     "label": "hawaii.edu",
+     "url": "https://www.hawaii.edu/ohelo/courtdecisions/WaiaholeDecision1.htm"
+    },
+    {
+     "label": "P oahu (www2.hawaii.edu)",
+     "url": "https://www2.hawaii.edu/~speccoll/p_oahu.html"
+    }
+   ],
+   "other": [
+    {
+     "label": "pubs.usgs.gov/sir/2006/5285",
+     "url": "https://pubs.usgs.gov/sir/2006/5285/"
+    },
+    {
+     "label": "3024 waiahole (dlnr.hawaii.gov)",
+     "url": "https://dlnr.hawaii.gov/cwrm/surfacewater/ifs/oahu/3024-waiahole/"
+    },
+    {
+     "label": "3022 waikane (dlnr.hawaii.gov)",
+     "url": "https://dlnr.hawaii.gov/cwrm/surfacewater/ifs/oahu/3022-waikane/"
+    },
+    {
+     "label": "3017 kahana (dlnr.hawaii.gov)",
+     "url": "https://dlnr.hawaii.gov/cwrm/surfacewater/ifs/oahu/3017-kahana/"
+    },
+    {
+     "label": "data.capitol.hawaii.gov/sessions/session2025/Bills/SB1541_.HTM",
+     "url": "https://data.capitol.hawaii.gov/sessions/session2025/Bills/SB1541_.HTM"
+    },
+    {
+     "label": "dlnr.hawaii.gov/cwrm/surfacewater/ifs",
+     "url": "https://dlnr.hawaii.gov/cwrm/surfacewater/ifs/"
+    },
+    {
+     "label": "dlnr.hawaii.gov/cwrm/surfacewater/monitoring",
+     "url": "https://dlnr.hawaii.gov/cwrm/surfacewater/monitoring/"
+    },
+    {
+     "label": "loc.gov/pictures/item/hi1143",
+     "url": "https://www.loc.gov/pictures/item/hi1143/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Black-and-white 1916 photograph looking down a timbered tunnel in the Waiāhole project: curved wooden arch forms overhead, a plank wall on the right and narrow rail tracks on the floor leading into the dark",
+     "credit": "Photo: C. H. Kluegel report, 1916",
+     "url": "https://archive.org/details/engineeringfeatu00klue_0",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Dark rain clouds pressed against the Koʻolau mountains above a farm in Waiāhole Valley, with tall monkeypod trees and cultivated plots in the foreground, photographed in January 2011 and titled 'Koʻolau Cloud Cover'. The photographer tagged it Waiāhole",
+     "credit": "Photo: Steve Martin",
+     "url": "https://www.flickr.com/photos/yui0ta/5388778667/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Black-and-white 1916 photograph of two large riveted steel pipes arching over a cut in a hillside at Waikakalaua Gulch, with a railway track running through the cut below",
+     "credit": "Photo: C. H. Kluegel report, 1916",
+     "url": "https://archive.org/details/engineeringfeatu00klue_0",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Black-and-white 2019 photograph of the Waiāhole Ditch near Mililani: a concrete-lined channel of dark water passes under a small vehicle bridge with wooden railings, with green crops and trees beside it",
+     "credit": "Photo: David Franzen, HAER, 2019",
+     "url": "https://www.loc.gov/resource/hhh.hi1117.photos/?sp=3",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Black-and-white 1916 photograph of a worker in a hat standing before two concrete-framed gates with hand wheels above them, set into the mouth of a finished section of the conduit",
+     "credit": "Photo: C. H. Kluegel report, 1916",
+     "url": "https://archive.org/details/engineeringfeatu00klue_0",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the front of Aliʻiōlani Hale in Honolulu on a clear day, a three-story stone building with a clock tower, framed by palm trees, with a gold statue of Kamehameha I on a white pedestal in the foreground",
+     "credit": "Photo: Coolcaesar",
+     "url": "https://commons.wikimedia.org/wiki/File:Ali%CA%BBi%C5%8Dlani_Hale_at_midday.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Black-and-white 1916 photograph of a long cement-lined open ditch in Waiawa cutting through cane land, with a narrow-gauge track along its floor and a few workers standing in it",
+     "credit": "Photo: C. H. Kluegel report, 1916",
+     "url": "https://archive.org/details/engineeringfeatu00klue_0",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "The Waiāhole Ditch carrying water, photographed for the Historic American Engineering Record in June 2019: a concrete-lined channel with water in it beside a grassy bank, the board-adjusted weir upstream of the camera (HAER HI-146-6, view facing northeast)",
+     "credit": "Photo: David Franzen, HAER",
+     "url": "https://www.loc.gov/item/hi1117/ (HAER HI-146-6; master https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi1100/hi1117/photos/393935pu.tif)",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Black-and-white 2019 photograph of two large siphon pipes crossing Kipapa Gulch side by side: on the left a newer siphon behind a concrete intake with a wooden screen, on the right the historic riveted-steel siphon behind a rusted grate",
+     "credit": "Photo: David Franzen, HAER, 2019",
+     "url": "https://www.loc.gov/resource/hhh.hi1117.photos/?sp=9",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Black-and-white 2019 photograph looking down a straight stretch of the Waiāhole Ditch near Mililani: a narrow concrete footbridge crosses the channel with a metal gate beyond it, grass banks on both sides and trees under a cloudy sky",
+     "credit": "Photo: David Franzen, HAER, 2019",
+     "url": "https://www.loc.gov/resource/hhh.hi1117.photos/?sp=5",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Black-and-white 1916 photograph inside the main tunnel: a wall of dark rock with water jetting and spraying out of it into the bore, and two men with lanterns standing near the floor",
+     "credit": "Photo: C. H. Kluegel report, 1916",
+     "url": "https://archive.org/details/engineeringfeatu00klue_0",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Black-and-white 1914 photograph of six tunnel workers in work clothes and caps standing together underground in front of a rock face, with a drill rig and air hose across the foreground",
+     "credit": "Photo: C. H. Kluegel report, 1916",
+     "url": "https://archive.org/details/engineeringfeatu00klue_0",
+     "card": false
+    },
+    {
+     "where": "Slide 10c",
+     "what": "Black-and-white historic photograph of two men driving ox teams with a loaded two-wheeled cart through the shallows at Waiāhole, with sacks stacked on the cart and the Koʻolau peaks rising across the water",
+     "credit": "Source: Hawaii State Archives",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/4X0S",
+     "card": false
+    },
+    {
+     "where": "Slide 10d",
+     "what": "Black-and-white photograph of the Oʻahu Sugar Company mill at Waipahu: two tall chimneys, one trailing black smoke across a cloudy sky, mill buildings among trees and plantation houses, and a field of sugar cane filling the foreground with the Waiʻanae range behind",
+     "credit": "Photo: George Bacon, HSA",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1wkZ",
+     "card": false
+    },
+    {
+     "where": "Slide 10e",
+     "what": "Black-and-white 2019 photograph of a Parshall flume on the Waiāhole Ditch: a narrowing concrete channel with fast, smooth water in the foreground, side boxes to the left and overgrown banks",
+     "credit": "Photo: David Franzen, HAER, 2019",
+     "url": "https://www.loc.gov/resource/hhh.hi1117.photos/?sp=8",
+     "card": false
+    },
+    {
+     "where": "Slide 10f",
+     "what": "Black-and-white 2019 photograph of the Waiāhole Ditch: still water in a concrete-lined channel, with a stone-and-mortar masonry extension added on top of the left sidewall in the foreground",
+     "credit": "Photo: David Franzen, HAER, 2019",
+     "url": "https://www.loc.gov/resource/hhh.hi1117.photos/?sp=7",
+     "card": false
+    },
+    {
+     "where": "Slide 11a",
+     "what": "Black-and-white photograph from a 1913 USGS paper: a man sits in a stream with his feet in the water and another stands holding a rod, measuring flow by wading, while several men in hats watch from the grassy bank, with steep green slopes behind",
+     "credit": "Photo: U.S. Geological Survey, 1913",
+     "url": "https://archive.org/details/waterresourcesof00mart",
+     "card": false
+    },
+    {
+     "where": "Slide 11b",
+     "what": "A metal gate in the concrete wall of the Waiāhole Ditch with a staff scale marked in one-foot increments, a narrow concrete footbridge at its right, photographed for the Historic American Engineering Record in June 2019 (HAER HI-146-4)",
+     "credit": "Photo: David Franzen, HAER",
+     "url": "https://www.loc.gov/item/hi1117/ (HAER HI-146-4; master https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi1100/hi1117/photos/393933pu.tif)",
+     "card": false
+    },
+    {
+     "where": "Slide 12a",
+     "what": "Black-and-white 1916 photograph of a small electric locomotive marked 'Waiāhole Water Co",
+     "credit": "Photo: C. H. Kluegel report, 1916",
+     "url": "https://archive.org/details/engineeringfeatu00klue_0",
+     "card": false
+    },
+    {
+     "where": "Slide 12b",
+     "what": "Illustrative photo: the outlet of the Waiāhole Ditch culvert under the H-2 freeway, dark water in a concrete channel with grass banks, photographed for the Historic American Engineering Record in June 2019 (HAER HI-146-2)",
+     "credit": "Photo: David Franzen, HAER",
+     "url": "https://www.loc.gov/item/hi1117/ (HAER HI-146-2; master https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi1100/hi1117/photos/393931pu.tif)",
+     "card": false
+    },
+    {
+     "where": "Slide 12c",
+     "what": "Illustrative photo: a red-and-white measuring scale standing against a riveted steel siphon pipe of the Waiāhole Ditch System, photographed for the Historic American Engineering Record in June 2019 (HAER HI-146-10)",
+     "credit": "Photo: David Franzen, HAER",
+     "url": "https://www.loc.gov/item/hi1117/ (HAER HI-146-10; master https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi1100/hi1117/photos/393939pu.tif)",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "c14-10",
+   "date": "2026-12-23",
+   "id": "C14-10",
+   "title": "Kaʻena Point’s Golf Balls Helped Run America’s First Imaging Spy Satellites",
+   "series": "Tech From Here: Hawaiʻi",
+   "origin": {
+    "kind": "main",
+    "label": "The story on Tech From Here: Hawaiʻi",
+    "url": "https://hawaii-tech-week-project-record.vercel.app/stories/c14-10"
+   },
+   "research": [
+    {
+     "label": "tile.loc.gov",
+     "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0900/hi0928/data/hi0928data.pdf"
+    },
+    {
+     "label": "2019 06 08 OA Section 106 HULA C Bldg 35 at KPSTS (files.hawaii.gov)",
+     "url": "https://files.hawaii.gov/dbedt/erp/Other_TEN_Publications/2019-06-08-OA-Section-106-HULA-C-Bldg-35-at-KPSTS.pdf"
+    },
+    {
+     "label": "F 2017 00100 C05102025 (nro.gov)",
+     "url": "https://www.nro.gov/Portals/65/documents/foia/declass/ForAll/040819/F-2017-00100_C05102025.pdf"
+    },
+    {
+     "label": "Hosr vol1 (nro.gov)",
+     "url": "https://www.nro.gov/Portals/65/documents/foia/docs/hosr/hosr-vol1.pdf"
+    },
+    {
+     "label": "tile.loc.gov",
+     "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0900/hi0956/data/hi0956data.pdf"
+    },
+    {
+     "label": "tile.loc.gov",
+     "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0900/hi0957/data/hi0957data.pdf"
+    },
+    {
+     "label": "2011 09 08 OA NEPA DEA Kaena Point Satellite Station Demolition Construction (files.hawaii.gov)",
+     "url": "https://files.hawaii.gov/dbedt/erp/Other_TEN_Publications/2011-09-08-OA-NEPA-DEA-Kaena-Point-Satellite-Station-Demolition-Construction.pdf"
+    },
+    {
+     "label": "Prog hist 03 (web.archive.org)",
+     "url": "https://web.archive.org/web/2023/https://www.nro.gov/Portals/135/documents/history/csnr/programs/docs/prog-hist-03.pdf"
+    },
+    {
+     "label": "Foia nro history (web.archive.org)",
+     "url": "https://web.archive.org/web/2023/https://www.nro.gov/Portals/65/documents/foia/docs/foia-nro-history.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Kaena point satellite tracking station celebrates 55 years (dvidshub.net)",
+     "url": "https://www.dvidshub.net/news/121658/kaena-point-satellite-tracking-station-celebrates-55-years"
+    },
+    {
+     "label": "loc.gov/pictures/item/hi0955",
+     "url": "https://www.loc.gov/pictures/item/hi0955/"
+    },
+    {
+     "label": "Kaena point watchers oahu (dvidshub.net)",
+     "url": "https://www.dvidshub.net/image/7497104/kaena-point-watchers-oahu"
+    },
+    {
+     "label": "Kaena point watchers oahu (dvidshub.net)",
+     "url": "https://www.dvidshub.net/image/7497106/kaena-point-watchers-oahu"
+    },
+    {
+     "label": "Kaena point watchers oahu (dvidshub.net)",
+     "url": "https://www.dvidshub.net/image/7497103/kaena-point-watchers-oahu"
+    },
+    {
+     "label": "Kaena point watchers oahu (dvidshub.net)",
+     "url": "https://www.dvidshub.net/image/7497096/kaena-point-watchers-oahu"
+    },
+    {
+     "label": "Kaena Point Space Force Station (en.wikipedia.org)",
+     "url": "https://en.wikipedia.org/wiki/Kaena_Point_Space_Force_Station"
+    },
+    {
+     "label": "Corona americas first imaging satellite program (cia.gov)",
+     "url": "https://www.cia.gov/legacy/museum/exhibit/corona-americas-first-imaging-satellite-program/"
+    },
+    {
+     "label": "archives.gov",
+     "url": "https://www.archives.gov/federal-register/codification/proclamations/03309.html"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A single white radome sits on a green ridge above the blue Pacific at Kaʻena Point Space Force Station, photographed in September 2022",
+     "credit": "Photo: Brooke Wise, USSF",
+     "url": "https://commons.wikimedia.org/wiki/File:Kaena_Point_–_The_watchers_on_Oahu_(7497109).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A large white radome and a smaller one beside a dish antenna stand on a grassy ridge above the ocean at the Kaʻena Point Satellite Tracking Station, photographed in 2008",
+     "credit": "Photo: Xpda",
+     "url": "https://commons.wikimedia.org/wiki/File:KaenaSTS-P1010036.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Black-and-white aerial photograph from the Hawaiʻi State Archives (George Bacon collection, labeled \"NASA Station\") showing the Kaʻena Point tracking station on its ridge above the sea, with white radomes, access roads and the Waiʻanae coast beyond",
+     "credit": "Photo: George Bacon, HI State Archives",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1w8r",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The camera system built for the Discoverer-Corona satellites, on display at the Smithsonian National Air and Space Museum beside its museum label",
+     "credit": "Photo: Tim Evanson",
+     "url": "https://commons.wikimedia.org/wiki/File:Discoverer-Corona_camera_system_-_Smithsonian_Air_and_Space_Museum_-_2012-05-15_(7275763172).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The Fairchild C-119J Flying Boxcar marked 037 on the ramp at the National Museum of the U.S. Air Force",
+     "credit": "Photo: Tdrss (CC BY-SA 4.0)",
+     "url": "https://commons.wikimedia.org/wiki/File:NMUSAF_C-119_Corona_2.png",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: looking up inside a Kaʻena radome at a white satellite dish, taken in September 2022",
+     "credit": "Photo: Brooke Wise, USSF",
+     "url": "https://commons.wikimedia.org/wiki/File:Kaena_Point_–_The_watchers_on_Oahu_(7497106).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The Air Force Satellite Control Facility at Sunnyvale, California, known as the Blue Cube: a large pale-blue windowless block with satellite dishes beside it, photographed in 2009",
+     "credit": "Photo: Erik Charlton",
+     "url": "https://commons.wikimedia.org/wiki/File:Lockheed's_\"Blue_Cube\".jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a Remote Tracking Station Block Change antenna at Thule Air Base, Greenland, lit at night on December 11, 2017",
+     "credit": "Photo: D. Salanitri, USAF",
+     "url": "https://commons.wikimedia.org/wiki/File:AFSPC_leadership_visits_Thule_(4030136).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the contact-scheduling display used by 22nd Space Operations Squadron schedulers at Schriever Air Force Base, Colorado, on April 5, 2017, with colored bars marking satellite contacts across a timeline",
+     "credit": "Photo: Delos Reyes, U.S. Air Force",
+     "url": "https://commons.wikimedia.org/wiki/File:AFSCN-_Linking_with_space_(3322970).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: the Discoverer XIII reentry capsule and its orange-and-gray parachute in a museum case at the National Air and Space Museum",
+     "credit": "Source: Smithsonian NASM",
+     "url": "https://airandspace.si.edu/collection-objects/discoverer-13/nasm_A19610100000",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: the Milky Way over the dark ridge at Kaʻena Point Space Force Station in September 2022, with one small figure holding a light below",
+     "credit": "Photo: Jared Bunn, USSF",
+     "url": "https://commons.wikimedia.org/wiki/File:Guardian_Spirit_(7494815).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Photograph of a CORONA parachute bag, an olive-green nylon pack with webbing straps and laced seams, from the CIA Museum",
+     "credit": "Source: CIA Museum",
+     "url": "https://www.cia.gov/legacy/museum/artifact/corona-parachute-bag",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "A black-and-white U.S. Air Force photograph of a C-119J Flying Boxcar towing a CORONA film capsule on its parachute after a midair catch",
+     "credit": "Source: U.S. Air Force",
+     "url": "https://commons.wikimedia.org/wiki/File:Fairchild_C-119J_Flying_Boxcar_recovers_CORONA_Capsule_1960_USAF_040314-O-9999R-001.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Close view of the nose, cockpit windows and left propeller of the C-119J Flying Boxcar marked 037 at the National Museum of the U.S. Air Force",
+     "credit": "Photo: Tdrss (CC BY-SA 4.0)",
+     "url": "https://commons.wikimedia.org/wiki/File:NMUSAF_C-119_Corona_3.png",
+     "card": false
+    },
+    {
+     "where": "Slide 15",
+     "what": "A CORONA recovery vehicle, the gold-colored capsule shell that carried exposed film back through re-entry, on display at the Smithsonian National Air and Space Museum in 2008",
+     "credit": "Photo: VargaA",
+     "url": "https://commons.wikimedia.org/wiki/File:Corona_recovery_vehicle.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 16",
+     "what": "A CORONA film canister with its lid off and a spool of film beside it, photographed by the CIA. It is the physical object that had to move from the recovered capsule to secure processing elsewhere",
+     "credit": "Source: CIA",
+     "url": "https://commons.wikimedia.org/wiki/File:CORONAfilm.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 17",
+     "what": "Illustrative photo: the Discoverer XIII reentry capsule open to its instrument package inside a gold-colored shell, photographed against black at the National Air and Space Museum",
+     "credit": "Source: Smithsonian NASM",
+     "url": "https://www.si.edu/object/reentry-capsule-satellite-discoverer-xiii:nasm_A19610100000",
+     "card": false
+    },
+    {
+     "where": "Slide 18a",
+     "what": "Illustrative photo: black-and-white U.S. Air Force photograph of a Lockheed Agena A upper stage with its Bell 8048 engine, being hoisted onto an Atlas at Cape Canaveral around May 1960 for the MIDAS-2 launch",
+     "credit": "Source: U.S. Air Force, 1960",
+     "url": "https://commons.wikimedia.org/wiki/File:Agena_A_upper_stage.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 18b",
+     "what": "Illustrative photo: a CORONA program retrieval hook on display at the National Air and Space Museum Steven F. Udvar-Hazy Center in Virginia, photographed in 2018",
+     "credit": "Photo: Balon Greyjoy (CC0)",
+     "url": "https://commons.wikimedia.org/wiki/File:20180328_Corona_hook_Udvar-Hazy.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 19",
+     "what": "A GRAB satellite hanging against a starfield backdrop in the National Cryptologic Museum, a polished sphere with antenna rods and a solar-cell panel",
+     "credit": "Photo: Daderot",
+     "url": "https://commons.wikimedia.org/wiki/File:GRAB_satellite_-_National_Cryptologic_Museum_-_DSC07969.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 20",
+     "what": "Black-and-white aerial photograph dated 1973 from the Hawaiʻi State Archives (George Bacon collection, labeled \"NASA Station, 1973\") of the Kaʻena Point tracking station along its ridge, with radomes, roads and the coast below",
+     "credit": "Photo: George Bacon, HI State Archives",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1w8v",
+     "card": false
+    },
+    {
+     "where": "Slide 21",
+     "what": "Black-and-white aerial photograph from the Hawaiʻi State Archives (George Bacon collection, labeled \"NASA Station\") of the Kaʻena Point station seen from the slope: a large radome at left, the low station buildings along the ridge and the access road winding up through scrub to the ocean horizon",
+     "credit": "Photo: George Bacon, HI State Archives",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1w8t",
+     "card": false
+    },
+    {
+     "where": "Slide 22a",
+     "what": "Illustrative photo: the gate, guard house and Space Force sign at the entrance to Kaʻena Point Space Force Station, photographed in July 2025 against the Waiʻanae slope",
+     "credit": "Photo: Mrtexasfreedom",
+     "url": "https://commons.wikimedia.org/wiki/File:Kaena_Point_Space_Force_Station_Gates.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 22b",
+     "what": "Looking up inside a Kaʻena radome at the underside of a satellite dish while a lift basket reaches the dish mount for a preventive maintenance check, September 14, 2022",
+     "credit": "Photo: Jared Bunn, U.S. Space Force",
+     "url": "https://commons.wikimedia.org/wiki/File:The_Watchers_on_Oahu_(7526583).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 23",
+     "what": "Looking along the Waiʻanae coast from above Keawaʻula Bay: a sunlit slope in the foreground, the bay and cliffs to the right, and the station radomes small on the ridge at the far left, photographed in September 2022",
+     "credit": "Photo: Brooke Wise, USSF",
+     "url": "https://commons.wikimedia.org/wiki/File:Kaena_Point_–_The_watchers_on_Oahu_(7497108).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 24",
+     "what": "The entrance to Kaʻena Point Space Force Station on 17 June 2021, with the new Space Force sign beside the road and the Waiʻanae mountains behind",
+     "credit": "Photo: McLaren5280",
+     "url": "https://commons.wikimedia.org/wiki/File:20210617-NewSign-SpaceForce.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 25",
+     "what": "An aerial view of the Kaʻena Point station released for its 55th anniversary: two white radomes on the ridge, the road, a helipad and the operations building above the ocean",
+     "credit": "Photo: Jason Gabrick, USAF",
+     "url": "https://commons.wikimedia.org/wiki/File:Kaena_Point_Satellite_Tracking_Station_celebrates_55_years_(1181338).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 26",
+     "what": "Ronald Samson, a Satellite Control Network maintainer, watches a monitor at Kaʻena Point Space Force Station on 13 September 2022, in an official Space Force photograph",
+     "credit": "Photo: Brooke Wise, USSF",
+     "url": "https://commons.wikimedia.org/wiki/File:Kaena_Point_–_The_watchers_on_Oahu_(7497098).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 27",
+     "what": "Illustrative photo: a white GPS monitor station antenna dome with two information signs, used at Cape Canaveral Air Force Station from 1984 to 2007",
+     "credit": "Photo: Bubba73",
+     "url": "https://commons.wikimedia.org/wiki/File:GPS_monitor_station.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 28",
+     "what": "The entrance road, sign and guard house of the Kaʻena Point Satellite Tracking Facility below the Waiʻanae mountains, photographed in 2005, before the 2021 renaming",
+     "credit": "Photo: Avriette",
+     "url": "https://commons.wikimedia.org/wiki/File:Kaena_Point_Satellite_Tracking_Facility_entrance.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 29",
+     "what": "Black-and-white aerial photograph from the Hawaiʻi State Archives (George Bacon collection, labeled \"NASA Station\") looking along the Kaʻena Point ridge, with the station's radomes and access roads on the land above the sea",
+     "credit": "Photo: George Bacon, HI State Archives",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1w8s",
+     "card": false
+    },
+    {
+     "where": "Slide 30",
+     "what": "Illustrative photo: black-and-white aerial photograph dated August 28, 1975 from the Hawaiʻi State Archives (George Bacon collection) of the rocky Kaʻena Point shoreline, a road along the coast and the cliffs above",
+     "credit": "Photo: George Bacon, HI State Archives",
+     "url": "https://digitalarchives.hawaii.gov/browse/parent/ark:70111/1w8w",
+     "card": false
+    }
+   ]
+  }
+ ]
+}

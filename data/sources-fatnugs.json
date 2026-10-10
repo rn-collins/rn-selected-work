@@ -1,0 +1,933 @@
+{
+ "generated": "2026-10-09",
+ "host": "rn-selected-work.vercel.app",
+ "posts": [
+  {
+   "slug": "fn-07",
+   "date": "2026-10-18",
+   "id": "FN-07",
+   "title": "Every Gram Accounted For: Inside Hawaii's Seed-to-Sale Tracking System",
+   "series": "Fat Nugs Magazine",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Fat Nugs Magazine",
+    "url": "https://www.fatnugsmag.com/inside-hawaiis-seed-to-sale-tracking-system/"
+   },
+   "research": [
+    {
+     "label": "Cannabis Public Policy Consulting, An Economic Analysis of the Current Medical and Future Adult-Use Cannabis Market in Hawai'i, December 19, 2025",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2026/01/HawaiiReportDesigned_1.20.pdf"
+    },
+    {
+     "label": "Hawaii Department of Health, report to the 2026 Legislature on medical cannabis dispensaries, January 20, 2026",
+     "url": "https://health.hawaii.gov/opppd/files/2026/01/OMCCR_MCDLS-AR-to-2026Leg_sub-20260120.pdf"
+    },
+    {
+     "label": "Hawaii Administrative Rules ch. 11-850 (interim rules), effective December 6, 2024",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2024/12/Ch11-850_InterimRules_12-6-2024-1.pdf"
+    },
+    {
+     "label": "Hawaii Department of Law Enforcement, Notice of Federal Scheduling Actions, May 15, 2026",
+     "url": "https://law.hawaii.gov/wp-content/uploads/2026/05/2026-New-Notice-of-federal-scheduling-marijuana-to-schedule-III-rev-5.15.26-002-002.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "BioTrack, government seed-to-sale solutions",
+     "url": "https://biotrack.com/solutions/government-seed-to-sale-solutions/"
+    },
+    {
+     "label": "Metrc, press release, August 5, 2025",
+     "url": "https://www.metrc.com/news/metrc-and-biotrack-announce-strategic-partnership/"
+    },
+    {
+     "label": "Federal Register, 91 FR 22714, April 28, 2026 (AG Order 6754-2026)",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08176/schedules-of-controlled-substances-rescheduling-of-food-and-drug-administration-approved-products"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the Hawaii State Capitol in Honolulu at dusk, a 1973 color photograph by Charles O'Rear for the U.S. National Archives",
+     "credit": "Photo: Charles O'Rear",
+     "url": "https://commons.wikimedia.org/wiki/File:HAWAII-HAWAIIAN_STATE_CAPITOL,_HONOLULU_(OAHU_I)_-_NARA_-_553744.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: the open atrium and tiled courtyard inside the Hawaii State Capitol in Honolulu",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Atrium,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI_-_52219731157.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a person peeling a red tamper-evident label with a printed serial number from a plain white box",
+     "credit": "Photo: TamperTechTeam",
+     "url": "https://commons.wikimedia.org/wiki/File:Security_tamper_evident_label_showing_a_void_message_when_removed.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a lawn and large monkeypod trees in front of the Hawaii State Library in Honolulu",
+     "credit": "Photo: Steven Pavlov",
+     "url": "https://commons.wikimedia.org/wiki/File:2023-04-19,_Hawaii_State_Library,_02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a cable modem, a router and an external hard drive on a wooden shelf in a home",
+     "credit": "Photo: Alan Levine",
+     "url": "https://commons.wikimedia.org/wiki/File:Home_server_equipment.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: office towers and a pond framed by monkeypod trees in downtown Honolulu",
+     "credit": "Photo: Farragutful",
+     "url": "https://commons.wikimedia.org/wiki/File:2020_Downtown_Honolulu_03.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a covered breezeway with concrete columns and brown walls at the Hawaii State Capitol in Honolulu",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Breezeway,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI_-_52220753318.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a lawn and walkway with palm trees below downtown Honolulu high-rises",
+     "credit": "Photo: Farragutful",
+     "url": "https://commons.wikimedia.org/wiki/File:2020_Downtown_Honolulu_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: cut sections of submarine communications cable laid out on a wooden shelf in a museum in Rouen, France",
+     "credit": "Photo: Frédéric BISSON",
+     "url": "https://commons.wikimedia.org/wiki/File:Musée_des_Arts_et_Métiers_-_Câbles_sous-marins_(37545950582).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "The Robert F. Kennedy Department of Justice Building at 950 Pennsylvania Avenue in Washington, D.C., with its street sign",
+     "credit": "Photo: G. Edward Johnson",
+     "url": "https://commons.wikimedia.org/wiki/File:DOJ_building_corner_Washington_DC_2025-02-07_13-25-05_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11a",
+     "what": "Illustrative photo: the corner of the roof and concrete frame of the Hawaii State Capitol against a blue sky",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Corner_Detail,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI_-_52220996409.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11b",
+     "what": "Illustrative photo: the skylight and chandelier of the main hall of the Hawaii State Library in Honolulu",
+     "credit": "Photo: Joel Bradshaw",
+     "url": "https://commons.wikimedia.org/wiki/File:HawaiiStateLibrary-chandelier&skylight.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: the courtyard of the Hawaii State Library in Honolulu, with a round planter and the library's upper galleries",
+     "credit": "Photo: Steven Pavlov",
+     "url": "https://commons.wikimedia.org/wiki/File:2023-04-19,_Hawaii_State_Library,_05.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "fn-11",
+   "date": "2026-10-18",
+   "id": "FN-11",
+   "title": "Hawaii's Cannabis Market: What the State's Own Data Reveals",
+   "series": "Fat Nugs Magazine",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Fat Nugs Magazine",
+    "url": "https://www.fatnugsmag.com/hawaiis-cannabis-market/"
+   },
+   "research": [
+    {
+     "label": "Cannabis Public Policy Consulting, An Economic Analysis of the Current Medical and Future Adult-Use Cannabis Market in Hawai'i, December 19, 2025",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2026/01/HawaiiReportDesigned_1.20.pdf"
+    },
+    {
+     "label": "Hawaii Department of Health, report to the 2026 Legislature on medical cannabis dispensaries, January 20, 2026",
+     "url": "https://health.hawaii.gov/opppd/files/2026/01/OMCCR_MCDLS-AR-to-2026Leg_sub-20260120.pdf"
+    },
+    {
+     "label": "Hawaii Department of Law Enforcement, Notice of Federal Scheduling Actions, May 15, 2026",
+     "url": "https://law.hawaii.gov/wp-content/uploads/2026/05/2026-New-Notice-of-federal-scheduling-marijuana-to-schedule-III-rev-5.15.26-002-002.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii Department of Business, Economic Development and Tourism, press release, March 2025",
+     "url": "https://dbedt.hawaii.gov/blog/25-03/"
+    },
+    {
+     "label": "Federal Register, 91 FR 22714, April 28, 2026 (AG Order 6754-2026)",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08176/schedules-of-controlled-substances-rescheduling-of-food-and-drug-administration-approved-products"
+    },
+    {
+     "label": "Honolulu Star-Advertiser, February 8, 2026, Bills aimed at legalizing recreational marijuana lack support",
+     "url": "https://www.staradvertiser.com/2026/02/08/hawaii-news/marijuana-bills-lack-support/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a rainbow over Honolulu high-rises and neighborhoods, seen from an upper floor near the State Capitol",
+     "credit": "Photo: Daniel Ramirez",
+     "url": "https://commons.wikimedia.org/wiki/File:Small_rainbow_over_the_Capitol_District_(18601377749).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a concrete column and coffered ceiling in an open breezeway at the Hawaii State Capitol, with palm trees beyond",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Breezeway,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI_-_52219721997.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: Honolulu Hale, Honolulu's city hall, with its tower and palm trees",
+     "credit": "Photo: Joel Bradshaw",
+     "url": "https://commons.wikimedia.org/wiki/File:Honolulu-Hale-frontcornerview.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: the arched entrance doors of the Hawaii State Library in Honolulu",
+     "credit": "Photo: Steven Pavlov",
+     "url": "https://commons.wikimedia.org/wiki/File:2023-04-19,_Hawaii_State_Library,_03.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Sea cliffs and a rock stack on the coast of Molokai seen from above, one of the two Hawaiian islands the slide names as having no dispensaries",
+     "credit": "Photo: James Brennan Molokai",
+     "url": "https://commons.wikimedia.org/wiki/File:The_Cliffs_of_Molokai_Hawaii_-_James_Brennan_Molokai_-_panoramio.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the ramp at Honolulu's Daniel K. Inouye International Airport at dusk, with baggage carts and an airliner tail",
+     "credit": "Photo: Thomas Woodtli",
+     "url": "https://commons.wikimedia.org/wiki/File:Daniel_K._Inouye_International_Airport_(27471738584).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: palm trees and a lawn with a modern sculpture beside a government building in Honolulu's Capital Historic District",
+     "credit": "Photo: Radosław Botev",
+     "url": "https://commons.wikimedia.org/wiki/File:Palm_trees_Honolulu_Hawaii_Capital_Historic_District.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: stone sculptures on a lawn under a large monkeypod tree in front of a columned building in downtown Honolulu",
+     "credit": "Photo: PaulT (Gunther Tschuch)",
+     "url": "https://commons.wikimedia.org/wiki/File:HI_Honolulu_Historic_District12.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The square sky opening (oculus) seen from the atrium floor of the Hawaii State Capitol in Honolulu, the building where the House of Representatives and Senate meet",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Atrium_Oculus,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI_-_52220737021.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "The Robert F. Kennedy Department of Justice Building in Washington, D.C., headquarters of the agency whose Acting Attorney General issued the April 2026 order placing marijuana under a state medical license in Schedule III",
+     "credit": "Photo: Tony Webster",
+     "url": "https://commons.wikimedia.org/wiki/File:Department_of_Justice_Building_-_Washington,_DC_(14323816141).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11a",
+     "what": "Illustrative photo: the corner of the roof and concrete frame of the Hawaii State Capitol",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Corner_Detail,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI_-_52221218375.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11b",
+     "what": "Illustrative photo: the tiled main hall of the Hawaii State Library with a chandelier, balcony and a few distant visitors",
+     "credit": "Photo: Steven Pavlov",
+     "url": "https://commons.wikimedia.org/wiki/File:2023-04-19,_Hawaii_State_Library,_06.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: the courtyard of the Hawaii State Library with a round planter and palm trunks",
+     "credit": "Photo: Joel Bradshaw",
+     "url": "https://commons.wikimedia.org/wiki/File:HawaiiStateLibrary-court2front.JPG",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "fn-14",
+   "date": "2026-10-18",
+   "id": "FN-14",
+   "title": "Paradise in Limbo: Hawaii's Cannabis Journey",
+   "series": "Fat Nugs Magazine",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Fat Nugs Magazine",
+    "url": "https://www.fatnugsmag.com/paradise-in-limbo-hawaiis-cannabis-journey/"
+   },
+   "research": [
+    {
+     "label": "Act 228, Session Laws of Hawaii 2000 (S.B. 862), approved June 14, 2000",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2000/SLH2000_Act228.pdf"
+    },
+    {
+     "label": "Hawaii Department of Health, report to the 2026 Legislature on medical cannabis dispensaries, January 20, 2026",
+     "url": "https://health.hawaii.gov/opppd/files/2026/01/OMCCR_MCDLS-AR-to-2026Leg_sub-20260120.pdf"
+    },
+    {
+     "label": "H.B. 302 (Act 241, Session Laws of Hawaii 2025), signed June 27, 2025",
+     "url": "https://data.capitol.hawaii.gov/sessions/session2025/Bills/GM1343_.PDF"
+    },
+    {
+     "label": "Hawaii Department of Law Enforcement, Notice of Federal Scheduling Actions, May 15, 2026",
+     "url": "https://law.hawaii.gov/wp-content/uploads/2026/05/2026-New-Notice-of-federal-scheduling-marijuana-to-schedule-III-rev-5.15.26-002-002.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii Revised Statutes 712-1249",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol14_Ch0701-0853/HRS0712/HRS_0712-1249.htm"
+    },
+    {
+     "label": "Federal Register, 91 FR 22714, April 28, 2026 (AG Order 6754-2026)",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08176/schedules-of-controlled-substances-rescheduling-of-food-and-drug-administration-approved-products"
+    },
+    {
+     "label": "Honolulu Star-Advertiser, February 8, 2026, Bills aimed at legalizing recreational marijuana lack support",
+     "url": "https://www.staradvertiser.com/2026/02/08/hawaii-news/marijuana-bills-lack-support/"
+    },
+    {
+     "label": "Hawaii Department of Health, medical cannabis laws and documents page",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/"
+    },
+    {
+     "label": "Hawaii Senate hearing notice HHS/CPN, February 17, 2026 (SB 2421)",
+     "url": "https://data.capitol.hawaii.gov/sessions/session2026/hearingnotices/HEARING_HHS-CPN_02-17-26_.HTM"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Hawaii State Capitol in Honolulu seen across a lawn and under a tree",
+     "credit": "Photo: Farragutful",
+     "url": "https://commons.wikimedia.org/wiki/File:2020_Hawaii_State_Capitol_03.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: an orange plastic barrier with a Road Closed sign across a street in Perth, Australia",
+     "credit": "Photo: Orderinchaos",
+     "url": "https://commons.wikimedia.org/wiki/File:Road_barrier_on_William_Street_Perth_2026-01-26.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A round blue mosaic floor panel in the open atrium of the Hawaii State Capitol in Honolulu, the seat of the Legislature that passed Act 228 in 2000",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Atrium_Mosaic,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI_-_52221004639.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: wooden library shelves of books in a public library",
+     "credit": "Photo: Mshuang2",
+     "url": "https://commons.wikimedia.org/wiki/File:Library_bookshelf.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the tower of Honolulu Hale, the Honolulu city hall",
+     "credit": "Photo: Joel Bradshaw",
+     "url": "https://commons.wikimedia.org/wiki/File:Honolulu-Hale-tower.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a bronze memorial plaque set in a lava rock on the grounds of the Kanaina Building in Honolulu, the former home of the Hawaii State Archives",
+     "credit": "Photo: Steven Pavlov",
+     "url": "https://commons.wikimedia.org/wiki/File:2023-04-19,_Kanaina_Building_(Old_Hawaii_State_Archives),_07.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a covered breezeway at the Hawaii State Capitol",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Breezeway,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI_-_52221007054.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The square sky opening (oculus) seen from the atrium floor of the Hawaii State Capitol in Honolulu, the building where the House of Representatives and Senate meet",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Atrium_Oculus,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI_-_52220751138.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: Aliiolani Hale in Honolulu, home of the Hawaii Supreme Court, with palm trees and the statue of Kamehameha I in front",
+     "credit": "Photo: Radosław Botev",
+     "url": "https://commons.wikimedia.org/wiki/File:Aliiolani_Hale_Honolulu.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "The entrance of the Robert F. Kennedy Department of Justice Building in Washington, D.C., headquarters of the agency whose Acting Attorney General issued the April 2026 order placing marijuana under a state medical license in Schedule III",
+     "credit": "Photo: G. Edward Johnson",
+     "url": "https://commons.wikimedia.org/wiki/File:DOJ_entrance_Washington_DC_2025-02-07_13-27-05.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11a",
+     "what": "Illustrative photo: the corner of the roof and concrete frame of the Hawaii State Capitol",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Corner_Detail,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI_-_52219722917.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11b",
+     "what": "Illustrative photo: the front of Aliiolani Hale in Honolulu, a government building with palm trees and a statue in front",
+     "credit": "Photo: Farragutful",
+     "url": "https://commons.wikimedia.org/wiki/File:Aliiolani_Hale_-_Honolulu.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: an exhibit room at the Hawaii State Library with a long wooden display case and wall panels of historical photographs and text",
+     "credit": "Photo: Steven Pavlov",
+     "url": "https://commons.wikimedia.org/wiki/File:2023-04-19,_Hawaii_State_Library,_09.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "fn-16",
+   "date": "2026-10-18",
+   "id": "FN-16",
+   "title": "Cannabis as a People’s Movement: A Story of Community",
+   "series": "Fat Nugs Magazine",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Fat Nugs Magazine",
+    "url": "https://www.fatnugsmag.com/cannabis-as-a-peoples-movement-a-story-of-community/"
+   },
+   "research": [
+    {
+     "label": "Michigan Senate Fiscal Agency, Proposal 08-1 summary)",
+     "url": "https://sfa.senate.michigan.gov/publications/ballotprops/proposal08-1.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Maui Now, Hawai'i Cannabis Expo 2026 returns Jan. 30 to Feb. 1, 2026 (January 11, 2026)",
+     "url": "https://mauinow.com/2026/01/11/hawaii-cannabis-expo-2026-returns-jan-30-to-feb-1-2026/"
+    },
+    {
+     "label": "ACLU, In a National First, Governor of Hawaii Signs First Legislative Medical Marijuana Bill (June 14, 2000)",
+     "url": "https://aclu.org/press-releases/national-first-governor-hawaii-signs-first-legislative-medical-marijuana-bill"
+    },
+    {
+     "label": "Hawaii Department of Health, Medical Cannabis Registry, laws and related documents (Act 228 SLH 2000)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/"
+    },
+    {
+     "label": "Marijuana Policy Project, Washington's I-502",
+     "url": "https://www.mpp.org/states/washington/washingtons-i-502/"
+    },
+    {
+     "label": "Hawai'i Alliance for Cannabis Reform, 2026 Hawai'i Cannabis Bills; Marijuana Moment, February 11, 2026",
+     "url": "https://www.legalizehawaii.org/resources/2026-hawaii-cannabis-bills/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The inside of the Blaisdell Exhibition Hall in Honolulu during a 2008 trade show, with rows of booths under the hall's ceiling lights",
+     "credit": "Photo: Blaisdellcenter",
+     "url": "https://commons.wikimedia.org/wiki/File:Blaisdell_Exhibition_Hall.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The grounds of the Neal S. Blaisdell Center in Honolulu, a 1964 convention complex on Ward Avenue, with the arena dome and downtown towers behind",
+     "credit": "Photo: Warren LeMay",
+     "url": "https://commons.wikimedia.org/wiki/File:Neal_S._Blaisdell_Center,_Ward_Avenue,_Kakaako,_Honolulu,_HI.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the entrance of the Blaisdell Concert Hall in Honolulu at night, lit under a Hawaii Opera Theatre banner",
+     "credit": "Photo: Daniel Ramirez",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_Opera_Theater_@_Blaisdell_Center_(18790101161).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The Hawaii State Capitol in Honolulu, the building where the legislature that passed Act 228 in 2000 meets",
+     "credit": "Photo: Warren LeMay",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the open-air rotunda of the Hawaii State Capitol in Honolulu",
+     "credit": "Photo: Daniel Ramirez",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_State_Capitol_-_Interior_Rotunda_(5683207870).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a ballot drop box in front of a town hall in Wilkeson, Washington",
+     "credit": "Photo: Joe Mabel",
+     "url": "https://commons.wikimedia.org/wiki/File:Wilkeson,_WA_-_ballot_drop_box_in_front_of_Town_Hall_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The Michigan State Capitol in Lansing",
+     "credit": "Photo: Warren LeMay",
+     "url": "https://commons.wikimedia.org/wiki/File:Michigan_State_Capitol,_Capitol_Avenue,_Lansing,_MI_-_54383124061.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A pond and walkway at the Neal S. Blaisdell Center in Honolulu, photographed from another side of the complex that holds the Blaisdell Exhibition Hall",
+     "credit": "Photo: Warren LeMay",
+     "url": "https://commons.wikimedia.org/wiki/File:Neal_S._Blaisdell_Center,_Ward_Avenue,_Kakaako,_Honolulu,_HI_-_52264204494.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: the oculus in the atrium of the Hawaii State Capitol in Honolulu, where the state's laws are made",
+     "credit": "Photo: Warren LeMay",
+     "url": "https://commons.wikimedia.org/wiki/File:Atrium_Oculus,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a hand holding a portable field audio recorder in a carry pouch",
+     "credit": "Photo: HerrOlli",
+     "url": "https://commons.wikimedia.org/wiki/File:Zoom_F6_Field_Recorder_mit_192kHz_32Bit_Float_Technologie.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: an empty meeting room with rows of chairs",
+     "credit": "Photo: Breather",
+     "url": "https://commons.wikimedia.org/wiki/File:Quiet_meeting_room_(Unsplash).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "fn-19",
+   "date": "2026-10-18",
+   "id": "FN-19",
+   "title": "Champions and Supporters: Why Hawaii Still Can’t Legalize Cannabis",
+   "series": "Fat Nugs Magazine",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Fat Nugs Magazine",
+    "url": "https://www.fatnugsmag.com/champions-and-supporters-why-hawaii-still-cant-legalize-cannabis/"
+   },
+   "research": [
+    {
+     "label": "Cannabis Public Policy Consulting for the Hawaii Department of Health, An Economic Analysis of the Current Medical and Future Adult-Use Cannabis Market in Hawai'i (December 19, 2025)",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2026/01/HawaiiReportDesigned_1.20.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "ACLU, In a National First, Governor of Hawaii Signs First Legislative Medical Marijuana Bill (June 14, 2000)",
+     "url": "https://aclu.org/press-releases/national-first-governor-hawaii-signs-first-legislative-medical-marijuana-bill"
+    },
+    {
+     "label": "Hawaii Department of Health, Medical Cannabis Registry, laws and related documents (Act 228 SLH 2000; Act 241 SLH 2015)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/"
+    },
+    {
+     "label": "Hawaii News Now, May 4, 2015, dispensaries bill approved",
+     "url": "https://www.hawaiinewsnow.com/story/28975129/dispensaries-bill-approved/"
+    },
+    {
+     "label": "Federal Register, 91 FR 22714, Schedules of Controlled Substances: Rescheduling of Food and Drug Administration Approved Products Containing Marijuana From Schedule I to Schedule III (April 28, 2026)",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08176/schedules-of-controlled-substances-rescheduling-of-food-and-drug-administration-approved-products"
+    },
+    {
+     "label": "Hawai'i Alliance for Cannabis Reform, 2026 Hawai'i Cannabis Bills; Marijuana Moment, February 11, 2026",
+     "url": "https://www.legalizehawaii.org/resources/2026-hawaii-cannabis-bills/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Hawaii State Capitol in Honolulu seen from Beretania Street, the building where the legislature meets and where Act 228 of 2000 was passed",
+     "credit": "Photo: Daniel Ramirez",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_State_Capitol_(8049670012).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: the Hawaii State Capitol in Honolulu",
+     "credit": "Photo: Daniel Ramirez",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_State_Capitol_(5682420153).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the State of Hawaii seal, dated 1959, hung on the facade of the Hawaii State Capitol in Honolulu, where the Senate meets",
+     "credit": "Photo: Farragutful",
+     "url": "https://commons.wikimedia.org/wiki/File:2020_Hawaii_State_Capitol_06.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: the central rotunda of the Hawaii State Capitol in Honolulu, open to the sky",
+     "credit": "Photo: Daniel Ramirez",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_State_Capitol_-_Central_Rotunda_(5682421587).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the makai side of the Hawaii State Capitol in Honolulu, with the state seal above tall columns",
+     "credit": "Photo: Daniel Ramirez",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_State_Capitol_-_Makai_side_(5682993926).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the terminal building and control tower of Honolulu International Airport, now Daniel K. Inouye International Airport, with an Aloha sign, where international visitors arrive",
+     "credit": "Photo: redlegsfan21",
+     "url": "https://commons.wikimedia.org/wiki/File:Honolulu_International_Airport_(6932471711).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The Guam Congress Building in Hagatna, the seat of the territory's legislature, which passed Guam's adult-use cannabis law in 2019",
+     "credit": "Photo: LittleT889",
+     "url": "https://commons.wikimedia.org/wiki/File:Guam_Congress_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The entrance of the John A. Wilson Building in Washington, D.C., the city hall where the mayor and council sit",
+     "credit": "Photo: APK",
+     "url": "https://commons.wikimedia.org/wiki/File:John_A._Wilson_Building_entrance.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The east front of the United States Capitol in Washington, D.C., where Congress passes the spending bills that carry the Harris Rider",
+     "credit": "Photo: Martin Falbisoner",
+     "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_east_side.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: the breezeway of the Hawaii State Capitol in Honolulu, a wide open passage under a coffered concrete ceiling between two large columns, with the courtyard and palm trees beyond",
+     "credit": "Photo: Warren LeMay",
+     "url": "https://commons.wikimedia.org/wiki/File:Breezeway,_Hawaii_State_Capitol,_Beretania_Street,_Honolulu,_HI_-_52219733392.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11a",
+     "what": "Illustrative photo: the Drug Enforcement Administration Museum and Visitors Center entrance in Arlington, Virginia, beside the agency that schedules controlled substances under the April 28, 2026 rule",
+     "credit": "Photo: Thomson200",
+     "url": "https://commons.wikimedia.org/wiki/File:Drug_Enforcement_Administration_Museum_and_Visitors_Center_front_entrance,_April_2019.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11b",
+     "what": "Illustrative photo: the Hawaii State Capitol seen from another side",
+     "credit": "Photo: Daniel Ramirez",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_State_Capitol_(5682420939).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: the Kanaina Building, the old Hawaii State Archives, in Honolulu, a white neoclassical building among palm trees",
+     "credit": "Photo: Steven Pavlov",
+     "url": "https://commons.wikimedia.org/wiki/File:2023-04-19,_Kanaina_Building_(Old_Hawaii_State_Archives),_02.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "fn-21",
+   "date": "2026-10-18",
+   "id": "FN-21",
+   "title": "Sovereign Ground: Cannabis, Land, and the Kingdom of Hawaii",
+   "series": "Fat Nugs Magazine",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Fat Nugs Magazine",
+    "url": "https://www.fatnugsmag.com/cannabis-and-hawaiian-sovereignty/"
+   },
+   "research": [
+    {
+     "label": "Public Law 103-150, 107 Stat. 1510 (November 23, 1993), the Apology Resolution",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg1510.pdf"
+    },
+    {
+     "label": "U.S. Department of Justice, Policy Statement Regarding Marijuana Issues in Indian Country (October 8, 2014), and Attorney General memorandum of January 4, 2018",
+     "url": "https://www.justice.gov/sites/default/files/tribal/pages/attachments/2014/12/11/policystatementregardingmarijuanaissuesinindiancountry2.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Honolulu Star-Advertiser, Waimanalo land lease offers possible solution for Waianae homeless camp (February 18, 2018)",
+     "url": "https://www.staradvertiser.com/2018/02/18/hawaii-news/waimanalo-land-lease-offers-possible-solution-for-waianae-homeless-camp/"
+    },
+    {
+     "label": "Honolulu Magazine, Whatever Happened to Bumpy Kanahele? (November 1, 2007)",
+     "url": "https://www.honolulumagazine.com/whatever-happened-to-bumpy-kanahele/"
+    },
+    {
+     "label": "Nation of Hawaii, On this day in 1987, Hawaiians occupy empty Makapuu houses",
+     "url": "https://www.nationofhawaii.org/news/on-this-day-in-1987-hawaiians-occupy-empty-makapuu-houses/"
+    },
+    {
+     "label": "Federal Register, 91 FR 22714 (April 28, 2026), rescheduling of FDA-approved and state-licensed medical marijuana to Schedule III",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08176/schedules-of-controlled-substances-rescheduling-of-food-and-drug-administration-approved-products"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "ʻIolani Palace in Honolulu, the royal palace of the Kingdom of Hawaii, seen from the front across its grounds with the Hawaii flag flying",
+     "credit": "Photo: Bernard Spragg",
+     "url": "https://commons.wikimedia.org/wiki/File:Iolani_Palace_(14164614262).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a rocky tide pool and sand at the shore of Makapuu Beach Park on Oahu",
+     "credit": "Photo: Robert Linsdell",
+     "url": "https://commons.wikimedia.org/wiki/File:Makapuu_Beach_Park,_Waimanalo_(503384)_(18940956881).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: Washington Place in Honolulu, the historic governor's residence",
+     "credit": "Photo: Frank Schulenburg",
+     "url": "https://commons.wikimedia.org/wiki/File:Washington_Place,_O%E2%80%98ahu_(2024)-L1004906.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Makapuu Point Lighthouse on Oahu",
+     "credit": "Photo: Ewen Roberts",
+     "url": "https://commons.wikimedia.org/wiki/File:Makapuu_Point_Light_-_Oahu.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Makapuu Beach and Waimanalo Bay seen from the highway overlook on Oahu",
+     "credit": "Photo: Don Ramey Logan",
+     "url": "https://commons.wikimedia.org/wiki/File:Makapuu_Oahu_Hawaii_photo_Don_Ramey_Logan.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the Koolau ridge of Oahu above the forested Maunawili valley, next to Waimanalo, as a landscape",
+     "credit": "Photo: California Cow",
+     "url": "https://commons.wikimedia.org/wiki/File:Maunawili_ridge_view_(21806370194).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A historical photograph from the 1893 period in Honolulu, the overthrow that Public Law 103-150 apologizes for",
+     "credit": "Photo: Unknown, c. 1893",
+     "url": "https://commons.wikimedia.org/wiki/File:Marines,_Camp_Boston,_1893.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A halftone print of the American flag being raised before a crowd at ʻIolani Palace on August 12, 1898, the annexation ceremony, cropped to remove the printed caption",
+     "credit": "Photo: Jose de Olivares, 1898, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Raising_American_Flag_(1898).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the Hawaii state flag flying against a blue sky, which uses the same design as the Kingdom's flag",
+     "credit": "Photo: Gage Skidmore",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii_flag_(51871640782).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "The Robert F. Kennedy Department of Justice Building in Washington, D.C., headquarters of the department that issued the Wilkinson Memorandum in October 2014",
+     "credit": "Photo: APK",
+     "url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "The Mokulua Islands off Waimanalo Bay on Oahu's windward coast, a view of the bay below the foothills where the 1994 lease land lies",
+     "credit": "Photo: Robert Linsdell",
+     "url": "https://commons.wikimedia.org/wiki/File:Mokulua_Islands,_Waimanalo_Bay,_Waimanalo_(503396)_(19178673959).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12a",
+     "what": "Illustrative photo: an aerial view of the United States Capitol in Washington, D.C., where Congress passed the 1993 Apology Resolution; the photograph does not show the resolution or its signing",
+     "credit": "Photo: Carol M. Highsmith",
+     "url": "https://commons.wikimedia.org/wiki/File:Aerial_view,_United_States_Capitol_building,_Washington,_D.C_LCCN2010630477.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12b",
+     "what": "Illustrative photo: the Koolau cliffs of Oahu as a landscape only",
+     "credit": "Photo: Lukas",
+     "url": "https://commons.wikimedia.org/wiki/File:Cliffs_of_the_Koolau_Range,_Oahu_58.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: the Kanaina Building, the old Hawaii State Archives in Honolulu, where records are kept",
+     "credit": "Photo: Steven Pavlov",
+     "url": "https://commons.wikimedia.org/wiki/File:2023-04-19,_Kanaina_Building_(Old_Hawaii_State_Archives),_04.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "fn-22",
+   "date": "2026-10-18",
+   "id": "FN-22",
+   "title": "Haven't Done This Before: Three Days at the Hawaiʻi Cannabis Expo",
+   "series": "Fat Nugs Magazine",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Fat Nugs Magazine",
+    "url": "https://www.fatnugsmag.com/three-days-at-the-hawaii-cannabis-expo/"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Neal S. Blaisdell Center, Exhibition Hall page (65,000 square feet of air-conditioned exhibit space)",
+     "url": "https://www.blaisdellcenter.com/venues/exhibition-hall"
+    },
+    {
+     "label": "Maui Now, \"Hawaii Cannabis Expo 2026 returns Jan. 30 to Feb. 1,\" January 11, 2026",
+     "url": "https://mauinow.com/2026/01/11/hawaii-cannabis-expo-2026-returns-jan-30-to-feb-1-2026/"
+    },
+    {
+     "label": "Hawaii Cannabis Expo site (no upcoming event listed)",
+     "url": "https://hawaiicannabisexpo.com/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Neal S. Blaisdell Center in Honolulu seen from the lawn on Ward Avenue: the arena's domed roof beside the long white wall of the Exhibition Hall, with its pond and palm trees",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Neal_S._Blaisdell_Center,_Ward_Avenue,_Kakaako,_Honolulu,_HI_-_52263935876.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: downtown Honolulu seen from Puowaina (Punchbowl Crater) with the Pacific behind it",
+     "credit": "Photo: ArdentArbitration",
+     "url": "https://commons.wikimedia.org/wiki/File:Downtown_Honolulu_from_P%C5%ABowaina_(Punchbowl_Crater).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The glass-fronted entrance of the Blaisdell Exhibition Hall facing Ward Avenue in Honolulu, with an empty plaza in front",
+     "credit": "Photo: Blaisdellcenter",
+     "url": "https://commons.wikimedia.org/wiki/File:Blaisdell_Center_Galleria.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: an empty registration table at a hackathon with red lanyards and badge holders laid out",
+     "credit": "Photo: Opendata.ch",
+     "url": "https://commons.wikimedia.org/wiki/File:Registration_Desk_at_Election_Hackdays.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a Zoom H4n handheld audio recorder on a white surface",
+     "credit": "Photo: Fanny Schertzer",
+     "url": "https://commons.wikimedia.org/wiki/File:Handy_Recorder_H4n_(2).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the Blaisdell Arena beside the Exhibition Hall in Honolulu, its wide roof over a pond with a sculpture and lava rocks",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Blaisdell_Arena,_Ward_Avenue_and_Kapiolani_Boulevard,_Kakaako,_Honolulu,_HI.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: a silver minivan taxi parked on a paved court in Honolulu",
+     "credit": "Photo: Riley",
+     "url": "https://commons.wikimedia.org/wiki/File:2014_Toyota_Sienna_minivan_taxi_(26394195950).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: the white outer wall of the Blaisdell Exhibition Hall with a double door at the edge of its pond, under the hall's folded roof",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Neal_S._Blaisdell_Center,_Ward_Avenue,_Kakaako,_Honolulu,_HI_-_52264204429.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: Honolulu's skyline at dusk across the water from Magic Island",
+     "credit": "Photo: Edmund Garman",
+     "url": "https://commons.wikimedia.org/wiki/File:Downtown_Honolulu_Dusk_(16373009886).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The long white wall and folded roof of the Blaisdell Exhibition Hall beside its pond in Honolulu, with the arena dome behind",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Neal_S._Blaisdell_Center,_Ward_Avenue,_Kakaako,_Honolulu,_HI_-_52263935421.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: Honolulu Hale, the city hall of Honolulu, seen from its lawn under palm trees",
+     "credit": "Photo: Joel Bradshaw",
+     "url": "https://commons.wikimedia.org/wiki/File:Honolulu-Hale-widefront.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: Honolulu's towers at night with the Blaisdell Arena glowing red in the foreground",
+     "credit": "Photo: Daniel Ramirez",
+     "url": "https://commons.wikimedia.org/wiki/File:Neal_S_Blaisdell_Center_in_red_at_night.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: a closed black notebook with an elastic band and a pen on a wooden desk, a laptop edge behind it",
+     "credit": "Photo: Guy Sie",
+     "url": "https://commons.wikimedia.org/wiki/File:Moleskine_Evernote_Smart_Notebook_and_pen_(8401944314).jpg",
+     "card": false
+    }
+   ]
+  }
+ ]
+}

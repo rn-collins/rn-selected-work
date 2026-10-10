@@ -101,11 +101,11 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 
 ## RN Collins sources pages (one account per package family)
 
-- [x] `/sources/<account>/<slug>` (accounts `ddw26`, `venues`, `makers`, `editions`; for example `/sources/ddw26/s100`) lists the article, the sources and every slide image with its credit and record link. Ask a Neuroscientist keeps `/sources/<mon-dd>` and `data/aan-sources.json`, untouched.
+- [x] `/sources/<account>/<slug>` (ten accounts: `ddw26`, `venues`, `makers`, `editions`, `ddw27`, `htw`, `ioo`, `polymath`, `fatnugs`, `clr`; for example `/sources/ddw26/s100`) lists the article, the sources and every slide image with its credit and record link. Ask a Neuroscientist keeps `/sources/<mon-dd>` and `data/aan-sources.json`, untouched.
 - [x] `/sources/<account>` lists each post from its posting day on, in Europe/Amsterdam time (rebuilt daily). Pages exist ahead of time so the address printed on a slide works on posting day.
 - [x] Data is generated, not hand-kept: `data/sources-<account>.json` comes from `render-kit/sources_export_ours.py`, with the same cleaning rules as the Ask a Neuroscientist export. Slugs are id-based (they do not change when a post is rescheduled).
 - [x] Each page opens with RN's article in The Polymath: the newsletter's subscribe page until the issue exists, then the issue address.
 - [x] Pages carry `rn:kind="reference"` and `rn:entries`.
 - [x] Every sources page and account index links to RN Selected Work itself (a line under the title and a block at the end: home, selected work index, all sources).
-- [ ] Add `htw`, `ioo`, `ddw27`, `dda`, `polymath`, `fatnugs` and `clr` accounts as their packages are finished.
-- [ ] Link the account indexes from `/sources`.
+- [x] `/sources` links to every account index (the only change to the Ask a Neuroscientist page; its addresses and behavior are unchanged).
+- [ ] Add a `dda` account (Dutch Design Awards) when its essays exist.

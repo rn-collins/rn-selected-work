@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../components/canonical-page";
 import { longDate, postedSoFar } from "../../lib/aan-sources";
+import { accounts } from "../../lib/sources";
 import styles from "./sources.module.css";
 
 // Rebuilt daily so each post appears here on its posting day.
@@ -41,6 +42,14 @@ export default function SourcesIndex() {
             ))}
           </ul>
         )}
+        <section className={styles.block} aria-labelledby="more-sources">
+          <h2 id="more-sources">Sources for RN Collins&apos; other posts</h2>
+          <ul className={styles.index}>
+            {accounts.map((a) => (
+              <li key={a.key}><Link href={`/sources/${a.key}`}>{a.name}</Link></li>
+            ))}
+          </ul>
+        </section>
       </div>
     </CanonicalPage>
   );
