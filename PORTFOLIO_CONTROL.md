@@ -110,3 +110,14 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] Tech From Here (RN Collins) sources pages at `/sources/tfh/<set-id>` for the 38 ready DDW26 sets, from `data/sources-tfh.json` (`sources_export.py tfh`). They are not listed on `/sources/tfh` or in the sitemap until a set has a posting date; the address in each Threads first reply works now.
 - [x] One shared page body (`components/sources-detail.tsx`) serves every account.
 - [x] Sources pages carry `rn:kind="reference"` and `rn:entries`; the estate check judges them on completeness (every entry rendered, no empty section, links resolve) instead of the 400-word floor. Checked locally: /sources, /sources/oct-08 and /sources/oct-09 pass with 0 blocker, 0 major.
+
+## RN Collins sources pages (one account per package family)
+
+- [x] `/sources/<account>/<slug>` (eleven accounts: `ddw26`, `venues`, `makers`, `editions`, `ddw27`, `dda`, `htw`, `ioo`, `polymath`, `fatnugs`, `clr`; for example `/sources/ddw26/s100`) lists the article, the sources and every slide image with its credit and record link. Ask a Neuroscientist keeps `/sources/<mon-dd>` and `data/aan-sources.json`, untouched.
+- [x] `/sources/<account>` lists each post from its posting day on, in Europe/Amsterdam time (rebuilt daily). Pages exist ahead of time so the address printed on a slide works on posting day.
+- [x] Data is generated, not hand-kept: `data/sources-<account>.json` comes from `render-kit/sources_export_ours.py`, with the same cleaning rules as the Ask a Neuroscientist export. Slugs are id-based (they do not change when a post is rescheduled).
+- [x] Each page opens with RN's article in The Polymath: the newsletter's subscribe page until the issue exists, then the issue address.
+- [x] Pages carry `rn:kind="reference"` and `rn:entries`.
+- [x] Every sources page and account index links to RN Selected Work itself (a line under the title and a block at the end: home, selected work index, all sources).
+- [x] `/sources` links to every account index (the only change to the Ask a Neuroscientist page; its addresses and behavior are unchanged).
+- [ ] Refresh the maker, edition and Dutch Design Awards pages when their essays are rewritten (deep essays supply the sources where they exist).

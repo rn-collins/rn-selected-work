@@ -1,0 +1,2361 @@
+{
+ "generated": "2026-10-10",
+ "host": "rn-selected-work.vercel.app",
+ "posts": [
+  {
+   "slug": "pm-01",
+   "date": "2026-10-18",
+   "id": "PM-01",
+   "title": "Law Happens Somewhere",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/law-happens-somewhere"
+   },
+   "research": [
+    {
+     "label": "Federal Rule of Criminal Procedure 53",
+     "url": "https://www.law.cornell.edu/rules/frcrmp/rule_53"
+    },
+    {
+     "label": "5 U.S.C. 553",
+     "url": "https://www.law.cornell.edu/uscode/text/5/553"
+    },
+    {
+     "label": "Moksnes, Sense of Coherence (Springer, 2021)",
+     "url": "https://doi.org/10.1007/978-3-030-63135-2_4"
+    }
+   ],
+   "other": [
+    {
+     "label": "Electronic Public Access Fee Schedule (effective January 1, 2020), uscourts.gov",
+     "url": "https://www.uscourts.gov/court-programs/fees/electronic-public-access-fee-schedule"
+    },
+    {
+     "label": "Hawaiʻi Revised Statutes section 92-3",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092/HRS_0092-0003.htm"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The entrance hall of the Rush Hudson Limbaugh Sr",
+     "credit": "Source: U.S. District Court, E.D. Mo.",
+     "url": "https://commons.wikimedia.org/wiki/File:Entrance,_Rush_Hudson_Limbaugh_Sr._U.S._Courthouse_(2013).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The lobby of the Wayne N. Aspinall Federal Building and U.S. Courthouse in Grand Junction, Colorado, with a walk-through metal detector at the left and the edge of the screening table beside it, in front of the elevators",
+     "credit": "Photo: Carol M. Highsmith, LOC",
+     "url": "https://commons.wikimedia.org/wiki/File:Lobby_elevators._Wayne_N._Aspinall_Federal_Building_and_U.S._Courthouse,_Grand_Junction,_Colorado_LCCN2014650026.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "Illustrative photo: an empty public records inspection workstation in a Hennepin County, Minnesota government office: a desk with one monitor, keyboard and mouse, a stack of paper and two office chairs, in a windowless room",
+     "credit": "Photo: Tony Webster",
+     "url": "https://commons.wikimedia.org/wiki/File:Hennepin_County_-_Data_Practices_Act_Inspection_(34635472566).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3b",
+     "what": "Illustrative photo: a brass mail slot set in a wood-paneled wall at the Madison Parish Courthouse in Tallulah, Louisiana, with a wooden catch box hanging open beneath it",
+     "credit": "Photo: Ktkvtsh",
+     "url": "https://commons.wikimedia.org/wiki/File:Madison_Parish_Courthouse_mail_slot_02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Illustrative photo: a wall sign and arrow reading District Court Public Access Computers beside a blue paper marker in a basement corridor of the Hennepin County Government Center in Minneapolis, with double doors on the right",
+     "credit": "Photo: Tony Webster",
+     "url": "https://commons.wikimedia.org/wiki/File:District_Court_Public_Access_Computers_-_Minnesota_Judicial_Branch_-_Hennepin_County_Government_Center_(22925184353).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Illustrative photo: a row of public research computers on a long table in the Hennepin County Law Library on an upper floor of a government building in Minneapolis, with shelves of bound law books beside a wall of windows and a few people far in the background",
+     "credit": "Photo: Ianstade",
+     "url": "https://commons.wikimedia.org/wiki/File:HCLL_after_renovation_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The front of the Wayne N. Aspinall Federal Building and U.S. Courthouse in Grand Junction, Colorado, cropped to the entrance: a wide stone staircase with metal handrails, railed landings at both sides, and two sets of glass doors beneath arched windows",
+     "credit": "Photo: Carol M. Highsmith, LOC, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Front_exterior_detail._Wayne_N._Aspinall_Federal_Building_and_U.S._Courthouse,_Grand_Junction,_Colorado_LCCN2014650022.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 6a",
+     "what": "An empty federal courtroom in the James A. Byrne United States Courthouse in Philadelphia, seen from the public gallery, with spectator benches in the foreground, the bar rail, counsel tables and the judges' bench under the federal seal",
+     "credit": "Photo: Carol M. Highsmith, LOC",
+     "url": "https://commons.wikimedia.org/wiki/File:Courtroom,_James_A._Byrne_U.S._Courthouse,_Philadelphia,_Pennsylvania_LCCN2010718970.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 6b",
+     "what": "Illustrative photo: a closed pair of wooden courtroom doors in a tiled courthouse corridor, with a plaque reading Quiet please, court in session, recording in progress, and the edge of a docket schedule screen at the upper left",
+     "credit": "Photo: Kalbome22",
+     "url": "https://commons.wikimedia.org/wiki/File:Courtroom_door.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: the empty city council chamber in Providence, Rhode Island City Hall, seen from the gallery, with the members' desks arranged in a horseshoe, a railing for the public and tall windows behind",
+     "credit": "Photo: Kenneth C. Zirkel",
+     "url": "https://commons.wikimedia.org/wiki/File:Providence_City_Council_Chambers.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: looking up through the open-air central rotunda of the Hawaii State Capitol in Honolulu, past rings of balconies to a tree silhouette and the sky",
+     "credit": "Photo: Farragutful",
+     "url": "https://commons.wikimedia.org/wiki/File:2020_Hawaii_State_Capitol_04.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7c",
+     "what": "Illustrative photo: the red brick facade of the U.S. Government Publishing Office building in Washington, D.C., seen from the street with a banner on the left and a tree at the upper right",
+     "credit": "Photo: Geraldshields11",
+     "url": "https://commons.wikimedia.org/wiki/File:US_Government_Printing_Office_building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "The Bishop Henry Whipple Federal Building near Fort Snelling, Minnesota, a long gray concrete building seen across trees, with an American flag at its base",
+     "credit": "Photo: Tony Webster",
+     "url": "https://commons.wikimedia.org/wiki/File:Bishop_Henry_Whipple_Federal_Building_(EOIR_Immigration_Court).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "Illustrative photo: the stainless steel call panel of an elevator at the Madison Parish Courthouse in Tallulah, Louisiana, with a column of floor buttons and a yellow sign reading no cell phones or pagers allowed in courtroom",
+     "credit": "Photo: Ktkvtsh",
+     "url": "https://commons.wikimedia.org/wiki/File:Madison_Parish_Courthouse_elevator_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: a long empty hallway in the Historic Utah County Courthouse in Provo, Utah, with wooden benches down the middle of the carpet, marble columns, closed office doors and glass doors at the far end",
+     "credit": "Photo: Ben P L",
+     "url": "https://commons.wikimedia.org/wiki/File:Historic_Utah_County_Courthouse_hallway_(30016421998).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a closed varnished wooden door with a mail slot and a louvered lower panel, in a tiled corridor of the Madison Parish Courthouse in Tallulah, Louisiana",
+     "credit": "Photo: Ktkvtsh",
+     "url": "https://commons.wikimedia.org/wiki/File:Madison_Parish_Courthouse_door_01.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-02",
+   "date": "2026-10-18",
+   "id": "PM-02",
+   "title": "Who Made This So Hard?",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/who-made-this-so-hard"
+   },
+   "research": [
+    {
+     "label": "20 C.F.R. 404.911, Good cause for missing the deadline to request review",
+     "url": "https://www.law.cornell.edu/cfr/text/20/404.911"
+    },
+    {
+     "label": "SSA Form HA-501 (06-2022), Request for Hearing by Administrative Law Judge",
+     "url": "https://www.ssa.gov/forms/ha-501.pdf"
+    },
+    {
+     "label": "U.S. GAO, Administrative Burden: OMB Should Update Instructions to Help Agency Assessment Efforts, GAO-25-107239 (April 2025)",
+     "url": "https://www.gao.gov/assets/890/882476.pdf"
+    },
+    {
+     "label": "Moynihan, Herd and Harvey, Administrative Burden, JPART 25(1) (2015)",
+     "url": "https://academic.oup.com/jpart/article/25/1/43/885957"
+    }
+   ],
+   "other": [
+    {
+     "label": "SSA, SSI appeals page and Electronic Appeals Terms of Service",
+     "url": "https://www.ssa.gov/ssi/text-appeals-ussi.htm"
+    },
+    {
+     "label": "White House Legal Aid Interagency Roundtable, 2022 Report: Access to Justice through Simplification",
+     "url": "https://www.justice.gov/archives/atj/media/1281946/dl?inline="
+    },
+    {
+     "label": "Legal Aid Interagency Roundtable, Access to Justice in Federal Administrative Proceedings (2023)",
+     "url": "https://www.justice.gov/archives/atj/media/1327481/dl"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A public computer workstation at the Portland Central Library in Oregon: a flat monitor and keyboard on a wooden table with a numbered Internet station sign",
+     "credit": "Photo: Another Believer",
+     "url": "https://commons.wikimedia.org/wiki/File:Portland_Central_Library,_Oregon_(2012)_-_031.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A hand-held office date stamp with a red handle and rotating date wheels lying on a sheet of paper on a desk",
+     "credit": "Photo: Jiri Sedlacek",
+     "url": "https://commons.wikimedia.org/wiki/File:Czech_office_timestamp.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A white 2020 Census mailing envelope reading Shape your future, START HERE and my2020census.gov, sticking out of an open residential mailbox",
+     "credit": "Photo: Rep. Salud Carbajal",
+     "url": "https://commons.wikimedia.org/wiki/File:2020_US_Census_envelope.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "An empty federal courtroom in the Wayne N. Aspinall Federal Building and U.S. Courthouse in Grand Junction, Colorado, seen from the gallery",
+     "credit": "Photo: Carol M. Highsmith, LOC",
+     "url": "https://commons.wikimedia.org/wiki/File:Courtroom._Wayne_N._Aspinall_Federal_Building_and_U.S._Courthouse,_Grand_Junction,_Colorado_LCCN2014650015.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 5a",
+     "what": "A public counter in the clerk of court's office at the Madison Parish Courthouse, Louisiana, with bound civil index books, a self-inking stamp at the right edge and two computer monitors behind",
+     "credit": "Photo: Ktkvtsh",
+     "url": "https://commons.wikimedia.org/wiki/File:Madison_Parish_Courthouse_Clerk_05.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5b",
+     "what": "Illustrative photo: a wall of gray steel filing cabinets with a rolling metal step ladder in the clerk of court's records room at the Madison Parish Courthouse, Louisiana",
+     "credit": "Photo: Ktkvtsh",
+     "url": "https://commons.wikimedia.org/wiki/File:Madison_Parish_Courthouse_Clerk_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A long row of public computer terminals in the Old Metairie Library in Louisiana, with a bright reading area behind",
+     "credit": "Photo: Infrogmation of New Orleans",
+     "url": "https://commons.wikimedia.org/wiki/File:Old_Metairie_Library,_interior,_Louisiana_1_March_2025_-_4.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The exterior of a Social Security Administration field office in Corning, New York, a low pale brick building with a wall plaque that reads Social Security Administration, entrance located on opposite side of building",
+     "credit": "Photo: J. Passepartout",
+     "url": "https://commons.wikimedia.org/wiki/File:Corning_NY_social_security_office_building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "Illustrative photo: a covered arcade walkway running along Beckwith Hall at President William McKinley High School in Honolulu, leading toward the building entrance",
+     "credit": "Photo: Joel Bradshaw",
+     "url": "https://commons.wikimedia.org/wiki/File:Honolulu-McKinley-HS-Beckwith-walkway.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "Illustrative photo: the empty judge's bench in a Hennepin County District Court courtroom in Minneapolis, with the court seal on the wood-paneled wall, an American flag, a framed notice and a chair behind a granite-topped counter",
+     "credit": "Photo: Tony Webster",
+     "url": "https://commons.wikimedia.org/wiki/File:Hennepin_County_District_Court_Courtroom_-_Minneapolis_(54132829766).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "An orange Take-A-Tab number ticket dispenser with a few paper tickets pulled from it, the device used to order a queue in a public office",
+     "credit": "Photo: Mike Mozart",
+     "url": "https://commons.wikimedia.org/wiki/File:Take_a_Number,_(14495402297).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-03",
+   "date": "2026-10-18",
+   "id": "PM-03",
+   "title": "Who Is Supposed to Supply What the Law Requires?",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/who-is-supposed-to-supply-what-the-law-requires"
+   },
+   "research": [
+    {
+     "label": "Gideon v. Wainwright, 372 U.S. 335 (1963)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/372/335"
+    },
+    {
+     "label": "Turner v. Rogers, 564 U.S. 431 (2011)",
+     "url": "https://www.law.cornell.edu/supct/html/10-10.ZO.html"
+    },
+    {
+     "label": "28 C.F.R. 35.160",
+     "url": "https://www.law.cornell.edu/cfr/text/28/35.160"
+    },
+    {
+     "label": "National Center for State Courts, Guide for Remote Dependency Hearings (May 2025)",
+     "url": "https://www.ncsc.org/sites/default/files/media/document/Guide%20for%20Remote%20Dependency%20Hearings.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Executive Order 14224, Designating English as the Official Language of the United States (March 1, 2025)",
+     "url": "https://www.whitehouse.gov/presidential-actions/2025/03/designating-english-as-the-official-language-of-the-united-states/"
+    },
+    {
+     "label": "U.S. DOJ Civil Rights Division, Title VI page and notice of rescission of Title VI guidance (March 21, 2025)",
+     "url": "https://www.justice.gov/crt/fcs/TitleVI"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a stack of blank white envelopes and a silver pen on a tan desk surface",
+     "credit": "Photo: Martin Vorel",
+     "url": "https://commons.wikimedia.org/wiki/File:Silver_Pen_and_Envelopes_in_Office_by_Martin_Vorel.jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A public library scanning station at the Hunters Point Library in Queens, New York: a flatbed scanner, a laser printer and a touchscreen reading Scan Station, scan, save and share, on a wooden counter",
+     "credit": "Photo: Tdorante10",
+     "url": "https://commons.wikimedia.org/wiki/File:Hunters_Point_Library_td_(2019-09-24)_021_-_Cyber_Center.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the long dark shadow of the Washington Monument falling across the lawn of the National Mall toward the Lincoln Memorial, with a few small figures far in the distance",
+     "credit": "Photo: Ad Meskens",
+     "url": "https://commons.wikimedia.org/wiki/File:Lincoln_Memorial_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Illustrative photo: the view from an interpreters' booth into a courtroom at the Court of Justice of the European Union in Luxembourg, with consoles, microphones and headsets in the foreground and the courtroom's desks beyond, a few people standing far off",
+     "credit": "Photo: FrDr",
+     "url": "https://commons.wikimedia.org/wiki/File:Interpreting_booths_Court_of_Justice_of_the_European_Union_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Illustrative photo: the back of the Madison Parish Courthouse in Tallulah, Louisiana, seen across a parking lot with blue-striped accessible parking spaces, a curb ramp and an accessibility sign at the right",
+     "credit": "Photo: Ktkvtsh",
+     "url": "https://commons.wikimedia.org/wiki/File:Madison_Parish_Courthouse_02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4c",
+     "what": "Illustrative photo: a metal rack holding bound Civil Index volumes, civil docket index books and boxes of older docket records in the clerk of court's office at the Madison Parish Courthouse, Louisiana",
+     "credit": "Photo: Ktkvtsh",
+     "url": "https://commons.wikimedia.org/wiki/File:Madison_Parish_Courthouse_Clerk_03.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The west facade of the United States Supreme Court Building in Washington, D.C., seen from the corner of the plaza under a blue sky",
+     "credit": "Photo: Daderot",
+     "url": "https://commons.wikimedia.org/wiki/File:Oblique_facade_1,_US_Supreme_Court.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6a",
+     "what": "The Oconee County Courthouse in Walhalla, South Carolina, with its columned entrance, American and state flags and a hedge in front, under a blue sky",
+     "credit": "Photo: Brian Stansberry",
+     "url": "https://commons.wikimedia.org/wiki/File:Oconee-County-Courthouse-sc.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6b",
+     "what": "The empty courtroom of the United States Supreme Court in Washington, D.C., seen between red velvet curtains and marble columns toward the nine chairs of the bench, with spectator benches along the aisle and a patterned carpet",
+     "credit": "Photo: Carol M. Highsmith",
+     "url": "https://commons.wikimedia.org/wiki/File:Interior_of_the_U.S._Supreme_Court,_Washington,_D.C_LCCN2011630709.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The information desk in the Cyber Center of the Hunters Point Library in Queens, New York, with two computer monitors and an INFORMATION sign",
+     "credit": "Photo: Tdorante10",
+     "url": "https://commons.wikimedia.org/wiki/File:Hunters_Point_Library_td_(2019-09-24)_025_-_Cyber_Center.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A wide view of the public scanning table at the Hunters Point Library in Queens, New York: a printer, a flatbed scanner, a touchscreen reading Touch here to start, a document-feeder scanner and a payment kiosk",
+     "credit": "Photo: Tdorante10",
+     "url": "https://commons.wikimedia.org/wiki/File:Hunters_Point_Library_td_(2019-09-24)_026_-_Cyber_Center.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The front of the Oconee County Courthouse in Walhalla, South Carolina, a four-story brick and limestone building with a columned entrance, under an overcast sky",
+     "credit": "Photo: Darkspots",
+     "url": "https://commons.wikimedia.org/wiki/File:Oconee_County_Courthouse.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Three barred service windows in a historic post office lobby, labeled Registry C.O.D., General Delivery and Money Orders, Postal Savings, with no clerk behind them",
+     "credit": "Photo: Ammodramus",
+     "url": "https://commons.wikimedia.org/wiki/File:Albion_post_office_interior_windows.JPG",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-04",
+   "date": "2026-10-18",
+   "id": "PM-04",
+   "title": "A Right You Cannot Use",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/a-right-you-cannot-use"
+   },
+   "research": [
+    {
+     "label": "Goldberg v. Kelly, 397 U.S. 254 (1970)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/397/254"
+    },
+    {
+     "label": "Mathews v. Eldridge, 424 U.S. 319 (1976)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/424/319"
+    },
+    {
+     "label": "Social Security Administration, Publication No. 05-10058, Your Right to Question the Decision Made on Your Claim",
+     "url": "https://www.ssa.gov/pubs/EN-05-10058.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "28 C.F.R. 35.130(b)(7)(i) and 35.160(a)(1) (ADA Title II regulations)",
+     "url": "https://www.ecfr.gov/current/title-28/part-35"
+    },
+    {
+     "label": "Wikimedia Commons, Honolulu-LaniakeaYWCA-stairwell.JPG, Joel Bradshaw, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Honolulu-LaniakeaYWCA-stairwell.JPG"
+    },
+    {
+     "label": "American Bar Association, Civil Right to Counsel",
+     "url": "https://www.americanbar.org/groups/legal_aid_indigent_defense/civil_right_to_counsel1/"
+    },
+    {
+     "label": "The Polymath, Law Happens Somewhere series page",
+     "url": "https://polymath-rn-collins.beehiiv.com/t/law-happens-somewhere"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the entrance of a Social Security Administration field office in Corning, New York, a low stone-and-brick building with a canopy over the door",
+     "credit": "Photo: J. Passepartout",
+     "url": "https://commons.wikimedia.org/wiki/File:Corning_NY_social_security_office.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: the front of the Hsinchu City service center of Taiwan's National Immigration Agency, with a steel roll-down shutter closed over the glass doors",
+     "credit": "Photo: Solomon203",
+     "url": "https://commons.wikimedia.org/wiki/File:Hsinchu_City_Service_Center,_National_Immigration_Agency_main_entrance_20210321.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a shelf of bound Federal Reporter volumes, Third Series, numbers 425 to 432, with red and black labels on the spines, in a public library in San Jose, California",
+     "credit": "Photo: Coolcaesar",
+     "url": "https://commons.wikimedia.org/wiki/File:Federal_Reporter_3d.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: the internet computer corner of the Toyoshina public library in Azumino, Japan, two desktop monitors and keyboards on a counter with the screens off",
+     "credit": "Photo: Asturio Cantabrio",
+     "url": "https://commons.wikimedia.org/wiki/File:Azumino_Public_Toyoshina_Library_Internet_PC_corner_ac.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the main hallway inside the Hot Spring County Courthouse in Arkansas, empty, with a wooden bench on the left and a stairway at the far end",
+     "credit": "Photo: Brandonrush",
+     "url": "https://commons.wikimedia.org/wiki/File:Hot_Spring_County_Courthouse_008.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6a",
+     "what": "The west front of the United States Supreme Court Building in Washington, D.C., photographed in October 2013 after its facade restoration",
+     "credit": "Photo: Architect of the Capitol",
+     "url": "https://commons.wikimedia.org/wiki/File:Supreme_Court_Following_Facade_Restoration_(10542206014).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6b",
+     "what": "Illustrative photo: the headquarters of the Social Security Administration in Maryland, a modern office tower and wings behind a parking lot, with a tree and a white van in front, photographed in May 2010",
+     "credit": "Photo: Coolcaesar",
+     "url": "https://commons.wikimedia.org/wiki/File:Socialsecurityheadquarters.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6c",
+     "what": "Illustrative photo: a TTY, a text telephone for people who are deaf or hard of hearing, open on a counter at San Francisco International Airport, with printed instructions on its lid and a silver information phone beside it, photographed August 4, 2025",
+     "credit": "Photo: Missvain",
+     "url": "https://commons.wikimedia.org/wiki/File:TTY_device_at_SFO_-_August_2025_-_Sarah_Stierch.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: an empty courtroom in the Cherokee County Courthouse in North Carolina, with the judge's bench, the bar rail and rows of wooden gallery seats",
+     "credit": "Photo: Harrison Keely",
+     "url": "https://commons.wikimedia.org/wiki/File:A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina,_United_States_02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the closed double wooden doors of the district court building in Zabrze, Poland, under a carved stone gable",
+     "credit": "Photo: Andrzej Otrębski, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Zabrze_Sad_Rejonowy_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the columned entrance and front steps of the Shelby County Courthouse on Adams Avenue in Memphis, Tennessee, built 1906 to 1909",
+     "credit": "Photo: Warren LeMay",
+     "url": "https://commons.wikimedia.org/wiki/File:Shelby_County_Courthouse,_Adams_Avenue,_Memphis,_TN_(53699323200).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: the interior stairwell and landing of the Laniākea YWCA building on Richards Street in Honolulu, photographed June 6, 2010, with wooden handrails",
+     "credit": "Photo: Joel Bradshaw",
+     "url": "https://commons.wikimedia.org/wiki/File:Honolulu-LaniakeaYWCA-stairwell.JPG",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-05",
+   "date": "2026-10-18",
+   "id": "PM-05",
+   "title": "Can the Institution Be Answered?",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/can-the-institution-be-answered"
+   },
+   "research": [
+    {
+     "label": "Mathews v. Eldridge, 424 U.S. 319 (1976)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/424/319"
+    },
+    {
+     "label": "Goldberg v. Kelly, 397 U.S. 254 (1970)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/397/254"
+    },
+    {
+     "label": "Motor Vehicle Manufacturers Association v. State Farm, 463 U.S. 29 (1983)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/463/29"
+    },
+    {
+     "label": "Department of Commerce v. New York, 588 U.S. 752 (2019)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/18-966"
+    },
+    {
+     "label": "Burke and Leben, Court Review vol. 44 (2007), procedural fairness",
+     "url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1245&context=ajacourtreview"
+    },
+    {
+     "label": "NIST AI Risk Management Framework 1.0 (NIST AI 100-1)",
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Wikimedia Commons, Hearing Room in the Hart Building.jpg, Architect of the Capitol, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Hearing_Room_in_the_Hart_Building.jpg"
+    },
+    {
+     "label": "The Polymath, Law Happens Somewhere series page",
+     "url": "https://polymath-rn-collins.beehiiv.com/t/law-happens-somewhere"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the main entrance of the Queen Liliʻuokalani Building in Honolulu, headquarters of the Hawaiʻi Department of Education, photographed February 7, 2016",
+     "credit": "Photo: Joel Bradshaw",
+     "url": "https://commons.wikimedia.org/wiki/File:Queen-Liliuokalani-building-entrance.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a microphone with a red foam windscreen on its stand in the hemicycle of the European Parliament in Strasbourg, March 2024, with the empty seats out of focus behind it",
+     "credit": "Photo: European Parliament, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Hemicycle_atmosphere_in_Strasbourg.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the Central Hearing Facility in the Hart Senate Office Building in Washington, D.C., January 6, 2017, seen from the rear, with rows of tables, microphones and a raised hearing platform while staff prepare the room",
+     "credit": "Photo: Architect of the Capitol",
+     "url": "https://commons.wikimedia.org/wiki/File:Hearing_Room_in_the_Hart_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Illustrative photo: a mechanical time stamp with a clock face and a date plate, brand ERFU, about 1960, the kind of device an office used to record when a document arrived",
+     "credit": "Photo: Oxfordian Kissuth, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Zeitstempel_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Illustrative photo: a close-up of a U.S. Certified Mail label with a tracking barcode, beside a postage stamp on a yellow envelope, photographed July 4, 2007",
+     "credit": "Photo: Tony Webster",
+     "url": "https://commons.wikimedia.org/wiki/File:Certified_Mail_(722560635).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a gray steel suggestion box with a lock, below a holder of Civil Aviation Office and Airports comment forms, mounted on a marble pillar at Tunis-Carthage airport, March 18, 2018",
+     "credit": "Photo: Benoît Prieur, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:A%C3%A9roport_de_Tunis_le_18_mars_2018_-_5.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a pendulum wall clock beside a U.S. flag in the mayor's office suite of Saint Paul City Hall and Ramsey County Courthouse in Minnesota, May 2017",
+     "credit": "Photo: Runner1928",
+     "url": "https://commons.wikimedia.org/wiki/File:Saint_Paul_City_Hall_and_Ramsey_County_Courthouse_53_-_Mayor_Chris_Coleman%27s_office.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: an outdoor electronic information terminal with a touch screen beside a yellow mailbox outside the municipal office in Zillingtal-Celindof, Austria, August 2017",
+     "credit": "Photo: Igor Celman",
+     "url": "https://commons.wikimedia.org/wiki/File:Gemeindeamt_Zillingtal_-_Celindof_(Infos%C3%A4ule)_(I).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a metal drop box set into a brick wall at City Hall in Westwego, Louisiana, September 2017, with a \"City Hall Drop Box\" sign beside it",
+     "credit": "Photo: Infrogmation of New Orleans",
+     "url": "https://commons.wikimedia.org/wiki/File:Westweg_Louisiana_September_2017_48.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: the front steps and stone facade of the 1928 Carroll County Court House in Carrollton, Georgia, photographed October 2025",
+     "credit": "Photo: Myotus",
+     "url": "https://commons.wikimedia.org/wiki/File:1928-Carroll_Court_House,_front_steps,_Carrollton,_Georgia.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: three measuring tools on a pale background, a depth gauge, a vernier caliper and a small proportional caliper, photographed in 2010",
+     "credit": "Photo: Mauro Cateb",
+     "url": "https://commons.wikimedia.org/wiki/File:Jewellery_measuring_tools.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: a hallway in the Clark County Courthouse in Arkadelphia, Arkansas, empty, with wooden benches along the walls and an arched doorway at the far end",
+     "credit": "Photo: Brandonrush",
+     "url": "https://commons.wikimedia.org/wiki/File:Clark_County_Courthouse_(Arkansas)_019.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: a brown padded envelope sent by registered mail that came back, with a return label giving a customs reason, a tracking barcode and stamps, the addresses blurred, photographed April 22, 2020",
+     "credit": "Photo: Ata",
+     "url": "https://commons.wikimedia.org/wiki/File:Missing_CN22_declaration.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-06",
+   "date": "2026-10-18",
+   "id": "PM-06",
+   "title": "Why Institutions Automate Existing Confusion",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/why-institutions-automate-existing-confusion"
+   },
+   "research": [
+    {
+     "label": "NIST SP 1270, Towards a Standard for Identifying and Managing Bias in Artificial Intelligence (March 2022)",
+     "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf"
+    },
+    {
+     "label": "NIST AI Risk Management Framework 1.0 (NIST AI 100-1); GAO-21-519SP; GAO-20-590G; CMS-0057-F (89 FR 8758)",
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Royal Commission into the Robodebt Scheme, Report (presented July 7, 2023), vol. 1 Executive summary pp. xxiv to xxvi, ch. 3 pp. 37 to 38; vol. 2 ch. 17 p. 472",
+     "url": "https://robodebt.royalcommission.gov.au/publications/report"
+    },
+    {
+     "label": "HHS OIG, A-02-20-01018, Prior Audits of Medicaid Eligibility Determinations in Four States (February 2022)",
+     "url": "https://oig.hhs.gov/reports/all/2022/prior-audits-of-medicaid-eligibility-determinations-in-four-states-identified-millions-of-beneficiaries-who-did-not-or-may-not-have-met-eligibility-requirements/"
+    },
+    {
+     "label": "HHS OIG, A-07-17-02807, Colorado Improperly Claimed Millions in Enhanced Federal Medicaid Reimbursement (October 2020)",
+     "url": "https://oig.hhs.gov/reports/all/2020/colorado-improperly-claimed-millions-in-enhanced-federal-medicaid-reimbursement-for-new-adult-group-beneficiaries-because-of-a-data-processing-error/"
+    },
+    {
+     "label": "GAO-17-111, Supplemental Nutrition Assistance Program: More Information on Promising Practices Could Enhance States’ Use of Data Matching for Eligibility (October 2016)",
+     "url": "https://www.gao.gov/products/gao-17-111"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the Federal Archives and Records Center in San Bruno, California, in a 1974 National Archives photograph, a low concrete building with a flag and a lawn",
+     "credit": "Source: U.S. National Archives, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Photograph_of_San_Bruno,_California,_Federal_Archives_and_Records_Center_(35296250261).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: rows of identical card-file cabinets in a storage room at the Archives of Ontario, photographed during Doors Open Toronto in May 2012",
+     "credit": "Photo: Raysonho (Open Grid Scheduler)",
+     "url": "https://commons.wikimedia.org/wiki/File:ArchivesOntario2012DoorsOpen.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the Centrelink service center on Shepperton Road in Victoria Park, Western Australia, April 2022, under signs for Centrelink, Medicare and NDIS. It stands for the agency's public face; it is one local office and is not tied to any debt",
+     "credit": "Photo: Orderinchaos",
+     "url": "https://commons.wikimedia.org/wiki/File:Vic_Park_Centrelink.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Illustrative photo: the spines of bound Commonwealth Law Reports volumes 206 and 207 (2001) on a shelf, Australia's printed law reports",
+     "credit": "Photo: Phillipstsydney",
+     "url": "https://commons.wikimedia.org/wiki/File:CLRs.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Illustrative photo: the front entrance of Parliament House in Canberra, the seat of the Australian government, with its flagpole above a colonnade and a patterned forecourt, photographed in January 2012, a few visitors small in the distance",
+     "credit": "Photo: Joseph Fox",
+     "url": "https://commons.wikimedia.org/wiki/File:Parliament_House,_Canberra_-_front_exterior.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the server room at The National Archives in Kew, London, May 2011, a dark aisle between racks of servers with indicator lights",
+     "credit": "Photo: The National Archives (UK)",
+     "url": "https://commons.wikimedia.org/wiki/File:A_view_of_the_server_room_at_The_National_Archives.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6a",
+     "what": "Illustrative photo: a wall of wooden pigeonhole message boxes holding papers, along a hallway at Stanford University, February 2011",
+     "credit": "Photo: Stacalusa",
+     "url": "https://commons.wikimedia.org/wiki/File:Pigeon-hole_messagebox_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6b",
+     "what": "Illustrative photo: a red mushroom-head emergency stop button on a yellow ring on a control console, with a keypad beside it",
+     "credit": "Photo: Stahlkocher",
+     "url": "https://commons.wikimedia.org/wiki/File:Not-Aus_Bet%C3%A4tiger.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the Hennepin County Government Center at 300 South 6th Street in Minneapolis, November 2015, with an enclosed skyway meeting the tower",
+     "credit": "Photo: Tony Webster",
+     "url": "https://commons.wikimedia.org/wiki/File:Hennepin_County_Government_Center,_Minneapolis_(23358338505).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the Colorado State Capitol Annex Building in Denver, a state government building, July 2009",
+     "credit": "Photo: Jeffrey Beall",
+     "url": "https://commons.wikimedia.org/wiki/File:Colorado_State_Capitol_Annex_Building.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "One of the Australian Taxation Office's buildings in Civic, Canberra, with a car park at the back, April 2021",
+     "credit": "Photo: Nick-D",
+     "url": "https://commons.wikimedia.org/wiki/File:ATO_building_and_carpark_in_Civic_April_2021.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a small architectural model of a building in wood and tinted glass, with a yellow upper floor and blue lower windows on a plain white base, photographed in 2009",
+     "credit": "Photo: THOR",
+     "url": "https://commons.wikimedia.org/wiki/File:Architectural_Model_(4240901895).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: an empty oval conference table with chairs in a meeting room, photographed by the Dutch Ministry of Foreign Affairs on March 25, 2013",
+     "credit": "Photo: Dutch Ministry of Foreign Affairs",
+     "url": "https://commons.wikimedia.org/wiki/File:130326_Vergaderzaal_(12905875514).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-07",
+   "date": "2026-10-18",
+   "id": "PM-07",
+   "title": "Why Source Provenance Is Governance Infrastructure",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/why-source-provenance-is-governance-infrastructure"
+   },
+   "research": [
+    {
+     "label": "HHS Office of Research Integrity, FY 2021 Annual Report, \"Correcting the Scientific Record,\" page 8",
+     "url": "https://ori.hhs.gov/sites/default/files/2022-07/FY2021%20ORI%20Annual%20Report.pdf"
+    },
+    {
+     "label": "Federal Rules of Evidence, Rule 901 (Cornell LII copy of the rule and Advisory Committee notes; U.S. Courts rules page confirmed live)",
+     "url": "https://www.law.cornell.edu/rules/fre/rule_901"
+    },
+    {
+     "label": "NIST AI Risk Management Framework 1.0 (NIST AI 100-1, January 2023), page 16",
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf"
+    },
+    {
+     "label": "NIST AI 600-1, Generative AI Profile",
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "W3C, PROV-DM: The PROV Data Model, W3C Recommendation 30 April 2013",
+     "url": "https://www.w3.org/TR/prov-dm/"
+    },
+    {
+     "label": "C2PA Technical Specification 2.4 (April 2026), section 1.2 Scope",
+     "url": "https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html"
+    },
+    {
+     "label": "36 CFR 1220.32 (eCFR current text)",
+     "url": "https://www.ecfr.gov/current/title-36/chapter-XII/subchapter-B/part-1220/subpart-B/section-1220.32"
+    },
+    {
+     "label": "National Archives, Records Management Basics",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/basics"
+    },
+    {
+     "label": "NIST AI RMF Playbook, Govern",
+     "url": "https://airc.nist.gov/airmf-resources/playbook/govern/"
+    },
+    {
+     "label": "GAO-25-107721, Standards for Internal Control in the Federal Government (May 2025)",
+     "url": "https://www.gao.gov/products/gao-25-107721"
+    },
+    {
+     "label": "RN Collins's own series articles: Why Human Review Requires Authority, Context and Time (labeled Article One of Twelve) and Why Evidence Systems, Not Model Intelligence, Are the Missing Layer (Article Four of Twelve)",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/why-human-review-requires-authority-context-and-time"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a wooden library card-catalog cabinet with one drawer pulled open and index cards visible, the subject catalog of the University of Graz library, 2005",
+     "credit": "Photo: Marcus Gossler, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Schlagwortkatalog.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2a",
+     "what": "Illustrative photo: tied cardboard boxes of War Office records, numbered, on green repository shelving at The National Archives in Kew, 2008",
+     "credit": "Photo: The National Archives (UK)",
+     "url": "https://commons.wikimedia.org/wiki/File:Boxes_of_documents_on_repository_shelving_at_The_National_Archives.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2b",
+     "what": "Illustrative photo: an orange interoffice mail envelope with a ruled route list and a few handwritten address entries, lying beside a dark hardcover presentation folder embossed MANUFACTURERS HANOVER, bank stationery from the 1980s photographed in 2024",
+     "credit": "Photo: Jonathan Schilling, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Manufacturers_Hanover_Trust_presentation_folder_and_interoffice_envelope.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A printed errata slip, a ruled-border leaflet headed NOTE AUX LECTEURS from the French publisher Les Editions Altaya, slipped into volumes 1 to 5 of a DVD collection to correct an error on the sleeves, photographed in 2021",
+     "credit": "Photo: Psychoslave, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Errata_de_la_collection_«_il_était_une_fois_la_vie_».jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a 1927 registered airmail envelope from Novosibirsk to Riga covered in round postmarks, a registry label and a railway-station handstamp",
+     "credit": "Source: Soviet Union Post, 1927",
+     "url": "https://commons.wikimedia.org/wiki/File:USSR_1927-06-27_registered_cover_Novosibirsk.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5a",
+     "what": "Illustrative photo: three red leather-bound county record books stacked on a courthouse table, gilt spines reading \"Record of ... Lawrence County\", photographed at the Lawrence County Courthouse in Missouri in 2015",
+     "credit": "Photo: LWYang, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Lawrence_County_Courthouse_(19844054974).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5b",
+     "what": "Illustrative photo: an old illustrated book lying open on the glass bed of a book scanner under a gray scanning head, in the digitization lab of the University of Liège library, 2016",
+     "credit": "Photo: Sam.Donvil, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Book_scanner_digitization_lab_university_of_Liège_(2).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5c",
+     "what": "Illustrative photo: a transparent gray and green correction-tape dispenser, with its toothed gears and spools visible and the JINUO Max name on the case, lying on a white ground, photographed in 2023",
+     "credit": "Photo: Wiki Farazi, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Correction_tape_by_Jinuo_20230316_191713.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a black and red self-inking office dating stamp with the word EINGEGANGEN (received) and a date window set to 12 Jan 2009, on a dark ground",
+     "credit": "Photo: smial, Free Art License",
+     "url": "https://commons.wikimedia.org/wiki/File:Eingangsdatumsstempel_IMGP7842_wp.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a handwritten laboratory notebook lying open on a table in a public exhibit at Lawrence Berkeley National Laboratory (the lab book is dated March 6, 1941; photographed 2011), with the corner of a magazine beside it",
+     "credit": "Photo: Daderot, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Lab_book_-_Lawrence_Berkeley_National_Laboratory_-_DSC08822.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a long empty vaulted passage in the Strasbourg railway station, north corridor, with security cameras mounted along the stone ceiling, 2019",
+     "credit": "Photo: Gzen92, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Gare_-_couloir_nord_(Strasbourg)_(2).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: the empty research room of the National Archives of Bangladesh, with reading tables and chairs set out under a coffered concrete ceiling, 2025",
+     "credit": "Photo: Tausheef Hassan Auntu",
+     "url": "https://commons.wikimedia.org/wiki/File:Research_Room_of_National_Archives_of_Bangladesh.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: the Berlin head office of DIN, the German Institute for Standardization, a long gray office building with the DIN sign on its facade, seen from the street in 2008",
+     "credit": "Photo: Standardizer, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:DIN-Sitz_Berlin.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: wooden card-index drawers with brass label holders, some open, with index cards inside, in the Mundaneum archives in Mons, Belgium, 2016",
+     "credit": "Photo: Romaine, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Wiki_Loves_Art_-_Mons_-_Mundaneum_-_archives_(4).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: a tall wooden wall of small mail cubbyholes behind the front desk of the Read House hotel, original to 1926, photographed in 2018",
+     "credit": "Photo: Dennis Rhea, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Read_House_Hotel_Front_Desk_Cubbyholes.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-08",
+   "date": "2026-10-18",
+   "id": "PM-08",
+   "title": "Experience Is Governance",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/experience-is-governance"
+   },
+   "research": [
+    {
+     "label": "44 U.S.C. 3502 (definition of burden)",
+     "url": "https://www.law.cornell.edu/uscode/text/44/3502"
+    },
+    {
+     "label": "44 U.S.C. 3512 (Public protection)",
+     "url": "https://www.law.cornell.edu/uscode/text/44/3512"
+    },
+    {
+     "label": "5 CFR 1320.8",
+     "url": "https://www.law.cornell.edu/cfr/text/5/1320.8"
+    }
+   ],
+   "other": [
+    {
+     "label": "FTC, In the Matter of Epic Games, Inc., Final Complaint and Order (Docket C-4790, FTC Matter No. 192-3203), ISSUED March 13, 2023",
+     "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/1923203epicgamesfinalconsent.pdf (linked from https://www.ftc.gov/legal-library/browse/cases-proceedings/epic-games-matter-timeline-item-2023-03-14)"
+    },
+    {
+     "label": "FTC press release, FTC Finalizes Order Requiring Fortnite Maker Epic Games to Pay $245 Million, March 14, 2023",
+     "url": "https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-finalizes-order-requiring-fortnite-maker-epic-games-pay-245-million-tricking-users-making"
+    },
+    {
+     "label": "FTC press release, FTC Sends Refund Payments to Consumers Impacted by Epic Games' Unlawful Billing Practices, December 9, 2024",
+     "url": "https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-sends-refund-payments-consumers-impacted-epic-games-unlawful-billing-practices"
+    },
+    {
+     "label": "FTC press release, FTC Sends $126 Million in Refunds to Fortnite Players, Reopens Claims Process, June 25, 2025",
+     "url": "https://www.ftc.gov/news-events/news/press-releases/2025/06/ftc-sends-126-million-refunds-fortnite-players-who-were-charged-unwanted-items-reopens-claims"
+    },
+    {
+     "label": "FTC Fortnite refunds page (current)",
+     "url": "https://www.ftc.gov/Fortnite"
+    },
+    {
+     "label": "Epic Games, Epic FTC Settlement and moving beyond long-standing industry practices, December 19, 2022",
+     "url": "https://www.epicgames.com/site/news/epic-ftc-settlement-and-moving-beyond-long-standing-industry-practices"
+    },
+    {
+     "label": "FTC staff report, Bringing Dark Patterns to Light (September 2022), used by the article as context only",
+     "url": "https://www.ftc.gov/reports/bringing-dark-patterns-light"
+    },
+    {
+     "label": "David Maister, The Psychology of Waiting Lines (1985), in The Service Encounter (ed. Czepiel, Solomon, Surprenant; Lexington Books)",
+     "url": "https://davidmaister.com/articles/the-psychology-of-waiting-lines/"
+    },
+    {
+     "label": "NCHS Data Brief 102, Trends in Emergency Department Wait Times (National Hospital Ambulatory Medical Care Survey)",
+     "url": "https://www.cdc.gov/nchs/products/databriefs/db102.htm"
+    },
+    {
+     "label": "Plain Writing Act of 2010, Public Law 111-274",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ274/html/PLAW-111publ274.htm"
+    },
+    {
+     "label": "Section508.gov, Laws and Policies",
+     "url": "https://www.section508.gov/manage/laws-and-policies/"
+    },
+    {
+     "label": "Department of Justice, ADA Title II web rule: First Steps and the March 8, 2024 fact sheet",
+     "url": "https://www.ada.gov/resources/web-rule-first-steps/ and https://www.ada.gov/resources/2024-03-08-web-rule/"
+    },
+    {
+     "label": "U.S. Digital Service, Digital Services Playbook",
+     "url": "https://playbook.usds.gov/"
+    },
+    {
+     "label": "U.S. Web Design System, About",
+     "url": "https://designsystem.digital.gov/about/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a retail self-service checkout touchscreen with a card reader and a basket beside it, in a drugstore in Łódź, Poland, 2024",
+     "credit": "Photo: WrS.tm.pl, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:20241220_173828_Self-service_checkout._DM_Drogerie_Markt,_Nowa_Sukcesja_shopping_mall,_Al._Politechniki_1,_Łódź,_Poland.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a plain beige door under a small green exit sign beside a public stairwell with a metal handrail, at the Art Gallery of South Australia, 2025",
+     "credit": "Photo: Wikimedia Commons, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Stair_Corner_with_Emergency_Exit.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the counter hall of the Oregon DMV office in Ontario, Oregon, with a row of service windows behind clear screens, red waiting chairs at the left and no customers at the windows, 2024",
+     "credit": "Photo: OregonDOT, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Counters.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "The Federal Trade Commission Building in Washington, D.C., originally the Apex Building, seen from the rotunda corner on Pennsylvania Avenue, in a 2005 photograph by Carol M. Highsmith",
+     "credit": "Photo: Carol M. Highsmith, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Federal_Trade_Commission_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Epic Games' headquarters in Cary, North Carolina, a gray and glass office building under a blue sky, photographed on October 30, 2016 by Sergey Galyonkin",
+     "credit": "Photo: Sergey Galyonkin, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Epic_Games_office.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a gray wall-mounted suggestion box with its form holder and a pen on a string in a corridor of a Taipei municipal arts building, 2019",
+     "credit": "Photo: Solomon203, CC BY-SA 4.0, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Suggestion_box_at_TAPO_1F_20190908.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: four upholstered chairs in an empty doctor office waiting room with a framed painting on the wall, 2021",
+     "credit": "Photo: Kurt Kaiser, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Doctor_office_waiting_room.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: the empty emergency department waiting room at Aberdeen Royal Infirmary, Scotland, with rows of pale chairs and a wall display",
+     "credit": "Photo: Tifa Zabat, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Emergency_Waiting_Room_-_Aberdeen_Royal_Infirmary.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: the drive-up entrance canopy of the emergency department at Holyoke Medical Center in Massachusetts, with a red EMERGENCY sign above the doors and an older brick hospital wing behind, 2018",
+     "credit": "Photo: Simtropolitan, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Emergency_room,_Holyoke_Medical_Center.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a stainless-steel ticket machine panel at Langwied S-Bahn station in Munich with a line of Braille dots and arrows above the ticket slot and a euro banknote symbol above the payment slot, 2025",
+     "credit": "Photo: Kritzolina, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Fahrkartenautomat_des_MVV_an_der_S-Bahnstation_Langwied_03.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: a state commission meeting room with horseshoe tables, a raised dais and rows of chairs, at an Oregon Transportation Commission teleconference in April 2020, with two or three staff at the far tables",
+     "credit": "Photo: OregonDOT, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Commission_conference_room.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a Hanhart mechanical stopwatch with a white dial marked in tenths of a second and black, red and green buttons, photographed in 2012",
+     "credit": "Photo: StefanPohl, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Stoppuhr_hanhart.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: an analog wall clock and a small loudspeaker on a yellow corridor wall above a framed calligraphy sign, in a Japanese school hallway, 2009",
+     "credit": "Photo: ajari from Japan, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:強い子_明るい子_考える子_(3897869329).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: a pink rubber eraser marked Pink Pearl on a plain white ground, photographed in 2011",
+     "credit": "Photo: ZooFari, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Pink_Pearl_eraser.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-09",
+   "date": "2026-10-18",
+   "id": "PM-09",
+   "title": "Effortless for Whom?",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/effortless-for-whom-eea4"
+   },
+   "research": [
+    {
+     "label": "U.S. Senate HELP Committee majority staff, The \"Injury-Productivity Trade-off\" (December 2024), 160 pages",
+     "url": "https://www.help.senate.gov/imo/media/doc/amazon_investigation.pdf"
+    },
+    {
+     "label": "Corporate-Wide Stipulation and Settlement Agreement, OSHRC Docket Nos. 23-0298 et al. (fully executed, public-facing)",
+     "url": "https://www.osha.gov/sites/default/files/2024-12/12202024-OSHA-Amazon-Ergo-Agreement-Fully-Executed-Public-Facing-Addresses-Redacted.pdf"
+    },
+    {
+     "label": "UC San Diego library record for Ruth Schwartz Cowan, More Work for Mother (Basic Books, 1983)",
+     "url": "https://cclib.ucsd.edu/library/details.aspx?ID=1972"
+    },
+    {
+     "label": "UC Press page for Hochschild, The Managed Heart, and The Conversation explainer",
+     "url": "https://www.ucpress.edu/books/the-managed-heart/paper and https://theconversation.com/what-is-emotional-labour-and-how-do-we-get-it-wrong-185773"
+    },
+    {
+     "label": "Cass R. Sunstein, Sludge Audits, Behavioural Public Policy (Cambridge Core abstract page)",
+     "url": "https://www.cambridge.org/core/journals/behavioural-public-policy/article/abs/sludge-audits/12A7E338984CE8807CC1E078EC4F13A7"
+    }
+   ],
+   "other": [
+    {
+     "label": "Amazon, response to Senator Sanders's workplace-safety report (December 2024)",
+     "url": "https://www.aboutamazon.com/news/policy-news-views/amazon-response-to-senator-bernie-sanders-report-on-workplace-safety"
+    },
+    {
+     "label": "Amazon, 2024 workplace-safety performance (2025)",
+     "url": "https://www.aboutamazon.com/news/workplace/amazon-workplace-safety-performance-2024"
+    },
+    {
+     "label": "Amazon, 2025 workplace-safety performance (2026)",
+     "url": "https://www.aboutamazon.com/news/workplace/amazon-workplace-safety-2025-injury-reduction"
+    },
+    {
+     "label": "OSHA news release 23-63-NAT, January 18, 2023",
+     "url": "https://www.osha.gov/news/newsreleases/osha-national-news-release/20230118"
+    },
+    {
+     "label": "OSHA news release 24-2583-NAT, December 19, 2024",
+     "url": "https://www.osha.gov/news/newsreleases/osha-national-news-release/20241219"
+    },
+    {
+     "label": "OSHA Corporate-Wide Settlement Agreements registry, Amazon.com Services LLC, published 12/18/2024",
+     "url": "https://www.osha.gov/enforcement/cwsa"
+    },
+    {
+     "label": "GAO-25-106933, Direct File: IRS Successfully Piloted Online Tax Filing",
+     "url": "https://www.gao.gov/products/gao-25-106933"
+    },
+    {
+     "label": "U.S. Treasury press release, IRS Direct File Pilot Exceeds Usage Goal, April 26, 2024",
+     "url": "https://home.treasury.gov/news/press-releases/jy2298"
+    },
+    {
+     "label": "IRS Direct File not offered for filing season 2026 (reported with a quoted IRS email by Kiplinger, NATP and local news)",
+     "url": "https://www.kiplinger.com/taxes/a-free-tax-filing-option-just-disappeared"
+    },
+    {
+     "label": "Star and Strauss (1999) summary page, and Bonnie Nardi, Invisible Work (1998 special issue introduction)",
+     "url": "https://talkingaboutorganizations.com/111-visible-invisible-work-susan-leigh-star/ and https://artifex.org/~bonnie/InvisibleW.html"
+    },
+    {
+     "label": "Russell Sage Foundation page for Herd and Moynihan, Administrative Burden, and the Niskanen Center interview",
+     "url": "https://www.russellsage.org/publications/administrative-burden and https://www.niskanencenter.org/how-administrative-burdens-undermine-public-programs/"
+    },
+    {
+     "label": "BLS Industries at a Glance, Warehousing and Storage (NAICS 493), and the BLS news release on employer-reported workplace injuries and illnesses, 2024 data (osh.nr0)",
+     "url": "https://www.bls.gov/iag/tgs/iag493.htm and https://www.bls.gov/news.release/osh.nr0.htm"
+    },
+    {
+     "label": "NYC Department of Consumer and Worker Protection announcement, April 1, 2025",
+     "url": "https://www.nyc.gov/site/dca/news/009-25/mayor-adams-full-minimum-pay-rate-app-based-restaurant-delivery-workers-now-in"
+    },
+    {
+     "label": "FTC press release, final click-to-cancel rule, October 16, 2024",
+     "url": "https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring"
+    },
+    {
+     "label": "Greenberg Traurig and Latham and Watkins summaries of Custom Communications v. FTC (8th Cir. July 8, 2025)",
+     "url": "https://www.gtlaw.com/en/insights/2025/7/eighth-circuit-vacates-ftcs-click-to-cancel-rule and https://www.lw.com/en/insights/eighth-circuit-vacates-ftc-click-to-cancel-rule"
+    },
+    {
+     "label": "FTC press release, FTC Secures Historic $2.5 Billion Settlement Against Amazon, September 25, 2025",
+     "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon"
+    },
+    {
+     "label": "Date of release of the HELP report (December 16, 2024), from Axios coverage via search",
+     "url": "https://axios.com/2024/12/16/amazon-bernie-sanders-investigation-worker-injury-data"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Amazon fulfillment center in Shakopee, Minnesota, photographed on May 23, 2017 by Tony Webster, with the Amazon Fulfillment sign and the main entry",
+     "credit": "Photo: Tony Webster, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Amazon_Fulfillment_Center,_Shakopee,_Minnesota_(34043258624).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: one cardboard box riding a conveyor belt in a large distribution center, with more boxes receding behind it, at the UPS Lone Star hub in Arlington, Texas, August 2020",
+     "credit": "Photo: USDA, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Packages_on_UPS_conveyor_belt.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a person in a blue t-shirt, shown from the neck down, taping shut a cardboard box on a wooden bench with a second box beside it, 2022",
+     "credit": "Photo: Meanwell Packaging, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Sealing_a_package_with_plastic_tape_for_shipping.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Illustrative photo: the Dirksen Senate Office Building in Washington, D.C., a long limestone Senate building seen from the street with bollards in front, 2024",
+     "credit": "Photo: ajay_suresh, CC BY 2.0, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Dirksen_Senate_Office_Building_(53831703501).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Illustrative photo: the atrium of the Hart Senate Office Building in Washington, D.C., seen from an arcade walkway with part of Alexander Calder's black mobile Mountains and Clouds, an Architect of the Capitol photograph posted in 2017",
+     "credit": "Photo: Architect of the Capitol",
+     "url": "https://commons.wikimedia.org/wiki/File:Hart_Building_Atrium_View.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The Amazon Spheres on the Amazon headquarters campus in Seattle, seen from 6th Avenue with office towers behind, in an April 2020 photograph by SounderBruce",
+     "credit": "Photo: SounderBruce, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Amazon_Spheres_from_6th_Avenue,_April_2020.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "The entrance of the Frances Perkins Building in Washington, D.C., with DEPARTMENT OF LABOR lettered above the colonnade and a fountain in front, in a 2007 Department of Labor photograph",
+     "credit": "Photo: U.S. Department of Labor",
+     "url": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington,_D.C._-_8.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: a height-adjustable sit/stand desk with a monitor and a laptop on it, photographed from above in a home office, 2023",
+     "credit": "Photo: U3145851, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Height_adjustable_workstation.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: a maroon bound court docket book standing on a shelf at the Madison Parish Courthouse in Tallulah, Louisiana, its cover stamped COURT DOCKET BOOK 25 MADISON PARISH SHERIFF'S DEPT., photographed in 2026",
+     "credit": "Photo: Ktkvtsh, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Madison_Parish_Sheriff_Court_Docket_Book.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a red emergency brake handle under a hinged red cover on a gray-green panel of a Finnish train, with a label reading Hätäjarru, Nödbroms and Emergency brake, 2017",
+     "credit": "Photo: Santeri Viinamäki, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Train_emergency_brake_20171026.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: a long empty aisle between blue and yellow pallet racking in a high-bay storage hall at the ICE maintenance depot in Cologne-Nippes, Germany, before it was stocked, 2018",
+     "credit": "Photo: Raimond Spekking, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Besichtigung_ICE-Instandhaltungswerk_Köln-Nippes_Februar_2018-9447.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a yellow company safety sign reading OFF-THE-JOB Safety FOR YOU with a red fist in place of the O in YOU and a small red digital display beneath it, on a roadside at a DuPont Teijin Films site with a concrete water tower behind, photographed in 2023",
+     "credit": "Photo: Hejnjahns, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:DuPont_Teijin_Off-The-Job_Safety_Watertower.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a parked electric cargo bike with a covered, brightly branded cargo trailer on a paved sidewalk in Esch-sur-Alzette, Luxembourg, 2025, no rider",
+     "credit": "Photo: MMFE, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Cargo-Bike_Esch-Alzette_03.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-10",
+   "date": "2026-10-18",
+   "id": "PM-10",
+   "title": "Why Human Review Requires Authority, Context and Time",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/why-human-review-requires-authority-context-and-time"
+   },
+   "research": [
+    {
+     "label": "GAO-21-519SP, Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, June 2021",
+     "url": "https://www.gao.gov/assets/gao-21-519sp.pdf"
+    },
+    {
+     "label": "NIST AI 100-1, AI Risk Management Framework 1.0, January 2023",
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Regulation (EU) 2024/1689 (AI Act), Article 14, Human oversight, as reproduced by the European Commission AI Act Service Desk",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-14"
+    },
+    {
+     "label": "Regulation (EU) 2024/1689, Article 26, Obligations of deployers, same reproduction",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-26"
+    },
+    {
+     "label": "European Commission, Navigating the AI Act (FAQ), last update 7 August 2026",
+     "url": "https://digital-strategy.ec.europa.eu/en/faqs/navigating-ai-act"
+    },
+    {
+     "label": "NIST AI RMF Playbook (Govern, Map, Measure, Manage pages)",
+     "url": "https://airc.nist.gov/airmf-resources/playbook/"
+    },
+    {
+     "label": "NTSB, Implement Safety Management Systems in Aviation",
+     "url": "https://www.ntsb.gov/advocacy/SafetyIssues/Pages/Implement-Safety-Management-Systems-in-Aviation.aspx"
+    },
+    {
+     "label": "AHRQ PSNet, High Reliability primer",
+     "url": "https://psnet.ahrq.gov/primer/high-reliability"
+    },
+    {
+     "label": "Digital Omnibus on AI, entry into force and new application dates (secondary: National Law Review)",
+     "url": "https://natlawreview.com/article/eu-digital-omnibus-ai-enters-force"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: an open-plan office of empty cubicles at the Oregon Department of Transportation, photographed in March 2020 when many staff were teleworking, with a monitor and keyboard at the nearest desk",
+     "credit": "Photo: Oregon Dept. of Transportation",
+     "url": "https://commons.wikimedia.org/wiki/File:Empty_cubicles_(49717469056).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a self-inking stamp lying on a fictional Czech application form beside a passport cover",
+     "credit": "Photo: Petr Novák",
+     "url": "https://commons.wikimedia.org/wiki/File:Bureaucracy_Illustration_Czech.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: bound volumes of the Official Journal of the European Union (2004, L series) on a shelf at the Law and Europa Library, University of Edinburgh",
+     "credit": "Photo: Pigranelle",
+     "url": "https://commons.wikimedia.org/wiki/File:Official_journal_of_the_european_union.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a red mushroom-head emergency stop button on a yellow base, mounted on a piece of machinery",
+     "credit": "Photo: Biso",
+     "url": "https://commons.wikimedia.org/wiki/File:Emergency_Stop.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: steel shelving stacked with archive boxes of paper records at the Federal Records Center in Franconia, Virginia, photographed in 1959",
+     "credit": "Source: U.S. National Archives",
+     "url": "https://commons.wikimedia.org/wiki/File:Photograph_of_Federal_Records_Center_Franconia,_Virginia_(35263694492).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the wall clock above the doorway in a courtroom at the David W. Dyer Federal Building and U.S. Courthouse in Miami, set in a carved stone lintel, photographed by Carol M. Highsmith in 2007",
+     "credit": "Photo: Carol M. Highsmith",
+     "url": "https://commons.wikimedia.org/wiki/File:Courtroom_clock,_David_W._Dyer_Federal_Building_and_U.S._Courthouse,_Miami,_Florida_LCCN2010719005.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: the Berlaymont building in Brussels, seat of the European Commission, seen from the Schuman side with a European Commission banner on its tower",
+     "credit": "Photo: EmDee",
+     "url": "https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: a keyed switch marked Sonderfahrt (special operation) on the inside control panel of a lift in Germany",
+     "credit": "Photo: Daniel 1992",
+     "url": "https://commons.wikimedia.org/wiki/File:Schlüsselschalter_Sonderfahrt_Innen.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a closed, grilled cashier window in the lobby of the Charles Mix County courthouse in Lake Andes, South Dakota, with an empty wooden chair beside it",
+     "credit": "Photo: Ammodramus",
+     "url": "https://commons.wikimedia.org/wiki/File:Charles_Mix_courthouse_teller_window_NW_1.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "The Berlaymont building in Brussels, seat of the European Commission, seen from a corner with the European Commission banner on its tower",
+     "credit": "Photo: Daniel from Glasgow",
+     "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building,_Brussels_(48105096096).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: an old LM Ericsson punch clock (time recorder) mounted on a wall at the Lysekil Work Center in Sweden",
+     "credit": "Photo: W.carter",
+     "url": "https://commons.wikimedia.org/wiki/File:LM_Ericsson_tidkontroll_-_old_punch_clock_5.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: a clipboard lying on a wooden table with a sheet holding a placeholder list of steps",
+     "credit": "Photo: RyanT27",
+     "url": "https://commons.wikimedia.org/wiki/File:Clipboard_on_a_table_with_steps_listed_on_it.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: a wooden suggestion box mounted on a plank wall at Pinewoods Camp, below a National Register of Historic Places plaque",
+     "credit": "Photo: ArnoldReinhold",
+     "url": "https://commons.wikimedia.org/wiki/File:Suggestion_box_at_Pinewoods.agr.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-11",
+   "date": "2026-10-18",
+   "id": "PM-11",
+   "title": "Why Evidence Systems, Not Model Intelligence, Are the Missing Layer",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/why-evidence-systems-not-model-intelligence-are-the-missing-layer"
+   },
+   "research": [
+    {
+     "label": "GAO-21-519SP, AI Accountability Framework, June 2021",
+     "url": "https://www.gao.gov/assets/gao-21-519sp.pdf"
+    },
+    {
+     "label": "NIST AI 100-1, AI Risk Management Framework 1.0, January 2023",
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf"
+    },
+    {
+     "label": "NIST AI 600-1, Generative AI Profile, July 2024, DOI 10.6028/NIST.AI.600-1",
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "GAO-23-106811, Key Practices to Help Ensure Accountability in Federal Use (testimony of May 16, 2023, Senate Homeland Security and Governmental Affairs), Highlights page",
+     "url": "https://www.gao.gov/products/gao-23-106811"
+    },
+    {
+     "label": "NIST AI RMF Playbook (Govern, Map, Measure, Manage pages)",
+     "url": "https://airc.nist.gov/airmf-resources/playbook/"
+    },
+    {
+     "label": "Regulation (EU) 2024/1689 (AI Act), Articles 12 and 14, as reproduced by the Commission AI Act Service Desk",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-12"
+    },
+    {
+     "label": "Regulation (EU) 2024/1689, Article 26, same reproduction",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-26"
+    },
+    {
+     "label": "Digital Omnibus on AI, new application dates (secondary: National Law Review)",
+     "url": "https://natlawreview.com/article/eu-digital-omnibus-ai-enters-force"
+    },
+    {
+     "label": "RN Collins, Why Source Provenance Is Governance Infrastructure (page header \"Article six of twelve\")",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/why-source-provenance-is-governance-infrastructure"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: an office date stamp with a red handle resting on a worn blue stamp pad on a desk",
+     "credit": "Photo: Jiří Sedláček",
+     "url": "https://commons.wikimedia.org/wiki/File:Czech_office_time_stamp_with_inkpillow.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2a",
+     "what": "The entrance of the Government Accountability Office Building at 441 G Street NW in Washington, D.C., with the building name above the doors",
+     "credit": "Photo: ajay_suresh",
+     "url": "https://commons.wikimedia.org/wiki/File:US_Government_Accountability_Office_(GAO)_(53840039221).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2b",
+     "what": "The General Accounting Office Building, headquarters of the U.S. Government Accountability Office, at 441 G Street NW in Washington, D.C., seen from a corner",
+     "credit": "Photo: AgnosticPreachersKid",
+     "url": "https://commons.wikimedia.org/wiki/File:General_Accounting_Office_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: rows of black server cabinets in a bright machine room at GIP Networks",
+     "credit": "Photo: Acirmandello",
+     "url": "https://commons.wikimedia.org/wiki/File:GIP_Servers.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: three wire inbox trays stacked on an office desk and filled with loose papers, with headphones and a phone beside them",
+     "credit": "Photo: Khairil Yusof",
+     "url": "https://commons.wikimedia.org/wiki/File:Inbox_trays.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a wall of wooden card catalog drawers with brass label holders at the John Rylands Library in Manchester",
+     "credit": "Photo: Alicia Fagerving",
+     "url": "https://commons.wikimedia.org/wiki/File:Card_catalog_John_Rylands_Library_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: an eroded cut bank on the southern coast of the Sea of Azov, Taman Peninsula, Russia, showing stacked layers of sedimentary rock",
+     "credit": "Photo: AlixSaz",
+     "url": "https://commons.wikimedia.org/wiki/File:Layers_of_sedimentary_rock_formed_on_the_earth's_surface._5096.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: bound account ledgers stacked on a shelf in the archive of the Moravian settlement at Kleinwelka, Germany",
+     "credit": "Photo: Derbrauni",
+     "url": "https://commons.wikimedia.org/wiki/File:Hauptbuch_Schwesternhaus_Kleinwelka_(4).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: an open drawer of pinned insect specimens in white trays at the Bohart Museum of Entomology, University of California, Davis",
+     "credit": "Photo: Daderot",
+     "url": "https://commons.wikimedia.org/wiki/File:Collection_drawer_-_Bohart_Museum_of_Entomology_-_University_of_California,_Davis_-_DSC03332.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 7c",
+     "what": "Illustrative photo: a Brother Deluxe 660TR typewriter with a correction feature and a sheet loaded in the platen",
+     "credit": "Photo: Freediving-beava",
+     "url": "https://commons.wikimedia.org/wiki/File:Brother_660TR_Correction.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a cross section of a cut log with its annual growth rings, photographed in the dendrochronology laboratory of the Dutch Cultural Heritage Agency",
+     "credit": "Photo: Kris Roderburg",
+     "url": "https://commons.wikimedia.org/wiki/File:Blok_hout_met_jaarringen_-_Unknown_-_20533996_-_RCE.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: the Berlaymont building in Brussels, seat of the European Commission, with EU flags in front",
+     "credit": "Photo: Euro Pictures",
+     "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_2022.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: the base of an old English 4 oz weight stamped with its maker's name and town, with calibration stamps",
+     "credit": "Photo: HelgeRieder",
+     "url": "https://commons.wikimedia.org/wiki/File:English_weight_with_calibration_stamps_(1).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: a hardboard clipboard with a steel clip against a white background",
+     "credit": "Photo: Evan-amos",
+     "url": "https://commons.wikimedia.org/wiki/File:Wood-clipboard.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: rows of gray archive boxes with paper labels on shelving in the Generallandesarchiv Karlsruhe, photographed in 2024",
+     "credit": "Photo: Entbert",
+     "url": "https://commons.wikimedia.org/wiki/File:Karlsruhe_Generallandesarchiv_2024-08-03_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10c",
+     "what": "Illustrative photo: orange and green labeled document binders lined up on an office shelf",
+     "credit": "Photo: Shixart1985",
+     "url": "https://commons.wikimedia.org/wiki/File:Collection_of_colorful_binders_on_a_shelf_for_storing_documents_in_an_office_setting.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-12",
+   "date": "2026-10-18",
+   "id": "PM-12",
+   "title": "How Regulatory Categories Conceal Scientific Uncertainty",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/how-regulatory-categories-conceal-scientific-uncertainty"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Federal Register, DOJ/DEA, Schedules of Controlled Substances: Rescheduling of Marijuana, notice of proposed rulemaking, 89 FR 44597 (May 21, 2024), document 2024-11137, A.G. Order 5931-2024",
+     "url": "https://www.federalregister.gov/documents/2024/05/21/2024-11137/schedules-of-controlled-substances-rescheduling-of-marijuana"
+    },
+    {
+     "label": "Federal Register, DEA, notice of hearing on proposed rulemaking, 91 FR 22777 (April 28, 2026), document 2026-08177, A.G. Order 6753-2026",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08177/schedules-of-controlled-substances-rescheduling-of-marijuana"
+    },
+    {
+     "label": "Federal Register, DEA, notice of hearing withdrawal, 91 FR 22778 (April 28, 2026), document 2026-08178, A.G. Order 6752-2026",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08178/schedules-of-controlled-substances-rescheduling-of-marijuana-withdrawal"
+    },
+    {
+     "label": "Federal Register, final rule, Rescheduling of FDA-Approved Products Containing Marijuana From Schedule I to Schedule III, 91 FR 22714 (April 28, 2026), document 2026-08176, effective April 28, 2026",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08176/schedules-of-controlled-substances-rescheduling-of-food-and-drug-administration-approved-products"
+    },
+    {
+     "label": "7 U.S.C. 1639o (hemp definition), 2024 edition, GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title7/html/USCODE-2024-title7-chap38-subchapVII-sec1639o.htm"
+    },
+    {
+     "label": "21 U.S.C. 811(c) and 812 (Schedule I), 2024 edition, GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title21/html/USCODE-2024-title21-chap13-subchapI-partB-sec811.htm"
+    },
+    {
+     "label": "7 CFR 990.1, Meaning of terms, eCFR version of January 1, 2024",
+     "url": "https://www.ecfr.gov/current/title-7/subtitle-B/chapter-I/subchapter-B/part-990/subpart-A/section-990.1"
+    },
+    {
+     "label": "USDA AMS, Laboratory Testing Guidelines, U.S. Domestic Hemp Production Program",
+     "url": "https://www.ams.usda.gov/node/42235"
+    },
+    {
+     "label": "FDA, FDA and Cannabis: Research and Drug Approval Process; and FDA Regulation of Cannabis and Cannabis-Derived Products (Q&A)",
+     "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-cannabis-research-and-drug-approval-process"
+    },
+    {
+     "label": "National Academies, The Health Effects of Cannabis and Cannabinoids (2017), evidence-level definitions",
+     "url": "https://nap.nationalacademies.org/read/24625/chapter/2"
+    },
+    {
+     "label": "CRS In Focus IF13136, Changes to the Statutory Definition of Hemp (updated September 28, 2026)",
+     "url": "https://www.everycrsreport.com/files/2026-09-28_IF13136_aa36fad7d69289127cbbbafef54e2aede431b2c4.html"
+    },
+    {
+     "label": "Federal Register, DEA, Controls To Enhance the Cultivation of Marihuana for Research, 85 FR 16292 (proposed, March 23, 2020) and 85 FR 82333 (final, December 18, 2020)",
+     "url": "https://www.federalregister.gov/documents/2020/12/18"
+    },
+    {
+     "label": "Law-firm and press reports on the hearing (Morgan Lewis, September 24, 2026; NORML, January 14, 2025). Secondary.",
+     "url": "https://www.morganlewis.com/pubs/2026/09/high-time-for-a-change-post-dea-hearing-broader-marijuana-rescheduling-questions-remain"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the front of the Jamie L. Whitten Building, headquarters of the U.S. Department of Agriculture in Washington, D.C., with the department's name cut into the facade",
+     "credit": "Photo: JSquish",
+     "url": "https://commons.wikimedia.org/wiki/File:Jamie_L._Whitten_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a gas chromatograph with its autosampler on a laboratory bench, a general-purpose chemical analysis instrument",
+     "credit": "Photo: W.Nitsch",
+     "url": "https://commons.wikimedia.org/wiki/File:Gaschromatograph_(1).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: two levels of stacks filled with bound law volumes in the Indiana Supreme Court Law Library",
+     "credit": "Photo: Dominic",
+     "url": "https://commons.wikimedia.org/wiki/File:Indiana_Supreme_Court_Law_Library_stacks.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: the Drug Enforcement Administration headquarters at 700 Army Navy Drive in Arlington, Virginia, exterior only",
+     "credit": "Photo: Thomson200",
+     "url": "https://commons.wikimedia.org/wiki/File:700_Army_Navy_Drive_April_2019.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5a",
+     "what": "Illustrative photo: printed Federal Register documents and a Code of Federal Regulations booklet, photographed in 1987 and released by the Massachusetts Department of Environmental Protection",
+     "credit": "Source: MassDEP, via Flickr",
+     "url": "https://commons.wikimedia.org/wiki/File:An_example_of_US_Federal_Environmental_Regulations,_1987.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5b",
+     "what": "The words Office of the Attorney General carved on an exterior wall of the Robert F. Kennedy Department of Justice Building in Washington, D.C., photographed in 2007",
+     "credit": "Photo: Gregory Varnum",
+     "url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_-_Office_of_AG_signage_-_2723.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5c",
+     "what": "Illustrative photo: office towers in the Pentagon City neighborhood of Arlington, Virginia, photographed in 2010",
+     "credit": "Photo: AgnosticPreachersKid",
+     "url": "https://commons.wikimedia.org/wiki/File:Office_buildings_in_Pentagon_City.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "The Hubert H. Humphrey Building at the foot of Capitol Hill in Washington, D.C., headquarters of the Department of Health and Human Services, photographed by Carol M. Highsmith in 2012",
+     "credit": "Photo: Carol M. Highsmith",
+     "url": "https://commons.wikimedia.org/wiki/File:Hubert_H._Humphrey_Building,_located_at_the_foot_of_Capitol_Hill,_Washington,_D.C_LCCN2013634632.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the Iowa State Capitol in Des Moines, exterior, photographed by Carol M. Highsmith",
+     "credit": "Photo: Carol M. Highsmith",
+     "url": "https://commons.wikimedia.org/wiki/File:Capitol_building,_Des_Moines,_Iowa_LCCN2011633424.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: rows of wooden card catalog drawers with brass pulls at the University of Illinois law library",
+     "credit": "Photo: University of Illinois Library",
+     "url": "https://commons.wikimedia.org/wiki/File:Card_Catalog_at_the_Law_Library_(13433614425).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "The Robert F. Kennedy Department of Justice Building in Washington, D.C., exterior, in autumn",
+     "credit": "Photo: VOA",
+     "url": "https://commons.wikimedia.org/wiki/File:US_Department_of_Justice_building_with_road.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: the National Archives Building in Washington, D.C., with flags hung between its columns, photographed in 2021",
+     "credit": "Photo: Kurt Kaiser",
+     "url": "https://commons.wikimedia.org/wiki/File:National_Archives_Building_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: a blue clipboard on a white desk beside a push-button telephone, part of an exhibition set at a 2025 anime convention in Taoyuan",
+     "credit": "Photo: Solomon203",
+     "url": "https://commons.wikimedia.org/wiki/File:Kameari_Park_Front_Police_Box_telephone_and_clipboards_20250706a.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: a Mettler AJ100 laboratory balance with a glass draft shield and a small brush on top, photographed in 2010",
+     "credit": "Photo: Karelj",
+     "url": "https://commons.wikimedia.org/wiki/File:Balance_Mettler_AJ100.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-13",
+   "date": "2026-10-18",
+   "id": "PM-13",
+   "title": "The Windbreak Decree",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/the-windbreak-decree"
+   },
+   "research": [
+    {
+     "label": "Staatsblad 1958, 485: Besluit van 20 oktober 1958 tot aanwijzing van gevallen, waarin het verbod, als bedoeld in artikel 3, eerste lid, onder B, der Opiumwet niet geldt",
+     "url": "https://zoek.officielebekendmakingen.nl/stb-1958-485.pdf"
+    },
+    {
+     "label": "Staatsblad 1976, 424: Wet van 23 juni 1976 tot wijziging van de Opiumwet (issued August 19, 1976), art. 3, art. 11, lijst II",
+     "url": "https://zoek.officielebekendmakingen.nl/stb-1976-424.pdf"
+    },
+    {
+     "label": "Staatsblad 1976, 499: Besluit van 1 oktober 1976, entry into force November 1, 1976",
+     "url": "https://zoek.officielebekendmakingen.nl/stb-1976-499.pdf"
+    },
+    {
+     "label": "Staatsblad 1976, 509: Besluit van 18 oktober 1976 (art. 4 seed, fiber or windbreak hemp; art. 5 repeals Stb. 1958, 485)",
+     "url": "https://zoek.officielebekendmakingen.nl/stb-1976-509.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Nationaal Archief, Fotocollectie Anefo 2.24.01.05, via Wikimedia Commons file records (CC0)",
+     "url": "https://commons.wikimedia.org/wiki/Category:Cannabis_in_the_Netherlands"
+    },
+    {
+     "label": "Advocate General Van Dorst, Hoge Raad May 31, 1994, NJ 1994, 674 (quotes the 1956 definition, memorie van antwoord nr. 7 and MvT nr. 3 p. 17)",
+     "url": "https://hennepadvocaat-hennepkwekerij.nl/hennepstekken-strafbaarstelling"
+    },
+    {
+     "label": "Ons Amsterdam, \"De Wietboot,\" May 18, 2021",
+     "url": "https://onsamsterdam.nl/artikelen/de-wietboot"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Paleis van Justitie at Prinsengracht 436 in Amsterdam, seen across the canal",
+     "credit": "Photo: Sergé Technau",
+     "url": "https://commons.wikimedia.org/wiki/File:Geouw_met_midden-_en_hoekrisalieten,_heeft_corintische_pilasters_en_een_kroonlijst_met_attiek_-_Amsterdam_-_20408834_-_RCE.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The front facade of Paleis Soestdijk in Baarn across the lawn, with the curved colonnade wing at the right",
+     "credit": "Photo: Jan van Galen, RCE",
+     "url": "https://commons.wikimedia.org/wiki/File:Overzicht_van_de_voorgevel_van_het_paleis_-_Soestdijk_-_20423265_-_RCE.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the empty plenary hall of the Tweede Kamer in The Hague as it looks today",
+     "credit": "Photo: Husky",
+     "url": "https://commons.wikimedia.org/wiki/File:Plenaire_zaal_Tweede_Kamer_-_landschap.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: bound volumes of the United States Statutes at Large on a law library shelf",
+     "credit": "Photo: Coolcaesar",
+     "url": "https://commons.wikimedia.org/wiki/File:US_Statutes_at_Large.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: houseboats moored along the Nieuwe Vaart canal in Amsterdam, with the Oosterkerk tower at right",
+     "credit": "Photo: Jvhertum",
+     "url": "https://commons.wikimedia.org/wiki/File:Oostenburgergracht_amsterdam.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: an ordinary enamel kitchen colander photographed on a dark background",
+     "credit": "Photo: FAP",
+     "url": "https://commons.wikimedia.org/wiki/File:Blue_colander.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The empty chamber of the Eerste Kamer, the Dutch Senate, in The Hague, with green-covered desks under a gilded painted ceiling, photographed after its restoration",
+     "credit": "Photo: Gerard Dukker/RCE",
+     "url": "https://commons.wikimedia.org/wiki/File:Interieur,_overzicht_vergaderzaal_na_restauratie_-_%27s-Gravenhage_-_20329176_-_RCE.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: bound volumes of the Statutes of Canada on a law library shelf",
+     "credit": "Photo: Coolcaesar",
+     "url": "https://commons.wikimedia.org/wiki/File:Statutes_of_Canada.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: gabled canal houses along an Amsterdam canal with a motor boat moored at the quay",
+     "credit": "Photo: Ank Kumar",
+     "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_Canal_houseboats_(Ank_Kumar)_12.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: the Koninklijke Bibliotheek in The Hague, the Dutch national library, with its name in large letters across the upper facade",
+     "credit": "Photo: Steven Lek",
+     "url": "https://commons.wikimedia.org/wiki/File:Koninklijke_bibliotheek_building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: the empty historic reading room of the University and State Library of Tyrol in Innsbruck, Austria, with rows of long tables, wrought-iron galleries and shelves of bound volumes",
+     "credit": "Photo: Heschoe",
+     "url": "https://commons.wikimedia.org/wiki/File:Lesesaal_ULB-Tirol.JPG",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-14",
+   "date": "2026-10-18",
+   "id": "PM-14",
+   "title": "Beyond Personal Software: Your AI Is Becoming a Private Institution",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/beyond-personal-software-your-ai-is-becoming-a-private-institution"
+   },
+   "research": [
+    {
+     "label": "In re OpenAI, Inc. Copyright Infringement Litigation, order of May 13, 2025",
+     "url": "https://blogs.duanemorris.com/classactiondefense/wp-content/uploads/sites/56/2025/10/In-re-OpenAI-Inc.-Copyright-Infringement-Litig.-5.13.25-Order-ECF-No.-551.pdf"
+    },
+    {
+     "label": "Same, order of May 16, 2025 (ECF 559)",
+     "url": "https://blogs.duanemorris.com/classactiondefense/wp-content/uploads/sites/56/2025/10/In-re-Open-AI-Inc.-Copyright-Infringement-Litig.-5.16.25-Order-ECF-No.-559.pdf"
+    },
+    {
+     "label": "Same, stipulation and order of October 9, 2025 (docket stamp: Document 922)",
+     "url": "https://blogs.duanemorris.com/classactiondefense/wp-content/uploads/sites/56/2025/10/In-re-Open-AI-Inc.-Copyright-Infringement-Litig.-10.9.25-Order-ECF-No.-992.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "OpenAI, Operator System Card, January 23, 2025",
+     "url": "https://openai.com/index/operator-system-card/"
+    },
+    {
+     "label": "OpenAI, Introducing Operator, January 23, 2025 (banner July 17, 2025)",
+     "url": "https://openai.com/index/introducing-operator/"
+    },
+    {
+     "label": "OpenAI, Introducing ChatGPT agent, July 17, 2025",
+     "url": "https://openai.com/index/introducing-chatgpt-agent/"
+    },
+    {
+     "label": "OpenAI Help Center, ChatGPT agent (11752874)",
+     "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent"
+    },
+    {
+     "label": "OpenAI Help Center, ChatGPT release notes, Introducing ChatGPT Work, July 9, 2026",
+     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+    },
+    {
+     "label": "OpenAI Help Center, ChatGPT Work and Codex (20001275)",
+     "url": "https://help.openai.com/en/articles/20001275/"
+    },
+    {
+     "label": "Apple Support, Apple Intelligence and privacy on iPhone",
+     "url": "https://support.apple.com/guide/iphone/apple-intelligence-and-privacy-iphe3f499e0e/ios"
+    },
+    {
+     "label": "Apple, Apple Intelligence & Privacy",
+     "url": "https://www.apple.com/legal/privacy/data/en/intelligence-engine/"
+    },
+    {
+     "label": "NIST, AI Risk Management Framework 1.0 Core",
+     "url": "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"
+    },
+    {
+     "label": "OpenAI Help Center, Memory FAQ",
+     "url": "https://help.openai.com/en/articles/8590148-memory-faq"
+    },
+    {
+     "label": "OpenAI Help Center, Exporting your ChatGPT history and data",
+     "url": "https://help.openai.com/en/articles/7260999-how-do-i-export-my-chatgpt-history-and-data"
+    },
+    {
+     "label": "Regulation (EU) 2016/679 (GDPR), EUR-Lex",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679"
+    },
+    {
+     "label": "Regulation (EU) 2024/1689 (AI Act), EUR-Lex",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689"
+    },
+    {
+     "label": "Regulation (EU) 2026/1744 (Digital Omnibus on AI), EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng"
+    },
+    {
+     "label": "FTC press release, September 11, 2025",
+     "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-launches-inquiry-ai-chatbots-acting-companions"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a hand holding a black smartphone seen from the back, nothing on the screen visible",
+     "credit": "Photo: Dennis Cortés",
+     "url": "https://commons.wikimedia.org/wiki/File:Black_smartphone_in_hand_(Unsplash).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: an empty concierge desk in a hotel lobby, with a lamp, a city map on an easel and two chairs, at the Hotel Monterey in Kyoto",
+     "credit": "Photo: J o",
+     "url": "https://commons.wikimedia.org/wiki/File:Hotel_Monterey_Kyoto_1F_concierge_desk_20130201-001.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a pile of official paper forms spread on a wooden desk",
+     "credit": "Photo: Skiret girdet njozet",
+     "url": "https://commons.wikimedia.org/wiki/File:Bureaucracy_(Sami_languages).JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: an empty brass-and-glass theater ticket booth in the vestibule of the Riviera Theatre in Chicago",
+     "credit": "Photo: Warren LeMay",
+     "url": "https://commons.wikimedia.org/wiki/File:Ticket_Booth,_Vestibule,_Riviera_Theatre,_Racine_Avenue_and_Broadway,_Uptown,_Chicago,_IL_(52523195954).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a red Turn-O-Matic take-a-number dispenser beside a lit sign reading NU BETJANAS 80, the Swedish for now serving 80",
+     "credit": "Photo: Holger Ellgaard",
+     "url": "https://commons.wikimedia.org/wiki/File:Turn-o-matic_A%26E.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6a",
+     "what": "Illustrative photo: a close view of a heap of red shredded paper, the kind sold as gift-basket filler",
+     "credit": "Photo: Aldude999",
+     "url": "https://commons.wikimedia.org/wiki/File:Shredded_Paper.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 6b",
+     "what": "The tower of the Daniel Patrick Moynihan United States Courthouse at 500 Pearl Street in Manhattan, home of the Southern District of New York, seen between older courthouse buildings",
+     "credit": "Photo: Ajay Suresh",
+     "url": "https://commons.wikimedia.org/wiki/File:U.S._District_Court_-_Southern_District_of_New_York_(48129021526).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the leather label on the green cover of a bank ledger, Grand-Livre X of Passavant & Cie in Basel, kept at the Swiss Economic Archives",
+     "credit": "Photo: Loup2277",
+     "url": "https://commons.wikimedia.org/wiki/File:Grand_Livre_Passavant_%26_Cie.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the Berlaymont building in Brussels, headquarters of the European Commission, seen from the front with its curved glass wings",
+     "credit": "Photo: Andersen Pecorone",
+     "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_2015.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: a wooden rubber stamp resting on an open ink pad",
+     "credit": "Photo: Alter Fritz",
+     "url": "https://commons.wikimedia.org/wiki/File:Stempelkissen_Geha_(Alter_Fritz).JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a hooded wall clock made in London around 1660, catalogued by the Metropolitan Museum of Art as a clock with calendar, photographed on a grey ground",
+     "credit": "Source: Metropolitan Museum of Art",
+     "url": "https://commons.wikimedia.org/wiki/File:Hooded_wall_clock_with_calendar_MET_DP340884.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: a turned brass doorknob on an old wooden door in Quebec City",
+     "credit": "Photo: Wilfredor",
+     "url": "https://commons.wikimedia.org/wiki/File:Antique_door_handle_in_Quebec_City.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: an orange cockpit voice recorder displayed at the National Electronics Museum in Linthicum, Maryland",
+     "credit": "Photo: Daderot",
+     "url": "https://commons.wikimedia.org/wiki/File:Black_Box_Cockpit_Voice_Recorder,_Model_AV557D,_Sunderstrand_Data_Control,_Inc.,_c._1990s_-_National_Electronics_Museum_-_DSC00090.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 10c",
+     "what": "Illustrative photo: the open back of a moving truck loaded with cardboard boxes, a lamp and furniture",
+     "credit": "Photo: brownpau",
+     "url": "https://commons.wikimedia.org/wiki/File:An_Overview_of_Moving_Companies_and_Their_Use_of_Moving_Boxes.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-15",
+   "date": "2026-10-18",
+   "id": "PM-15",
+   "title": "Luxury Agents: The Next Status Symbol Is Protected Attention",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/luxury-agents-the-next-status-symbol-is-protected-attention"
+   },
+   "research": [
+    {
+     "label": "17 U.S.C. section 105",
+     "url": "https://www.law.cornell.edu/uscode/text/17/105"
+    },
+    {
+     "label": "Harvard Kennedy School CID, Scarcity",
+     "url": "https://www.hks.harvard.edu/centers/cid/publications/books/scarcity-why-having-too-little-means-so-much"
+    },
+    {
+     "label": "Princeton Alumni Weekly",
+     "url": "https://paw.princeton.edu/article/psychology-why-decisions-suffer-when-we-go-without"
+    },
+    {
+     "label": "California Code of Regulations, Title 11, section 7004",
+     "url": "https://www.law.cornell.edu/regulations/california/11-CCR-7004"
+    }
+   ],
+   "other": [
+    {
+     "label": "Marriott, St. Regis Butler Service",
+     "url": "https://st-regis.marriott.com/culture/butler-service/"
+    },
+    {
+     "label": "Marriott, St. Regis Bangkok Butler Service",
+     "url": "https://www.marriott.com/en-us/hotels/bkkxr-the-st-regis-bangkok/overview/butler-service/"
+    },
+    {
+     "label": "U.S. Bureau of Labor Statistics, OEWS May 2025, news release USDL-26-0725, May 15, 2026, Table 1",
+     "url": "https://www.bls.gov/news.release/ocwage.t01.htm"
+    },
+    {
+     "label": "Les Clefs d'Or, history",
+     "url": "https://www.lesclefsdor.org/about/history/"
+    },
+    {
+     "label": "St. Regis, history and heritage",
+     "url": "https://st-regis.marriott.com/culture/history-heritage/"
+    },
+    {
+     "label": "Hilton, Waldorf Astoria Chicago amenities",
+     "url": "https://www.hilton.com/en/hotels/chiwawa-waldorf-astoria-chicago/amenities/"
+    },
+    {
+     "label": "OpenAI, ChatGPT agent help page",
+     "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent"
+    },
+    {
+     "label": "Google, Personal Intelligence, January 14, 2026",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/"
+    },
+    {
+     "label": "Apple Support, Apple Intelligence and privacy",
+     "url": "https://support.apple.com/guide/iphone/apple-intelligence-and-privacy-iphe3f499e0e/ios"
+    },
+    {
+     "label": "Apple Security Research, Private Cloud Compute, June 10, 2024",
+     "url": "https://security.apple.com/blog/private-cloud-compute/"
+    },
+    {
+     "label": "Apple Security Research, security research on Private Cloud Compute, October 24, 2024",
+     "url": "https://security.apple.com/blog/pcc-security-research/"
+    },
+    {
+     "label": "Russell Sage Foundation, Administrative Burden, December 2018",
+     "url": "https://www.russellsage.org/publications/book/administrative-burden"
+    },
+    {
+     "label": "Niskanen Center, How administrative burdens undermine public programs",
+     "url": "https://www.niskanencenter.org/how-administrative-burdens-undermine-public-programs/"
+    },
+    {
+     "label": "OWASP, LLM01 Prompt Injection",
+     "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/"
+    },
+    {
+     "label": "Anthropic, mitigating prompt injections in browser use, November 24, 2025",
+     "url": "https://www.anthropic.com/research/prompt-injection-defenses"
+    },
+    {
+     "label": "FTC, September 15, 2022 press release on Bringing Dark Patterns to Light",
+     "url": "https://www.ftc.gov/news-events/news/press-releases/2022/09/ftc-report-shows-rise-sophisticated-dark-patterns-designed-trick-trap-consumers"
+    },
+    {
+     "label": "EU Digital Services Act, Article 25",
+     "url": "https://springlex.eu/en/packages/dsa/dsa-regulation/article-25/"
+    },
+    {
+     "label": "Google, Gemini Drops, March 2026 (March 27, 2026)",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-updates-march-2026/"
+    },
+    {
+     "label": "American Express, Platinum Card fee pages",
+     "url": "https://www.americanexpress.com/en-us/credit-cards/credit-intel/platinum-fee/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: an empty hotel concierge and reception desk in a lobby with a lit logo wall",
+     "credit": "Photo: Marc Averette",
+     "url": "https://commons.wikimedia.org/wiki/File:Grand_Doubletree_concierge.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: the glass entrance of the Virgin Australia airline lounge at Perth Airport, with the lounge name on the wall",
+     "credit": "Photo: Calistemon",
+     "url": "https://commons.wikimedia.org/wiki/File:Virgin_Australia_Lounge_Perth_Airport_Terminal_1_-_Domestic,_June_2022_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a silver coffee pot, cream pitcher and serving tray made by Gorham around 1905, photographed against a grey backdrop",
+     "credit": "Source: Cooper Hewitt (Gorham, c. 1905)",
+     "url": "https://commons.wikimedia.org/wiki/File:Coffee_Service_(USA),_ca._1905_(CH_18449621).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Illustrative photo: an old key board with many keys hanging on hooks, from a guest house, shown at the Museum Humpisquartier in Ravensburg",
+     "credit": "Photo: Andreas Praefcke",
+     "url": "https://commons.wikimedia.org/wiki/File:Schl%C3%BCsselbrett_Pension_Hindelang_Ravensburg_MHQ.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "The Postal Square Building at 2 Massachusetts Avenue NE in Washington, D.C., the building that houses the Bureau of Labor Statistics, seen from the corner with its marble facade and an inscription carved on the cornice",
+     "credit": "Photo: AgnosticPreachersKid",
+     "url": "https://commons.wikimedia.org/wiki/File:Postal_Square_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: two desk telephones, one rotary and one push-button, on a wooden reception desk with a lamp and flowers at Club 33 in Disneyland",
+     "credit": "Photo: Patrick Pelletier",
+     "url": "https://commons.wikimedia.org/wiki/File:Club_33_2013_27.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a person seen from the chin down holding a smartphone with its back toward the camera, over an open notebook",
+     "credit": "Photo: Shixart1985",
+     "url": "https://commons.wikimedia.org/wiki/File:Woman_sits_on_a_chair_holding_a_smartphone_and_a_notebook_closeup.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a hotel Do Not Disturb hanger on a door handle against a dark wooden door",
+     "credit": "Photo: Raysonho",
+     "url": "https://commons.wikimedia.org/wiki/File:DoNotDisturbSign.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "Illustrative photo: empty armchairs around low round tables in the Aspire Executive Lounge at Perth Airport",
+     "credit": "Photo: Bahnfrend",
+     "url": "https://commons.wikimedia.org/wiki/File:Aspire_Executive_Lounge_Perth_Airport,_2026_(11).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "Illustrative photo: the entrance of the former American Express Company building at 65 Broadway in Manhattan, with the company name carved above the arched doorways",
+     "credit": "Photo: Beyond My Ken",
+     "url": "https://commons.wikimedia.org/wiki/File:American_Express_Company_Building_65_Broadway_entrance.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: an empty carpeted corridor with paneled doors at the Hotel Esplanade in Stockholm",
+     "credit": "Photo: JIP",
+     "url": "https://commons.wikimedia.org/wiki/File:Corridor_at_Hotel_Esplanade_Stockholm.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: an aerial view of Apple Park, Apple's headquarters in Cupertino, California, taken from a drone in 2022",
+     "credit": "Photo: InvadingInvader",
+     "url": "https://commons.wikimedia.org/wiki/File:Apple_Park_2022.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: the lit entrance of the Amantaka luxury hotel in Luang Prabang at blue hour",
+     "credit": "Photo: Basile Morin",
+     "url": "https://commons.wikimedia.org/wiki/File:Entrance_of_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: an English silver salver from 1759 and a small silver salt cellar from 1803 lying on a wooden floor, both hallmarked and both showing the small scrapes an assay office took to test the metal",
+     "credit": "Photo: Grenadille",
+     "url": "https://commons.wikimedia.org/wiki/File:English_Hallmarked_silver_-_Assay-scrapes.jpg",
+     "card": false
+    }
+   ]
+  }
+ ]
+}

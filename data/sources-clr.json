@@ -1,0 +1,1175 @@
+{
+ "generated": "2026-10-10",
+ "host": "rn-selected-work.vercel.app",
+ "posts": [
+  {
+   "slug": "s3-01",
+   "date": "2026-10-18",
+   "id": "CLR-S3-01",
+   "title": "The ADA’s Illegal Drug Use Exclusion and State-Licensed Psilocybin Services",
+   "series": "Cannabis Law Report",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Cannabis Law Report",
+    "url": "https://cannabislaw.report/rn-collins-series-3-no-1-the-adas-illegal-drug-use-exclusion-and-state-licensed-psilocybin-services-where-disclosure-and-protection-may-diverge/"
+   },
+   "research": [
+    {
+     "label": "42 U.S.C. 12114 and 12111, Cornell LII",
+     "url": "https://www.law.cornell.edu/uscode/text/42/12114"
+    },
+    {
+     "label": "21 U.S.C. 812, Schedules of controlled substances (Schedule I (c)(15) psilocybin)",
+     "url": "https://www.law.cornell.edu/uscode/text/21/812"
+    },
+    {
+     "label": "49 C.F.R. 382.213, Controlled substance use",
+     "url": "https://www.law.cornell.edu/cfr/text/49/382.213"
+    },
+    {
+     "label": "Colorado Natural Medicine Health Act, initiative text (2022), section 12-170-109",
+     "url": "https://www.sos.state.co.us/pubs/elections/Initiatives/titleBoard/filings/2021-2022/58Final.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "DOJ, The ADA and Opioid Use Disorder (definition of current illegal use)",
+     "url": "https://www.ada.gov/resources/opioid-use-disorder/"
+    },
+    {
+     "label": "Federal Register, 91 FR 12308 (March 13, 2026), Authorized Testing Panels",
+     "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04981/mandatory-guidelines-for-federal-workplace-drug-testing-programs-authorized-testing-panels"
+    },
+    {
+     "label": "Federal Register, 91 FR 22714 (April 28, 2026), final rule on FDA-approved and state-medical marijuana",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08176/schedules-of-controlled-substances-rescheduling-of-food-and-drug-administration-approved-products"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "President George H. W. Bush signs the Americans with Disabilities Act of 1990 on the South Lawn of the White House, July 26, 1990, seated at a table with disability advocates beside him",
+     "credit": "Photo: White House Photo Office",
+     "url": "https://commons.wikimedia.org/wiki/File:President_George_H._W._Bush_signs_into_law_the_Americans_with_Disabilities_Act_of_1990.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "An office tower at 700 Army Navy Drive in Pentagon City, Arlington, Virginia, photographed from street level in 2019",
+     "credit": "Photo: Thomson200",
+     "url": "https://commons.wikimedia.org/wiki/File:700_Army_Navy_Drive_April_2019_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The former Woodward & Lothrop Service Warehouse at 131 M Street NE in Washington, D.C., a 1937 Streamline Moderne building photographed in 2008",
+     "credit": "Photo: AgnosticPreachersKid",
+     "url": "https://commons.wikimedia.org/wiki/File:Woodward_and_Lothrop_Service_Warehouse.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: bound red volumes of the United States Code Annotated on a law library shelf in San Francisco, photographed in 2009",
+     "credit": "Photo: Coolcaesar",
+     "url": "https://commons.wikimedia.org/wiki/File:Uscatitle11.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "5600 Fishers Lane in Rockville, Maryland, seen from the access road in 2020",
+     "credit": "Photo: Antony-22",
+     "url": "https://commons.wikimedia.org/wiki/File:5600_Fishers_Lane_2020a.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the Wilbur Wright Federal Building at 600 Independence Avenue SW in Washington, D.C., one of two headquarters buildings of the Federal Aviation Administration, photographed in 2009",
+     "credit": "Photo: MBisanz",
+     "url": "https://commons.wikimedia.org/wiki/File:DOT-FAA_Headquarters_by_Matthew_Bisanz.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The Ralph L. Carr Colorado Judicial Center in Denver, photographed in 2014",
+     "credit": "Photo: Wikigringo",
+     "url": "https://commons.wikimedia.org/wiki/File:Colorado_Court_of_Appeals_2014.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "The Lewis F. Powell Jr",
+     "credit": "Photo: Acroterion",
+     "url": "https://commons.wikimedia.org/wiki/File:Richmond_Federal_Appeals_Court_and_skyline_VA2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "The west front of the United States Supreme Court building in Washington, D.C., photographed in March 2019",
+     "credit": "Photo: Marielam1",
+     "url": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_the_U.S._Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The exterior door of the Robert F. Kennedy Department of Justice Building in Washington, D.C., photographed in 2025",
+     "credit": "Photo: Sdkb",
+     "url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building_exterior_door.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: an empty reception desk with a computer, printer and telephone in a company's management offices in York, Pennsylvania, photographed in 2011 for a USDA program",
+     "credit": "Source: U.S. Dept. of Agriculture",
+     "url": "https://commons.wikimedia.org/wiki/File:20110420-RD-LSC-0350_-_Flickr_-_USDAgov.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "The East Front of the United States Capitol at sunrise, January 2022, in an official Architect of the Capitol photograph",
+     "credit": "Source: Architect of the Capitol",
+     "url": "https://commons.wikimedia.org/wiki/File:East_Front_of_the_U.S._Capitol_at_Sunrise_(51854492373).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: the Oregon State Capitol in Salem at night in winter, topped by the gilded Pioneer statue, photographed in 2010 by the Oregon State Archives",
+     "credit": "Photo: Gary Halvorson",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_State_Capitol,_Salem_-_DPLA_-_2fefafc27ed2565ef195c07a683ee36a.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: the main entrance of the Gus J. Solomon United States Courthouse in Portland, Oregon, with an eagle emblem above the doors, photographed in 2011",
+     "credit": "Photo: Steve Morgan",
+     "url": "https://commons.wikimedia.org/wiki/File:Gus_J._Solomon_U.S._Courthouse_-_main_entrance.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s3-02",
+   "date": "2026-10-18",
+   "id": "CLR-S3-02",
+   "title": "Patent Prior Art, Indigenous Knowledge, and the Nagoya Gap",
+   "series": "Cannabis Law Report",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Cannabis Law Report",
+    "url": "https://cannabislaw.report/rn-collins-series-3-no-2-patent-prior-art-indigenous-knowledge-and-the-nagoya-gap-where-the-america-invents-acts-prior-art-standard-may-reach-traditional-knowledge-in-the-psychedelic-indu/"
+   },
+   "research": [
+    {
+     "label": "35 U.S.C. 102 and 122, Cornell LII",
+     "url": "https://www.law.cornell.edu/uscode/text/35/102"
+    },
+    {
+     "label": "42 U.S.C. 1996a and 21 C.F.R. 1307.31",
+     "url": "https://www.law.cornell.edu/uscode/text/42/1996a"
+    },
+    {
+     "label": "Hofmann et al., Experientia 14:107 (1958), DOI 10.1007/BF02159243",
+     "url": "https://doi.org/10.1007/BF02159243"
+    }
+   ],
+   "other": [
+    {
+     "label": "USPTO, MPEP 2152 (no geographic limitation under AIA 102(a)(1))",
+     "url": "https://www.uspto.gov/web/offices/pac/mpep/s2152.html"
+    },
+    {
+     "label": "CBD Secretariat, Nagoya Protocol Parties list",
+     "url": "https://www.cbd.int/abs/nagoya-protocol/signatories/"
+    },
+    {
+     "label": "Regulation (EU) No 511/2014, Article 4",
+     "url": "https://www.legislation.gov.uk/eur/2014/511/article/4/data.htm?view=plain"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The glass-fronted atrium entrance of the Madison Building, headquarters of the United States Patent and Trademark Office in Alexandria, Virginia, seen across a lawn on a clear day",
+     "credit": "Photo: RadioFan",
+     "url": "https://commons.wikimedia.org/wiki/File:US_Patent_Office_main_building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2a",
+     "what": "Illustrative photo: a hazy view of Cerro Rabón, a flat-topped mountain of the Mazatec region of Oaxaca, Mexico, across the reservoir at San Pedro Ixcatlán, with rooftops in the foreground",
+     "credit": "Photo: Koffermejia",
+     "url": "https://commons.wikimedia.org/wiki/File:Vista_del_cerro_rab%C3%B3n_desde_San_Pedro_Ixcatl%C3%A1n,_Oaxaca.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2b",
+     "what": "Illustrative photo: a red and cream woven huipil, a tunic made of three joined strips with woven bird and diamond bands, photographed flat as a museum object by the Wereldmuseum",
+     "credit": "Source: Wereldmuseum",
+     "url": "https://commons.wikimedia.org/wiki/File:Collectie_Wereldmuseum,_RV-4880-190,_%27Huipil%27.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the lobby of the Public Search Facility inside the USPTO Madison Building in Alexandria, Virginia, with etched glass lettering in the foreground and the atrium beyond",
+     "credit": "Photo: Hamaxides",
+     "url": "https://commons.wikimedia.org/wiki/File:PSF_at_USPTO_Madison_Bldg.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Illustrative photo: the domed front entrance and brick wing of Thomas Jefferson High School for Science and Technology in Alexandria, Virginia, under a blue sky",
+     "credit": "Photo: HarbingerOfEntropy",
+     "url": "https://commons.wikimedia.org/wiki/File:Tjhsst_Photo.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Illustrative photo: the brick tower and columned entrance of the Albert V. Bryan United States Courthouse in Alexandria, Virginia, seat of the federal district court beside the USPTO. It stands for where a patent dispute could be litigated and is not the subject of the sentence",
+     "credit": "Photo: Antony-22",
+     "url": "https://commons.wikimedia.org/wiki/File:Albert_V._Bryan_Federal_Courthouse_2019.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: shelves of old leather-bound law volumes in the rare books section of the Indiana Supreme Court Law Library",
+     "credit": "Photo: Dominic",
+     "url": "https://commons.wikimedia.org/wiki/File:Indiana_Supreme_Court_Law_Library_rare_books_shelf.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the curved glass tower of the World Intellectual Property Organization headquarters in Geneva, Switzerland, with the OMPI WIPO sign, under a cloudy sky",
+     "credit": "Photo: Marek Ślusarczyk",
+     "url": "https://commons.wikimedia.org/wiki/File:067_World_Intellectual_Property_Organization_headquarters,_United_Nations_specialised_agency_in_Geneva.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: aisles of dark bound journal volumes with gold-lettered spines on library shelves",
+     "credit": "Photo: Kavitha G. Kana",
+     "url": "https://commons.wikimedia.org/wiki/File:Journal_Bound_volumes_on_the_Shelves.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The tall central atrium of the USPTO Madison Building in Alexandria, Virginia, with a large American flag hanging from the glass roof",
+     "credit": "Photo: Hamaxides",
+     "url": "https://commons.wikimedia.org/wiki/File:Interior_of_the_US_Patent_and_Trademark_Madison_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The twin towers and bridge of the Nagoya Congress Center in Nagoya, Japan, seen up a stepped plaza on a clear day",
+     "credit": "Photo: Lombroso",
+     "url": "https://commons.wikimedia.org/wiki/File:Nagoya_Congress_Center,_at_Atsuta-nishimachi,_Atsuta,_Nagoya_(2018-06-01)_08.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a side wing of the Nagoya Congress Center in Nagoya, Japan, with a blue sail-shaped clock sculpture and a raised walkway under a clear sky",
+     "credit": "Photo: Lombroso",
+     "url": "https://commons.wikimedia.org/wiki/File:Nagoya_Congress_Center,_at_Atsuta-nishimachi,_Atsuta,_Nagoya_(2018-06-01)_12.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11a",
+     "what": "Illustrative photo: the red brick front of the Howard T. Markey National Courts Building in Washington, D.C., seen through bare trees, home of the Federal Circuit",
+     "credit": "Photo: APK",
+     "url": "https://commons.wikimedia.org/wiki/File:Howard_T._Markey_National_Courts_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11b",
+     "what": "Illustrative photo: the empty WIPO Conference Hall in Geneva, with rows of delegate desks and chairs under a pale wood ceiling with globe lights",
+     "credit": "Photo: Emmanuel Berrod",
+     "url": "https://commons.wikimedia.org/wiki/File:The_1,600_square_meter_WIPO_Conference_Hall_features_900_seats,_and_state-of-the-art_interpretation_and_projection_facilities_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12a",
+     "what": "Illustrative photo: a close view of the glass and brick atrium tower on the Madison Building, headquarters of the United States Patent and Trademark Office in Alexandria, Virginia",
+     "credit": "Photo: SMSemler",
+     "url": "https://commons.wikimedia.org/wiki/File:Uspto2016.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12b",
+     "what": "Illustrative photo: an empty federal courtroom with dark wood paneling, the judge's bench under a federal seal, counsel tables and an American flag, in the Providence, Rhode Island courthouse",
+     "credit": "Photo: Carol M. Highsmith",
+     "url": "https://commons.wikimedia.org/wiki/File:Courtroom,_Federal_Building_and_U.S._Courthouse,_Providence,_Rhode_Island_LCCN2010718944.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: the United States Capitol seen from the northeast on a clear day, with the dome, the east front and the Senate wing steps",
+     "credit": "Photo: Beethoven (Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:2018-03-26_%E2%80%93_United_States_Capitol_East_Front,_viewed_from_the_northeast_%E2%80%93_Washington,_D.C.,_United_States.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s3-03",
+   "date": "2026-10-18",
+   "id": "CLR-S3-03",
+   "title": "The Facilitation Relationship: Toward a Tort Framework for Psychedelic Professional Duty in Oregon and Colorado",
+   "series": "Cannabis Law Report",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Cannabis Law Report",
+    "url": "https://cannabislaw.report/rn-collins-series-3-no-3-the-facilitation-relationship-toward-a-tort-framework-for-psychedelic-professional-duty-in-oregon-and-colorado/"
+   },
+   "research": [
+    {
+     "label": "OAR 333-333-5120, Facilitator Conduct",
+     "url": "https://www.law.cornell.edu/regulations/oregon/Or-Admin-Code-SS-333-333-5120"
+    },
+    {
+     "label": "OAR 333-333-5130, Facilitator Scope of Practice (2025 text; amended January 1, 2026)",
+     "url": "https://www.law.cornell.edu/regulations/oregon/Or-Admin-Code-SS-333-333-5130"
+    },
+    {
+     "label": "Oregon Health Authority, letter to licensed facilitators, November 6, 2025 (rules effective January 1, 2026)",
+     "url": "https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/Rule-Letter-FL-November-2025.pdf"
+    },
+    {
+     "label": "Oregon Health Authority, OAR 333-333 amendments adopted October 24, 2025, with tracked changes (effective January 1, 2026)",
+     "url": "https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/333-333_10.24.25_rules-with-redline.pdf"
+    },
+    {
+     "label": "Colorado S.B. 25-297, session law Ch. 381 (2025)",
+     "url": "https://content.leg.colorado.gov/sites/default/files/documents/2025A/bills/sl/2025a_sl_381.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "ORS chapter 475A (Psilocybin Regulation), 2025 edition",
+     "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Oregon State Capitol in Salem, a marble Art Deco building with a gold-topped central tower, seen from the front lawn with cherry trees in bloom",
+     "credit": "Photo: M.O. Stevens",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_State_Capitol_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The Multnomah County Central Courthouse in downtown Portland, a tall modern building with a striped stone-and-glass facade, seen from the east",
+     "credit": "Photo: Steve Morgan",
+     "url": "https://commons.wikimedia.org/wiki/File:Multnomah_County_Central_Courthouse_from_east_in_July_2021.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The Portland State Office Building at 800 NE Oregon Street in Portland, a gray high-rise with blue window bands and a domed rooftop frame, seen on a cloudy day",
+     "credit": "Photo: Tedder",
+     "url": "https://commons.wikimedia.org/wiki/File:Portland_State_Office_Building_full_-_Portland_Oregon.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: the entrance of the Crown Plaza Building in Portland, which houses the Oregon Medical Board and Oregon Board of Dentistry, with a steel sculpture beside the steps",
+     "credit": "Photo: Gary Halvorson",
+     "url": "https://commons.wikimedia.org/wiki/File:Crown_Plaza_Building,_Oregon_Medical_Board,_Oregon_Dentistry_Board,_Portland_-_DPLA_-_0512b928e9a8a1206da7441512b4acd1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The entrance of the Oregon State Archives building in Salem, a pale stone building with glass doors and wide steps, framed by trees",
+     "credit": "Photo: M.O. Stevens",
+     "url": "https://commons.wikimedia.org/wiki/File:OregonStateArchives.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bound volumes of the Restatement of the Law, Second, Torts 2d, on a library shelf, with red-brown spines and gold lettering",
+     "credit": "Photo: Coolcaesar",
+     "url": "https://commons.wikimedia.org/wiki/File:Restatement_Second_of_Torts.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the curved wooden reception desk of a hotel lobby with a flower arrangement and pendant lamps",
+     "credit": "Photo: Opera Cadet",
+     "url": "https://commons.wikimedia.org/wiki/File:Reception,_front_desk_1_-_Paris_Opera_Cadet_Hotel.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a carved stone pediment on the Broome County Courthouse in Binghamton, New York, showing a seated figure of Justice in a round medallion between two cornucopias",
+     "credit": "Photo: Joe Mabel",
+     "url": "https://commons.wikimedia.org/wiki/File:Binghamton,_NY_-_Broome_County_Courthouse_-_pediment_detail_02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the Oregon State Board of Examiners for Engineering and Land Surveying office building in Salem, a two-story brick building seen through birch trees",
+     "credit": "Photo: Gary Halvorson",
+     "url": "https://commons.wikimedia.org/wiki/File:Engineering_and_Land_Surveying_Board,_Salem_-_DPLA_-_3bceee400569629c10dc07fae1e8ecdb.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: an empty corridor inside the Multnomah County Courthouse in Portland, with marble walls and wood-framed doors on the right",
+     "credit": "Photo: M.O. Stevens",
+     "url": "https://commons.wikimedia.org/wiki/File:Inside_Multnomah_County_Courthouse_-_Portland,_Oregon.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "The Oregon Board of Massage Therapists office in Salem, a single-story building with a tiled roof, a red door and a sign reading Oregon Board of Massage Therapists",
+     "credit": "Photo: Gary Halvorson",
+     "url": "https://commons.wikimedia.org/wiki/File:Massage_Therapists_Board_Office,_Salem_-_DPLA_-_3f3b6d1d04d7898abe107741d4853d2e.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: the Oregon Employment Department Building in Salem, a beige building with a WorkSource Salem Center sign and a blue mailbox on the sidewalk",
+     "credit": "Photo: Gary Halvorson",
+     "url": "https://commons.wikimedia.org/wiki/File:Employment_Department_Building,_Salem_-_DPLA_-_94d6c92b9320fa23dcfadd0140dab7f9.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: an empty appellate courtroom of the Colorado Court of Appeals in Denver, with the judges' bench, a bar railing and rows of pews under a coffered ceiling",
+     "credit": "Photo: Jeffrey Beall",
+     "url": "https://commons.wikimedia.org/wiki/File:Colorado_Court_of_Appeals.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 14a",
+     "what": "The Oregon Supreme Court Building in Salem, a white classical-style courthouse with tall pilasters and a central entrance, seen from the front walk",
+     "credit": "Photo: Cacophony",
+     "url": "https://commons.wikimedia.org/wiki/File:OregonSupremeCourtBldg.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 14b",
+     "what": "Illustrative photo: the empty courtroom of the Colorado Supreme Court in the Ralph L. Carr Colorado Judicial Center in Denver, with the bench under a domed skylight and rows of public benches",
+     "credit": "Photo: Jeffrey Beall",
+     "url": "https://commons.wikimedia.org/wiki/File:Colorado_Supreme_Court_courtroom.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 15a",
+     "what": "The Colorado State Capitol in Denver, a gray granite building with a gold-leaf dome, seen from the lawn and front steps on a clear day",
+     "credit": "Photo: xiquinhosilva",
+     "url": "https://commons.wikimedia.org/wiki/File:Colorado_State_Capitol_-_54046380855.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 15b",
+     "what": "The Oregon State Capitol in Salem seen from the side, showing the marble wing and the gold-topped central tower against a cloudy sky",
+     "credit": "Photo: ZehnKatzen",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_Capitol_2.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s3-04",
+   "date": "2026-10-18",
+   "id": "CLR-S3-04",
+   "title": "The Cognitive Liberty Claim: Schedule I Prohibition, Neurological Autonomy, and the Constitutional Lacuna at the Boundary of Thought and Conduct",
+   "series": "Cannabis Law Report",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Cannabis Law Report",
+    "url": "https://cannabislaw.report/rn-collins-series-3-no-4-the-cognitive-liberty-claim-schedule-i-prohibition-neurological-autonomy-and-the-constitutional-lacuna-at-the-boundary-of-thought-and-conduct/"
+   },
+   "research": [
+    {
+     "label": "Carhart-Harris & Friston, REBUS and the Anarchic Brain, Pharmacological Reviews 71:316 (2019)",
+     "url": "https://doi.org/10.1124/pr.118.017160"
+    }
+   ],
+   "other": [
+    {
+     "label": "DEA, 2026 aggregate production quotas, 91 FR 287 (Jan. 5, 2026)",
+     "url": "https://www.federalregister.gov/documents/2026/01/05/2025-24277/established-aggregate-production-quotas-for-schedule-i-and-ii-controlled-substances-and-assessment"
+    },
+    {
+     "label": "21 U.S.C. 812(c), Schedule I",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap13-subchapI-partB-sec812.htm"
+    },
+    {
+     "label": "Executive Order 14401 (April 18, 2026)",
+     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/accelerating-medical-treatments-for-serious-mental-illness/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the pediment and columns of the United States Supreme Court building at night, with the words Equal Justice Under Law carved above the columns",
+     "credit": "Photo: Tony Webster",
+     "url": "https://commons.wikimedia.org/wiki/File:United_States_Supreme_Court_Building_-_SCOTUS_EQUAL_JUSTICE_UNDER_LAW_(53765527820).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The Bill of Rights on display at the National Archives, a framed handwritten parchment under glass with the words Bill of Rights carved above it",
+     "credit": "Photo: Runner1928",
+     "url": "https://commons.wikimedia.org/wiki/File:National_Archives_of_the_United_States_-_Bill_of_Rights.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the Library of the Supreme Court of the United States, a paneled reading room with a chandelier, long tables and a brass globe",
+     "credit": "Photo: ProfessorUltimo",
+     "url": "https://commons.wikimedia.org/wiki/File:Library_of_the_Supreme_Court_of_the_United_States,_Washington,_D.C._-_August,_2015.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a human brain preserved in a clear block on a museum shelf, with a specimen number label",
+     "credit": "Photo: Maksym Kozlenko",
+     "url": "https://commons.wikimedia.org/wiki/File:Human_brain_preserved_in_formaldehyde.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a hospital MRI scanner with a technician at the scanner opening and a person on the scan table, seen from behind and not identifiable",
+     "credit": "Photo: Ptrump16",
+     "url": "https://commons.wikimedia.org/wiki/File:Siemens_Magnetom_Aera_MRI_scanner.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a human brain cut down the middle and held in a clear case, showing the inner surface of one hemisphere",
+     "credit": "Photo: Themium",
+     "url": "https://commons.wikimedia.org/wiki/File:Human_brain,_sagittal_section_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a spiral marble staircase inside the United States Supreme Court building, seen from below with a brass railing",
+     "credit": "Photo: Mathieu Landretti",
+     "url": "https://commons.wikimedia.org/wiki/File:Supreme_Court_Stair_Case.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the columned entrance of the Washington State Legislative Building in Olympia",
+     "credit": "Photo: Farragutful",
+     "url": "https://commons.wikimedia.org/wiki/File:Washington_Legislative_Building_02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the Mississippi State Capitol in Jackson on a gray day, with a replica of the Liberty Bell in the foreground",
+     "credit": "Photo: Michael Barera",
+     "url": "https://commons.wikimedia.org/wiki/File:Jackson_December_2018_10_(Mississippi_State_Capitol).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: the Oregon State Capitol in Salem seen across its front plaza, a marble building with a tower topped by a gold figure",
+     "credit": "Photo: David Jiang",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_State_Capitol_Daytime_July_2022.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: a detail of the windows and stonework of the James R. Browning United States Court of Appeals Building in San Francisco, home of the Ninth Circuit",
+     "credit": "Photo: Carol M. Highsmith",
+     "url": "https://commons.wikimedia.org/wiki/File:Fenestration,_James_R._Browning_U.S._Court_of_Appeals_Building,_San_Francisco,_California_LCCN2010719384.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: bound volumes 551 to 555 of the United States Reports on a library shelf in San Jose, California",
+     "credit": "Photo: Coolcaesar",
+     "url": "https://commons.wikimedia.org/wiki/File:United_States_Reports.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: the coffered dome of the Library of Congress Main Reading Room and its arched stained-glass windows, seen from below",
+     "credit": "Photo: Andreas Praefcke",
+     "url": "https://commons.wikimedia.org/wiki/File:LoC_Main_Reading_Room_dome.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 14a",
+     "what": "Illustrative photo: a bronze relief panel from the doors of the Library of Congress Thomas Jefferson Building, with two cherubs holding a shield above the word Truth",
+     "credit": "Photo: Carol M. Highsmith",
+     "url": "https://commons.wikimedia.org/wiki/File:Exterior_view._Detail_of_bronze_main_entrance_doors_labelled_Truth._Library_of_Congress_Thomas_Jefferson_Building,_Washington,_D.C._LCCN2007684241.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 14b",
+     "what": "Illustrative photo: the E. Barrett Prettyman United States Courthouse in Washington, a federal courthouse",
+     "credit": "Photo: Toohool",
+     "url": "https://commons.wikimedia.org/wiki/File:E._Barrett_Prettyman_Courthouse_from_NGA_East_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 15",
+     "what": "Illustrative photo: the exterior of the Williams Law Library at Georgetown Law in Washington, a curved stone and glass building",
+     "credit": "Photo: ajay_suresh",
+     "url": "https://commons.wikimedia.org/wiki/File:Georgetown_Law_-_Williams_Law_Library_(53839144502).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s3-05",
+   "date": "2026-10-18",
+   "id": "CLR-S3-05",
+   "title": "The Species Gap: State Testing Law and the Case for Molecular Authentication of Cannabis",
+   "series": "Cannabis Law Report",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Cannabis Law Report",
+    "url": "https://cannabislaw.report/rn-collins-series-3-no-5-the-species-gap-state-testing-law-and-the-case-for-molecular-authentication-of-cannabis/"
+   },
+   "research": [
+    {
+     "label": "Cal. Code Regs. tit. 4, 15714, 15722, 15726",
+     "url": "https://www.law.cornell.edu/regulations/california/4-CCR-15714"
+    },
+    {
+     "label": "Colorado 1 CCR 212-3, Rule 4-215",
+     "url": "https://www.law.cornell.edu/regulations/colorado/1-CCR-212-3-4-215"
+    },
+    {
+     "label": "Mich. Admin. Code R 420.304, R 420.305",
+     "url": "https://www.law.cornell.edu/regulations/michigan/Mich-Admin-Code-R-420-305"
+    },
+    {
+     "label": "Kitamura et al., Biol. Pharm. Bull. 41:1303 (2018)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30068883/"
+    },
+    {
+     "label": "Kojoma et al., Planta Med. 68:60 (2002)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11842329/"
+    }
+   ],
+   "other": [
+    {
+     "label": "Pub. L. 119-37, Division B, section 781",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/html/PLAW-119publ37.htm"
+    },
+    {
+     "label": "Pub. L. 119-103, section 2019",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/html/PLAW-119publ103.htm"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a multi-bay PCR machine, an instrument that copies DNA for DNA-based species identification",
+     "credit": "Photo: Labcare",
+     "url": "https://commons.wikimedia.org/wiki/File:A_Multi_Bay_PCR_Machine.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a closed wooden herbarium cabinet with specimen tags, at the Auckland Museum",
+     "credit": "Source: Auckland Museum",
+     "url": "https://commons.wikimedia.org/wiki/File:Cabinet,_herbarium_(AM_91425-7).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A flowering Andrographis paniculata plant with narrow green leaves and slender seed pods against a dark green background",
+     "credit": "Photo: V C Balakrishnan",
+     "url": "https://commons.wikimedia.org/wiki/File:Andrographis_paniculata_(1).JPG_-_Photo_by_V_C_Balakrishnan.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: an ABI 3100 capillary DNA sequencer with its door open, showing the capillary array, syringes and a laser warning label",
+     "credit": "Photo: Michael Pereckas",
+     "url": "https://commons.wikimedia.org/wiki/File:ABI_3100_16-capillary_DNA_sequencer_-_Showing_the_capillary_array_and_blocks_and_syringes.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the California State Capitol in Sacramento, a white domed building with a columned portico and a lawn in front",
+     "credit": "Photo: Santosh7700",
+     "url": "https://commons.wikimedia.org/wiki/File:CA_State_Capitol-1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: an interior stairwell and arches inside the Colorado State Capitol in Denver",
+     "credit": "Photo: Sdkb",
+     "url": "https://commons.wikimedia.org/wiki/File:Colorado_State_Capitol_arches.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: an Agilent 1200 series liquid chromatography instrument beside a mass spectrometer in a laboratory",
+     "credit": "Photo: Nick Birse",
+     "url": "https://commons.wikimedia.org/wiki/File:Agilent_1200HPLC_and_6130_MS.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the west front of the United States Capitol with its dome, seen from the west with the Ulysses S. Grant Memorial in front",
+     "credit": "Photo: Wknight94",
+     "url": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_from_west_2011.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: a researcher in a white coat working at a laboratory bench under a ventilated hood in FDA Life Sciences Laboratory I, Building 64 of the Food and Drug Administration campus in Silver Spring, Maryland",
+     "credit": "Source: U.S. FDA",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Bldg_64_-_Lab_(5160771733).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: two blue-and-white painted ceramic pharmacy jars from the Metropolitan Museum of Art collection, each decorated with an animal",
+     "credit": "Source: The Met Open Access",
+     "url": "https://commons.wikimedia.org/wiki/File:Pharmacy_Jar_MET_DP319611.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: the Illinois State Capitol in Springfield in winter, with its gray dome, seen across a snowy lawn",
+     "credit": "Photo: Daniel Schwen",
+     "url": "https://commons.wikimedia.org/wiki/File:Illinois_State_Capitol_pano.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: the Plant Science Building at Cornell University in Ithaca, New York",
+     "credit": "Photo: Kenneth C. Zirkel",
+     "url": "https://commons.wikimedia.org/wiki/File:Plant_Science_Building_at_Cornell_University.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13a",
+     "what": "Illustrative photo: the Michigan State Capitol dome in Lansing, seen against the sky",
+     "credit": "Photo: w_lemay",
+     "url": "https://commons.wikimedia.org/wiki/File:Dome,_Michigan_State_Capitol,_Capitol_Avenue,_Lansing,_MI_-_54383127521.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13b",
+     "what": "Illustrative photo: the New York State Capitol in Albany, a gray stone building with red roofs and a long facade",
+     "credit": "Photo: Beyond My Ken",
+     "url": "https://commons.wikimedia.org/wiki/File:2019_New_York_State_Capitol_northwest_facade,_Albany,_New_York.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Illustrative photo: a row of closed wooden herbarium cabinets with labeled doors in the Botanical Museum in Helsinki",
+     "credit": "Photo: Antti Leppänen",
+     "url": "https://commons.wikimedia.org/wiki/File:Botanical_Museum_herbarium_old_cabinets_Helsinki.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s3-06",
+   "date": "2026-10-18",
+   "id": "CLR-S3-06",
+   "title": "Tiers, Targets, and the Guidance Gap: A Proposed Evidentiary Framework for Computational Pharmacology in FDA Botanical Drug Proceedings",
+   "series": "Cannabis Law Report",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Cannabis Law Report",
+    "url": "https://cannabislaw.report/rn-collins-series-3-no-6tiers-targets-and-the-guidance-gap-a-proposed-evidentiary-framework-for-computational-pharmacology-in-fda-botanical-drug-proceedings/"
+   },
+   "research": [
+    {
+     "label": "Zhang et al., ACS Omega 4(6):9710-9719 (2019)",
+     "url": "https://doi.org/10.1021/acsomega.9b00020"
+    },
+    {
+     "label": "Eymery, McCarthy & Hausmann, Life Science Alliance 6:e202201595 (2023)",
+     "url": "https://doi.org/10.26508/lsa.202201595"
+    }
+   ],
+   "other": [
+    {
+     "label": "FDA, Advancing Development of Botanical Drug Products; Request for Information, 91 FR 56887 (Sept. 4, 2026)",
+     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18133/advancing-development-of-botanical-drug-products-request-for-information"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the exterior of Building 1 at the Food and Drug Administration's White Oak campus in Maryland, with a circular drive in front",
+     "credit": "Source: U.S. FDA",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Bldg_1_-_Exterior_With_Circle_(5161374950).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a close view of tea plant (Camellia sinensis) leaves at the Berlin Botanical Garden",
+     "credit": "Source: Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Camellia_sinensis_BotGardBln1105YoungLeavesReadyForHarvest.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the FDA sign and Building 21 at the entrance to the White Oak campus",
+     "credit": "Source: U.S. FDA",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Sign_&_Bldg_21_at_Entrance_(5204602349).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: tea shoots showing two leaves and a bud on a tea plant in Assam, India",
+     "credit": "Photo: Nborkakoty",
+     "url": "https://commons.wikimedia.org/wiki/File:Tea,_two_leaves_and_a_bud.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a cabinet of the IBM Blue Gene/P supercomputer at the National Centre for Supercomputing Applications in Sofia, Bulgaria",
+     "credit": "Photo: Tourbillon",
+     "url": "https://commons.wikimedia.org/wiki/File:Blue_Gene_main.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a supercomputer rack at the CINECA computing center in Italy",
+     "credit": "Photo: CINECA",
+     "url": "https://commons.wikimedia.org/wiki/File:Galileo_supercomputer_rack.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The EMBL Grenoble outstation, a cream-colored laboratory building with the EMBL logo and a sign pointing to reception",
+     "credit": "Photo: Brücke-Osteuropa",
+     "url": "https://commons.wikimedia.org/wiki/File:EMBL_Grenoble.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the exterior of Building 31 at the FDA White Oak campus, a brick and stone building with glass",
+     "credit": "Source: U.S. FDA",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Bldg_31_-_Exterior_(5161375422).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: the United States Supreme Court building in daylight",
+     "credit": "Photo: Tony Webster",
+     "url": "https://commons.wikimedia.org/wiki/File:The_Supreme_Court_of_the_United_States_(SCOTUS)_in_Washington_DC_-_Courthouse_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: the entrance to the United States Department of Transportation headquarters in Washington",
+     "credit": "Photo: AgnosticPreachersKid",
+     "url": "https://commons.wikimedia.org/wiki/File:USDOT_headquarters_-_Navy_Yard.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: the Phillip Burton Federal Building and United States Courthouse in San Francisco",
+     "credit": "Photo: Marincyclist",
+     "url": "https://commons.wikimedia.org/wiki/File:Phillip_Burton_Federal_Building_&_United_States_Courthouse.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: the exterior of Building 64 at the FDA White Oak campus, a curved building with metal and glass panels",
+     "credit": "Source: U.S. FDA",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Bldg_64_-_Exterior_(5161375466).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13a",
+     "what": "Illustrative photo: the glass-walled main entrance and brick and metal facade of Building 51 on the Food and Drug Administration campus in Silver Spring, Maryland, which houses the Center for Drug Evaluation and Research",
+     "credit": "Source: U.S. FDA",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Bldg_51_-_Main_Entrance_(5161374834).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13b",
+     "what": "Illustrative photo: the entrance area of the Tokyo Metropolitan Medicinal Plants Garden, with greenhouses and trees behind a parking area",
+     "credit": "Photo: Nyao148",
+     "url": "https://commons.wikimedia.org/wiki/File:Tokyo_Metropolitan_Medicinal_Plants_Garden.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Illustrative photo: shelves of books at a library, with blurred spines in the foreground",
+     "credit": "Photo: CCAC North Library",
+     "url": "https://commons.wikimedia.org/wiki/File:Library_books_-_Shelving_stacks_(3554627444).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s3-07",
+   "date": "2026-10-18",
+   "id": "CLR-S3-07",
+   "title": "Federal Regulatory Standards After the MDMA Rejection: What FDA's Complete Response Letter May Mean for the Psychedelic Pipeline",
+   "series": "Cannabis Law Report",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Cannabis Law Report",
+    "url": "https://cannabislaw.report/rn-collins-series-3-no-7-federal-regulatory-standards-after-the-mdma-rejection-what-fdas-complete-response-letter-may-mean-for-the-psychedelic-pipeline/"
+   },
+   "research": [
+    {
+     "label": "FDA, Complete Response Letter, NDA 215455 (midomafetamine), signed August 8, 2024, Reference ID 5427030",
+     "url": "https://download.open.fda.gov/crl/CRL_NDA215455_20240808.pdf"
+    },
+    {
+     "label": "Compass Pathways news releases, February 17, April 24, May 13 and August 5, 2026",
+     "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Announces-FDA-Granted-NDA-Rolling-Review-Request-and-Awarded-Commissioners-National-Priority-Voucher-2026.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Executive Order 14401, Accelerating Medical Treatments for Serious Mental Illness, April 18, 2026, 91 FR 21709",
+     "url": "https://www.federalregister.gov/documents/2026/04/22/2026-07907"
+    },
+    {
+     "label": "FDA, Psychedelic Drugs: Considerations for Clinical Investigations; Guidance for Industry; Availability, 91 FR 43101 (July 14, 2026)",
+     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14158"
+    },
+    {
+     "label": "Resilient Pharmaceuticals resubmission reports, August 9 and 10, 2026 (HCPLive; MAPS)",
+     "url": "https://www.hcplive.com/view/mdma-assisted-therapy-nda-resubmitted-fda-ptsd"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "FDA Building 1 (right, the Commissioner's office) and Building 21 (left, offices of the Center for Drug Evaluation and Research) on FDA's White Oak campus in Silver Spring, Maryland, seen across the lawn with a flagpole",
+     "credit": "Source: U.S. FDA",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Bldgs_1_and_21_-_Exterior_with_Flag_Pole_(5160771909).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: the main entrance of FDA Building 1 at White Oak, a brick facade with the agency's name over the canopy, seen from outside",
+     "credit": "Source: U.S. FDA",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Entrance_(16792957331).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: the FDA sign at the main entrance of the White Oak campus, with Building 21 behind it, which houses the Center for Drug Evaluation and Research",
+     "credit": "Source: U.S. Food and Drug Administration",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Sign_%26_Bldg_21_at_Entrance_(5205198800).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The Great Room in FDA Building 31 at the White Oak campus, set with rows of chairs for a public meeting and a screen showing the FDA logo",
+     "credit": "Source: U.S. FDA",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Bldg_31_-_Great_Room_(5161375376).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the Hubert H. Humphrey Building in Washington, a concrete building with deep window frames and a blue sky, headquarters of the Department of Health and Human Services",
+     "credit": "Photo: APK",
+     "url": "https://commons.wikimedia.org/wiki/File:Hubert_H._Humphrey_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a narrow aisle between metal shelves stacked with archive boxes at the AySA archives in Argentina",
+     "credit": "Photo: Ivan Rolero",
+     "url": "https://commons.wikimedia.org/wiki/File:Historic_AySA_Archives_.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the pediment of the National Archives Building in Washington, carved with the words Archives of the United States of America above its columns",
+     "credit": "Photo: Mike Peel",
+     "url": "https://commons.wikimedia.org/wiki/File:Archives_of_the_United_States_of_America.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The White House north facade seen across the lawn and fountain",
+     "credit": "Photo: Ad Meskens",
+     "url": "https://commons.wikimedia.org/wiki/File:White_House_05.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: office towers of the City of London across the River Thames under a cloudy sky, seen from the south bank",
+     "credit": "Photo: Tristan Surtel",
+     "url": "https://commons.wikimedia.org/wiki/File:View_of_the_City_of_London_skyline.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: the walkway to the main entrance of FDA Building 32 on the White Oak campus, a modern building of brick and glass",
+     "credit": "Source: U.S. FDA",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Bldg_32_-_Pathway_to_Main_Entrance_(5161375442).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: the Robert F. Kennedy Department of Justice Building in Washington seen from a street corner on an overcast day",
+     "credit": "Photo: Gunnar Klack",
+     "url": "https://commons.wikimedia.org/wiki/File:2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12a",
+     "what": "Illustrative photo: a tall bronze entrance door with a stone relief above it at the Robert F. Kennedy Department of Justice Building in Washington",
+     "credit": "Photo: Daderot",
+     "url": "https://commons.wikimedia.org/wiki/File:Lege_Atque_Ordine_Omnia_Fiunt_-_Robert_F._Kennedy_Department_of_Justice_Building_-_DSC08580.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 12b",
+     "what": "Illustrative photo: the west front of the U.S. Capitol seen across the lawn under a blue sky",
+     "credit": "Photo: Architect of the Capitol",
+     "url": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: the Main Reading Room of the Library of Congress in Washington, with its circular desks under a domed ceiling",
+     "credit": "Photo: Carol M. Highsmith",
+     "url": "https://commons.wikimedia.org/wiki/File:LOC_Main_Reading_Room_Highsmith.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "s3-08",
+   "date": "2026-10-18",
+   "id": "CLR-S3-08",
+   "title": "No Standard of Care, No Medical Status, Full Liability: The Facilitator Malpractice Question Oregon's Framework Raises",
+   "series": "Cannabis Law Report",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in Cannabis Law Report",
+    "url": "https://cannabislaw.report/rn-collins-series-3-no-8-no-standard-of-care-no-medical-status-full-liability-the-facilitator-malpractice-question-oregons-framework-raises/"
+   },
+   "research": [
+    {
+     "label": "OHA proposed rule text for chapter 333, division 333, dated September 1, 2026 (not in force)",
+     "url": "https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/333-333-PROPOSED-text-9.1.2026.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Oregon Administrative Rules, chapter 333, division 333 (Psilocybin), current text: 333-333-5050, 5120, 5130, 5200, 4460, 4700, 4820, 5100 and 6100",
+     "url": "https://secure.sos.state.or.us/oard/"
+    },
+    {
+     "label": "ORS chapter 475A (2025 edition): 475A.305, 475A.325, 475A.338, 475A.372",
+     "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the golden pioneer statue atop the marble tower of the Oregon State Capitol in Salem, against a gray sky",
+     "credit": "Photo: Cacophony",
+     "url": "https://commons.wikimedia.org/wiki/File:OregonCapitolTop.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: the entrance of the Portland State Office Building, a stone and glass state government building in Portland, Oregon",
+     "credit": "Photo: Tedder",
+     "url": "https://commons.wikimedia.org/wiki/File:Portland_State_Office_Building_entrance_-_Portland_Oregon.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: three green law volumes (The Civil Court Practice 2014, a UK reference work) standing on a conference table beside a brass scale and a seal embosser",
+     "credit": "Photo: Vdollero",
+     "url": "https://commons.wikimedia.org/wiki/File:Law_Books_3.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The reading room of the Oregon State Archives in Salem, with wooden tables in front of tall windows",
+     "credit": "Photo: Visitor7",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_State_Archives.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the front entrance of the Oregon Supreme Court Building in Salem, a white terracotta courthouse with fluted columns and a sign reading Supreme Court",
+     "credit": "Photo: M.O. Stevens",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_Supreme_Court_Front.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: an empty paneled hall with a patterned floor and recessed ceiling lights inside the Oregon State Library in Salem",
+     "credit": "Photo: M.O. Stevens",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_State_Library_inside_2_-_Salem,_Oregon.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the Physicians Pavilion, a curved clinic building on the Oregon Health & Science University campus in Portland",
+     "credit": "Photo: M.O. Stevens",
+     "url": "https://commons.wikimedia.org/wiki/File:OHSU_Physicians_Pavilion_-_Portland,_Oregon.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the stained-glass transom reading Supreme Court above the courtroom door in the Oregon Supreme Court Building in Salem",
+     "credit": "Photo: M.O. Stevens",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_Supreme_Court_courtroom_doors2.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: an empty ornate lobby of the Garfield Building in Cleveland, Ohio",
+     "credit": "Photo: Tim Evanson",
+     "url": "https://commons.wikimedia.org/wiki/File:E_6th_St_resident_lobby_03_-_Garfield_Building_(43933948591).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "The Oregon State Board of Nursing office in southwest Portland",
+     "credit": "Photo: Gary Halvorson, OR Archives",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_State_Board_of_Nursing_Office,_Portland_-_DPLA_-_0939638340ed1b55430c7138bd01b0ac.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "The Mark O. Hatfield Research Center on the Oregon Health & Science University campus in Portland, its name carved above the entrance",
+     "credit": "Photo: Axcordion",
+     "url": "https://commons.wikimedia.org/wiki/File:Mark_O._Hatfield_Research_Center.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: the Oregon State Library in Salem seen across the Capitol Mall walkway, a pale stone building behind trees",
+     "credit": "Photo: M.O. Stevens",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_State_Library.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 13a",
+     "what": "Illustrative photo: the ceiling of the Oregon State Capitol rotunda seen from below, a ring of windows around a painted dome",
+     "credit": "Photo: M.O. Stevens",
+     "url": "https://commons.wikimedia.org/wiki/File:Oregon_State_Capitol_rotunda.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13b",
+     "what": "Illustrative photo: the Marion County Courthouse in Salem, Oregon, a concrete courthouse with a plaza",
+     "credit": "Photo: M.O. Stevens",
+     "url": "https://commons.wikimedia.org/wiki/File:Marion_County_Courthouse_Salem_Oregon.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Illustrative photo: a law library reading room seen from above, with long wooden desks, bound volumes and hanging lamps (Yale Law School, not an Oregon library)",
+     "credit": "Photo: PENG Yanan",
+     "url": "https://commons.wikimedia.org/wiki/File:Yale_Law_School_Library_Reading_Room_(L3).jpg",
+     "card": false
+    }
+   ]
+  }
+ ]
+}

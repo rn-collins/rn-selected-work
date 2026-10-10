@@ -1,0 +1,2940 @@
+{
+ "generated": "2026-10-10",
+ "host": "rn-selected-work.vercel.app",
+ "posts": [
+  {
+   "slug": "expansion-repair-route",
+   "date": "2026-10-18",
+   "id": "DDW-01",
+   "title": "The screw is visible. Is the replacement part available?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW2026 Fairphone Gen6+ program",
+     "url": "https://ddw.nl/en/programme/de-smartphone-opnieuw-bedacht-the-smartphone-reimagined"
+    },
+    {
+     "label": "Fairphone Gen6/Gen6+ repair support",
+     "url": "https://support.fairphone.com/hc/en-us/articles/24590029621138-How-to-replace-spare-parts-on-The-Fairphone-Gen-6-Gen-6"
+    },
+    {
+     "label": "Fairphone Gen6 product page",
+     "url": "https://www.fairphone.com/the-new-fairphone"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Fairphone Gen. 6 opened: the back cover off and held in two hands, loose screws, a Torx screwdriver and spare modules on the table beside it, from Fairphone's image on the Dutch Design Week page for the phone",
+     "credit": "Photo: Fairphone",
+     "url": "https://ddw.nl/en/programme/de-smartphone-opnieuw-bedacht-the-smartphone-reimagined",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Hands working on an opened Fairphone with a camera module in one hand and a blue-handled screwdriver in the other, the back cover and a dish of screws on a wooden table, from Fairphone's own repair page",
+     "credit": "Photo: Fairphone",
+     "url": "https://www.fairphone.com/repairs",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Fairphone's product-page image of the Fairphone (Gen. 6) USB-C port module, the connector and flex cable that make up the charging port part",
+     "credit": "Source: Fairphone",
+     "url": "https://www.fairphone.com/shop/fairphone-6-usb-c-port-1907",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Fairphone's product-page image of the Fairphone (Gen. 6) battery module with the fairphone name on its label, a spare part made for one model",
+     "credit": "Source: Fairphone",
+     "url": "https://www.fairphone.com/shop/fairphone-6-battery-1898",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Fairphone's product image of its Torx T5 screwdriver, the tool the Gen. 6 repair page names, with a black grip and blue end cap",
+     "credit": "Source: Fairphone",
+     "url": "https://www.fairphone.com/the-fairphone-gen-6",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "The Fairphone Gen. 6 in green, back and screen, in Fairphone's official product image with the fairphone name on the back",
+     "credit": "Photo: Fairphone",
+     "url": "https://commons.wikimedia.org/wiki/File:FP6-GREEN-COMMERCIAL-WALLPAPER-HERO.png",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: Fairphone's product-page image of the Gen. 6 top unit, the camera module",
+     "credit": "Source: Fairphone",
+     "url": "https://www.fairphone.com/shop/fairphone-6-top-unit-1900",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: a blue Fairphone Gen. 6+ laid flat beside its box, a SIM tool and printed guides, from Fairphone's product page",
+     "credit": "Source: Fairphone",
+     "url": "https://www.fairphone.com/the-fairphone-gen-6",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Gloved hands repairing an opened Fairphone on a cutting mat, with a screwdriver, the back cover and the loose modules laid out around it, from the Professional repairs section of Fairphone's repair page",
+     "credit": "Photo: Fairphone",
+     "url": "https://www.fairphone.com/repairs",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: hands holding a cobalt-blue Fairphone Gen. 6 against a peach backdrop, from the Dutch Design Week page for the phone",
+     "credit": "Photo: Fairphone",
+     "url": "https://ddw.nl/en/programme/de-smartphone-opnieuw-bedacht-the-smartphone-reimagined",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: the separate modules of a Fairphone 3 laid out on a black display board with white labels for the camera module, top module, display, battery and bottom module, at the phone's launch event in Amsterdam in 2019",
+     "credit": "Photo: PKFP, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Fairphone_3_modules_on_display.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Fairphone's product-page image of a single screw from the Fairphone (Gen. 6) screws kit, the screw the closing line points to",
+     "credit": "Source: Fairphone",
+     "url": "https://www.fairphone.com/shop/fairphone-6-screws-kit-1910",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "expansion-biodegradation-setting",
+   "date": "2026-10-18",
+   "id": "DDW-02",
+   "title": "Biodegradable where, exactly?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW2026 Zero Waste Lab program",
+     "url": "https://ddw.nl/en/programme/zero-waste-lab"
+    },
+    {
+     "label": "Current DDW2026 Written in Decay program",
+     "url": "https://ddw.nl/en/programme/written-in-decay-traces-of-entanglement-1"
+    },
+    {
+     "label": "EEA2020 briefing",
+     "url": "https://www.eea.europa.eu/en/analysis/publications/biodegradable-and-compostable-plastics-challenges-and-opportunities"
+    },
+    {
+     "label": "ISO17088:2021 public scope",
+     "url": "https://www.iso.org/standard/74994.html"
+    },
+    {
+     "label": "European Commission plastics policy framework page",
+     "url": "https://environment.ec.europa.eu/topics/plastics/bio-based-biodegradable-and-compostable-plastics_en"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A stool from Mozi Studio's Zero Waste Lab collection with a wavy-edged seat and speckled beige surface, made from PHA and PHB biopolymers, standing on a timber block",
+     "credit": "Photo: Jan Rusek",
+     "url": "https://ddw.nl/en/programme/zero-waste-lab",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: looking into a home compost bin from above, with kitchen scraps, leaves and dark compost",
+     "credit": "Photo: M&A",
+     "url": "https://commons.wikimedia.org/wiki/File:Interior_of_a_home_compost_bin_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Two long suspended lamps built from yellow ribbed printed segments on slim metal bars, hung in a room with a window and a shelf",
+     "credit": "Photo: Maja Tybel",
+     "url": "https://ddw.nl/en/programme/zero-waste-lab",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The Written in Decay book lying open on a white display table, its pale Vivomer pages marked with dark specks and stains from exposure to soil, with a stone resting on the pages",
+     "credit": "Photo: Shijia Huang",
+     "url": "https://ddw.nl/en/programme/written-in-decay-traces-of-entanglement-1",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A speckled beige biopolymer tile held at an angle on a silver cast metal stand with branch-like arms, on a work surface",
+     "credit": "Photo: Maja Tybel",
+     "url": "https://mozistudio.pl/portfolio_page/biodegradowalne-meble-design-z-bakterii/",
+     "card": false
+    },
+    {
+     "where": "Slide 6a",
+     "what": "Two Zero Waste Lab stools with wavy edges on timber plinths in a room with white curtains and other objects behind",
+     "credit": "Photo: Jan Rusek",
+     "url": "https://ddw.nl/en/programme/zero-waste-lab",
+     "card": false
+    },
+    {
+     "where": "Slide 6b",
+     "what": "Three Zero Waste Lab stools with scalloped and wavy edges standing in a row against an orange-brown backdrop with a band of light across the floor",
+     "credit": "Photo: Maja Tybel",
+     "url": "https://ddw.nl/en/programme/zero-waste-lab",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A close-up of a pale Written in Decay page covered in red, orange and violet blotches and small breaks where microorganisms have worked on the Vivomer surface",
+     "credit": "Photo: Shijia Huang",
+     "url": "https://ddw.nl/en/programme/written-in-decay-traces-of-entanglement-1",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A close-up of a pale Written in Decay page whose surface is covered with small raised and pitted patches left by microorganisms",
+     "credit": "Photo: Shijia Huang",
+     "url": "https://ddw.nl/en/programme/written-in-decay-traces-of-entanglement-1",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Three biopolymer stools from Mozi Studio's furniture collection stacked on timber blocks in a bright room, one with a round seat and two with wavy seats",
+     "credit": "Photo: Maja Tybel",
+     "url": "https://mozistudio.pl/portfolio_page/biodegradowalne-meble-design-z-bakterii/",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "The Written in Decay book lying open on a white metal-framed display table with a stone resting at each end, seen from the side, as shown on the DDW 2026 program page",
+     "credit": "Photo: Shijia Huang",
+     "url": "https://ddw.nl/en/programme/written-in-decay-traces-of-entanglement-1",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Three Written in Decay pages hanging from clips on a gray wall, each curled and marked differently, with a small label card clipped beside each",
+     "credit": "Photo: Shijia Huang",
+     "url": "https://ddw.nl/en/programme/written-in-decay-traces-of-entanglement-1",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-material-biography",
+   "date": "2026-10-18",
+   "id": "DDW-03",
+   "title": "Your material has a biography. Where is it?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Library About: stated collection and documentation purpose",
+     "url": "https://www.biomaterialslibrary.com/about"
+    },
+    {
+     "label": "Archived DDW25 exhibition account",
+     "url": "https://site.ddw.nl/en/programme/17371/biomaterials-library-lithuanian-amp-baltic-creators"
+    },
+    {
+     "label": "SUTD Library material samples: photographer’s identified collection image and CC BY-SA 4.0 file record",
+     "url": "https://commons.wikimedia.org/wiki/File:Material_samples,_SUTD_Library,_Singapore_University_of_Technology_and_Design_-_20150602-01.jpg"
+    },
+    {
+     "label": "SSP Rangers member about to collect coffee grounds for compost, 16 April 2022: photographer’s file description, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:SSP_Rangers_collecting_coffee_grounds_from_Press_The_Button_on_2022-04-16.jpg"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Close-up of PineSkins, a leather-like material made from the inner bark of pine trees, with a ridged, dark red-brown surface in focus",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/pine-skins",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Close view of COFFIRE pendant lamps, ceramic shades with a pink, marble-like surface",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/coffire",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A large pile of cut pine logs on a cleared yard under a blue sky, from the PineSkins page",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/pine-skins",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Material samples hung on panels around a curved shelf unit in the SUTD Library at the Singapore University of Technology and Design, June 2015",
+     "credit": "Photo: Smuconlaw",
+     "url": "https://commons.wikimedia.org/wiki/File:Material_samples,_SUTD_Library,_Singapore_University_of_Technology_and_Design_-_20150602-01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Pieces of PineSkins bark leather laid edge to edge, two hands resting on them, showing the layered texture and cut edges",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/pine-skins",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A NewspaperWood sample, newspaper layers cut to show a wood-like grain, lying under a folded newspaper",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/news",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Rows of material samples on white cards along ledges on a gallery wall, each card with a small caption block, in a white room shown on the Biomaterials Library News and Events page",
+     "credit": "Source: Biomaterials Library, cropped",
+     "url": "https://www.biomaterialslibrary.com/news",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Close view of dark, rough tiles of Coffee Waste Bio-Resin cladding a counter in an exhibition hall",
+     "credit": "Source: Waste Matters, cropped",
+     "url": "https://www.biomaterialslibrary.com/coffee-waste",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Many small samples of paper and textile pieces dyed in yellows and oranges, laid out side by side on a white surface, from the Materials page of the Biomaterials Library",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/materials-1",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "A white gallery wall of the Biomaterials Library with rows of material samples mounted on white cards along ledges: gold and dark pressed fiber tiles, a rust-colored ring, a dark bark-like panel and cream blocks, each card carrying a small printed label with a QR code",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/about",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "A dark, bark-textured vase of the GIRIA collection by Evelina Kudabaitė, holding dried stems against a dark ground, from the Biomaterials Library page",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/giria",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "A small dark bowl of Coffee Waste Bio-Resin on a white surface",
+     "credit": "Source: Waste Matters, cropped",
+     "url": "https://www.biomaterialslibrary.com/coffee-waste",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "A stack of finished GIRIA bowls beside a long strip of rough tree bark, the raw input, on a white surface, from the Biomaterials Library page",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/giria",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-material-credit",
+   "date": "2026-10-18",
+   "id": "DDW-04",
+   "title": "Who gets credit for a new material?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW 2026 SOW HEMP! program: role-separated colophon and image credits",
+     "url": "https://ddw.nl/index.php/en/programme/sow-hemp"
+    },
+    {
+     "label": "Biomaterials Library About: stated purpose and organization credits",
+     "url": "https://www.biomaterialslibrary.com/about"
+    },
+    {
+     "label": "Textielmuseum hemp sample cabinet: interior attribution, photographer credit and CC BY-SA 4.0 file record",
+     "url": "https://commons.wikimedia.org/wiki/File:Textielmuseum-cabinet-12.jpg"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A folded hemp and wool panel standing in a bright interior beside a window",
+     "credit": "Photo: Maria Michopulu",
+     "url": "https://ddw.nl/index.php/en/programme/sow-hemp",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a model in pale clothing holds a woven hemp bag among dark basalt columns",
+     "credit": "Photo: Emma Lea Nikodymova",
+     "url": "https://ddw.nl/index.php/en/programme/sow-hemp",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A large pale relief panel of felted hemp fibre showing figures in motion, standing outdoors on a grass bank",
+     "credit": "Photo: Emma Lea Nikodymova",
+     "url": "https://ddw.nl/index.php/en/programme/sow-hemp",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "A wooden tray from the Textielmuseum sample cabinet in Tilburg holding hemp stem, fibre, yarn, cord and woven textile",
+     "credit": "Photo: Joep Vogels",
+     "url": "https://commons.wikimedia.org/wiki/File:Textielmuseum-cabinet-12.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Illustrative photo: a second tray from the same Textielmuseum cabinet, holding Manila hemp, banana leaf fibre, sisal rope, abaca and raffia in labeled compartments",
+     "credit": "Photo: Joep Vogels",
+     "url": "https://commons.wikimedia.org/wiki/File:Textielmuseum-cabinet-11.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a cabinet tray with many different bast fibre samples side by side: raw and spun nettle fibre, hand-tied cords, a glass and nettle-yarn jewelry piece, and woven red and grey cloth",
+     "credit": "Photo: Joep Vogels",
+     "url": "https://commons.wikimedia.org/wiki/File:Textielmuseum-cabinet-13.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A leaf-shaped place mat of Manila hemp mesh with a paper maker label sewn to its stalk, photographed flat on white for the Textielmuseum cabinet",
+     "credit": "Photo: Joep Vogels",
+     "url": "https://commons.wikimedia.org/wiki/File:Textielmuseum-cabinet-08.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A white gallery room of the Biomaterials Library with labeled samples mounted on the walls, two visitors seen from behind, and hanging strips of dark, golden material in the foreground",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/news",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A tufted armchair covered in red, orange, black and grey wool and hemp patterns, photographed in warm light",
+     "credit": "Photo: Maria Michopulu",
+     "url": "https://ddw.nl/index.php/en/programme/sow-hemp",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: the inside of a Textielmuseum cabinet tray with its plywood compartments, holding flax stem, fibre, linen cloth and a woven sample",
+     "credit": "Photo: Joep Vogels",
+     "url": "https://commons.wikimedia.org/wiki/File:Textielmuseum-cabinet-02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a plywood tray from the Textielmuseum cabinet in Tilburg holding paper textiles, printed and woven samples, cord and raffia, with a handwritten paper label naming a firm",
+     "credit": "Photo: Joep Vogels",
+     "url": "https://commons.wikimedia.org/wiki/File:Textielmuseum-cabinet-14.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: two people in black balaclavas and yellow safety vests hold up a wooden weaving frame with an orange and grey hemp tapestry",
+     "credit": "Photo: Jan Cestr",
+     "url": "https://ddw.nl/index.php/en/programme/sow-hemp",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-hemp-interiors",
+   "date": "2026-10-18",
+   "id": "DDW-05",
+   "title": "What makes a hemp textile right for interiors?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW 2026 SOW HEMP! program: beyond-clothing work and named mill collaboration",
+     "url": "https://ddw.nl/index.php/en/programme/sow-hemp"
+    },
+    {
+     "label": "UMPRUM May 28 2026 studio account: farm Lapka, Kubák collaboration and reported 70% wool / 30% hemp blend",
+     "url": "https://www.umprum.cz/cs/web/katedry/uzite-umeni/textil/konopi-jako-vlakno-lek-i-symbol-atelier-textilu-umprum-predstavi-na-artsemestru-rocni-vyzkum-lokalni-suroviny"
+    },
+    {
+     "label": "File:Noren (curtain), Japan, Meiji period, Honolulu Museum of Art (commons.wikimedia.org)",
+     "url": "https://commons.wikimedia.org/wiki/File:Noren_(curtain),_Japan,_Meiji_period,_Honolulu_Museum_of_Art.JPG"
+    },
+    {
+     "label": "Honolulu Museum of Art wrapping cloth, accession 13784.1: photographer’s museum-object identification and CC0 image record",
+     "url": "https://commons.wikimedia.org/wiki/File:Wrapping_cloth_from_Korea,_Honolulu_Museum_of_Art,_13784.1.JPG"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Close-up of a woven wool and hemp textile by UMPRUM student Eliska Sahulova from the studio's hemp project, with a faint stitched mark",
+     "credit": "Photo: Jasmina Zivcova, UMPRUM",
+     "url": "https://www.umprum.cz/cs/web/katedry/uzite-umeni/textil/konopi-jako-vlakno-lek-i-symbol-atelier-textilu-umprum-predstavi-na-artsemestru-rocni-vyzkum-lokalni-suroviny",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A hand-woven tapestry by UMPRUM student Anna Cekalova hung on a patterned bedroom wall",
+     "credit": "Photo: Natalie Kubenkova, UMPRUM",
+     "url": "https://www.umprum.cz/cs/web/katedry/uzite-umeni/textil/konopi-jako-vlakno-lek-i-symbol-atelier-textilu-umprum-predstavi-na-artsemestru-rocni-vyzkum-lokalni-suroviny",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: skeins of spun hemp yarn hung on the wooden base of a spinning machine in an ethnographic museum",
+     "credit": "Photo: Joan Gené, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File%3ALa_Porci%C3%BAncula._Museu._Etnografia._C%C3%A0nyem_05.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A Meiji-period noren (doorway curtain) of hemp with cotton loops, indigo dye and sumi ink, in the Honolulu Museum of Art",
+     "credit": "Photo: Hiart, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File%3ANoren_%28curtain%29%2C_Japan%2C_Meiji_period%2C_Honolulu_Museum_of_Art.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A Korean wrapping cloth (pojagi), 20th century, hemp in plain weave with hand-stitched seams, Honolulu Museum of Art accession 13784.1",
+     "credit": "Photo: Hiart, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File%3AWrapping_cloth_from_Korea%2C_Honolulu_Museum_of_Art%2C_13784.1.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A textile object hung from wires under a studio lamp on a stand, photographed for the UMPRUM hemp project",
+     "credit": "Photo: Klara Dostalova, UMPRUM",
+     "url": "https://www.umprum.cz/cs/web/katedry/uzite-umeni/textil/konopi-jako-vlakno-lek-i-symbol-atelier-textilu-umprum-predstavi-na-artsemestru-rocni-vyzkum-lokalni-suroviny",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Rows of yarn cones on a winding machine at the Kubak weaving mill in Strmilov, the collaborator named in UMPRUM's account",
+     "credit": "Source: Tkalcovna Kubák",
+     "url": "https://www.tkalcovna.cz/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A large hand-woven tapestry by UMPRUM student Anna Cekalova hanging in a library alcove between bookshelves, a hemp-project textile shown as an interior piece",
+     "credit": "Photo: Natalie Kubenkova, UMPRUM",
+     "url": "https://www.umprum.cz/cs/web/katedry/uzite-umeni/textil/konopi-jako-vlakno-lek-i-symbol-atelier-textilu-umprum-predstavi-na-artsemestru-rocni-vyzkum-lokalni-suroviny",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Several hanging fiber objects wrapped in blue, grey and brown yarn and ending in blue lobes, photographed against a wood-block wall, by UMPRUM student Dominik Malek",
+     "credit": "Photo: Jan Cestr, UMPRUM",
+     "url": "https://www.umprum.cz/cs/web/katedry/uzite-umeni/textil/konopi-jako-vlakno-lek-i-symbol-atelier-textilu-umprum-predstavi-na-artsemestru-rocni-vyzkum-lokalni-suroviny",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: four garments hung in glass frames on red and pink backdrops, with knitwear laid out below, in the UMPRUM textile studio's booth at Dutch Design Week 2019",
+     "credit": "Source: UMPRUM",
+     "url": "https://www.umprum.cz/en/web/studios/applied-arts/textile/national-treasure-czech-craft-is-here",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: a visitor seen from behind at a display headed MISCANTHUS, with a round sample disc and the stated use, blown insulation, at the Embassy of Circular and Biobased Building at Dutch Design Week 2023",
+     "credit": "Photo: Cleo Goossens/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/53322571970/",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: a display panel headed GRANEN (grains) with a jar of grain and ears of wheat, one of a row of crop panels that compare plant materials, at the Embassy of Circular and Biobased Building at Dutch Design Week 2023",
+     "credit": "Photo: Cleo Goossens/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/53322111776/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-human-hair",
+   "date": "2026-10-18",
+   "id": "DDW-06",
+   "title": "Would you wear someone else’s hair?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [
+    {
+     "label": "cambridge.org",
+     "url": "https://www.cambridge.org/core/journals/biotechnology-design/article/embrace-the-frizz-use-of-human-hair-for-triboelectric-interactive-textiles/8AE6DFD3C009FC6A145D9DD92817069A"
+    }
+   ],
+   "other": [
+    {
+     "label": "Human Material Loop current company technology account: company claims, not independent performance verification",
+     "url": "https://www.humanmaterialloop.com/human-material-loop"
+    },
+    {
+     "label": "TRESS company project account: pilot purpose and named collaborators",
+     "url": "https://www.humanmaterialloop.com/tress"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A red hand-knitted dress with a gathered neckline and long sleeves, worn by a model photographed from the chin down against a dark background",
+     "credit": "Source: Schwarzkopf Professional",
+     "url": "https://www.dezeen.com/2023/11/28/human-material-loop-textiles-from-hair/ (Dezeen, \"Human Material Loop sets out to commercialise textiles made from hair\", Rima Sabina Aouf, November 28, 2023; caption: knit dress made with the company Henkel)",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A person in a pale knitted sweater crouches with their back to the camera beside a ditch in a green pasture, curly blond hair showing, while sheep graze behind",
+     "credit": "Photo: Medina Resic/Dutch Design Week",
+     "url": "https://site.ddw.nl/en/programme/8364/human-material-loop (Dutch Design Week 2022 programme listing \"Human Material Loop\", Studio Zsofia Kollar)",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Cones of cream yarn beside folded cream cloth on a table, shown on Human Material Loop's developments page for its fiber, yarn and textile systems",
+     "credit": "Source: Human Material Loop",
+     "url": "https://www.humanmaterialloop.com/developments (page title \"ādara Developments: Staple Fiber, Yarn & Textile Systems\")",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A scanning electron micrograph of a fiber with overlapping scales along its surface, captioned by the company as a keratin fiber surface showing layered cuticle structure",
+     "credit": "Source: Human Material Loop",
+     "url": "https://www.humanmaterialloop.com/science-of-keratin (alt text \"Micrograph of a keratin fiber surface showing the layered cuticle structure\")",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Woven strips on a pale tray: bands of blue cloth, a band of brown human hair interwoven with yarn, copper tape and a pink strip, with a hand at each edge",
+     "credit": "Photo: Guridi and Iannacchero, CC BY",
+     "url": "https://www.cambridge.org/core/journals/biotechnology-design/article/embrace-the-frizz-use-of-human-hair-for-triboelectric-interactive-textiles/8AE6DFD3C009FC6A145D9DD92817069A (Figure 3)",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A cream garment prototype on a dress form beside a folded roll of keratin textile in an atelier, from the TRESS project page",
+     "credit": "Source: Human Material Loop",
+     "url": "https://www.humanmaterialloop.com/tress (alt text \"Garment prototype on a dress form beside a folded roll of keratin textile in the atelier\")",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A lavender pillow with three woven bundles of brown human hair on its face and a red light glowing at one edge",
+     "credit": "Photo: Guridi and Iannacchero, CC BY",
+     "url": "https://www.cambridge.org/core/journals/biotechnology-design/article/embrace-the-frizz-use-of-human-hair-for-triboelectric-interactive-textiles/8AE6DFD3C009FC6A145D9DD92817069A (Figure 2)",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A blue and white woven sample carrying a bundle of brown human hair, held between a clear cylinder and a copper-taped plate in a testing machine",
+     "credit": "Photo: Guridi and Iannacchero, CC BY",
+     "url": "https://www.cambridge.org/core/journals/biotechnology-design/article/embrace-the-frizz-use-of-human-hair-for-triboelectric-interactive-textiles/8AE6DFD3C009FC6A145D9DD92817069A (Figure 1, panel a)",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "A person's hand rests on a stack of pink and grey felt swatches on a laboratory table beside two mugs, a poster frame from the company page",
+     "credit": "Source: Human Material Loop",
+     "url": "https://www.humanmaterialloop.com/human-material-loop (poster frame \"hml-material-poster\")",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: two hands hold and fold a grey and white woven fabric sample against a pale grey background",
+     "credit": "Photo: Medina Resic",
+     "url": "https://www.dezeen.com/2023/11/28/human-material-loop-textiles-from-hair/ (Dezeen, \"Human Material Loop sets out to commercialise textiles made from hair\", Rima Sabina Aouf, November 28, 2023; caption: The textiles have many desirable attributes, says the company. Photo by Medina Resic)",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "A blue upholstered armchair by Roger Haan, made with ādara felt, seen from the front against a pale studio background",
+     "credit": "Source: Human Material Loop",
+     "url": "https://www.humanmaterialloop.com/dutch-design-week-2026 (alt text \"Front view of the blue ādara® Felt chair by Roger Haan\")",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "proof-hemp-processing",
+   "date": "2026-10-18",
+   "id": "DDW-07",
+   "title": "The field is only the beginning of the hemp story",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Archived DDW25 SOW HEMP! project account",
+     "url": "https://site.ddw.nl/en/programme/16813/sow-hemp"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a field of industrial hemp near Biedermannsdorf, Lower Austria, in August 2026",
+     "credit": "Photo: D-Kuru",
+     "url": "https://commons.wikimedia.org/wiki/File%3AIndustrial_hemp_field_near_Biedermannsdorf_in_Lower_Austria%2C_Austria-field_VD_SE_hover_PNr%C2%B01281.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: close-up of hemp bast fibers peeling from a stem",
+     "credit": "Photo: SpessiG, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File%3AHemp_fiber.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a wooden hemp break (agramadora), an old hand machine for beating dry hemp stalks to free the fiber, in an ethnographic museum",
+     "credit": "Photo: Joan Gené, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File%3ALa_Porci%C3%BAncula._Museu._Etnografia._C%C3%A0nyem_02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Raw wool fleece and loose fibers laid on a hand-woven textile with embroidered lines on stone steps, a work by UMPRUM student Thea Skullerud from the hemp project",
+     "credit": "Photo: Vanessa Stefanetti, UMPRUM",
+     "url": "https://www.umprum.cz/cs/web/katedry/uzite-umeni/textil/konopi-jako-vlakno-lek-i-symbol-atelier-textilu-umprum-predstavi-na-artsemestru-rocni-vyzkum-lokalni-suroviny",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a woven wool throw with fringe made by the Kubak mill in Strmilov, draped on a fence in front of grazing sheep",
+     "credit": "Source: Tkalcovna Kubák",
+     "url": "https://www.tkalcovna.cz/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A vase-shaped object by UMPRUM student Daniel Farkas covered in raw wool and plant fibers, shown whole on a stone ledge",
+     "credit": "Photo: Klara Dostalova, UMPRUM",
+     "url": "https://www.umprum.cz/cs/web/katedry/uzite-umeni/textil/konopi-jako-vlakno-lek-i-symbol-atelier-textilu-umprum-predstavi-na-artsemestru-rocni-vyzkum-lokalni-suroviny",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: the UMPRUM textile studio's exhibition hall at Dutch Design Week 2019 in Eindhoven, with pink flooring and display tables",
+     "credit": "Source: UMPRUM",
+     "url": "https://www.umprum.cz/en/web/studios/applied-arts/textile/national-treasure-czech-craft-is-here",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: woven fiber forms, stacked red and yellow bundles on pallets and red trays on a pink floor in the UMPRUM textile studio's space at Dutch Design Week 2019 in Eindhoven",
+     "credit": "Source: UMPRUM",
+     "url": "https://www.umprum.cz/en/web/studios/applied-arts/textile/national-treasure-czech-craft-is-here",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A wooden shuttle resting on checked cloth in a loom at the Kubak weaving mill in Strmilov, the mill the archived account names as the collaborator in the middle of the route",
+     "credit": "Source: Tkalcovna Kubák",
+     "url": "https://www.tkalcovna.cz/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "proof-material-knowledge",
+   "date": "2026-10-18",
+   "id": "DDW-08",
+   "title": "Show me what changed between the samples",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Archived DDW25 Biomaterials Library project account",
+     "url": "https://site.ddw.nl/en/programme/17371/biomaterials-library-lithuanian-amp-baltic-creators"
+    },
+    {
+     "label": "Biomaterials Library About page: publicly stated knowledge-sharing purpose",
+     "url": "https://www.biomaterialslibrary.com/about"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Glazed test strips and half-dipped samples hung beside larger finished green and ochre tiles on a white wall, all from one Biomaterials Library ceramic project",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/terres-emaill%C3%A9es",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Six flat composite samples laid side by side on a pale ground, in different colors and textures: green with dried grass, dark brown with flecks, and orange with coarse chips",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/materials-1",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Hands arrange flat tan and ochre bio-based sample tiles on a white work surface next to a small glass dish of pale powder",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/materials-1",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A grid of dark, rough-surfaced tiles made from coffee waste, with uneven edges, wrinkled surfaces and gaps between them",
+     "credit": "Source: Waste Matters Studio",
+     "url": "https://site.ddw.nl/en/programme/17371/biomaterials-library-lithuanian-amp-baltic-creators",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Two thick slabs of a dark, chip-flecked bio-based board, one leaning on the other, on a pale table against a taupe wall",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/about",
+     "card": false
+    },
+    {
+     "where": "Slide 6a",
+     "what": "Lumps of raw clay and rock, a raw tile and a fired tile laid on a pale board, each with a handwritten label beside it, with glass jars of ground material behind",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/terres-emaill%C3%A9es",
+     "card": false
+    },
+    {
+     "where": "Slide 6b",
+     "what": "Six pale cards laid on a concrete floor, each holding offcuts of one kind of stone, such as marble, amethyst, limestone, onyx, travertine and granite, with a small hand-lettered tag naming it",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/stone-waste-is-bliss",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Orange-red mineral powder heaped in a glass dish beside glazed white and grey ceramic test tiles on a grey bench, from a project page on the Biomaterials Library website",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/ignorance-is-bliss",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: three dark, glossy, pitted sample objects standing untouched on a white surface, with shelves of small labeled samples blurred behind them, from the Biomaterials Library website",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/materials-1",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A stack of finished bowls in warm browns and olive greens, made from tree bark composite, on a plain white ground",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/giria",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-workshop-publishing",
+   "date": "2026-10-18",
+   "id": "DDW-09",
+   "title": "A workshop is a form of publishing",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW current 2026 Atelier Fig: Fringe listing, verified 4 October 2026 UTC",
+     "url": "https://ddw.nl/en/programme/atelier-fig-presents-fringe"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A set of white porcelain tableware with fringe-cut edges, a stack of plates, bowls and a small cup, on a grey table against a plywood wall",
+     "credit": "Source: Atelier Fig",
+     "url": "https://www.atelierfig.com/samples",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A woven basket-shaped clay form on a plywood board on a workbench in front of a window, with a rolled foam sheet and a pair of gloves beside it",
+     "credit": "Source: Atelier Fig",
+     "url": "https://www.atelierfig.com/samples",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "Rows of white fringe-edged porcelain bowls on a wooden table, each holding a small serving of food",
+     "credit": "Source: Atelier Fig",
+     "url": "https://www.atelierfig.com/samples",
+     "card": false
+    },
+    {
+     "where": "Slide 3b",
+     "what": "Two white porcelain dishes with fringe-cut edges, a low round dish and a taller cup, on a woven mat in a dark room with a shaft of light",
+     "credit": "Source: Atelier Fig",
+     "url": "https://www.atelierfig.com",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Cropped black-and-white photograph: a flat steel strip rests on the top edge of a slab of dark clay whose face is cut into deep vertical fringes, with a hand gripping the strip",
+     "credit": "Source: DDW / Atelier Fig",
+     "url": "https://ddw.nl/en/programme/atelier-fig-presents-fringe",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Hands steady a round block of clay on a turntable on a workbench; one side of the block is cut into deep vertical fringes and the other side is still smooth",
+     "credit": "Source: Atelier Fig",
+     "url": "https://www.atelierfig.com/samples",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Cropped photograph: two pairs of hands on a round block of clay with deep vertical fringe cuts, one hand gripping the cut side from the left and one resting flat on top",
+     "credit": "Source: Atelier Fig, cropped",
+     "url": "https://www.atelierfig.com",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Tall slabs of grey clay cut into deep vertical fringes, standing on plywood boards in a workshop",
+     "credit": "Source: DDW / Atelier Fig",
+     "url": "https://ddw.nl/en/programme/atelier-fig-presents-fringe",
+     "card": false
+    },
+    {
+     "where": "Slide 8a",
+     "what": "Illustrative photo: stacked white plaster moulds in the Atelier Fig workshop, with a fringe-edged white cast sitting in the top mould",
+     "credit": "Source: Atelier Fig",
+     "url": "https://www.atelierfig.com/samples",
+     "card": false
+    },
+    {
+     "where": "Slide 8b",
+     "what": "Illustrative photo: a latte with a leaf pattern in a blue cup with a fringe-cut, ridged outer wall, on a wooden table, from the Dutch Design Week listing for Fringe",
+     "credit": "Source: Atelier Fig (DDW listing)",
+     "url": "https://ddw.nl/en/programme/atelier-fig-presents-fringe",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "A single cream-colored Fringe coffee mug with a ridged, fringe-cut body and a square handle, on a plain pale surface against a plywood wall",
+     "credit": "Source: Atelier Fig",
+     "url": "https://www.atelierfig.com",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-website-dependencies",
+   "date": "2026-10-18",
+   "id": "DDW-10",
+   "title": "Who does your website depend on?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Studio Falkland project description",
+     "url": "https://falkland.studio/en"
+    },
+    {
+     "label": "Project repository: methods, refresh structure and dataset reuse boundary",
+     "url": "https://github.com/studio-falkland/zijn-we-al-autonoom"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: the Equinix AM3 and AM4 data centre buildings in Amsterdam under a blue sky, one tall dark tower beside lower halls",
+     "credit": "Photo: Choinowski",
+     "url": "https://commons.wikimedia.org/wiki/File:Datacenter_Equinix_AM3_&_AM4_Amsterdam.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a large red emergency stop button on a wooden post in a gallery, with a sign reading \"Emergency stop, press and hold\". It stands in for the red button the project description mentions",
+     "credit": "Photo: Angus Fraser",
+     "url": "https://commons.wikimedia.org/wiki/File:Big_red_emergency_stop_button_(2972000481).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a yellow fiber-optic patch cable with blue connectors, coiled in a clear bag with a printed label, on dark stone",
+     "credit": "Photo: Asurnipal",
+     "url": "https://commons.wikimedia.org/wiki/File:Optical_fiber_connectors-optical_patch_cable-01ASD.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Illustrative photo: a big red dome button on a gray housing, close up",
+     "credit": "Photo: Jeremy Keith",
+     "url": "https://commons.wikimedia.org/wiki/File:Big_red_button_(9785086676).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Illustrative photo: a round red emergency stop button on a yellow disc, mounted on a pale wall plate",
+     "credit": "Photo: Alan Levine",
+     "url": "https://commons.wikimedia.org/wiki/File:Big_Red_Button_(7464994482).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a red Ethernet patch cable with a plug at its free end, lying on a white surface and not connected to anything",
+     "credit": "Photo: heimnetzwerke.net",
+     "url": "https://commons.wikimedia.org/wiki/File:Patch_cable_with_RJ45_connector.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: rack servers in a data center, five labeled units stacked above a bundle of network cables, from Wikimedia's 2007 server room",
+     "credit": "Photo: Florence Devouard",
+     "url": "https://commons.wikimedia.org/wiki/File:WikimediaServersOct07_4.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a black desk flip calendar showing Monday, 7 and 11, on a counter in front of printed Japanese certificate forms",
+     "credit": "Photo: Nesnad",
+     "url": "https://commons.wikimedia.org/wiki/File:Desk_calendar_2022_July_11_-_03-53PM.jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a laptop on a white surface with lines of source code on its screen",
+     "credit": "Photo: Artem Sapegin",
+     "url": "https://commons.wikimedia.org/wiki/File:Lines_of_code_(Unsplash).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: the Solcon data centre building in the Netherlands, a blue and glass office-and-hall building with a paved path in front",
+     "credit": "Photo: Apdency",
+     "url": "https://commons.wikimedia.org/wiki/File:Datacenter_Solcon.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a large data center complex in Middenmeer, the Netherlands, seen from a public road across a strip of grass and a black metal fence, with grey and green hall blocks and exhaust stacks under heavy cloud",
+     "credit": "Photo: Hay Kranen",
+     "url": "https://commons.wikimedia.org/wiki/File:Microsoft_Data_Center_Middenmeer,_the_Netherlands_-_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: a white Wi-Fi router with two antennas and a row of lit blue status lights on its front, with its cables plugged in",
+     "credit": "Photo: Solijon Solayev",
+     "url": "https://commons.wikimedia.org/wiki/File:Wi-fi_router.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: a stack of network switches with red and yellow cables plugged into their ports, in a lab",
+     "credit": "Photo: Jemimus",
+     "url": "https://commons.wikimedia.org/wiki/File:Cisco_switch_stack_-_IMG_0691.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-after-exhibition",
+   "date": "2026-10-18",
+   "id": "DDW-11",
+   "title": "What happens after the exhibition closes?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Packet Run public repository: later exhibition availability",
+     "url": "https://github.com/bmd-studio/packet-run"
+    },
+    {
+     "label": "Zijn we al autonoom? public refresh and reuse documentation",
+     "url": "https://github.com/studio-falkland/zijn-we-al-autonoom"
+    },
+    {
+     "label": "Biomaterials Library current 2026 DDW listing: physical archive and knowledge sharing",
+     "url": "https://ddw.nl/en/programme/biomaterials-library-lithuanian-baltic-creators"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Packet Run installation at Dutch Design Week 2023: a wooden terminal with a screen reading 'Place your ball on the scanner' stands in front of a hall hung with orange cords over a field of steel marble tracks",
+     "credit": "Source: Dutch Design Week archive",
+     "url": "https://site.ddw.nl/en/programme/9961/packet-run",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: 27 round material samples in rows of three by nine on a white ground, from pale yellow through green and orange to deep red and black",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/materials-1",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Two rows of material samples on cardboard: a twisted yellow sheet, a row of rounded blocks graduating from sand to purple-black, and four flat tiles below",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/general-6",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "A visitor's hand on the controls of a Packet Run terminal, with a screen showing a route map and the steel rails and orange cords of the installation behind it",
+     "credit": "Source: NEMO Kennislink",
+     "url": "https://www.nemokennislink.nl/publicaties/het-internet-als-knikkerbaan/",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "A wide view over the steel marble tracks of the Packet Run installation, with orange cords hanging from above and wooden terminals at the edges",
+     "credit": "Source: SIDN Labs",
+     "url": "https://www.sidnlabs.nl/en/news-and-blogs/packet-run-is-an-interactive-marble-run-that-shows-people-how-internet-works",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a rubber date stamp with a dial of digits set to a date, on a plain ground",
+     "credit": "Photo: Asanagi",
+     "url": "https://commons.wikimedia.org/wiki/File:Date_stamp_2025-04-17.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Four bark-composite samples, each mounted on a printed white card carrying the material name and details, on a white ground",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/giria",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a black self-inking date stamp seen from the front in black and white, its dials showing months and years that can be reset",
+     "credit": "Photo: Zv0486",
+     "url": "https://commons.wikimedia.org/wiki/File:Rubber_stamp_printy_dater.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: ceramic-like tile samples in cream, brown, white and black laid on a grey surface in a diamond pattern",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/materials-1",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: one Packet Run terminal unit, a wooden desk with a monitor showing a web page, a keyboard and a red and blue trackball, photographed at Dutch Design Week 2023",
+     "credit": "Source: NEMO Kennislink",
+     "url": "https://www.nemokennislink.nl/publicaties/het-internet-als-knikkerbaan/",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a close view of the Packet Run marble tracks at Dutch Design Week 2023, with steel rails, orange 3D-printed clips, coil springs and orange cords",
+     "credit": "Source: Dutch Design Week archive",
+     "url": "https://site.ddw.nl/en/programme/9961/packet-run",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: a hand lifts the corner of a translucent amber sheet from a stack of similar sheets on a white ground",
+     "credit": "Source: Biomaterials Library",
+     "url": "https://www.biomaterialslibrary.com/general-6",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: the screen of a Packet Run terminal at Dutch Design Week 2023, showing a route map of the Netherlands and the prompt 'Guide your packet onwards'. It shows a question a visitor answers alone at the machine; it does not show anyone asking the maker",
+     "credit": "Source: NEMO Kennislink",
+     "url": "https://www.nemokennislink.nl/publicaties/het-internet-als-knikkerbaan/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-photograph-explanation",
+   "date": "2026-10-18",
+   "id": "DDW-12",
+   "title": "What a photograph still cannot explain",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "W3C WAI image tutorial: text alternatives by image purpose",
+     "url": "https://www.w3.org/WAI/tutorials/images/"
+    },
+    {
+     "label": "W3C WAI complex image guidance: fuller explanation",
+     "url": "https://www.w3.org/WAI/tutorials/images/complex/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A hand wood chisel lying beside two wooden angle gauges and a red carpenter's pencil on a plain surface, photographed sharply",
+     "credit": "Photo: Uwe Aranas",
+     "url": "https://commons.wikimedia.org/wiki/File:Carpenter-tools_Beveled-edge-chisel-two-angle-gauges-and-carpenters-pencil-01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A herbarium sheet from the UPLB Museum of Natural History in the Philippines with several branches of Urophyllum subglabrum pressed on one sheet, a color chart and the printed collection label at the lower right",
+     "credit": "Photo: UPLB MNH Digital Archives",
+     "url": "https://commons.wikimedia.org/wiki/File:MNH_DA_231-RUBI-1581_Urophyllum_subglabrum_Merr.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A flat metal test specimen clamped in the jaws of a Walter+Bai tensile testing machine, with the upper and lower grips and the machine columns in view",
+     "credit": "Photo: Cdang",
+     "url": "https://commons.wikimedia.org/wiki/File:Eprouvette_plate_cassee_wb.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "The foot of a museum specimen of a slender-billed curlew (Numenius tenuirostris) on its wooden mount, with the Zoologisch Museum Amsterdam label tied to its leg: collected at Hallum, Friesland, on December 27, 1889, specimen number 1670 (ZMA.AVES.1670 at the Naturalis Biodiversity Center)",
+     "credit": "Photo: Naturalis Biodiversity Center",
+     "url": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_ZMA.AVES.1670_-_Numenius_tenuirostris_Vieillot,_1817_-_Scolopacidae_-_skin_specimen,_label_close-up.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Cone shells of Conus magus laid out with their collection labels and a printed identifier, RMNH.MOL.224956, at the Naturalis Biodiversity Center",
+     "credit": "Photo: Naturalis Biodiversity Center",
+     "url": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.MOL.224956_-_Conus_magus_Linnaeus,_1758_-_Conidae_-_Mollusc_shell.jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a hand-drawn graphic recording hung on a wall at the AAR2 stakeholder workshop in Vienna in June 2025, showing connected topics and organizations as lines and icons",
+     "credit": "Photo: Karin Hofmann",
+     "url": "https://commons.wikimedia.org/wiki/File:Graphic_recording_at_the_AAR2_stakeholder_workshop_06-2025_-_04.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a Roman marble portrait head of an elderly man, first century B.C., with a lined face and a worn nose, lit against a dark ground in the Metropolitan Museum of Art",
+     "credit": "Source: The Met Museum Open Access",
+     "url": "https://commons.wikimedia.org/wiki/File:Marble_portrait_head_of_an_elderly_man_MET_DP336050.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A museum skin of a serotine bat, seen from below, laid on a gridded mat beside its box, a paper tag tied to the specimen and a printed identifier label, RMNH.MAM.13278, with its code, at the Naturalis Biodiversity Center",
+     "credit": "Photo: Naturalis Biodiversity Center",
+     "url": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.MAM.13278_ven_-_Eptesicus_serotinus_-_skin.jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A herbarium sheet from the UPLB Museum of Natural History with a pressed Urophyllum branch, a printed Palawan Botanical Expedition collection label at the upper left, a hand tag and a color chart",
+     "credit": "Photo: UPLB MNH Digital Archives",
+     "url": "https://commons.wikimedia.org/wiki/File:MNH_DA_231-RUBI-1575_Urophyllum_Jack_ex_Wall.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: an EMI BTR3/2 tape recorder in a museum display at The Beatles Story, with a caption plate on the wall at upper left reading \"Tape recording deck 1958/59, used at Abbey Road Studios throughout the 1960s\" (the end of the plate is cut by the frame)",
+     "credit": "Photo: Richardjo53",
+     "url": "https://commons.wikimedia.org/wiki/File:EMI_BTR3-2_stereo_recorder_(1958_or_59)_used_at_Abbey_Road_Studios_throughout_the_1960s_-_control_panel_-_The_Beatles_Story_(2012-03-25_by_Richardjo53).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: rows of labeled archival document boxes on metal shelves at York University Libraries in Toronto, photographed in 2015",
+     "credit": "Photo: Smallison",
+     "url": "https://commons.wikimedia.org/wiki/File:Boxes_of_archival_documents.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "A camera with a long lens aimed at a knitted doll standing in a small home-made light tent on a desk",
+     "credit": "Photo: Friedrich Haag",
+     "url": "https://commons.wikimedia.org/wiki/File:001_2021_03_05_Lichtzeltfotografie.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-design-visibility",
+   "date": "2026-10-18",
+   "id": "DDW-13",
+   "title": "Who gets to decide what gets seen?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW26 Table of Power exhibitor account",
+     "url": "https://ddw.nl/en/programme/table-of-power"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "An overhead view of a long table with a dark mottled steel top and a tall pale lamp running along it, with shelves and a half-disc sculpture on either side",
+     "credit": "Photo: Frank Penders",
+     "url": "https://ddw.nl/en/programme/table-of-power",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a long polished table running into the depth of a white gallery at De Kruisruimte, with curtains at the far end and sculptures beside it, from SHOW NOT SHOW's 2025 exhibition",
+     "credit": "Source: SHOW NOT SHOW, DDW 2025",
+     "url": "https://ddw.nl/en/programme/archive/2025/insert-concept-here",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "A boardroom with a very long dark meeting table, green leather chairs along both sides and a world map on the end wall",
+     "credit": "Photo: Jacqueline Hassink",
+     "url": "https://www.itsnicethat.com/articles/jacqueline-hassink",
+     "card": false
+    },
+    {
+     "where": "Slide 3b",
+     "what": "An ornate boardroom with chandeliers, gilt ceiling mouldings and a huge oval table of polished wood on a deep blue carpet",
+     "credit": "Photo: Jacqueline Hassink",
+     "url": "https://www.itsnicethat.com/articles/jacqueline-hassink",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a dark dining table with red-brown chairs and a tall lamp on a rug in a concrete hall, beside a set of glowing floor lamps, from the SHOW NOT SHOW program page",
+     "credit": "Source: SHOW NOT SHOW, DDW 2026",
+     "url": "https://ddw.nl/en/programme/table-of-power",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: three views of a pale hall with a sculpted rug, a long counter with pale wood stools and a wall lamp, and a glass wall with a rough white block seat, from the SHOW NOT SHOW program page",
+     "credit": "Source: SHOW NOT SHOW, DDW 2026",
+     "url": "https://ddw.nl/en/programme/table-of-power",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a white entrance hall at De Kruisruimte in 2024 with an introductory text panel on the wall, three framed dark shapes, a steel staircase and a yellow hanging lamp",
+     "credit": "Source: Dutch Design Daily",
+     "url": "https://dutchdesigndaily.com/?p=104426",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: a long, low table of brick-red blocks on many square legs against a pale ground, beside a close-up of blue and white painted pillars, from SHOW NOT SHOW's 2025 DDW exhibition (work by Clovis Atelier and Marc Meeuwissen, Dear Objects)",
+     "credit": "Source: SHOW NOT SHOW, DDW 2025",
+     "url": "https://ddw.nl/en/programme/archive/2025/insert-concept-here",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: a round walnut table on a carved pedestal base against a pale ground, beside a close-up of a starburst of pale light tubes, from SHOW NOT SHOW's 2025 DDW exhibition (work by Lucas Zito for Mokko)",
+     "credit": "Source: SHOW NOT SHOW, DDW 2025",
+     "url": "https://ddw.nl/en/programme/archive/2025/insert-concept-here",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a single green chair standing alone on a gray floor in a concrete hall, beside a dark sculpture, at the right of a three-view program-page image from SHOW NOT SHOW. It shows an empty chair; it is not at the Table of Power table",
+     "credit": "Source: SHOW NOT SHOW, DDW 2026",
+     "url": "https://ddw.nl/en/programme/table-of-power",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-living-care",
+   "date": "2026-10-18",
+   "id": "DDW-14",
+   "title": "Would you wear something you had to care for?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW26 KojiGotchi exhibitor account",
+     "url": "https://ddw.nl/en/programme/kojigotchi-a-tamagotchi-for-the-microbial-age-1"
+    },
+    {
+     "label": "KojiGotchi team homepage",
+     "url": "https://kojigotchi.maximvelli.com/"
+    },
+    {
+     "label": "Team’s published user-study account",
+     "url": "https://kojigotchi.maximvelli.com/user-studies/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The KojiGotchi device held in a hand: a black 3D-printed egg-shaped body with a clear chamber of rice at the bottom and a pink cord tied at the top for wearing",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/experiments/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Hands tearing a lump of cooked-rice flour apart over a white bowl, a setup activity from the KojiGotchi user study",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/user-studies/",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "A KojiGotchi prototype in a hand: the black body with a screen opening and speaker holes above the transparent chamber of rice",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/product-design/",
+     "card": false
+    },
+    {
+     "where": "Slide 3b",
+     "what": "A KojiGotchi prototype held up against a wall, the open window above the chamber with a card inside and rice below",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/experiments/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A KojiGotchi chamber filled with rice, held in a hand, the contents visible through the clear shell with the pink cord trailing",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/experiments/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A still from the team's KojiGotchi video, cropped to the KojiMoji avatar: a small smiling character with sparkles and a CO2 readout on the device's screen",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://maximvelli.com/kojigotchi-your-companion-into-post-human-ecologies/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A KojiGotchi device hanging on its cord against a person's side as worn, cropped below the face from a mirror selfie",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/experiments/",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: the KojiGotchi user-study table with bowls of grains and rice flour, wooden spoons, a yellow KojiGotchi unit and a pink virtual-pet toy",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/user-studies/",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: a second view of the user-study table, a yellow KojiGotchi unit beside bowls of grain, a jar and a wooden board",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/user-studies/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A KojiGotchi device set down on the arm of a sofa, its pink cord trailing: an unworn view of the dark egg-shaped body with a tape patch on its side",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/experiments/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-sensor-interpretation",
+   "date": "2026-10-18",
+   "id": "DDW-15",
+   "title": "What is the sensor actually telling you?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "KojiGotchi team homepage",
+     "url": "https://kojigotchi.maximvelli.com/"
+    },
+    {
+     "label": "KojiGotchi team experiments",
+     "url": "https://kojigotchi.maximvelli.com/experiments/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A hand holds the 3D-printed, egg-shaped KojiGotchi test container",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/experiments/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Sensor boards wired to boxes of steamed rice on the shelves of an incubator, from the KojiGotchi team's third experiment, where it tested temperature, humidity, oxygen, moisture and color sensors",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/experiments/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a handheld thermal camera in a bright hall, its screen showing people as bands of color, taken at the KojiGotchi team's user study",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/user-studies/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a hand holds the yellow KojiGotchi device over a table of grain bowls at the team's user study while another arm reaches in",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/user-studies/",
+     "card": false
+    },
+    {
+     "where": "Slide 5a",
+     "what": "A two-pronged soil moisture sensor on a metal surface, its board edges and contacts corroded",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/experiments/",
+     "card": false
+    },
+    {
+     "where": "Slide 5b",
+     "what": "A small sensor board with a 100 nanofarad capacitor added, held in tweezers on a round black base",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/experiments/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the yellow KojiGotchi device lying on a wooden board among bowls of grain at the team's user study, its small screen at the top and clear chamber at the bottom",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/user-studies/",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "A hand holds the KojiGotchi container at hour 48 of the proof-of-concept experiment",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/experiments/",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "The open 3D-printed container of the second KojiGotchi experiment, held against a gray cloth: a small digital thermometer sits inside the black shell beside a paper sachet, its display showing a number and a small face icon, with pink string attached",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/experiments/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A participant at the KojiGotchi user study holds the whole yellow device against their chest, small screen at the top and clear rice chamber at the bottom, with grain bowls on the table",
+     "credit": "Photo: KojiGotchi team",
+     "url": "https://kojigotchi.maximvelli.com/user-studies/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-press-preparation",
+   "date": "2026-10-18",
+   "id": "DDW-16",
+   "title": "The press pass gets you through the door. Then what?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW26 Table of Power exhibitor account",
+     "url": "https://ddw.nl/en/programme/table-of-power"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Ketelhuisplein at Strijp-S in Eindhoven during Dutch Design Week 2025: a ring of wooden seating, a blue sail canopy, banner flags on a scaffold tower and a Check in sign at the pavilion on the right",
+     "credit": "Photo: Max Kneefel",
+     "url": "https://ddw.nl/en/press/image-bank (item \"18 October 2025 Ketelhuisplein\", Max Kneefel)",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: hands hold the folded Dutch Design Week 2025 programme behind a visitor's back, against a plaid coat, in front of a wooden exhibition wall",
+     "credit": "Photo: Max Kneefel",
+     "url": "https://ddw.nl/en/press/image-bank (item \"18 October 2025 Ketelhuisplein\", Max Kneefel)",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A Dutch Design Week 2025 exhibit of soft felt bombs hung and standing in a curtained room, with a black tag reading B61-12 Nuclear Bomb, a wooden label on the grey felt form, a blue sign asking Would you give up a bit of safety for a world with less fear, and a visitor passing in motion",
+     "credit": "Photo: Max Kneefel",
+     "url": "https://ddw.nl/en/press/image-bank (item \"18 October 2025 Foundation We Are\", Max Kneefel)",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A visitor seen from behind holds a phone up to photograph a white wall hung with cream wool garments, including a sweater reading KNIT EPIC SHIT, beside a wall label headed Regional Wool Project, at Dutch Design Week 2025",
+     "credit": "Photo: Max Kneefel",
+     "url": "https://ddw.nl/en/press/image-bank (item \"18 October 2025 New Order of Fashion\", Max Kneefel)",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a placard on a lobby table reading Absolutely no: photos, videos, recordings, in a performing arts center in the United States",
+     "credit": "Photo: Baron Maddock, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Photography_and_recording_prohibition_sign_at_the_Mary_D%27Angelo_Performing_Arts_Center_-_Mercyhurst_University.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a flat scan of a black-and-white contact sheet from a 1993 trip, rows of film frames with blank subject and technical data fields at the top",
+     "credit": "Photo: Infrogmation, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Contact_Sheet_Autumn_1993_-_Milan.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Illustrative photo: the whitewashed arched hall of De Kruisruimte in Eindhoven during the 2024 SHOW NOT SHOW exhibition, with dark furniture, a red painting and tall lamps",
+     "credit": "Photo: Dutch Design Daily",
+     "url": "https://dutchdesigndaily.com/stories/show-not-show/ (story \"DDW24 - Show Not Show\", October 20, 2024)",
+     "card": false
+    },
+    {
+     "where": "Slide 7b",
+     "what": "Illustrative photo: two pairs of hands rest on an unfolded Dutch Design Week 2025 programme and city map on a speckled table, one pointing at a line in the listings and one at a spot on the map",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://ddw.nl/en/press/image-bank (item \"Eindhoven Centraal Station\", October 18, 2025, Max Kneefel)",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: an open notebook with a pen lying across the pages, a weekly schedule of dated tasks on the right page and progress bars on the left",
+     "credit": "Photo: Matt Ragland",
+     "url": "https://commons.wikimedia.org/wiki/File:Bullet-Journal-by-Matt-Ragland.jpg (credit line on Commons: https://unsplash.com/photos/8OVDzMGB_kw)",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "essay-clothing-policy",
+   "date": "2026-10-18",
+   "id": "DDW-17",
+   "title": "How could a clothing manifesto become policy?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW2026 program",
+     "url": "https://ddw.nl/en/programme/de-klerenpartij"
+    },
+    {
+     "label": "Eindhoven council: official role, participation and public record context",
+     "url": "https://www.eindhoven.nl/bestuur-en-beleid/bestuur/gemeenteraad"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A speaker in an orange knitted balaclava stands at a wooden lectern in a council chamber, with council desks and chairs in the foreground",
+     "credit": "Photo: Lois Cohen",
+     "url": "https://ddw.nl/en/programme/de-klerenpartij",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Members of De Klerenpartij in knitted balaclavas hold a pink banner that reads \"Weg met die klerenzooi\" with the address deklerenpartij.nl and a QR code, behind pink placards that read \"Stem de Klerenpartij\", \"Nu naait kleding jou\" and \"Mode bewust\". It shows the party's own banner, not an installation at Dutch Design Week",
+     "credit": "Source: De Klerenpartij",
+     "url": "https://deklerenpartij.nl/",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "The Eindhoven city hall on Stadhuisplein: a gray concrete tower beside a long, low building, seen across Stadhuisplein and cropped to the building",
+     "credit": "Photo: S. Perquin",
+     "url": "https://commons.wikimedia.org/wiki/File:Stadhuis_Eindhoven_(2025).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3b",
+     "what": "Raised view of the Eindhoven city hall and Stadhuisplein, with the concrete tower, the low main building and the paved square, photographed in May 2007",
+     "credit": "Photo: Kris Roderburg / RCE",
+     "url": "https://commons.wikimedia.org/wiki/File:Overzicht_stadhuis_met_Stadhuisplein,_gezien_vanaf_de_Wal_-_Eindhoven_-_20413333_-_RCE.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A person in a bright green knitted balaclava with pom-poms and a matching green sweater, photographed against a gray wall",
+     "credit": "Photo: Lois Cohen",
+     "url": "https://deklerenpartij.nl/2025/10/de-klerenpartij-gelanceerd-in-amsterdam/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The council chamber (raadzaal) of the Eindhoven city hall, empty: curved wooden council desks with microphones, two lecterns on a wooden floor and a large screen on the far wall",
+     "credit": "Photo: S. Perquin",
+     "url": "https://commons.wikimedia.org/wiki/File:Raadzaal_stadhuis_Eindhoven_(2025)_(1).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a council chamber with wooden wall panels, people seated at curved desks and a speaker area at the back, from the Arnhem council chamber used for De Klerenpartij's earlier staged meeting",
+     "credit": "Source: De Klerenpartij",
+     "url": "https://deklerenpartij.nl/2026/05/politieke-moties-voor-een-beter-kledingsysteem/",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Two knitted balaclavas worn by De Klerenpartij members, one orange with orange pom-poms and one blue and red with crocheted spikes, next to a person in a green sweater and green pom-pom balaclava",
+     "credit": "Photo: Lois Cohen",
+     "url": "https://deklerenpartij.nl/english/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: pink printed placards reading \"Stem de Klerenpartij\", \"Nu naait kleding jou\" and \"Mode bewust\" held up above a banner reading \"Weg met die klerenzooi\" by members in knitted balaclavas",
+     "credit": "Photo: Lois Cohen",
+     "url": "https://ddw.nl/en/programme/de-klerenpartij",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The empty council chamber of the Eindhoven city hall seen from the side of a lectern: a ring of wooden council desks and chairs, a public gallery at the back and a large screen",
+     "credit": "Photo: S. Perquin",
+     "url": "https://commons.wikimedia.org/wiki/File:Raadzaal_stadhuis_Eindhoven_(2025)_(2).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: the empty Eindhoven council chamber with two wooden lecterns in the middle and curved council desks around them, photographed on Open Monument Day 2025",
+     "credit": "Photo: S. Perquin",
+     "url": "https://commons.wikimedia.org/wiki/File:Raadzaal_stadhuis_Eindhoven_(2025)_(3).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "essay-love-payment",
+   "date": "2026-10-18",
+   "id": "DDW-18",
+   "title": "Love is not the same thing as payment",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW2026 program",
+     "url": "https://ddw.nl/en/programme/i-do-it-because-i-love-it"
+    },
+    {
+     "label": "ILO care economy: paid/unpaid and household/institution distinctions",
+     "url": "https://www.ilo.org/topics-and-sectors/care-economy"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: Manshee Zheng's 2025 installation I Have Nothing To Hide at Frascati Amsterdam, a white sculpted figure seated on a metal table in a paneled room, the lead image on the Dutch Design Week page for I Do It Because I Love It",
+     "credit": "Photo: Manshee Zheng",
+     "url": "https://ddw.nl/en/programme/i-do-it-because-i-love-it",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Work in progress for I Do It Because I Love It: a mirrored portrait printed onto a human-sized mirror, as published on the Dutch Design Week page",
+     "credit": "Photo: Manshee Zheng",
+     "url": "https://ddw.nl/en/programme/i-do-it-because-i-love-it",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "Illustrative photo: two white sculpted figures on a metal table in a paneled room at Frascati Amsterdam, from the artist's 2026 showing of her earlier work I Have Nothing To Hide, documentation image from her site",
+     "credit": "Photo: Manshee Zheng",
+     "url": "https://mansheesleathergloves.com/in-collab-with-trevoga-at-frascati-amsterdam,-2026",
+     "card": false
+    },
+    {
+     "where": "Slide 3b",
+     "what": "Illustrative photo: a ready-made wooden cupboard with a partly open door and a light inside, standing in an empty white room, from Zheng's 2025 installation I Have Nothing To Hide",
+     "credit": "Photo: Manshee Zheng",
+     "url": "https://mansheesleathergloves.com/i-have-nothing-to-hide-(installation),-2025",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Work in progress for I Do It Because I Love It: hands holding a phone that shows a liked Instagram story of a Scottish landscape, the image the artist prints onto a glass tabletop in the installation",
+     "credit": "Photo: Manshee Zheng",
+     "url": "https://ddw.nl/en/programme/i-do-it-because-i-love-it",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: laser-engraved acrylic folders hanging above a glass table with a white resin figure, a framed print on a door behind, from Zheng's 2025 installation I Have Nothing To Hide, photographed by Django van Ardenne",
+     "credit": "Photo: Django van Ardenne",
+     "url": "https://mansheesleathergloves.com/i-have-nothing-to-hide-(installation),-2025",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a door with a print on its glass, a framed window print and hanging acrylic folders in one white room, objects from Zheng's 2025 installation I Have Nothing To Hide",
+     "credit": "Photo: Django van Ardenne",
+     "url": "https://mansheesleathergloves.com/i-have-nothing-to-hide-(installation),-2025",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a gilded brass plate on a marble pedestal in the Galleria Borghese, Rome, naming the sculptor Gian Lorenzo Bernini and his patron",
+     "credit": "Photo: Burkhard Mücke",
+     "url": "https://commons.wikimedia.org/wiki/File:Galleria_Borghese_54.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a wooden cupboard and a white resin figure on a glass table in a white room, from Zheng's 2025 installation I Have Nothing To Hide, photographed by Django van Ardenne, who is named in the source credit",
+     "credit": "Photo: Django van Ardenne",
+     "url": "https://mansheesleathergloves.com/i-have-nothing-to-hide-(installation),-2025",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: the Veem building at Strijp-S in Eindhoven seen from a tree-lined street",
+     "credit": "Photo: Choinowski",
+     "url": "https://commons.wikimedia.org/wiki/File:Veemgebouw_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: visitors walking across the entrance bridge toward the Veem building at Strijp-S in Eindhoven, with the lit VEEM sign above the doors, during Dutch Design Week 2019 (photo by Max Kneefel)",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/48990984656/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a lit white resin figure on a dark table in a dark room, from the artist's 2026 showing of her earlier sculpture at Frascati Amsterdam (with XX-63 by Trevoga)",
+     "credit": "Photo: Manshee Zheng",
+     "url": "https://mansheesleathergloves.com/in-collab-with-trevoga-at-frascati-amsterdam,-2026",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "essay-anatomy-viewpoint",
+   "date": "2026-10-18",
+   "id": "DDW-19",
+   "title": "An anatomy lesson has a point of view",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW2026 program",
+     "url": "https://ddw.nl/en/programme/queer-anatomy-theater-work-in-progress-showcase-1"
+    },
+    {
+     "label": "Rijksmuseum Boerhaave: named theatre copy and historical audience",
+     "url": "https://www.rijksmuseumboerhaave.nl/en/our-worlds/anatomical-theatre"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a dark exhibition hall with a row of lit circular screens on the wall and a large hanging fabric sculpture with monitors, the Atlas of Queer Anatomy installation at MU Hybrid Art House in 2023",
+     "credit": "Photo: Max Kneefel",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/atlas-of-queer-anatomy-2/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a painted papier-mache model of a human eye with the red eye muscle spread beside it, signed by Dr",
+     "credit": "Photo: Jos van den Broek",
+     "url": "https://commons.wikimedia.org/wiki/File:Museum_Boerhaave_-_Model_of_Eye_-_Dr_Azoux.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: a long display case in a dark gallery holding colorful printed collage spreads from the Atlas of Queer Anatomy",
+     "credit": "Photo: Max Kneefel",
+     "url": "https://dutchdesigndaily.com/stories/atlas-queer-anatomy/",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "The anatomical theater at Rijksmuseum Boerhaave in Leiden seen from the upper tier: steep circular wooden galleries around a small central dissection table with a skeleton standing beside it",
+     "credit": "Photo: Jos van den Broek",
+     "url": "https://commons.wikimedia.org/wiki/File:Museum_Boerhaave_-_Anatomical_Theatre.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "The upper level of the anatomical theater at Rijksmuseum Boerhaave: a circular wooden gallery ringed with standing skeletons and bare branches, with the theater's carved title board behind",
+     "credit": "Photo: Hnapel",
+     "url": "https://commons.wikimedia.org/wiki/File:Leiden_Museum_Boerhaave_Theatrum_Anatomicum_071915_07.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a white model of a human figure lying on the central table of the anatomical theater at Rijksmuseum Boerhaave, with a projector below it",
+     "credit": "Photo: Hnapel, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Leiden_Museum_Boerhaave_Theatrum_Anatomicum_071915_08.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: rows of skin-toned cloth panels hanging from rails in a dark hall, casting long shadows",
+     "credit": "Photo: Max Kneefel",
+     "url": "https://dutchdesigndaily.com/stories/atlas-queer-anatomy/",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a translucent sculpted model in front of a yellow and violet projection circle, with a visitor's finger pointing up at it from below",
+     "credit": "Photo: Max Kneefel, cropped",
+     "url": "https://www.dutchdesignawards.nl/en/gallery/atlas-of-queer-anatomy-2/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: the steep wooden tiers of the anatomical theater at Rijksmuseum Boerhaave, with a skeleton on the rail and a bare branch overhead",
+     "credit": "Photo: Herenld",
+     "url": "https://commons.wikimedia.org/wiki/File:Museum_Boerhaave_Theatre.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: the lit sign \"Anatomisch Theater\" above a glass display case at the entrance to the anatomical theater at Rijksmuseum Boerhaave",
+     "credit": "Photo: Hanno Lans",
+     "url": "https://commons.wikimedia.org/wiki/File:Rijksmuseum_Boerhaave_in_2019_foto_87.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: the entrance view of a dark exhibition hall with a hanging fabric sculpture and monitors on the left and lit circular screens on the right wall, the Atlas of Queer Anatomy installation in 2023",
+     "credit": "Photo: Max Kneefel",
+     "url": "https://dutchdesigndaily.com/stories/atlas-queer-anatomy/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a grey sculpted model mounted on a stand in front of a circular projection of swirling pink, green and violet patterns",
+     "credit": "Photo: Max Kneefel",
+     "url": "https://dutchdesigndaily.com/stories/atlas-queer-anatomy/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "essay-independent-collective",
+   "date": "2026-10-18",
+   "id": "DDW-20",
+   "title": "An independent practice still needs other people",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW2026 program",
+     "url": "https://ddw.nl/en/programme/labour-and-the-strength-of-a-union"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A bright gallery room at VI PER Gallery in Prague in 2025",
+     "credit": "Photo: Alex Shoots Buildings",
+     "url": "https://www.vipergallery.org/en/exhibition/taking-more-than-whats-there-to-give",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: the Klokgebouw at Strijp-S in Eindhoven, the building where the DDW program lists LABOUR for October 17 to 25, 2026",
+     "credit": "Photo: S. Perquin",
+     "url": "https://commons.wikimedia.org/wiki/File:Klokgebouw_(2024)_(1).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "A hand pressing a key on a white big-button telephone on a white table, the NAA piece shown at VI PER Gallery in Prague in 2025",
+     "credit": "Photo: Alex Shoots Buildings",
+     "url": "https://ddw.nl/en/programme/labour-and-the-strength-of-a-union",
+     "card": false
+    },
+    {
+     "where": "Slide 3b",
+     "what": "The FNV logo and the words Vakbondshuis Assen on a sign fixed to a timber-clad wall of an FNV union office in Assen, photographed in 2019",
+     "credit": "Photo: Donald Trung Quoc Don",
+     "url": "https://commons.wikimedia.org/wiki/File:FNV_Vakbondshuis_Assen,_Assen_(2019)_02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3c",
+     "what": "A second view of the VI PER Gallery room in Prague, 2025: a white table on thin black legs with the big-button telephone on it, a pale wall with panels behind",
+     "credit": "Photo: Alex Shoots Buildings",
+     "url": "https://www.vipergallery.org/en/exhibition/taking-more-than-whats-there-to-give",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a bundled stack of small printed booklets with marbled covers and a red title label, on a wooden table",
+     "credit": "Photo: Mike Dickison",
+     "url": "https://commons.wikimedia.org/wiki/File:What_is_Wikisource_zine_stack.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a green bulletin board covered in old staples and torn paper scraps where notices were once pinned",
+     "credit": "Photo: Easysayg",
+     "url": "https://commons.wikimedia.org/wiki/File:Close-up_of_bulletin_board_with_many_staples_(--wiki70).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a blank notepad with the FNV logo in one corner, on a dark surface, photographed in Oude Pekela in 2019",
+     "credit": "Photo: Donald Trung Quoc Don, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Federatie_Nederlandse_Vakbeweging_notepad,_Oude_Pekela_(2019)_02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a white gallery wall at VI PER Gallery, Prague, 2025, covered with several separate paper panels of photographs and text from different participants",
+     "credit": "Photo: Alex Shoots Buildings, cropped",
+     "url": "https://www.vipergallery.org/en/exhibition/taking-more-than-whats-there-to-give",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a close-up of long paper strips pinned to a white wall with small wooden pegs at VI PER Gallery, Prague, 2025",
+     "credit": "Photo: Alex Shoots Buildings",
+     "url": "https://www.vipergallery.org/en/exhibition/taking-more-than-whats-there-to-give",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: the entrance of an FNV Bondgenoten office in Veendam, a brick building with the FNV sign above double glass doors, photographed in 2020",
+     "credit": "Photo: Donald Trung Quoc Don",
+     "url": "https://commons.wikimedia.org/wiki/File:FNV_Bondgenoten,_Veendam_(2020)_02.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a projecting blade sign with the FNV logo and the words Vakbondshuis Assen, fixed to a red brick wall at the corner of an FNV union office in Assen, photographed in 2019",
+     "credit": "Photo: Donald Trung Quoc Don",
+     "url": "https://commons.wikimedia.org/wiki/File:FNV_Vakbondshuis_Assen,_Assen_(2019)_10.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: an empty small meeting room with a white table and yellow chairs set around it, photographed in 2019",
+     "credit": "Photo: Wikimedia Commons user",
+     "url": "https://commons.wikimedia.org/wiki/File:Meeting_room_20191007.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: a dim conference chamber in the Berlaymont building in Brussels in 2015, with curved tables, a microphone at each seat and tall windows over the city, two figures far off against the glass",
+     "credit": "Photo: Gnom",
+     "url": "https://commons.wikimedia.org/wiki/File:Conference_room_in_the_Berlaymont_building.JPG",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "essay-waiting-posture",
+   "date": "2026-10-18",
+   "id": "DDW-21",
+   "title": "Who has to stand while the bus is late?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW2026 program",
+     "url": "https://ddw.nl/en/programme/waiting-for-the-bus-2"
+    },
+    {
+     "label": "Active Travel England resting-point guidance: comparison context, not local compliance or project evaluation",
+     "url": "https://www.activetravelengland.gov.uk/planning-active-places/benches-and-resting-points"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A bright yellow steel tube arcs over to a yellow conical shade against a clear blue sky: one of the steel-tube objects of Luca Ortmann's Waiting for the Bus, which extend the sign of a replacement stop",
+     "credit": "Photo: Luca Ortmann",
+     "url": "https://ddw.nl/en/programme/waiting-for-the-bus-2",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Three yellow steel-tube objects on a cobbled pavement next to a German \"Ersatzhaltestelle\" (replacement stop) sign; a person sits on a rail of the middle object, seen from the side",
+     "credit": "Source: ddw.nl (2025 listing)",
+     "url": "https://ddw.nl/en/programme/archive/2025/waiting-for-the-bus",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Yellow steel uprights with a horizontal rail rise from a flat yellow base plate on gray paving stones, with long shadows on the pavement: a detail of a Waiting for the Bus object, which borrows the shape of a railing or ledge",
+     "credit": "Photo: Luca Ortmann",
+     "url": "https://ddw.nl/en/programme/waiting-for-the-bus-2",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Close detail of yellow steel tubes meeting a yellow base plate that is held down by three hex screws, in hard sunlight with a shadow cast across the plate",
+     "credit": "Photo: Luca Ortmann",
+     "url": "https://ddw.nl/en/programme/waiting-for-the-bus-2",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "A bright yellow steel-tube object in a Dutch Design Week hall in October 2025: a tube rises from a flat yellow base on a pink grid mat, arches over to a conical shade and carries a rail loop below, with open floor all around it and pink and orange exhibition walls behind",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54901781108/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the dark shapes of people waiting inside a bus shelter, seen through frosted glass in black and white; no face can be made out",
+     "credit": "Photo: Giuseppe Milo",
+     "url": "https://commons.wikimedia.org/wiki/File:Waiting_For_The_Bus_(90418435).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a temporary replacement stop at a street corner in Kassel, with metal barrier railings along the pavement and traffic at the junction",
+     "credit": "Photo: GeorgDerReisende",
+     "url": "https://commons.wikimedia.org/wiki/File:Ersatzhaltestelle_Weserspitze,_2,_Wesertor,_Kassel.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the 18 Septemberplein and Dommelstraat bus stops in Eindhoven with a bus arriving, and a pole at the right carrying a clock and a digital departure display",
+     "credit": "Photo: Sneeuwvlakte",
+     "url": "https://commons.wikimedia.org/wiki/File:Bushaltes_18_Septemberplein_en_Dommelstraat_(2026-09-18).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a bare temporary replacement bus stop on Zeißstraße in Hannover, with a stop sign, a yellow arrow sign and painted markings on a fresh patch of asphalt",
+     "credit": "Photo: GeorgDerReisende",
+     "url": "https://commons.wikimedia.org/wiki/File:Ersatzhaltestelle_Zeißstraße,_4,_Seelhorst,_Hannover.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: the pole of a temporary replacement bus stop on Aubinger Allee in Munich, with a round stop sign and a timetable holder, standing on a rubber base beside a wooden barrier",
+     "credit": "Photo: Kritzolina",
+     "url": "https://commons.wikimedia.org/wiki/File:Aubinger_Allee_-_Ersatzhaltestelle_04.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a temporary replacement bus stop on Aubinger Allee in Munich with a glass shelter, a bench with a backrest and a stop sign",
+     "credit": "Photo: Kritzolina",
+     "url": "https://commons.wikimedia.org/wiki/File:Aubinger_Allee_-_Ersatzhaltestelle_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: an empty bus stop on Capital Circle in Tallahassee, Florida, with a small roofed shelter and a bench in front of a concrete wall",
+     "credit": "Photo: The Bushranger",
+     "url": "https://commons.wikimedia.org/wiki/File:Bus_stop_on_Capital_Circle_NE_north_of_Mahan_Drive,_Tallahassee.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: a weathered wooden bench on a grass verge beside Woolley Lane in Hollingworth, England, with fields and trees behind it and no bus stop in sight",
+     "credit": "Photo: Neil Theasby",
+     "url": "https://commons.wikimedia.org/wiki/File:Bench_by_Woolley_Lane,_Hollingworth_-_geograph.org.uk_-_6885564.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "essay-river-representation",
+   "date": "2026-10-18",
+   "id": "DDW-22",
+   "title": "Who represents a river in a proposal?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW2026 program",
+     "url": "https://ddw.nl/en/programme/the-unesco-parliament-of-things-experimenting-the-agency-of-more-than-human-beings-1"
+    },
+    {
+     "label": "bruno-latour.fr/fr/node/208.html",
+     "url": "https://www.bruno-latour.fr/fr/node/208.html"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The circular parliament installation in the Van Abbemuseum in Eindhoven, with a painted flag roof, a ring of tiered seating and a central table",
+     "credit": "Photo: Gerard Rooijakkers",
+     "url": "https://ddw.nl/en/programme/the-unesco-parliament-of-things-experimenting-the-agency-of-more-than-human-beings-1 (image file: parlement-in-van-abbe-liggend_1789059110.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: an early 17th century falcon's hood of tooled leather with embroidered velvet panels and a silk tassel, from the Cooper Hewitt collection",
+     "credit": "Source: Cooper Hewitt, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Falcon's_Hood,_early_17th_century_(CH_18386309).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "A photograph of a Japanese print of tsukumogami, household tools and vessels shown as living beings with faces and limbs",
+     "credit": "Photo: Gerard Rooijakkers",
+     "url": "https://ddw.nl/en/programme/the-unesco-parliament-of-things-experimenting-the-agency-of-more-than-human-beings-1 (image file: de-agency-van-dingen_1789059053.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 3b",
+     "what": "The circular parliament installation of Museum as Parliament in the Van Abbemuseum in Eindhoven, photographed empty: tiered seating rings an octagonal central table under a painted flag roof",
+     "credit": "Photo: Studio Jonas Staal",
+     "url": "https://jonasstaal.nl/projects/museum-as-parliament/ (image file: 002.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 3c",
+     "what": "Gerard Rooijakkers, the host of Het Parlement der Dingen, speaking in a still from the project film with his name and the word museologist in a lower third",
+     "credit": "Source: DDW / Gerard Rooijakkers",
+     "url": "https://ddw.nl/en/programme/the-unesco-parliament-of-things-experimenting-the-agency-of-more-than-human-beings-1 (image file: gerard-rooijakkers-2025_1789059084.PNG)",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a museum display of falconry equipment with bells, a knife and leather gear on green cloth, and a printed label reading \"Die falknerischen Gerätschaften\" (the falconer's equipment), photographed in Austria in 2014",
+     "credit": "Photo: Thomas Quine",
+     "url": "https://commons.wikimedia.org/wiki/File:Falconry_equipment_(27222665672).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a speaker stands at the central table of the Van Abbemuseum parliament installation while an audience fills the tiered seats, during a public session in 2018 under the painted flag roof",
+     "credit": "Photo: Studio Jonas Staal",
+     "url": "https://jonasstaal.nl/projects/museum-as-parliament/ (image file: 003.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: the bronze falconer monument in Valkenswaard in the Netherlands, a statue of a man carrying a falcon on his fist, on a stone base among trees",
+     "credit": "Photo: Rosemoon",
+     "url": "https://commons.wikimedia.org/wiki/File:Valkenier,_Willy_Slegers-van_der_Putt_-_Valkenswaard_(1).JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a public session in the Van Abbemuseum parliament installation in 2018, photographed from the stands over the shoulders of the audience toward the central table where participants sit",
+     "credit": "Photo: Studio Jonas Staal",
+     "url": "https://jonasstaal.nl/projects/museum-as-parliament/ (image file: 001.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a red Royal Mail pillar box on a pavement beside a stone wall in Clifton Park, Bristol, 2021",
+     "credit": "Photo: Neil Owen",
+     "url": "https://commons.wikimedia.org/wiki/File:Posting_in_Clifton_Park_-_geograph.org.uk_-_7055133.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: the entrance stairs of the Museum as Parliament installation in the Van Abbemuseum, with black banner pillars carrying values in several languages and an introduction wall at the back",
+     "credit": "Photo: Studio Jonas Staal",
+     "url": "https://jonasstaal.nl/projects/museum-as-parliament/ (image file: 007.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: the Dommel river in Eindhoven seen from a bridge with a blue sign reading Dommel and flower baskets on the railing, July 2025",
+     "credit": "Photo: S. Perquin",
+     "url": "https://commons.wikimedia.org/wiki/File:Dommel,_Eindhoven_(2025).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: one leather falconry hood in yellow and orange with a feather plume and leather straps, shown alone on green cloth in a museum display in Austria, 2014",
+     "credit": "Photo: Thomas Quine, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Leather_falconry_mask_(24887629461).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Illustrative photo: an empty council chamber of the Haarlemmermeer municipality in the Netherlands, with a horseshoe of desks and chairs around a central floor and a speaker’s lectern, photographed in 2016",
+     "credit": "Photo: Hermanvisscher",
+     "url": "https://commons.wikimedia.org/wiki/File:Raadzaal_Haarlemmermeer.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "essay-material-history",
+   "date": "2026-10-18",
+   "id": "DDW-23",
+   "title": "What does a new material story forget?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW2026 program",
+     "url": "https://ddw.nl/en/programme/50-jaar-biologisch-en-biobased-bouwen-in-nederland"
+    },
+    {
+     "label": "VIBA own history/archive index: dated organisational record, not technical performance proof",
+     "url": "https://vibavereniging.nl/viba-sinds-1976/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: brick halls of the Gasfabriek site in Eindhoven, the venue of the exhibition",
+     "credit": "Photo: Rosemoon",
+     "url": "https://commons.wikimedia.org/wiki/File%3AGM0397_NRE_Gasfabriek_5_en_3A%2C_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: two old brick gasworks buildings with arched windows and a round window in the gable, Gasfabriek 24 and 26 at the Eindhoven gasworks site, the exhibition venue, photographed in 2020",
+     "credit": "Photo: Rosemoon",
+     "url": "https://commons.wikimedia.org/wiki/File:GM0398_NRE_Gasfabriek_24_en_26,_Eindhoven.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: name cards for \"VIBA 40 jaar\" pinned to a wooden board at the association's anniversary symposium",
+     "credit": "Source: VIBA",
+     "url": "https://vibavereniging.nl/viba-sinds-1976/",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "Illustrative photo: a wall of illustrated panels, tables and stools inside the Embassy of Circular and Biobased Building pavilion at Dutch Design Week 2023, with a few visitors",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/53322590924/",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Illustrative photo: scale models of small buildings and landscape on round tables, with crop panels and visitors beyond, inside the Embassy of Circular and Biobased Building pavilion at Dutch Design Week 2023",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/53322571349/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: the timber-clad Centre Veronica building in Hostetin, Czech Republic, insulated with straw bales",
+     "credit": "Photo: Pavouk",
+     "url": "https://commons.wikimedia.org/wiki/File%3ACentrum_veronica_hostetin.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a \"truth window\" cut into a plastered wall to show the straw-bale infill",
+     "credit": "Photo: Pengo",
+     "url": "https://commons.wikimedia.org/wiki/File%3ATruth_window_01_Pengo.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: an archive photograph of a 1930s instruction model of standardized housing from the Het Nieuwe Instituut collection",
+     "credit": "Source: Het Nieuwe Instituut",
+     "url": "https://commons.wikimedia.org/wiki/File%3AGestandaardiseerde_woningbouw_-_Standardized_housing_%289322119032%29.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a thatched farmhouse in Laren, the Netherlands, in an early 20th-century archive photograph",
+     "credit": "Photo: Van Houten, RCE",
+     "url": "https://commons.wikimedia.org/wiki/File%3ABoerderij_-_Laren_-_20129433_-_RCE.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "The Gruyterfabriek building in 's-Hertogenbosch with its red rooftop sign, the longtime home of the VIBA Expo and VIBA Cafe, as shown on VIBA's own history page",
+     "credit": "Source: VIBA",
+     "url": "https://vibavereniging.nl/viba-sinds-1976/",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a hand-drawn round panel titled Achterhoekse Waarde (water) and an open wooden case holding smaller drawn discs, at the Embassy of Circular and Biobased Building at Dutch Design Week 2023",
+     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/53322473298/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a hand resting on a round wooden tray of biobased material samples, each disc with its own label, at the Embassy of Circular and Biobased Building at Dutch Design Week 2023",
+     "credit": "Photo: Cleo Goossens/Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/53322111736/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "essay-archaeology-status",
+   "date": "2026-10-18",
+   "id": "DDW-24",
+   "title": "When does a find become a feedstock?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW2026 program",
+     "url": "https://ddw.nl/en/programme/ex-situ-matter-in-translation"
+    },
+    {
+     "label": "South Holland archaeological depot: finds/documentation and institutional loan procedure",
+     "url": "https://archeologie.zuid-holland.nl/over-het-depot"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A cardboard box of large pale bones and stones, deselected archaeological finds from South Holland, photographed in storage",
+     "credit": "Source: DDW / EX SITU",
+     "url": "https://ddw.nl/en/programme/ex-situ-matter-in-translation (image file: exsitu-makers-handout-ddw-2008261_1787239241.webp)",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Dark, worn leather pieces including part of a shoe, lying in a clear plastic find bag with a paper label inside",
+     "credit": "Source: DDW / EX SITU",
+     "url": "https://ddw.nl/en/programme/ex-situ-matter-in-translation (image file: exsitu-makers-handout-ddw-2008262_1787238982.webp)",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Overhead photograph on white of eight dark bowls holding sorted archaeological materials from South Holland: bone, flint, ceramic, glass, iron, wood and stone",
+     "credit": "Source: DDW / EX SITU",
+     "url": "https://ddw.nl/en/programme/ex-situ-matter-in-translation (image file: exsitu-makers-handout-ddw-2008263_1787239068.webp)",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "A cracked cream-colored Roman jug stands on a bare floor with other pots behind it in a storage room of the Provincial Archaeological Depot of South Holland, photographed in 2009",
+     "credit": "Photo: PHC Zuid-Holland",
+     "url": "https://commons.wikimedia.org/wiki/File:Romeins_aardewerk_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "An aisle with yellow floor markings and a pedestrian symbol beside metal racks that hold dark waterlogged wood and standing stones, with numbered shelf labels",
+     "credit": "Source: DDW / EX SITU",
+     "url": "https://ddw.nl/en/programme/ex-situ-matter-in-translation (image file: exsitu-makers-handout-ddw-2008265_1787239394.webp)",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Stacked dark archaeological oak logs with cut ends, kept in storage",
+     "credit": "Source: DDW / EX SITU",
+     "url": "https://ddw.nl/en/programme/ex-situ-matter-in-translation (image file: exsitu-makers-handout-ddw-2008268_1787239512.webp)",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A hand holds a medieval Pingsdorf pottery sherd with painted stripes over a table at the Provincial Archaeological Depot of South Holland, with labeled find bags beside it",
+     "credit": "Photo: Jacob de Baan",
+     "url": "https://commons.wikimedia.org/wiki/File:Scherf_met_verfstrepen_van_Duits_Pingsdorf_aardewerk_gevonden_in_Spijkenisse_1963.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a Roman ceramic strainer from the Provincial Archaeological Depot of South Holland, with find numbers handwritten on its sherds (find number 42674, Spijkenisse)",
+     "credit": "Source: Provinciaal Depot Zuid-Holland",
+     "url": "https://commons.wikimedia.org/wiki/File:42674_Romeinse_vergiet_Spijkenisse_1980s.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A necklace by Judith Bloedjes, Thread of Time, made with fragments of archaeological clay pipes strung on a wire with metal rings, photographed on white",
+     "credit": "Photo: Pim Rusch",
+     "url": "https://ddw.nl/en/programme/thread-of-time (image file: exsitubloedjes2_1790254944.jpg)",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Iridescent shards of archaeological glass, a bottle neck, bowl bases and curved fragments, lying on a gray tray and in a clear plastic find bag, with the vertical EX SITU wordmark at the right edge",
+     "credit": "Source: DDW / EX SITU",
+     "url": "https://ddw.nl/en/programme/item-10 (image file: exsitu-makers-handout-ddw-2008266_1787239534.webp; listed on https://ddw.nl/en/programme/ex-situ-matter-in-translation)",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Three red Roman sigillata pottery shards on brown card, one a curved rim fragment and two flat pieces with a molded ridge, with the vertical EX SITU wordmark at the left edge",
+     "credit": "Source: DDW / EX SITU",
+     "url": "https://ddw.nl/en/programme/future-unearthed (image file: exsitu-makers-handout-ddw-2008269_1787239660.webp; listed on https://ddw.nl/en/programme/ex-situ-matter-in-translation)",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Close-up of a necklace by Judith Bloedjes: pieces of archaeological flint set in white metal rings joined by a thin wire, photographed alone on white and cropped to the rings",
+     "credit": "Photo: Pim Rusch, cropped",
+     "url": "https://ddw.nl/en/programme/thread-of-time (image file: exsitubloedjes3_1790254967.jpg)",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "essay-biology-intention",
+   "date": "2026-10-18",
+   "id": "DDW-25",
+   "title": "Do we want the biology alive, or the material to last?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Current DDW2026 program",
+     "url": "https://ddw.nl/en/programme/bio-art-fashion"
+    },
+    {
+     "label": "Current KojiGotchi program: attributed growth/body-heat/chamber/ avatar intentions",
+     "url": "https://ddw.nl/en/programme/kojigotchi-a-tamagotchi-for-the-microbial-age-1"
+    },
+    {
+     "label": "Kew herbarium: preserved biological specimens for information/study",
+     "url": "https://www.kew.org/science/collections-and-resources/collections/herbarium"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A sculptural collar of dried luffa fibre worn around the neck and shoulders against a dark backdrop",
+     "credit": "Photo: Francois Eyck",
+     "url": "https://ddw.nl/en/programme/bio-art-fashion",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A close-up of preserved moss and strips of dried plant material on a Bio Art Fashion piece called \"Mosss\", surface in sharp focus against a warm orange ground",
+     "credit": "Photo: Francois Eyck",
+     "url": "https://ddw.nl/en/programme/bio-art-fashion",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A full-length wearable made of preserved lichen and bracket fungus, with large pale fungus shapes spread on the floor beside it",
+     "credit": "Photo: Francois Eyck",
+     "url": "https://ddw.nl/en/programme/bio-art-fashion",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A hand holds the yellow KojiGotchi prototype, a Tamagotchi-shaped wearable with a small screen above a clear growth chamber that holds pale rice with koji",
+     "credit": "Source: maximvelli.com",
+     "url": "https://maximvelli.com/kojigotchi-your-companion-into-post-human-ecologies/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A dress and wide hat made of dried seaweed, a Bio Art Fashion work called \"WeedWave\", in a studio portrait by the maker's photographers",
+     "credit": "Photo: F. Eyck, L. Vogelzang",
+     "url": "https://ddw.nl/en/programme/bio-art-fashion",
+     "card": false
+    },
+    {
+     "where": "Slide 6a",
+     "what": "A pressed plant specimen mounted on a herbarium sheet with its printed label, lying on a desk among other stacked sheets in the Kew herbarium",
+     "credit": "Photo: Maparchives, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Kew Gardens Herbarium Specimen 01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6b",
+     "what": "A dried palm frond and root mass mounted on a large herbarium sheet with collector label and colour scale, photographed in the Kew herbarium",
+     "credit": "Photo: Maparchives, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Kew Gardens Herbarium Specimen 09.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6c",
+     "what": "An orchid specimen with dried stems, flowers and roots, held by paper strips on a Kew herbarium sheet beside a barcode label",
+     "credit": "Photo: Maparchives, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Kew Gardens Herbarium Specimen 07.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Strips of red and brown seaweed hung in rows from a line to dry in a sunlit room, with prepared sheets of seaweed material laid out on a table below",
+     "credit": "Source: agnesvandijk.nl",
+     "url": "https://agnesvandijk.nl/bio-art-fashion-organic/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Two hands rest on a surface of dried, layered seaweed material in a WeedWave garment, showing how thin and pliable the material looks when handled",
+     "credit": "Photo: Francois Eyck",
+     "url": "https://agnesvandijk.nl/bio-art-fashion-organic/",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "Illustrative photo: a collar of dried, preserved seaweed shaped on a dress form, from Agnes van Dijk's own site",
+     "credit": "Source: agnesvandijk.nl",
+     "url": "https://agnesvandijk.nl/bio-art-fashion-organic/",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a hand holds up a thin, translucent sheet of preserved seaweed material to the daylight, from Agnes van Dijk's own site",
+     "credit": "Source: agnesvandijk.nl",
+     "url": "https://agnesvandijk.nl/bio-art-fashion-organic/",
+     "card": false
+    },
+    {
+     "where": "Slide 10a",
+     "what": "Illustrative photo: a close-up of dried, preserved lichen pieces in browns and creams, used in Agnes van Dijk's \"Mysterious Connections\" piece",
+     "credit": "Photo: Francois Eyck",
+     "url": "https://agnesvandijk.nl/bio-art-fashion-organic/",
+     "card": false
+    },
+    {
+     "where": "Slide 10b",
+     "what": "Dried flowers pressed together with a mass of fine roots into a pale, textured surface, in close-up",
+     "credit": "Photo: F. Eyck, L. Vogelzang",
+     "url": "https://ddw.nl/en/programme/archive/2025/mandarinskin-roots-amp-flowers",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-pollution-destination",
+   "date": "2026-10-18",
+   "id": "DDW-26",
+   "title": "Where does the captured pollution go next?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "DDW26 VENTRA program",
+     "url": "https://ddw.nl/en/programme/tuecomotive-ventra-capturing-particulate-matter"
+    },
+    {
+     "label": "TU/ecomotive VENTRA primary project account: simulation figures, capture mechanism and enamel demonstration",
+     "url": "https://www.tuecomotive.nl/our-cars/ventra/"
+    },
+    {
+     "label": "Non exhaust particulate emissions from road transport 4a4dc6ca en (oecd.org)",
+     "url": "https://www.oecd.org/en/publications/non-exhaust-particulate-emissions-from-road-transport_4a4dc6ca-en.html"
+    },
+    {
+     "label": "The Tyre Collective primary account: its separate device and stated material applications",
+     "url": "https://thetyrecollective.com/"
+    },
+    {
+     "label": "nepis.epa.gov/Exe/ZyPURL.cgi",
+     "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100F9W8.TXT"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "VENTRA, the TU/ecomotive electric concept car, driving toward the camera on a road: a light blue-gray body with orange covers around the front wheel and a driver in the open cockpit",
+     "credit": "Source: TU/ecomotive",
+     "url": "https://www.tuecomotive.nl/our-cars/ventra/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a hand holds a copper-colored plate with a thick black deposit of tire particles on one side",
+     "credit": "Source: The Tyre Collective",
+     "url": "https://www.dezeen.com/2020/09/24/the-tyre-collective-tc01-tyre-wear-microplastic-emissions-james-dyson-award/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "VENTRA's side seen close up: partner logos on the black side panel and a bright orange cover curving around the rear wheel, whose hub is covered by a dark, rough-textured disc",
+     "credit": "Source: TU/ecomotive",
+     "url": "https://www.tuecomotive.nl/our-cars/ventra/",
+     "card": false
+    },
+    {
+     "where": "Slide 4a",
+     "what": "VENTRA seen from above and behind on gray paving, with its doors raised and orange covers around the wheels",
+     "credit": "Photo: Sarp Gürel",
+     "url": "https://newatlas.com/automotive/tu-ecomotive-ev-cleans-tire-brake-dust-ventra/",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "VENTRA in side profile at speed against a blurred green verge, with orange covers around both wheels",
+     "credit": "Source: TU/ecomotive",
+     "url": "https://www.tuecomotive.nl/our-cars/ventra/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a white collector unit tucked against the edge of a tire fitted with white spoked covers, from The Tyre Collective's 2020 prototype",
+     "credit": "Source: The Tyre Collective",
+     "url": "https://www.dezeen.com/2020/09/24/the-tyre-collective-tc01-tyre-wear-microplastic-emissions-james-dyson-award/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a hand places a small black cube of collected tire particles beside larger labeled cubes marked \"Bus X26 1 Day\" and \"Bus 9 1 Day\" on a pale surface",
+     "credit": "Source: The Tyre Collective",
+     "url": "https://www.dezeen.com/2020/09/24/the-tyre-collective-tc01-tyre-wear-microplastic-emissions-james-dyson-award/",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: the inside of VENTRA, with a driver's hands on the steering wheel and the Clean Drive display and an orange trim piece ahead",
+     "credit": "Source: TU/ecomotive",
+     "url": "https://www.tuecomotive.nl/our-cars/ventra/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A tire mounted on a wooden stand with white spoked covers and a white collector unit curved against the tire at lower left: the 2020 prototype of The Tyre Collective's device",
+     "credit": "Source: The Tyre Collective",
+     "url": "https://www.dezeen.com/2020/09/24/the-tyre-collective-tc01-tyre-wear-microplastic-emissions-james-dyson-award/",
+     "card": false
+    },
+    {
+     "where": "Slide 9a",
+     "what": "VENTRA driving on a road, seen from the front left, with its large orange cover curving over the front wheel",
+     "credit": "Source: TU/ecomotive",
+     "url": "https://www.tuecomotive.nl/our-cars/ventra/",
+     "card": false
+    },
+    {
+     "where": "Slide 9b",
+     "what": "Illustrative photo: a bicycle wheel driven by a chain on a plywood base, with a gray perforated steel column and an arm marked The Tyre Collective: the test rig for that company's own tire-particle capture device",
+     "credit": "Source: The Tyre Collective",
+     "url": "https://www.dezeen.com/2020/09/24/the-tyre-collective-tc01-tyre-wear-microplastic-emissions-james-dyson-award/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a hand lifts a white storage unit holding black captured tire particles out of its mount beside a tire",
+     "credit": "Source: The Tyre Collective",
+     "url": "https://www.dezeen.com/2020/09/24/the-tyre-collective-tc01-tyre-wear-microplastic-emissions-james-dyson-award/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "new-city-ai-disagreement",
+   "date": "2026-10-18",
+   "id": "DDW-27",
+   "title": "Can residents say no to city AI?",
+   "series": "Dutch Design Week essays",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [
+    {
+     "label": "Single page version Bewoners in the loop (pure.hva.nl)",
+     "url": "https://pure.hva.nl/ws/portalfiles/portal/56864259/Single_page_version_Bewoners-in-the-loop.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "DDW26 project account: continuing co-creation cycle and residents-in-the-loop purpose",
+     "url": "https://ddw.nl/en/programme/bewoners-in-the-loop-meebeslissen-over-ai-in-stad"
+    },
+    {
+     "label": "AUAS/HvA 29 June 2026 handbook launch account: four-year research and fifty methods",
+     "url": "https://www.hva.nl/nieuws/2026/6/samen-beslissen-over-ai-de-stad-met-nieuw-handboek"
+    },
+    {
+     "label": "AUAS Civic Interaction Design research group’s primary launch reflection: shifting roles and unsolicited participation",
+     "url": "https://civicinteractiondesign.com/news/handbook-bewoners-in-the-loop-launched-at-pakhuis-de-zwijger/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A silver car with a white sensor pod on its roof, numbered 10, and two white boxes in the open trunk marked with a green thumbs-up and a red thumbs-down and labeled Boete Rechtvaardig and Boete Onrechtvaardig",
+     "credit": "Photo: Maarten Nauw",
+     "url": "https://ddw.nl/en/programme/bewoners-in-the-loop-meebeslissen-over-ai-in-stad",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A group of residents and a researcher gather around a bicycle fitted with a camera pod and two triangular signs, one reading Toezicht door objectherkenning and one reading Controle containers en vergunningen",
+     "credit": "Source: Bewoners-in-the-Loop",
+     "url": "https://ddw.nl/en/programme/bewoners-in-the-loop-meebeslissen-over-ai-in-stad (gallery image \"Participation on technology in public space\"; same file on https://bewonersintheloop.nl/)",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A white electric bicycle with a large white camera housing on its handlebars rolls along an Amsterdam street, a video still from an AT5 report on the municipality's scan bicycle",
+     "credit": "Source: AT5 via NH Nieuws",
+     "url": "https://www.nhnieuws.nl/nieuws/354223/deze-scanfiets-moet-illegale-dixies-bouwcontainers-en-steigers-opsporen",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Printed copies of the handbook Bewoners-in-the-loop, pink and yellow with the title in white lettering, stacked and laid out on a wooden table with bookmarks and flyers at the launch event in June 2026",
+     "credit": "Source: Hogeschool van Amsterdam",
+     "url": "https://www.hva.nl/nieuws/2026/6/samen-beslissen-over-ai-de-stad-met-nieuw-handboek",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Close view of the large white camera housing on a scan bicycle's handlebars on a street in Amsterdam, a church tower behind",
+     "credit": "Source: NH Nieuws",
+     "url": "https://www.nhnieuws.nl/nieuws/354223/deze-scanfiets-moet-illegale-dixies-bouwcontainers-en-steigers-opsporen (inline video still)",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a hand-built camera unit for a scan bicycle, a black box with a small lens behind a flap of tape, tied to a bike rack with cord while a hand adjusts the cord",
+     "credit": "Source: Hogeschool van Amsterdam",
+     "url": "https://www.hva.nl/nieuws/2024/3/amsterdam-zet-scanfiets-in-voor-kwetsbare-bruggen-en-kademuren",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A visitor holds a copy of the Bewoners-in-the-loop handbook open to a page of text while stacks of the handbook sit on the table beside her at the launch event",
+     "credit": "Source: Hogeschool van Amsterdam",
+     "url": "https://www.hva.nl/nieuws/2026/6/samen-beslissen-over-ai-de-stad-met-nieuw-handboek",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Pakhuis de Zwijger, the former warehouse on the water in Amsterdam, seen from the square with its tall vertical banner",
+     "credit": "Photo: J-Roid2016, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Pakhuis_de_Zwijger,_2014.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The front of the Benno Premselahuis at Rhijnspoorplein in Amsterdam, a Hogeschool van Amsterdam (AUAS) building, at dusk with lit windows and an Open Dag banner over the entrance",
+     "credit": "Photo: ThijsvandeReep, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Benno_Premselahuis.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "A participation session in a meeting room: enforcement officers in high-visibility vests marked Handhaving and colleagues sit around a table and look at a wall screen showing a dashboard of detected objects",
+     "credit": "Source: Bewoners-in-the-Loop",
+     "url": "https://ddw.nl/en/programme/bewoners-in-the-loop-meebeslissen-over-ai-in-stad (gallery image \"Participation throughout the entire process\"; same file on https://bewonersintheloop.nl/ as \"Handhavers bekijken een scherm tijdens een participatiesessie\")",
+     "card": false
+    }
+   ]
+  }
+ ]
+}
