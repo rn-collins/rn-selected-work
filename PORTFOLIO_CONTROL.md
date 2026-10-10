@@ -106,5 +106,6 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] Data is generated, not hand-kept: `data/sources-<account>.json` comes from `render-kit/sources_export_ours.py`, with the same cleaning rules as the Ask a Neuroscientist export. Slugs are id-based (they do not change when a post is rescheduled).
 - [x] Each page opens with RN's article in The Polymath: the newsletter's subscribe page until the issue exists, then the issue address.
 - [x] Pages carry `rn:kind="reference"` and `rn:entries`.
+- [x] Every sources page and account index links to RN Selected Work itself (a line under the title and a block at the end: home, selected work index, all sources).
 - [ ] Add `htw`, `ioo`, `ddw27`, `dda`, `polymath`, `fatnugs` and `clr` accounts as their packages are finished.
 - [ ] Link the account indexes from `/sources`.

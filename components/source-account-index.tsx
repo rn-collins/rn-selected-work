@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { CanonicalPage } from "./canonical-page";
+import { PortfolioBlock, PortfolioLine } from "./source-portfolio-link";
 import { account, listed, longDate } from "../lib/sources";
 import styles from "../app/sources/sources.module.css";
 
@@ -22,6 +23,7 @@ export function SourceAccountIndex({ accountKey }: { accountKey: string }) {
       <div className={`${styles.page} shell`}>
         <p className="eyebrow">{a.name}</p>
         <h1 className={styles.title}>Sources</h1>
+        <PortfolioLine />
         <p className={styles.intro}>
           {a.blurb} The address printed on a slide leads to that post&apos;s page.
         </p>
@@ -37,6 +39,7 @@ export function SourceAccountIndex({ accountKey }: { accountKey: string }) {
             ))}
           </ul>
         )}
+        <PortfolioBlock />
       </div>
     </CanonicalPage>
   );
