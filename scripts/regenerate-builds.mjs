@@ -101,6 +101,9 @@ async function probe(url) {
   const host = new URL(url).hostname;
   try {
     const response = await fetch(url, { headers: { "user-agent": UA }, redirect: "follow" });
+    // A private Vercel deployment answers 302 to vercel.com/sso-api and then 200 on the login page.
+    // That is a login wall, not the build.
+    if (new URL(response.url).hostname !== host) return { status: "login-wall", words: 0 };
     const body = response.ok ? await response.text() : "";
     if (response.status === 403 && BOT_BLOCKED_HOSTS.includes(host)) {
       return { status: "bot-blocked", words: null };
@@ -146,7 +149,7 @@ async function main() {
     if (name.startsWith("$")) continue;
     const exclusion = excluded.get(name);
     const repo = byName.get(name) || null;
-    const live = vercel.get(name) || repo?.homepageUrl || null;
+    const live = (config.urlOverrides && config.urlOverrides[name]) || vercel.get(name) || repo?.homepageUrl || null;
 
     if (exclusion) {
       skipped.push({ repo: name, reason: exclusion.reason, silent: exclusion.silent === true });

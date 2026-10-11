@@ -179,7 +179,7 @@
     },
     {
       "repo": "ask-a-neuroscientist-fashion",
-      "live": "https://ask-a-neuroscientist-fashion-rn-collins.vercel.app",
+      "live": "https://ask-a-neuroscientist-fashion.vercel.app",
       "visibility": "public",
       "repoUrl": "https://github.com/rn-collins/ask-a-neuroscientist-fashion",
       "githubDescription": "A fashion editorial gallery exploring the dressed nervous system.",
@@ -863,7 +863,7 @@
     },
     {
       "repo": "tech-from-here-amsterdam-eindhoven",
-      "live": "https://tech-from-here-amsterdam-eindhoven-rn-collins.vercel.app",
+      "live": "https://tech-from-here-amsterdam-eindhoven.vercel.app",
       "visibility": "private",
       "repoUrl": null,
       "githubDescription": "Canonical production system for Tech From Here: Amsterdam + Eindhoven — Netherlands 2026 event investigation.",

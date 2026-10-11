@@ -309,5 +309,9 @@
     "rn-content-second-brain-site-test": "rn-content-second-brain",
     "rn-second-brain-schema-probe": "rn-content-second-brain",
     "z2f-live": "zero-to-frontier"
+  },
+  "urlOverrides": {
+    "ask-a-neuroscientist-fashion": "https://ask-a-neuroscientist-fashion.vercel.app",
+    "tech-from-here-amsterdam-eindhoven": "https://tech-from-here-amsterdam-eindhoven.vercel.app"
   }
 }

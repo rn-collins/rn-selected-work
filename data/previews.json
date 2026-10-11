@@ -74,6 +74,11 @@
   "embed": true,
   "image": "/previews/ask-a-neuroscientist-fashion.jpg"
  },
+ "askaneuroscientist.vercel.app": {
+  "captured": "2026-10-10",
+  "embed": true,
+  "image": "/previews/askaneuroscientist.jpg"
+ },
  "bm-intel-ivory.vercel.app": {
   "captured": "2026-10-09",
   "embed": true,
@@ -309,11 +314,6 @@
   "embed": true,
   "image": "/previews/regac-academy.jpg"
  },
- "rn-ask-a-neuroscientist.vercel.app": {
-  "captured": "2026-10-09",
-  "embed": true,
-  "image": "/previews/rn-ask-a-neuroscientist.jpg"
- },
  "rn-bring-the-question.vercel.app": {
   "captured": "2026-10-09",
   "embed": true,
@@ -341,7 +341,7 @@
  },
  "tech-from-here-amsterdam-eindhoven.vercel.app": {
   "captured": "2026-10-09",
-  "embed": false,
+  "embed": true,
   "image": "/previews/tech-from-here-amsterdam-eindhoven.jpg"
  },
  "tech-from-here-fashion-week.vercel.app": {
