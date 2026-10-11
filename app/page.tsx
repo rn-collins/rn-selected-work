@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { SocialIcons } from "../components/social-icons";
 import { projects, writing } from "../lib/portfolio";
 import { builds, institutionalBuilds, populatedCategories } from "../lib/builds";
 import { publicationArchive, publicationCounts } from "../lib/publication-archive";
@@ -326,6 +327,7 @@ export default function Home() {
             >
               Continue on LinkedIn ↗
             </a>
+            <SocialIcons />
             <p className="note">
               Explore the research, systems, and public work here, then begin with
               the question or institutional problem that matters most.
