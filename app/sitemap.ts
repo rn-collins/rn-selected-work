@@ -6,6 +6,9 @@ import { journalArticles } from "../lib/journal-articles";
 import { postedSoFar } from "../lib/aan-sources";
 import { accounts, listed } from "../lib/sources";
 import { tfhPostedSoFar } from "../lib/tfh-sources";
+import { ESSAYS_INDEXABLE } from "../lib/essays-config";
+import { essayAccounts, essayPath } from "../lib/essays";
+import { journalPagePath, journalPdfs } from "../lib/journal-pdfs";
 
 export const revalidate = 86400;
 
@@ -42,5 +45,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ]),
     { url: `${base}/sources/tfh`, changeFrequency: "weekly", priority: 0.5 },
     ...tfhPostedSoFar().map((p) => ({ url: `${base}/sources/tfh/${p.slug}`, changeFrequency: "monthly" as const, priority: 0.4 })),
+    // Essay pages and the journal PDF pages stay out of the sitemap until ESSAYS_INDEXABLE (lib/essays-config.ts) is set to true.
+    ...(ESSAYS_INDEXABLE
+      ? [
+          { url: `${base}/essays`, changeFrequency: "weekly" as const, priority: 0.6 },
+          { url: `${base}/journal`, changeFrequency: "yearly" as const, priority: 0.5 },
+          ...journalPdfs.map((j) => ({ url: `${base}${journalPagePath(j.slug)}`, changeFrequency: "yearly" as const, priority: 0.5 })),
+          ...essayAccounts.flatMap((a) => [
+            { url: `${base}/essays/${a.key}`, changeFrequency: "weekly" as const, priority: 0.5 },
+            ...a.essays.map((e) => ({ url: `${base}${essayPath(a.key, e.id)}`, changeFrequency: "monthly" as const, priority: 0.5 })),
+          ]),
+        ]
+      : []),
   ];
 }
