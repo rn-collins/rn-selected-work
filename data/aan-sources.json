@@ -27829,6 +27829,136 @@
    ]
   },
   {
+   "slug": "dec-13-2027",
+   "date": "2027-12-13",
+   "id": "KB01",
+   "title": "Can dirt lift your mood? What a soil bacterium did in mice",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Lowry CA, Hollis JH, de Vries A, et al. (2007), Identification of an immune-responsive mesolimbocortical serotonergic system: potential role in regulation of emotional behavior, Neuroscience 146(2):756-772, doi 10.1016/j.neuroscience.2007.01.067, PMC1868963",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1868963/"
+    },
+    {
+     "label": "Matthews DM, Jenks SM (2013), Ingestion of Mycobacterium vaccae decreases anxiety-related behavior and improves learning in mice, Behavioural Processes 96:27-35, doi 10.1016/j.beproc.2013.02.007, PMID 23454729 (abstract only)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23454729/"
+    },
+    {
+     "label": "O'Brien MER, Anderson H, Kaukel E, et al. (2004), SRL172 (killed Mycobacterium vaccae) in addition to standard chemotherapy improves quality of life without affecting survival, in patients with advanced non-small-cell lung cancer: phase III results, Annals of Oncology 15(6):906-914, doi 10.1093/annonc/mdh220 (abstract only)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/15151947/"
+    },
+    {
+     "label": "Amoroso M, Langgartner D, Lowry CA, Reber SO (2021), Rapidly growing Mycobacterium species: the long and winding road from tuberculosis vaccines to potent stress-resilience agents, Int J Mol Sci 22(23):12938, doi 10.3390/ijms222312938, PMC8657684",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8657684/"
+    },
+    {
+     "label": "Berendse R, et al. (2026), The microbiome and PTSD: a scoping review across preclinical and clinical studies, Eur J Psychotraumatol 17(1):2627060, doi 10.1080/20008066.2026.2627060 (abstract only)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41790992/"
+    },
+    {
+     "label": "Zhang H, et al. (2026), A novel soil-derived Mycolicibacterium decreases anxiety-like defensive behavioral responses... in adult male rats, Brain Behav Immun 137:106809, doi 10.1016/j.bbi.2026.106809 (abstract and conflict of interest statement)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42119907/"
+    },
+    {
+     "label": "Soga M, Gaston KJ, Yamaura Y (2017), Gardening is beneficial for health: a meta-analysis, Preventive Medicine Reports 5:92-99, doi 10.1016/j.pmedr.2016.11.007, PMC5153451",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5153451/"
+    }
+   ],
+   "other": [
+    {
+     "label": "Image records: The Met, Cleveland Museum of Art Open Access, RCSB PDB",
+     "url": "https://www.metmuseum.org/art/collection/search/337782"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Jean-François Millet, Man with a Spade, Conté crayon on laid paper, about 1855 to 1858, The Met 29.93.4",
+     "credit": "Jean-François Millet, Man with a Spade (ca. 1855 to 58). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/337782",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Talatat: Men Hoeing the Earth, painted sandstone relief, Egypt, Karnak, reign of Akhenaten, Cleveland Museum of Art 1959.187",
+     "credit": "Talatat: Men Hoeing the Earth (c. 1353 to 1347 BCE). The Cleveland Museum of Art (CC0)",
+     "url": "https://clevelandart.org/art/1959.187",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Netsuke of Mouse on Bamboo, ivory, Japan, 19th century, The Met 10.211.1150",
+     "credit": "Netsuke of Mouse on Bamboo (19th century). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/60304",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "RCSB PDB 7E33, cryo-EM structure of the serotonin 1E (5-HT1E) receptor bound to a G protein (Xu et al., 2021)",
+     "credit": "RCSB PDB (RCSB.org), PDB ID 7E33; Xu et al. (2021), Nature 592:469. CC BY 4.0",
+     "url": "https://www.rcsb.org/structure/7E33",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Netsuke of a rodent on a log, wood, Japan, 19th century, The Met 10.211.2017 (record title \"Netsuke\")",
+     "credit": "Netsuke (19th century). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/59235",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Netsuke of Gourd and Mice, wood, Japan, 19th century, The Met 10.211.2007",
+     "credit": "Netsuke of Gourd and Mice (19th century). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/59172",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Anonymous, Micrographic Design in the Shape of a Labyrinth, pen and ink, early 17th century, The Met 2014.96(12)",
+     "credit": "Anonymous, Micrographic Design in the Shape of a Labyrinth (early 17th century). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/735626",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Trowel, wood, Egypt, about 2124 to 1504 B.C., The Met 27.3.71",
+     "credit": "Trowel (ca. 2124 to 1504 B.C.). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/544312",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Jean-François Millet, Seated Peasant Resting on a Hoe, black chalk, Cleveland Museum of Art 2009.133",
+     "credit": "Jean-François Millet, Seated Peasant Resting on a Hoe (1829 to 75). The Cleveland Museum of Art (CC0)",
+     "url": "https://clevelandart.org/art/2009.133",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Jean-François Millet, Man Resting on a Spade, woodcut, 1874, The Met 17.34.15",
+     "credit": "Jean-François Millet, Man Resting on a Spade (1874). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/371531",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Ludolph Büsinck, Peasant with Hoe, Basket and Hen, woodcut, Germany, 1605 to 1669, Cleveland Museum of Art 1963.457",
+     "credit": "Ludolph Büsinck, Peasant with Hoe, Basket and Hen (1605 to 69). The Cleveland Museum of Art (CC0)",
+     "url": "https://clevelandart.org/art/1963.457",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Japanese Man with Rake, ivory, Japan, Meiji period, early 1900s, Cleveland Museum of Art 2000.1006.1",
+     "credit": "Japanese Man with Rake (early 1900s). The Cleveland Museum of Art (CC0)",
+     "url": "https://clevelandart.org/art/2000.1006.1",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "dec-19-2027",
    "date": "2027-12-19",
    "id": "FN13",
@@ -27955,6 +28085,243 @@
      "what": "Lighting Paths Across the United States: VIIRS Day/Night Band view of the continental United States, Oct 1, 2013, compared with major highways, railways and rivers, NASA SVS 31121",
      "credit": "NASA, Earth at Night (NASA Scientific Visualization Studio)",
      "url": "https://svs.gsfc.nasa.gov/31121/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "dec-21-2027",
+   "date": "2027-12-21",
+   "id": "KB07",
+   "title": "3 in 10 or 1 in 10: two official numbers for one risk",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Hawai'i Medical Cannabis Newsletter, October 2024.",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/10/OMCCR-October-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Hasin, D. S., Saha, T. D., Kerridge, B. T., et al. (2015). Prevalence of marijuana use disorders in the United States between 2001-2002 and 2012-2013. JAMA Psychiatry 72(12):1235 to 1242. doi:10.1001/jamapsychiatry.2015.1858",
+     "url": "https://doi.org/10.1001/jamapsychiatry.2015.1858"
+    },
+    {
+     "label": "Cooke, M. E., Potter, K. W., Jashinski, J., et al. (2023). Development of cannabis use disorder in medical cannabis users: a 9-month follow-up of a randomized clinical trial testing effects of medical cannabis card ownership. Front Psychiatry 14:1083334. doi:10.3389/fpsyt.2023.1083334",
+     "url": "https://doi.org/10.3389/fpsyt.2023.1083334"
+    },
+    {
+     "label": "Leung, J., Chan, G. C. K., Hides, L., & Hall, W. D. (2020). What is the prevalence and risk of cannabis use disorders among people who use cannabis? A systematic review and meta-analysis. Addict Behav 109:106479. doi:10.1016/j.addbeh.2020.106479",
+     "url": "https://doi.org/10.1016/j.addbeh.2020.106479"
+    },
+    {
+     "label": "Cooper, Z. D., & Haney, M. (2014). Investigation of sex-dependent effects of cannabis in daily cannabis smokers. Drug Alcohol Depend 136:85 to 91. doi:10.1016/j.drugalcdep.2013.12.013",
+     "url": "https://doi.org/10.1016/j.drugalcdep.2013.12.013"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Cannabis Use Risks (Cannabis Education site). Opened Oct 11, 2026 (page text saved Oct 7, 2026).",
+     "url": "https://health.hawaii.gov/cannabisinsights/cannabis-use-risks/"
+    },
+    {
+     "label": "CDC. Understanding Your Risk for Cannabis Use Disorder (page dated December 5, 2024).",
+     "url": "https://www.cdc.gov/cannabis/health-effects/cannabis-use-disorder.html"
+    },
+    {
+     "label": "SAMHSA. The Effects, Risks and Side Effects of Marijuana (last updated Sep 9, 2025).",
+     "url": "https://www.samhsa.gov/substance-use/learn/marijuana/risks"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Johann Sadeler I, Geometria, from \"The Seven Liberal Arts\", Engraving and etching, ca. 1570 to 1600, 49.95.1495 (The Metropolitan Museum of Art)",
+     "credit": "Johann Sadeler I, The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/739491",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Number card made for this post: 3 in 10, people who use cannabis have cannabis use disorder, CDC page of Dec 5, 2024 (CDC, Understanding Your Risk for Cannabis Use Disorder (2024))",
+     "credit": "CDC, Understanding Your Risk for Cannabis Use Disorder (2024)",
+     "url": "https://www.cdc.gov/cannabis/health-effects/cannabis-use-disorder.html",
+     "card": true
+    },
+    {
+     "where": "Slide 3",
+     "what": "Number card made for this post: 30.6%, of US adults who used cannabis in the past year met the criteria for a use disorder, 2012 to 2013 (Hasin et al. (2015), JAMA Psychiatry 72(12))",
+     "credit": "Hasin et al. (2015), JAMA Psychiatry 72(12)",
+     "url": "https://doi.org/10.1001/jamapsychiatry.2015.1858",
+     "card": true
+    },
+    {
+     "where": "Slide 4",
+     "what": "Unknown maker, Scale, Steel, brass, 17th century, 57.137.32a to e (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1957 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/202023",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Number card made for this post: 10%, of cannabis users \"worldwide,\" says a 2024 newsletter; its footnote cites one study of 163 adults in Boston (OMCCR newsletter, Oct 2024; Cooke et al. (2023), Front Psychiatry 14)",
+     "credit": "OMCCR newsletter, Oct 2024; Cooke et al. (2023), Front Psychiatry 14",
+     "url": "https://doi.org/10.3389/fpsyt.2023.1083334",
+     "card": true
+    },
+    {
+     "where": "Slide 6",
+     "what": "E.C. Stockert, Portable cube sundial, Wood and paper, early 19th century, 03.21.59 (The Metropolitan Museum of Art)",
+     "credit": "E.C. Stockert, The Metropolitan Museum of Art, Gift of Mrs. Stephen D. Tucker, 1903 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/188860",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Number card made for this post: 22%, of people who use cannabis have a use disorder when 21 studies are pooled; 13% meet the stricter bar for dependence (Leung et al. (2020), Addict Behav 109)",
+     "credit": "Leung et al. (2020), Addict Behav 109",
+     "url": "https://doi.org/10.1016/j.addbeh.2020.106479",
+     "card": true
+    },
+    {
+     "where": "Slide 8",
+     "what": "John Potter, Semi Circumferenter, Brass, cherry, white pine, ca. 1790, 1987.41 (The Metropolitan Museum of Art)",
+     "credit": "John Potter, The Metropolitan Museum of Art, Purchase, Anna Glen B. Vietor Gift, in memory of her husband, Alexander Orr Vietor, 1987 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/8030",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Paulo Contarini, Compass dial, Wood; paper, ink, paint; metal, 1835, 09.207a, b (The Metropolitan Museum of Art)",
+     "credit": "Paulo Contarini, The Metropolitan Museum of Art, Gift of Giovanni Danieli, 1909 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/191253",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Unknown maker, Balance Weight with Monogram, Copper alloy, silver inlay, 6th century, 2002.213.1 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Purchase, Christopher C. Grisanti and Suzanne P. Fawbush, and Alastair B. Martin Gifts, 2002 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/473636",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Unknown maker, Incised Bone Balance Beam, Bone, pigment, 10th to 16th century (?), 1994.35.43 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Bequest of Arthur M. Bullowa, 1993 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/316868",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Christopher Trechsler, Beam compass, Brass gilt, 1619, 41.160.721 (The Metropolitan Museum of Art)",
+     "credit": "Christopher Trechsler, The Metropolitan Museum of Art, Bequest of W. Gedney Beatty, 1941 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/198867",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "dec-22-2027",
+   "date": "2027-12-22",
+   "id": "KB02",
+   "title": "Is gardening good for your brain? What the trials measured",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Soga M, Gaston KJ, Yamaura Y (2017), Gardening is beneficial for health: a meta-analysis, Preventive Medicine Reports 5:92-99, doi 10.1016/j.pmedr.2016.11.007, PMC5153451",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5153451/"
+    },
+    {
+     "label": "Chen L, Sun Y, Pan Y, et al. (2025), How duration and frequency influence horticultural therapy's effect on depressive symptoms: evidence from a meta-analysis, Frontiers in Psychology 16:1575441, doi 10.3389/fpsyg.2025.1575441, PMC12124316",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12124316/"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii State Department of Health, Office of Medical Cannabis Control and Regulation (OMCCR), Resources for Patients page",
+     "url": "https://health.hawaii.gov/cannabisinsights/resources-for-patients/"
+    },
+    {
+     "label": "Image records: The Met and Cleveland Museum of Art Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/437656"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Georges Seurat, The Gardener, oil on wood, 1882 to 1883, The Met 67.187.102",
+     "credit": "Georges Seurat, The Gardener (1882 to 83). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/437656",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Gardener figure with a garden roller, soft-paste porcelain, Derby Porcelain Manufactory, about 1765, The Met 64.101.641",
+     "credit": "Derby Porcelain Manufactory, Gardener (ca. 1765). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/203484",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Gardener figure with a wheelbarrow, soft-paste porcelain, Chelsea Porcelain Manufactory, about 1765, The Met 64.101.640",
+     "credit": "Chelsea Porcelain Manufactory, Gardener (ca. 1765). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/203483",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Figure of a Gardener, soft-paste porcelain, Bow Porcelain Factory, London, about 1765 to 1770, Cleveland Museum of Art 1945.36",
+     "credit": "Bow Porcelain Factory, Figure of a Gardener (c. 1765 to 70). The Cleveland Museum of Art (CC0)",
+     "url": "https://clevelandart.org/art/1945.36",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Jacques Bellange, Gardener, from \"Hortulanae\", etching, The Met 49.50.101",
+     "credit": "Jacques Bellange, Gardener, from \"Hortulanae\". The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/369051",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Nicolas Lancret, The Gardener, oil on canvas wall panel, about 1723 to 1727, Cleveland Museum of Art 1948.176.1",
+     "credit": "Nicolas Lancret, The Gardener (c. 1723 to 27). The Cleveland Museum of Art (CC0)",
+     "url": "https://clevelandart.org/art/1948.176.1",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Gardener (one of a pair) holding a spade, soft-paste porcelain, Worcester factory, about 1770, The Met 64.101.778",
+     "credit": "Worcester factory, Gardener (one of a pair) (ca. 1770). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/203599",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "David Clayton, Miniature watering can, silver, about 1720 to 1730, The Met 63.53.200",
+     "credit": "David Clayton, Miniature watering can (ca. 1720 to 30). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/202877",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Boy gardener, soft-paste porcelain scent bottle, Chelsea Porcelain Manufactory, about 1760, The Met 64.101.551a, b",
+     "credit": "Chelsea Porcelain Manufactory, Boy gardener (ca. 1760). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/203412",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Girl gardener, soft-paste porcelain scent bottle, Chelsea Porcelain Manufactory, about 1760, The Met 64.101.618a, b",
+     "credit": "Chelsea Porcelain Manufactory, Girl gardener (ca. 1760). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/203466",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "James McNeill Whistler, The Garden, etching and drypoint, 1879 to 1880, Cleveland Museum of Art 1923.31",
+     "credit": "James McNeill Whistler, The Garden (1879 to 80). The Cleveland Museum of Art (CC0)",
+     "url": "https://clevelandart.org/art/1923.31",
      "card": false
     }
    ]
@@ -28780,6 +29147,2449 @@
      "what": "Unknown maker, Apothecary Jar, tin-glazed earthenware, ca. 1750 to 1800, 11.87.13 (The Metropolitan Museum of Art)",
      "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Mrs. Robert W. de Forest, 1911 (public domain)",
      "url": "https://www.metmuseum.org/art/collection/search/3462",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "jan-25-2028",
+   "date": "2028-01-25",
+   "id": "KB13",
+   "title": "Indica or sativa: what the chemistry says",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Smith, C. J., Vergara, D., Keegan, B., & Jikomes, N. (2022). The phytochemical diversity of commercial Cannabis in the United States. PLoS ONE 17(5):e0267498. doi:10.1371/journal.pone.0267498",
+     "url": "https://doi.org/10.1371/journal.pone.0267498"
+    },
+    {
+     "label": "Watts, S., McElroy, M., Migicovsky, Z., Maassen, H., van Velzen, R., & Myles, S. (2021). Cannabis labelling is associated with genetic variation in terpene synthase genes. Nature Plants 7(10):1330 to 1334. doi:10.1038/s41477-021-01003-y",
+     "url": "https://doi.org/10.1038/s41477-021-01003-y"
+    },
+    {
+     "label": "Herwig, N., Utgenannt, S., Nickl, F., Möbius, P., Nowak, L., Schulz, O., & Fischer, M. (2024). Classification of cannabis strains based on their chemical fingerprint: a broad analysis of chemovars in the German market. Cannabis Cannabinoid Res 10(3):409 to 419. doi:10.1089/can.2024.0127",
+     "url": "https://doi.org/10.1089/can.2024.0127"
+    },
+    {
+     "label": "Spindle, T. R., et al. (2024). Vaporized D-limonene selectively mitigates the acute anxiogenic effects of delta-9-tetrahydrocannabinol in healthy adults who intermittently use cannabis. Drug Alcohol Depend 257:111267. doi:10.1016/j.drugalcdep.2024.111267",
+     "url": "https://doi.org/10.1016/j.drugalcdep.2024.111267"
+    },
+    {
+     "label": "Raz, N., et al. (2023). Selected cannabis terpenes synergize with THC to produce increased CB1 receptor activation. Biochem Pharmacol 212:115548. doi:10.1016/j.bcp.2023.115548",
+     "url": "https://doi.org/10.1016/j.bcp.2023.115548"
+    },
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Hawaii Medical Cannabis Newsletter, October 2024 (Know Before You Grow, Part 2).",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/10/OMCCR-October-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Hawaii Medical Cannabis Newsletter, July 2024 (terpenes and the entourage effect).",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/08/OMCCR-July-2024-Newsletter.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Hawaii Medical Cannabis Newsletter, June 2024 (how to read a label).",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Unknown maker, Settee, Walnut, yellow pine; upholstery (modern), 1740 to 60, 25.115.1 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Rogers Fund, 1925 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/7386",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Anonymous, Italian, 19th century, Caricature of a Tall Thin Man Carrying a Book, Watercolor, 1885, 60.625.2 (The Metropolitan Museum of Art)",
+     "credit": "Anonymous, Italian, 19th century, The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/390397",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Number card made for this post: 89,923, lab-tested flower samples from six US states in the largest check of indica, sativa and hybrid labels (Smith et al. (2022), PLoS ONE 17(5))",
+     "credit": "Smith et al. (2022), PLoS ONE 17(5)",
+     "url": "https://doi.org/10.1371/journal.pone.0267498",
+     "card": true
+    },
+    {
+     "where": "Slide 4",
+     "what": "Thomas Rowlandson, The Post Office, Hand-colored etching and aquatint, April 1, 1809, 59.533.1118 (The Metropolitan Museum of Art)",
+     "credit": "Thomas Rowlandson, The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/744466",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Antoine-Samuel Adam-Salomon, [Bearded Man with Magnifying Glass Examining a Manuscript], Albumen silver print from glass negative, 1870s, 46.167 (The Metropolitan Museum of Art)",
+     "credit": "Antoine-Samuel Adam-Salomon, The Metropolitan Museum of Art, Museum Accession, 1946 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/269086",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Number card made for this post: 21.2%, of the variation in indica labeling explained by one aroma compound, myrcene (Watts et al. (2021), Nature Plants 7)",
+     "credit": "Watts et al. (2021), Nature Plants 7",
+     "url": "https://doi.org/10.1038/s41477-021-01003-y",
+     "card": true
+    },
+    {
+     "where": "Slide 7",
+     "what": "Jan Collaert I, New Inventions of Modern Times [Nova Reperta], The Invention of Copper Engraving, plate 19, Engraving, ca. 1600, 49.95.870(10) (The Metropolitan Museum of Art)",
+     "credit": "Jan Collaert I, The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/659685",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Herman Doomer, Cabinet, Oak veneered with ebony, snakewood, rosewood, kingwood, cedar and other woods; mother-of-pearl, ivory, green stained bone, ca. 1640 to 50, 2011.181 (The Metropolitan Museum of Art)",
+     "credit": "Herman Doomer, The Metropolitan Museum of Art, Purchase, Rogers Fund and Joseph Pulitzer Bequest, 2011 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/238523",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Unknown maker, Netsuke of Frog, Wood, 19th century, 10.211.2009 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Mrs. Russell Sage, 1910 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/59174",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Joseph Cox, Settee, Mahogany, red oak, cherry, pine, 1757 to 60, 32.51.1 (The Metropolitan Museum of Art)",
+     "credit": "Joseph Cox, The Metropolitan Museum of Art, Gift of Mrs. John J. Riker, 1932 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/7397",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Duncan Phyfe, Sofa, Mahogany, tulip poplar, cane, gilded brass, ca. 1810 to 20, 60.4.1 (The Metropolitan Museum of Art)",
+     "credit": "Duncan Phyfe, The Metropolitan Museum of Art, Gift of C. Ruxton Love Jr., 1960 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/7595",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Monogrammist FA, An Artist Painting a Heraldic Shield in a Cabinet of Curiosities, Vellum laid on card, 1664, 48.187.740 (The Metropolitan Museum of Art)",
+     "credit": "Monogrammist FA, The Metropolitan Museum of Art, Bequest of Catherine D. Wentworth, 1948 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/437139",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "jan-27-2028",
+   "date": "2028-01-27",
+   "id": "KB05",
+   "title": "CHS: the vomiting syndrome people do not link to cannabis",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Johns Hopkins All Children's Hospital. Cannabinoid Hyperemesis Syndrome Clinical Pathway. Updated August 2025.",
+     "url": "https://www.hopkinsmedicine.org/-/media/files/allchildrens/clinical-pathways/chs_pathway-2025-08-18.pdf"
+    },
+    {
+     "label": "Myran DT, Roberts R, Pugliese M, Taljaard M, Tanuseputro P, Pacula RL. Changes in Emergency Department Visits for Cannabis Hyperemesis Syndrome Following Recreational Cannabis Legalization and Subsequent Commercialization in Ontario, Canada. JAMA Netw Open. 2022;5(9):e2231937.",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2022.31937"
+    },
+    {
+     "label": "Vivolo-Kantor AM, Liu S, Tanz LJ, Mattson CL, Schier J. Trends in Emergency Department Visits Involving Cannabis Hyperemesis Syndrome Identified Using a New Diagnosis Code, United States, January 2023 to May 2026. MMWR Morb Mortal Wkly Rep. 2026;75(30):391-396.",
+     "url": "https://doi.org/10.15585/mmwr.mm7530a2"
+    },
+    {
+     "label": "Habboushe J, Sedor J. Cannabinoid hyperemesis acute renal failure: a common sequela of cannabinoid hyperemesis syndrome. Am J Emerg Med. 2014;32(6):690.e1-2.",
+     "url": "https://doi.org/10.1016/j.ajem.2013.12.013"
+    },
+    {
+     "label": "Bellamy SE, Loor B, Gutierrez-Castillo M. A Case of Cannabinoid Hyperemesis Syndrome and Acute Kidney Injury: A Review of the Literature. Cureus. 2023;15(1):e34350.",
+     "url": "https://doi.org/10.7759/cureus.34350"
+    },
+    {
+     "label": "Nourbakhsh M, Miller A, Gofton J, Jones G, Adeagbo B. Cannabinoid Hyperemesis Syndrome: Reports of Fatal Cases. J Forensic Sci. 2019;64(1):270-274.",
+     "url": "https://doi.org/10.1111/1556-4029.13819"
+    },
+    {
+     "label": "Seabrook JA, Seabrook M, Gilliland JA. Cannabis Hyperemesis Syndrome in Youth: Clinical Insights and Public Health Implications. Int J Environ Res Public Health. 2025;22(4):633.",
+     "url": "https://doi.org/10.3390/ijerph22040633"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii Department of Health, OMCCR. Hawaii Medical Cannabis Newsletter, October 2024 (CHS section).",
+     "url": "https://health.hawaii.gov/cannabisinsights/"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR. Cannabis use risks page.",
+     "url": "https://health.hawaii.gov/cannabisinsights/cannabis-use-risks/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Honoré Daumier, The Hot Bath, lithograph, 1839, 1925.1014 (Cleveland Museum of Art)",
+     "credit": "Honoré Daumier, Cleveland Museum of Art, Dudley P. Allen Fund (CC0)",
+     "url": "https://clevelandart.org/art/1925.1014",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Katsushika Hokusai, Wave, Monochrome woodblock print; ink on paper, n.d., JP1863 (The Metropolitan Museum of Art)",
+     "credit": "Katsushika Hokusai, The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/56186",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Simon Willard, Clock, Mahogany, mahogany veneer, white pine, brass, glass, 1825 to 30, 1991.185 (The Metropolitan Museum of Art)",
+     "credit": "Simon Willard, The Metropolitan Museum of Art, Gift of Mary B. Walton, in memory of her husband, John S. Walton, 1991 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/14298",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Unknown maker, Ewer and basin, soap and brush boxes, Earthenware, 1880 to 90, 1993.135.1 to .4 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Purchase, Robert L. Isaacson Gift, 1993 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/208132",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "James Wyatt, Hot water jug, Silver, 1775 to 76, 1993.73 (The Metropolitan Museum of Art)",
+     "credit": "James Wyatt, The Metropolitan Museum of Art, The Metropolitan Museum of Art Volunteer Anniversary Fund, 1993 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/208129",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Number card made for this post: 1 in 3, patients respond to a common anti-nausea drug, per a hospital CHS pathway (Johns Hopkins All Children's CHS Clinical Pathway (2025))",
+     "credit": "Johns Hopkins All Children's CHS Clinical Pathway (2025)",
+     "url": "https://www.hopkinsmedicine.org/-/media/files/allchildrens/clinical-pathways/chs_pathway-2025-08-18.pdf",
+     "card": true
+    },
+    {
+     "where": "Slide 7",
+     "what": "Moritz Fürst, David Hosack, Physician and Scientist, Bronze, n.d., 08.230.7 (The Metropolitan Museum of Art)",
+     "credit": "Moritz Fürst, The Metropolitan Museum of Art, Gift of Mr. and Mrs. F. S. Wait, 1909 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/14646",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Number card made for this post: 13x, rise in monthly emergency visits for CHS in Ontario, 2014 to 2021 (Myran et al. (2022), JAMA Netw Open)",
+     "credit": "Myran et al. (2022), JAMA Netw Open",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2022.31937",
+     "card": true
+    },
+    {
+     "where": "Slide 9",
+     "what": "Unknown maker, Bath Pail (Satl), cast brass, turned, engraved, inlaid with black compound (niello), c. 1580 to 1610, 1969.291 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of Rosenberg & Stiebel, Inc. (CC0)",
+     "url": "https://clevelandart.org/art/1969.291",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Ahmad al-Dhaki al-Mawsili, Luxury Ewer Extending Good Fortune to the Owner, brass inlaid with silver; lid and base added later, 1223, 1956.11 (Cleveland Museum of Art)",
+     "credit": "Ahmad al-Dhaki al-Mawsili, Cleveland Museum of Art, John L. Severance Fund (CC0)",
+     "url": "https://clevelandart.org/art/1956.11",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Paul Storr, Hot water jug, Silver, wood, 1807 to 8, 1979.495.1a to c (The Metropolitan Museum of Art)",
+     "credit": "Paul Storr, The Metropolitan Museum of Art, Gift of Dr. and Mrs. John C. Weber, 1979 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/206808",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Christopher Dresser, Wave bowl, Glazed earthenware, ca. 1880, 2001.549 (The Metropolitan Museum of Art)",
+     "credit": "Christopher Dresser, The Metropolitan Museum of Art, Purchase, James David Draper Gift, in memory of Robert Isaacson, 2001 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/210899",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "jan-28-2028",
+   "date": "2028-01-28",
+   "id": "KB08",
+   "title": "Plants keep time by the dark",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Imaizumi T (2025), Choosing which models best explain photoperiodic time measurement mechanisms in plants, npj Biological Timing and Sleep 2:36, doi 10.1038/s44323-025-00054-0, PMC12660140",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12660140/"
+    },
+    {
+     "label": "Gendron JM, Staiger D (2023), New horizons in plant photoperiodism, Annual Review of Plant Biology 74:481-509, doi 10.1146/annurev-arplant-070522-055628, PMC11114106",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11114106/"
+    },
+    {
+     "label": "SharathKumar M, Heuvelink E, Marcelis LFM, et al. (2020), Floral induction in the short-day plant chrysanthemum under blue and red extended long-days, Frontiers in Plant Science 11:610041, doi 10.3389/fpls.2020.610041, PMC7868430",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7868430/"
+    },
+    {
+     "label": "University of Minnesota Extension, Poinsettia (Julie Weisenhorn)",
+     "url": "https://extension.umn.edu/houseplants/poinsettia"
+    },
+    {
+     "label": "NC State Extension Horticulture Document Library, Basic facts about the response of poinsettias to daylength and temperature (Pennsylvania Flower Growers Bulletin #235, 1970)",
+     "url": "https://hortscans.ces.ncsu.edu/library/all/doc_id/4335"
+    }
+   ],
+   "other": [
+    {
+     "label": "Image records: The Met, Cleveland Museum of Art Open Access, RCSB PDB",
+     "url": "https://www.metmuseum.org/art/collection/search/829400"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Ogata Kenzan, Chrysanthemum, folding fan, ink and color on gold-leafed paper, Japan, 1743, The Met 2019.420.23",
+     "credit": "Ogata Kenzan, Chrysanthemum (1743). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/829400",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Johan Christian Dahl, The River Elbe in Moonlight, brush and gray wash, 1833, The Met 2003.157",
+     "credit": "Johan Christian Dahl, The River Elbe in Moonlight (1833). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/359382",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Utagawa Hiroshige, Morning Glories, woodblock print, Japan, about 1843, The Met JP265",
+     "credit": "Utagawa Hiroshige, Morning Glories (ca. 1843). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/36737",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "RCSB PDB 6TL4, crystal structure of the photosensory module of soybean phytochrome B (Nagano et al., 2020)",
+     "credit": "RCSB PDB (RCSB.org), PDB ID 6TL4; Nagano et al. (2020), Nature Plants 6:581. CC BY 4.0",
+     "url": "https://www.rcsb.org/structure/6TL4",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Lantern clock, brass, about 1685, The Met 42.197.11a, b",
+     "credit": "Lantern clock (ca. 1685). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/4751",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Mary Altha Nims, Ruins by Moonlight, pencil, 1840, Cleveland Museum of Art 1934.123",
+     "credit": "Mary Altha Nims, Ruins by Moonlight (1840). The Cleveland Museum of Art (CC0)",
+     "url": "https://clevelandart.org/art/1934.123",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Kuang Xü, Chrysanthemum, hanging scroll of polychrome woodblock print, China, printed 1922, The Met CP266",
+     "credit": "Kuang Xü, Chrysanthemum (printed 1922). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/63623",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Lantern, tin, 1700 to 1900, The Met 10.125.600",
+     "credit": "Lantern (1700 to 1900). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/4735",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Johan Christian Dahl, Copenhagen Harbor by Moonlight, oil on canvas, 1846, The Met 2019.167.2",
+     "credit": "Johan Christian Dahl, Copenhagen Harbor by Moonlight (1846). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/439343",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Utagawa Hiroshige, Grasshopper and Morning-glory Vine, woodblock print, Japan, about 1835, The Met JP2533",
+     "credit": "Utagawa Hiroshige, Grasshopper and Morning-glory Vine (ca. 1835). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/56946",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Reading Stand with Chrysanthemums and Autumn Grasses, lacquered wood with gold, Japan, Momoyama period, early 1600s, Cleveland Museum of Art 1976.15",
+     "credit": "Reading Stand with Chrysanthemums and Autumn Grasses (early 1600s). The Cleveland Museum of Art (CC0)",
+     "url": "https://clevelandart.org/art/1976.15",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Lantern, tin and horn, American, about 1770, The Met 34.100.188",
+     "credit": "Lantern (ca. 1770). The Metropolitan Museum of Art (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/4739",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "jan-29-2028",
+   "date": "2028-01-29",
+   "id": "KB11",
+   "title": "Can sunflowers clean polluted soil?",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "U.S. EPA. Introduction to Phytoremediation. EPA/600/R-99/107. National Risk Management Research Laboratory, Cincinnati, OH, February 2000.",
+     "url": "https://clu-in.org/download/remed/introphyto.pdf"
+    },
+    {
+     "label": "Dushenkov S, et al. (1997). Removal of uranium from water using terrestrial plants. Environ Sci Technol 31(12):3468-3474. doi:10.1021/es970220l",
+     "url": "https://doi.org/10.1021/es970220l"
+    },
+    {
+     "label": "Nehnevajova E, et al. (2005). Screening of sunflower cultivars for metal phytoextraction in a contaminated field prior to mutagenesis. Int J Phytoremediation 7(4):337-349. doi:10.1080/16226510500327210. PMID 16463545",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/16463545/"
+    },
+    {
+     "label": "Zehra A, et al. (2020). Assessment of sunflower germplasm for phytoremediation of lead-polluted soil and production of seed oil and seed meal for human and animal consumption. J Environ Sci (China) 87:24-38. doi:10.1016/j.jes.2019.05.031. PMID 31791497",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31791497/"
+    },
+    {
+     "label": "Webber ZR, et al. (2021). Diné citizen science: Phytoremediation of uranium and arsenic in the Navajo Nation. Sci Total Environ 794:148665. doi:10.1016/j.scitotenv.2021.148665. PMID 34218141",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34218141/"
+    },
+    {
+     "label": "Brigham Young University, Plant and Wildlife Sciences directory: Ben Abbott",
+     "url": "https://pws.byu.edu/directory/ben-abbott"
+    }
+   ],
+   "other": [
+    {
+     "label": "40 CFR 268.3, Dilution prohibited as a substitute for treatment (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-40/part-268/section-268.3"
+    },
+    {
+     "label": "Image records: The Met Collection API and Cleveland Museum of Art Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/436524"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Vincent van Gogh, Sunflowers, Oil on canvas, 1887, 49.41 (The Metropolitan Museum of Art)",
+     "credit": "Vincent van Gogh, Sunflowers. The Metropolitan Museum of Art, Rogers Fund, 1949 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/436524",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Emile Hurtré, Design for a wall decoration with peacock, cranes, and sunflowers for the restaurant in Hotel Langham (Paris), Pen and black, blue, and metallic ink, watercolor, over graphite, 1896 to 98, 1991.1288 (The Metropolitan Museum of Art)",
+     "credit": "Emile Hurtré, Design for a wall decoration with peacock, cranes, and sunflowers for the restaurant in Hotel Langham (Paris). The Metropolitan Museum of Art, Edward Pearce Casey Fund, 1991 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/343052",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Jacob Houbraken, Men quarrying or mining for gold, from \"Danubius Pannonico-Mysicus\" (Volume 3), Etching, 1726, 51.501.3436 (The Metropolitan Museum of Art)",
+     "credit": "Jacob Houbraken, Men quarrying or mining for gold, from \"Danubius Pannonico-Mysicus\" (Volume 3). The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/817540",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Reinier Nooms, called Zeeman, A Raft and a \"Onderlegger\", Etching, 17th century, 17.3.881 (The Metropolitan Museum of Art)",
+     "credit": "Reinier Nooms, called Zeeman, A Raft and a \"Onderlegger\". The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1917 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/381309",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Timothy H. O'Sullivan, Black Cañon, From Camp 8, Looking Above, Albumen silver print from glass negative, 1871, 1986.1054.19 (The Metropolitan Museum of Art)",
+     "credit": "Timothy H. O'Sullivan, Black Cañon, From Camp 8, Looking Above. The Metropolitan Museum of Art, Purchase, Joseph Pulitzer Bequest and The Horace W. Goldsmith Foundation Gift through Joyce and Robert Menschel, 1986 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/264711",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Jean-François Millet, The Diggers, Etching on thin laid paper; fourth (final) state, 1814 to 75, 17.21.42 (The Metropolitan Museum of Art)",
+     "credit": "Jean-François Millet, The Diggers. The Metropolitan Museum of Art, Gift of David Keppel, 1917 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/371527",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Number card made for this post: 4.4x, better metal extraction by the best of 15 sunflower cultivars (Nehnevajova et al. (2005), International Journal of Phytoremediation 7(4))",
+     "credit": "Nehnevajova et al. (2005), International Journal of Phytoremediation 7(4)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/16463545/",
+     "card": true
+    },
+    {
+     "where": "Slide 8",
+     "what": "Timothy H. O'Sullivan, Head of Cañyon de Chelle, Looking Down, Albumen silver print, 1873, 2015.778.38 (The Metropolitan Museum of Art)",
+     "credit": "Timothy H. O'Sullivan, Head of Cañyon de Chelle, Looking Down. The Metropolitan Museum of Art, Gift of Joyce F. Menschel, 2015 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/700114",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Unknown maker, Pitcher with Handle, glass, mold-blown, 300s CE or later, 1915.553 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Pitcher with Handle. Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust (CC0)",
+     "url": "https://clevelandart.org/art/1915.553",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Jean-François Millet, Digger, Woodcut in brown ink; second (final) state; posthumous impression, 1863, 17.34.14 (The Metropolitan Museum of Art)",
+     "credit": "Jean-François Millet, Digger. The Metropolitan Museum of Art, Gift of Dr. Van Horne Norrie, 1917 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/371533",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Abraham Helmhack, Jug with coat-of-arms of the Cleminius Family, Tin-glazed earthenware, ca. 1700, 2021.77.1 (The Metropolitan Museum of Art)",
+     "credit": "Abraham Helmhack, Jug with coat-of-arms of the Cleminius Family. The Metropolitan Museum of Art, Bequest of Helga Kramarsky, 2020 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/848434",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Unknown maker, Pitcher, Parian porcelain, 1830 to 70, 47.90.190 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, Pitcher. The Metropolitan Museum of Art, Gift of Dr. Charles W. Green, 1947 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/5748",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "jan-30-2028",
+   "date": "2028-01-30",
+   "id": "KB03",
+   "title": "Why do edibles hit differently? The liver chemistry behind the delay",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Hawaii Department of Health, Office of Medical Cannabis Control and Regulation. Hawaii Medical Cannabis Newsletter, August 2024.",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2024/08/OMCCR-August-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Caicedo, D. A., Pérez-Mañá, C., Farré, M., & Papaseit, E. (2025). An overview of the potential for pharmacokinetic interactions between drugs and cannabis products in humans. Pharmaceutics 17(3):319. doi:10.3390/pharmaceutics17030319",
+     "url": "https://doi.org/10.3390/pharmaceutics17030319"
+    },
+    {
+     "label": "Peralt, A., Ke, P., & Castaneto, M. S. (2022). Impact of cannabis-infused edibles on public safety and regulation. J Forensic Sci 67(6):2387 to 2393. doi:10.1111/1556-4029.15135",
+     "url": "https://doi.org/10.1111/1556-4029.15135"
+    },
+    {
+     "label": "Li, P., & An, G. (2025). Evaluation of cannabis per se laws: a semi-mechanistic pharmacometrics model. J Clin Pharmacol. PMC12034916",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12034916/"
+    },
+    {
+     "label": "Baglot, S. L., Hume, C., Petrie, G. N., et al. (2021). Pharmacokinetics and central accumulation of delta-9-tetrahydrocannabinol (THC) and its bioactive metabolites are influenced by route of administration and sex in rats. Sci Rep 11(1):23990. doi:10.1038/s41598-021-03242-7",
+     "url": "https://doi.org/10.1038/s41598-021-03242-7"
+    },
+    {
+     "label": "Bruni, N., Della Pepa, C., Oliaro-Bosso, S., et al. (2018). Cannabinoid delivery systems for pain and inflammation treatment. Molecules 23(10):2478. doi:10.3390/molecules23102478",
+     "url": "https://doi.org/10.3390/molecules23102478"
+    },
+    {
+     "label": "Lucas, C. J., Galettis, P., & Schneider, J. (2018). The pharmacokinetics and the pharmacodynamics of cannabinoids. Br J Clin Pharmacol 84(11):2477 to 2482. doi:10.1111/bcp.13710",
+     "url": "https://doi.org/10.1111/bcp.13710"
+    },
+    {
+     "label": "ElSohly, M. A., Gul, W., & Walker, L. A. (2018). Pharmacokinetics and tolerability of THC-hemisuccinate in a suppository formulation. Med Cannabis Cannabinoids 1(1):44 to 53. doi:10.1159/000489037",
+     "url": "https://doi.org/10.1159/000489037"
+    },
+    {
+     "label": "Branden, G., Sjogren, T., et al. (2014). Structure-based ligand design to overcome CYP inhibition in drug discovery projects. Drug Discov Today 19:905.",
+     "url": "https://www.rcsb.org/structure/4NZ2"
+    },
+    {
+     "label": "Liu, R., Lyu, X., et al. (2017). Angew Chem Int Ed Engl 56:13011.",
+     "url": "https://www.rcsb.org/structure/5W0C"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Robert Osmond, Clock, gilt bronze, c. 1785, 1985.11 (Cleveland Museum of Art)",
+     "credit": "Robert Osmond, Cleveland Museum of Art, John L. Severance Fund (CC0)",
+     "url": "https://clevelandart.org/art/1985.11",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Unknown maker, Canopic Jar with Man's Head, travertine, 664 to 525 BCE, 1921.1019 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, The Charles W. Harkness Endowment Fund (CC0)",
+     "url": "https://clevelandart.org/art/1921.1019",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Number card made for this post: 5 to 20%, of swallowed THC reaches the blood, review estimate (Caicedo et al. (2025), Pharmaceutics 17(3))",
+     "credit": "Caicedo et al. (2025), Pharmaceutics 17(3)",
+     "url": "https://doi.org/10.3390/pharmaceutics17030319",
+     "card": true
+    },
+    {
+     "where": "Slide 4",
+     "what": "Crystal structure of CYP2C9 in complex with an inhibitor, x-ray diffraction, 2.45 angstrom, released 2014-08-13 (PDB 4NZ2, Branden et al., 2014, Drug Discov Today 19)",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 4NZ2 (Branden et al., 2014, Drug Discov Today 19:905).",
+     "url": "https://www.rcsb.org/structure/4NZ2",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Marchand, Watch, enameled case mounted in engraved gilded metal, late 1700s - early 1800s, 1916.357 (Cleveland Museum of Art)",
+     "credit": "Marchand, Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade (CC0)",
+     "url": "https://clevelandart.org/art/1916.357",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Unknown maker, Wall Clock, gilt bronze, c. 1750 to 60, 1950.376 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, John L. Severance Fund (CC0)",
+     "url": "https://clevelandart.org/art/1950.376",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Baumgartinger, Clock, carved and gilded wood, faience, c. 1750, 1966.362 (Cleveland Museum of Art)",
+     "credit": "Baumgartinger, Cleveland Museum of Art, John L. Severance Fund (CC0)",
+     "url": "https://clevelandart.org/art/1966.362",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Honoré Daumier, An Omnibus Waiting Room, wood engraving, 1862, printed 1920, 1921.1490 (Cleveland Museum of Art)",
+     "credit": "Honoré Daumier, Cleveland Museum of Art, Gift of Ralph King (CC0)",
+     "url": "https://clevelandart.org/art/1921.1490",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Muirhead Bone, Liberty's Clock, drypoint, 1909, 1954.755 (Cleveland Museum of Art)",
+     "credit": "Muirhead Bone, Cleveland Museum of Art, John L. Severance Fund (CC0)",
+     "url": "https://clevelandart.org/art/1954.755",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "House of Fabergé, Kremlin Tower Clock, rhodonite, silver, enamel, emeralds, sapphires, c. 1913, 1966.477 (Cleveland Museum of Art)",
+     "credit": "House of Fabergé, Cleveland Museum of Art, The India Early Minshall Collection (CC0)",
+     "url": "https://clevelandart.org/art/1966.477",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Unknown maker, Clock for a Garniture Set, Chinese hard-paste porcelain, gilt bronze, enameled metal, 1736 to 1770, 2020.421.1 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of Horace Wood Brock (CC0)",
+     "url": "https://clevelandart.org/art/2020.421.1",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Thomas Moran, Smelting Works at Denver, watercolor and gouache, 1892, 1938.56 (Cleveland Museum of Art)",
+     "credit": "Thomas Moran, Cleveland Museum of Art, Bequest of Mrs. Henry A. Everett for the Dorothy Burnham Everett Memorial Collection (CC0)",
+     "url": "https://clevelandart.org/art/1938.56",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "feb-08-2028",
+   "date": "2028-02-08",
+   "id": "KB06",
+   "title": "Your body makes its own cannabinoids",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Devane WA, Hanus L, Breuer A, Pertwee RG, Stevenson LA, Griffin G, Gibson D, Mandelbaum A, Etinger A, Mechoulam R. Isolation and structure of a brain constituent that binds to the cannabinoid receptor. Science. 1992;258(5090):1946-9.",
+     "url": "https://doi.org/10.1126/science.1470919"
+    },
+    {
+     "label": "Navarrete F, García-Gutiérrez MS, Jurado-Barba R, et al. Endocannabinoid System Components as Potential Biomarkers in Psychiatry. Front Psychiatry. 2020;11:315.",
+     "url": "https://doi.org/10.3389/fpsyt.2020.00315"
+    },
+    {
+     "label": "McPartland JM, Guy GW, Di Marzo V. Care and feeding of the endocannabinoid system. PLoS One. 2014;9(3):e89566.",
+     "url": "https://doi.org/10.1371/journal.pone.0089566"
+    },
+    {
+     "label": "Phan KL, Angstadt M, Golden J, Onyewuenyi I, Popovska A, de Wit H. Cannabinoid modulation of amygdala reactivity to social signals of threat in humans. J Neurosci. 2008;28(10):2313-9.",
+     "url": "https://doi.org/10.1523/JNEUROSCI.5603-07.2008"
+    },
+    {
+     "label": "Rabinak CA, Angstadt M, Lyons M, Mori S, Milad MR, Liberzon I, Phan KL. Cannabinoid modulation of prefrontal-limbic activation during fear extinction learning and recall in humans. Neurobiol Learn Mem. 2014;113:125-34.",
+     "url": "https://doi.org/10.1016/j.nlm.2013.09.009"
+    },
+    {
+     "label": "Neumeister A, Normandin MD, Pietrzak RH, Piomelli D, et al. Elevated brain cannabinoid CB1 receptor availability in post-traumatic stress disorder: a positron emission tomography study. Mol Psychiatry. 2013;18(9):1034-40.",
+     "url": "https://doi.org/10.1038/mp.2013.61"
+    },
+    {
+     "label": "Stone NL, Millar SA, Herrod PJJ, Barrett DA, Ortori CA, Mellon VA, O'Sullivan SE. An Analysis of Endocannabinoid Concentrations and Mood Following Singing and Exercise in Healthy Volunteers. Front Behav Neurosci. 2018;12:269.",
+     "url": "https://doi.org/10.3389/fnbeh.2018.00269"
+    },
+    {
+     "label": "Shen S, et al. (2024). Structure-based identification of a G protein-biased allosteric modulator of cannabinoid receptor CB1. Proc Natl Acad Sci USA 121(24):e2321532121.",
+     "url": "https://doi.org/10.1073/pnas.2321532121"
+    },
+    {
+     "label": "Yang X, et al. (2024). Entropy drives the ligand recognition in G-protein-coupled receptor subtypes. Proc Natl Acad Sci USA 121(30):e2401091121.",
+     "url": "https://doi.org/10.1073/pnas.2401091121"
+    },
+    {
+     "label": "Li X, et al. (2023). Structural basis of selective cannabinoid CB2 receptor activation. Nat Commun 14:1447.",
+     "url": "https://doi.org/10.1038/s41467-023-37112-9"
+    },
+    {
+     "label": "Ikeda S, et al. (2021). Design and Synthesis of Novel Spiro Derivatives as Potent and Reversible Monoacylglycerol Lipase (MAGL) Inhibitors. J Med Chem 64(15):11014-11044.",
+     "url": "https://doi.org/10.1021/acs.jmedchem.1c00432"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii Department of Health, OMCCR. Hawaii Medical Cannabis Newsletter, May 2024 and March/April 2025.",
+     "url": "https://health.hawaii.gov/cannabisinsights/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Luc-Olivier Merson, Head of a Boy Singing (Study for Music), black, white, and red chalk with stumping, pricked for transfer, c. 1898, 2008.394 (Cleveland Museum of Art)",
+     "credit": "Luc-Olivier Merson, Cleveland Museum of Art, Bequest of Muriel Butkin (CC0)",
+     "url": "https://clevelandart.org/art/2008.394",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Cryo-EM structure of the human CB2 cannabinoid receptor in complex with a G protein, released Nov 20, 2024 (PDB 8X3L, Yang et al., 2024, PNAS 121(30))",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 8X3L (Yang et al., 2024, Proc Natl Acad Sci USA 121:e2401091121).",
+     "url": "https://www.rcsb.org/structure/8X3L",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Unknown maker, Pig, Polychromed terracotta, 18th century, 2024.419.24 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Linn Howard, 2024 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/208663",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Cryo-EM structure of the human CB1 cannabinoid receptor with G proteins, released Jun 5, 2024 (PDB 8IKG, Shen et al., 2024, PNAS 121(24))",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 8IKG (Shen et al., 2024, Proc Natl Acad Sci USA 121:e2321532121).",
+     "url": "https://www.rcsb.org/structure/8IKG",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Albert-Charles Lebourg, A Miller's Carriage, black and white chalk with stumping on beige wove paper, c. 1895, 2015.449 (Cleveland Museum of Art)",
+     "credit": "Albert-Charles Lebourg, Cleveland Museum of Art, Bequest of Muriel Butkin (CC0)",
+     "url": "https://clevelandart.org/art/2015.449",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Unknown maker, Skull, Ivory, 17th century, 1988.334 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Mrs. Charles Wrightsman, 1988 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/207770",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Unknown maker, Bronze horse bit, Bronze, 8th to 7th century BCE, 1972.118.50 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Bequest of Walter C. Baker, 1971 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/255363",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Number card made for this post: 19.5%, more available CB1 receptors in 25 people with PTSD than in 23 healthy controls, in a PET study (Neumeister et al. (2013), Mol Psychiatry)",
+     "credit": "Neumeister et al. (2013), Mol Psychiatry",
+     "url": "https://doi.org/10.1038/mp.2013.61",
+     "card": true
+    },
+    {
+     "where": "Slide 9",
+     "what": "Ernst Barlach, Singing Man, bronze, 1928, 1937.3204 (Cleveland Museum of Art)",
+     "credit": "Ernst Barlach, Cleveland Museum of Art, Hinman B. Hurlbut Collection (CC0)",
+     "url": "https://clevelandart.org/art/1937.3204",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Unknown maker, Charioteer, Terracotta, 4th century BCE, 74.51.1621 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, The Cesnola Collection, Purchased by subscription, 1874 to 76 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/241177",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Unknown maker, Chariot group, Terracotta, ca. 600 to 480 BCE, 74.51.1799 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, The Cesnola Collection, Purchased by subscription, 1874 to 76 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/241354",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Unknown maker, Chariot group, Terracotta, ca. 600 to 480 BCE, 74.51.1801 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, The Cesnola Collection, Purchased by subscription, 1874 to 76 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/241356",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "feb-10-2028",
+   "date": "2028-02-10",
+   "id": "KB04",
+   "title": "Topical or transdermal? One word on a cannabis cream's label",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Hawaii Department of Health, Office of Medical Cannabis Control and Regulation. Hawaii Medical Cannabis Newsletter, August 2024.",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2024/08/OMCCR-August-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Filipiuc, S. I., Neagu, A. N., Uritu, C. M., Tamba, B. I., Filipiuc, L. E., Tudorancea, I. M., et al. (2023). The skin and natural cannabinoids: topical and transdermal applications. Pharmaceuticals (Basel) 16(7):1049. doi:10.3390/ph16071049",
+     "url": "https://doi.org/10.3390/ph16071049"
+    },
+    {
+     "label": "Mahmoudinoodezh, H., Telukutla, S. R., Bhangu, S. K., Bachari, A., Cavalieri, F., & Mantri, N. (2022). The transdermal delivery of therapeutic cannabinoids. Pharmaceutics 14(2):438. doi:10.3390/pharmaceutics14020438",
+     "url": "https://doi.org/10.3390/pharmaceutics14020438"
+    },
+    {
+     "label": "Bruni, N., Della Pepa, C., Oliaro-Bosso, S., et al. (2018). Cannabinoid delivery systems for pain and inflammation treatment. Molecules 23(10):2478. doi:10.3390/molecules23102478",
+     "url": "https://doi.org/10.3390/molecules23102478"
+    },
+    {
+     "label": "Lee, C. H., Kim, M. S., Chung, B. M., Leahy, D. J., & Coulombe, P. A. (2012). Structural basis for heteromeric assembly and perinuclear organization of keratin filaments. Nat Struct Mol Biol 19(7):707 to 715. doi:10.1038/nsmb.2330",
+     "url": "https://doi.org/10.1038/nsmb.2330"
+    },
+    {
+     "label": "Lomakin, I. B., Hinbest, A. J., Ho, M., Eldirany, S. A., & Bunick, C. G. (2020). Crystal structure of keratin 1/10(C401A) 2B heterodimer. Yale J Biol Med 93(1):3 to 17.",
+     "url": "https://www.rcsb.org/structure/6UUI"
+    },
+    {
+     "label": "Wang, Y., Wu, L., et al. (2024). Cryo-EM structure of cannabinoid receptor CB1-beta-arrestin complex. Protein Cell 15(3):230 to 234. doi:10.1093/procel/pwad055",
+     "url": "https://doi.org/10.1093/procel/pwad055"
+    },
+    {
+     "label": "Li, X., Chang, H., et al. (2023). Nat Commun 14:1447.",
+     "url": "https://www.rcsb.org/structure/8GUR"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Unknown maker, Box and Cover, celadon, 918 to 1392, 1918.423.a (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of John L. Severance (CC0)",
+     "url": "https://clevelandart.org/art/1918.423.a",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Heterocomplex of coil 2B domains of human intermediate filament proteins, keratin 5 (KRT5) and keratin 14 (KRT14), x-ray diffraction, 3.005 angstrom, released 2012-06-20 (PDB 3TNU, Lee et al., 2012, Nat Struct Mol Biol 19)",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 3TNU (Lee et al., 2012, Nat Struct Mol Biol 19:707).",
+     "url": "https://www.rcsb.org/structure/3TNU",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Cry-EM structure of cannabinoid receptor-beta-arrestin-1 complex, electron microscopy, 3.6 angstrom, released 2024-02-28 (PDB 8WRZ, Wang et al., 2024, Protein Cell 15)",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 8WRZ (Wang et al., 2024, Protein Cell 15:230).",
+     "url": "https://www.rcsb.org/structure/8WRZ",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Cryo-EM structure of CP-CB2-G protein complex, electron microscopy, 2.84 angstrom, released 2023-05-10 (PDB 8GUR, Li et al., 2023, Nat Commun 14)",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 8GUR (Li et al., 2023, Nat Commun 14:1447).",
+     "url": "https://www.rcsb.org/structure/8GUR",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Unknown maker, Cosmetic Vessel, anhydrite, c. 1980 to 1901 BCE, 1982.3 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Edwin R. and Harriet Pelton Perkins Memorial Fund (CC0)",
+     "url": "https://clevelandart.org/art/1982.3",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Unknown maker, Alabastron, travertine, 305 to 222 BCE, 1995.262 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, John L. Severance Fund (CC0)",
+     "url": "https://clevelandart.org/art/1995.262",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Athena Painter, Black-Figure White-Ground Lekythos (Oil Vessel): Athena between Cocks and Hieropoioi (Officials), Ceramic, 500 to 485 BCE, 2022.42 (Cleveland Museum of Art)",
+     "credit": "Athena Painter, Cleveland Museum of Art, Leonard C. Hanna Jr. Fund (CC0)",
+     "url": "https://clevelandart.org/art/2022.42",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Unknown maker, Albarello Jar with an Aphorism, Earthenware with underglaze decoration, 900s, 1996.298 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, John L. Severance Fund (CC0)",
+     "url": "https://clevelandart.org/art/1996.298",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Unknown maker, Box and Cover, celadon, 918 to 1392, 1918.424.a (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of John L. Severance (CC0)",
+     "url": "https://clevelandart.org/art/1918.424.a",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Albrecht Dürer, Arm of Eve, point of brush and gray and black wash, brush and gray and black wash, heightened with white gouache, 1507, 1965.470 (Cleveland Museum of Art)",
+     "credit": "Albrecht Dürer, Cleveland Museum of Art, Gift of Alan Kennedy (CC0)",
+     "url": "https://clevelandart.org/art/1965.470",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Unknown maker, Mirror, bronze, 918 to 1392, 1921.658 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of John L. Severance (CC0)",
+     "url": "https://clevelandart.org/art/1921.658",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Unknown maker, Mirror with Four T's, bronze, 300s BCE, 1995.281 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee (CC0)",
+     "url": "https://clevelandart.org/art/1995.281",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "feb-11-2028",
+   "date": "2028-02-11",
+   "id": "KB15",
+   "title": "Chop and drop: what the soil studies measure",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Spaduzzi L. Chop and Drop Gardening: Turning Plant Waste into Healthy Soil. UF/IFAS Extension Hillsborough County blog, May 29, 2026.",
+     "url": "https://blogs.ifas.ufl.edu/hillsboroughco/2026/05/29/chop-and-drop-gardening-turning-plant-waste-into-healthy-soil/"
+    },
+    {
+     "label": "Somchanh S, Li Y, Yang L, Wei R, et al. (2026). Keystone roles of carbon-degrading enzyme activities in mediating carbon in soils subjected to straw return: a global meta-analysis. Front Microbiol 17:1739110. doi:10.3389/fmicb.2026.1739110. PMID 41716265, PMC12913515 (CC BY)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12913515/"
+    },
+    {
+     "label": "Kim N, Zabaloy MC, Guan K, Villamil MB (2020). Do cover crops benefit soil microbiome? A meta-analysis of current research. Soil Biol Biochem 142:107701. doi:10.1016/j.soilbio.2019.107701",
+     "url": "https://doi.org/10.1016/j.soilbio.2019.107701"
+    },
+    {
+     "label": "Li Y, Zhang Q, Cai Y, Yang Q, Chang SX (2020). Minimum tillage and residue retention increase soil microbial population size and diversity: implications for conservation tillage. Sci Total Environ 716:137164. doi:10.1016/j.scitotenv.2020.137164. PMID 32059331",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32059331/"
+    }
+   ],
+   "other": [
+    {
+     "label": "Image records: The Met Collection API and Cleveland Museum of Art Open Access",
+     "url": "https://clevelandart.org/art/1950.205"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Käthe Kollwitz (German, 1867 to 1945), Sharpening the Scythe, etching, 1905, 1950.205 (Cleveland Museum of Art)",
+     "credit": "Käthe Kollwitz (German, 1867 to 1945), Sharpening the Scythe. Cleveland Museum of Art, Gift of The Print Club of Cleveland (CC0)",
+     "url": "https://clevelandart.org/art/1950.205",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Min Zhen (Chinese, 1730 to after 1788), Banana Plants, album leaf, ink on paper, 1788, 1985.71.11 (Cleveland Museum of Art)",
+     "credit": "Min Zhen (Chinese, 1730 to after 1788), Banana Plants. Cleveland Museum of Art, John L. Severance Fund (CC0)",
+     "url": "https://clevelandart.org/art/1985.71.11",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Kitagawa Utamaro, Earthworm (Mimizu); Cricket (Kōrogi), from the Picture Book of Crawling Creatures (Ehon mushi erami), Page from woodblock-printed book; ink and color on paper, 1788, JP1056 (The Metropolitan Museum of Art)",
+     "credit": "Kitagawa Utamaro, Earthworm (Mimizu); Cricket (Kōrogi), from the Picture Book of Crawling Creatures (Ehon mushi erami). The Metropolitan Museum of Art, Rogers Fund, 1918 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/37296",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Number card made for this post: +31%, soil microbial biomass carbon when crop straw was returned, 68 studies (Somchanh et al. (2026), Frontiers in Microbiology 17:1739110)",
+     "credit": "Somchanh et al. (2026), Frontiers in Microbiology 17:1739110",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12913515/",
+     "card": true
+    },
+    {
+     "where": "Slide 5",
+     "what": "Katsushika Hokusai, Spring in the Rice Fields, Woodblock print; ink and color on paper, ca. 1795, JP2546 (The Metropolitan Museum of Art)",
+     "credit": "Katsushika Hokusai, Spring in the Rice Fields. The Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/56961",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Joseph Mallord William Turner, The Straw Yard, part II, plate 7 from \"Liber Studiorum\", Etching, mezzotint, and drypoint; first state of four, February 20, 1808, 28.97.7 (The Metropolitan Museum of Art)",
+     "credit": "Joseph Mallord William Turner, The Straw Yard, part II, plate 7 from \"Liber Studiorum\". The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1928 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/382912",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Number card made for this post: +27%, microbial abundance with cover crops versus bare soil, 60 studies (Kim et al. (2020), Soil Biology and Biochemistry 142:107701)",
+     "credit": "Kim et al. (2020), Soil Biology and Biochemistry 142:107701",
+     "url": "https://doi.org/10.1016/j.soilbio.2019.107701",
+     "card": true
+    },
+    {
+     "where": "Slide 8",
+     "what": "Jean-François Millet, The Gleaners, Etching printed in brown/black ink on laid paper; second state of two, 1834 to 75, 17.21.41 (The Metropolitan Museum of Art)",
+     "credit": "Jean-François Millet, The Gleaners. The Metropolitan Museum of Art, Gift of David Keppel, 1917 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/363030",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Unknown maker, Sickle Blade, flint, 1980 to 1801 BCE, 1915.34.80 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Sickle Blade. Cleveland Museum of Art, Gift of the British School of Archaeology in Egypt (CC0)",
+     "url": "https://clevelandart.org/art/1915.34.80",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Unknown maker, Leaf from a Book of Hours: Calendar Page for June (verso), ink, tempera, and liquid gold on vellum, c. 1510, 2011.65.b (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Leaf from a Book of Hours: Calendar Page for June (verso). Cleveland Museum of Art, The Jeanne Miles Blackburn Collection (CC0)",
+     "url": "https://clevelandart.org/art/2011.65.b",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Tsubaki Chinzan (Japanese, 1801 to 1854), Banana Plant and Chrysanthemum, hanging scroll; ink and color on paper, c. 1820 to 54, 1983.113 (Cleveland Museum of Art)",
+     "credit": "Tsubaki Chinzan (Japanese, 1801 to 1854), Banana Plant and Chrysanthemum. Cleveland Museum of Art, Gift of Dr. and Mrs. Daniel Verne in honor of Dr. and Mrs. Sherman E. Lee (CC0)",
+     "url": "https://clevelandart.org/art/1983.113",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Gobelins Manufactory (France, Paris, est. 1662), Summer: Harvest Scene, Wool, silk, and gold filé: tapestry weave, designed c. 1535, woven mid- to late 1600s, 1952.544.2 (Cleveland Museum of Art)",
+     "credit": "Gobelins Manufactory (France, Paris, est. 1662), Summer: Harvest Scene. Cleveland Museum of Art, Gift of Francis Ginn, Marian Ginn Jones, Barbara Ginn Griesinger, and Alexander Ginn in memory of Frank Hadley Ginn and Cornelia Root Ginn (CC0)",
+     "url": "https://clevelandart.org/art/1952.544.2",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "feb-13-2028",
+   "date": "2028-02-13",
+   "id": "KB10",
+   "title": "Does cannabis soak up metals from its soil?",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Hawai'i State Department of Health, OMCCR. Hawai'i Medical Cannabis Newsletter, September 2024.",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/09/OMCCR-September-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Hawai'i State Department of Health, OMCCR. Hawai'i Medical Cannabis Newsletter, October 2024.",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/10/OMCCR-October-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Hawai'i State Department of Health, OMCCR. Hawai'i Medical Cannabis Newsletter, July 2024.",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/08/OMCCR-July-2024-Newsletter.pdf"
+    },
+    {
+     "label": "OMCCR. Know Before You Grow slides (Kona, Mar 7, 2026).",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2026/03/KNOW-BEFORE-YOU-GROW.pdf"
+    },
+    {
+     "label": "Flajsman M, Kosmelj K, Grcman H, Acko DK, Zupan M (2023). Industrial hemp (Cannabis sativa L.): a valuable alternative crop for growing in agricultural soils contaminated with heavy metals. Environ Sci Pollut Res 30(54):115414-115429. doi:10.1007/s11356-023-30474-z. PMID 37884708, PMC10682123 (CC BY 4.0)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10682123/"
+    },
+    {
+     "label": "Placido DF, Lee CC (2022). Potential of industrial hemp for phytoremediation of heavy metals. Plants (Basel) 11(5):595. doi:10.3390/plants11050595. PMID 35270065, PMC8912475 (CC BY)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8912475/"
+    },
+    {
+     "label": "Dryburgh LM, et al. (2018). Cannabis contaminants: sources, distribution, human toxicity and pharmacologic effects. Br J Clin Pharmacol 84(11):2468-2476. doi:10.1111/bcp.13695. PMID 29953631, PMC6177718",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29953631/"
+    },
+    {
+     "label": "University of Hawaii at Manoa CTAHR, Agricultural Diagnostic Service Center: Services, Soil Nutrient Testing and Analysis, and Where to Submit Samples",
+     "url": "https://cms.ctahr.hawaii.edu/adsc/Services/Submit"
+    },
+    {
+     "label": "RCSB PDB entries 4MT2 and 1QNV, and RCSB PDB usage policies",
+     "url": "https://www.rcsb.org/pages/policies"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Joseph Pennell (American, 1857 to 1926), English War Work: The Iron Mine, lithograph, 1916, 1921.533 (Cleveland Museum of Art)",
+     "credit": "Joseph Pennell (American, 1857 to 1926), English War Work: The Iron Mine. Cleveland Museum of Art, Gift of Salmon P. Halle (CC0)",
+     "url": "https://clevelandart.org/art/1921.533",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Joseph Pennell (American, 1857 to 1926), English War Work: The Coal Mines, lithograph, 1916, 1921.532 (Cleveland Museum of Art)",
+     "credit": "Joseph Pennell (American, 1857 to 1926), English War Work: The Coal Mines. Cleveland Museum of Art, Gift of Salmon P. Halle (CC0)",
+     "url": "https://clevelandart.org/art/1921.532",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Antoine Chintreuil (French, 1814 to 1873), Industrial Plant, oil on fabric, c. 1865 to 1870, 1980.246 (Cleveland Museum of Art)",
+     "credit": "Antoine Chintreuil (French, 1814 to 1873), Industrial Plant. Cleveland Museum of Art, Bequest of Noah L. Butkin (CC0)",
+     "url": "https://clevelandart.org/art/1980.246",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "X-ray crystal structure of rat metallothionein-2 with cadmium and zinc bound, 2.0 angstrom, released Jul 15, 1993 (PDB 4MT2, Braun et al., 1992, Proc Natl Acad Sci USA 89:10124)",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 4MT2 (Braun et al., 1992, Proc Natl Acad Sci USA 89:10124).",
+     "url": "https://www.rcsb.org/structure/4MT2",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Number card made for this post: Flowers, held the most lead, zinc and cadmium of any hemp plant part (Flajšman et al. (2023), Environmental Science and Pollution Research 30:115414)",
+     "credit": "Flajšman et al. (2023), Environmental Science and Pollution Research 30:115414",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10682123/",
+     "card": true
+    },
+    {
+     "where": "Slide 6",
+     "what": "Unknown maker, Bidri Basin, Zinc alloy with silver and brass inlay, c. 1650, 2020.205 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Bidri Basin. Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund (CC0)",
+     "url": "https://clevelandart.org/art/2020.205",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Thomas Addison Richards, Entrance to a Coal Mine in the Valley of Wyoming, Pennsylvania (Entrance to a Coal Mine, Susquehanna), Graphite and white chalk on brown wove paper, 1852, 1974.197.3 (The Metropolitan Museum of Art)",
+     "credit": "Thomas Addison Richards, Entrance to a Coal Mine in the Valley of Wyoming, Pennsylvania (Entrance to a Coal Mine, Susquehanna). The Metropolitan Museum of Art, Morris K. Jesup Fund, 1974 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/11878",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "X-ray crystal structure of yeast 5-aminolaevulinic acid dehydratase with lead (Pb) bound, 2.5 angstrom, released Oct 19, 2000 (PDB 1QNV, Erskine et al., 2000, Acta Crystallogr D 56:421)",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 1QNV (Erskine et al., 2000, Acta Crystallogr D 56:421).",
+     "url": "https://www.rcsb.org/structure/1QNV",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Number card made for this post: pH, and nutrients are listed for UH soil tests; lead and arsenic are not (UH CTAHR Agricultural Diagnostic Service Center, Services and Soil Testing pages (Oct 11, 2026))",
+     "credit": "UH CTAHR Agricultural Diagnostic Service Center, Services and Soil Testing pages (Oct 11, 2026)",
+     "url": "https://cms.ctahr.hawaii.edu/adsc/Services",
+     "card": true
+    },
+    {
+     "where": "Story 1",
+     "what": "Théodore Géricault (French, 1791 to 1824), The Coal Wagon, lithograph, 1821, 1983.237 (Cleveland Museum of Art)",
+     "credit": "Théodore Géricault (French, 1791 to 1824), The Coal Wagon. Cleveland Museum of Art, Gift of The Print Club of Cleveland (CC0)",
+     "url": "https://clevelandart.org/art/1983.237",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Timothy H. O'Sullivan (American, 1840 to 1882), East Humboldt Mountains, Utah, albumen print from wet collodion negative, 1868, 1992.238 (Cleveland Museum of Art)",
+     "credit": "Timothy H. O'Sullivan (American, 1840 to 1882), East Humboldt Mountains, Utah. Cleveland Museum of Art, James Parmelee Fund (CC0)",
+     "url": "https://clevelandart.org/art/1992.238",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Paul Shively (American, 1897 to 1987), Quarry Reflections, watercolor, 1926, 1927.1324 (Cleveland Museum of Art)",
+     "credit": "Paul Shively (American, 1897 to 1987), Quarry Reflections. Cleveland Museum of Art, Hinman B. Hurlbut Collection (CC0)",
+     "url": "https://clevelandart.org/art/1927.1324",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "feb-22-2028",
+   "date": "2028-02-22",
+   "id": "KB12",
+   "title": "Curing changes chemistry: the jar on the sunny shelf",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Fairbairn JW, Liebmann JA, Rowan MG. The stability of cannabis and its preparations on storage. J Pharm Pharmacol. 1976;28(1):1-7.",
+     "url": "https://doi.org/10.1111/j.2042-7158.1976.tb04014.x"
+    },
+    {
+     "label": "Majumdar CG, Radwan MM, Chandra S, Wanas AS, Elhendawy MA, Ibrahim EA, Geweda MM, Lata H, ElSohly MA. Stability of Cannabinoids in Cannabis: Plant Material, Extracts, Oil Formulations, and Isolates (CBD and delta-9-THC) Under Different Storage Conditions. Cannabis Cannabinoid Res. 2026 (online Aug 11).",
+     "url": "https://doi.org/10.1177/25785125261478275"
+    },
+    {
+     "label": "da Costa-Oliveira C, Gouvêa-Silva JG, et al. Cannabis: from crop to shop: some insights about stability to access quality control. J Cannabis Res. 2026;8(1):45.",
+     "url": "https://doi.org/10.1186/s42238-026-00409-9"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR. Know Before You Grow slides, Kona, March 7, 2026.",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2026/03/KNOW-BEFORE-YOU-GROW.pdf"
+    },
+    {
+     "label": "Al Ubeed HMS, et al. Post-harvest operations to generate high-quality medicinal cannabis products: a systemic review. Molecules. 2022;27(5):1719.",
+     "url": "https://doi.org/10.3390/molecules27051719"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii Department of Health, OMCCR. Hawaii Medical Cannabis Newsletter, November 2024 ('Know Before You Grow, Part 3: Post Cultivation').",
+     "url": "https://health.hawaii.gov/cannabisinsights/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Gustave Le Gray, An Effect of the Sun, Normandy, albumen print from wet collodion negative, c. 1856, 1987.54 (Cleveland Museum of Art)",
+     "credit": "Gustave Le Gray, Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund (CC0)",
+     "url": "https://clevelandart.org/art/1987.54",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Unknown maker, Lidded Jar, red earthenware with incised band designs, 400s to 500s CE, 1997.20 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of the John D. Proctor Foundation (CC0)",
+     "url": "https://clevelandart.org/art/1997.20",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Christian Dorflinger, Candy Jar, glass, 1869 to 1880, 1942.1090 (Cleveland Museum of Art)",
+     "credit": "Christian Dorflinger, Cleveland Museum of Art, Given in memory of Christian Dorflinger by his daughter, Carlotta Dorflinger Atkinson (CC0)",
+     "url": "https://clevelandart.org/art/1942.1090",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "James McNeill Whistler, Nocturne, Etching and drypoint; ninth state of nine from the cancelled plate (Glasgow); printed in dark brown ink on fine laid paper, 1879 to 80, 17.3.1210 (The Metropolitan Museum of Art)",
+     "credit": "James McNeill Whistler, The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1917 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/372690",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Unknown maker, Storage Jar (Tsubo), stoneware with natural ash glaze (Shigaraki ware), 1400s, 2015.492 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift from the Collection of George Gund III (CC0)",
+     "url": "https://clevelandart.org/art/2015.492",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Number card made for this post: 1 to 2 years, carefully stored samples stayed reasonably stable in the dark at room temperature (Fairbairn et al. (1976), J Pharm Pharmacol)",
+     "credit": "Fairbairn et al. (1976), J Pharm Pharmacol",
+     "url": "https://doi.org/10.1111/j.2042-7158.1976.tb04014.x",
+     "card": true
+    },
+    {
+     "where": "Slide 7",
+     "what": "John Singer Sargent, Snow, Watercolor and graphite on white wove paper, ca. 1909 to 11, 50.130.80g (The Metropolitan Museum of Art)",
+     "credit": "John Singer Sargent, The Metropolitan Museum of Art, Gift of Mrs. Francis Ormond, 1950 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/12298",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Unknown maker, Torricellian barometer, Mahogany; mercury, ca. 1760, 64.101.884 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Irwin Untermyer, 1964 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/203691",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Nonomura Ninsei, Tea Storage Jar, Stoneware with white glaze (Shigaraki style), mid- to late 1600s, 1978.6 (Cleveland Museum of Art)",
+     "credit": "Nonomura Ninsei, Cleveland Museum of Art, Purchase from the J. H. Wade Fund (CC0)",
+     "url": "https://clevelandart.org/art/1978.6",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Unknown maker, Storage Jar, Stoneware with natural ash glaze and impressed designs (Tokoname ware), 1350 to 99, 1992.356 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of George Gund (CC0)",
+     "url": "https://clevelandart.org/art/1992.356",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Unknown maker, Storage Jar, Stoneware with natural ash glaze (Tamba ware), 1400s, 2015.494 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift from the Collection of George Gund III (CC0)",
+     "url": "https://clevelandart.org/art/2015.494",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Unknown maker, Lidded Jar with Four Horn Lugs, earthenware, 200s to 400s CE, 1997.8 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Leonard C. Hanna Jr. Fund (CC0)",
+     "url": "https://clevelandart.org/art/1997.8",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "feb-24-2028",
+   "date": "2028-02-24",
+   "id": "KB26",
+   "title": "Hawaii's cannabis history in print",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Brand, E. J., & Zhao, Z. (2017). Cannabis in Chinese medicine: are some traditional indications referenced in ancient literature related to cannabinoids? Front Pharmacol 8:108. doi:10.3389/fphar.2017.00108 (CC BY)",
+     "url": "https://doi.org/10.3389/fphar.2017.00108"
+    },
+    {
+     "label": "Ren, M., Tang, Z., Wu, X., et al. (2019). The origins of cannabis smoking: chemical residue evidence from the first millennium BCE in the Pamirs. Sci Adv 5(6):eaaw1391. doi:10.1126/sciadv.aaw1391",
+     "url": "https://doi.org/10.1126/sciadv.aaw1391"
+    },
+    {
+     "label": "Russo, E. B., Jiang, H.-E., Li, X., et al. (2008). Phytochemical and genetic analyses of ancient cannabis from Central Asia. J Exp Bot 59(15):4171 to 4182. doi:10.1093/jxb/ern260",
+     "url": "https://doi.org/10.1093/jxb/ern260"
+    },
+    {
+     "label": "Jiang, H.-E., Li, X., Zhao, Y.-X., et al. (2006). A new insight into Cannabis sativa (Cannabaceae) utilization from 2500-year-old Yanghai Tombs, Xinjiang, China. J Ethnopharmacol 108(3):414 to 422. doi:10.1016/j.jep.2006.05.034",
+     "url": "https://doi.org/10.1016/j.jep.2006.05.034"
+    },
+    {
+     "label": "United States v. Randall, D.C. Superior Court, Crim. No. 65923-75 (Nov. 24, 1976). The Daily Washington Law Reporter 104(250):2249 (Dec. 28, 1976).",
+     "url": "https://law.shu.edu/documents/law-reporter-grossman2019.pdf"
+    },
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Hawaii Medical Cannabis Newsletter, January/February 2026 (History of medical cannabis; History of cannabis use and glaucoma).",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2026/02/FINAL_JanuaryFebruary-2026-Newsletter.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Aki, Z., & Traub, M. (2016, February 19). Pakalolo's Long History, Regulated Future In Hawaii. Honolulu Civil Beat, Community Voices (commentary).",
+     "url": "https://www.civilbeat.org/2016/02/pakalolos-long-history-regulated-future-in-hawaii/"
+    },
+    {
+     "label": "Hawaiian Mission Houses Digital Archive. N-1748, The last page of 'Ka Nonanona', Nov. 23, 1841. Photograph (Hawaiian Mission Children's Society Library).",
+     "url": "https://hmha.missionhouses.org/items/show/4930"
+    },
+    {
+     "label": "NORML (2001, June 7). Medical marijuana pioneer passes away at 53 (news release; advocacy group).",
+     "url": "https://norml.org/news/2001/06/07/medical-marijuana-pioneer-passes-away-at-53glaucoma-patient-received-government-pot-for-25-years/"
+    },
+    {
+     "label": "Russo, E., Mathre, M. L., Byrne, A., et al. (2002). Chronic cannabis use in the Compassionate Investigational New Drug Program. J Cannabis Ther 2(1):3 to 57. doi:10.1300/J175v02n01_02",
+     "url": "https://www.cannabisclinicians.org/2002/01/01/chronic-cannabis-use-in-the-compassionate-investigational-new-drug-program/"
+    },
+    {
+     "label": "Hawaii Revised Statutes, chapter 329, part IX (Medical Use of Cannabis), sections 329-121 and 329-122, with history notes.",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0121.htm"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Printers working at a printing press, and setting type",
+     "credit": "Jost Amman, Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/j5mg28du",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The shore of Kealakekua in Hawaii ('A View of Karakakooa, in Owyhee')",
+     "credit": "William Byrne after John Webber, Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/ft7uv82s",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Number card made for this post: 1842, the year in the claim; no 1842 Ka Nonanona page has been found yet (Aki and Traub (2016), Civil Beat)",
+     "credit": "Aki and Traub (2016), Civil Beat",
+     "url": "https://www.civilbeat.org/2016/02/pakalolos-long-history-regulated-future-in-hawaii/",
+     "card": true
+    },
+    {
+     "where": "Slide 4",
+     "what": "Chinese woodcut, Famous medical figures: Shen Nong, attributed in the record to Gan Bozong, Wellcome Collection L0039313",
+     "credit": "Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/fevczv94",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "First edition of Bencao Gangmu (Compendium of Materia Medica), Chinese, 1590, text page, Wellcome Collection L0039328",
+     "credit": "Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/x6pjksz3",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Number card made for this post: 9 of 10, wooden braziers from Jirzankal, about 500 BCE, with cannabinol on their inner surfaces (Ren et al. (2019), Sci Adv 5(6))",
+     "credit": "Ren et al. (2019), Sci Adv 5(6)",
+     "url": "https://doi.org/10.1126/sciadv.aaw1391",
+     "card": true
+    },
+    {
+     "where": "Slide 7",
+     "what": "Horse Bit with Winged Ibex Cheekpieces, bronze, cast and incised, Iran, Luristan, 800 to 600 BCE, 1980.102 (Cleveland Museum of Art)",
+     "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund (CC0)",
+     "url": "https://clevelandart.org/art/1980.102",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Rembrandt van Rijn, Tobias Healing His Father's Blindness, pen and brown ink, touched with white gouache, about 1640 to 45, 1969.69 (Cleveland Museum of Art)",
+     "credit": "Rembrandt van Rijn, Cleveland Museum of Art, Purchase from the J. H. Wade Fund (CC0)",
+     "url": "https://clevelandart.org/art/1969.69",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Number card made for this post: 2000, Act 228, where the history notes of Hawaii's medical cannabis statute begin (HRS chapter 329, part IX, history notes)",
+     "credit": "HRS chapter 329, part IX, history notes",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0121.htm",
+     "card": true
+    },
+    {
+     "where": "Story 1",
+     "what": "A printing press: elevation, with details of the platen",
+     "credit": "R. Benard after L.-J. Goussier, Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/rtufrna2",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Eye, watercolor on ivory set in a brooch, United States, 1900s, 1961.327 (Cleveland Museum of Art)",
+     "credit": "Cleveland Museum of Art, Gift of Mr. and Mrs. John W. Starr (CC0)",
+     "url": "https://clevelandart.org/art/1961.327",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "C19 Chinese paintings of famous physicians: Lei Gong, shown at a small stove, Wellcome Collection L0039824",
+     "credit": "Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/hxawcfae",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "feb-27-2028",
+   "date": "2028-02-27",
+   "id": "KB27",
+   "title": "Kids, kupuna and accidental edibles",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Tweet, M. S., Nemanich, A., & Wahl, M. (2023). Pediatric edible cannabis exposures and acute toxicity: 2017-2021. Pediatrics 151(2):e2022057761. doi:10.1542/peds.2022-057761",
+     "url": "https://doi.org/10.1542/peds.2022-057761"
+    },
+    {
+     "label": "Han, B. H., Brennan, J. J., Orozco, M. A., Moore, A. A., & Castillo, E. M. (2023). Trends in emergency department visits associated with cannabis use among older adults in California, 2005-2019. J Am Geriatr Soc 71(4):1267 to 1274. doi:10.1111/jgs.18180",
+     "url": "https://doi.org/10.1111/jgs.18180"
+    },
+    {
+     "label": "Roehler, D. R., Smith, H., Radhakrishnan, L., et al. (2023). Cannabis-involved emergency department visits among persons aged <25 years before and during the COVID-19 pandemic, United States, 2019-2022. MMWR 72(28):758 to 765. doi:10.15585/mmwr.mm7228a1",
+     "url": "https://doi.org/10.15585/mmwr.mm7228a1"
+    },
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Hawai'i Medical Cannabis Newsletter, July 2024 (Safe Storage page).",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/08/OMCCR-July-2024-Newsletter.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "CDC. Cannabis and Poisoning (page dated February 15, 2024).",
+     "url": "https://www.cdc.gov/cannabis/risk-factors/poisoning.html"
+    },
+    {
+     "label": "American Academy of Pediatrics, HealthyChildren.org. Osterhoudt, K. Edible Marijuana Dangers: How Parents Can Prevent THC Poisoning.",
+     "url": "https://www.healthychildren.org/English/ages-stages/teen/substance-abuse/Pages/Edible-Marijuana-Dangers.aspx"
+    },
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Hawai'i Medical Cannabis Newsletter, August 2024 and December 2024; Cannabis Use Risks page.",
+     "url": "https://health.hawaii.gov/cannabisinsights/cannabis-use-risks/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Édouard Vuillard, Luncheon (Annette and Her Grandmother), oil on board, 1899, 2020.118 (Cleveland Museum of Art)",
+     "credit": "Édouard Vuillard, Cleveland Museum of Art, Nancy F. and Joseph P. Keithley Collection Gift (CC0)",
+     "url": "https://clevelandart.org/art/2020.118",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Number card made for this post: 3,054, cases of children under 6 eating cannabis edibles reported to US poison centers in 2021, up from 207 in 2017 (Tweet et al. (2023), Pediatrics 151(2))",
+     "credit": "Tweet et al. (2023), Pediatrics 151(2)",
+     "url": "https://doi.org/10.1542/peds.2022-057761",
+     "card": true
+    },
+    {
+     "where": "Slide 3",
+     "what": "Number card made for this post: 22.7%, of those reported children were admitted to the hospital, 2017 to 2021 (Tweet et al. (2023), Pediatrics 151(2))",
+     "credit": "Tweet et al. (2023), Pediatrics 151(2)",
+     "url": "https://doi.org/10.1542/peds.2022-057761",
+     "card": true
+    },
+    {
+     "where": "Slide 4",
+     "what": "Number card made for this post: 28%, of children exposed were 2-year-olds, the largest share; 3-year-olds were 25% (American Academy of Pediatrics, HealthyChildren.org)",
+     "credit": "American Academy of Pediatrics, HealthyChildren.org",
+     "url": "https://www.healthychildren.org/English/ages-stages/teen/substance-abuse/Pages/Edible-Marijuana-Dangers.aspx",
+     "card": true
+    },
+    {
+     "where": "Slide 5",
+     "what": "Number card made for this post: 1,804%, rise in the rate of cannabis-related ER visits by adults 65 and older in California, 2005 to 2019 (Han et al. (2023), J Am Geriatr Soc 71(4))",
+     "credit": "Han et al. (2023), J Am Geriatr Soc 71(4)",
+     "url": "https://doi.org/10.1111/jgs.18180",
+     "card": true
+    },
+    {
+     "where": "Slide 6",
+     "what": "Jozef Israëls, Grandmother's Treasure, Oil on canvas, , 17.120.227 (The Metropolitan Museum of Art)",
+     "credit": "Jozef Israëls, The Metropolitan Museum of Art, Mr. and Mrs. Isaac D. Fletcher Collection, Bequest of Isaac D. Fletcher, 1917 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/436725",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Unknown maker, Padlock, Iron, 17th century, 32.75.57 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, The Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/196991",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Unknown maker, Key, Steel, 19th century, after 17th century original, 83.18.291 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Henry G. Marquand, 1883 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/186673",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Unknown maker, Lock, Gilt bronze, 18th century, 07.225.510.1 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of J. Pierpont Morgan, 1906 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/189759",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Unknown maker, Casket, Straw on wood, silk, 18th century, 81.1.608 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Bequest of Stephen Whitney Phoenix, 1881 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/185947",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Unknown maker, Casket, Copper gilt, silver, niello, early 17th century, 17.190.619 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of J. Pierpont Morgan, 1917 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/193592",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Unknown maker, Key, Iron, 16th century, 87.11.78 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Henry G. Marquand, 1887 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/186858",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "mar-07-2028",
+   "date": "2028-03-07",
+   "id": "KB14",
+   "title": "Bro science check: does flushing give white ash?",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Alden, M. J., & Faust, J. E. (2025). Exploring the legacy practice of flushing in controlled-environment production of high-CBD cannabis (Cannabis sativa). HortScience 60(10):1818 to 1825. doi:10.21273/HORTSCI18752-25",
+     "url": "https://doi.org/10.21273/HORTSCI18752-25"
+    },
+    {
+     "label": "Hershkowitz, J. A. (2024). Nutrient management of cannabis in controlled environments. MS thesis, Utah State University. Not peer reviewed.",
+     "url": "https://digitalcommons.usu.edu/etd2023/178"
+    },
+    {
+     "label": "MacGowan, C., & Martynenko, A. (2025). Electrostatic separator of cannabis trichomes: an innovative approach to extraction. J Cannabis Res 7(1):23. doi:10.1186/s42238-025-00281-z",
+     "url": "https://doi.org/10.1186/s42238-025-00281-z"
+    },
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Know Before You Grow (workshop slides, Kona, Mar 7, 2026).",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2026/03/KNOW-BEFORE-YOU-GROW.pdf"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Cornelis Dusart, The Schoolmaster, Pen and brown ink, brush and gray wash., ca. 1680 to 1700, 1975.1.771 (The Metropolitan Museum of Art)",
+     "credit": "Cornelis Dusart, The Metropolitan Museum of Art, Robert Lehman Collection, 1975 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/459316",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Cornelius Kierstede, Teakettle, Silver, 1710 to 20, 40.145a, b (The Metropolitan Museum of Art)",
+     "credit": "Cornelius Kierstede, The Metropolitan Museum of Art, Bequest of James Stevenson Van Cortlandt, 1917 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/8322",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Georg Jensen, Water Pitcher, silver, c. 1950, 2009.97 (Cleveland Museum of Art)",
+     "credit": "Georg Jensen, Cleveland Museum of Art, Bequest of Muriel Butkin (CC0)",
+     "url": "https://clevelandart.org/art/2009.97",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Number card made for this post: Up to 4 weeks, of flushing tested on two high-CBD cultivars in a 2025 study (Alden and Faust (2025), HortScience 60(10))",
+     "credit": "Alden and Faust (2025), HortScience 60(10)",
+     "url": "https://doi.org/10.21273/HORTSCI18752-25",
+     "card": true
+    },
+    {
+     "where": "Slide 5",
+     "what": "Unknown maker, Firedog, gilt bronze, c. 1785, 1944.126.1 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, The Elisabeth Severance Prentiss Collection (CC0)",
+     "url": "https://clevelandart.org/art/1944.126.1",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Louis Léopold Boilly, Woman in Front of a Fireplace, black chalk and gray wash heightened with white chalk, squared in black chalk, on blue wove paper, c. 1805 to 7, 1974.93 (Cleveland Museum of Art)",
+     "credit": "Louis Léopold Boilly, Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund (CC0)",
+     "url": "https://clevelandart.org/art/1974.93",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Unknown maker, Terracotta statuette of a teacher and a pupil, Terracotta, late 4th to early 3rd century BCE, 23.259 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Samuel P. Avery Memorial Fund, 1923 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/251455",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Adriaen van Ostade, The Schoolmaster, Etching, 1610 to 85, 51.501.475 (The Metropolitan Museum of Art)",
+     "credit": "Adriaen van Ostade, The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/396238",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Giovanni Battista Nini, Portrait of Benjamin Franklin, terracotta, 1777, 1940.578 (Cleveland Museum of Art)",
+     "credit": "Giovanni Battista Nini, Cleveland Museum of Art, Bequest of James Parmelee (CC0)",
+     "url": "https://clevelandart.org/art/1940.578",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Unknown maker, Andiron, marble, c. 1770 to 1790, 1942.21.a (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of Grace Rainey Rogers in memory of her father, William J. Rainey (CC0)",
+     "url": "https://clevelandart.org/art/1942.21.a",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Thomas Rowlandson, The Old Womans Complaint, or the Greek Alphabet, Hand-colored etching, January 15, 1809, 59.533.1294 (The Metropolitan Museum of Art)",
+     "credit": "Thomas Rowlandson, The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/811383",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Pisanello, Portrait medal of Vittorino Rambaldoni da Feltre (obverse); A Pelican (reverse), Bronze (yellowish copper alloy with brown patina and traces of black lacquer or wax), model 1446 to 47 (possibly cast 15th or 16th century), 1975.1.1302 (The Metropolitan Museum of Art)",
+     "credit": "Pisanello, The Metropolitan Museum of Art, Robert Lehman Collection, 1975 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/459775",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "mar-09-2028",
+   "date": "2028-03-09",
+   "id": "KB09",
+   "title": "Can a light leak change a plant's sex?",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Punja, Z. K., & Holmes, J. E. (2020). Hermaphroditism in marijuana (Cannabis sativa L.) inflorescences: impact on floral morphology, seed formation, progeny sex ratios, and genetic variation. Front Plant Sci 11:718. doi:10.3389/fpls.2020.00718",
+     "url": "https://doi.org/10.3389/fpls.2020.00718"
+    },
+    {
+     "label": "Richards, C. D., Ryu, B.-R., Gim, G.-J., & Park, S.-H. (2026). Hermaphroditism in Cannabis sativa L.: impacts, inducers, and industry implications. Plants (Basel) 15(11):1643. doi:10.3390/plants15111643",
+     "url": "https://doi.org/10.3390/plants15111643"
+    },
+    {
+     "label": "Oliver, W. (2024). Investigating the effects of dark period light exposure on sex expression in female Cannabis sativa. SURG Journal (Studies by Undergraduate Researchers at Guelph) 15(1). doi:10.21083/surg.v15i1.7697",
+     "url": "https://doi.org/10.21083/surg.v15i1.7697"
+    },
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Know Before You Grow (workshop slides, Kona, Mar 7, 2026).",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2026/03/KNOW-BEFORE-YOU-GROW.pdf"
+    },
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Hawaii Medical Cannabis Newsletter, October 2024 (Know Before You Grow, Part 2).",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/10/OMCCR-October-2024-Newsletter.pdf"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Mary Altha Nims, Eddystone Lighthouse, pencil, 1840, 1934.127 (Cleveland Museum of Art)",
+     "credit": "Mary Altha Nims, Cleveland Museum of Art, Gift of Richard Seymour Bayham (CC0)",
+     "url": "https://clevelandart.org/art/1934.127",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Number card made for this post: 5 to 10%, of plants examined in one commercial grow had hermaphroditic flowers, from about week 4 of flowering (Punja and Holmes (2020), Front Plant Sci 11)",
+     "credit": "Punja and Holmes (2020), Front Plant Sci 11",
+     "url": "https://doi.org/10.3389/fpls.2020.00718",
+     "card": true
+    },
+    {
+     "where": "Slide 3",
+     "what": "Unknown maker, Mirror with Twin Carp, bronze, c. 1200 to 25, 1995.379 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee (CC0)",
+     "url": "https://clevelandart.org/art/1995.379",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Charles Burchfield, Church Bells Ringing, Rainy Winter Night, watercolor and gouache over graphite on wove paper, December 1917, 1949.544 (Cleveland Museum of Art)",
+     "credit": "Charles Burchfield, Cleveland Museum of Art, Gift of Mrs. Louise M. Dunn in memory of Henry G. Keller (CC0)",
+     "url": "https://clevelandart.org/art/1949.544",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Isaac Hutton, Beaker, silver, c. 1800, 1919.868 (Cleveland Museum of Art)",
+     "credit": "Isaac Hutton, Cleveland Museum of Art, Gift of J. H. Wade (CC0)",
+     "url": "https://clevelandart.org/art/1919.868",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Charles Meryon, Etchings of Paris: The Clock Tower, etching, 1852, 1954.885 (Cleveland Museum of Art)",
+     "credit": "Charles Meryon, Cleveland Museum of Art, The Milton Curtiss Rose Collection in memory of Evelyn Curtiss Rose (CC0)",
+     "url": "https://clevelandart.org/art/1954.885",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Number card made for this post: 28 of 403, plants had male flowers at one indoor farm; distance from the door explained almost none of it (Oliver (2024), SURG Journal 15(1))",
+     "credit": "Oliver (2024), SURG Journal 15(1)",
+     "url": "https://doi.org/10.21083/surg.v15i1.7697",
+     "card": true
+    },
+    {
+     "where": "Slide 8",
+     "what": "Unknown maker, Man with Brush and Lantern, ivory, early 1900s, 1939.388 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of Laurence H. Norton, Robert C. Norton, and Miriam Norton White in memory of Mr. and Mrs. D. Z. Norton (CC0)",
+     "url": "https://clevelandart.org/art/1939.388",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Unknown maker, Gambling Dice, hollow shell, resin, glass beads, mica/seashell fragment, before 1917, 1917.413.2.a (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Presented by William Albert Price in memory of Mrs. William Albert Price (CC0)",
+     "url": "https://clevelandart.org/art/1917.413.2.a",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Unknown maker, Lamp, bronze, 100 to 1 BCE, 1953.12 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Purchase from the J. H. Wade Fund (CC0)",
+     "url": "https://clevelandart.org/art/1953.12",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Moody Russell, Beaker, silver, c. 1715, 1940.258 (Cleveland Museum of Art)",
+     "credit": "Moody Russell, Cleveland Museum of Art, Gift of Hollis French (CC0)",
+     "url": "https://clevelandart.org/art/1940.258",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Célestin François Nanteuil, Soldiers Playing Dice, lithograph, 1900s, 2008.189 (Cleveland Museum of Art)",
+     "credit": "Célestin François Nanteuil, Cleveland Museum of Art, Gift of John Bonebrake (CC0)",
+     "url": "https://clevelandart.org/art/2008.189",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "mar-12-2028",
+   "date": "2028-03-12",
+   "id": "KB28",
+   "title": "Talking with teens about cannabis",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Hawai'i Medical Cannabis Newsletter, October 2024.",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/10/OMCCR-October-2024-Newsletter.pdf"
+    },
+    {
+     "label": "SAMHSA. 2023-2024 NSDUH state estimates, percent tables (Hawaii).",
+     "url": "https://www.samhsa.gov/data/sites/default/files/reports/rpt56957/2024-nsduh-sae-tables-percent-csvs/2024-nsduh-sae-tables-percent.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Cannabis Use Risks (Cannabis Education site).",
+     "url": "https://health.hawaii.gov/cannabisinsights/cannabis-use-risks/"
+    },
+    {
+     "label": "SAMHSA. The Effects, Risks and Side Effects of Marijuana (last updated Sep 9, 2025).",
+     "url": "https://www.samhsa.gov/substance-use/learn/marijuana/risks"
+    },
+    {
+     "label": "SAMHSA, Talk. They Hear You. Five Conversation Goals (last updated Nov 6, 2024).",
+     "url": "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/conversation"
+    },
+    {
+     "label": "SAMHSA, Talk. They Hear You. Why It's Important To Talk To Your Child About Alcohol and Other Drugs (last updated Nov 5, 2024).",
+     "url": "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/talk-with-your-child"
+    },
+    {
+     "label": "American Academy of Pediatrics, HealthyChildren.org. Osterhoudt, K. Edible Marijuana Dangers: How Parents Can Prevent THC Poisoning.",
+     "url": "https://www.healthychildren.org/English/ages-stages/teen/substance-abuse/Pages/Edible-Marijuana-Dangers.aspx"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Thomas Sully, Mother and Son, Oil on canvas, 1840, 14.126.5 (The Metropolitan Museum of Art)",
+     "credit": "Thomas Sully, The Metropolitan Museum of Art, Bequest of Francis T. S. Darley, 1914 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/12693",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Wallerant Vaillant, Boy Reading a Book, Mezzotint; second state of two, mid-17th century, 56.605.3 (The Metropolitan Museum of Art)",
+     "credit": "Wallerant Vaillant, The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1956 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/388918",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "James McNeill Whistler, Mother and Daughter (La Mère Malade), Transfer lithograph with stumping; only state (Chicago); printed in black ink on fine cream Japan paper, 1897, 1984.1119.29 (The Metropolitan Museum of Art)",
+     "credit": "James McNeill Whistler, The Metropolitan Museum of Art, Gift of Paul F. Walter, 1984 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/372933",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Number card made for this post: 1 in 6, people who start using marijuana before 18 become addicted, SAMHSA says (about 1 in 10 overall) (SAMHSA, The Effects, Risks and Side Effects of Marijuana)",
+     "credit": "SAMHSA, The Effects, Risks and Side Effects of Marijuana",
+     "url": "https://www.samhsa.gov/substance-use/learn/marijuana/risks",
+     "card": true
+    },
+    {
+     "where": "Slide 5",
+     "what": "Suraju, The young prince recounts his experiences to his father, the king, from a Tuti-nama (Tales of a Parrot): Eighth Night, gum tempera, ink, and gold on paper, c. 1560, 1962.279.72.a (Cleveland Museum of Art)",
+     "credit": "Suraju, Cleveland Museum of Art, Gift of Mrs. A. Dean Perry (CC0)",
+     "url": "https://clevelandart.org/art/1962.279.72.a",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Thomas Eakins, The Dancing Lesson, Watercolor on off-white wove paper, 1878, 25.97.1 (The Metropolitan Museum of Art)",
+     "credit": "Thomas Eakins, The Metropolitan Museum of Art, Fletcher Fund, 1925 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/10821",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Constantin Guys, Women in a Carriage, Pen and brown ink, brown, gray and black wash, 19th century, 29.100.606 (The Metropolitan Museum of Art)",
+     "credit": "Constantin Guys, The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/337269",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Eglon van der Neer, The Reader, Oil on canvas, , 32.100.9 (The Metropolitan Museum of Art)",
+     "credit": "Eglon van der Neer, The Metropolitan Museum of Art, The Friedsam Collection, Bequest of Michael Friedsam, 1931 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/437193",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "James McNeill Whistler, Father and Son, Transfer lithograph; only state (Chicago); printed in black ink on cream Japanese paper, 1895, 17.3.227 (The Metropolitan Museum of Art)",
+     "credit": "James McNeill Whistler, The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1917 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/372856",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Unknown maker, Netsuke of Young Boy at Writing Desk, Dreaming, Wood, 19th century, 10.211.1816 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Mrs. Russell Sage, 1910 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/59092",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Alfred Jones, The New Scholar, Etching and engraving on steel, 1851, 1993.1083(5) (The Metropolitan Museum of Art)",
+     "credit": "Alfred Jones, The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1993 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/377638",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Miss Leland, Portrait of a Boy, Watercolor on ivory, ca. 1840, 2000.484 (The Metropolitan Museum of Art)",
+     "credit": "Miss Leland, The Metropolitan Museum of Art, Purchase, Martha J. Fleischman Gift, in honor of her mother, Barbara G. Fleischman, 2000 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/16858",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "mar-21-2028",
+   "date": "2028-03-21",
+   "id": "KB24",
+   "title": "Hawaii residents can join cannabis research",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [],
+   "other": [
+    {
+     "label": "ClinicalTrials.gov. NCT06418204, Complementary Options for Symptom Management In Cancer (COSMIC): Assessing Benefits and Harms of Cannabis and Cannabinoid Use Among a Cohort of Cancer Patients Treated in Community Oncology Clinics. Sponsor Wake Forest University Health Sciences; collaborator National Cancer Institute. Record updated Oct 7, 2026.",
+     "url": "https://clinicaltrials.gov/study/NCT06418204"
+    },
+    {
+     "label": "Cannabis and Health Research Initiative. The National Cannabis Study (Johns Hopkins University IRB#00417246; PI Ryan Vandrey, PhD).",
+     "url": "https://www.cannabisandhealth.org/national-cannabis-study/"
+    },
+    {
+     "label": "Realm of Caring Foundation. Observational Research Registry.",
+     "url": "https://realmofcaring.org/observational-research-registry/"
+    },
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Resources for Patients (Cannabis Education site).",
+     "url": "https://health.hawaii.gov/cannabisinsights/resources-for-patients/"
+    },
+    {
+     "label": "Hawaii State Department of Health, OMCCR. Hawai'i Medical Cannabis Newsletter, September/October 2025.",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Louis Vert, Le telescope de la place de la Bastille, Gelatin silver transparency on glass, ca. 1900, 2026.349.20 (The Metropolitan Museum of Art)",
+     "credit": "Louis Vert, The Metropolitan Museum of Art, Purchase, Jay H. McDonald Gift and funds from various donors, 2026 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/941604",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Alexander Gardner, Queen Emma of Hawaii and Her Entourage, Albumen silver print from glass negative, 1865, 2005.100.785 (The Metropolitan Museum of Art)",
+     "credit": "Alexander Gardner, The Metropolitan Museum of Art, Gilman Collection, Museum Purchase, 2005 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/285881",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Paul Henry, Lunar Photograph, South Pole, Albumen silver print from glass negative, 1890, 1995.125 (The Metropolitan Museum of Art)",
+     "credit": "Paul Henry, The Metropolitan Museum of Art, Gift of Rolf Mayer, 1995 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/267137",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Number card made for this post: 13, Hawaii sites recruiting for the COSMIC study, on Oahu and Kauai, per ClinicalTrials.gov (updated Oct 7, 2026) (ClinicalTrials.gov NCT06418204)",
+     "credit": "ClinicalTrials.gov NCT06418204",
+     "url": "https://clinicaltrials.gov/study/NCT06418204",
+     "card": true
+    },
+    {
+     "where": "Slide 5",
+     "what": "Underwood & Underwood, The Wonderful Universe Explorer, The Great 36-inch Equatorial Telescope, Lick Observatory, Mt",
+     "credit": "Underwood & Underwood, The Metropolitan Museum of Art, Gift of Weston J. Naef, in memory of Kathleen W. Naef and Weston J. Naef Sr., 1982 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/813899",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Unknown maker, Inkstand, Pewter, glass, 18th century, 14.91.4a to c (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Rogers Fund, 1914 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/192916",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Number card made for this post: 30 min, about how long each National Cannabis Study online survey takes (National Cannabis Study (Johns Hopkins with Realm of Caring))",
+     "credit": "National Cannabis Study (Johns Hopkins with Realm of Caring)",
+     "url": "https://www.cannabisandhealth.org/national-cannabis-study/",
+     "card": true
+    },
+    {
+     "where": "Slide 8",
+     "what": "Unknown maker, Globe, Free-blown colorless and white opaque glass, 1860 to 80, 20.14.12 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Rogers Fund, 1920 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/4022",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Henry Edridge, Portrait of a Man, Seated in Front of a Writing Desk, Watercolor over graphite with touches of gouache (bodycolor), 1795 to 1800, 65.646.9 (The Metropolitan Museum of Art)",
+     "credit": "Henry Edridge, The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1965 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/363579",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Unknown maker, Inkstand, Lacy pressed blue glass, pewter, 1800 to 1900, 51.171.98a to f (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Gift of Mrs. Charles W. Green, in memory of Dr. Charles W. Green, 1951 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/4430",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Daniel Garnier, Inkstand, Silver, 1697 to 98, 68.141.168a to d (The Metropolitan Museum of Art)",
+     "credit": "Daniel Garnier, The Metropolitan Museum of Art, Gift of Irwin Untermyer, 1968 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/204963",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Unknown maker, Writing Box, Poplar; leather, tooled, silhouettecut, engraved, gilded, silvered and painted; partially gilded metal mounts; brand-stamped and colored paper., ca. 1550 to 80, 1975.1.2022 (The Metropolitan Museum of Art)",
+     "credit": "Unknown maker, The Metropolitan Museum of Art, Robert Lehman Collection, 1975 (public domain)",
+     "url": "https://www.metmuseum.org/art/collection/search/460636",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "mar-23-2028",
+   "date": "2028-03-23",
+   "id": "KB25",
+   "title": "Cannabis and transplant medicine: the enzyme problem",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "So, G. C., Lu, J. B. L., Koyama, S., et al., & Eadon, M. T. (2025). A phase I trial of the pharmacokinetic interaction between cannabidiol and tacrolimus. Clin Pharmacol Ther 117(3):716 to 723 (epub Nov 27, 2024). doi:10.1002/cpt.3504",
+     "url": "https://doi.org/10.1002/cpt.3504"
+    },
+    {
+     "label": "Leino, A. D., Emoto, C., Fukuda, T., Privitera, M., Vinks, A. A., & Alloway, R. R. (2019). Evidence of a clinically significant drug-drug interaction between cannabidiol and tacrolimus. Am J Transplant 19(10):2944 to 2948. doi:10.1111/ajt.15398",
+     "url": "https://doi.org/10.1111/ajt.15398"
+    },
+    {
+     "label": "Caicedo, D. A., Pérez-Mañá, C., Farré, M., & Papaseit, E. (2025). An overview of the potential for pharmacokinetic interactions between drugs and cannabis products in humans. Pharmaceutics 17(3):319. doi:10.3390/pharmaceutics17030319",
+     "url": "https://doi.org/10.3390/pharmaceutics17030319"
+    },
+    {
+     "label": "Hauser, N., Sahai, T., Richards, R., & Roberts, T. (2016). High on cannabis and calcineurin inhibitors: a word of warning in an era of legalized marijuana. Case Rep Transplant 2016:4028492. doi:10.1155/2016/4028492",
+     "url": "https://doi.org/10.1155/2016/4028492"
+    },
+    {
+     "label": "Yau, M. T. K., Hussaini, T., & Yoshida, E. M. (2023). Review of liver transplantation candidacy and outcomes among patients who use cannabis: is it time for a change in policy? Can Liver J 6(2):269 to 277. doi:10.3138/canlivj-2022-0038",
+     "url": "https://doi.org/10.3138/canlivj-2022-0038"
+    },
+    {
+     "label": "Ilonze, O. J., Knapp, S. M., Chernyak, Y., Page, R. L., et al., & Breathett, K. (2024). Cannabis use and heart transplant listing: a survey of clinician practices. PLoS One 19(12):e0310778. doi:10.1371/journal.pone.0310778",
+     "url": "https://doi.org/10.1371/journal.pone.0310778"
+    },
+    {
+     "label": "Hawaii Department of Health, Office of Medical Cannabis Control and Regulation. Hawaii Medical Cannabis Newsletter, November 2024.",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/05/OMCCR-November-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Griffith, J. P., Kim, J. L., et al. (1995). Cell 82:507.",
+     "url": "https://www.rcsb.org/structure/1TCO"
+    },
+    {
+     "label": "Wilson, K. P., Yamashita, M. M., et al. (1995). Acta Crystallogr D Biol Crystallogr 51:511.",
+     "url": "https://www.rcsb.org/structure/1FKJ"
+    },
+    {
+     "label": "Sevrioukova, I. F. (2017). Biochemistry 56:3058. Hsu, M. H., et al. (2018). Mol Pharmacol 93:14. Reynald, R. L., et al. (2012). J Biol Chem 287:44581. Alam, A., et al. (2019). Science 363:753.",
+     "url": "https://www.rcsb.org/structure/5VCC"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Paul Klee, Tightrope Walker, color lithograph, 1923, 1961.154 (Cleveland Museum of Art)",
+     "credit": "Paul Klee, Cleveland Museum of Art, Gift of The Print Club of Cleveland (CC0)",
+     "url": "https://clevelandart.org/art/1961.154",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "ATOMIC STRUCTURE OF FKBP12-FK506, AN IMMUNOPHILIN IMMUNOSUPPRESSANT COMPLEX, x-ray diffraction, 1.7 angstrom, released 1995-12-07 (PDB 1FKJ, Wilson et al., 1995, Acta Crystallogr D Biol Crystallogr 51)",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 1FKJ (Wilson et al., 1995, Acta Crystallogr D Biol Crystallogr 51:511).",
+     "url": "https://www.rcsb.org/structure/1FKJ",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Crystal structure of human CYP3A4 bound to glycerol, x-ray diffraction, 1.7 angstrom, released 2017-05-31 (PDB 5VCC, Sevrioukova, 2017, Biochemistry 56)",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 5VCC (Sevrioukova, 2017, Biochemistry 56:3058).",
+     "url": "https://www.rcsb.org/structure/5VCC",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Number card made for this post: about 3x, rise in dose-adjusted tacrolimus levels in one patient taking CBD (Leino et al. (2019), Am J Transplant 19(10))",
+     "credit": "Leino et al. (2019), Am J Transplant 19(10)",
+     "url": "https://doi.org/10.1111/ajt.15398",
+     "card": true
+    },
+    {
+     "where": "Slide 5",
+     "what": "Number card made for this post: 4.2x, rise in peak tacrolimus levels with CBD in 12 healthy adults (So et al. (2025), Clin Pharmacol Ther 117(3))",
+     "credit": "So et al. (2025), Clin Pharmacol Ther 117(3)",
+     "url": "https://doi.org/10.1002/cpt.3504",
+     "card": true
+    },
+    {
+     "where": "Slide 6",
+     "what": "Number card made for this post: 3.1x, rise in total tacrolimus exposure with CBD in the same trial (So et al. (2025), Clin Pharmacol Ther 117(3))",
+     "credit": "So et al. (2025), Clin Pharmacol Ther 117(3)",
+     "url": "https://doi.org/10.1002/cpt.3504",
+     "card": true
+    },
+    {
+     "where": "Slide 7",
+     "what": "Nanodisc reconstituted human ABCB1 in complex with UIC2 fab and taxol, electron microscopy, 3.6 angstrom, released 2019-02-27 (PDB 6QEX, Alam et al., 2019, Science 363)",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 6QEX (Alam et al., 2019, Science 363:753).",
+     "url": "https://www.rcsb.org/structure/6QEX",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Number card made for this post: 14%, of Canadian liver transplant centers had a cannabis policy (Yau et al. (2023), Can Liver J 6(2))",
+     "credit": "Yau et al. (2023), Can Liver J 6(2)",
+     "url": "https://doi.org/10.3138/canlivj-2022-0038",
+     "card": true
+    },
+    {
+     "where": "Slide 9",
+     "what": "Unknown maker, Tomb Relief of the Chief Physician Amenhotep and Family, limestone with traces of paint, c. 1279 to 1257 BCE, 1963.100 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Leonard C. Hanna Jr. Fund (CC0)",
+     "url": "https://clevelandart.org/art/1963.100",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Unknown maker, Gold Weight (abrammuo): Antelope, Copper alloy, 1800s, 1935.306 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, James Albert Ford Memorial Fund (CC0)",
+     "url": "https://clevelandart.org/art/1935.306",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Unknown maker, Gold Weight (abrammuo): Geometric Form, Copper alloy, 1800s, 1962.244 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of Mr. and Mrs. Robert M. Hornung (CC0)",
+     "url": "https://clevelandart.org/art/1962.244",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Unknown maker, Vase in the Shape of a Grain Measure (Zhadou), green-glazed porcelaneous stoneware, Longquan ware, 1127 to 1279, 1957.73 (Cleveland Museum of Art)",
+     "credit": "Unknown maker, Cleveland Museum of Art, Gift of Mr. and Mrs. Severance A. Millikin (CC0)",
+     "url": "https://clevelandart.org/art/1957.73",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "mar-26-2028",
+   "date": "2028-03-26",
+   "id": "KB20",
+   "title": "Where does a cannabis plant make its THC?",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Tanney, C. A. S., Backer, R., Geitmann, A., & Smith, D. L. (2021). Cannabis glandular trichomes: a cellular metabolite factory. Front Plant Sci 12:721986. doi:10.3389/fpls.2021.721986 (CC BY)",
+     "url": "https://doi.org/10.3389/fpls.2021.721986"
+    },
+    {
+     "label": "Livingston, S. J., Quilichini, T. D., Booth, J. K., et al. (2020). Cannabis glandular trichomes alter morphology and metabolite content during flower maturation. Plant J 101(1):37 to 56. doi:10.1111/tpj.14516",
+     "url": "https://doi.org/10.1111/tpj.14516"
+    },
+    {
+     "label": "Ross, S. A., Mehmedic, Z., Murphy, T. P., & ElSohly, M. A. (2000). GC-MS analysis of the total delta9-THC content of both drug- and fiber-type cannabis seeds. J Anal Toxicol 24(8):715 to 717. doi:10.1093/jat/24.8.715",
+     "url": "https://doi.org/10.1093/jat/24.8.715"
+    },
+    {
+     "label": "Yang, Y., Lewis, M. M., Bello, A. M., et al. (2017). Cannabis sativa (hemp) seeds, delta9-tetrahydrocannabinol, and potential overdose. Cannabis Cannabinoid Res 2(1):274 to 281. doi:10.1089/can.2017.0040 (CC BY)",
+     "url": "https://doi.org/10.1089/can.2017.0040"
+    },
+    {
+     "label": "Hawaii State Department of Health, Office of Medical Cannabis Control and Regulation. Hawaii Medical Cannabis Newsletter, September 2024 (Know Before You Grow, Part 1: Anatomy of the Cannabis Plant).",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/09/OMCCR-September-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Laverty, K. U., Stout, J. M., Sullivan, M. J., et al. (2019). A physical and genetic map of Cannabis sativa identifies extensive rearrangements at the THC/CBD acid synthase loci. Genome Res 29(1):146 to 156. doi:10.1101/gr.242594.118",
+     "url": "https://doi.org/10.1101/gr.242594.118"
+    },
+    {
+     "label": "Yang, X., Matsui, T., Kodama, T., et al. (2016). Structural basis for olivetolic acid formation by a polyketide cyclase from Cannabis sativa. FEBS J 283(6):1088 to 1106. doi:10.1111/febs.13654",
+     "url": "https://doi.org/10.1111/febs.13654"
+    }
+   ],
+   "other": [
+    {
+     "label": "Agriculture Improvement Act of 2018, Pub. L. 115-334, sec. 10113 (7 U.S.C. 1639o) (GovInfo text).",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ334/html/PLAW-115publ334.htm"
+    },
+    {
+     "label": "Public Law 119-37, sec. 781 (Nov 12, 2025), amending 7 U.S.C. 1639o (GovInfo text).",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/html/PLAW-119publ37.htm"
+    },
+    {
+     "label": "Public Law 119-103, sec. 2019 (Sep 2, 2026), Section 781 Extension (GovInfo text).",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/html/PLAW-119publ103.htm"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Optics: four kinds of microscope",
+     "credit": "Goodnight after Milne, Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/v5xdaxjt",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Mounted Rock Crystal, gold, quartz, almandine, Byzantium, 500s to 600s, 1953.640 (Cleveland Museum of Art)",
+     "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund (CC0)",
+     "url": "https://clevelandart.org/art/1953.640",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "X-ray crystal structure of olivetolic acid cyclase (OAC) from Cannabis sativa bound with olivetolic acid, 1.70 angstrom, released Jan 27, 2016 (PDB 5B09, Yang et al., 2016, FEBS J 283(6))",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 5B09 (Yang et al., 2016, FEBS J 283:1088).",
+     "url": "https://www.rcsb.org/structure/5B09",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Flask (Kuttrolf), green glass, Germany, 1400s, 1991.12 (Cleveland Museum of Art)",
+     "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund (CC0)",
+     "url": "https://clevelandart.org/art/1991.12",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Number card made for this post: 12 to 16, secretory disc cells in each stalked flower gland, in a 2020 microscopy study (Livingston et al. (2020), Plant J 101(1))",
+     "credit": "Livingston et al. (2020), Plant J 101(1)",
+     "url": "https://doi.org/10.1111/tpj.14516",
+     "card": true
+    },
+    {
+     "where": "Slide 6",
+     "what": "Flask, glass with white looped decoration, America, South Jersey type, about 1835, 1951.111 (Cleveland Museum of Art)",
+     "credit": "Cleveland Museum of Art, John L. Severance Fund (CC0)",
+     "url": "https://clevelandart.org/art/1951.111",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The chemical laboratory of Ambrose Godfrey",
+     "credit": "W. H. Toms after H. Gravelot, Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/th3hrny8",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Ewer and Basin Pair, soft-paste porcelain, France, Chantilly, about 1770, 1953.277 (Cleveland Museum of Art)",
+     "credit": "Chantilly Porcelain Factory, Cleveland Museum of Art, John L. Severance Fund (CC0)",
+     "url": "https://clevelandart.org/art/1953.277",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Number card made for this post: Dec 11, 2026, when most of the federal total THC hemp definition was set to start, unless Congress acted again (Pub",
+     "credit": "Pub. L. 119-103 sec. 2019",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/html/PLAW-119publ103.htm",
+     "card": true
+    },
+    {
+     "where": "Story 1",
+     "what": "Chemistry: chemical apparatus made of glass, metal etc",
+     "credit": "J. Pass after H. Lascelles, Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/armvesr8",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Pilgrim's Flask, green glass, Byzantium, Syria-Palestine, 500 to 700, 1999.235 (Cleveland Museum of Art)",
+     "credit": "Cleveland Museum of Art, Gift of Bruce Ferrini in memory of Robert P. Bergman (CC0)",
+     "url": "https://clevelandart.org/art/1999.235",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Illustration of Lister's microscope, printed book page, Wellcome Collection L0081489",
+     "credit": "Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/a58x6zgj",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "apr-04-2028",
+   "date": "2028-04-04",
+   "id": "KB22",
+   "title": "Hemp and cannabis are one species. What makes their chemistry differ?",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "de Meijer, E. P. M., Bagatta, M., Carboni, A., Crucitti, P., Moliterni, V. M. C., Ranalli, P., & Mandolino, G. (2003). The inheritance of chemical phenotype in Cannabis sativa L. Genetics 163(1):335 to 346. doi:10.1093/genetics/163.1.335",
+     "url": "https://doi.org/10.1093/genetics/163.1.335"
+    },
+    {
+     "label": "Laverty, K. U., Stout, J. M., Sullivan, M. J., Shah, H., Gill, N., Holbrook, L., Deikus, G., Sebra, R., Hughes, T. R., Page, J. E., & van Bakel, H. (2019). A physical and genetic map of Cannabis sativa identifies extensive rearrangements at the THC/CBD acid synthase loci. Genome Res 29(1):146 to 156. doi:10.1101/gr.242594.118",
+     "url": "https://doi.org/10.1101/gr.242594.118"
+    },
+    {
+     "label": "Domenech, J., King, A., Byrne, E., Cartwright, J., & Grogan, G. (2026). X-ray crystal structures of the cannabinoid synthases CBCAS, CBDAS and THCAS. Curr Res Struct Biol 12:100197. doi:10.1016/j.crstbi.2026.100197",
+     "url": "https://doi.org/10.1016/j.crstbi.2026.100197"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii State Department of Health, Office of Medical Cannabis Control and Regulation. Resources for Patients, Frequently Asked Questions (health.hawaii.gov/cannabisinsights).",
+     "url": "https://health.hawaii.gov/cannabisinsights/"
+    },
+    {
+     "label": "Agriculture Improvement Act of 2018, Pub. L. 115-334, sec. 10113 (7 U.S.C. 1639o) (GovInfo text).",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ334/html/PLAW-115publ334.htm"
+    },
+    {
+     "label": "Public Law 119-37, sec. 781 (Nov 12, 2025), amending 7 U.S.C. 1639o (GovInfo text).",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/html/PLAW-119publ37.htm"
+    },
+    {
+     "label": "Public Law 119-103, sec. 2019 (Sep 2, 2026), Section 781 Extension (GovInfo text).",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/html/PLAW-119publ103.htm"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Pair of Fibulae, cast silver, parcel-gilt, with niello, Alemannic, Migration Period, 500s to 600s, 2000.119 (Cleveland Museum of Art)",
+     "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund (CC0)",
+     "url": "https://clevelandart.org/art/2000.119",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Textile Ornaments(?): Pair of Phoenixes, beaten gold with chased detail, China, Tang dynasty, about 700s, 1942.1083 (Cleveland Museum of Art)",
+     "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund (CC0)",
+     "url": "https://clevelandart.org/art/1942.1083",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "X-ray crystal structure of cannabidiolic acid synthase (CBDAS) in complex with FAD, 1.7 angstrom, released Jul 29, 2026 (PDB 29WA, Domenech et al., 2026, Curr Res Struct Biol 12)",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 29WA (Domenech et al., 2026, Curr Res Struct Biol 12:100197).",
+     "url": "https://www.rcsb.org/structure/29WA",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A chart delineating the dog pedigree and interrelations",
+     "credit": "Francois Louis Couche, Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/sjynaet7",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Number card made for this post: 1:2:1, split of pure CBD, mixed and pure THC plants in the second generation of a 2003 cannabis breeding study (de Meijer et al. (2003), Genetics 163(1))",
+     "credit": "de Meijer et al. (2003), Genetics 163(1)",
+     "url": "https://doi.org/10.1093/genetics/163.1.335",
+     "card": true
+    },
+    {
+     "where": "Slide 6",
+     "what": "Charles Darwin, The Variation of Animals and Plants under Domestication, 2 volumes, London: J. Murray, 1868, bound volumes (spines), Wellcome Collection L0051096",
+     "credit": "Charles Darwin, Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/usppkg3r",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Mirror with a Handle in the Form of a Herakles Knot, silver, Byzantium, Syria(?), about 280 to 400 CE, 1956.31 (Cleveland Museum of Art)",
+     "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund (CC0)",
+     "url": "https://clevelandart.org/art/1956.31",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Number card made for this post: 84%, how identical the THCA synthase and CBDA synthase proteins are (Laverty et al. (2019), Genome Res 29(1))",
+     "credit": "Laverty et al. (2019), Genome Res 29(1)",
+     "url": "https://doi.org/10.1101/gr.242594.118",
+     "card": true
+    },
+    {
+     "where": "Slide 9",
+     "what": "Number card made for this post: 0.3%, the federal hemp line by dry weight: delta-9 THC under the 2018 law, total THC including THCA from Dec 11, 2026 (Pub",
+     "credit": "Pub. L. 115-334; Pub. L. 119-37 sec. 781; Pub. L. 119-103 sec. 2019",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/html/PLAW-119publ37.htm",
+     "card": true
+    },
+    {
+     "where": "Story 1",
+     "what": "Pair of Earrings or Hair Ringlets with Ram Head, gold, Greece, Hellenistic period, 400s BCE, 1968.102 (Cleveland Museum of Art)",
+     "credit": "Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund (CC0)",
+     "url": "https://clevelandart.org/art/1968.102",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "The Queens closet opened",
+     "credit": "Wellcome Collection (Public Domain Mark)",
+     "url": "https://wellcomecollection.org/works/t6w5s3c6",
+     "card": false
+    },
+    {
+     "where": "Story 3",
+     "what": "Charles Cressent, Pair of Bookcases (Bibliotheques), kingwood and rosewood veneers, gilt metal mounts, France, about 1720, 1958.129 (Cleveland Museum of Art)",
+     "credit": "Charles Cressent, Cleveland Museum of Art, John L. Severance Fund (CC0)",
+     "url": "https://clevelandart.org/art/1958.129",
      "card": false
     }
    ]
