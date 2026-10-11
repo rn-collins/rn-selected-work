@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+import { SocialRow } from "../../components/social-row";
 import { builds } from "../../lib/builds";
 
 export const metadata: Metadata = {
@@ -8,8 +9,6 @@ export const metadata: Metadata = {
   title: "Connect with RN",
   description: "Contact Rayven-Nikkita (RN) Collins and find her technology builds, selected work, and published writing.",
 };
-
-const email = "collins.ra@northeastern.edu";
 
 export default function ConnectPage() {
   return (
@@ -29,11 +28,12 @@ export default function ConnectPage() {
           <p className="connectRoles">Neuroscientist · Fractional Law Clerk · AI Technologist</p>
           <p className="connectPositioning">I work across—and in between—science, law, technology, culture, and institutions. I connect the dots, reveal the gaps, and build what is missing.</p>
           <div className="connectActions" aria-label="Contact options">
-            <a className="button" href={`mailto:${email}`}>Email RN</a>
+            <a className="button" href="https://www.instagram.com/rn_collins/" target="_blank" rel="noreferrer">Instagram DM ↗</a>
             <a className="button secondary" href="https://www.linkedin.com/in/rn-collins" target="_blank" rel="noreferrer">LinkedIn ↗</a>
             <a className="button secondary" href="/rn-collins.vcf" download>Save contact</a>
           </div>
-          <a className="connectEmail" href={`mailto:${email}`}>{email}</a>
+          <p className="dmLine">DMs are open on Instagram at @rn_collins.</p>
+          <SocialRow set="rn" />
         </div>
       </header>
 
@@ -87,9 +87,9 @@ export default function ConnectPage() {
         <div className="canonicalSplit">
           <p className="eyebrow">Working together</p>
           <div>
-            <h2>Email, with the situation rather than the brief.</h2>
+            <h2>A message with the situation rather than the brief.</h2>
             <p>
-              Email is the route that works; LinkedIn is fine for an introduction. What
+              Instagram is the quickest route; LinkedIn is fine for an introduction. What
               helps most in a first message is the situation itself — what keeps happening,
               who it affects, why it matters now, and what has already been tried. A brief
               is a hypothesis about the problem, and it is worth checking before anyone
@@ -106,7 +106,7 @@ export default function ConnectPage() {
       <footer className="footer">
         <div className="shell footergrid">
           <div><p className="eyebrow">RN Selected Works</p><h2>Research, writing,<br /><em>systems, and builds.</em></h2></div>
-          <div className="contact"><a href={`mailto:${email}`}>{email}</a><a href="https://www.linkedin.com/in/rn-collins" target="_blank" rel="noreferrer">LinkedIn ↗</a><Link href="/">Return to RN Selected Works →</Link></div>
+          <div className="contact"><SocialRow set="rn" /><a href="https://www.linkedin.com/in/rn-collins" target="_blank" rel="noreferrer">LinkedIn ↗</a><Link href="/">Return to RN Selected Works →</Link></div>
         </div>
       </footer>
     </main>

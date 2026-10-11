@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { SocialRow } from "../../components/social-row";
 import { CanonicalPage } from "../../components/canonical-page";
 
 export const metadata: Metadata = {
@@ -77,25 +78,15 @@ export default function Page() {
         <div className="canonicalSplit">
           <p className="eyebrow">How to reach me</p>
           <div>
-            <h2>Email is the path that works.</h2>
+            <h2>Message me where I post.</h2>
+            <p className="dmLine">DMs are open on Instagram at @rn_collins.</p>
             <p>
-              Email is the primary contact route. LinkedIn is available for networking and
-              brief introductions, but a problem description does not survive a message
-              box well, and it is worth the extra minute to send it properly.
+              Instagram is the quickest route. LinkedIn works for networking and brief
+              introductions. A problem description does not survive a message box well, so
+              it is worth the extra minute to say what keeps happening, who it affects, and
+              what has already been tried.
             </p>
-            <div className="canonicalActions">
-              <a className="button" href="mailto:collins.ra@northeastern.edu">
-                Email RN
-              </a>
-              <a
-                className="button secondary"
-                href="https://www.linkedin.com/in/rn-collins"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Message RN on LinkedIn ↗
-              </a>
-            </div>
+            <SocialRow set="rn" />
             <p>
               If you would rather see the work before writing, the{" "}
               <Link href="/builds">build index</Link> lists everything currently running,
