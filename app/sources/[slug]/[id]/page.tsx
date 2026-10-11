@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CanonicalPage } from "../../../../components/canonical-page";
+import { ClientLine } from "../../../../components/sources-detail";
 import { PortfolioBlock, PortfolioLine } from "../../../../components/source-portfolio-link";
 import { account, accounts, entryCount, host, sourcePost, type SourceLink } from "../../../../lib/sources";
 import styles from "../../sources.module.css";
@@ -95,6 +96,7 @@ export default async function SourcePage({ params }: Params) {
             </dl>
           </section>
         )}
+        <ClientLine />
         <p className={styles.back}><Link href={`/sources/${slug}`}>{a.name}: all posts and their sources</Link></p>
         <PortfolioBlock />
       </article>

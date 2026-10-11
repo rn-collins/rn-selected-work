@@ -4,6 +4,101 @@
       "source": "/work/thorncrest-patent-first-steps",
       "destination": "/work/patent-first-steps",
       "permanent": true
+    },
+    {
+      "source": "/sources/tfh/13",
+      "destination": "/sources/ddw26/s13",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/48",
+      "destination": "/sources/ddw26/s48",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/49",
+      "destination": "/sources/ddw26/s49",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/50",
+      "destination": "/sources/ddw26/s50",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/53",
+      "destination": "/sources/ddw26/s53",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/68",
+      "destination": "/sources/ddw26/s68",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/71",
+      "destination": "/sources/ddw26/s71",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/72",
+      "destination": "/sources/ddw26/s72",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/73",
+      "destination": "/sources/ddw26/s73",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/74",
+      "destination": "/sources/ddw26/s74",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/75",
+      "destination": "/sources/ddw26/s75",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/78",
+      "destination": "/sources/ddw26/s78",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/79",
+      "destination": "/sources/ddw26/s79",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/80",
+      "destination": "/sources/ddw26/s80",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/102",
+      "destination": "/sources/ddw26/s102",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/121",
+      "destination": "/sources/ddw26/s121",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/122",
+      "destination": "/sources/ddw26/s122",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/124",
+      "destination": "/sources/ddw26/s124",
+      "permanent": true
+    },
+    {
+      "source": "/sources/tfh/129",
+      "destination": "/sources/ddw26/s129",
+      "permanent": true
     }
   ]
 }
