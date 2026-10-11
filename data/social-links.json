@@ -58,6 +58,11 @@
     "url": "https://www.threads.com/@ask_a_neuroscientist"
    },
    {
+    "id": "youtube",
+    "label": "YouTube",
+    "url": "https://www.youtube.com/@ask_a_neuroscientist"
+   },
+   {
     "id": "tiktok",
     "label": "TikTok",
     "url": "https://www.tiktok.com/@askaneuro"
