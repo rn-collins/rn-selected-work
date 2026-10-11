@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { host, type SourceLink, type SourcePost } from "../lib/aan-sources";
 import styles from "../app/sources/sources.module.css";
+import { SocialRow } from "./social-row";
 
 // RN's client line (Oct 10, 2026): exact wording, never change it. Sits below the references, outside the lists.
 const CLIENT_LINE = "I'm taking on clients for storytelling strategy and content production and operations. DMs are open.";
@@ -27,7 +28,7 @@ function Links({ items }: { items: SourceLink[] }) {
 
 const AAN_INTRO = "The studies, records and images behind this post, each linked to the original. Where a slide shows a number card, the number is quoted from the study named on the card.";
 
-export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = AAN_INTRO }: { p: SourcePost; eyebrow: string; meta: string; backHref: string; backLabel: string; intro?: string }) {
+export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = AAN_INTRO, social = "aan" }: { p: SourcePost; eyebrow: string; meta: string; backHref: string; backLabel: string; intro?: string; social?: "rn" | "aan" }) {
   return (
       <article className={`${styles.page} shell`}>
         <p className="eyebrow">{eyebrow}</p>
@@ -72,6 +73,10 @@ export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = A
             </dl>
           </section>
         )}
+        <section className="socialFollow" aria-label="Follow">
+          <p>{social === "aan" ? "Follow Ask a Neuroscientist" : "Follow RN Collins"}</p>
+          <SocialRow set={social} />
+        </section>
         <ClientLine />
         <p className={styles.back}><Link href={backHref}>{backLabel}</Link></p>
       </article>

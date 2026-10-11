@@ -1,0 +1,82 @@
+{
+ "rn": {
+  "name": "RN Collins",
+  "accounts": [
+   {
+    "id": "instagram",
+    "label": "Instagram",
+    "url": "https://www.instagram.com/rn_collins/"
+   },
+   {
+    "id": "threads",
+    "label": "Threads",
+    "url": "https://www.threads.com/@rn_collins"
+   },
+   {
+    "id": "youtube",
+    "label": "YouTube",
+    "url": "https://www.youtube.com/@Renaissance-Woman-3000"
+   },
+   {
+    "id": "tiktok",
+    "label": "TikTok",
+    "url": "https://www.tiktok.com/@renaissancex2m3"
+   },
+   {
+    "id": "bluesky",
+    "label": "Bluesky",
+    "url": "https://bsky.app/profile/rncollins.bsky.social"
+   },
+   {
+    "id": "x",
+    "label": "X",
+    "url": "https://x.com/renaissancex2m3"
+   },
+   {
+    "id": "linkedin",
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/rn-collins"
+   },
+   {
+    "id": "website",
+    "label": "Website",
+    "url": "https://rn-selected-work.vercel.app/"
+   }
+  ]
+ },
+ "aan": {
+  "name": "Ask a Neuroscientist",
+  "accounts": [
+   {
+    "id": "instagram",
+    "label": "Instagram",
+    "url": "https://www.instagram.com/ask_a_neuroscientist/"
+   },
+   {
+    "id": "threads",
+    "label": "Threads",
+    "url": "https://www.threads.com/@ask_a_neuroscientist"
+   },
+   {
+    "id": "tiktok",
+    "label": "TikTok",
+    "url": "https://www.tiktok.com/@askaneuro"
+   },
+   {
+    "id": "bluesky",
+    "label": "Bluesky",
+    "url": "https://bsky.app/profile/askaneuro.bsky.social"
+   },
+   {
+    "id": "x",
+    "label": "X",
+    "url": "https://x.com/ask_a_neuro"
+   },
+   {
+    "id": "website",
+    "label": "Website",
+    "url": "https://rn-selected-work.vercel.app/sources"
+   }
+  ]
+ }
+}

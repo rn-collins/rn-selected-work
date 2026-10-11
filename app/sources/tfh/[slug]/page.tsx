@@ -25,7 +25,7 @@ export default async function TfhSourcePage({ params }: { params: Promise<{ slug
   if (!p) notFound();
   return (
     <CanonicalPage>
-      <SourcesDetail p={p} eyebrow="Tech From Here: NL · Sources" meta={`${p.series} · Dutch Design Week 2026`} backHref="/sources/tfh" backLabel="All Tech From Here posts and their sources" intro="The work this post covers and every source it draws on, each linked to the original." />
+      <SourcesDetail p={p} eyebrow="Tech From Here: NL · Sources" meta={`${p.series} · Dutch Design Week 2026`} backHref="/sources/tfh" backLabel="All Tech From Here posts and their sources" intro="The work this post covers and every source it draws on, each linked to the original." social="rn" />
     </CanonicalPage>
   );
 }
