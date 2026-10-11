@@ -9,8 +9,10 @@ export const metadata: Metadata = {
 };
 import { publicationArchive } from "../../lib/publication-archive";
 import { journalArticles, journalName, journalUrl } from "../../lib/journal-articles";
+import { essays as ddwEssays, essaysByFamily, families, totalWords } from "../../lib/ddw-essays";
 
 const journalId = "journal-of-biophilic-design";
+const ddwId = "dutch-design-week";
 const totalRecords = publicationArchive.length + journalArticles.length;
 
 const publications = [
@@ -36,6 +38,7 @@ export default function WritingArchivePage() {
       </header>
       <nav className="publicationJump shell" aria-label="Jump to publication">
         <a href={`#${journalId}`}>{journalName} <span>{journalArticles.length}</span></a>
+        <a href={`#${ddwId}`}>Dutch Design Week <span>{ddwEssays.length}</span></a>
         {publications.map((publication) => (
           <a href={`#${publication.toLowerCase().replaceAll(" ", "-")}`} key={publication}>
             {publication} <span>{publicationArchive.filter((item) => item.publication === publication).length}</span>
@@ -64,6 +67,36 @@ export default function WritingArchivePage() {
                   </div>
                 </article>
               ))}
+            </div>
+          </section>
+        </section>
+        <section className="publicationArchive" id={ddwId}>
+          <div className="publicationArchiveHead">
+            <p className="eyebrow">Written for this site</p>
+            <h2>Dutch Design Week</h2>
+            <span>{ddwEssays.length} essays</span>
+          </div>
+          <p className="archiveDisclosure">
+            {totalWords.toLocaleString("en-US")} words on the makers, venues, editions and awards of
+            Eindhoven&rsquo;s design week, each written from the public record and citing its sources
+            in the text. These were written for this site and are not published anywhere else.{" "}
+            <Link href={`/writing/${ddwId}`}>Read the series</Link>
+          </p>
+          <section className="seriesGroup">
+            <h3>By part of the series</h3>
+            <div className="archiveList">
+              {families().map((family) => {
+                const group = essaysByFamily(family);
+                return (
+                  <article key={family}>
+                    <time>{group.length} essays</time>
+                    <div>
+                      <h4><Link href={`/writing/${ddwId}#${family}`}>{group[0].familyLabel}</Link></h4>
+                      <p>RN Collins · {group.reduce((n, e) => n + e.words, 0).toLocaleString("en-US")} words</p>
+                    </div>
+                  </article>
+                );
+              })}
             </div>
           </section>
         </section>

@@ -1,0 +1,37 @@
+.page{padding:56px 0 96px;max-width:760px}
+.title{font-family:"Bodoni Moda",Georgia,serif;font-weight:500;font-size:clamp(36px,6vw,64px);line-height:1.05;margin:10px 0 12px;overflow-wrap:anywhere}
+.subtitle{font-family:"Bodoni Moda",Georgia,serif;font-style:italic;font-size:clamp(20px,3vw,28px);line-height:1.3;margin:0 0 18px}
+.byline{font-size:14px;letter-spacing:.06em;text-transform:uppercase;margin:0 0 26px}
+.origin{font-size:15px;line-height:1.6;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:16px 0;margin:0 0 34px}
+.origin a,.refs a,.contents a,.back a{color:var(--ink);text-underline-offset:3px;text-decoration-thickness:1px}
+.standfirst{font-family:"Bodoni Moda",Georgia,serif;font-style:italic;font-size:22px;line-height:1.5;margin:0 0 34px}
+.contents{background:var(--blue);padding:20px 24px;margin:0 0 40px}
+.contents p{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;margin:0 0 10px}
+.contents ol{margin:0;padding-left:20px;display:grid;gap:6px;font-size:15px;line-height:1.4}
+.body{font-size:19px;line-height:1.7}
+.body p{margin:0 0 1.15em}
+.body h2{font-family:"Bodoni Moda",Georgia,serif;font-weight:500;font-size:clamp(26px,4vw,36px);line-height:1.15;margin:2em 0 .6em;scroll-margin-top:24px}
+.body h3{font-size:14px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;margin:1.8em 0 .6em}
+.refs{border-top:1px solid var(--ink);margin-top:56px;padding-top:24px}
+.refs h2{font-size:14px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;margin:0 0 16px}
+.refs ol{margin:0;padding-left:22px;display:grid;gap:12px;font-size:15px;line-height:1.5}
+.refs li{overflow-wrap:anywhere}
+.back{margin-top:44px;font-size:16px}
+@media(max-width:600px){.body{font-size:17px}.standfirst{font-size:19px}}
+
+/* Index of the series, and the inline source markers in an essay. */
+.lede{font-size:18px;line-height:1.6;max-width:62ch;margin:0 0 8px}
+.count{font-size:14px;letter-spacing:.06em;text-transform:uppercase;margin:0 0 40px}
+.group{border-top:1px solid var(--ink);margin-top:48px;padding-top:20px}
+.group h2{font-family:"Bodoni Moda",Georgia,serif;font-weight:500;font-size:clamp(24px,3.5vw,34px);margin:0 0 4px}
+.group p{font-size:15px;line-height:1.5;margin:0 0 20px;max-width:60ch}
+.list{display:grid;gap:2px;margin:0;padding:0;list-style:none}
+.list li{border-top:1px solid var(--line)}
+.list a{display:grid;gap:4px;padding:16px 0;color:var(--ink);text-decoration:none}
+.list a:hover b,.list a:focus-visible b{text-decoration:underline;text-underline-offset:3px}
+.list b{font-family:"Bodoni Moda",Georgia,serif;font-weight:500;font-size:20px;line-height:1.25}
+.list span{font-size:15px;line-height:1.5}
+.list em{font-size:13px;letter-spacing:.06em;text-transform:uppercase;font-style:normal}
+.ref{font-size:.72em;vertical-align:super;line-height:0;margin-left:1px;text-decoration:none}
+.ref:hover,.ref:focus-visible{text-decoration:underline}
+.pair{font-size:15px;line-height:1.6;margin:0 0 34px}
