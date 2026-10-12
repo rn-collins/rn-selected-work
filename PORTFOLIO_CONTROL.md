@@ -113,7 +113,7 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 
 ## RN Collins sources pages (one account per package family)
 
-- [x] `/sources/<account>/<slug>` (eleven accounts: `ddw26`, `venues`, `makers`, `editions`, `ddw27`, `dda`, `htw`, `ioo`, `polymath`, `fatnugs`, `clr`; for example `/sources/ddw26/s100`) lists the article, the sources and every slide image with its credit and record link. Ask a Neuroscientist keeps `/sources/<mon-dd>` and `data/aan-sources.json`, untouched.
+- [x] `/sources/<account>/<slug>` (twelve accounts: `ddw26`, `venues`, `makers`, `editions`, `ddw27`, `dda`, `htw`, `ioo`, `polymath`, `fatnugs`, `clr`, `kbyg`; for example `/sources/ddw26/s100`) lists the article, the sources and every slide image with its credit and record link. Ask a Neuroscientist keeps `/sources/<mon-dd>` and `data/aan-sources.json`, untouched.
 - [x] `/sources/<account>` lists each post from its posting day on, in Europe/Amsterdam time (rebuilt daily). Pages exist ahead of time so the address printed on a slide works on posting day.
 - [x] Data is generated, not hand-kept: `data/sources-<account>.json` comes from `render-kit/sources_export_ours.py`, with the same cleaning rules as the Ask a Neuroscientist export. Slugs are id-based (they do not change when a post is rescheduled).
 - [x] Each page opens with RN's article in The Polymath: the newsletter's subscribe page until the issue exists, then the issue address.
