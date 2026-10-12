@@ -15,37 +15,148 @@
       },
       "research": [
         {
-          "label": "Schwabe AL et al., Uncomfortably high: Testing reveals inflated THC potency on retail Cannabis labels, PLOS ONE 18(4):e0282396 (2023)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/37043421/"
-        },
-        {
-          "label": "Massachusetts Cannabis Control Commission, Protocol for the Sampling and Analysis of Finished Marijuana Products and Marijuana Products",
+          "label": "Massachusetts Cannabis Control Commission, Protocol for the Sampling and Analysis of Finished Marijuana Products and Marijuana Products, implemented March 11, 2021, revised December 30, 2021",
           "url": "https://masscannabiscontrol.com/wp-content/uploads/2021/06/Finished-Marijuana-Products-Sampling-and-Analysis-Protocol.pdf"
         },
         {
-          "label": "Massachusetts Cannabis Control Commission, Enforcement Counsel, Notice: Shelf Audit Results, M1 Enterprises, LLC (MC281252)",
-          "url": "https://masscannabiscontrol.com/wp-content/uploads/2025/12/20260813-Notice-of-Potency-Audit-Results-M1-Enterprises-LLC.pdf"
+          "label": "Massachusetts Cannabis Control Commission, news release, Massachusetts Cannabis Control Commission to Begin Auditing THC Potency on Labels, May 22, 2026",
+          "url": "https://masscannabiscontrol.com/2026/05/massachusetts-cannabis-control-commission-to-begin-auditing-thc-potency-on-labels/"
         },
         {
-          "label": "Nevada Cannabis Compliance Board, Final Order including Findings of Fact and Conclusions of Law (Cannex Nevada LLC, dba LettuceTest)",
+          "label": "Massachusetts Cannabis Control Commission, news release, Massachusetts Cannabis Control Commission Releases Potency Audit Results, August 13, 2026",
+          "url": "https://masscannabiscontrol.com/2026/08/massachusetts-cannabis-control-commission-releases-potency-audit-results/"
+        },
+        {
+          "label": "California Department of Cannabis Control, Cal. Code Regs. tit. 4, section 15719, Residual Pesticides Testing (text as published by Cornell Legal Information Institute)",
+          "url": "https://www.law.cornell.edu/regulations/california/4-CCR-15719"
+        },
+        {
+          "label": "California Department of Cannabis Control, Cal. Code Regs. tit. 4, section 15725, Terpenoid Testing (text as published by Cornell Legal Information Institute)",
+          "url": "https://www.law.cornell.edu/regulations/california/4-CCR-15725"
+        },
+        {
+          "label": "New York State Office of Cannabis Management, Sampling Guidance, August 17, 2022 (revised August 24, 2022)",
+          "url": "https://cannabis.ny.gov/system/files/documents/2022/08/ocm-guidance-for-ros-licensees-and-laboratories-sampling-and-testing-08-24-22-final.pdf"
+        },
+        {
+          "label": "Nevada Cannabis Compliance Board, Final Order including Findings of Fact, Conclusions of Law, and Imposing Discipline, State of Nevada CCB v. Cannex Nevada, LLC, now known as LettuceTest, LLC, Case No. 2020-27, March 4, 2024",
           "url": "https://ccb.nv.gov/wp-content/uploads/2024/03/CCB-Final-Order-on-Adjudication-of-Cannex-Case-No.-2020-27-dated-03.04.2024.pdf"
+        },
+        {
+          "label": "Schwabe AL, Johnson V, Harrelson J, McGlaughlin ME, Uncomfortably high: Testing reveals inflated THC potency on retail Cannabis labels, PLOS ONE 18(4):e0282396, April 12, 2023 (CC BY 4.0)",
+          "url": "https://doi.org/10.1371/journal.pone.0282396"
         }
       ],
       "other": [
         {
-          "label": "Massachusetts Cannabis Control Commission, Commission to Begin Auditing THC Potency (May 2026)",
-          "url": "https://masscannabiscontrol.com/2026/05/massachusetts-cannabis-control-commission-to-begin-auditing-thc-potency-on-labels/"
-        },
-        {
-          "label": "Massachusetts Cannabis Control Commission, Commission Releases Potency Audit Results (August 2026)",
-          "url": "https://masscannabiscontrol.com/2026/08/massachusetts-cannabis-control-commission-releases-potency-audit-results/"
-        },
-        {
-          "label": "Yasha Kahn, Result Manipulation: From THC Inflation to Aspergillus, Cannabis Science and Technology 8(2):27-29",
+          "label": "Sebastian Krawiec, Result Manipulation: From THC Inflation to Aspergillus, Cannabis Science and Technology 8(2):27-29, March/April 2025",
           "url": "https://www.cannabissciencetech.com/view/result-manipulation-from-thc-inflation-to-aspergillus"
+        },
+        {
+          "label": "Sarah Robertson, Burning questions plague cannabis testing industry, The Shoestring, March 6, 2025",
+          "url": "https://theshoestring.org/2025/03/06/burning-questions-plague-cannabis-testing-industry/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "where": "Slide 1",
+          "what": "The cover page of the Massachusetts Cannabis Control Commission document titled Protocol for the Sampling and Analysis of Finished Marijuana Products and Marijuana Products, implemented March 11, 2021 and revised December 30, 2021.",
+          "credit": "Source: Mass. CCC, protocol, p. 1",
+          "url": "https://masscannabiscontrol.com/wp-content/uploads/2021/06/Finished-Marijuana-Products-Sampling-and-Analysis-Protocol.pdf",
+          "card": false
+        },
+        {
+          "where": "Slide 2",
+          "what": "Section 4.2.2 of the Massachusetts protocol, Cannabinoid Profile Testing. It says product labels must give the cannabinoid profile, at a minimum the percentage by dry weight of delta-9 THC, CBD, THCa and CBDa, and that other cannabinoids may be included at the licensee's discretion.",
+          "credit": "Source: Mass. CCC, protocol, PDF p. 16",
+          "url": "https://masscannabiscontrol.com/wp-content/uploads/2021/06/Finished-Marijuana-Products-Sampling-and-Analysis-Protocol.pdf",
+          "card": false
+        },
+        {
+          "where": "Slide 3",
+          "what": "The start of California Code of Regulations title 4, section 15719, Residual Pesticides Testing. Subsection (b) says the laboratory shall indicate pass or fail on the COA, and subsection (d) says when a sample is deemed to have passed.",
+          "credit": "Source: Cal. DCC, 4 CCR 15719",
+          "url": "https://www.law.cornell.edu/regulations/california/4-CCR-15719",
+          "card": false
+        },
+        {
+          "where": "Slide 4",
+          "what": "California Code of Regulations title 4, section 15725, Terpenoid Testing. Subsection (a) begins \"If requested, the licensed laboratory shall analyze\" a sample's terpenoid profile; subsection (b) says the result goes on the COA.",
+          "credit": "Source: Cal. DCC, 4 CCR 15725",
+          "url": "https://www.law.cornell.edu/regulations/california/4-CCR-15725",
+          "card": false
+        },
+        {
+          "where": "Slide 5",
+          "what": "Section 5.0 of the Massachusetts protocol, Sampling Program Design. The second paragraph begins \"Because it is not possible to test all Marijuana, Licensees must collect representative samples\" for the Commission's licensed testing laboratories.",
+          "credit": "Source: Mass. CCC, protocol, PDF p. 18",
+          "url": "https://masscannabiscontrol.com/wp-content/uploads/2021/06/Finished-Marijuana-Products-Sampling-and-Analysis-Protocol.pdf",
+          "card": false
+        },
+        {
+          "where": "Slide 6",
+          "what": "A page of the Massachusetts protocol, section 5.3. It says homogenization of finished plant material may be difficult to accomplish before sampling because of its heterogeneous nature, and cites guidance on sampling loose leaf tea and botanicals.",
+          "credit": "Source: Mass. CCC, protocol, PDF p. 20",
+          "url": "https://masscannabiscontrol.com/wp-content/uploads/2021/06/Finished-Marijuana-Products-Sampling-and-Analysis-Protocol.pdf",
+          "card": false
+        },
+        {
+          "where": "Slide 7",
+          "what": "Part of page 2 of the New York Office of Cannabis Management sampling guidance of August 2022. Item (d)(2) says to obtain sample increments from random and varying locations of the unpacked harvest batch, both vertically and horizontally. A table lists how many increments to take by batch size.",
+          "credit": "Source: NY OCM, guidance, p. 2",
+          "url": "https://cannabis.ny.gov/system/files/documents/2022/08/ocm-guidance-for-ros-licensees-and-laboratories-sampling-and-testing-08-24-22-final.pdf",
+          "card": false
+        },
+        {
+          "where": "Slide 8",
+          "what": "Page 7 of the 2023 PLOS ONE paper by Schwabe and colleagues, starting at the Discussion. It says the observed values differed significantly from the labels and that 13 of 23 tested samples had values more than 30 percent lower than the lowest reported value.",
+          "credit": "Source: PLOS ONE, Schwabe et al., p. 7",
+          "url": "https://doi.org/10.1371/journal.pone.0282396",
+          "card": false
+        },
+        {
+          "where": "Slide 9",
+          "what": "Part of the Massachusetts Cannabis Control Commission news release of May 22, 2026. It says that if a product's THC is beyond 75 to 125 percent of what the label reflects, it would be considered out of compliance and removed from the market through administrative action.",
+          "credit": "Source: Mass. CCC, release, May 22, 2026",
+          "url": "https://masscannabiscontrol.com/2026/05/massachusetts-cannabis-control-commission-to-begin-auditing-thc-potency-on-labels/",
+          "card": false
+        },
+        {
+          "where": "Slide 10",
+          "what": "Part of the Commission's news release of August 13, 2026. A paragraph says the Commission selected 63 cannabis flower products from 62 producers off retail and dispensary shelves, rated compliant products green or yellow, and rated thirteen samples red for falling outside the acceptable range.",
+          "credit": "Source: Mass. CCC, release, Aug. 13, 2026",
+          "url": "https://masscannabiscontrol.com/2026/08/massachusetts-cannabis-control-commission-releases-potency-audit-results/",
+          "card": false
+        },
+        {
+          "where": "Slide 11",
+          "what": "Part of page 47 of the Nevada Cannabis Compliance Board Final Order in Case No. 2020-27. It says the laboratory worked with its clients to increase the potency reported, and that it used retesting in an attempt to control its potency results and avoid reporting lower results to the Department.",
+          "credit": "Source: Nevada CCB, Final Order, p. 47",
+          "url": "https://ccb.nv.gov/wp-content/uploads/2024/03/CCB-Final-Order-on-Adjudication-of-Cannex-Case-No.-2020-27-dated-03.04.2024.pdf",
+          "card": false
+        },
+        {
+          "where": "Slide 12",
+          "what": "Page 53 of the Nevada Cannabis Compliance Board Final Order. The Board imposes a 180-day suspension of license numbers L006 and RL006 and a total civil penalty of $57,500, payable within 30 days.",
+          "credit": "Source: Nevada CCB, Final Order, p. 53",
+          "url": "https://ccb.nv.gov/wp-content/uploads/2024/03/CCB-Final-Order-on-Adjudication-of-Cannex-Case-No.-2020-27-dated-03.04.2024.pdf",
+          "card": false
+        },
+        {
+          "where": "Slide 13",
+          "what": "The definition of Independent Testing Laboratory in the Massachusetts protocol. The laboratory must be licensed, accredited to ISO 17025 by a third-party accrediting body, independent financially from any licensee, and qualified to test under Massachusetts law.",
+          "credit": "Source: Mass. CCC, protocol, PDF p. 6",
+          "url": "https://masscannabiscontrol.com/wp-content/uploads/2021/06/Finished-Marijuana-Products-Sampling-and-Analysis-Protocol.pdf",
+          "card": false
+        },
+        {
+          "where": "Slide 14",
+          "what": "The opening paragraphs of the Commission's August 13, 2026 news release. The first paragraph says most samples fell within an accurate range. Later paragraphs explain why the Commission began the audit.",
+          "credit": "Source: Mass. CCC, release, Aug. 13, 2026",
+          "url": "https://masscannabiscontrol.com/2026/08/massachusetts-cannabis-control-commission-releases-potency-audit-results/",
+          "card": false
+        }
+      ]
     },
     {
       "slug": "fn-07",
