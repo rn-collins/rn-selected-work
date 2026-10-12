@@ -33,10 +33,16 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
 function Links({ items }: { items: SourceLink[] }) {
   return (
     <ol className={styles.links}>
-      {items.map((s) => (
-        <li key={s.url}>
-          <a href={s.url} target="_blank" rel="noreferrer">{s.label || host(s.url)} <span aria-hidden="true">↗</span></a>
-          <span className={styles.host}>{host(s.url)}</span>
+      {items.map((s, i) => (
+        <li key={s.url || `${i}-${s.label}`}>
+          {s.url ? (
+            <>
+              <a href={s.url} target="_blank" rel="noreferrer">{s.label || host(s.url)} <span aria-hidden="true">↗</span></a>
+              <span className={styles.host}>{host(s.url)}</span>
+            </>
+          ) : (
+            <span>{s.label}</span>
+          )}
         </li>
       ))}
     </ol>
@@ -55,8 +61,9 @@ export default async function SourcePage({ params }: Params) {
         <h1 className={styles.title}>{p.title}</h1>
         <p className={styles.meta}>{p.series}</p>
         <PortfolioLine />
+        {p.note && <p className={styles.note}>{p.note}</p>}
         <p className={styles.intro}>
-          The article, the sources and the image credits behind this post, each linked to the original.
+          {a.intro ?? "The article, the sources and the image credits behind this post, each linked to the original."}
         </p>
 
         {p.origin && (

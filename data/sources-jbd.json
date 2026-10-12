@@ -1,0 +1,799 @@
+{
+ "generated": "2026-10-11",
+ "host": "rn-selected-work.vercel.app",
+ "posts": [
+  {
+   "slug": "jbd17",
+   "date": "2027-08-09",
+   "id": "JBD17",
+   "title": "Trauma-Informed Architecture: The Neuroscience behind Biophilic Cities",
+   "series": "Journal of Biophilic Design",
+   "origin": {
+    "kind": "article",
+    "label": "RN Collins's article in the Journal of Biophilic Design, Issue 17 (Architecture, September 2025), hosted on this site",
+    "url": "https://rn-selected-work.vercel.app/journal/trauma-informed-architecture"
+   },
+   "research": [
+    {
+     "label": "Owen, C., & Crane, J. (2022). Trauma-Informed Design of Supported Housing: A Scoping Review through the Lens of Neuroscience. International Journal of Environmental Research and Public Health, 19(21), 14279",
+     "url": "https://doi.org/10.3390/ijerph192114279"
+    },
+    {
+     "label": "Justus, J., & Raghani, S. (2024). Trauma-informed design: shelter homes for runaway children. International Journal of Adolescence and Youth, 30(1), 2445053",
+     "url": "https://doi.org/10.1080/02673843.2024.2445053"
+    },
+    {
+     "label": "Al-Homoud, M., & Samarah, O. (2025). Redesigning Refuge: Spatial Adaptations and Defensible Space Principles in Zaatari Camp in Jordan. Buildings, 15(8), 1288",
+     "url": "https://doi.org/10.3390/buildings15081288"
+    },
+    {
+     "label": "Al-Shoubaki, H., Psychogyios, D., Drilling, M., Chatziefthymiou, Y., and colleagues (2024). A Human-Centered Shelter Design for People on the Move in the Al-Sahel Region. Sustainability, 16(20), 9127",
+     "url": "https://doi.org/10.3390/su16209127"
+    },
+    {
+     "label": "Conzatti, A., Kershaw, T., Copping, A., Coley, D. (2022). A review of the impact of shelter design on the health of displaced populations. Journal of International Humanitarian Action, 7(1), 18",
+     "url": "https://doi.org/10.1186/s41018-022-00123-0"
+    },
+    {
+     "label": "Valentine, C., Steffert, T., Mitcheltree, H., & Steemers, K. (2024). Architectural Neuroimmunology: A Pilot Study Examining the Impact of Biophilic Architectural Design on Neuroinflammation. Buildings, 14(5), 1292",
+     "url": "https://doi.org/10.3390/buildings14051292"
+    },
+    {
+     "label": "Yin, J., Yuan, J., Arfaei, N., Catalano, P. J., Allen, J. G., & Spengler, J. D. (2020). Effects of biophilic indoor environment on stress and anxiety recovery: A between-subjects experiment in virtual reality. Environment International, 136, 105427",
+     "url": "https://doi.org/10.1016/j.envint.2019.105427"
+    },
+    {
+     "label": "Valentine, C. (2023). Architectural Allostatic Overloading: Exploring a Connection between Architectural Form and Allostatic Overloading. International Journal of Environmental Research and Public Health, 20(9), 5637",
+     "url": "https://doi.org/10.3390/ijerph20095637"
+    },
+    {
+     "label": "Al Khatib, I., Samara, F., & Ndiaye, M. (2024). A systematic review of the impact of therapeutical biophilic design on health and wellbeing of patients and care providers in healthcare services settings. Frontiers in Built Environment, 10, 1467692",
+     "url": "https://doi.org/10.3389/fbuil.2024.1467692"
+    }
+   ],
+   "other": [
+    {
+     "label": "RN Collins's article, text page on this site (full text and references as printed)",
+     "url": "https://rn-selected-work.vercel.app/writing/journal-of-biophilic-design/trauma-informed-architecture"
+    },
+    {
+     "label": "The article as a PDF of the printed pages (article and references only)",
+     "url": "https://rn-selected-work.vercel.app/journal/trauma-informed-architecture.pdf"
+    },
+    {
+     "label": "Rakes, S. J. (2024). Haven: Exploring Trauma-Informed Design in Transitional Housing for Women and Children. Master of Fine Arts thesis (Interior Design), Virginia Commonwealth University",
+     "url": "https://scholarscompass.vcu.edu/etd/7655"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: An indoor green space with plants under a glass roof inside the Lumen building at Wageningen University in the Netherlands. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Vincent, Public domain, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Wageningen_University_-_Building_Lumen.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: A long hospital corridor lit by overhead lights in Tuen Mun Hospital, Hong Kong. It does not show the study or findings the slide names.",
+     "credit": "Photo: YipshaiukOWL, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:HK_%E5%B1%AF%E9%96%80%E9%86%AB%E9%99%A2_Tuen_Mun_Hospital_ground_floor_corridor_interior_July_2016_DSC.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: Exterior of a former motel in Yaphank, New York, used as supported housing for US military veterans, shown with no residents in view. It is a shelter for veterans and does not show the permanent supportive housing study the slide names.",
+     "credit": "Photo: DanTD, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Former_Yaphank_Motel%3B_Veterans_Place.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: A bedroom with a bright window letting in daylight, with no person in view. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Viktoria Hall-Waldhauser, CC0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Bedroom_window_(Unsplash).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: Exterior of Huckleberry House, a shelter for homeless and runaway youth in San Francisco, seen from the street with no one in view. It does not show the facilities or findings the slide names.",
+     "credit": "Photo: Tmcw, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Huckleberry_House,_San_Francisco_CA.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Aerial view from a helicopter of the Za'atri refugee camp in Jordan, with rows of shelters stretching across the desert toward the horizon.",
+     "credit": "Photo: U.S. Department of State, Public domain, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_the_Za'atri_Refugee_Camp.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Tents and shelters of a camp for Malian refugees in Mauritania, in the Sahel: white tents behind a brushwood fence on sandy ground under a clear sky, with a few people at mid-distance.",
+     "credit": "Photo: Magharebia, CC BY 2.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Civilians_caught_between_Mali_terrorists,_troops_-_%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86_%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%88%D9%86_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%8A%D9%86_%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D9%81%D9%8A_%D9%85%D8%A7%D9%84%D9%8A_-_Des_civils_pris_entre_les_terroristes_et_l'arm%C3%A9e_au_Mali_(8492052285).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: Rows of tents in a military-run refugee camp at Oreokastro, Greece. It does not show the study or findings the slide names.",
+     "credit": "Photo: Dolorslola00, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Camp_refugiats_militar_Oreokastro_(Gr%C3%A8cia).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: A participant wearing an EEG cap sits at the left of a lab setup facing a computer screen during a brain-computer interface experiment. It does not show the study or findings the slide names.",
+     "credit": "Photo: Laurens R. Krol, CC BY 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Brain-computer_interface_experiment.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: a Windows Mixed Reality virtual reality headset with two hand controllers. It does not show the study's virtual offices or participants.",
+     "credit": "Photo: Kyu3a, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:DELL%E3%81%AEWIn_MR_HMD%E3%80%8CVisor_with_Controllers_VRP100%E3%80%8D_-_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: Rush-hour traffic with motorcycles and buses on a busy street lined with buildings in Ho Chi Minh City, Vietnam. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Steffen Schmitz, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City,_Nguyen_Thi_Minh_Khai_Street,_2020-01_CN-01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: a garden seen through an open ground-floor window in a Bavarian village. It does not show a study, a participant or a measured effect.",
+     "credit": "Photo: Karl432, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:View_into_a_garden_through_an_open_ground_floor_window_in_Germany.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: A quiet residential street lined with trees and covered in snow in Brookline, Massachusetts. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Chris Rycroft, CC BY 2.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Trees_and_snow_on_Amory_Street_(51306806741).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "jbd18",
+   "date": "2027-08-10",
+   "id": "JBD18",
+   "title": "Designing for Cognitive Clarity: Biophilic Interiors and the science of mental recovery",
+   "series": "Journal of Biophilic Design",
+   "origin": {
+    "kind": "article",
+    "label": "RN Collins's article in the Journal of Biophilic Design, Issue 18 (Interior Design, November 2025), hosted on this site",
+    "url": "https://rn-selected-work.vercel.app/journal/designing-for-cognitive-clarity"
+   },
+   "research": [
+    {
+     "label": "Berman, M. G., Jonides, J., & Kaplan, S. (2008). The cognitive benefits of interacting with nature. Psychological Science, 19(12), 1207-1212",
+     "url": "https://doi.org/10.1111/j.1467-9280.2008.02225.x"
+    },
+    {
+     "label": "Ohly, H., White, M. P., Wheeler, B. W., Bethel, A., Ukoumunne, O. C., Nikolaou, V., & Garside, R. (2016). Attention Restoration Theory: A systematic review of the attention restoration potential of exposure to natural environments. Journal of Toxicology and Environmental Health, Part B, 19(7), 305-343",
+     "url": "https://doi.org/10.1080/10937404.2016.1196155"
+    },
+    {
+     "label": "Yin, J., Yuan, J., Arfaei, N., Catalano, P. J., Allen, J. G., & Spengler, J. D. (2020). Effects of biophilic indoor environment on stress and anxiety recovery: A between-subjects experiment in virtual reality. Environment International, 136, 105427",
+     "url": "https://doi.org/10.1016/j.envint.2019.105427"
+    },
+    {
+     "label": "Beauchemin, K. M., & Hays, P. (1996). Sunny hospital rooms expedite recovery from severe and refractory depressions. Journal of Affective Disorders, 40(1-2), 49-51",
+     "url": "https://doi.org/10.1016/0165-0327(96)00040-7"
+    },
+    {
+     "label": "Benedetti, F., Colombo, C., Barbini, B., Campori, E., & Smeraldi, E. (2001). Morning sunlight reduces length of hospitalization in bipolar depression. Journal of Affective Disorders, 62(3), 221-223",
+     "url": "https://doi.org/10.1016/S0165-0327(00)00149-X"
+    },
+    {
+     "label": "Ulrich, R. S., Bogren, L., Gardiner, S. K., & Lundin, S. (2018). Psychiatric ward design can reduce aggressive behavior. Journal of Environmental Psychology, 57, 53-66",
+     "url": "https://doi.org/10.1016/j.jenvp.2018.05.002"
+    },
+    {
+     "label": "Golembiewski, J. A. (2010). Start making sense: Applying a salutogenic model to architectural design for psychiatric care. Facilities, 28(3/4), 100-117",
+     "url": "https://doi.org/10.1108/02632771011023096"
+    }
+   ],
+   "other": [
+    {
+     "label": "RN Collins's article, text page on this site (full text and references as printed)",
+     "url": "https://rn-selected-work.vercel.app/writing/journal-of-biophilic-design/designing-for-cognitive-clarity"
+    },
+    {
+     "label": "The article as a PDF of the printed pages (article and references only)",
+     "url": "https://rn-selected-work.vercel.app/journal/designing-for-cognitive-clarity.pdf"
+    },
+    {
+     "label": "Rakes, S. J. (2024). Haven: Exploring Trauma-Informed Design in Transitional Housing for Women and Children. Master of Fine Arts thesis (Interior Design), Virginia Commonwealth University",
+     "url": "https://scholarscompass.vcu.edu/etd/7655"
+    },
+    {
+     "label": "Utile, Jamaica Plain Branch Library Wall Covering (project page)",
+     "url": "https://www.utiledesign.com/work/jamaica-plain-branch-library"
+    },
+    {
+     "label": "Boston Public Library, Jamaica Plain branch page (30 South Street)",
+     "url": "https://www.bpl.org/locations/jamaica-plain/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a living room corner with several green houseplants beside a window in Mainz, Germany. It does not show a study or a measured effect.",
+     "credit": "Photo: Brina Blum, CC0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Green_living_room_corner_(Unsplash).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: A statistician's workstation in an open plan government office. It does not show the study or the rooms it tested.",
+     "credit": "Photo: Liilia Moroz, CC0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Statistikaamet.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: A pedestrian seen from behind walking along a tree-lined path in an urban park. It does not show the study or its participants.",
+     "credit": "Photo: DearEdward, CC BY 2.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Le_promenade_plant%C3%A9e_(9125872106).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: A path through trees in a botanical garden with patches of shade. It does not show the study or its walking routes.",
+     "credit": "Photo: Humoyun Mehridinov, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:A_path_along_nature_(Tashkent_Botanical_Garden).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a virtual reality headset, front view, on a plain background. It does not show the study's virtual offices or participants.",
+     "credit": "Photo: Evan-Amos, Public domain, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Oculus-Rift-CV1-Headset-Front.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: A hospital patient room with a bed and a window. It does not show the study or the hospital it tested.",
+     "credit": "Photo: Chris Olszewski, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Princess_Alexandra_Hospital_patient's_room.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: Uppsala University Hospital in Sweden seen from a nearby sports field. It does not show the hospital in the study.",
+     "credit": "Photo: Ojan, Public domain, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Uppsala_Akademiska_sjukhuset.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a brown modular building with a wooden entrance deck on gravel ground, listed on Commons as a university student counseling services reception. It does not show the facility or study the slide names.",
+     "credit": "Photo: Patrick Creighton, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Student_Counseling_Sercvices_Reception_-_Texas_A%26M.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: The Sojourner Family Peace Center in Milwaukee, Wisconsin, a building that serves families affected by domestic violence. It does not show the shelter or the city the slide names.",
+     "credit": "Photo: Michael Barera, CC BY-SA 4.0 + CC BY-SA 3.0 + GFDL, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Milwaukee_April_2025_07_(Sojourner_Family_Peace_Center).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "The Jamaica Plain Branch of the Boston Public Library: a modern glass building with large BPL lettering beside the brick Curtis Hall, photographed from the street.",
+     "credit": "Photo: 4300streetcar, CC BY 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Boston_Public_Library_Jamaica_Plain_branch_July_2026.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: A view from inside a room through a window onto bright green trees. It does not show the study setting.",
+     "credit": "Photo: Marcin Sochacki, CC BY 3.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Window_view_with_green_trees_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: A reading nook with an armchair, a lamp, a book and a pair of glasses. It does not show the study or its interiors.",
+     "credit": "Photo: Kotivalo, CC BY-SA 3.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Reading_corner_with_armchair_and_lamp.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "jbd20",
+   "date": "2027-08-11",
+   "id": "JBD20",
+   "title": "Biophilic Landscapes as Cognitive Infrastructure: Neuroscience, Equity, and Design Practice",
+   "series": "Journal of Biophilic Design",
+   "origin": {
+    "kind": "article",
+    "label": "RN Collins's article in the Journal of Biophilic Design, Issue 20 (Landscape Architecture, March 2026), hosted on this site",
+    "url": "https://rn-selected-work.vercel.app/journal/biophilic-landscapes-as-cognitive-infrastructure"
+   },
+   "research": [
+    {
+     "label": "Maas, J., Verheij, R. A., de Vries, S., Spreeuwenberg, P., Schellevis, F. G., & Groenewegen, P. P. (2009). Morbidity is related to a green living environment. Journal of Epidemiology and Community Health, 63(12), 967-973",
+     "url": "https://doi.org/10.1136/jech.2008.079038"
+    },
+    {
+     "label": "Alcock, I., White, M. P., Wheeler, B. W., Fleming, L. E., & Depledge, M. H. (2014). Longitudinal effects on mental health of moving to greener and less green urban areas. Environmental Science & Technology, 48(2), 1247-1255",
+     "url": "https://doi.org/10.1021/es403688w"
+    },
+    {
+     "label": "Gascon, M., Triguero-Mas, M., Martinez, D., Dadvand, P., Forns, J., Plasencia, A., & Nieuwenhuijsen, M. J. (2015). Mental health benefits of long-term exposure to residential green and blue spaces: A systematic review. International Journal of Environmental Research and Public Health, 12(4), 4354-4379",
+     "url": "https://doi.org/10.3390/ijerph120404354"
+    },
+    {
+     "label": "Bratman, G. N., Hamilton, J. P., Hahn, K. S., Daily, G. C., & Gross, J. J. (2015). Nature experience reduces rumination and subgenual prefrontal cortex activation. Proceedings of the National Academy of Sciences, 112(28), 8567-8572",
+     "url": "https://doi.org/10.1073/pnas.1510459112"
+    },
+    {
+     "label": "Hartig, T., Mitchell, R., de Vries, S., & Frumkin, H. (2014). Nature and health. Annual Review of Public Health, 35, 207-228",
+     "url": "https://doi.org/10.1146/annurev-publhealth-032013-182443"
+    },
+    {
+     "label": "Fuller, R. A., Irvine, K. N., Devine-Wright, P., Warren, P. H., & Gaston, K. J. (2007). Psychological benefits of greenspace increase with biodiversity. Biology Letters, 3(4), 390-394",
+     "url": "https://doi.org/10.1098/rsbl.2007.0149"
+    },
+    {
+     "label": "Benfield, J. A., Taff, B. D., Newman, P., & Smyth, J. (2014). Natural sound facilitates mood recovery. Ecopsychology, 6(3), 183-188",
+     "url": "https://doi.org/10.1089/eco.2014.0028"
+    },
+    {
+     "label": "Hedblom, M., Gunnarsson, B., Iravani, B., Knez, I., Schaefer, M., Thorsson, P., & Lundstrom, J. N. (2019). Reduction of physiological stress by urban green space in a multisensory virtual experiment. Scientific Reports, 9, 10113",
+     "url": "https://doi.org/10.1038/s41598-019-46099-7"
+    },
+    {
+     "label": "Hunter, M. R., Gillespie, B. W., & Chen, S. Y.-P. (2019). Urban nature experiences reduce stress in the context of daily life based on salivary biomarkers. Frontiers in Psychology, 10, 722",
+     "url": "https://doi.org/10.3389/fpsyg.2019.00722"
+    },
+    {
+     "label": "South, E. C., Hohl, B. C., Kondo, M. C., MacDonald, J. M., & Branas, C. C. (2018). Effect of Greening Vacant Land on Mental Health of Community-Dwelling Adults: A Cluster Randomized Trial. JAMA Network Open, 1(3), e180298",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2018.0298"
+    },
+    {
+     "label": "Holtan, M. T., Dieterlen, S. L., & Sullivan, W. C. (2015). Social life under cover: Tree canopy and social capital in Baltimore, Maryland. Environment and Behavior, 47(5), 502-525",
+     "url": "https://doi.org/10.1177/0013916513518064"
+    },
+    {
+     "label": "South, E. C., Kondo, M. C., Cheney, R. A., & Branas, C. C. (2015). Neighborhood blight, stress, and health: A walking trial of urban greening and ambulatory heart rate. American Journal of Public Health, 105(5), 909-913",
+     "url": "https://doi.org/10.2105/AJPH.2014.302526"
+    }
+   ],
+   "other": [
+    {
+     "label": "RN Collins's article, text page on this site (full text and references as printed)",
+     "url": "https://rn-selected-work.vercel.app/writing/journal-of-biophilic-design/biophilic-landscapes-as-cognitive-infrastructure"
+    },
+    {
+     "label": "The article as a PDF of the printed pages (article and references only)",
+     "url": "https://rn-selected-work.vercel.app/journal/biophilic-landscapes-as-cognitive-infrastructure.pdf"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: mature trees in Golden Gate Park, a large public park in San Francisco. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Vaishakh1234, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Park_trees.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a residential street in Amersfoort, the Netherlands, lined on both sides with flowering cherry trees in full white bloom, with brick houses and parked cars at the edges. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: JopkeB, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hendrick_de_Keyserlaan,_Amersfoort.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: houses facing the central garden of Fassett Square, a residential garden square in Hackney, London. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Ethan Doyle White, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:View_of_Garden_and_Houses_in_Fassett_Square.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: an elevated view over a canal in Delft, the Netherlands, with houses and trees along the water. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Jane023, CC BY-SA 3.0 + GFDL, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Delft_canal_from_rooftop_student_house.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a lone walker far along a forest trail between tall trees. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Hortus2000, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:For%C3%AAt_domaniale_de_Desvres_Sentier_GR.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a path lined with trees in autumn in Vondelpark, Amsterdam. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Karmela Kortizija, CC BY 3.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Autumn_In_Vondelpark_(127412401).jpeg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: a grassy urban meadow in Nieder-Olm, Germany, with an information sign, a parked car and two people far from the camera beside beehives. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Bodow, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Honigbienenprojekt_st%C3%A4dtische_Bl%C3%BChwiese_Nieder-Olm.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: a small stream running over rocks through a forest. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Vincent, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Stream_in_a_forest.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Page 1 of Hedblom and colleagues, Reduction of physiological stress by urban green space in a multisensory virtual experiment (Scientific Reports, 2019): the title, authors and abstract, which reports 154 participants and that park and forest settings, not the urban one, reduced stress.",
+     "credit": "Source: Scientific Reports, CC BY 4.0, CC BY 4.0, Scientific Reports (Springer Nature)",
+     "url": "https://www.nature.com/articles/s41598-019-46099-7",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Page 1 of Hunter, Gillespie and Chen, Urban Nature Experiences Reduce Stress in the Context of Daily Life Based on Salivary Biomarkers (Frontiers in Psychology, 2019): the title, authors and abstract, which reports 36 urban adults over 8 weeks and a 21.3 percent per hour extra cortisol drop.",
+     "credit": "Source: Frontiers in Psychology, CC BY, CC BY 4.0, Frontiers in Psychology",
+     "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00722/full",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: a community garden on a neighborhood lot in North Philadelphia with plantings and trees. It does not show a LandCare greened vacant lot with post and rail fencing.",
+     "credit": "Photo: Tony Fischer, CC BY 2.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:2009_Glenwood_community_garden_Philadelphia_3496476276.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Brick rowhouses with porches and street trees along a block of North Calvert Street in the Charles Village area of Baltimore, Maryland, with the trees bare and snow on the ground.",
+     "credit": "Photo: Baltimore Heritage, CC0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:2600_block_of_N._Calvert_Street_(east_side),_Baltimore,_MD_21218_(33339746512).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: the east courtyard of a general hospital in Stratford, Ontario, with planting and paths. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Robert Taylor, CC BY 2.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:The_East_Courtyard,_Stratford_General_Hospital,_Stratford_Ontario_(4805378905).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Illustrative photo: a paved walking path among mature trees and lawn in a neighborhood park in Fairfax County, Virginia. It does not show the study, place or finding the slide names.",
+     "credit": "Photo: Ser Amantio di Nicolao, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Trees_and_walking_path,_Colonel_John_R._Byers_Park.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "jbd21",
+   "date": "2027-08-12",
+   "id": "JBD21",
+   "title": "Biophilic Design and Climate Change: Rethinking Mental Health infrastructure in a warming world",
+   "series": "Journal of Biophilic Design",
+   "origin": {
+    "kind": "article",
+    "label": "RN Collins's article in the Journal of Biophilic Design, Issue 21 (Climate Change, May 2026), hosted on this site",
+    "url": "https://rn-selected-work.vercel.app/journal/biophilic-design-and-climate-change"
+   },
+   "research": [
+    {
+     "label": "Thompson, R., Lawrance, E. L., Roberts, L. F., Grailey, K., Ashrafian, H., Maheswaran, H., Toledano, M. B., & Darzi, A. (2023). Ambient temperature and mental health: a systematic review and meta-analysis. The Lancet Planetary Health, 7(7), e580-e589",
+     "url": "https://doi.org/10.1016/S2542-5196(23)00104-3"
+    },
+    {
+     "label": "Baecker, L., Iyengar, U., Del Piccolo, M. C., & Mechelli, A. (2025). Impacts of extreme heat on mental health: Systematic review and qualitative investigation of the underpinning mechanisms. The Journal of Climate Change and Health, 22, 100446",
+     "url": "https://doi.org/10.1016/j.joclim.2025.100446"
+    },
+    {
+     "label": "Pihkala, P. (2020). Anxiety and the Ecological Crisis: An Analysis of Eco-Anxiety and Climate Anxiety. Sustainability, 12(19), 7836",
+     "url": "https://doi.org/10.3390/su12197836"
+    },
+    {
+     "label": "Hoffman, J. S., Shandas, V., & Pendleton, N. V. (2020). The Effects of Historical Housing Policies on Resident Exposure to Intra-Urban Heat: A Study of 108 US Urban Areas. Climate, 8(1), 12",
+     "url": "https://doi.org/10.3390/cli8010012"
+    },
+    {
+     "label": "Hsu, A., Sheriff, G., Chakraborty, T., & Manya, D. (2021). Disproportionate exposure to urban heat island intensity across major US cities. Nature Communications, 12, 2721",
+     "url": "https://doi.org/10.1038/s41467-021-22799-5"
+    },
+    {
+     "label": "Aram, F., Higueras Garcia, E., Solgi, E., & Mansournia, S. (2019). Urban green space cooling effect in cities. Heliyon, 5(4), e01339",
+     "url": "https://doi.org/10.1016/j.heliyon.2019.e01339"
+    },
+    {
+     "label": "Anguelovski, I., Connolly, J. J. T., Masip, L., & Pearsall, H. (2018). Assessing green gentrification in historically disenfranchised neighborhoods: a longitudinal and spatial analysis of Barcelona. Urban Geography, 39(3), 458-491",
+     "url": "https://doi.org/10.1080/02723638.2017.1349987"
+    }
+   ],
+   "other": [
+    {
+     "label": "RN Collins's article, text page on this site (full text and references as printed)",
+     "url": "https://rn-selected-work.vercel.app/writing/journal-of-biophilic-design/biophilic-design-and-climate-change"
+    },
+    {
+     "label": "The article as a PDF of the printed pages (article and references only)",
+     "url": "https://rn-selected-work.vercel.app/journal/biophilic-design-and-climate-change.pdf"
+    },
+    {
+     "label": "National Weather Service Phoenix, Historical Extreme Temperatures in Phoenix, Yuma, and El Centro",
+     "url": "https://www.weather.gov/psr/ExtremeTemps"
+    },
+    {
+     "label": "National Parks Board (NParks), Singapore, Parks and Park Connector Network (page)",
+     "url": "https://www.nparks.gov.sg/visit/when-visiting-parks/about-parks-nature-reserves-pcns/park-pcn"
+    },
+    {
+     "label": "City of Portland, Oregon, Binding City Policy ENB-4.19, Green Streets Policy and Green Streets Cross-Bureau Phase 2 Report (Resolution No. 36500)",
+     "url": "https://www.portland.gov/policies/environment-built/sewer-stormwater-erosion-control/enb-419-green-streets-policy-and-green"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: a tree-lined avenue in Bloomfield Township, New Jersey, on a June afternoon, with mature street trees casting shade over the road. It does not show the places or findings the slide names.",
+     "credit": "Photo: Famartin, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:2021-06-05_17_21_20_View_south_along_Essex_County_Route_652_(East_Passaic_Avenue)_at_Essex_County_Route_655_(Watchung_Avenue)_in_Bloomfield_Township,_Essex_County,_New_Jersey.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: a digital street thermometer outside a pharmacy in Colombes, France, reading 43 degrees Celsius during a heat wave. It does not show a US city or the study's data.",
+     "credit": "Photo: Tangopaso, Public domain, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:2026_heat_event_in_France_-_43%C2%B0C_in_Colombes_2026-august_14_14-51.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A hazy aerial view over Phoenix, Arizona, with the street grid of the city stretching to the horizon; the file is titled Downtown Phoenix and Sky Harbor.",
+     "credit": "Photo: Atomic Taco, CC BY-SA 2.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Downtown_Phoenix_and_Sky_Harbor_(8917108741).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Illustrative photo: a bench in a shaded passage of the Al Fahidi historic neighborhood in Dubai, with shade sails and strong light and shadow. It is not a bus stop and does not show the places the slide names.",
+     "credit": "Photo: Daftation, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Al_Fahidi_Bench.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: a street in southeast Portland, Oregon, under heavy wildfire smoke on September 9, 2020. It does not show the places or findings the slide names.",
+     "credit": "Photo: Another Believer, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Smoke_in_SE_Portland,_Oregon,_September_9,_2020_-_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: a block of brick rowhouses on East Eager Street in Baltimore, Maryland, with paved street and sidewalk. It does not show the neighborhoods or findings the slide names.",
+     "credit": "Photo: Eli Pousson, CC0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:900_block_of_E._Eager_Street,_Baltimore,_MD_21202_(33740953904).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Page 1 of Hsu, Sheriff, Chakraborty and Manya, Disproportionate exposure to urban heat island intensity across major US cities (Nature Communications, 2021): the title, authors and abstract, which reports that the average person of color lives in a census tract with higher surface heat island intensity in all but 6 of the 175 largest urbanized areas.",
+     "credit": "Source: Nature Communications, CC BY 4.0, CC BY 4.0, Nature Communications (Springer Nature)",
+     "url": "https://www.nature.com/articles/s41467-021-22799-5",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: an elevated view of Central Park in Manhattan in summer, with dense tree canopy and lawns beside the surrounding city blocks. It does not show the study sites or findings the slide names.",
+     "credit": "Photo: Andreas aka, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:20210628_180407_United_States_of_America_-_New_York_-_Manhattan_-_Central_Park.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: Plaça Comercial in the El Born district of Barcelona, Spain, a small square in the old town. It does not show the specific neighborhood parks the slide names.",
+     "credit": "Photo: Fred Romero, CC BY 2.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Barcelona_-_El_Born._Pla%C3%A7a_Comercial.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "The Tampines Park Connector in Singapore, part of the Park Connector Network, running through Sun Plaza Park as a paved walking and cycling path beside planted greenery.",
+     "credit": "Photo: Wzhkevin, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Tampines_Park_Connector_running_through_Sun_Plaza_Park.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: a planted stormwater bioswale at Vera Katz Park in Portland, Oregon. It is a park bioswale, not one of the city's Green Streets curb extensions the slide names.",
+     "credit": "Photo: brx0, CC BY-SA 2.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Bioswale,_vera_katz_park_(2492235537).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: an empty bench on a sloping residential Main Street in Irvington, New York, in summer. It does not show the places or findings the slide names.",
+     "credit": "Photo: Beyond My Ken, GFDL + CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Bench_on_Main_Street_Irvington.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: a neighborhood community garden in Clintonville, Columbus, Ohio, in autumn, with garden beds among trees. It does not show the places or findings the slide names.",
+     "credit": "Photo: Matthew.kowal, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:CRC's_(Clintonville-Beechwold_Community_Resources_Center)_community_Midgarden_in_Autumn_2021.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "jbd22",
+   "date": "2027-08-13",
+   "id": "JBD22",
+   "title": "Wood, the Multisensory, Physiological Magician",
+   "series": "Journal of Biophilic Design",
+   "origin": {
+    "kind": "article",
+    "label": "RN Collins's article in the Journal of Biophilic Design, Issue 22 (Wood, July 2026), hosted on this site",
+    "url": "https://rn-selected-work.vercel.app/journal/wood-the-multisensory-physiological-magician"
+   },
+   "research": [
+    {
+     "label": "McEwen, B. S., & Akil, H. (2020). Revisiting the Stress Concept: Implications for Affective Disorders. The Journal of Neuroscience, 40(1), 12-21",
+     "url": "https://doi.org/10.1523/JNEUROSCI.0733-19.2019"
+    },
+    {
+     "label": "Tsunetsugu, Y., Park, B.-J., & Miyazaki, Y. (2010). Trends in research related to \"Shinrin-yoku\" (taking in the forest atmosphere or forest bathing) in Japan. Environmental Health and Preventive Medicine, 15(1), 27-37",
+     "url": "https://doi.org/10.1007/s12199-009-0091-z"
+    },
+    {
+     "label": "Tsunetsugu, Y., Miyazaki, Y., & Sato, H. (2007). Physiological effects in humans induced by the visual stimulation of room interiors with different wood quantities. Journal of Wood Science, 53(1), 11-16",
+     "url": "https://doi.org/10.1007/s10086-006-0812-5"
+    },
+    {
+     "label": "Shield, B. M., & Dockrell, J. E. (2003). The effects of noise on children at school: A review. Building Acoustics, 10(2), 97-116",
+     "url": "https://doi.org/10.1260/135101003768965960"
+    },
+    {
+     "label": "Amiri, A., Ottelin, J., Sorvari, J., & Junnila, S. (2020). Cities as carbon sinks - classification of wooden buildings. Environmental Research Letters, 15(9), 094076",
+     "url": "https://doi.org/10.1088/1748-9326/aba134"
+    },
+    {
+     "label": "Pan, Y., Birdsey, R. A., Fang, J., Houghton, R., Kauppi, P. E., Kurz, W. A., and others (2011). A Large and Persistent Carbon Sink in the World's Forests. Science, 333(6045), 988-993",
+     "url": "https://doi.org/10.1126/science.1201609"
+    },
+    {
+     "label": "Burnard, M. D., & Kutnar, A. (2015). Wood and human stress in the built indoor environment: a review. Wood Science and Technology, 49(5), 969-986",
+     "url": "https://doi.org/10.1007/s00226-015-0747-3"
+    }
+   ],
+   "other": [
+    {
+     "label": "RN Collins's article, text page on this site (full text and references as printed)",
+     "url": "https://rn-selected-work.vercel.app/writing/journal-of-biophilic-design/wood-the-multisensory-physiological-magician"
+    },
+    {
+     "label": "The article as a PDF of the printed pages (article and references only)",
+     "url": "https://rn-selected-work.vercel.app/journal/wood-the-multisensory-physiological-magician.pdf"
+    },
+    {
+     "label": "IPCC (2022). Climate Change 2022: Mitigation of Climate Change (AR6 Working Group III), chapter 9, Buildings, section 9.1 Introduction; and Summary for Policymakers",
+     "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-9/"
+    },
+    {
+     "label": "Forest Stewardship Council, FSC standards (page)",
+     "url": "https://fsc.org/en/fsc-standards"
+    },
+    {
+     "label": "Fire Engineering staff (2016, October 1). Charred wood and fire resistance. Fire Engineering",
+     "url": "https://www.fireengineering.com/fire-prevention-protection/charred-wood-and-fire-resistance/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Illustrative photo: Interior of the Helsinki Central Library Oodi in Finland. It does not show the study or finding the slide names.",
+     "credit": "Photo: Bahnfrend, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Interior,_Helsinki_Central_Library_Oodi,_2019_(05).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Illustrative photo: Close view of the grain of a dried piece of weathered wood. It does not show planed lumber or the study the slide names.",
+     "credit": "Photo: Martin Vorel, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Dry_wood_texture.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Illustrative photo: A handrail on the stairs of a house in Jerusalem. It does not show the study or finding the slide names.",
+     "credit": "Photo: Korenn, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Handrail_of_stairs_in_a_house_in_Jerusalem.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Tall Kiso cypress trunks in dappled summer light in the Akasawa Natural Recreational Forest in Nagano Prefecture, Japan, a forest therapy site tied to the origins of forest bathing.",
+     "credit": "Photo: Saigen Jiro, CC0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Akasawa_Natural_Recreational_Forest-1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustrative photo: The oak hall of the Kaiser Wilhelm Academy in Berlin, a room finished in wood. It does not show the study or finding the slide names.",
+     "credit": "Photo: MB-one, CC BY-SA 3.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Eichensaal_2016.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Illustrative photo: A 19th century classroom in Auckland, New Zealand, with wooden benches, a piano and a blackboard. It does not show the study or finding the slide names.",
+     "credit": "Photo: Jorge Royan, CC BY-SA 3.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:19th_century_classroom,_Auckland_-_0767.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Illustrative photo: A modern building under construction. It does not show the study or finding the slide names.",
+     "credit": "Photo: Kwameghana, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:A_modern_building_under_construction.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustrative photo: Sweden's tallest wooden building under construction, seen at about the eighth floor. It does not show the study or finding the slide names.",
+     "credit": "Photo: Topplanternin, CC BY-SA 3.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Swedens_tallest_wooden-house_under_construction_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustrative photo: An aerial view over forest habitat, taken by the U.S. Fish and Wildlife Service. It does not show the study or finding the slide names.",
+     "credit": "Photo: Tupper Ansel Blake, USFWS, Public domain, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Aerial_photography_of_forest_habitat.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Illustrative photo: A harvester working in Kielder Forest, Northumberland, England. It does not show certified timber or the study the slide names.",
+     "credit": "Photo: The Boy that time forgot, CC BY-SA 3.0 + GFDL, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Timber_harvesting_in_Kielder_Forest.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Illustrative photo: Exposed laminated veneer lumber, cross-laminated timber and steel structure in the lobby of a building in Helsinki, Finland. It does not show the study or finding the slide names.",
+     "credit": "Photo: Aarni Salomaa, CC BY 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:20230630_Structure_of_Katajanokan_Laituri_-_Helsinki,_Suomi,_Finland.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Illustrative photo: Interior of the Seinäjoki city library in Finland, a public building. It does not show the study or finding the slide names.",
+     "credit": "Photo: Santeri Viinamäki, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Interior_of_Sein%C3%A4joki_library_20190509.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Illustrative photo: Interior of Kamppi Chapel in Helsinki, Finland, a quiet room lined in wood, with a few visitors seen from a distance. It does not show the study or finding the slide names.",
+     "credit": "Photo: Fileri, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Kampin_kappeli_20141222.jpg",
+     "card": false
+    }
+   ]
+  }
+ ]
+}
