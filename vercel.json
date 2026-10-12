@@ -106,5 +106,20 @@
       "source": "/hub",
       "destination": "/hub/index.html"
     }
+  ],
+  "headers": [
+    {
+      "source": "/cal/(.*)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/calendar; charset=utf-8"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    }
   ]
 }
