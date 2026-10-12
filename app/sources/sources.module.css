@@ -24,3 +24,5 @@
 .originLabel{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--lime)}
 .originTitle{font-size:22px;line-height:1.3}
 .origin .host{opacity:.8}
+
+.note{margin:18px 0 0;padding:12px 16px;border-left:3px solid var(--line, currentColor);font-size:16px;line-height:1.5;max-width:680px}

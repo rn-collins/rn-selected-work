@@ -113,7 +113,7 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 
 ## RN Collins sources pages (one account per package family)
 
-- [x] `/sources/<account>/<slug>` (eleven accounts: `ddw26`, `venues`, `makers`, `editions`, `ddw27`, `dda`, `htw`, `ioo`, `polymath`, `fatnugs`, `clr`; for example `/sources/ddw26/s100`) lists the article, the sources and every slide image with its credit and record link. Ask a Neuroscientist keeps `/sources/<mon-dd>` and `data/aan-sources.json`, untouched.
+- [x] `/sources/<account>/<slug>` (thirteen accounts: `ddw26`, `venues`, `makers`, `editions`, `ddw27`, `dda`, `htw`, `ioo`, `polymath`, `fatnugs`, `clr`, `kbyg`, `jbd`; for example `/sources/ddw26/s100`) lists the article, the sources and every slide image with its credit and record link. Ask a Neuroscientist keeps `/sources/<mon-dd>` and `data/aan-sources.json`, untouched.
 - [x] `/sources/<account>` lists each post from its posting day on, in Europe/Amsterdam time (rebuilt daily). Pages exist ahead of time so the address printed on a slide works on posting day.
 - [x] Data is generated, not hand-kept: `data/sources-<account>.json` comes from `render-kit/sources_export_ours.py`, with the same cleaning rules as the Ask a Neuroscientist export. Slugs are id-based (they do not change when a post is rescheduled).
 - [x] Each page opens with RN's article in The Polymath: the newsletter's subscribe page until the issue exists, then the issue address.
@@ -121,6 +121,7 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] Every sources page and account index links to RN Selected Work itself (a line under the title and a block at the end: home, selected work index, all sources).
 - [x] `/sources` links to every account index (the only change to the Ask a Neuroscientist page; its addresses and behavior are unchanged).
 - [ ] Refresh the maker, edition and Dutch Design Awards pages when their essays are rewritten (deep essays supply the sources where they exist).
+- [x] Takeover packages (Oct 11, 2026): 155 pages from `scripts/export_takeover_sources.py` and `scripts/takeover-references.json` (references only, from each package's dossier and slide table). `/sources/polymath/pm-rnc-01` to `pm-rnc-15` (15, added to the existing Polymath account; `pm-01` to `pm-15` unchanged), `/sources/museum/<id>` (47 Exhibit in Progress packages, each noting the Inspiration Hawaiʻi Museum partnership) and `/sources/film/<id>` (93: FC, HF, PC, BR, OH, HF2, carrying RN's partnership disclosure where the package does). Dates come from the master calendar; eight museum packages without one have pages but are not listed. A reference with no public copy is listed without a link.
 
 ## Essay pages (noindex until RN flips one flag)
 
