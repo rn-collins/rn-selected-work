@@ -103,16 +103,16 @@
     },
     {
      "where": "Slide 6",
-     "what": "Aerial view from a helicopter of the Za'atri refugee camp in Jordan, with rows of shelters stretching across the desert toward the horizon.",
-     "credit": "Photo: U.S. Department of State, Public domain, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_the_Za'atri_Refugee_Camp.jpg",
+     "what": "Satellite view of the Za'atari refugee camp in Jordan on February 25, 2016: a dense grid of shelters in a rounded block, with roads, farm fields and desert around it.",
+     "credit": "Photo: Planet Labs, Inc., CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Zaatari_Refugee_Camp,_Jordan_by_Planet_Labs.jpg",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Tents and shelters of a camp for Malian refugees in Mauritania, in the Sahel: white tents behind a brushwood fence on sandy ground under a clear sky, with a few people at mid-distance.",
-     "credit": "Photo: Magharebia, CC BY 2.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Civilians_caught_between_Mali_terrorists,_troops_-_%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86_%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%88%D9%86_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%8A%D9%86_%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D9%81%D9%8A_%D9%85%D8%A7%D9%84%D9%8A_-_Des_civils_pris_entre_les_terroristes_et_l'arm%C3%A9e_au_Mali_(8492052285).jpg",
+     "what": "Figure 13 of Al-Shoubaki and colleagues, A Human-Centered Shelter Design for People on the Move in the Al-Sahel Region (Sustainability, 2024): drawings of the proposed hexagonal shelter unit with a courtyard, in three options with two, three and four shelters.",
+     "credit": "Source: Sustainability, CC BY 4.0, CC BY 4.0, Sustainability (MDPI); copy from the FHNW repository",
+     "url": "https://doi.org/10.3390/su16209127",
      "card": false
     },
     {
@@ -124,9 +124,9 @@
     },
     {
      "where": "Slide 9",
-     "what": "Illustrative photo: A participant wearing an EEG cap sits at the left of a lab setup facing a computer screen during a brain-computer interface experiment. It does not show the study or findings the slide names.",
-     "credit": "Photo: Laurens R. Krol, CC BY 4.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Brain-computer_interface_experiment.jpg",
+     "what": "Page 1 of Valentine, Steffert, Mitcheltree and Steemers, Architectural Neuroimmunology: A Pilot Study Examining the Impact of Biophilic Architectural Design on Neuroinflammation (Buildings, 2024): the title, authors and abstract, which reports ten participants, lower relative delta power with more biophilic design, and no significant change in relative alpha power.",
+     "credit": "Source: Buildings (MDPI), CC BY 4.0, CC BY 4.0, Buildings (MDPI); copy from the University of Cambridge repository (Apollo)",
+     "url": "https://doi.org/10.3390/buildings14051292",
      "card": false
     },
     {
@@ -138,9 +138,9 @@
     },
     {
      "where": "Slide 11",
-     "what": "Illustrative photo: Rush-hour traffic with motorcycles and buses on a busy street lined with buildings in Ho Chi Minh City, Vietnam. It does not show the study, place or finding the slide names.",
-     "credit": "Photo: Steffen Schmitz, CC BY-SA 4.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City,_Nguyen_Thi_Minh_Khai_Street,_2020-01_CN-01.jpg",
+     "what": "Page 1 of Valentine, Architectural Allostatic Overloading: Exploring a Connection between Architectural Form and Allostatic Overloading (International Journal of Environmental Research and Public Health, 2023): the title and abstract, which says there is yet to be a study of stress-inducing architectural features and allostatic load and advises a longitudinal public health study.",
+     "credit": "Source: IJERPH (MDPI), CC BY 4.0, CC BY 4.0, International Journal of Environmental Research and Public Health (MDPI); copy from the University of Cambridge repository (Apollo)",
+     "url": "https://doi.org/10.3390/ijerph20095637",
      "card": false
     },
     {
@@ -404,16 +404,16 @@
     },
     {
      "where": "Slide 4",
-     "what": "Illustrative photo: an elevated view over a canal in Delft, the Netherlands, with houses and trees along the water. It does not show the study, place or finding the slide names.",
-     "credit": "Photo: Jane023, CC BY-SA 3.0 + GFDL, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Delft_canal_from_rooftop_student_house.JPG",
+     "what": "Page 1 of Gascon and colleagues, Mental Health Benefits of Long-Term Exposure to Residential Green and Blue Spaces: A Systematic Review (International Journal of Environmental Research and Public Health, 2015): the title, authors and the start of the abstract, which says 28 studies were included.",
+     "credit": "Source: IJERPH (MDPI), CC BY 4.0, CC BY 4.0, International Journal of Environmental Research and Public Health (MDPI); copy from the University of Barcelona repository",
+     "url": "https://doi.org/10.3390/ijerph120404354",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustrative photo: a lone walker far along a forest trail between tall trees. It does not show the study, place or finding the slide names.",
-     "credit": "Photo: Hortus2000, CC BY-SA 4.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:For%C3%AAt_domaniale_de_Desvres_Sentier_GR.jpg",
+     "what": "A paved walking path running up green grassland hills at the Stanford Dish near Stanford University in California, with one walker far in the distance and the radio telescope on the horizon.",
+     "credit": "Photo: Deodandem, CC BY-SA 4.0, Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Stanford_Dish_Road.jpg",
      "card": false
     },
     {
@@ -561,9 +561,9 @@
     },
     {
      "where": "Slide 3",
-     "what": "A hazy aerial view over Phoenix, Arizona, with the street grid of the city stretching to the horizon; the file is titled Downtown Phoenix and Sky Harbor.",
-     "credit": "Photo: Atomic Taco, CC BY-SA 2.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Downtown_Phoenix_and_Sky_Harbor_(8917108741).jpg",
+     "what": "The National Weather Service Phoenix page Historical Extreme Temperatures in Phoenix, Yuma, and El Centro: a table in which the Phoenix column lists the longest stretch of 100 degree days as 113 (May 27 to September 16, 2024) and of 110 degree days as 31 (June 30 to July 30, 2023).",
+     "credit": "Source: NWS Phoenix (weather.gov), Public domain (US government work), National Weather Service, NOAA",
+     "url": "https://www.weather.gov/psr/ExtremeTemps",
      "card": false
     },
     {
@@ -596,9 +596,9 @@
     },
     {
      "where": "Slide 8",
-     "what": "Illustrative photo: an elevated view of Central Park in Manhattan in summer, with dense tree canopy and lawns beside the surrounding city blocks. It does not show the study sites or findings the slide names.",
-     "credit": "Photo: Andreas aka, CC BY-SA 4.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:20210628_180407_United_States_of_America_-_New_York_-_Manhattan_-_Central_Park.jpg",
+     "what": "Page 1 of Aram, Higueras Garcia, Solgi and Mansournia, Urban green space cooling effect in cities (Heliyon, 2019): the title and abstract, which reports the greatest cooling distance and intensity for large urban parks of more than 10 hectares.",
+     "credit": "Source: Heliyon, CC BY 4.0, CC BY 4.0, Heliyon (Elsevier); copy from the UPM digital archive",
+     "url": "https://doi.org/10.1016/j.heliyon.2019.e01339",
      "card": false
     },
     {
@@ -617,9 +617,9 @@
     },
     {
      "where": "Slide 11",
-     "what": "Illustrative photo: a planted stormwater bioswale at Vera Katz Park in Portland, Oregon. It is a park bioswale, not one of the city's Green Streets curb extensions the slide names.",
-     "credit": "Photo: brx0, CC BY-SA 2.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Bioswale,_vera_katz_park_(2492235537).jpg",
+     "what": "The City of Portland page for Binding City Policy ENB-4.19, Green Streets Policy and Green Streets Cross-Bureau Phase 2 Report, showing its title and the first findings, which say 60 to 70 percent of Portland stormwater comes from paved streets and runoff directed from private property.",
+     "credit": "Source: City of Portland, ENB-4.19, City of Portland public web page captured October 11, 2026; no reuse licence found; shown as a cited public document and credited to the issuing body, City of Portland, Oregon",
+     "url": "https://www.portland.gov/policies/environment-built/sewer-stormwater-erosion-control/enb-419-green-streets-policy-and-green",
      "card": false
     },
     {
