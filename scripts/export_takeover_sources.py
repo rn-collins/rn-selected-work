@@ -9,6 +9,8 @@ Reads, from RN_COLLINS_v3.19/docs:
   obama_film/series_posts/{BR,OH,HF2}-*  -> data/sources-film.json           /sources/film/<id>
   RW3000_master_calendar_Oct2026-Mar2027.xlsx for each post's first feed date (a slot line in the package
   is the fallback; a package with neither gets date "" and is not listed until it has one).
+  Backup copies beside the packages (NAME.pre-<pass>.md) are skipped. An entry marked "standby": true in
+  takeover-references.json always gets date "" (a page, but unlisted until it is scheduled).
 
 The reference lists themselves (research, other, images) are in scripts/takeover-references.json: one entry per
 package, taken only from the package's dossier, its slide table and (museum) the image credits copied from each
@@ -43,9 +45,11 @@ def packages(docs):
               ("film", "obama_film/posts/*.md"), ("film", "obama_film/series_posts/*-[0-9]*_*.md")]
     for account, pattern in groups:
         for f in sorted(glob.glob(os.path.join(docs, pattern))):
-            pid = os.path.basename(f).split("_")[0]
-            if pid == "MUS-HOLDS":
+            name = os.path.basename(f)
+            # Backups sit beside each package (NAME.pre-<pass>.md); only the live NAME.md is read.
+            if name[:-3].count(".") or name.startswith("MUS-HOLDS"):
                 continue
+            pid = name.split("_")[0]
             yield account, pid, open(f, encoding="utf-8").read()
 
 
@@ -105,7 +109,9 @@ def main():
             problems.append(f"{pid}: no entry in takeover-references.json")
             continue
         series, origin, note = shell(account, pid, text)
-        post = {"slug": pid.lower(), "date": first_date(pid, text, rows), "id": pid, "title": title_of(text),
+        # A standby package gets a page with no date, so it is not listed until it is scheduled.
+        date = "" if r.get("standby") else first_date(pid, text, rows)
+        post = {"slug": pid.lower(), "date": date, "id": pid, "title": title_of(text),
                 "series": series, "origin": origin,
                 "research": [{"label": x["label"], "url": x.get("url", "")} for x in r.get("research", [])],
                 "other": [{"label": x["label"], "url": x.get("url", "")} for x in r.get("other", [])],
