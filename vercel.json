@@ -100,5 +100,11 @@
       "destination": "/sources/ddw26/s129",
       "permanent": true
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/hub",
+      "destination": "/hub/index.html"
+    }
   ]
 }
