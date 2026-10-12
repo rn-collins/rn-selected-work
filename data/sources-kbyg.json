@@ -383,9 +383,9 @@
   },
   {
    "slug": "kb05",
-   "date": "2026-11-24",
+   "date": "2026-11-21",
    "id": "KB05",
-   "title": "CHS and the ER recognition gap",
+   "title": "CHS and the ER Recognition Gap",
    "series": "Know Before You Grow",
    "origin": null,
    "research": [
@@ -394,7 +394,7 @@
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446638/"
     },
     {
-     "label": "Johns Hopkins All Children's Hospital, Cannabinoid Hyperemesis Syndrome Clinical Pathway",
+     "label": "Johns Hopkins All Children's Hospital, Cannabinoid Hyperemesis Syndrome Clinical Pathway (August 2025; read from an Internet Archive copy dated September 16, 2026)",
      "url": "https://www.hopkinsmedicine.org/-/media/files/allchildrens/clinical-pathways/chs_pathway-2025-08-18.pdf"
     },
     {
@@ -406,17 +406,13 @@
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4874760/"
     },
     {
-     "label": "Habboushe J, Sedor J. Cannabinoid hyperemesis acute renal failure. Am J Emerg Med 2014;32(6):690.e1-2 (abstract, via Europe PMC)",
-     "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:24418446%20AND%20SRC:MED&resultType=core&format=json"
-    },
-    {
      "label": "Simonetto DA, Oxentenko AS, Herman ML, Szostek JH. Cannabinoid Hyperemesis: A Case Series of 98 Patients. Mayo Clin Proc 2012;87(2):114-119",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3538402/"
     }
    ],
    "other": [
     {
-     "label": "Hawaii Department of Health, OMCCR, Hawai'i Medical Cannabis Newsletter, October 2024",
+     "label": "Hawaii Department of Health, OMCCR, Hawaiʻi Medical Cannabis Newsletter, October 2024",
      "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/10/OMCCR-October-2024-Newsletter.pdf"
     },
     {
@@ -428,11 +424,114 @@
      "url": "https://health.hawaii.gov/cannabisinsights/resources-for-clinical-practice/"
     },
     {
-     "label": "Hawaii Department of Health, OMCCR, Hawai'i Medical Cannabis Newsletter, August 2025",
+     "label": "Hawaii Department of Health, OMCCR, Hawaiʻi Medical Cannabis Newsletter, August 2025",
      "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/08/August-2025-Newsletter.pdf"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR, Resources for Patients page",
+     "url": "https://health.hawaii.gov/cannabisinsights/resources-for-patients/"
     }
    ],
-   "images": []
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The title and summary box of the CDC report in MMWR, “Trends in Emergency Department Visits Involving Cannabis Hyperemesis Syndrome Identified Using a New Diagnosis Code,” as shown on its PubMed Central page.",
+     "credit": "Source: CDC, MMWR 2026;75(30), PMC page",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446638/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The Limitations section of the MMWR report, which says that identifying cannabis hyperemesis syndrome relies on clinician recognition and documentation and in part on patient self-report of cannabis use.",
+     "credit": "Source: CDC, MMWR 2026;75(30), PMC page",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446638/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The Syndrome Definition and Data Classification section of the MMWR report, which says the new code R11.16 began on October 1, 2025, and that earlier counts combined cyclical vomiting or nonspecific emesis codes with a cannabis-related code.",
+     "credit": "Source: CDC, MMWR 2026;75(30), PMC page",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446638/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Figure 1 of the MMWR report, a line graph of the monthly proportion of emergency department visits involving cannabis hyperemesis syndrome from January 2023 to May 2026, flat until a marked rise at the new code, with its caption.",
+     "credit": "Source: CDC, MMWR 2026;75(30), Figure 1",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446638/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The Results section of the MMWR report, with the average monthly proportion of 11.97 per 10,000 emergency visits after the code, 3.7 times the earlier average of 3.19, and the start of Figure 1.",
+     "credit": "Source: CDC, MMWR 2026;75(30), PMC page",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446638/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "The first paragraph of the Discussion section of the MMWR report, which says the abrupt, sustained increase likely reflects improved clinical recognition and coding rather than a true and immediate rise in incidence.",
+     "credit": "Source: CDC, MMWR 2026;75(30), PMC page",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446638/",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Figure 2 of the MMWR report, line graphs of CHS emergency visit proportions by age group, sex, and race and ethnicity, with the new code marked on each graph.",
+     "credit": "Source: CDC, MMWR 2026;75(30), Figure 2",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446638/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The Case presentation section of a Cureus case report, which says the patient reported at least four earlier emergency room visits for similar complaints and had been diagnosed with acute gastritis and viral gastrointestinal illnesses.",
+     "credit": "Source: Bellamy et al., Cureus 2023, CC BY",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9974265/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The Implications for Public Health Practice section of the MMWR report, which says clinicians can consider CHS in the differential diagnosis and routinely assess cannabis use, including frequency, duration, product type and route of use.",
+     "credit": "Source: CDC, MMWR 2026;75(30), PMC page",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446638/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "The Cannabis Hyperemesis Syndrome list on the Hawaiʻi Department of Health Cannabis Use Risks page: nausea and vomiting, stomach pain, frequent cannabis use, hot showers for relief, dehydration risk, symptoms may return, medical care may be needed.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR risks page",
+     "url": "https://health.hawaii.gov/cannabisinsights/cannabis-use-risks/",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "The Cannabis Clinical Screening Tools and Assessments list on the Hawaiʻi Department of Health clinician page, with an entry for Cannabis Hyperemesis Syndrome described as a clinical resource to help identify symptoms and guide patient education and referral.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR clinician page",
+     "url": "https://health.hawaii.gov/cannabisinsights/resources-for-clinical-practice/",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Page 5 of the Hawaiʻi Department of Health October 2024 newsletter, with its Cannabis Hyperemesis Syndrome box and the line to seek medical help or call 911. The crop stops above the page footer.",
+     "credit": "Source: Hawaiʻi DOH, October 2024, p. 5",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/10/OMCCR-October-2024-Newsletter.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "The Be safe box on page 3 of the Hawaiʻi Department of Health August 2025 newsletter, which says cannabinoid-based products should not be used to treat nausea or vomiting due to pregnancy or cannabinoid hyperemesis syndrome. The crop leaves out the page illustration.",
+     "credit": "Source: Hawaiʻi DOH, August 2025, p. 3",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/08/August-2025-Newsletter.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "The Hawaiʻi Department of Health Resources for Patients page, which says meeting with a healthcare provider who has completed medical cannabis education is advisable, with its note that the specialist list is for information only and is not an endorsement.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR patients page",
+     "url": "https://health.hawaii.gov/cannabisinsights/resources-for-patients/",
+     "card": false
+    }
+   ]
   },
   {
    "slug": "kb23",
@@ -580,6 +679,148 @@
      "what": "Illustrative photo: a cream building with a green roof and arched openings beside a waterway, with palm trees and two tall towers behind, titled Hawaii State Library on Wikimedia Commons. A disclaimer has no physical subject.",
      "credit": "Photo: Teemu008",
      "url": "https://commons.wikimedia.org/wiki/File:Hawaii_State_Library_(15046208991).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "kb25",
+   "date": "2026-12-06",
+   "id": "KB25",
+   "title": "CBD, Cannabis and Transplant Drugs: Where the Guidance Stops",
+   "series": "Know Before You Grow",
+   "origin": null,
+   "research": [
+    {
+     "label": "So GC, Lu JBL, Koyama S, et al. A Phase I Trial of the Pharmacokinetic Interaction Between Cannabidiol and Tacrolimus. Clin Pharmacol Ther 2025;117(3):716-723",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11835423/"
+    },
+    {
+     "label": "Hauser N, et al. High on Cannabis and Calcineurin Inhibitors: A Word of Warning in an Era of Legalized Marijuana. Case Rep Transplant 2016;2016:4028492",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4993910/"
+    },
+    {
+     "label": "FDA-approved labeling for PROGRAF (tacrolimus), DailyMed set id 7f667de1-9dfa-4bd6-8ba0-15ee2d78873b (label version published March 21, 2025)",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/7f667de1-9dfa-4bd6-8ba0-15ee2d78873b.xml"
+    },
+    {
+     "label": "FDA-approved labeling for EPIDIOLEX (cannabidiol), DailyMed set id 8bf27097-4870-43fb-94f0-f3d0871d1eec (revised 7/2025)",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/8bf27097-4870-43fb-94f0-f3d0871d1eec.xml"
+    },
+    {
+     "label": "Ilonze OJ, et al. Cannabis use and heart transplant listing: A survey of clinician practices. PLoS One 2024;19(12):e0310778",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11637330/"
+    },
+    {
+     "label": "Yau MTK, Hussaini T, Yoshida EM. Review of liver transplantation candidacy and outcomes among patients who use cannabis. Can Liver J 2023;6(2):269-277",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10370722/"
+    },
+    {
+     "label": "Hauser N, et al. Corrigendum to High on Cannabis and Calcineurin Inhibitors. Case Rep Transplant 2018;2018:7095846",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6146556/"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii Department of Health, OMCCR, Hawaiʻi Medical Cannabis Newsletter, November 2024 (page 3)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/05/OMCCR-November-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR, Hawaiʻi Medical Cannabis Newsletter, August 2025 (page 4, Act 241 summary)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/08/August-2025-Newsletter.pdf"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR, Hawaiʻi Medical Cannabis Newsletter, September 2024, page 3",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/09/OMCCR-September-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Hawaii Session Laws 2025, Act 241 (H.B. 302), section 2",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2025/SLH2025_Act241.pdf"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Page 1 of the FDA-approved tacrolimus label down to its Recent Major Changes box, which lists Warnings and Precautions, Cannabidiol Drug Interactions (5.17), August 2023. The dosing table below is left out.",
+     "credit": "Source: FDA label (DailyMed), p. 1",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f667de1-9dfa-4bd6-8ba0-15ee2d78873b",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Page 6 of the tacrolimus label, General Administration Instructions, ending with “Therapeutic drug monitoring (TDM) is recommended for all patients receiving PROGRAF.” The dosage tables below it are left out.",
+     "credit": "Source: FDA label (DailyMed), p. 6",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f667de1-9dfa-4bd6-8ba0-15ee2d78873b",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The text of section 5.17, Cannabidiol Drug Interactions, at the top of page 16 of the tacrolimus label: when cannabidiol and tacrolimus are co-administered, closely monitor for an increase in blood levels and for adverse reactions, and consider a dose reduction as needed.",
+     "credit": "Source: FDA label (DailyMed), p. 16",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f667de1-9dfa-4bd6-8ba0-15ee2d78873b",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Page 14 of the FDA-approved cannabidiol oral solution label, the paragraph on orally administered P-gp substrates such as sirolimus, tacrolimus and digoxin, which says to consider therapeutic drug monitoring and dosage reduction.",
+     "credit": "Source: FDA label (DailyMed), p. 14",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8bf27097-4870-43fb-94f0-f3d0871d1eec",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The correction notice, abstract and introduction of a 2016 case report in Case Reports in Transplantation on suspected tacrolimus toxicity in a transplant patient who used oral marijuana, as shown on its PubMed Central page.",
+     "credit": "Source: Hauser et al., 2016, CC BY",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4993910/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "The first page of a 2024 PLOS ONE survey of heart transplant clinicians, from its abstract down, which begins “No consensus exists for heart transplant listing for patients who use cannabis,” with its Creative Commons licence note.",
+     "credit": "Source: Ilonze et al., PLOS ONE, CC BY",
+     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310778",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Page 3 of the Hawaiʻi Department of Health November 2024 newsletter, Possible Cannabinoid to Drug Interactions, with its table of example drug groups: anesthesia, antidepressants, antiepileptic medications, antifungal medications, antipsychotics, blood pressure medications, blood thinners, opioids, and sedatives and sleep medications.",
+     "credit": "Source: Hawaiʻi DOH, November 2024, p. 3",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/05/OMCCR-November-2024-Newsletter.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Page 4 of the Hawaiʻi Department of Health August 2025 newsletter, the Act 241 summary, with the bullet saying OMCCR is authorized to inspect certifying medical providers’ records, including evaluating potential drug interactions with cannabis. The crop stops above the sample cards.",
+     "credit": "Source: Hawaiʻi DOH, August 2025, p. 4",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/08/August-2025-Newsletter.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The top of page 3 of the Hawaiʻi Department of Health September 2024 newsletter, which says the certifying provider’s opinion rests on a relationship that should include a comprehensive review of the patient’s medical history and current medications, citing rule 11-160-2.",
+     "credit": "Source: Hawaiʻi DOH, September 2024, p. 3",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/09/OMCCR-September-2024-Newsletter.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Page 13 of the tacrolimus label, section 5.5 Nephrotoxicity due to PROGRAF and Drug Interactions, which says drugs that inhibit CYP3A can raise tacrolimus blood levels and the risk of kidney harm.",
+     "credit": "Source: FDA label (DailyMed), p. 13",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f667de1-9dfa-4bd6-8ba0-15ee2d78873b",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "The foot of page 3 of the Hawaiʻi Department of Health November 2024 newsletter, with the end of the interactions table and the Key Takeaways box: talk to your healthcare provider, and tell your provider before surgery if you use cannabis.",
+     "credit": "Source: Hawaiʻi DOH, November 2024, p. 3",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/05/OMCCR-November-2024-Newsletter.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Page 1 of the FDA-approved cannabidiol oral solution label, down to the start of its Indications and Usage box. The dosing text below is left out.",
+     "credit": "Source: FDA label (DailyMed), p. 1",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8bf27097-4870-43fb-94f0-f3d0871d1eec",
      "card": false
     }
    ]
@@ -778,70 +1019,13 @@
    ]
   },
   {
-   "slug": "kb25",
-   "date": "2026-12-22",
-   "id": "KB25",
-   "title": "Cannabis and transplant medicine",
-   "series": "Know Before You Grow",
-   "origin": null,
-   "research": [
-    {
-     "label": "So GC, Lu JBL, Koyama S, et al. A Phase I Trial of the Pharmacokinetic Interaction Between Cannabidiol and Tacrolimus. Clin Pharmacol Ther 2025;117(3):716-723",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11835423/"
-    },
-    {
-     "label": "Leino AD, et al. Evidence of a clinically significant drug-drug interaction between cannabidiol and tacrolimus. Am J Transplant 2019;19(10):2944-2948 (abstract via Europe PMC)",
-     "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31012522%20AND%20SRC:MED&resultType=core&format=json"
-    },
-    {
-     "label": "Hauser N, et al. High on Cannabis and Calcineurin Inhibitors: A Word of Warning in an Era of Legalized Marijuana. Case Rep Transplant 2016;2016:4028492",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4993910/"
-    },
-    {
-     "label": "FDA-approved labeling for PROGRAF (tacrolimus), DailyMed set id 7f667de1-9dfa-4bd6-8ba0-15ee2d78873b (label version published March 21, 2025)",
-     "url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/7f667de1-9dfa-4bd6-8ba0-15ee2d78873b.xml"
-    },
-    {
-     "label": "FDA-approved labeling for EPIDIOLEX (cannabidiol), DailyMed set id 8bf27097-4870-43fb-94f0-f3d0871d1eec (revised 7/2025)",
-     "url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/8bf27097-4870-43fb-94f0-f3d0871d1eec.xml"
-    }
-   ],
-   "other": [
-    {
-     "label": "Ilonze OJ, et al. Cannabis use and heart transplant listing: A survey of clinician practices. PLoS One 2024;19(12):e0310778",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11637330/"
-    },
-    {
-     "label": "Yau MTK, Hussaini T, Yoshida EM. Review of liver transplantation candidacy and outcomes among patients who use cannabis. Can Liver J 2023;6(2):269-277",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10370722/"
-    },
-    {
-     "label": "Hawaii Department of Health, OMCCR, Hawai'i Medical Cannabis Newsletter, November 2024 (page 3)",
-     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/05/OMCCR-November-2024-Newsletter.pdf"
-    },
-    {
-     "label": "Hawaii Department of Health, OMCCR, Hawai'i Medical Cannabis Newsletter, August 2025 (page 4, Act 241 summary)",
-     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/08/August-2025-Newsletter.pdf"
-    }
-   ],
-   "images": []
-  },
-  {
    "slug": "kb24",
-   "date": "2027-01-04",
+   "date": "2026-12-17",
    "id": "KB24",
-   "title": "Hawaii Patients Can Shape the Science",
+   "title": "Hawaiʻi Patients Can Shape the Science",
    "series": "Know Before You Grow",
    "origin": null,
    "research": [
-    {
-     "label": "Cannabis and Health Research Initiative, The National Cannabis Study",
-     "url": "https://www.cannabisandhealth.org/national-cannabis-study/"
-    },
-    {
-     "label": "Realm of Caring Foundation, Observational Research Registry",
-     "url": "https://realmofcaring.org/observational-research-registry/"
-    },
     {
      "label": "ClinicalTrials.gov record NCT06418204 (COSMIC)",
      "url": "https://clinicaltrials.gov/study/NCT06418204"
@@ -849,12 +1033,28 @@
     {
      "label": "Taira DA, et al., Representation of Native Hawaiian and Pacific Islander Individuals in Clinical Trials, JAMA Netw Open 2024;7(10):e2442204",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11522938/"
+    },
+    {
+     "label": "U.S. Department of Health and Human Services, 45 CFR part 46 (Code of Federal Regulations, October 1, 2024 edition), sections 46.109 and 46.116",
+     "url": "https://www.govinfo.gov/content/pkg/CFR-2024-title45-vol1/pdf/CFR-2024-title45-vol1-part46.pdf"
+    },
+    {
+     "label": "42 U.S.C. 241(d), Protection of privacy of individuals who are research subjects (United States Code, 2023 edition)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title42/pdf/USCODE-2023-title42-chap6A-subchapII-partA-sec241.pdf"
     }
    ],
    "other": [
     {
+     "label": "Cannabis and Health Research Initiative, The National Cannabis Study",
+     "url": "https://www.cannabisandhealth.org/national-cannabis-study/"
+    },
+    {
      "label": "Cannabis and Health Research Initiative, National Cannabis Study Participant Privacy",
      "url": "https://www.cannabisandhealth.org/national-cannabis-study/participant-privacy/"
+    },
+    {
+     "label": "Realm of Caring Foundation, Observational Research Registry",
+     "url": "https://realmofcaring.org/observational-research-registry/"
     },
     {
      "label": "National Cancer Institute, clinical trial search page for NCI-2024-03314",
@@ -865,7 +1065,7 @@
      "url": "https://health.hawaii.gov/cannabisinsights/resources-for-clinical-practice/"
     },
     {
-     "label": "Hawaii Department of Health, OMCCR, Hawai'i Medical Cannabis Newsletter, September/October 2025",
+     "label": "Hawaii Department of Health, OMCCR, Hawaiʻi Medical Cannabis Newsletter, September/October 2025",
      "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/10/Sep-Oct-2025-Newsletter-V3.pdf"
     },
     {
@@ -873,7 +1073,7 @@
      "url": "https://grants.nih.gov/policy/humansubjects/coc.htm"
     },
     {
-     "label": "Hawaii Department of Health, OMCCR, Rapid survey among Hawai'i medical cannabis patients and providers on the potential effects of legalization of adult use",
+     "label": "Hawaii Department of Health, OMCCR, Rapid survey among Hawaiʻi medical cannabis patients and providers on the potential effects of legalization of adult use",
      "url": "https://health.hawaii.gov/medicalcannabis/files/2022/08/Medical-Cannabis-Patient-and-Provider-Survey-July-2022.pdf"
     },
     {
@@ -883,9 +1083,112 @@
     {
      "label": "SAMHSA, 2023-2024 NSDUH Model-Based Prevalence Estimates (50 States and the District of Columbia), Table 3",
      "url": "https://www.samhsa.gov/data/sites/default/files/reports/rpt56957/2024-nsduh-sae-tables-percent-csvs/2024-nsduh-sae-tables-percent.pdf"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR, Resources for Patients page",
+     "url": "https://health.hawaii.gov/cannabisinsights/resources-for-patients/"
     }
    ],
-   "images": []
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Join a Cannabis Research Study section of the Hawaiʻi Department of Health Resources for Patients page, which invites residents to two national studies with Johns Hopkins Medicine and the Realm of Caring.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR patients page",
+     "url": "https://health.hawaii.gov/cannabisinsights/resources-for-patients/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The Key Points of a 2024 JAMA Network Open study, Representation of Native Hawaiian and Pacific Islander Individuals in Clinical Trials, with its question and findings about the 10 drug products studied.",
+     "credit": "Source: Taira et al., JAMA Netw Open 2024",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11522938/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The Limitations paragraph on page 7 of the Department of Health July 2022 rapid survey report, which says the surveys used convenience sampling with opt-in participation, so the results do not represent the medical use program patient and provider populations.",
+     "credit": "Source: Hawaiʻi DOH, 2022 survey, p. 7",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/08/Medical-Cannabis-Patient-and-Provider-Survey-July-2022.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The Medical cannabis research section of the Hawaiʻi Department of Health clinician page, the entry saying residents who are beginning medical cannabis use and are cannabis-naive are invited to enroll in the National Cannabis Study.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR clinician page",
+     "url": "https://health.hawaii.gov/cannabisinsights/resources-for-clinical-practice/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The entry on the Hawaiʻi Department of Health Resources for Patients page inviting residents who already use cannabis or hemp to enroll in the Realm of Caring Observational Research Registry, which will not collect lab samples.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR patients page",
+     "url": "https://health.hawaii.gov/cannabisinsights/resources-for-patients/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Page 2 of the Hawaiʻi Department of Health September/October 2025 newsletter, Join a National Cancer Study, which says there are currently 12 clinics in Hawaiʻi in a clinical trial with the National Cancer Institute, with the trial identifier NCI-2024-03314.",
+     "credit": "Source: Hawaiʻi DOH, Sep/Oct 2025, p. 2",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/10/Sep-Oct-2025-Newsletter-V3.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Section 46.109 of 45 CFR part 46, IRB review of research, which says an IRB shall review and have authority to approve, require modifications in, or disapprove all research activities covered by the policy.",
+     "credit": "Source: 45 CFR part 46, GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/CFR-2024-title45-vol1/pdf/CFR-2024-title45-vol1-part46.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Section 46.116(b) of 45 CFR part 46, items 5 to 8, which list the basic elements of informed consent, including the extent to which confidentiality of records identifying the subject will be maintained and whom to ask with questions.",
+     "credit": "Source: 45 CFR part 46, GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/CFR-2024-title45-vol1/pdf/CFR-2024-title45-vol1-part46.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Section 46.116(b)(9) of 45 CFR part 46, which requires a statement that identifiers might be removed and the information used for future research or distributed to another investigator, or a statement that it will not be.",
+     "credit": "Source: 45 CFR part 46, GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/CFR-2024-title45-vol1/pdf/CFR-2024-title45-vol1-part46.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Section 46.116(b)(8) of 45 CFR part 46, which requires a statement that participation is voluntary, refusal involves no penalty or loss of benefits, and the subject may discontinue participation at any time.",
+     "credit": "Source: 45 CFR part 46, GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/CFR-2024-title45-vol1/pdf/CFR-2024-title45-vol1-part46.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Subsection (d) of 42 U.S.C. 241, Protection of privacy of individuals who are research subjects, which says the Secretary shall issue a certificate of confidentiality for federally funded research and bars disclosure of identifiable, sensitive information to people not connected with the research, with listed exceptions.",
+     "credit": "Source: 42 U.S.C. 241(d), GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title42/pdf/USCODE-2023-title42-chap6A-subchapII-partA-sec241.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Page 4 of the Department of Health July 2022 rapid survey report, with the sentence that about 10 percent of the 34,200 registered patients responded and the findings on patient and provider concerns.",
+     "credit": "Source: Hawaiʻi DOH, 2022 survey, p. 4",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/08/Medical-Cannabis-Patient-and-Provider-Survey-July-2022.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "The start of section 46.116(a) of 45 CFR part 46, general requirements for informed consent, which says an investigator shall obtain the legally effective informed consent of the subject before involving them in research covered by the policy.",
+     "credit": "Source: 45 CFR part 46, GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/CFR-2024-title45-vol1/pdf/CFR-2024-title45-vol1-part46.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "The top of page 2 of the Hawaiʻi Department of Health September/October 2025 newsletter, Considering cannabis? Here’s what to do, with advice for patients to talk with their care team before starting cannabis and to review all current medications.",
+     "credit": "Source: Hawaiʻi DOH, Sep/Oct 2025, p. 2",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/10/Sep-Oct-2025-Newsletter-V3.pdf",
+     "card": false
+    }
+   ]
   },
   {
    "slug": "kb19",
@@ -1484,6 +1787,1413 @@
      "what": "Page of Hawaii Revised Statutes section 515-3, Discriminatory practices, with paragraph (9) requiring reasonable accommodations in rules and policies for a person with a disability",
      "credit": "Source: Hawaii State Legislature",
      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol12_Ch0501-0588/HRS0515/HRS_0515-0003.htm?crop=2",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "kbr08",
+   "date": "2027-01-29",
+   "id": "KBR08",
+   "title": "Finding a Certifying Provider in Hawaiʻi",
+   "series": "Know Before You Grow",
+   "origin": null,
+   "research": [],
+   "other": [
+    {
+     "label": "Hawaii Department of Health, OMCCR, Hawaiʻi Medical Cannabis Newsletter, September 2024, pages 3 and 4",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/09/OMCCR-September-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR, Find a Medical Provider page",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/find-a-medical-provider/"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR, Bona Fide Physician/APRN-Patient Relationship page",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/providers/patient-relationship/"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR, Medical Providers Fees page",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/fees/"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR, In-State Patient Application page",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/application-information/"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR, Resources for Patients page",
+     "url": "https://health.hawaii.gov/cannabisinsights/resources-for-patients/"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR, specialist list file linked from the Resources for Patients page",
+     "url": "https://health.hawaii.gov/cannabisinsights/files/2026/06/InDevelopment.pdf"
+    },
+    {
+     "label": "Hawaii Department of Health, OMCCR, Guidance for Hawaii Medical Providers: Telehealth Certification for Medical Cannabis Patients (issued September 18, 2025)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/09/Telehealth-Requirements.pdf"
+    },
+    {
+     "label": "Hawaii Session Laws 2025, Act 241 (H.B. 302), sections 1, 3, 5 and 6",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2025/SLH2025_Act241.pdf"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The top of page 4 of the Hawaiʻi Department of Health September 2024 newsletter, What to Expect from Your Certifying Medical Provider, with the note that the Department does not endorse any providers and the first two items providers shared.",
+     "credit": "Source: Hawaiʻi DOH, September 2024, p. 4",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/09/OMCCR-September-2024-Newsletter.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The top of the Hawaiʻi Department of Health page on the bona fide physician or APRN and patient relationship, with the heading and the list of requirements for certifying providers.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR provider page",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/providers/patient-relationship/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The Hawaiʻi Department of Health Find a Medical Provider page, with its four statements that the Department does not control the information, does not endorse the providers, cannot ensure they meet the legal requirements and is not responsible for messages from them.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR providers page",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/find-a-medical-provider/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The Find a Medical Cannabis Specialist entry on the Hawaiʻi Department of Health Resources for Patients page, with its disclaimer that the list is for information only, is not exhaustive and does not constitute endorsement.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR patients page",
+     "url": "https://health.hawaii.gov/cannabisinsights/resources-for-patients/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Page 4 of Act 241, Session Laws of Hawaiʻi 2025, with section 5 saying nothing under the part requires that the bona fide relationship be established by an initial in-person consultation, and the start of section 6 on telehealth.",
+     "credit": "Source: Session Laws 2025, Act 241, p. 4",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2025/SLH2025_Act241.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Page 1 of the OMCCR guidance on telehealth certification, items 1 and 2, Provider Location and Standard of Care, including that providers must be physically located in the State of Hawaiʻi.",
+     "credit": "Source: Hawaiʻi DOH, telehealth guidance",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/09/Telehealth-Requirements.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The requirements list on the Hawaiʻi Department of Health bona fide relationship page, including individual assessments for each patient, being physically located in Hawaiʻi, and that relying solely on an online questionnaire does not meet the standard of care.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR provider page",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/providers/patient-relationship/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Page 4 of the Hawaiʻi Department of Health September 2024 newsletter, the items on appointment preparation, comprehensive evaluation, patient education and regulatory guidance that certifying providers shared. The items on dosing and the question list are left out.",
+     "credit": "Source: Hawaiʻi DOH, September 2024, p. 4",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/09/OMCCR-September-2024-Newsletter.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The Hawaiʻi Department of Health Medical Providers Fees page, which says the certification fee under Act 241 is capped at three times the state registration fee and that providers must tell patients the fees before the evaluation.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR fees page",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/fees/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Page 3 of the Hawaiʻi Department of Health September 2024 newsletter, the certifying medical provider’s responsibilities, including the line “Assess patients in person (telehealth available for renewals with the same certifying medical provider).”",
+     "credit": "Source: Hawaiʻi DOH, September 2024, p. 3",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/09/OMCCR-September-2024-Newsletter.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "The application process on the Hawaiʻi Department of Health In-State Patient Application page, step 1, schedule an appointment with a certifying medical provider, which says initial applicants can create the relationship by an in-person or telehealth appointment.",
+     "credit": "Source: Hawaiʻi DOH, application page",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/application-information/",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Page 2 of the OMCCR guidance on telehealth certification, Best Practices, which includes providing clear instructions regarding dosage, administration and follow-up care. No amounts appear.",
+     "credit": "Source: Hawaiʻi DOH, guidance, p. 2",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/09/Telehealth-Requirements.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "The page that OMCCR’s specialist list link opens on October 11, 2026, which reads “This page is under development.” The crop shows only the page title.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR, June 2026 file",
+     "url": "https://health.hawaii.gov/cannabisinsights/files/2026/06/InDevelopment.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Page 1 of Act 241, Session Laws of Hawaiʻi 2025, section 1, the legislative findings, which say access to medical cannabis remains challenging because of limited access to medical providers and administrative delays.",
+     "credit": "Source: Session Laws 2025, Act 241, p. 1",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2025/SLH2025_Act241.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "kbr01",
+   "date": "2027-02-08",
+   "id": "KBR01",
+   "title": "Who Sees Your Cannabis Record",
+   "series": "Know Before You Grow",
+   "origin": null,
+   "research": [
+    {
+     "label": "Hawaii Administrative Rules chapter 11-850, Medical Cannabis Dispensaries, interim rules effective December 6, 2024 (sections 11-850-33, 40, 41, 61, 151)",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2024/12/Ch11-850_InterimRules_12-6-2024-1.pdf"
+    },
+    {
+     "label": "Hawaii Administrative Rules chapter 11-160, Medical Use of Cannabis (registry rules), compilation of February 25, 2019, section 11-160-56",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2023/01/2019-11-160-Administrative-Rules.pdf"
+    },
+    {
+     "label": "Code of Federal Regulations, 45 CFR part 160 (sections 160.102 and 160.103), 2025 edition (revised as of October 1, 2025)",
+     "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title45-vol2/pdf/CFR-2025-title45-vol2-part160.pdf"
+    },
+    {
+     "label": "HRS section 329-124 (insurance not applicable) and section 329-131 (prescription and pharmacy requirements not applicable)",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0124.htm"
+    },
+    {
+     "label": "HRS section 329-124 (second page)",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0131.htm"
+    },
+    {
+     "label": "HRS section 329D-6, Dispensary operations (subsections (b), (f), (j), (k))",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0006.htm"
+    },
+    {
+     "label": "HRS section 329D-13, Dispensing limits (subsection (b))",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0013.htm"
+    },
+    {
+     "label": "HRS section 329D-20, Law enforcement access to dispensary and production center records",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0020.htm"
+    },
+    {
+     "label": "HRS section 329-123 (registration; law enforcement inquiry) and section 329-123.2 (inspection of patient medical records)",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0123.htm"
+    },
+    {
+     "label": "HRS section 329-123 (second page)",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0123_0002.htm"
+    },
+    {
+     "label": "HRS section 329D-21, Revocation and suspension of licenses (subsection (b))",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0021.htm"
+    },
+    {
+     "label": "HRS section 329D-19, alteration or falsification of medical cannabis dispensary records",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0019.htm"
+    },
+    {
+     "label": "HRS sections 92F-13 and 92F-14 (Uniform Information Practices Act: exceptions; significant privacy interest)",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092F/HRS_0092F-0014.htm"
+    },
+    {
+     "label": "HRS sections 92F-13 and 92F-14 (second page)",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092F/HRS_0092F-0013.htm"
+    },
+    {
+     "label": "The Constitution of the State of Hawaii (Legislative Reference Bureau text), Article I section 6",
+     "url": "https://lrb.hawaii.gov/constitution/"
+    },
+    {
+     "label": "HRS sections 487N-1 and 487N-2 (security breach of personal information)",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol11_Ch0476-0490/HRS0487N/HRS_0487N-0001.htm"
+    },
+    {
+     "label": "HRS sections 487N-1 and 487N-2 (second page)",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol11_Ch0476-0490/HRS0487N/HRS_0487N-0002.htm"
+    },
+    {
+     "label": "Drug Enforcement Administration, \"Schedules of Controlled Substances: Rescheduling of Food and Drug Administration Approved Products Containing Marijuana From Schedule I to Schedule III; Corresponding Change to Permit Requirements,\" final rule, 91 Fed. Reg. 22714 (April 28, 2026)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08176.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "OMCCR, Hawaiʻi Medical Cannabis Newsletter, September 2024, page 5 (\"Guide to Understanding Patient Privacy\")",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/09/OMCCR-September-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Centers for Medicare & Medicaid Services, \"Are You a Covered Entity?\"",
+     "url": "https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/covered-entities"
+    },
+    {
+     "label": "OMCCR, Laws and Rules page",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Part of page 5 of OMCCR's September 2024 newsletter. It says that while a medical cannabis dispensary may not be subject to HIPAA laws, Hawaiʻi Administrative Rules section 11-850-40 requires every dispensary to safeguard and keep confidential any personally identifying information and the medical condition of a patient.",
+     "credit": "Source: Hawaiʻi DOH, Sept. 2024, p. 5",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/submenu/medical-cannabis-updates/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Part of a page of the dispensary rules, Hawaii Administrative Rules chapter 11-850, section 11-850-33. A retail dispensing location must require a government-issued photo identification and a registration card before entry and must record the name and entry and exit time of every person who enters.",
+     "credit": "Source: HAR 11-850-33, Hawaiʻi DOH",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Part of 45 CFR 160.103 in the 2025 Code of Federal Regulations. It defines a covered entity as a health plan, a health care clearinghouse, or a health care provider who transmits health information electronically in connection with a covered transaction.",
+     "credit": "Source: 45 CFR 160.103, 2025 ed., p. 627",
+     "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title45-vol2/pdf/CFR-2025-title45-vol2-part160.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The text of Hawaii Revised Statutes section 329-131, as printed from the saved web page. It says the prescription requirements of section 329-38 and the board of pharmacy licensure rules do not apply to the medical use of cannabis.",
+     "credit": "Source: HRS 329-131",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0131.htm",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Page 850-48 of the dispensary rules, Hawaii Administrative Rules chapter 11-850, section 11-850-40, Confidentiality of information. It says a dispensary licensee shall safeguard and keep confidential any personally identifying information and the medical condition of a qualifying patient.",
+     "credit": "Source: HAR 11-850-40, Hawaiʻi DOH",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Part of page 5 of OMCCR's September 2024 newsletter. It says OMCCR does not share a patient's qualifying conditions with dispensaries, and that the 329 card registration number, name and date of birth are verified at a dispensary.",
+     "credit": "Source: Hawaiʻi DOH, Sept. 2024, p. 5",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/submenu/medical-cannabis-updates/",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Part of page 850-60 of the dispensary rules, section 11-850-61(b) and (c). A dispensary shall track electronically all sales to patients from all dispensaries in the State and have a sales system that blocks sales over the legal limits and cannot be overridden manually.",
+     "credit": "Source: HAR 11-850-61, Hawaiʻi DOH",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The start of Hawaii Administrative Rules section 11-160-56, Confidential information; exceptions. It says information the department keeps to administer the chapter is confidential except to employees and agents of the department, law enforcement, people with a court order, and others on a list.",
+     "credit": "Source: HAR 11-160-56, Hawaiʻi DOH",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The text of Hawaii Revised Statutes section 329D-20, Law enforcement access to dispensary and production center records, as printed from the saved web page.",
+     "credit": "Source: HRS 329D-20",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0020.htm",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "The definition of personal information in Hawaii Revised Statutes section 487N-1, as printed from the saved web page: a name combined with a Social Security number, a driver's license or Hawaii identification card number, or a financial account number with an access code.",
+     "credit": "Source: HRS 487N-1",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol11_Ch0476-0490/HRS0487N/HRS_0487N-0001.htm",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "A column of page 22715 of the Federal Register of April 28, 2026, in the Drug Enforcement Administration final rule that places FDA-approved products and marijuana subject to a state medical marijuana license in schedule III and sets up an expedited registration process.",
+     "credit": "Source: 91 Fed. Reg. 22715 (Apr. 28, 2026)",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08176/",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Part of the CMS web page Are You a Covered Entity, as printed from the saved copy. It says providers who submit HIPAA transactions, like claims, electronically are covered, and lists doctors, clinics, dentists and pharmacies as examples.",
+     "credit": "Source: CMS, covered entities page",
+     "url": "https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/covered-entities",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "The start of section 11-850-151, Remedies, in the dispensary rules. It says the director may serve a notice of violation and an order that can require a violator to stop, pay an administrative penalty and submit a corrective action plan.",
+     "credit": "Source: HAR 11-850-151, Hawaiʻi DOH",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Part of OMCCR's Laws and Rules web page, as printed from the saved copy. It lists Chapter 11-160, the registry rules, and the Chapter 11-850 interim rules for dispensaries effective December 6, 2024.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR, Laws and Rules",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "kbr03",
+   "date": "2027-04-03",
+   "id": "KBR03",
+   "title": "Inhaled Residue",
+   "series": "Know Before You Grow",
+   "origin": null,
+   "research": [
+    {
+     "label": "Hawaii Administrative Rules chapter 11-850, Medical Cannabis Dispensaries, interim rules effective December 6, 2024 (sections 11-850-129, 131, 135 and 151)",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2024/12/Ch11-850_InterimRules_12-6-2024-1.pdf"
+    },
+    {
+     "label": "HRS section 329D-8, Laboratory standards and testing; laboratory certification",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0008.htm"
+    },
+    {
+     "label": "21 U.S.C. 346a, Tolerances and exemptions for pesticide chemical residues, United States Code, 2024 edition",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title21/html/USCODE-2024-title21-chap9-subchapIV-sec346a.htm"
+    },
+    {
+     "label": "7 U.S.C. 136j, Unlawful acts (FIFRA section 12), United States Code, 2024 edition",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title7/html/USCODE-2024-title7-chap6-subchapII-sec136j.htm"
+    },
+    {
+     "label": "EPA, \"Cannabis Status Update,\" Pesticide Program Dialogue Committee meeting, November 1, 2017, session 5",
+     "url": "https://www.epa.gov/sites/default/files/2017-10/documents/session-5-cannabis-status-update.pdf"
+    },
+    {
+     "label": "EPA letter to the Colorado Department of Agriculture, \"Special Local Needs Registration for pesticide uses for legal marijuana production in Colorado,\" May 19, 2015",
+     "url": "https://www.epa.gov/sites/default/files/2016-01/documents/epa_letter_to_cda_5-19-15_slns_for_marijuana.pdf"
+    },
+    {
+     "label": "EPA, \"EPA Establishes First Pesticide Tolerance for Hemp\"",
+     "url": "https://www.epa.gov/pesticides/epa-establishes-first-pesticide-tolerance-hemp"
+    },
+    {
+     "label": "Hawaii Department of Agriculture, Pesticides Branch, \"Criteria for Pesticides Used in the Production of Medical Marijuana in the State of Hawaii\" (Jan. 2017), posted version",
+     "url": "https://dab.hawaii.gov/pi/files/2013/01/Guidance-for-Medical-Marijuana-Jan2017b.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "EPA, \"Regulation of Pesticide Residues on Food\" (\"Pesticides Have Different Tolerances for Different Foods\")",
+     "url": "https://www.epa.gov/pesticide-tolerances"
+    },
+    {
+     "label": "EPA, Pesticide Registration Manual: Chapter 11, Tolerance Petitions",
+     "url": "https://www.epa.gov/pesticide-registration/pesticide-registration-manual-chapter-11-tolerance-petitions"
+    },
+    {
+     "label": "Hawaii Department of Agriculture (Agriculture and Biosecurity), Pesticides Branch page",
+     "url": "https://dab.hawaii.gov/pi/pest/"
+    },
+    {
+     "label": "OMCCR, Hawaiʻi Medical Cannabis Newsletter, July 2024, page 4 (Understand how to read a Certificate of Analysis)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/08/OMCCR-July-2024-Newsletter.pdf"
+    },
+    {
+     "label": "OMCCR, Hawaiʻi Medical Cannabis Newsletter, December 2024, page 1 (Know Before You Grow, Part 4)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/05/OMCCR-December-2024-Newsletter.pdf"
+    },
+    {
+     "label": "OMCCR, Hawaiʻi Medical Cannabis Newsletter, October 2024, page 3 (outdoor growing)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/10/OMCCR-October-2024-Newsletter.pdf"
+    },
+    {
+     "label": "OMCCR, Know Before You Grow deck (Kona, March 7, 2026), slides 9 and 77",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2026/03/KNOW-BEFORE-YOU-GROW.pdf"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Part of page 850-110 of the dispensary rules, Hawaii Administrative Rules section 11-850-135. It lists heavy metal limits in Table 3 and then says pesticides listed in Table 4 each have a limit of 1.0 parts per million.",
+     "credit": "Source: HAR 11-850-135, Hawaiʻi DOH",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The start of 21 U.S.C. section 346a in the 2024 United States Code. Paragraph (a)(1) says a pesticide chemical residue in or on a food shall be deemed unsafe unless a tolerance is in effect and the residue is within its limits, or an exemption from the tolerance requirement is in effect.",
+     "credit": "Source: 21 U.S.C. 346a, 2024 ed.",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title21/pdf/USCODE-2024-title21-chap9-subchapIV-sec346a.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Part of EPA's Regulation of Pesticide Residues on Food web page, printed from the saved copy. It says EPA sets tolerances, which are the maximum amount of a pesticide allowed to remain in or on a food.",
+     "credit": "Source: EPA, pesticide residues on food",
+     "url": "https://www.epa.gov/pesticide-tolerances",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Part of 21 U.S.C. section 346a in the 2024 United States Code, the determination of safety. Safe means a reasonable certainty that no harm will result from aggregate exposure, including all anticipated dietary exposures and all other exposures for which there is reliable information.",
+     "credit": "Source: 21 U.S.C. 346a(b), 2024 ed.",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title21/pdf/USCODE-2024-title21-chap9-subchapIV-sec346a.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Part of an EPA slide, Cannabis Status Update, from the November 1, 2017 Pesticide Program Dialogue Committee meeting. It says there are no pesticides registered by EPA specifically for use on marijuana and no tolerances established for marijuana or hemp.",
+     "credit": "Source: EPA, PPDC, Nov. 1, 2017",
+     "url": "https://www.epa.gov/sites/default/files/2017-10/documents/session-5-cannabis-status-update.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Part of 7 U.S.C. section 136j in the 2024 United States Code. Item (G) makes it unlawful to use any registered pesticide in a manner inconsistent with its labeling.",
+     "credit": "Source: 7 U.S.C. 136j, 2024 ed.",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title7/pdf/USCODE-2024-title7-chap6-subchapII-sec136j.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The top of the Hawaii Department of Agriculture Pesticides Branch document, Criteria for Pesticides Used in the Production of Medical Marijuana in the State of Hawaii, January 2017. It says no products are registered for use on marijuana with EPA or the department and lists requirements for a product that may be used. The page is cut short so that no email address appears.",
+     "credit": "Source: HDOA Pesticides Branch, Jan. 2017",
+     "url": "https://dab.hawaii.gov/pi/pest/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Part of page 1 of EPA's May 19, 2015 letter to the Colorado Department of Agriculture. It lists five similar-use criteria, including use on food and use on tobacco in order to have a pyrolysis study of breakdown products formed when treated plant material is burned.",
+     "credit": "Source: EPA letter, May 19, 2015, p. 1",
+     "url": "https://www.epa.gov/sites/default/files/2016-01/documents/epa_letter_to_cda_5-19-15_slns_for_marijuana.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Page 850-111 of the dispensary rules, the start of Table 4 in section 11-850-135. It lists pesticides alphabetically from abamectin with their Chemical Abstracts Service registry numbers.",
+     "credit": "Source: HAR 11-850-135, Table 4",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Part of section 11-850-135(h) of the dispensary rules. It says if any limit is exceeded the dispensary shall not dispense the nonconforming batch, and it lists what may be remediated: heavy metals, foreign or extraneous material, microbial contaminants, mycotoxins and water activity.",
+     "credit": "Source: HAR 11-850-135(h), Hawaiʻi DOH",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Part of page 4 of OMCCR's July 2024 newsletter, a sample certificate of analysis. A callout says all pesticides that are tested are listed and points to Hawaii administrative rules 11-850-135. The page is cut short so that no email address appears.",
+     "credit": "Source: Hawaiʻi DOH, July 2024, p. 4",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/submenu/medical-cannabis-updates/",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Part of page 1 of OMCCR's December 2024 newsletter, Know Before You Grow Part 4, with the outdoor pest management bullets. One says to avoid spraying flower buds with pesticides, even organic ones, and to wash buds after harvesting if you do spray.",
+     "credit": "Source: Hawaiʻi DOH, Dec. 2024, p. 1",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/submenu/medical-cannabis-updates/",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Part of Hawaii Revised Statutes section 329D-8, as printed from the saved web page. Item (3) says the department shall review and take guidance from the testing programs and standards for pesticides under the regulations of the United States Environmental Protection Agency.",
+     "credit": "Source: HRS 329D-8",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0008.htm",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Part of the Hawaii Department of Agriculture and Biosecurity Pesticides Branch web page, printed from the saved copy. It lists a notice about chlorpyrifos and a link to guidance on pesticide use on medical marijuana, dated January 2017.",
+     "credit": "Source: Hawaiʻi Pesticides Branch page",
+     "url": "https://dab.hawaii.gov/pi/pest/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "kbr05",
+   "date": "2027-04-17",
+   "id": "KBR05",
+   "title": "Matching Patients and Growers",
+   "series": "Know Before You Grow",
+   "origin": null,
+   "research": [
+    {
+     "label": "Act 46, Session Laws of Hawaii 2025 (S.B. 1429), A Bill for an Act Relating to Medical Cannabis",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2025/SLH2025_Act46.pdf"
+    },
+    {
+     "label": "Hawaii Revised Statutes section 329-121: Definitions",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0121.htm"
+    },
+    {
+     "label": "Hawaii Revised Statutes section 329-123: Registration requirements; qualifying patients; primary caregivers",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0123.htm"
+    },
+    {
+     "label": "Hawaii Administrative Rules chapter 11-160 (2019 compilation), section 11-160-56: Confidential information; exceptions",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2023/01/2019-11-160-Administrative-Rules.pdf"
+    },
+    {
+     "label": "The Constitution of the State of Hawaii (Legislative Reference Bureau text): Article I, section 6",
+     "url": "https://lrb.hawaii.gov/constitution/"
+    },
+    {
+     "label": "Hawaii Revised Statutes section 92F-14: Significant privacy interest; examples",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092F/HRS_0092F-0014.htm"
+    }
+   ],
+   "other": [
+    {
+     "label": "OMCCR Registry page: Laws and Rules",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/"
+    },
+    {
+     "label": "OMCCR Registry page: Growing Cannabis",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/growing-cannabis/"
+    },
+    {
+     "label": "OMCCR guidance: Caregiver Updates (2 pages)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/08/Caregiver-Cultivation-Updates-Final.pdf"
+    },
+    {
+     "label": "OMCCR page: Executive Order No. 24-06 guidance (Guidance Regarding Medical Cannabis Primary Caregivers)",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/05/Executive-Order-No.-24-06-Guidance-Regarding-Medical-Cannabis-Primary-Caregivers.pdf"
+    },
+    {
+     "label": "Medical Cannabis (329) Registry Program data report, as of August 31, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2026/09/August-2026-Report_Valid.pdf"
+    },
+    {
+     "label": "Office of Information Practices: FAQ, Access to Government Records",
+     "url": "https://ags.hawaii.gov/oip/basic-qa-on-access-to-government-records/"
+    },
+    {
+     "label": "OMCCR Registry page: Find a Medical Provider",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/find-a-medical-provider/"
+    },
+    {
+     "label": "OMCCR public presentation: Know Before You Grow (Kona, March 7, 2026), PDF",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2026/03/KNOW-BEFORE-YOU-GROW.pdf"
+    },
+    {
+     "label": "OMCCR patient guide: How to Start and Submit an In-State Patient Application (18 pages)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2026/09/PATIENT-GUIDE-In-State-New-Patient-Registration.pdf"
+    },
+    {
+     "label": "OMCCR Registry page: Patient Forms and Resources",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/329-forms/"
+    },
+    {
+     "label": "OMCCR Registry page: New Patient Registry Website",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/new-patient-registry-website/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Office of Medical Cannabis Control and Regulation page titled Growing Cannabis, with its section on who can legally grow medical cannabis in Hawaii: a dispensary, a primary caregiver or a qualifying patient.",
+     "credit": "Source: OMCCR page, captured Oct. 11, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/growing-cannabis/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The first page of Act 46, Session Laws of Hawaii 2025, S.B. No. 1429, where the first section says some patients may not be able to grow because of limitations such as disability or lack of space.",
+     "credit": "Source: Session Laws 2025, Act 46, p. 1",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2025/SLH2025_Act46.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The definitions section of the medical use of cannabis law, Hawaii Revised Statutes 329-121, including the definition of primary caregiver.",
+     "credit": "Source: HRS 329-121, page Oct. 11, 2026",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0121.htm",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The first page of the Department of Health's August 2026 registry data report, with the in-state patient data box showing patients with a valid registration, applications issued, caregiver totals and physician and APRN totals.",
+     "credit": "Source: OMCCR, data report Aug. 2026, p. 1",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2026/09/August-2026-Report_Valid.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Page 2 of Act 46, with section 3 amending the caregiver rule from one patient to not more than five patients and section 4 on authorized sources of medical cannabis.",
+     "credit": "Source: Session Laws 2025, Act 46, p. 2",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2025/SLH2025_Act46.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Page 160-41 of chapter 11-160 of the Hawaii Administrative Rules, where subchapter 9 on confidentiality of information begins with section 11-160-56 and the first exceptions.",
+     "credit": "Source: Hawaiʻi DOH, HAR 11-160, p. 160-41",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2023/01/2019-11-160-Administrative-Rules.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The next page of section 11-160-56, with the remaining exceptions for dispensary system licensees and others deemed necessary by the Department, and the line that the Department may publish non-identifying aggregated data or statistics.",
+     "credit": "Source: Hawaiʻi DOH, HAR 11-160, p. 160-42",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2023/01/2019-11-160-Administrative-Rules.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Hawaii Revised Statutes section 92F-14, significant privacy interest, examples, with item (1) on information about medical, psychiatric or psychological history, diagnosis, condition, treatment or evaluation.",
+     "credit": "Source: HRS 92F-14, page Oct. 11, 2026",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092F/HRS_0092F-0014.htm",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The Office of Medical Cannabis Control and Regulation page titled Find a Medical Provider, with the Department's notice that the provider list is not exhaustive and is provided for information and convenience.",
+     "credit": "Source: OMCCR page, captured Oct. 11, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/find-a-medical-provider/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "A slide from OMCCR's Know Before You Grow presentation listing how to select cultivars, including a bullet to talk to other patients, caregivers and cultivators because cannabis is community.",
+     "credit": "Source: OMCCR deck, slide 18, Mar. 7, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2026/03/KNOW-BEFORE-YOU-GROW.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "A page of OMCCR's September 2026 guide to the in-state patient application, on grow site information, where the patient chooses patient or caregiver for who controls the grow site and who will be growing.",
+     "credit": "Source: OMCCR, patient guide, p. 12",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2026/09/PATIENT-GUIDE-In-State-New-Patient-Registration.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "The first page of OMCCR's Caregiver Updates guidance, with the overview of Act 46, the registration requirements for primary caregivers and the authorized sources of medical cannabis.",
+     "credit": "Source: OMCCR, Caregiver Updates, p. 1",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2025/08/Caregiver-Cultivation-Updates-Final.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "OMCCR's guidance page on Executive Order No. 24-06, which says the order was signed on December 30, 2024 and orders the office to de-prioritize investigation of minor violations by primary caregivers.",
+     "credit": "Source: Hawaiʻi OMCCR, EO 24-06 guidance",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/05/Executive-Order-No.-24-06-Guidance-Regarding-Medical-Cannabis-Primary-Caregivers.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "The Office of Information Practices page of basic questions and answers on access to government records, with the list of records the law does not require the government to disclose.",
+     "credit": "Source: Hawaiʻi OIP page, Oct. 11, 2026",
+     "url": "https://ags.hawaii.gov/oip/basic-qa-on-access-to-government-records/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "kbr02",
+   "date": "2027-04-25",
+   "id": "KBR02",
+   "title": "No Organic Seal for Cannabis",
+   "series": "Know Before You Grow",
+   "origin": null,
+   "research": [
+    {
+     "label": "Hawaii Administrative Rules chapter 11-850, Medical Cannabis Dispensaries, interim rules effective December 6, 2024, section 11-850-143 (Labeling for retail sale), subsection (g)",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2024/12/Ch11-850_InterimRules_12-6-2024-1.pdf"
+    },
+    {
+     "label": "7 U.S.C. 6502 (definitions) and 6503 (national organic production program), United States Code, 2024 edition",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title7/html/USCODE-2024-title7-chap94-sec6503.htm"
+    },
+    {
+     "label": "7 U.S.C. 6502 (second page)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title7/html/USCODE-2024-title7-chap94-sec6502.htm"
+    },
+    {
+     "label": "7 CFR part 205 (National Organic Program), 2025 edition (revised as of January 1, 2025): sections 205.2, 205.100, 205.101, 205.671",
+     "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title7-vol3/pdf/CFR-2025-title7-vol3-part205.pdf"
+    },
+    {
+     "label": "USDA Agricultural Marketing Service, National Organic Program, Instruction NOP 2040 Revision 04, Organic Certification of Industrial Hemp Production",
+     "url": "https://www.ams.usda.gov/sites/default/files/media/NOP%202040%20Hemp%20Instruction.pdf"
+    },
+    {
+     "label": "21 U.S.C. 802 (definitions, paragraph 16) and 21 U.S.C. 812 (schedules of controlled substances, schedule I(c)), United States Code, 2024 edition",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title21/html/USCODE-2024-title21-chap13-subchapI-partB-sec812.htm"
+    },
+    {
+     "label": "21 U.S.C. 802 (second page)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title21/html/USCODE-2024-title21-chap13-subchapI-partA-sec802.htm"
+    },
+    {
+     "label": "Drug Enforcement Administration, \"Schedules of Controlled Substances: Rescheduling of Food and Drug Administration Approved Products Containing Marijuana From Schedule I to Schedule III; Corresponding Change to Permit Requirements,\" final rule, 91 Fed. Reg. 22714 (April 28, 2026)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08176.pdf"
+    },
+    {
+     "label": "Drug Enforcement Administration, \"Schedules of Controlled Substances: Rescheduling of Marijuana,\" notice of hearing on proposed rulemaking, 91 Fed. Reg. 22777 (April 28, 2026)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08177.pdf"
+    },
+    {
+     "label": "California Department of Food and Agriculture, OCal Cannabis Certification Program page",
+     "url": "https://www.cdfa.ca.gov/is/ocal.html"
+    },
+    {
+     "label": "HRS section 329D-8, Laboratory standards and testing; laboratory certification, subsection (a)(5)",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0008.htm"
+    }
+   ],
+   "other": [
+    {
+     "label": "USDA Agricultural Marketing Service, Hemp Production Program, Frequently Asked Questions",
+     "url": "https://www.ams.usda.gov/rules-regulations/hemp/frequently-asked-questions-faq"
+    },
+    {
+     "label": "USDA AMS, National Organic Program Handbook, table of contents",
+     "url": "https://www.ams.usda.gov/sites/default/files/media/ProgramHandbk_TOC.pdf"
+    },
+    {
+     "label": "Morgan Lewis LawFlash, \"High Time for a Change? Post-DEA Hearing, Broader Marijuana Rescheduling Questions Remain\" (law firm alert; secondary source)",
+     "url": "https://www.morganlewis.com/pubs/2026/09/high-time-for-a-change-post-dea-hearing-broader-marijuana-rescheduling-questions-remain"
+    },
+    {
+     "label": "OMCCR, Know Before You Grow deck (Kona, March 7, 2026), slide 52, \"What does “organic” mean?\"",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2026/03/KNOW-BEFORE-YOU-GROW.pdf"
+    },
+    {
+     "label": "OMCCR, Hawaiʻi Medical Cannabis Newsletter, October 2024, page 2",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/10/OMCCR-October-2024-Newsletter.pdf"
+    },
+    {
+     "label": "OMCCR, Hawaiʻi Medical Cannabis Newsletter, December 2024, page 1 (Know Before You Grow, Part 4)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/05/OMCCR-December-2024-Newsletter.pdf"
+    },
+    {
+     "label": "California Department of Food and Agriculture, \"Introducing the California Department of Food and Agriculture's OCal Program\" (flyer)",
+     "url": "https://www.cdfa.ca.gov/calcannabis/documents/Introduction_to_the_OCal_Program_Flyer.pdf"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Part of a page of the dispensary rules, Hawaii Administrative Rules section 11-850-143. Subsection (g) says a dispensary licensee shall not label as organic any cannabis or manufactured cannabis product unless permitted by the United States Department of Agriculture in accordance with the Organic Foods Production Act.",
+     "credit": "Source: HAR 11-850-143, Hawaiʻi DOH",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/general-information/marijuana-laws-and-related-documents/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Part of 7 CFR section 205.2 in the 2025 Code of Federal Regulations. The definition says organic is a labeling term that refers to an agricultural product produced in accordance with the Act and the regulations in this part.",
+     "credit": "Source: 7 CFR 205.2, 2025 ed., p. 405",
+     "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title7-vol3/pdf/CFR-2025-title7-vol3-part205.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The start of 7 CFR section 205.100, What has to be certified. It says each operation that produces or handles agricultural products intended to be sold, labeled or represented as organic must be certified, except for exempt operations.",
+     "credit": "Source: 7 CFR 205.100, 2025 ed.",
+     "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title7-vol3/pdf/CFR-2025-title7-vol3-part205.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Part of 7 U.S.C. section 6502 in the 2024 United States Code. Paragraph (1) defines agricultural product as any agricultural commodity or product, raw or processed, marketed in the United States for human or livestock consumption.",
+     "credit": "Source: 7 U.S.C. 6502, 2024 ed.",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title7/pdf/USCODE-2024-title7-chap94-sec6502.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Part of USDA's National Organic Program instruction NOP 2040, effective November 26, 2019. The policy section says only hemp produced under the U.S. Domestic Hemp Production Program or the 2014 Farm Bill may be certified as organic, if produced under the organic regulations.",
+     "credit": "Source: USDA AMS, NOP 2040 (2019)",
+     "url": "https://www.ams.usda.gov/sites/default/files/media/NOP%202040%20Hemp%20Instruction.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Part of the USDA Agricultural Marketing Service hemp FAQ, printed from the saved web page. The answer says the legal difference between hemp and marijuana is the amount of THC, and that a hemp license cannot be used to produce medical or recreational marijuana.",
+     "credit": "Source: USDA AMS, hemp FAQ",
+     "url": "https://www.ams.usda.gov/rules-regulations/hemp/frequently-asked-questions-faq",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Part of 21 U.S.C. section 812 in the 2024 United States Code. Schedule I includes item 10, marihuana, and item 17, tetrahydrocannabinols, except for tetrahydrocannabinols in hemp.",
+     "credit": "Source: 21 U.S.C. 812, 2024 ed.",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title21/pdf/USCODE-2024-title21-chap13-subchapI-partB-sec812.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Part of page 22719 of the Federal Register of April 28, 2026, in the Drug Enforcement Administration final rule. It says any form of marijuana other than an FDA-approved drug product or marijuana subject to a state medical marijuana license remains a schedule I controlled substance.",
+     "credit": "Source: 91 Fed. Reg. 22719 (Apr. 28, 2026)",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08176/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Part of slide 52 of the Know Before You Grow deck hosted by the Hawaii Office of Medical Cannabis Control and Regulation, cropped to the USDA organic seal and its caption: Federal Cert, but cannabis is still federally illegal, no cert. Part of a photo of a cup of compost tea is also visible.",
+     "credit": "Source: Hawaiʻi DOH, OMCCR deck, slide 52",
+     "url": "https://health.hawaii.gov/medicalcannabis/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Part of the California Department of Food and Agriculture OCal Cannabis Certification Program page, printed from the saved copy. It says only the National Organic Program can authorize the word organic and that cannabis products are not eligible for the organic designation.",
+     "credit": "Source: CDFA, OCal page",
+     "url": "https://www.cdfa.ca.gov/is/ocal.html",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Part of page 2 of OMCCR's October 2024 newsletter, in the Nutrients paragraph. It says to use organic nutrients and pesticides, whenever possible, to minimize toxic chemicals in your medical cannabis.",
+     "credit": "Source: Hawaiʻi DOH, Oct. 2024, p. 2",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/submenu/medical-cannabis-updates/",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Part of the Federal Register notice of April 28, 2026, page 22777, in which the Drug Enforcement Administration sets a hearing on the proposed rescheduling of marijuana to begin June 29, 2026 and to conclude not later than July 15, 2026.",
+     "credit": "Source: 91 Fed. Reg. 22777 (Apr. 28, 2026)",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08177/",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Part of the USDA Agricultural Marketing Service hemp FAQ, printed from the saved web page. It answers whether hemp produced under the domestic hemp program may qualify for organic certification: it may, under USDA organic regulations.",
+     "credit": "Source: USDA AMS, hemp FAQ (organic)",
+     "url": "https://www.ams.usda.gov/rules-regulations/hemp/frequently-asked-questions-faq",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Part of 7 U.S.C. section 6503, National organic production program, in the 2024 United States Code. Subsection (a) says the Secretary shall establish an organic certification program for producers and handlers of agricultural products produced using organic methods.",
+     "credit": "Source: 7 U.S.C. 6503, 2024 ed.",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title7/pdf/USCODE-2024-title7-chap94-sec6503.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "kbr04",
+   "date": "2027-08-01",
+   "id": "KBR04",
+   "title": "The Lab Rules",
+   "series": "Know Before You Grow",
+   "origin": null,
+   "research": [
+    {
+     "label": "Hawaii Revised Statutes section 329D-8: Laboratory standards and testing; laboratory certification",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0008.htm"
+    },
+    {
+     "label": "Hawaii Administrative Rules chapter 11-850 as adopted December 14, 2015 (scanned PDF), including section 11-850-85 on pages 850-47 to 850-49",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2015/12/Dispensary-Rules-Chapter-11-850-signed-by-Gov-12-13-15.pdf"
+    },
+    {
+     "label": "Act 46, Session Laws of Hawaii 2025 (S.B. 1429), section 5",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2025/SLH2025_Act46.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Executive summary of major changes to chapter 11-850, February 2022",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/02/Executive-summary-chapter-11-850-HAR-changes-Feb-2022.pdf"
+    },
+    {
+     "label": "Chapter 11-850 Ramseyer version effective February 24, 2022 (pages 850-105 and 850-106)",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/02/11-850-Ramseyer-format-effective-02-24-22-1.pdf"
+    },
+    {
+     "label": "Chapter 11-850 summary of major changes effective April 29, 2022",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/05/Chapter-11-850-Medical-Cannabis-Dispensaries-%E2%80%93-Summary-of-major-changes.pdf"
+    },
+    {
+     "label": "Chapter 11-850 Ramseyer version effective April 29, 2022",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/11/chapter-11-850-HAR-interim-rules-effective-April-29-2022-Ramseyer-format.pdf"
+    },
+    {
+     "label": "List of amendments to chapter 11-850 effective November 17, 2022",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/11/Detailed-list-of-changes-November-17-2022.pdf"
+    },
+    {
+     "label": "Chapter 11-850 interim rules, compiled, effective November 17, 2025 (sections 11-850-125 to 11-850-135, Appendix I)",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf"
+    },
+    {
+     "label": "Chapter 11-850 Ramseyer version effective August 7, 2023",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2023/08/chapter-11-850-HAR-interim-rules-RAMSEYER-FORMAT-effective-August-7-2023.pdf"
+    },
+    {
+     "label": "Chapter 11-850 Ramseyer version effective December 6, 2024",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2024/12/11-850_Ramseyer_12-6-2024.pdf"
+    },
+    {
+     "label": "OMCCR page: Chapter 11-850, HAR, Medical Cannabis Dispensaries (version list)",
+     "url": "https://health.hawaii.gov/medicalcannabis/11-850/"
+    },
+    {
+     "label": "OMCCR Registry page: Certified Cannabis Testing Facilities",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/certified-cannabis-testing-facilities/"
+    },
+    {
+     "label": "OMCCR Medical Cannabis Newsletter, July 2024 (certificate of analysis guide)",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/08/OMCCR-July-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Medical Cannabis Testing Facility Application (3 pages)",
+     "url": "https://health.hawaii.gov/medicalcannabisdispensary/files/2026/08/MedCann_Testing_Facility_Application.pdf"
+    },
+    {
+     "label": "Department of Health news release 17-065: certifies Steep Hill Hawaii to begin testing medical cannabis, July 31, 2017",
+     "url": "https://health.hawaii.gov/news/files/2013/05/17-065-DOH-Certifies-Lab-to-Test-Medical-Cannabis.pdf"
+    },
+    {
+     "label": "HDOH Medical Cannabis Update, December 2017",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2017/12/HDOH-Medical-Cannabis-Update-December-2017-12.19.2017-A-003.pdf"
+    },
+    {
+     "label": "OMCCR Medical Cannabis Dispensary Program page",
+     "url": "https://health.hawaii.gov/medicalcannabisdispensary/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The summary page that opens the Department of Health's adoption of Chapter 11-850, Hawaii Administrative Rules, dated December 7, 2015, which says the chapter, entitled \"Medical Marijuana Dispensaries,\" is adopted.",
+     "credit": "Source: DOH, HAR 11-850 (2015), p. 1",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2015/12/Dispensary-Rules-Chapter-11-850-signed-by-Gov-12-13-15.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Appendix I of the compiled chapter 11-850 effective November 17, 2025, showing Table 6, microbial contaminants that must not be detected in one gram: Escherichia coli, Salmonella species and four Aspergillus species, above Table 7 for mycotoxins.",
+     "credit": "Source: DOH, HAR 11-850 (2025), p. 850-135",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The text of Hawaii Revised Statutes section 329D-8, Laboratory standards and testing; laboratory certification, with the list of what the Department shall do when setting standards, including considering the retail cost to the qualifying patient.",
+     "credit": "Source: HRS 329D-8, page Oct. 11, 2026",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0008.htm",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Page 850-49 of the 2015 rules: moisture content under 15 percent, then microbiological impurities with count limits for total viable aerobic bacteria, yeast and mold, coliforms and bile-tolerant bacteria, then E. coli and Salmonella not detected in 1 g and limits for three Aspergillus species.",
+     "credit": "Source: DOH, HAR 11-850 (2015), p. 850-49",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2015/12/Dispensary-Rules-Chapter-11-850-signed-by-Gov-12-13-15.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Page 850-106 of the Ramseyer version effective February 24, 2022. Deleted count groups are struck through, and an underlined lead-in reads \"The following microbial contaminants, which must not be detected in one gram,\" followed by E. coli, Salmonella and four Aspergillus species.",
+     "credit": "Source: DOH, Ramseyer 2/24/22, p. 850-106",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/02/11-850-Ramseyer-format-effective-02-24-22-1.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Part of the Department of Health's executive summary of major changes to chapter 11-850, under Testing: revised microbial contaminants list, allow non-plating methods, and a change from moisture content to water activity for cannabis.",
+     "credit": "Source: DOH, summary Feb. 2022, p. 2",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/02/Executive-summary-chapter-11-850-HAR-changes-Feb-2022.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The Department's one-page summary of changes effective April 29, 2022, with a bullet on laboratory analysis that says to remove Aspergillus terreus from the microbial contaminants list.",
+     "credit": "Source: Hawaiʻi DOH, summary Apr. 29, 2022",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/05/Chapter-11-850-Medical-Cannabis-Dispensaries-%E2%80%93-Summary-of-major-changes.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The Department's list of amendments effective November 17, 2022, item 4 on laboratory testing, which adds Aspergillus terreus and replaces the water activity or moisture content language with water activity alone.",
+     "credit": "Source: Hawaiʻi DOH, changes Nov. 17, 2022",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/11/Detailed-list-of-changes-November-17-2022.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Section 11-850-135(c) of the compiled chapter 11-850 effective November 17, 2025, where item (E) refers to the microbial contaminants listed in Table 6 in Appendix I, which must not be detected in one gram of cannabis or manufactured cannabis product.",
+     "credit": "Source: DOH, HAR 11-850 (2025), p. 850-113",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "The Office of Medical Cannabis Control and Regulation page titled Certified Cannabis Testing Facilities, with the statute excerpt on transporting samples and a list that shows one laboratory.",
+     "credit": "Source: OMCCR page, captured Oct. 11, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/certified-cannabis-testing-facilities/",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "Two callouts from OMCCR's July 2024 newsletter guide to reading a certificate of analysis: foreign matter, and microbials, which says contaminants must not be detected in one gram of cannabis or manufactured cannabis product. Part of the sample certificate beside them is cut off.",
+     "credit": "Source: OMCCR, July 2024 newsletter, p. 3",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/08/OMCCR-July-2024-Newsletter.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "Page 2 of the Department's Medical Cannabis Testing Facility Application, with the microbiology boxes for E. coli, Salmonella species and four Aspergillus species, and a section on ISO 17025 accreditation status.",
+     "credit": "Source: OMCCR, testing application, p. 2",
+     "url": "https://health.hawaii.gov/medicalcannabisdispensary/files/2026/08/MedCann_Testing_Facility_Application.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "The Department's web page listing every posted version of chapter 11-850, from December 2015 through November 2025, with links to the rules and to the lists of changes.",
+     "credit": "Source: OMCCR page, captured Oct. 11, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabis/11-850/",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Page 850-115 of the compiled chapter 11-850: paragraph (i) of section 11-850-135 on disposing of a batch that does not conform, under video surveillance within thirty days, with the quarantine rule and the start of the section's history note.",
+     "credit": "Source: DOH, HAR 11-850 (2025), p. 850-115",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "kbr06",
+   "date": "2027-08-04",
+   "id": "KBR06",
+   "title": "Why Report",
+   "series": "Know Before You Grow",
+   "origin": null,
+   "research": [
+    {
+     "label": "Annual Report to the Thirty-Third Legislature 2026: Medical Cannabis Dispensary Licensing System (transmitted January 20, 2026)",
+     "url": "https://health.hawaii.gov/opppd/files/2026/01/OMCCR_MCDLS-AR-to-2026Leg_sub-20260120.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "OMCCR page: Adverse Event or Incident (Reporting an Adverse Event or Other Incident)",
+     "url": "https://health.hawaii.gov/medicalcannabis/report-an-adverse-event/"
+    },
+    {
+     "label": "OMCCR page: File a Complaint (File a Product Complaint)",
+     "url": "https://health.hawaii.gov/medicalcannabis/file-a-complaint/"
+    },
+    {
+     "label": "Hawaii Poison Center page (Rocky Mountain Poison and Drug Safety)",
+     "url": "https://www.hipoisoncenter.org/"
+    },
+    {
+     "label": "Chapter 11-850 interim rules, compiled, effective November 17, 2025: sections 11-850-2, 11-850-125 to 11-850-128",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf"
+    },
+    {
+     "label": "Executive summary of major changes to chapter 11-850, February 2022",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/02/Executive-summary-chapter-11-850-HAR-changes-Feb-2022.pdf"
+    },
+    {
+     "label": "OMCCR notice: Medical Cannabis Patient Registry - Report of Adverse Effects, Adverse Event Investigation, April 19, 2023",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2023/05/EXTERNAL-Medical-Cannabis-Patient-Registry-Report-of-Adverse-Effects.pdf"
+    },
+    {
+     "label": "OMCCR page: Advisories",
+     "url": "https://health.hawaii.gov/medicalcannabis/advisories/"
+    },
+    {
+     "label": "Office of Medical Cannabis Control and Regulation home page",
+     "url": "https://health.hawaii.gov/medicalcannabis/"
+    },
+    {
+     "label": "OMCCR Medical Cannabis Dispensary Program page",
+     "url": "https://health.hawaii.gov/medicalcannabisdispensary/"
+    },
+    {
+     "label": "OMCCR hemp program: Consumers of Manufactured Hemp Products FAQ (current as of 12/16/2025)",
+     "url": "https://health.hawaii.gov/hempprogram/consumers-of-mhp-faq/"
+    },
+    {
+     "label": "OMCCR Patient Advisory issued February 2, 2023",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2023/02/Cannabis-Cup-Patient-Advisory-1.pdf"
+    },
+    {
+     "label": "OMCCR page: Executive Order No. 24-06 guidance (Guidance Regarding Medical Cannabis Primary Caregivers)",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/05/Executive-Order-No.-24-06-Guidance-Regarding-Medical-Cannabis-Primary-Caregivers.pdf"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Office of Medical Cannabis Control and Regulation web page titled Adverse Event or Incident, with the Department of Health seal and logo, the page heading and the start of the instructions.",
+     "credit": "Source: OMCCR page, captured Oct. 11, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabis/report-an-adverse-event/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The instructions on OMCCR's adverse event page: for medical emergencies contact 911; for an unwanted reaction because of medical cannabis or a hemp product contact the Hawaii Poison Center at 1-800-222-1222, then follow up once recovered.",
+     "credit": "Source: OMCCR page, captured Oct. 11, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabis/report-an-adverse-event/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The form on OMCCR's adverse event page, with a choice of contact by email or phone, name fields marked optional and a required box for a detailed description of the incident.",
+     "credit": "Source: OMCCR page, captured Oct. 11, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabis/report-an-adverse-event/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "OMCCR's File a Product Complaint page, with optional name, email and phone fields, a required description box and a file upload area that allows up to 10 files.",
+     "credit": "Source: OMCCR page, captured Oct. 11, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabis/file-a-complaint/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Page 850-98 of the compiled chapter 11-850, with section 11-850-126, Adverse events, which requires a dispensary to notify the Department within forty-eight hours after learning of an adverse event.",
+     "credit": "Source: DOH, HAR 11-850 (2025), p. 850-98",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "The top of page 850-99 of the compiled chapter 11-850, with the definition of adverse event as any untoward medical occurrence associated with the use of cannabis or a manufactured cannabis product.",
+     "credit": "Source: DOH, HAR 11-850 (2025), p. 850-99",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The top of page 850-98 of the compiled chapter 11-850, with section 11-850-125(b) to (d): review and investigation of product complaints by a qualified person and quality control personnel.",
+     "credit": "Source: DOH, HAR 11-850 (2025), p. 850-98",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Section 11-850-127, Recalls, on page 850-99 of the compiled chapter, with the written recall plan, notice to patients and the public, and the requirement to notify the Department within twenty-four hours of initiating a recall.",
+     "credit": "Source: DOH, HAR 11-850 (2025), p. 850-99",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The top of page 2 of the Department's executive summary of major changes to chapter 11-850, with item 3 on additional safety measures for all products, including adverse event reporting and reserve samples.",
+     "credit": "Source: DOH, summary Feb. 2022, p. 2",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2022/02/Executive-summary-chapter-11-850-HAR-changes-Feb-2022.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "An April 19, 2023 notice titled Adverse Event Investigation from the Office of Medical Cannabis Control and Regulation, saying it received complaints of adverse reactions to cannabis products and that the Disease Investigation Branch is contacting registered individuals. The page is cut short so that no email address appears.",
+     "credit": "Source: OMCCR, notice Apr. 19, 2023",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2023/05/EXTERNAL-Medical-Cannabis-Patient-Registry-Report-of-Adverse-Effects.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "The Hawaii Poison Center page with the number 1-800-222-1222, the lines 24/7/365, 100% confidential and free advice, and the 2023 totals.",
+     "credit": "Source: HI Poison Center, Oct. 11, 2026",
+     "url": "https://www.hipoisoncenter.org/",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "The OMCCR home page header with its three program links and the large tiles for education and science resources, continuing medical education, report adverse event and file a product complaint.",
+     "credit": "Source: OMCCR page, captured Oct. 11, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabis/",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "OMCCR's Advisories page, with links to the executive order guidance on caregivers, the Cannabis Cup patient advisory dated February 2, 2023 and the report of adverse effects dated April 19, 2023.",
+     "credit": "Source: OMCCR page, captured Oct. 11, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabis/advisories/",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "Page 850-100 and 850-101 area of the compiled chapter 11-850, section 11-850-128, recordkeeping for quality control, including the written record of every product complaint and every adverse event.",
+     "credit": "Source: DOH, HAR 11-850 (2025), p. 850-101",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "kbr07",
+   "date": "2027-08-06",
+   "id": "KBR07",
+   "title": "A Public Lab for Patients",
+   "series": "Know Before You Grow",
+   "origin": null,
+   "research": [
+    {
+     "label": "Hawaii Revised Statutes section 329D-8: Laboratory standards and testing; laboratory certification",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0008.htm"
+    },
+    {
+     "label": "Hawaii Revised Statutes section 329-122: Medical use of cannabis; conditions of use",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0122.htm"
+    },
+    {
+     "label": "Department of Health Legislative Budget Briefing, Fiscal Year 2027 Supplemental Budget (House Finance Committee 2026 files)",
+     "url": "https://data.capitol.hawaii.gov/CommitteeFiles/HOUSE/FIN/FINfiles/2026_DOH.pdf"
+    },
+    {
+     "label": "HB 1800 CD1 final budget worksheets, May 20, 2026 (HTH 596 pages)",
+     "url": "https://data.capitol.hawaii.gov/sessions/session2026/worksheets/HB1800%20CD1%20FINAL%20WORKSHEETS.pdf"
+    },
+    {
+     "label": "Act 175, Session Laws of Hawaii 2026 (H.B. 1800, H.D. 1, S.D. 1, C.D. 1), approved June 26, 2026: program appropriations pages 28 and 29",
+     "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/GM1277_.PDF"
+    },
+    {
+     "label": "Hawaii Revised Statutes section 304A-1865: Medical cannabis testing and research programs; established",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0304A/HRS_0304A-1865.htm"
+    },
+    {
+     "label": "Act 230, Session Laws of Hawaii 2016 (H.B. 2707), section 21",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2016/SLH2016_Act230.pdf"
+    },
+    {
+     "label": "Act 46, Session Laws of Hawaii 2025 (S.B. 1429), section 1",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2025/SLH2025_Act46.pdf"
+    },
+    {
+     "label": "Hawaii Revised Statutes section 321-30.1: Medical cannabis registry and regulation special fund; established",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0321/HRS_0321-0030_0001.htm"
+    }
+   ],
+   "other": [
+    {
+     "label": "OMCCR Registry page: Certified Cannabis Testing Facilities",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/certified-cannabis-testing-facilities/"
+    },
+    {
+     "label": "Chapter 11-850 interim rules, compiled, effective November 17, 2025: section 11-850-131",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf"
+    },
+    {
+     "label": "OMCCR Medical Cannabis Newsletter, July 2024",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/08/OMCCR-July-2024-Newsletter.pdf"
+    },
+    {
+     "label": "OMCCR Medical Cannabis Newsletter, December 2024",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/05/OMCCR-December-2024-Newsletter.pdf"
+    },
+    {
+     "label": "Spectra Analytical Lab website: FAQ and Hawaii Department of Health Certification pages",
+     "url": "https://spectraanalyticallab.com/faq.html"
+    },
+    {
+     "label": "Medical Cannabis (329) Registry Program data report, as of August 31, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2026/09/August-2026-Report_Valid.pdf"
+    },
+    {
+     "label": "University of Hawaii at Hilo, Daniel K. Inouye College of Pharmacy: Cao Lab page (current funding)",
+     "url": "https://pharmacy.uhh.hawaii.edu/research/cao-lab"
+    },
+    {
+     "label": "Medical Cannabis Testing Facility Application (3 pages)",
+     "url": "https://health.hawaii.gov/medicalcannabisdispensary/files/2026/08/MedCann_Testing_Facility_Application.pdf"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Page 28 of Act 175, Session Laws of Hawaii 2026, the program appropriations table, with the line for HTH 596, Office of Medical Cannabis Control and Regulation, and its fiscal year 2026-27 amounts.",
+     "credit": "Source: Session Laws 2026, Act 175, p. 28",
+     "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/GM1277_.PDF",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Section 11-850-131 of the compiled chapter 11-850, which says a dispensary shall not dispense cannabis unless a laboratory certified by the Department has analyzed a representative sample.",
+     "credit": "Source: DOH, HAR 11-850 (2025), p. 850-104",
+     "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The lower part of Hawaii Revised Statutes section 329D-8, with item (6), permission for qualifying patients and primary caregivers to obtain testing services directly from certified laboratories on their island, and subsections (b) and (c).",
+     "credit": "Source: HRS 329D-8, page Oct. 11, 2026",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329D/HRS_0329D-0008.htm",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Hawaii Revised Statutes section 329-122(f)(5), which lets a patient or caregiver transport a capped amount of cannabis to a certified lab if they secure an appointment, obtain a confirmation and have it during transport.",
+     "credit": "Source: HRS 329-122, page Oct. 11, 2026",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol06_Ch0321-0344/HRS0329/HRS_0329-0122.htm",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The interisland paragraphs of Hawaii Revised Statutes 329-122(f): transport between islands is allowed only between dispensaries and between a production center or retail location and a certified laboratory, and does not include transport between a patient or caregiver and any other entity.",
+     "credit": "Source: OMCCR page, captured Oct. 11, 2026",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/certified-cannabis-testing-facilities/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Table 4 of the Department's August 2026 registry data report, listing registered patients, new and renewed patients and caregivers for Honolulu, Hawaii, Maui and Kauai counties and out of state.",
+     "credit": "Source: OMCCR, data report Aug. 2026, p. 2",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2026/09/August-2026-Report_Valid.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A page of the Department of Health's fiscal year 2027 supplemental budget briefing on item HC-72, a state reference laboratory for cannabis, listing quality assurance, the tests, oversight of the private lab, fee-for-service testing and a partnership with the UH College of Pharmacy.",
+     "credit": "Source: DOH FY2027 budget briefing, p. 346",
+     "url": "https://data.capitol.hawaii.gov/CommitteeFiles/HOUSE/FIN/FINfiles/2026_DOH.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A page of the Legislature's HB 1800 CD1 budget worksheets for HTH 596, Office of Medical Cannabis Control and Regulation, with a supplemental request marked Legislature does not concur and a breakout labeled reference library.",
+     "credit": "Source: HB 1800 CD1 worksheet, p. 353",
+     "url": "https://data.capitol.hawaii.gov/sessions/session2026/worksheets/HB1800%20CD1%20FINAL%20WORKSHEETS.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Hawaii Revised Statutes section 304A-1865, Medical cannabis testing and research programs; established, which lets the University of Hawaii set up programs that serve dispensaries, subject to Department of Health certification.",
+     "credit": "Source: HRS 304A-1865, page Oct. 11, 2026",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0304A/HRS_0304A-1865.htm",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "The current funding section of a faculty research page at the University of Hawaii at Hilo Daniel K. Inouye College of Pharmacy, listing grants and a line for HDOH, Cannabis Analysis, with dates from August 1, 2026.",
+     "credit": "Source: UH Hilo DKICP page, Oct. 11, 2026",
+     "url": "https://pharmacy.uhh.hawaii.edu/research/cao-lab",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "A page of OMCCR's December 2024 newsletter with a passage on determining dosage, saying patients have access to a certified testing lab for potency and that at-home test kits are a less accurate but cost effective option.",
+     "credit": "Source: OMCCR, Dec. 2024 newsletter, p. 4",
+     "url": "https://health.hawaii.gov/medicalcannabisregistry/files/2024/05/OMCCR-December-2024-Newsletter.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 12",
+     "what": "A slide from the Department of Health's fiscal year 2027 supplemental budget briefing titled Special Fund Requests, with item HC-72, HTH 596/KM, $2,100,000, to establish a state reference laboratory for medical cannabis and hemp.",
+     "credit": "Source: DOH FY2027 budget briefing, p. 338",
+     "url": "https://data.capitol.hawaii.gov/CommitteeFiles/HOUSE/FIN/FINfiles/2026_DOH.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 13",
+     "what": "Page 29 of Act 175, Session Laws of Hawaii 2026, the program appropriations table, whose top line carries the fiscal year 2026-27 special fund amount for the Office of Medical Cannabis Control and Regulation.",
+     "credit": "Source: Session Laws 2026, Act 175, p. 29",
+     "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/GM1277_.PDF",
+     "card": false
+    },
+    {
+     "where": "Slide 14",
+     "what": "The first page of the Department of Health's Legislative Budget Briefing for the Fiscal Year 2027 supplemental budget, with its overview and mission statement.",
+     "credit": "Source: DOH FY2027 budget briefing, p. 1",
+     "url": "https://data.capitol.hawaii.gov/CommitteeFiles/HOUSE/FIN/FINfiles/2026_DOH.pdf",
      "card": false
     }
    ]
