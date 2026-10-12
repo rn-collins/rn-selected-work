@@ -1,0 +1,2674 @@
+{
+ "generated": "2026-10-11",
+ "host": "rn-selected-work.vercel.app",
+ "posts": [
+  {
+   "slug": "mus-cul-01",
+   "date": "2027-03-30",
+   "id": "MUS-CUL-01",
+   "title": "Hōkūleʻa: the voyage that proved the way",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Polynesian Voyaging Society, Hōkūleʻa history and voyage timeline",
+     "url": "https://hokulea.com"
+    },
+    {
+     "label": "Honolulu Civil Beat (July 2026), on the museum's Hōkūleʻa 50th anniversary exhibit",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Hōkūleʻa arriving in Honolulu from Tahiti, August 26, 1976",
+     "credit": "Phil Uhl, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hokule%27a.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Hōkūleʻa under sail, 2007",
+     "credit": "Uwajima-taro, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Hokulea_2007.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Hōkūleʻa and its sister canoe Hikianalia at Avatiu, Rarotonga, 2025",
+     "credit": "Nurg, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hokulea_and_Hikianalia_at_Avatiu.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-eip-01",
+   "date": "2026-11-10",
+   "id": "MUS-EIP-01",
+   "title": "The building that sold electricity",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "Library of Congress, Historic American Buildings Survey, HABS HI-527",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Kamehameha Schools, property feature on 900 Richards Street",
+     "url": ""
+    },
+    {
+     "label": "Honolulu Civil Beat (July 24, 2026)",
+     "url": ""
+    },
+    {
+     "label": "Hawaiian Electric, \"Happy 91st birthday King Street building\"",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "King and Richards Streets, Honolulu, before the building went up, photograph by Frank Davey (Hawaiʻi State Archives P-38-4-002)",
+     "credit": "Frank Davey, Hawaiʻi State Archives, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:King_and_Richards_Streets_Streets,_Honolulu,_photograph_by_Frank_Davey_(P-38-4-002).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "900 Richards Street, from the museum's home page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "900 Richards Street, from the \"Museum founder\" section of Gloria Borland's site",
+     "credit": "gloriacborland.com, courtesy of Gloria Borland",
+     "url": "https://gloriacborland.com/",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-eip-03",
+   "date": "2026-11-15",
+   "id": "MUS-EIP-03",
+   "title": "Card payments started in Honolulu",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "VeriFone, \"About us\" (company history)",
+     "url": ""
+    },
+    {
+     "label": "The Green Sheet, interview with Bill Melton",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A VeriFone credit card terminal, 2014",
+     "credit": "Whym, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:VeriFone_credit_card_terminal_Servebase.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Graphic made for this post: VeriFone timeline, from Real-Share in 1971 to the late 1980s",
+     "credit": "VeriFone; The Green Sheet interview with Bill Melton",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A Verifone terminal at a Barnes & Noble checkout, 2014",
+     "credit": "tales of a wandering youkai, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Verifone_terminal_at_Barnes_%26_Noble_(19791072086).jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-eip-04",
+   "date": "2026-11-20",
+   "id": "MUS-EIP-04",
+   "title": "From Hilo High to the Nobel Prize",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "NobelPrize.org, 2020 Nobel Prize in Chemistry",
+     "url": "https://nobelprize.org"
+    },
+    {
+     "label": "Innovative Genomics Institute, timeline",
+     "url": ""
+    },
+    {
+     "label": "UC Berkeley News",
+     "url": ""
+    },
+    {
+     "label": "Honolulu Star-Advertiser",
+     "url": ""
+    },
+    {
+     "label": "University of Hawaiʻi at Hilo, Office of the Chancellor stories (2018 and 2020)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Emmanuelle Charpentier and Jennifer Doudna",
+     "credit": "Bianca Fioretti (Hallbauer & Fioretti) and Duncan Hull (The Royal Society), CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Emmanuelle_Charpentier_and_Jennifer_Doudna.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Jennifer Doudna, 2016",
+     "credit": "Jussi Puikkonen/KNAW, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Jennifer_Doudna.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Professor Jennifer Doudna, Royal Society portrait",
+     "credit": "Duncan Hull, The Royal Society, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Professor_Jennifer_Doudna_ForMemRS.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Jennifer Doudna, Innovative Genomics Institute, 2021",
+     "credit": "Christopher Michel, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Jennifer_Doudna_by_Chris_Michel_03.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-eip-05",
+   "date": "2026-11-21",
+   "id": "MUS-EIP-05",
+   "title": "The king who sketched warships",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "Hawaiʻi State Archives, Foreign Office finding aids for Kalākaua's papers",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Images of Old Hawaii, quoting Kalākaua's letter to Dom Pedro II of September 19, 1872",
+     "url": ""
+    },
+    {
+     "label": "Ke Ola Magazine, on Kalākaua's personal letters and ship designs",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Emperor Pedro II of Brazil, Brady studio portrait, 1876",
+     "credit": "Mathew Brady and Levin Corbin Handy, Library of Congress Brady-Handy Collection, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Pedro_II_of_Brazil_-_Brady-Handy.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Queen Victoria, portrait by Alexander Bassano, 1882",
+     "credit": "Alexander Bassano, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Queen_Victoria_by_Bassano.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Portrait of King Kalākaua",
+     "credit": "James J. Williams, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Kingdavidkalakaua_dust.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-eip-06",
+   "date": "2026-11-22",
+   "id": "MUS-EIP-06",
+   "title": "Alice Ball, and the credit she didn't get",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "American Chemical Society, National Historic Chemical Landmark",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "University of Hawaiʻi News (2024)",
+     "url": ""
+    },
+    {
+     "label": "Honolulu Civil Beat (March 2022)",
+     "url": ""
+    },
+    {
+     "label": "Inspiration Hawaiʻi Museum, Inventors page",
+     "url": "https://inspirationhawaiimuseum.org/inventors"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Alice Augusta Ball, College of Hawaiʻi photograph, 1915",
+     "credit": "Unknown author, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Alice_Augusta_Ball.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Chemist Alice Augusta Ball, from the museum's Inventors page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/inventors",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "\"1915, invented a method for treating Leprosy,\" from the museum's Inventors page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/inventors",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-eip-07",
+   "date": "2026-11-24",
+   "id": "MUS-EIP-07",
+   "title": "The steel guitarist behind the Stratocaster",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Guitar.com, oral history of the Stratocaster (quotes from Randall, Fullerton and White)",
+     "url": ""
+    },
+    {
+     "label": "Bishop Museum",
+     "url": ""
+    },
+    {
+     "label": "Wikipedia, \"Fender Stratocaster\" (designers list)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A Fender Stratocaster",
+     "credit": "Stra2caster, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Fender_Stratocaster_004-2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "U.S. Design Patent D169,062, \"Guitar,\" C. L. Fender, issued March 24, 1953, drawing sheet",
+     "credit": "U.S. patent record, public domain",
+     "url": "https://patents.google.com/patent/USD169062S/en",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A Fender Stratocaster",
+     "credit": "Joachim Hensel-Losch, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Fender_strat.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-eip-08",
+   "date": "2026-11-28",
+   "id": "MUS-EIP-08",
+   "title": "Women of Courage: Patsy Mink",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "U.S. House of Representatives, History, Art & Archives, Patsy Takemoto Mink profile",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii's Women of Courage site, Inspiration Hawaiʻi Museum (2024)",
+     "url": ""
+    },
+    {
+     "label": "Densho",
+     "url": ""
+    },
+    {
+     "label": "U.S. Mint, 2024 American Women Quarters: Patsy Takemoto Mink",
+     "url": "https://usmint.gov"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Text of Title IX, 20 U.S.C. § 1681, from the U.S. Code",
+     "credit": "U.S. government work",
+     "url": "https://uscode.house.gov",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Patsy Mink, from the \"work that Inspired\" section of the museum's home page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "2024 American Women Quarters: Patsy Takemoto Mink reverse design",
+     "credit": "United States Mint",
+     "url": "https://www.usmint.gov/coins/coin-medal-programs/american-women-quarters/patsy-takemoto-mink",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-eip-09",
+   "date": "2026-11-29",
+   "id": "MUS-EIP-09",
+   "title": "ABC Stores: a name chosen for the phone book",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "UH School of Travel Industry Management, Legacy in Tourism profile",
+     "url": ""
+    },
+    {
+     "label": "Hawaiʻi Public Radio (December 16, 2021)",
+     "url": ""
+    },
+    {
+     "label": "Maui Magazine",
+     "url": ""
+    },
+    {
+     "label": "Hawaiʻi Herald (2023)",
+     "url": ""
+    },
+    {
+     "label": "Hawaii Islander",
+     "url": ""
+    },
+    {
+     "label": "SFGate, quoting CEO Paul Kosasa",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 2",
+     "what": "Tule Lake War Relocation Center with Horse Mountain behind it, 1942",
+     "credit": "Russell Lee, Library of Congress, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Tule_Lake_War_Relocation_Center.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "An ABC Store in Guam",
+     "credit": "aaronx, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:ABC_Store_Guam.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "ABC Stores on Fremont Street, Las Vegas",
+     "credit": "InSapphoWeTrust, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:ABC_Stores_(5779709870).jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-eip-10",
+   "date": "2026-10-09",
+   "id": "MUS-EIP-10",
+   "title": "Pat Saiki, 1930 to 2026",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "U.S. House of Representatives, History, Art & Archives, Patricia F. Saiki oral history and profile",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaiʻi State Teachers Association",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Portrait of Rep. Patricia F. Saiki, about 1987",
+     "credit": "Collection of the U.S. House of Representatives",
+     "url": "https://history.house.gov/Collection/Detail/15032448470",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Graphic made for this post: Pat Saiki's career, from teacher to the U.S. Small Business Administration (1991 to 1993)",
+     "credit": "U.S. House History, Art & Archives",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "President Ronald Reagan signing the Japanese American reparations bill, August 10, 1988, with Rep. Patricia Saiki among those pictured (National Archives NAID 75856233)",
+     "credit": "Reagan Library and National Archives, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Ronald_Reagan_signing_Japanese_reparations_bill.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-enm-01",
+   "date": "2027-03-26",
+   "id": "MUS-ENM-01",
+   "title": "Jason Momoa: from Honolulu to Chief of War",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Entertainers page",
+     "url": ""
+    },
+    {
+     "label": "Apple TV, Chief of War",
+     "url": ""
+    },
+    {
+     "label": "Apple TV+ press releases (March 31 and July 10, 2025)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Jason Momoa at the Aquaman panel, San Diego Comic-Con, 2018",
+     "credit": "Gage Skidmore, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Jason_Momoa_(42867509995).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Jason Momoa at New York Comic Con, 2011",
+     "credit": "Knightmare6, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Jason_Momoa_2011.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Jason Momoa, 2015",
+     "credit": "Gage Skidmore, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Jason_Momoa_(18100153578).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Jason Momoa, 2017",
+     "credit": "Gage Skidmore, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Jason_Momoa_by_Gage_Skidmore.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-enm-02",
+   "date": "2027-03-06",
+   "id": "MUS-ENM-02",
+   "title": "Bruno Mars: Roosevelt High, class of 2003",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Entertainers page",
+     "url": ""
+    },
+    {
+     "label": "NFL, Super Bowl halftime show records",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Bruno Mars, 2010",
+     "credit": "Brothers Le, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bruno_Mars.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Bruno Mars at the keyboard",
+     "credit": "Brothers Le, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bruno_Mars_keyboard.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Bruno Mars at the Super Bowl halftime show, 2016",
+     "credit": "Arnie Papp, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bruno_Mars_Super_Bowl.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bruno Mars on the 24K Magic Tour, 2017",
+     "credit": "slgckgc, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bruno_Mars_-_24K_Magic_Tour_(37320927992).jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-enm-03",
+   "date": "2027-03-07",
+   "id": "MUS-ENM-03",
+   "title": "Jack Johnson: Kahuku High, class of 1993",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Entertainers page",
+     "url": ""
+    },
+    {
+     "label": "Kōkua Hawaiʻi Foundation website",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Jack Johnson at the Waikīkī Shell, Honolulu, August 1, 2014",
+     "credit": "Peter Chiapperino, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Jack_Johnson_2014.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A surfer at Banzai Pipeline, North Shore, Oʻahu",
+     "credit": "Mandolin Davis, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Surfer_at_Banzai_Pipeline,_North_Shore_(Oahu).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Wind turbines at Kahuku, Oʻahu, 2021",
+     "credit": "Flip Flops Hawaii, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Wind_turbines_at_Kahuku_on_the_island_of_Oahu,_Hawaii.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-enm-04",
+   "date": "2027-03-08",
+   "id": "MUS-ENM-04",
+   "title": "Iam Tongi: the first American Idol winner from Hawaiʻi",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "Rep. Jill Tokuda, remarks on the House floor (May 23, 2023)",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Entertainers page",
+     "url": ""
+    },
+    {
+     "label": "ABC, American Idol season 21 results (May 2023)",
+     "url": ""
+    },
+    {
+     "label": "Iam Tongi official site",
+     "url": ""
+    },
+    {
+     "label": "NBC News",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "\"Mod-58 3200 kW experimental wind turbine, Kahuku Point\", Oʻahu",
+     "credit": "U.S. Department of Energy, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Mod-58_3200_kW_experimental_wind_turbine,_Kahuku_Point_Island.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Kahuku High School, Oʻahu",
+     "credit": "Travis.Thurston, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:KahukuHighSchool.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Banzai Beach, North Shore, Oʻahu",
+     "credit": "Syced, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Banzai_Beach.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-enm-05",
+   "date": "2027-03-09",
+   "id": "MUS-ENM-05",
+   "title": "Dwayne Johnson's donated movie memorabilia",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Honolulu Civil Beat, Kirstin Downey (July 24, 2026, photo caption)",
+     "url": ""
+    },
+    {
+     "label": "Inspiration Hawaiʻi Museum, Entertainers page",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Dwayne Johnson at the Hercules premiere, Sydney, 2014",
+     "credit": "Eva Rinaldi, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Dwayne_Johnson_2014.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Dwayne Johnson at the Venice Film Festival, 2025",
+     "credit": "Harald Krichel, WikiPortraits, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Dwayne_Johnson-1809_(cropped).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Dwayne Johnson in Sydney, 2013",
+     "credit": "Eva Rinaldi, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Dwayne_Johnson_2013.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-enm-06",
+   "date": "2027-03-10",
+   "id": "MUS-ENM-06",
+   "title": "Bette Midler: Radford High, class of 1963",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Entertainers page",
+     "url": ""
+    },
+    {
+     "label": "Kennedy Center, 2021 Kennedy Center Honors",
+     "url": ""
+    },
+    {
+     "label": "Encyclopaedia Britannica, Bette Midler",
+     "url": ""
+    },
+    {
+     "label": "Grammy, Emmy and Tony award records",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Bette Midler, publicity photo, 1973",
+     "credit": "Aaron Russo (manager), public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Bette_Midler_1973.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Bette Midler at the premiere of The Rose, 1979",
+     "credit": "Alan Light, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bette_Midler_1979.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Bette Midler, 1990",
+     "credit": "Alan Light, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bette_Midler_(1990).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bette Midler at the 2021 Kennedy Center Honors",
+     "credit": "Library of Congress, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bette_Midler_2021_Kennedy_Center_Honors_(cropped).jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-enm-07",
+   "date": "2027-03-11",
+   "id": "MUS-ENM-07",
+   "title": "The Giants: four sumo wrestlers from Hawaiʻi",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "Japan Sumo Association records",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "NEO Studios announcement (2021)",
+     "url": ""
+    },
+    {
+     "label": "Rakuten TV announcement (2021)",
+     "url": ""
+    },
+    {
+     "label": "Encyclopaedia Britannica",
+     "url": ""
+    },
+    {
+     "label": "Inspiration Hawaiʻi Museum, Movies page",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Akebono's ceremonial handprint (tegata)",
+     "credit": "Jeangigot, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Akebono_original_tegata.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Takamiyama Daigorō's autograph",
+     "credit": "Takamiyama Daigorō, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Takamiyama_Daigor%C5%8D,_Autograph.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Konishiki's ceremonial handprint (tegata)",
+     "credit": "Jeangigot, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Konishiki_original_tegata.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Musashimaru's ceremonial handprint (tegata)",
+     "credit": "David Dominique Papillon, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Musashimaru_tegata.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Statue of Akebono",
+     "credit": "Prayitno Photography, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Akebono_statue_by_Prayitno_Photography.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Sumo wrestlers' handprints in a Sumida train station, Tokyo",
+     "credit": "Stephen Kelly, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Famous_Sumo_Wrestlers_Handprints_in_Sumida_Train_Station_(20446409461).jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-enm-08",
+   "date": "2027-03-12",
+   "id": "MUS-ENM-08",
+   "title": "David Friedman's art of President Obama",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Hawaii Obituaries, David Barry Friedman (died May 31, 2024)",
+     "url": ""
+    },
+    {
+     "label": "Windward Artists Guild, artist profile",
+     "url": ""
+    },
+    {
+     "label": "First Unitarian Church of Honolulu (archived page)",
+     "url": ""
+    },
+    {
+     "label": "Honolulu Civil Beat",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Official portrait of President Barack Obama in the Oval Office, December 6, 2012",
+     "credit": "Pete Souza, The White House, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-ent-01",
+   "date": "2027-03-02",
+   "id": "MUS-ENT-01",
+   "title": "Steve Case: AOL started at Punahou",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "USPTO trademark records",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Entrepreneurs page",
+     "url": ""
+    },
+    {
+     "label": "Revolution LLC website",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Steve Case, 2009",
+     "credit": "Robert Scoble, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Steve_case_05092009.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Old School Hall at Punahou School, built 1851",
+     "credit": "Sr13, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Old_School_Hall_at_Punahou_School.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Steve Case",
+     "credit": "Financial Times, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Steve_Case_(6244482532).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "An external 33.6k serial dial-up modem",
+     "credit": "Frunze103, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:External_33.6k_serial_dial-up_modem.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Steve Case",
+     "credit": "Christopher Carfi, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Steve_Case.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-ent-02",
+   "date": "2027-02-27",
+   "id": "MUS-ENT-02",
+   "title": "Pierre Omidyar: eBay and Honolulu",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Entrepreneurs page",
+     "url": ""
+    },
+    {
+     "label": "eBay, company history",
+     "url": ""
+    },
+    {
+     "label": "Honolulu Civil Beat, About page",
+     "url": ""
+    },
+    {
+     "label": "Associated Press, on Civil Beat's launch (May 4, 2010)",
+     "url": ""
+    },
+    {
+     "label": "Ulupono Initiative website",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Pierre Omidyar at the Web 2.0 conference, 2005",
+     "credit": "JD Lasica, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Pierre_Omidyar_(50911249).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Punahou School front gate, Honolulu",
+     "credit": "Ronaldloui, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Punahou_School_Front_Gate.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Pierre Omidyar, 2005",
+     "credit": "JD Lasica, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Pierre_Omidyar_(50911250).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "U.S. Robotics modem banks at an internet provider, 1999",
+     "credit": "Siliconboy, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Modem-bank-1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Pierre Omidyar, 2007",
+     "credit": "Joi, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Pomidyarji.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-ent-03",
+   "date": "2027-03-04",
+   "id": "MUS-ENT-03",
+   "title": "Guy Kawasaki: the evangelist from ʻIolani",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Entrepreneurs page",
+     "url": ""
+    },
+    {
+     "label": "Guy Kawasaki's website",
+     "url": ""
+    },
+    {
+     "label": "Canva announcements",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Guy Kawasaki at Wikimania 2015",
+     "credit": "VGrigas (WMF), CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Guy_Kawasaki_at_Wikimania_2015_-_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "St. Alban's College, Honolulu, 1863, the predecessor of ʻIolani School",
+     "credit": "Unknown author, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:St._Alban%27s_College,_Honolulu,_1863.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A Macintosh 128K computer, 1984",
+     "credit": "Sailko, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Computer_macintosh_128k,_1984_(all_about_Apple_onlus).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The badge on a Macintosh 128K",
+     "credit": "Marcin Wichary, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Macintosh_128K_-_Badge_direct_(3655727515).jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-ent-04",
+   "date": "",
+   "id": "MUS-ENT-04",
+   "title": "Robert Kiyosaki: Rich Dad Poor Dad from Hilo",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Entrepreneurs page",
+     "url": ""
+    },
+    {
+     "label": "Rich Dad Poor Dad publisher, sales figures",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Robert Kiyosaki, 2014",
+     "credit": "Gage Skidmore, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Robert_Kiyosaki_by_Gage_Skidmore.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Hilo, Hawaiʻi, 2010",
+     "credit": "Ken Lund, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hilo,_Hawaii_(4529155714).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Robert Kiyosaki, 2024",
+     "credit": "Gage Skidmore, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Robert_Kiyosaki_(53864391143).jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-ent-05",
+   "date": "",
+   "id": "MUS-ENT-05",
+   "title": "Cassidy Crowley: the Baby Toon",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "U.S. Design Patent D823,073, \"Feeding spoon\" (July 17, 2018), inventors Lori Crowley and Cassidy Crowley",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Scholastic News (2023 to 2024)",
+     "url": ""
+    },
+    {
+     "label": "Daily Meal (2023)",
+     "url": ""
+    },
+    {
+     "label": "Hawaiʻi Business Women Entrepreneurs Conference (2024)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "U.S. Design Patent D823,073, \"Feeding spoon\" (July 17, 2018), drawing sheet 1",
+     "credit": "Lori Crowley and Cassidy Crowley, inventors; U.S. patent record, public domain",
+     "url": "https://patents.google.com/patent/USD823073S1/en",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "U.S. Design Patent D823,073, \"Feeding spoon\" (July 17, 2018), drawing sheet 2",
+     "credit": "Lori Crowley and Cassidy Crowley, inventors; U.S. patent record, public domain",
+     "url": "https://patents.google.com/patent/USD823073S1/en",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "U.S. Patent 11,197,584 B2, \"Teething spoon\" (December 14, 2021), drawing sheet 1",
+     "credit": "U.S. patent record, public domain",
+     "url": "https://patents.google.com/patent/US11197584B2/en",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-ent-06",
+   "date": "2027-03-05",
+   "id": "MUS-ENT-06",
+   "title": "King's Hawaiian: a bakery named after a street",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "USPTO trademark records",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Honolulu Star-Advertiser, Bob Sigall, \"King's fortunes, success rose like its famous sweet bread\" (September 23, 2011)",
+     "url": ""
+    },
+    {
+     "label": "Inspiration Hawaiʻi Museum, Entrepreneurs page",
+     "url": ""
+    },
+    {
+     "label": "King's Hawaiian, company history page",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Olaa Sugar Company, Hawaii's largest sugar plantation, about 1902",
+     "credit": "The Pacific Commercial Advertiser, Chronicling America, Library of Congress, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:The_Olaa_Sugar_Company,_Hawaii%27s_Largest_Sugar_Plantation_(c._1902).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Hilo, Hawaiʻi, 2010",
+     "credit": "Ken Lund, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hilo,_Hawaii_(4528519281).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Aliʻiōlani Hale, 463 King Street, Honolulu, Historic American Buildings Survey drawing, sheet 3 of 12",
+     "credit": "Historic American Buildings Survey, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Aliiolani_Hale,_463_King_Street,_Honolulu,_Honolulu_County,_HI_HABS_HI,2-HONLU,3-_(sheet_3_of_12).png",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-ev-01",
+   "date": "",
+   "id": "MUS-EV-01",
+   "title": "More than a museum: a place to learn",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Events page",
+     "url": "https://inspirationhawaiimuseum.org/events"
+    },
+    {
+     "label": "Paubox blog, \"Patent Your Invention\" panel at Hawaiʻi Tech Week 2026",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The main image on the Inspiration Hawaiʻi Museum home page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Photo from the \"Patent Your Invention\" panel, Hawaiʻi Tech Week 2026, on the museum Events page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/events",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "First photo in the Hōkūleʻa Exhibit gallery on the museum home page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-inv-01",
+   "date": "2027-03-23",
+   "id": "MUS-INV-01",
+   "title": "ʻIolani Palace had electric light before the White House",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "IEEE Milestone record (ETHW), \"Electric Lighting of the Kingdom of Hawaii, 1886 to 1888,\" no. 186, dedicated March 23, 2018",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "ʻIolani Palace, \"Electric Lighting of Kingdom of Hawaii in 1888 Receives Global Recognition as an IEEE Milestone\" (May 2, 2018)",
+     "url": ""
+    },
+    {
+     "label": "Hawaiian Electric, \"Our History and Timeline\"",
+     "url": ""
+    },
+    {
+     "label": "Hawaiian Electric, \"1881: The Birth of Hawaiian Electric\"",
+     "url": ""
+    },
+    {
+     "label": "The Sun (New York), \"Kalakaua Visits Edison,\" September 26, 1881, page 1",
+     "url": "https://chroniclingamerica.loc.gov/lccn/sn83030272/1881-09-26/ed-1/seq-1/"
+    },
+    {
+     "label": "The Daily Bulletin (Honolulu), \"Electric Light,\" July 22, 1886, page 3",
+     "url": "https://chroniclingamerica.loc.gov/lccn/sn82016412/1886-07-22/ed-1/seq-3/"
+    },
+    {
+     "label": "The Daily Bulletin (Honolulu), November 26, 1886",
+     "url": ""
+    },
+    {
+     "label": "White House Historical Association, \"The White House Gets Electric Lighting, 1891\"",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "ʻIolani Palace, southwest front facade and grounds, Honolulu (HABS HI-1, photo 1)",
+     "credit": "Historic American Buildings Survey (HABS HI-1), Library of Congress, no known restrictions",
+     "url": "https://www.loc.gov/resource/hhh.hi0047.photos/?sp=1",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "King Kalākaua, about 1882, Hawaiʻi State Archives",
+     "credit": "James J. Williams, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Kalakaua_(PPWD-15-4.018).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The Sun (New York), September 26, 1881, page 1, \"Kalakaua Visits Edison\"",
+     "credit": "Library of Congress, Chronicling America, public domain",
+     "url": "https://www.loc.gov/resource/sn83030272/1881-09-26/ed-1/?sp=1",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The Daily Bulletin (Honolulu), July 22, 1886, page 3, \"Electric Light\"",
+     "credit": "Library of Congress, Chronicling America, public domain",
+     "url": "https://www.loc.gov/resource/sn82016412/1886-07-22/ed-1/?sp=3",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Princess Liliʻuokalani, between 1880 and 1887, Hawaiʻi State Archives",
+     "credit": "Hawaiʻi State Archives, public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "ʻIolani Palace main entrance portico, copy of an 1886 photograph (HABS HI-1, photo 53)",
+     "credit": "Historic American Buildings Survey (HABS HI-1), Library of Congress, no known restrictions",
+     "url": "https://www.loc.gov/resource/hhh.hi0047.photos/?sp=53",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Chandelier in the Throne Room, ʻIolani Palace (HABS HI-1, photo 31)",
+     "credit": "Historic American Buildings Survey (HABS HI-1), Library of Congress, no known restrictions",
+     "url": "https://www.loc.gov/resource/hhh.hi0047.photos/?sp=31",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Throne Room, general view, ʻIolani Palace (HABS HI-1, photo 28)",
+     "credit": "Historic American Buildings Survey (HABS HI-1), Library of Congress, no known restrictions",
+     "url": "https://www.loc.gov/resource/hhh.hi0047.photos/?sp=28",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Hawaiian Electric Company building, 900 Richards Street, Honolulu, built 1927 (HABS HI-527)",
+     "credit": "Historic American Buildings Survey (HABS HI-527), Library of Congress, no known restrictions",
+     "url": "https://www.loc.gov/resource/hhh.hi0840.photos/?sp=1",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-inv-02",
+   "date": "2027-03-24",
+   "id": "MUS-INV-02",
+   "title": "The Hawaiian Kingdom had its own patent law",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "Kingdom of Hawaiʻi, \"An Act to Regulate the Issuing of Patents,\" approved August 29, 1884; amended June 23, 1888, and May 12, 1896 (Act 27)",
+     "url": ""
+    },
+    {
+     "label": "Patent Laws of the Republic of Hawaii and Rules of Practice in the Patent Office, fifth edition (Honolulu: Hawaiian Gazette Company, 1897), Project Gutenberg ebook 22684",
+     "url": ""
+    },
+    {
+     "label": "William S. Richardson School of Law, Hawaiʻi Laws LibGuide (1884 session and compiled laws)",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Renner Otto, \"By the Order of Kalakaua Rex\"",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Page 1 of the 1897 printing of \"An Act to Regulate the Issuing of Patents\"",
+     "credit": "Hawaiian Gazette Company, 1897, public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "King Kalākaua, Hawaiʻi State Archives photograph (PP-96-11-001)",
+     "credit": "Hawaiʻi State Archives, public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Page 2 of the 1897 printing: Section 2, the ten-year patent term",
+     "credit": "Hawaiian Gazette Company, 1897, public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Page 4 of the 1897 printing: Sections 8 and 9, fees and the repeal of the 1868 act",
+     "credit": "Hawaiian Gazette Company, 1897, public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Pages 5 and 6 of the 1897 printing: the 1888 amendment, signed by L. A. Thurston",
+     "credit": "Hawaiian Gazette Company, 1897, public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Page 13 of the 1897 printing: the copyright act",
+     "credit": "Hawaiian Gazette Company, 1897, public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "King Kalākaua, Hawaiʻi State Archives photograph (PP-96-11-003)",
+     "credit": "Hawaiʻi State Archives, public domain",
+     "url": "",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-inv-03",
+   "date": "2027-03-25",
+   "id": "MUS-INV-03",
+   "title": "The steel guitar was invented here; the museum's guitar was built in 1934",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "Kamehameha Schools Archives, timeline",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Smithsonian, \"How the Hawaiian Steel Guitar Changed American Music\" (curator John Troutman)",
+     "url": ""
+    },
+    {
+     "label": "The Metropolitan Museum of Art, Rickenbacker A-22 \"Frying Pan\" electric guitar, about 1934",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Rickenbacker \"Frying Pan\" cast aluminum electric guitar, 1934",
+     "credit": "doryfour, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Rickenback_Frying_Pan_aluminum-cast_guitar_(1934).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Joseph Kekuku in a Los Angeles Times advertisement, 1912",
+     "credit": "Unknown author, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Joseph_Kekuku_in_the_Los_Angeles_Times_1912_(cropped).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "First graduating class of the Kamehameha School for Boys, 1891",
+     "credit": "Kamehameha Schools Archives, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:First_Graduating_Class_of_the_Kamehameha_School_for_Boys,_1891.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "\"Frying Pan\" prototype guitar of one-piece maple, 1931",
+     "credit": "wetwebwork, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Flying_Pan_prototype_(1931)_using_one-piece_maple.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "U.S. patent drawing of the Rickenbacker \"Frying Pan\" guitar",
+     "credit": "George D. Beauchamp, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:RickenbackerFryingpanPatentDiagram.png",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-inv-04",
+   "date": "2027-03-21",
+   "id": "MUS-INV-04",
+   "title": "KinetiCor: an MRI that moves with you",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "U.S. Food and Drug Administration, 510(k) K193324, Kineticor, Inc., Honolulu (decision February 4, 2020; Class II; product code LNH), with 510(k) summary",
+     "url": "https://accessdata.fda.gov/cdrh_docs/pdf19/K193324.pdf"
+    },
+    {
+     "label": "U.S. Food and Drug Administration, 510(k) K183254 (cleared January 18, 2019)",
+     "url": ""
+    },
+    {
+     "label": "U.S. Patent 9,305,365 B2, \"Systems, devices, and methods for tracking moving targets\" (April 5, 2016)",
+     "url": "https://patents.google.com/patent/US9305365B2/en"
+    },
+    {
+     "label": "U.S. Patent 10,004,462 B2, \"Systems, methods, and devices for removing prospective motion correction from medical imaging scans\" (June 26, 2018)",
+     "url": "https://patents.google.com/patent/US10004462B2/en"
+    },
+    {
+     "label": "U.S. Patent 10,327,708 B2, \"Systems, devices, and methods for tracking and compensating for patient motion during a medical imaging scan\" (June 25, 2019)",
+     "url": "https://patents.google.com/patent/US10327708B2/en"
+    },
+    {
+     "label": "U.S. Patent 10,716,515 (July 21, 2020)",
+     "url": ""
+    },
+    {
+     "label": "U.S. Patent 11,100,636 B2, \"Systems, devices, and methods for tracking and compensating for patient motion during a medical imaging scan\" (August 24, 2021)",
+     "url": "https://patents.google.com/patent/US11100636B2/en"
+    },
+    {
+     "label": "Jaimes et al., Boston Children's Hospital, Siemens MAGNETOM Flash (2019)",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "University of Hawaiʻi News, \"High-tech company based on UH research launches amid high interest\" (2013)",
+     "url": ""
+    },
+    {
+     "label": "KinetiCor press release, GlobeNewswire (February 19, 2020)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "U.S. Patent 10,004,462 B2 (June 26, 2018), drawing sheet 1",
+     "credit": "Thomas Michael Ernst, Benjamin Anton Zahneisen, Jeffrey N. Yu (inventors), U.S. patent, public domain",
+     "url": "https://patents.google.com/patent/US10004462B2/en",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "U.S. Patent 9,305,365 B2, \"Systems, devices, and methods for tracking moving targets\" (April 5, 2016), drawing sheet 1",
+     "credit": "John Arthur Lovberg, Xiaojiang Jason Pan (inventors), U.S. patent, public domain",
+     "url": "https://patents.google.com/patent/US9305365B2/en",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "U.S. Patent 10,327,708 B2 (June 25, 2019), drawing sheet 1",
+     "credit": "Jeffrey N. Yu, John Arthur Lovberg, Xiaojiang Jason Pan et al. (inventors), U.S. patent, public domain",
+     "url": "https://patents.google.com/patent/US10327708B2/en",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "U.S. Patent 11,100,636 B2, two-camera tracking system (August 24, 2021), drawing sheet 1",
+     "credit": "Jeffrey N. Yu, William Herman Alameida Jr., John Arthur Lovberg, Xiaojiang Jason Pan et al. (inventors), U.S. patent, public domain",
+     "url": "https://patents.google.com/patent/US11100636B2/en",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "U.S. Patent 10,716,515 (July 21, 2020), drawing of the device mounted in a scanner",
+     "credit": "U.S. patent, public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "FDA 510(k) K183254 decision record, cleared January 18, 2019, for the Siemens MAGNETOM Vida",
+     "credit": "U.S. Food and Drug Administration, U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "FDA clearance letter and 510(k) summary, K193324, page 1",
+     "credit": "U.S. Food and Drug Administration, U.S. government work",
+     "url": "https://accessdata.fda.gov/cdrh_docs/pdf19/K193324.pdf",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-inv-05",
+   "date": "",
+   "id": "MUS-INV-05",
+   "title": "Three inventors, all from Hawaiʻi public schools",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "United States Patent and Trademark Office, 2022 event biography of Hoala Greevy",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Inventors page",
+     "url": "https://inspirationhawaiimuseum.org/inventors"
+    },
+    {
+     "label": "\"Patent Your Invention\" panel pages, Luma",
+     "url": ""
+    },
+    {
+     "label": "Paubox blog, \"Patent Your Invention\" panel at Hawaiʻi Tech Week 2026",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Photo of John Ogawa Borland, \"Inventors from Hawaii: U.S. Patents\" section of the museum Inventors page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/inventors",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Photo of Olin Kealoha Lagon, same section of the museum Inventors page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/inventors",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Photo of Hoala Greevy, same section of the museum Inventors page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/inventors",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-mus-01",
+   "date": "2027-03-22",
+   "id": "MUS-MUS-01",
+   "title": "Why this museum exists: 2008",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "Columbia University oral history listing",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, mission pages",
+     "url": ""
+    },
+    {
+     "label": "Inspiration Hawaiʻi Museum, founding story",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Barack Obama speaks at the Democratic National Convention, Denver, Colorado, August 2008",
+     "credit": "Carol M. Highsmith, Library of Congress, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Presidential_candidate_Barack_Obama_speaks_to_the_audience_at_the_Democratic_National_Convention,_Denver,_Colorado,_August_25-28,_2008_LCCN2010719317.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Photo captioned \"They inspired the world\" in the \"A Place of Inspiration\" section of gloriacborland.com",
+     "credit": "gloriacborland.com, courtesy of Gloria Borland",
+     "url": "https://gloriacborland.com/",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-spt-01",
+   "date": "2027-03-27",
+   "id": "MUS-SPT-01",
+   "title": "Duke Kahanamoku: gold in 1912 and 1920",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "Swedish Sports Confederation photo archive (1912 caption: gold, 1:03.4, July 10, 1912)",
+     "url": ""
+    },
+    {
+     "label": "Library of Congress, George Grantham Bain Collection",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Olympedia, 1912 and 1920 results",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Duke Kahanamoku, Stockholm, 1912",
+     "credit": "Axel Malmström, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Duke_Kahanamoku_1912.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Duke Kahanamoku accepts the Olympic gold medal from King Gustav, Stockholm, 1912",
+     "credit": "Unknown author, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Duke_Kahanamoku_accepting_the_Olympic_Gold_Medal_from_King_Gustav,_Stockholm,_Sweden_1912.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "\"Lew G. Henderson; Vincent Genoves; E.K. Miller; and Duke P. Kahanamoku,\" 1912",
+     "credit": "Bain News Service, Library of Congress, no known restrictions",
+     "url": "https://www.loc.gov/item/2014690157/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "\"Duke P. Kahanamoku,\" about 1910 to 1915",
+     "credit": "Bain News Service, Library of Congress, no known restrictions",
+     "url": "https://www.loc.gov/item/2014690636/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Johnny Weissmuller and Duke Kahanamoku at the Olympics",
+     "credit": "Unknown author, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Johnny_Weissmuller_and_Duke_Kahanamoku_at_Olympics.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-spt-02",
+   "date": "2027-03-13",
+   "id": "MUS-SPT-02",
+   "title": "Carissa Moore: the first Olympic surfing gold",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "World Surf League records",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Olympics.com, Carissa Moore athlete profile",
+     "url": ""
+    },
+    {
+     "label": "Team USA, Carissa Moore profile (Punahou 2010)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Carissa Moore surfing",
+     "credit": "troy_williams, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Carissa_Moore_(28625521465).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Carissa Moore in Biarritz, 2011",
+     "credit": "CeeX, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Carissa_moore_2011_biarritz.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Carissa Moore, 2013",
+     "credit": "Bruno Nando, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Carissa_moore_2013.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Carissa Moore surfing",
+     "credit": "troy_williams, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Carissa_(27986937853).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Carissa Moore",
+     "credit": "Lunacchi, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Carissa_Moore_(9385641415).jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-spt-03",
+   "date": "2027-03-14",
+   "id": "MUS-SPT-03",
+   "title": "1952: Hawaiʻi's swimmers in Helsinki",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Honolulu Star-Advertiser, \"Rearview Mirror\" column (July 12, 2024)",
+     "url": ""
+    },
+    {
+     "label": "Honolulu Magazine, \"Hawaiʻi's Olympians\"",
+     "url": ""
+    },
+    {
+     "label": "International Swimming Hall of Fame, Yoshinobu Oyakawa",
+     "url": ""
+    },
+    {
+     "label": "Olympedia, William Woolsey",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The 1952 Helsinki Olympics at the Swimming Stadium, Helsinki City Museum",
+     "credit": "Olympia-kuva Oy, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Helsinki_olympialaiset_1952_-_XLVIII-269_-_hkm.HKMS000005-km0000mrd3.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "McKinley High School, Honolulu, statue and administration building",
+     "credit": "Joel Bradshaw, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Honolulu-McKinley-HS-statue-admin.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The 1952 Helsinki Olympics at the Swimming Stadium, Helsinki City Museum",
+     "credit": "Olympia-kuva Oy, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Helsinki_olympialaiset_1952_-_XLVIII-271_-_hkm.HKMS000005-km0000mrd7.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Aerial view of Hilo Bay",
+     "credit": "Kanoa Withington, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hilo.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The irrigation ditch at Puʻunēnē School, Maui, where Soichi Sakamoto's Three-Year Swim Club practiced",
+     "credit": "Joel Bradshaw, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Maui-Puunene-School-irrigation-ditch.JPG",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-spt-04",
+   "date": "2027-03-15",
+   "id": "MUS-SPT-04",
+   "title": "Bryan Clay and the Wheaties box",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "World Athletics, Bryan Clay profile",
+     "url": ""
+    },
+    {
+     "label": "Olympedia, Bryan Clay",
+     "url": ""
+    },
+    {
+     "label": "Civil Beat, Wheaties box exhibit",
+     "url": ""
+    },
+    {
+     "label": "Inspiration Hawaiʻi Museum, founding story",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Bryan Clay in Doha, 2010",
+     "credit": "Erik van Leeuwen, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bryan_Clay_Doha_2010-2.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Bryan Clay running, World Championships, Osaka, 2007",
+     "credit": "Eckhard Pecher (Arcimboldo), CC BY 2.5",
+     "url": "https://commons.wikimedia.org/wiki/File:Osaka07_D7M_Bryan_Clay_running.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Bryan Clay in Doha, 2010",
+     "credit": "Erik van Leeuwen, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bryan_Clay_Doha_2010.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bryan Clay at the 2012 Thorpe Cup",
+     "credit": "Jared Preston, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:2012_Thorpe_Cup_005.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-spt-05",
+   "date": "2027-03-16",
+   "id": "MUS-SPT-05",
+   "title": "2008 Beijing: Natasha Kai and Clay Stanley",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Olympedia, Clay Stanley and Natasha Kai",
+     "url": ""
+    },
+    {
+     "label": "International Volleyball Hall of Fame, Clay Stanley (class of 2021)",
+     "url": ""
+    },
+    {
+     "label": "U.S. Soccer, Natasha Kai",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Natasha Kai and Whitney Engen, 2011",
+     "credit": "kkimphotography, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Natasha_Kai_and_Whitney_Engen.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Volleyball at the 2004 Summer Olympics, where Clay Stanley played",
+     "credit": "Matthew Mayer, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:VolleyballAt2004SummerOlympics-1.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-spt-06",
+   "date": "2027-03-17",
+   "id": "MUS-SPT-06",
+   "title": "The UH Wahine: four national titles",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "NCAA championship records",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "UH Athletics, Dave Shoji biography",
+     "url": ""
+    },
+    {
+     "label": "UH Mālamalama, \"Wahine athletics highlights timeline\" (2011)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Hawaiʻi vs. USC women's volleyball, Stan Sheriff Center, 2011",
+     "credit": "ElChibo808, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:StanSheriffCenterUHUSCWVB2011.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Flag of the State of Hawaiʻi",
+     "credit": "Public domain",
+     "url": "",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-spt-07",
+   "date": "2027-03-18",
+   "id": "MUS-SPT-07",
+   "title": "Honolulu Little League: 2022 world champions (team-level)",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "Little League Baseball, 2022 Little League Baseball World Series results",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "CBS Sports (August 28, 2022)",
+     "url": ""
+    },
+    {
+     "label": "Honolulu Star-Advertiser (August 28, 2022)",
+     "url": ""
+    },
+    {
+     "label": "Inspiration Hawaiʻi Museum, founding story",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Little League World Series and Lamade Stadium, 2007",
+     "credit": "Ruhrfisch, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Little_League_World_Series_and_Lamade_Stadium.JPG",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-spt-08",
+   "date": "2027-03-19",
+   "id": "MUS-SPT-08",
+   "title": "159 professional football players from Hawaiʻi",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, list of professional football players from Hawaiʻi (Sports page)",
+     "url": ""
+    },
+    {
+     "label": "KHON2, \"Hawaii's trailblazers shine in new Inspiration Museum\"",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Seal of the State of Hawaiʻi",
+     "credit": "Sodacan, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Seal_of_the_State_of_Hawaii.svg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Aloha Stadium from above, 2024",
+     "credit": "Quintin Soloviev, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hawaii%27s_abandoned_Aloha_Stadium_view_from_above.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-spt-09",
+   "date": "2027-03-20",
+   "id": "MUS-SPT-09",
+   "title": "Women Sports Pioneers: Hawaiʻi went first",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Hawaiʻi State Department of Education, \"Alumni Spotlight: Clarissa Chun (Roosevelt High)\"",
+     "url": ""
+    },
+    {
+     "label": "National Wrestling Hall of Fame, Clarissa Chun biography (Distinguished Member, 2022)",
+     "url": ""
+    },
+    {
+     "label": "Hawaiʻi Sports Hall of Fame (2018)",
+     "url": ""
+    },
+    {
+     "label": "Honolulu Star-Advertiser (June 26, 2022)",
+     "url": ""
+    },
+    {
+     "label": "Inspiration Hawaiʻi Museum, Sports page (Bradina Anae; Women Sports Pioneers)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Clarissa Chun wrestling at an international tournament, 2014",
+     "credit": "Marie-Lan Nguyen, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Stadnyk_v_Chun_Tournoi_GPSO_2014_t120907.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-st-01",
+   "date": "",
+   "id": "MUS-ST-01",
+   "title": "Coming soon: books for children",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Inspiration Hawaiʻi Museum, Store page (\"Store coming soon\"; \"Books for Children\")",
+     "url": "https://inspirationhawaiimuseum.org/store"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The \"Books for Children\" image on the museum Store page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/store",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-woc-01",
+   "date": "2027-03-31",
+   "id": "MUS-WOC-01",
+   "title": "Haunani-Kay Trask: scholar, poet, voice for sovereignty",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "University of Hawaiʻi News (August 18, 2020)",
+     "url": ""
+    },
+    {
+     "label": "University of Hawaiʻi News (November 12, 2019)",
+     "url": ""
+    },
+    {
+     "label": "Ka Wai Ola, \"Honoring a Woman Warrior\" (2021)",
+     "url": ""
+    },
+    {
+     "label": "Cultural Survival (July 2021)",
+     "url": ""
+    },
+    {
+     "label": "HAWAIʻI Magazine (quote)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "ʻIolani Palace, southwest facade, oblique view, Honolulu (HABS HI-1, photo 2)",
+     "credit": "Historic American Buildings Survey (HABS HI-1), Library of Congress, no known restrictions",
+     "url": "https://www.loc.gov/resource/hhh.hi0047.photos/?sp=2",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-woc-02",
+   "date": "2027-03-29",
+   "id": "MUS-WOC-02",
+   "title": "Kahoʻolawe: the movement that stopped the bombing",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Hawaiʻi Public Radio (October 5, 2022)",
+     "url": ""
+    },
+    {
+     "label": "Hawaii News Now (January 2017)",
+     "url": ""
+    },
+    {
+     "label": "Hawaii News Now (December 9, 2025)",
+     "url": ""
+    },
+    {
+     "label": "Protect Kahoʻolawe ʻOhana, published materials",
+     "url": ""
+    },
+    {
+     "label": "UH Maui College, Hoʻoulu (Joyce Kainoa, 2019)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Kahoʻolawe from space, NASA Landsat image",
+     "credit": "NASA, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:KahoolaweLandsat.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "\"Kahoʻolawe,\" painting by William Twigg-Smith, 1928",
+     "credit": "William Twigg-Smith, public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Aerial view of Kahoʻolawe",
+     "credit": "Commander John Bortniak, NOAA Corps, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:KahoolaweAerial.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-woc-03",
+   "date": "2027-03-28",
+   "id": "MUS-WOC-03",
+   "title": "Wilhelmine Dowsett and the fight for the vote",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "National Park Service, \"Wilhelmina Kekelaokalaninui Widemann Dowsett\"",
+     "url": ""
+    },
+    {
+     "label": "Smithsonian Magazine (2020)",
+     "url": ""
+    },
+    {
+     "label": "Turning Point Suffragist Memorial",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Wilhelmine Dowsett, Hawaiʻi State Archives",
+     "credit": "Unknown author, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Wilhelmine_Dowsett_PP-71-2-014.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Hermann A. Widemann and his daughter Wilhelmine",
+     "credit": "Jean Baptiste Feilner, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Hermann_A._Widemann_and_his_daughter_Wilhelmine.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Hermann A. Widemann, Wilhelmina Widemann, and Charlie Berger, 1886",
+     "credit": "Unknown author, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Hermann_A._Widemann,_Wilhelmina_Widemann,_and_Charlie_Berger,_1886.jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-yt-01",
+   "date": "",
+   "id": "MUS-YT-01",
+   "title": "A two-time national yo-yo champion",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [
+    {
+     "label": "U.S. National Yo-Yo Contest records",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaii News Now (July 9, 2023)",
+     "url": ""
+    },
+    {
+     "label": "KHON2 (2022)",
+     "url": ""
+    },
+    {
+     "label": "Wikipedia, \"2018 World Yo-Yo Contest\"",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Photo of Evan Nagao in the Young Talent section of the museum home page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Evan Nagao at age 4 showing Jay Leno how to yo-yo on the Tonight Show, from the Young Talent section of the museum home page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-yt-02",
+   "date": "",
+   "id": "MUS-YT-02",
+   "title": "Under five seconds",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Honolulu Star-Advertiser (July 9, 2023)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Photo of Matty Hiroto Inaba in the Young Talent section of the museum home page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A collection of Rubik's Cubes",
+     "credit": "Gerwin Sturm, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Rubik%27s_Cube_Collection_(4316806619).jpg",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  },
+  {
+   "slug": "mus-yt-03",
+   "date": "",
+   "id": "MUS-YT-03",
+   "title": "B-Boy Hi Jack",
+   "series": "Exhibit in Progress",
+   "origin": {
+    "kind": "main",
+    "label": "Inspiration Hawaiʻi Museum",
+    "url": "https://inspirationhawaiimuseum.org"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "KHON2 (2023)",
+     "url": ""
+    },
+    {
+     "label": "The Source (July 31, 2023)",
+     "url": ""
+    },
+    {
+     "label": "6abc",
+     "url": ""
+    },
+    {
+     "label": "Hawaiʻi Public Radio (2022)",
+     "url": ""
+    },
+    {
+     "label": "Hana Hou",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Photo of Jack Rabanal in the Young Talent section of the museum home page",
+     "credit": "Inspiration Hawaiʻi Museum",
+     "url": "https://inspirationhawaiimuseum.org/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Graphic made for this post: Jack Rabanal's path from founding Keiki Breaks in Honolulu (2016) to winning the Red Bull BC One USA National Final in Philadelphia (August 26, 2023) and the Red Bull BC One World Final in Paris (October 2023)",
+     "credit": "Hawaiʻi Public Radio; KHON2",
+     "url": "",
+     "card": false
+    }
+   ],
+   "note": "Exhibit in Progress is RN Collins' series in partnership with the Inspiration Hawaiʻi Museum."
+  }
+ ]
+}

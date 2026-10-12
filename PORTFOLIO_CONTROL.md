@@ -121,6 +121,7 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [x] Every sources page and account index links to RN Selected Work itself (a line under the title and a block at the end: home, selected work index, all sources).
 - [x] `/sources` links to every account index (the only change to the Ask a Neuroscientist page; its addresses and behavior are unchanged).
 - [ ] Refresh the maker, edition and Dutch Design Awards pages when their essays are rewritten (deep essays supply the sources where they exist).
+- [x] Takeover packages (Oct 11, 2026): 155 pages from `scripts/export_takeover_sources.py` and `scripts/takeover-references.json` (references only, from each package's dossier and slide table). `/sources/polymath/pm-rnc-01` to `pm-rnc-15` (15, added to the existing Polymath account; `pm-01` to `pm-15` unchanged), `/sources/museum/<id>` (47 Exhibit in Progress packages, each noting the Inspiration Hawaiʻi Museum partnership) and `/sources/film/<id>` (93: FC, HF, PC, BR, OH, HF2, carrying RN's partnership disclosure where the package does). Dates come from the master calendar; eight museum packages without one have pages but are not listed. A reference with no public copy is listed without a link.
 
 ## Essay pages (noindex until RN flips one flag)
 
