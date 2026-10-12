@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11",
+ "generated": "2026-10-12",
  "host": "rn-selected-work.vercel.app",
  "posts": [
   {
@@ -1262,7 +1262,8 @@
      "url": "",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-02",
@@ -1301,7 +1302,8 @@
      "url": "",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-03",
@@ -1336,7 +1338,8 @@
      "url": "",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-04",
@@ -1501,7 +1504,8 @@
      "url": "",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-08",
@@ -1544,7 +1548,8 @@
      "url": "",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-09",
@@ -1599,7 +1604,8 @@
      "url": "https://sanctuaries.noaa.gov/papahanaumokuakea-expansion",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-10",
@@ -1635,7 +1641,8 @@
      "url": "",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-11",
@@ -1670,7 +1677,8 @@
      "url": "https://files.hawaii.gov/dbedt/economic/databook/db1996/sec10.pdf",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-12",
@@ -1705,7 +1713,8 @@
      "url": "",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-13",
@@ -1812,7 +1821,8 @@
      "url": "",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-15",
@@ -1855,7 +1865,8 @@
      "url": "",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-16",
@@ -1899,7 +1910,8 @@
      "url": "",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "hf-17",
@@ -1950,7 +1962,8 @@
      "url": "",
      "card": false
     }
-   ]
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
   },
   {
    "slug": "pc-01",
@@ -2496,7 +2509,7 @@
    "slug": "br-10",
    "date": "2027-02-28",
    "id": "BR-10",
-   "title": "The fight to protect Title IX's athletics came in 1974 and 1975",
+   "title": "The fight to protect Title IX's athletics came in 1975",
    "series": "Behind the research",
    "origin": {
     "kind": "main",
@@ -2612,7 +2625,7 @@
    "slug": "br-13",
    "date": "2027-03-21",
    "id": "BR-13",
-   "title": "What we could and couldn't confirm about Kalākaua's 1872 letter",
+   "title": "Checking the story of Kalākaua's letter to Brazil",
    "series": "Behind the research",
    "origin": {
     "kind": "main",
@@ -2621,18 +2634,18 @@
    },
    "research": [
     {
-     "label": "Hawaiʻi State Archives, Foreign Office and Executive finding aids",
-     "url": "https://ags.hawaii.gov/archives"
+     "label": "Hawaiʻi State Archives, Foreign Office and Executive Folder Lists, 1850 to 1900, finding aid (revised July 6, 2022): the 1872 folders are listed by office, and none names Brazil",
+     "url": "https://ags.hawaii.gov/wp-content/uploads/2022/07/hsa_foex-1850-1900_fa_revck_20220706.pdf"
     }
    ],
    "other": [
     {
-     "label": "Images of Old Hawaii",
-     "url": ""
+     "label": "Peter T. Young, \"Inventions,\" Images of Old Hawaiʻi, November 15, 2023: dates the letter to Dom Pedro II September 19, 1872, and cites only \"Kelley\"",
+     "url": "https://imagesofoldhawaii.com/inventions/"
     },
     {
-     "label": "Ke Ola Magazine",
-     "url": ""
+     "label": "Pete Hendricks, \"David Kalākaua's Hawaiʻi,\" Ke Ola Magazine, November to December 2011: names an armored, torpedo-proof ship among his sketches, with no Brazil and no date",
+     "url": "https://keolamagazine.com/then-now/david-kalakauas-hawaii/"
     },
     {
      "label": "Sources for the king who sketched warships",
@@ -2642,16 +2655,30 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Hawaiʻi State Archives, Foreign Office and Executive finding aid page",
-     "credit": "State of Hawaiʻi",
-     "url": "",
+     "what": "Emperor Pedro II of Brazil in an admiral's uniform, 1870",
+     "credit": "Joaquim Insley Pacheco, public domain, via Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Pedro_II_Admiral_Brazil_1870.jpg",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Graphic made for this post: the accounts in Images of Old Hawaii and Ke Ola Magazine, side by side",
-     "credit": "Images of Old Hawaii; Ke Ola Magazine",
+     "what": "Graphic made for this post: the accounts in Images of Old Hawaiʻi and Ke Ola Magazine, side by side",
+     "credit": "RN Collins studio, from Images of Old Hawaiʻi (2023) and Ke Ola Magazine (2011)",
      "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "King Kamehameha V seated in a chair, 1865",
+     "credit": "Charles L. Weed, Hawaiʻi State Archives PP-97-9-008, public domain, via Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Kamehameha_V_in_chair,_photograph_by_Charles_L._Weed_(PP-97-9-008).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Hawaiʻi State Archives, Foreign Office and Executive Folder Lists finding aid, the 1871 and 1872 folder lists",
+     "credit": "State of Hawaiʻi",
+     "url": "https://ags.hawaii.gov/wp-content/uploads/2022/07/hsa_foex-1850-1900_fa_revck_20220706.pdf",
      "card": false
     }
    ],
@@ -3379,6 +3406,66 @@
      "where": "Slide 2",
      "what": "Waikīkī in the afternoon, 2010",
      "credit": "Daniel Ramirez, CC BY 2.0, via Wikimedia Commons",
+     "url": "",
+     "card": false
+    }
+   ],
+   "note": "Disclosure: I'm a partner on Barack Obama: Made in Hawaii and will be paid for its post-production."
+  },
+  {
+   "slug": "hf2-15",
+   "date": "",
+   "id": "HF2-15",
+   "title": "Net power from the ocean's heat, 1979",
+   "series": "Hawaiʻi Firsts, season 2",
+   "origin": {
+    "kind": "main",
+    "label": "Barack Obama: Made in Hawaii, the film's site",
+    "url": "https://obamahawaii.com"
+   },
+   "research": [
+    {
+     "label": "Natural Energy Laboratory of Hawaiʻi Authority, FY2012 Annual Report, Appendix 1, \"Timeline of Major Events,\" 1979 entry",
+     "url": "https://nelha.hawaii.gov/wp-content/uploads/2013/05/NELHA-FY2012-Annual-Report-website-post.pdf"
+    },
+    {
+     "label": "Natural Energy Laboratory of Hawaiʻi Authority, client page for Makai Ocean Engineering: \"the world's first net-power producing OTEC plant\"",
+     "url": "https://nelha.hawaii.gov/our-clients/makai-ocean-engineering-inc/"
+    },
+    {
+     "label": "W. Owens and L. Trimble, \"Mini-OTEC Operational Results,\" Journal of Solar Energy Engineering 103(3), 1981",
+     "url": "https://doi.org/10.1115/1.3266245"
+    },
+    {
+     "label": "L. F. Lewis, U.S. Department of Energy, Ocean Energy Technology Division, \"Ocean Thermal Energy Conversion: Prospects for Near Term Development,\" 1983",
+     "url": "https://tethys-engineering.pnnl.gov/sites/default/files/publications/Lewis-1983-OTEC.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "PNNL Tethys, abstract of Owens and Trimble, \"Mini-OTEC Operational Results\"",
+     "url": "https://tethys-engineering.pnnl.gov/publications/mini-otec-operational-results"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Graphic made for this post: the 1979 Mini-OTEC entry in the state energy lab's timeline",
+     "credit": "RN Collins studio, from the NELHA FY2012 Annual Report and Owens and Trimble (1981)",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Keāhole Point and Kona International Airport from the air, October 11, 2021",
+     "credit": "Famartin, CC BY-SA 4.0, via Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:2021-10-11_07_04_03_View_of_Kona_International_Airport_in_Kalaoa,_Hawaii_County,_Hawaii_from_an_aircraft_just_after_takeoff.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Graphic made for this post: Mini-OTEC's closed-cycle loop",
+     "credit": "RN Collins studio, from Owens and Trimble (1981)",
      "url": "",
      "card": false
     }

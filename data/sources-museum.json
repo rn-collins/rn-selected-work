@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11",
+ "generated": "2026-10-12",
  "host": "rn-selected-work.vercel.app",
  "posts": [
   {
@@ -51,7 +51,7 @@
   },
   {
    "slug": "mus-eip-01",
-   "date": "2026-11-10",
+   "date": "2026-11-07",
    "id": "MUS-EIP-01",
    "title": "The building that sold electricity",
    "series": "Exhibit in Progress",
@@ -231,18 +231,22 @@
    },
    "research": [
     {
-     "label": "Hawaiʻi State Archives, Foreign Office finding aids for Kalākaua's papers",
-     "url": ""
+     "label": "Hawaiʻi State Archives, Foreign Office and Executive Folder Lists, 1850 to 1900, finding aid (revised July 6, 2022): names no letter to Brazil",
+     "url": "https://ags.hawaii.gov/wp-content/uploads/2022/07/hsa_foex-1850-1900_fa_revck_20220706.pdf"
     }
    ],
    "other": [
     {
-     "label": "Images of Old Hawaii, quoting Kalākaua's letter to Dom Pedro II of September 19, 1872",
-     "url": ""
+     "label": "Peter T. Young, \"Inventions,\" Images of Old Hawaiʻi, November 15, 2023: the only account we found of the September 19, 1872 letter to Dom Pedro II and the request to Queen Victoria; it cites \"Kelley\"",
+     "url": "https://imagesofoldhawaii.com/inventions/"
     },
     {
-     "label": "Ke Ola Magazine, on Kalākaua's personal letters and ship designs",
-     "url": ""
+     "label": "Pete Hendricks, \"David Kalākaua's Hawaiʻi,\" Ke Ola Magazine, November to December 2011: the torpedo-proof ship among his own concepts and sketches",
+     "url": "https://keolamagazine.com/then-now/david-kalakauas-hawaii/"
+    },
+    {
+     "label": "Checking the story of Kalākaua's letter to Brazil",
+     "url": "https://rn-selected-work.vercel.app/sources/film/br-13"
     }
    ],
    "images": [
@@ -262,9 +266,9 @@
     },
     {
      "where": "Slide 3",
-     "what": "Portrait of King Kalākaua",
-     "credit": "James J. Williams, public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Kingdavidkalakaua_dust.jpg",
+     "what": "King Kalākaua with officers and crew on the deck of the Hawaiian navy ship Kaimiloa, about 1887",
+     "credit": "Photographer unknown, Hawaiʻi State Archives PP-96-13-05, public domain, via Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Kalakaua_on_the_Kaimiloa_(PP-96-13-05).jpg",
      "card": false
     }
    ],
@@ -1193,7 +1197,7 @@
   },
   {
    "slug": "mus-ent-04",
-   "date": "",
+   "date": "2026-11-26",
    "id": "MUS-ENT-04",
    "title": "Robert Kiyosaki: Rich Dad Poor Dad from Hilo",
    "series": "Exhibit in Progress",
@@ -1352,7 +1356,7 @@
   },
   {
    "slug": "mus-ev-01",
-   "date": "",
+   "date": "2026-12-04",
    "id": "MUS-EV-01",
    "title": "More than a museum: a place to learn",
    "series": "Exhibit in Progress",
@@ -2351,7 +2355,7 @@
   },
   {
    "slug": "mus-st-01",
-   "date": "",
+   "date": "2026-12-13",
    "id": "MUS-ST-01",
    "title": "Coming soon: books for children",
    "series": "Exhibit in Progress",
@@ -2535,7 +2539,7 @@
   },
   {
    "slug": "mus-yt-01",
-   "date": "",
+   "date": "2026-12-10",
    "id": "MUS-YT-01",
    "title": "A two-time national yo-yo champion",
    "series": "Exhibit in Progress",
@@ -2584,7 +2588,7 @@
   },
   {
    "slug": "mus-yt-02",
-   "date": "",
+   "date": "2026-12-20",
    "id": "MUS-YT-02",
    "title": "Under five seconds",
    "series": "Exhibit in Progress",
@@ -2620,7 +2624,7 @@
   },
   {
    "slug": "mus-yt-03",
-   "date": "",
+   "date": "2026-12-27",
    "id": "MUS-YT-03",
    "title": "B-Boy Hi Jack",
    "series": "Exhibit in Progress",
