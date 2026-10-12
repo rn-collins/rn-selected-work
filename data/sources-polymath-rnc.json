@@ -1,0 +1,1558 @@
+{
+ "generated": "2026-10-11",
+ "host": "rn-selected-work.vercel.app",
+ "posts": [
+  {
+   "slug": "pm-rnc-01",
+   "date": "2027-02-15",
+   "id": "PM-RNC-01",
+   "title": "Law Happens Somewhere",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/law-happens-somewhere"
+   },
+   "research": [
+    {
+     "label": "Moksnes (2021)",
+     "url": "https://doi.org/10.1007/978-3-030-63135-2_4"
+    },
+    {
+     "label": "Eriksson and Lindström (2017)",
+     "url": ""
+    },
+    {
+     "label": "Hagan (2020)",
+     "url": ""
+    },
+    {
+     "label": "Moynihan, Herd and Harvey (2015)",
+     "url": ""
+    },
+    {
+     "label": "DOJ 2024 web rule fact sheet",
+     "url": ""
+    },
+    {
+     "label": "LSC Justice Gap (2022)",
+     "url": ""
+    },
+    {
+     "label": "EPA fee schedule",
+     "url": "https://www.uscourts.gov/court-programs/fees/electronic-public-access-fee-schedule"
+    },
+    {
+     "label": "Fed. R. Crim. P. 53",
+     "url": "https://www.law.cornell.edu/rules/frcrmp/rule_53"
+    },
+    {
+     "label": "HRS § 92-3",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092/HRS_0092-0003.htm"
+    },
+    {
+     "label": "5 U.S.C. 553",
+     "url": "https://www.law.cornell.edu/uscode/text/5/553"
+    }
+   ],
+   "other": [
+    {
+     "label": "ADA.gov effective communication",
+     "url": ""
+    },
+    {
+     "label": "Design Justice Network principles",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "\"Entrance, Rush Hudson Limbaugh Sr. U.S. Courthouse\" (2013), U.S. District Court, E.D. Missouri",
+     "credit": "U.S. government work, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Entrance,_Rush_Hudson_Limbaugh_Sr._U.S._Courthouse_(2013).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "\"Waiting at the Bronx DMV\" (Feb 26, 2020), Beyond My Ken",
+     "credit": "CC BY-SA 4.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Judiciary's Electronic Public Access Fee Schedule, uscourts.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "\"Bishop Henry Whipple Federal Building\" (Aug 17, 2020), Tony Webster",
+     "credit": "CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Bishop_Henry_Whipple_Federal_Building_(EOIR_Immigration_Court).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "ADA.gov, \"ADA Requirements: Effective Communication\"",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Hawaiʻi Revised Statutes § 92-3, \"Open meetings,\" capitol.hawaii.gov",
+     "credit": "state law, not copyrightable",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A Federal Register notice of proposed rulemaking under 5 U.S.C. 553",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-02",
+   "date": "2027-02-16",
+   "id": "PM-RNC-02",
+   "title": "Who Made This So Hard?",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/who-made-this-so-hard"
+   },
+   "research": [
+    {
+     "label": "Moynihan, Herd and Harvey (2015)",
+     "url": "https://academic.oup.com/jpart/article/25/1/43/885957"
+    },
+    {
+     "label": "DOJ LAIR 2022 and 2023 reports",
+     "url": "https://www.justice.gov/archives/atj/media/1281946/dl?inline="
+    },
+    {
+     "label": "GAO-25-107239",
+     "url": "https://www.gao.gov/assets/890/882476.pdf"
+    },
+    {
+     "label": "20 C.F.R. § 404.911",
+     "url": "https://www.law.cornell.edu/cfr/text/20/404.911"
+    },
+    {
+     "label": "U.S. Courts strategic plan, Priority 5",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "SSA appeals pages",
+     "url": "https://www.ssa.gov/ssi/text-appeals-ussi.htm"
+    },
+    {
+     "label": "Design Justice Network",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "\"Springfield DMV waiting area\" (Mar 3, 2021), Oregon Department of Transportation",
+     "credit": "CC BY 2.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Social Security Administration Form HA-501, Request for Hearing (edition 06-2022)",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "20 C.F.R. § 404.911 (good cause for missing an appeal deadline), ssa.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "GAO-25-107239 (2025), report on administrative burden, cover page",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "DOJ Legal Aid Interagency Roundtable, Access to Justice through Simplification (2022), cover",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Social Security Administration, \"Appeals Process\" page, ssa.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "\"Covered walkway into Beckwith Hall, President William McKinley High School, Honolulu\" (May 3, 2009), Joel Bradshaw",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-03",
+   "date": "2027-02-17",
+   "id": "PM-RNC-03",
+   "title": "Who Is Supposed to Supply What the Law Requires?",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/who-is-supposed-to-supply-what-the-law-requires"
+   },
+   "research": [
+    {
+     "label": "Gideon v. Wainwright (1963)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/372/335"
+    },
+    {
+     "label": "Turner v. Rogers (2011)",
+     "url": "https://www.law.cornell.edu/supct/html/10-10.ZO.html"
+    },
+    {
+     "label": "28 C.F.R. § 35.160",
+     "url": "https://www.law.cornell.edu/cfr/text/28/35.160"
+    },
+    {
+     "label": "DOJ Title II guidance",
+     "url": ""
+    },
+    {
+     "label": "The March 1, 2025 executive order and DOJ's Title VI notice",
+     "url": "https://www.whitehouse.gov/presidential-actions/2025/03/designating-english-as-the-official-language-of-the-united-states/"
+    },
+    {
+     "label": "Moynihan, Herd and Harvey (2015)",
+     "url": ""
+    },
+    {
+     "label": "NCSC Guide for Remote Dependency Hearings (2025)",
+     "url": "https://www.ncsc.org/sites/default/files/media/document/Guide%20for%20Remote%20Dependency%20Hearings.pdf"
+    },
+    {
+     "label": "Handbook of Salutogenesis (2022)",
+     "url": ""
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Public computer terminal, Markham Public Libraries, July 5, 2008",
+     "credit": "Raysonho, public domain, Wikimedia Commons",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Page 344 of Gideon v. Wainwright, 372 U.S. 335 (1963), U.S. Reports",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "First page of Turner v. Rogers, 564 U.S. 431 (2011), U.S. Reports, supremecourt.gov",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "28 C.F.R. § 35.160 on eCFR",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Executive Order 14224 (Mar 1, 2025), Federal Register Vol. 90, No. 43, p. 11363 (Mar 6, 2025), FR Doc. 2025-03694, govinfo.gov",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Pedestrian island and slip lane, University Avenue and South King Street, Honolulu, Feb 4, 2025",
+     "credit": "Sdkb, CC BY-SA 4.0",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-04",
+   "date": "2027-02-18",
+   "id": "PM-RNC-04",
+   "title": "A Right You Cannot Use",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/a-right-you-cannot-use"
+   },
+   "research": [
+    {
+     "label": "Goldberg v. Kelly (1970)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/397/254"
+    },
+    {
+     "label": "Mathews v. Eldridge (1976)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/424/319"
+    },
+    {
+     "label": "Constitution Annotated",
+     "url": ""
+    },
+    {
+     "label": "ADA Title II and 28 C.F.R. part 35",
+     "url": "https://www.ecfr.gov/current/title-28/part-35"
+    },
+    {
+     "label": "Herd and Moynihan, Administrative Burden",
+     "url": ""
+    },
+    {
+     "label": "Moynihan, Herd and Harvey (2015)",
+     "url": ""
+    },
+    {
+     "label": "NCSC Remote Proceedings Toolkit",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "ABA civil right to counsel resources",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Social Security Administration Publication No. 05-10058, page 4, \"How to appeal\"",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Page 1 of Goldberg v. Kelly, 397 U.S. 254 (1970), U.S. Reports",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Page 1 of Mathews v. Eldridge, 424 U.S. 319 (1976), U.S. Reports",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "28 C.F.R. § 35.130(b)(7) on eCFR",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Constitution Annotated, \"Opportunity for Meaningful Hearing,\" congress.gov",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Stairwell of the Laniākea YWCA, Richards Street, Honolulu, June 6, 2010",
+     "credit": "Joel Bradshaw, public domain",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-05",
+   "date": "2027-02-19",
+   "id": "PM-RNC-05",
+   "title": "Can the Institution Be Answered?",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/can-the-institution-be-answered"
+   },
+   "research": [
+    {
+     "label": "Mathews v. Eldridge (1976)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/424/319"
+    },
+    {
+     "label": "Goldberg v. Kelly (1970)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/397/254"
+    },
+    {
+     "label": "State Farm (1983)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/463/29"
+    },
+    {
+     "label": "Department of Commerce v. New York (2019)",
+     "url": "https://www.law.cornell.edu/supremecourt/text/18-966"
+    },
+    {
+     "label": "APA, 5 U.S.C. §§ 551 to 559, 701 to 706",
+     "url": ""
+    },
+    {
+     "label": "Tyler, Why People Obey the Law",
+     "url": ""
+    },
+    {
+     "label": "Burke and Leben, Procedural Fairness",
+     "url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1245&context=ajacourtreview"
+    },
+    {
+     "label": "NIST AI RMF 1.0",
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf"
+    },
+    {
+     "label": "Citron, Technological Due Process",
+     "url": ""
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Central Hearing Facility, Hart Senate Office Building, Washington, D.C., Jan 6, 2017",
+     "credit": "Architect of the Capitol, public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Page 43 of Motor Vehicle Manufacturers Association v. State Farm, 463 U.S. 29 (1983), U.S. Reports",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "5 U.S.C. § 706, Administrative Procedure Act, uscode.house.gov",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "NIST AI Risk Management Framework 1.0 (NIST AI 100-1), cover page",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "First page of Department of Commerce v. New York, 588 U.S. 752 (2019)",
+     "credit": "public domain",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Main entrance, Queen Liliʻuokalani Building, Honolulu, Feb 7, 2016",
+     "credit": "Joel Bradshaw, CC0",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-06",
+   "date": "2027-02-20",
+   "id": "PM-RNC-06",
+   "title": "Why Institutions Automate Existing Confusion",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/why-institutions-automate-existing-confusion"
+   },
+   "research": [
+    {
+     "label": "Royal Commission into the Robodebt Scheme, Final Report (2023)",
+     "url": "https://robodebt.royalcommission.gov.au/publications/report"
+    },
+    {
+     "label": "HHS OIG A-02-20-01018 (2022) and A-07-17-02807 (2020)",
+     "url": "https://oig.hhs.gov/reports/all/2020/colorado-improperly-claimed-millions-in-enhanced-federal-medicaid-reimbursement-for-new-adult-group-beneficiaries-because-of-a-data-processing-error/"
+    },
+    {
+     "label": "GAO-17-111 (2016)",
+     "url": "https://www.gao.gov/products/gao-17-111"
+    },
+    {
+     "label": "GAO-21-519SP",
+     "url": ""
+    },
+    {
+     "label": "GAO-20-590G",
+     "url": ""
+    },
+    {
+     "label": "ANAO Services Australia reports",
+     "url": ""
+    },
+    {
+     "label": "NIST SP 1270",
+     "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf"
+    },
+    {
+     "label": "CMS-0057-F",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "NIST AI RMF Core and Playbook",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Royal Commission into the Robodebt Scheme, Report vol. 1, ch. 3, pp. 37 to 38 (July 7, 2023): the passage on the illegality of income averaging",
+     "credit": "© Commonwealth of Australia 2023, CC BY 4.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Royal Commission into the Robodebt Scheme, Report ch. 17, section 2, p. 472",
+     "credit": "© Commonwealth of Australia 2023, CC BY 4.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "HHS Office of Inspector General, Report in Brief A-02-20-01018 (Feb 2022): 'both human and system errors' in four states",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "HHS OIG, Report in Brief A-07-17-02807 (Oct 2020): Colorado's data-processing error",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "GAO-17-111 Highlights page (Oct 2016): SNAP data matching and follow-up",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "NIST Special Publication 1270 (March 2022), page 6, section 2.1.2, 'Systemic' bias",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "GAO-21-519SP, Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, cover",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-07",
+   "date": "2027-02-21",
+   "id": "PM-RNC-07",
+   "title": "Why Source Provenance Is Governance Infrastructure",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/why-source-provenance-is-governance-infrastructure"
+   },
+   "research": [
+    {
+     "label": "W3C PROV-DM, PROV Primer, PROV-O",
+     "url": "https://www.w3.org/TR/prov-dm/"
+    },
+    {
+     "label": "NIST AI 100-1 and AI 600-1",
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf"
+    },
+    {
+     "label": "GAO-25-107721",
+     "url": "https://www.gao.gov/products/gao-25-107721"
+    },
+    {
+     "label": "NARA records basics",
+     "url": ""
+    },
+    {
+     "label": "36 C.F.R. § 1220.32",
+     "url": "https://www.ecfr.gov/current/title-36/chapter-XII/subchapter-B/part-1220/subpart-B/section-1220.32"
+    },
+    {
+     "label": "FDA data integrity and electronic source data guidance",
+     "url": ""
+    },
+    {
+     "label": "Federal Rule of Evidence 901",
+     "url": "https://www.law.cornell.edu/rules/fre/rule_901"
+    },
+    {
+     "label": "ORI FY 2021 Annual Report",
+     "url": "https://ori.hhs.gov/sites/default/files/2022-07/FY2021%20ORI%20Annual%20Report.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "NIST AI RMF Playbook",
+     "url": "https://airc.nist.gov/airmf-resources/playbook/govern/"
+    },
+    {
+     "label": "C2PA specification and explainer",
+     "url": "https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "C2PA Technical Specification v2.4 (April 2026), section 1.2, \"Scope,\" with its guiding principle on value judgments",
+     "credit": "© 2026 C2PA, CC BY 4.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Federal Rule of Evidence 901, \"Authenticating or Identifying Evidence,\" 28 U.S.C. Appendix, page 446, 2024 edition",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "36 C.F.R. § 1220.32, records management principles, revised July 1, 2025",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "HHS Office of Research Integrity, FY 2021 Annual Report, page 8, \"Correcting the Scientific Record\"",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "NIST AI Risk Management Framework 1.0, page 16, on training-data provenance",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "FDA, Data Integrity and Compliance With Drug CGMP: Questions and Answers (Dec 2018), page 4",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "GAO-25-107721, Standards for Internal Control in the Federal Government (2025), page 83, Principle 13",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-08",
+   "date": "2027-02-22",
+   "id": "PM-RNC-08",
+   "title": "Experience Is Governance",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/experience-is-governance"
+   },
+   "research": [
+    {
+     "label": "FTC, In the Matter of Epic Games (final complaint and order, Mar 14, 2023)",
+     "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/1923203epicgamesfinalconsent.pdf"
+    },
+    {
+     "label": "FTC, Bringing Dark Patterns to Light (2022)",
+     "url": "https://www.ftc.gov/reports/bringing-dark-patterns-light"
+    },
+    {
+     "label": "Maister (1985)",
+     "url": "https://davidmaister.com/articles/the-psychology-of-waiting-lines/"
+    },
+    {
+     "label": "NCHS Data Brief 102",
+     "url": "https://www.cdc.gov/nchs/products/databriefs/db102.htm"
+    },
+    {
+     "label": "Plain Writing Act",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ274/html/PLAW-111publ274.htm"
+    },
+    {
+     "label": "44 U.S.C. §§ 3502, 3512",
+     "url": "https://www.law.cornell.edu/uscode/text/44/3502"
+    },
+    {
+     "label": "5 C.F.R. § 1320.8",
+     "url": "https://www.law.cornell.edu/cfr/text/5/1320.8"
+    },
+    {
+     "label": "Section 508",
+     "url": ""
+    },
+    {
+     "label": "DOJ ADA Title II web rule",
+     "url": "https://www.ada.gov/resources/web-rule-first-steps/"
+    }
+   ],
+   "other": [
+    {
+     "label": "FTC press releases (Mar 2023; Dec 2024; June 2025)",
+     "url": "https://www.ftc.gov/news-events/news/press-releases/2025/06/ftc-sends-126-million-refunds-fortnite-players-who-were-charged-unwanted-items-reopens-claims"
+    },
+    {
+     "label": "Epic Games statement (Dec 19, 2022)",
+     "url": ""
+    },
+    {
+     "label": "Digital Services Playbook",
+     "url": "https://playbook.usds.gov/"
+    },
+    {
+     "label": "U.S. Web Design System",
+     "url": "https://designsystem.digital.gov/about/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "FTC administrative complaint, In the Matter of Epic Games, Inc., FTC Matter No. 192-3203 (Dec 2022), first page",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "FTC press release, \"FTC Sends $126 Million in Refunds to Fortnite Players\" (June 25, 2025), ftc.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "FTC staff report, Bringing Dark Patterns to Light (Sept 2022), cover",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Plain Writing Act of 2010, Public Law 111-274, govinfo.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "44 U.S.C. § 3512, \"Public protection,\" Paperwork Reduction Act, uscode.house.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "NCHS Data Brief No. 102, figure on emergency department wait times",
+     "credit": "CDC, U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "U.S. Digital Service, Digital Services Playbook, play 3, \"Make it simple and intuitive,\" playbook.usds.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-09",
+   "date": "2027-02-23",
+   "id": "PM-RNC-09",
+   "title": "Effortless for Whom?",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/effortless-for-whom-eea4"
+   },
+   "research": [
+    {
+     "label": "Senate HELP majority staff report (Dec 2024)",
+     "url": "https://www.help.senate.gov/imo/media/doc/amazon_investigation.pdf"
+    },
+    {
+     "label": "OSHA releases 23-63-NAT and 24-2583-NAT and the corporate-wide settlement",
+     "url": "https://www.osha.gov/news/newsreleases/osha-national-news-release/20230118"
+    },
+    {
+     "label": "GAO-25-106933",
+     "url": "https://www.gao.gov/products/gao-25-106933"
+    },
+    {
+     "label": "Treasury JY2298",
+     "url": "https://home.treasury.gov/news/press-releases/jy2298"
+    },
+    {
+     "label": "Cowan (1983)",
+     "url": "https://cclib.ucsd.edu/library/details.aspx?ID=1972"
+    },
+    {
+     "label": "Star and Strauss (1999)",
+     "url": "https://talkingaboutorganizations.com/111-visible-invisible-work-susan-leigh-star/"
+    },
+    {
+     "label": "Hochschild",
+     "url": "https://www.ucpress.edu/books/the-managed-heart/paper"
+    },
+    {
+     "label": "Herd and Moynihan (2018)",
+     "url": "https://www.russellsage.org/publications/administrative-burden"
+    },
+    {
+     "label": "Sunstein (2022)",
+     "url": "https://www.cambridge.org/core/journals/behavioural-public-policy/article/abs/sludge-audits/12A7E338984CE8807CC1E078EC4F13A7"
+    },
+    {
+     "label": "FTC click-to-cancel release (2024) and Eighth Circuit vacatur summaries (2025)",
+     "url": ""
+    },
+    {
+     "label": "BLS",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Amazon response (Dec 2024) and 2024 and 2025 safety updates (corporate-reported)",
+     "url": "https://www.aboutamazon.com/news/policy-news-views/amazon-response-to-senator-bernie-sanders-report-on-workplace-safety"
+    },
+    {
+     "label": "FTC Amazon Prime settlement (2025)",
+     "url": ""
+    },
+    {
+     "label": "NYC DCWP",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "U.S. Senate HELP Committee majority staff report, The \"Injury-Productivity Trade-off\" (Dec 2024), title page",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "OSHA national news release 23-63-NAT (Jan 18, 2023): citations at three Amazon warehouses",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "OSHA corporate-wide settlement agreement with Amazon.com Services LLC (Dec 18, 2024), first page, osha.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bureau of Labor Statistics, Warehousing and Storage industry page (bls.gov/iag/tgs/iag493.htm)",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "GAO-25-106933, Direct File: IRS Successfully Piloted Online Tax Filing, Highlights page",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "U.S. Treasury press release JY2298, \"IRS Direct File Pilot Exceeds Usage Goal\" (Apr 26, 2024)",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "FTC press release, \"FTC Secures Historic $2.5 Billion Settlement Against Amazon\" (Sept 25, 2025)",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-10",
+   "date": "2027-02-24",
+   "id": "PM-RNC-10",
+   "title": "Why Human Review Requires Authority, Context and Time",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/why-human-review-requires-authority-context-and-time"
+   },
+   "research": [
+    {
+     "label": "Regulation (EU) 2024/1689, Art. 14",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-14"
+    },
+    {
+     "label": "GAO-21-519SP",
+     "url": "https://www.gao.gov/assets/gao-21-519sp.pdf"
+    },
+    {
+     "label": "OECD Due Diligence Guidance for Responsible AI (2026) and AI Principles",
+     "url": ""
+    },
+    {
+     "label": "FDA human factors guidance and overview",
+     "url": ""
+    },
+    {
+     "label": "AHRQ high reliability primer and perspective",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "European Commission AI Act FAQ",
+     "url": "https://digital-strategy.ec.europa.eu/en/faqs/navigating-ai-act"
+    },
+    {
+     "label": "NIST AI RMF Core and Playbook",
+     "url": "https://airc.nist.gov/airmf-resources/playbook/"
+    },
+    {
+     "label": "NTSB SMS advocacy page",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Regulation (EU) 2024/1689, Article 14, \"Human oversight,\" Official Journal of the EU, 12.7.2024, pp. 60 to 61",
+     "credit": "EU legal text, reuse authorised under Commission Decision 2011/833/EU",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "European Commission, AI Act FAQ, \"What are obligations of deployers of high-risk AI systems?\"",
+     "credit": "© EU, CC BY 4.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "GAO-21-519SP, Artificial Intelligence: An Accountability Framework, page 54, \"Three Broad Approaches to Human Supervision\"",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "OECD Due Diligence Guidance for Responsible AI (2026), page 21, Step 1.2, \"Internal management systems\"",
+     "credit": "© OECD 2026, CC BY 4.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "NIST AI 100-1, Appendix C, page 40, on human roles and lost context",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "FDA, Applying Human Factors and Usability Engineering to Medical Devices, section 5.2, page 10",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "NTSB, \"Implement Safety Management Systems in Aviation,\" ntsb.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-11",
+   "date": "2027-02-25",
+   "id": "PM-RNC-11",
+   "title": "Why Evidence Systems, Not Model Intelligence, Are the Missing Layer",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/why-evidence-systems-not-model-intelligence-are-the-missing-layer"
+   },
+   "research": [
+    {
+     "label": "NIST AI 600-1",
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf"
+    },
+    {
+     "label": "GAO-21-519SP",
+     "url": "https://www.gao.gov/assets/gao-21-519sp.pdf"
+    },
+    {
+     "label": "GAO-23-106811",
+     "url": "https://www.gao.gov/products/gao-23-106811"
+    },
+    {
+     "label": "OECD Due Diligence Guidance for Responsible AI (2026)",
+     "url": ""
+    },
+    {
+     "label": "Regulation (EU) 2024/1689 (Articles 12 and 14)",
+     "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-12"
+    }
+   ],
+   "other": [
+    {
+     "label": "NIST AI RMF 1.0 and Playbook",
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "GAO-23-106811 Highlights page (May 16, 2023): the AI Accountability Framework figure",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "GAO-21-519SP, page 7: the Performance principle and key practices 3.1 to 3.9",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "NIST AI 100-1, page 20, Figure 5: Govern, Map, Measure, Manage",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "NIST AI 600-1, Generative AI Profile (July 2024), page 16, GOVERN 1.6 suggested actions",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Regulation (EU) 2024/1689, Article 12, \"Record-keeping,\" Official Journal, 12.7.2024",
+     "credit": "EU legal text, reuse authorised under Decision 2011/833/EU",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "OECD Due Diligence Guidance for Responsible AI (2026), page 14, Figure 1.1",
+     "credit": "© OECD 2026, CC BY 4.0",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-12",
+   "date": "2027-02-26",
+   "id": "PM-RNC-12",
+   "title": "How Regulatory Categories Conceal Scientific Uncertainty",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/how-regulatory-categories-conceal-scientific-uncertainty"
+   },
+   "research": [
+    {
+     "label": "21 U.S.C. §§ 811 to 812",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title21/html/USCODE-2024-title21-chap13-subchapI-partB-sec811.htm"
+    },
+    {
+     "label": "HHS 2023 basis document and letter",
+     "url": ""
+    },
+    {
+     "label": "89 Fed. Reg. 44597 (May 21, 2024)",
+     "url": "https://www.federalregister.gov/documents/2024/05/21/2024-11137/schedules-of-controlled-substances-rescheduling-of-marijuana"
+    },
+    {
+     "label": "91 Fed. Reg. 22777 (Apr 28, 2026)",
+     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08177/schedules-of-controlled-substances-rescheduling-of-marijuana"
+    },
+    {
+     "label": "DEA research-cultivation final rule (2020)",
+     "url": ""
+    },
+    {
+     "label": "National Academies (2017; later report)",
+     "url": "https://nap.nationalacademies.org/read/24625/chapter/2"
+    },
+    {
+     "label": "WHO ECDD review",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "DEA rescheduling page",
+     "url": ""
+    },
+    {
+     "label": "FDA cannabis guidance and pages",
+     "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-cannabis-research-and-drug-approval-process"
+    },
+    {
+     "label": "USDA AMS hemp FAQ and lab guidelines",
+     "url": ""
+    },
+    {
+     "label": "DEA Diversion marijuana page",
+     "url": ""
+    },
+    {
+     "label": "Ohio State Drug Enforcement and Policy Center",
+     "url": ""
+    },
+    {
+     "label": "Gibson Dunn (Apr 29, 2026) and Duane Morris alerts",
+     "url": ""
+    },
+    {
+     "label": "News reporting on the Sept 29, 2026 stay",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "7 U.S.C. § 1639o(1), the definition of \"hemp,\" United States Code, 2024 edition, page 949",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "7 C.F.R. § 990.1, \"acceptable hemp THC level,\" 2024 edition, pages 588 to 589",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "USDA Agricultural Marketing Service, Laboratory Testing Guidelines, Purpose and Scope",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "21 U.S.C. § 811(c), \"Factors determinative of control or removal from schedules,\" 2024 edition, page 795",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "21 U.S.C. § 812, Schedule I, 2024 edition, page 800, (c)(10) and (c)(17)",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "HHS Assistant Secretary for Health Rachel L. Levine's letter to DEA Administrator Anne Milgram (Aug 29, 2023), released in Zorn v. HHS",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Federal Register, Vol. 89, No. 99 (May 21, 2024), p. 44597: DEA-1362 notice of proposed rulemaking",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Federal Register, Vol. 91, No. 81 (Apr 28, 2026): DEA-1362 notice of hearing",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-13",
+   "date": "2027-03-03",
+   "id": "PM-RNC-13",
+   "title": "The Windbreak Decree",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/the-windbreak-decree"
+   },
+   "research": [
+    {
+     "label": "Staten-Generaal Digitaal: bill 13 407 (nrs. 1 to 3, 4 to 5, 7) and the 1956 Opium Act revision",
+     "url": ""
+    },
+    {
+     "label": "Handelingen Eerste Kamer, June 22, 1976",
+     "url": ""
+    },
+    {
+     "label": "Stb. 1976, 424 and 499",
+     "url": "https://zoek.officielebekendmakingen.nl/stb-1976-424.pdf"
+    },
+    {
+     "label": "Anefo photographs, Nationaal Archief (CC0)",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Delpher newspapers (Trouw, Het Vrije Volk, Het Parool, De Nieuwe Limburger, De Telegraaf, NRC Handelsblad, De Volkskrant, Leeuwarder Courant, Nieuwsblad van het Noorden, 1967 to 1985)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Fotocollectie Anefo, Nationaal Archief, 2.24.01.05, bestanddeelnummer 922-6743: Kees Hoekert holding De Amateur-Tuinder, Amsterdam, July 31, 1969",
+     "credit": "CC0 1.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Anefo, Nationaal Archief, bestanddeelnummer 922-6740: hemp under cultivation, Amsterdam, July 1969",
+     "credit": "CC0 1.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Anefo, Nationaal Archief, bestanddeelnummer 928-4432: Vorrink and Van Agt in the Tweede Kamer, March 2, 1976",
+     "credit": "photo: Hans Peters, CC0 1.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bill 13 407, Tweede Kamer 1974 to 1975, nr. 2 (ontwerp van wet), Staten-Generaal Digitaal",
+     "credit": "Dutch legislative text, no copyright under Auteurswet art. 11",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Anefo, Nationaal Archief, bestanddeelnummer 928-4434: Van Agt speaking in the Opium Act debate, March 2, 1976",
+     "credit": "photo: Hans Peters, CC0 1.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Anefo, Nationaal Archief, bestanddeelnummer 933-8250: The Bulldog, Amsterdam, Nov 17, 1986",
+     "credit": "photo: Bart Molendijk, CC0 1.0",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-14",
+   "date": "2027-02-28",
+   "id": "PM-RNC-14",
+   "title": "Beyond Personal Software: Your AI Is Becoming a Private Institution",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/beyond-personal-software-your-ai-is-becoming-a-private-institution"
+   },
+   "research": [
+    {
+     "label": "NIST AI RMF Core and AI 600-1",
+     "url": "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"
+    },
+    {
+     "label": "GDPR Arts. 15, 17, 20, 22",
+     "url": ""
+    },
+    {
+     "label": "EU AI Act Arts. 12, 14, 50, 53, 86, 113 and the omnibus timetable revision",
+     "url": ""
+    },
+    {
+     "label": "FTC 6(b) orders (Sept 11, 2025)",
+     "url": ""
+    },
+    {
+     "label": "Garante decision (Dec 20, 2024)",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "OpenAI Operator system card and announcements (2025), ChatGPT Work release notes (2026), Memory FAQ and export documentation",
+     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+    },
+    {
+     "label": "Apple Intelligence privacy documentation",
+     "url": "https://support.apple.com/guide/iphone/apple-intelligence-and-privacy-iphe3f499e0e/ios"
+    },
+    {
+     "label": "In re OpenAI orders (May 16, 2025; Oct 9, 2025)",
+     "url": ""
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "\"European Parliament Strasbourg Hemicycle.jpg\"",
+     "credit": "Wikimedia Commons",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "NIST AI RMF Core, MAP function (MAP 2.2, 3.2, 3.3, 3.5), airc.nist.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Order of May 16, 2025 (ECF 559), In re OpenAI, Inc. Copyright Infringement Litigation, S.D.N.Y., Magistrate Judge Ona T. Wang, first page",
+     "credit": "court order, public record",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Regulation (EU) 2016/679, Article 20, on EUR-Lex",
+     "credit": "EU legal text, reuse authorised under Commission Decision 2011/833/EU",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Regulation (EU) 2016/679, Article 22, on EUR-Lex",
+     "credit": "EU legal text, reuse authorised",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "FTC press release, \"FTC Launches Inquiry into AI Chatbots Acting as Companions\" (Sept 11, 2025), ftc.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Garante per la protezione dei dati personali, decision of Dec 20, 2024 (docweb 10085432)",
+     "credit": "Italian official act, not protected under Art. 5, Law 633/1941",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-15",
+   "date": "2027-03-01",
+   "id": "PM-RNC-15",
+   "title": "Luxury Agents: The Next Status Symbol Is Protected Attention",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/luxury-agents-the-next-status-symbol-is-protected-attention"
+   },
+   "research": [
+    {
+     "label": "Herd and Moynihan (2018)",
+     "url": "https://www.russellsage.org/publications/book/administrative-burden"
+    },
+    {
+     "label": "Mullainathan and Shafir (2013)",
+     "url": ""
+    },
+    {
+     "label": "OWASP LLM01",
+     "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/"
+    },
+    {
+     "label": "FTC (2022)",
+     "url": ""
+    },
+    {
+     "label": "DSA Art. 25",
+     "url": ""
+    },
+    {
+     "label": "11 CCR § 7004",
+     "url": "https://www.law.cornell.edu/regulations/california/11-CCR-7004"
+    },
+    {
+     "label": "BLS OEWS May 2025",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "Marriott St. Regis butler pages",
+     "url": "https://st-regis.marriott.com/culture/butler-service/"
+    },
+    {
+     "label": "Hilton Waldorf Astoria Chicago",
+     "url": "https://www.hilton.com/en/hotels/chiwawa-waldorf-astoria-chicago/amenities/"
+    },
+    {
+     "label": "Les Clefs d'Or history",
+     "url": "https://www.lesclefsdor.org/about/history/"
+    },
+    {
+     "label": "OpenAI agent safety documentation",
+     "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent"
+    },
+    {
+     "label": "Google Personal Intelligence",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/"
+    },
+    {
+     "label": "Apple Intelligence and Private Cloud Compute materials",
+     "url": "https://security.apple.com/blog/private-cloud-compute/"
+    },
+    {
+     "label": "Anthropic prompt-injection research",
+     "url": "https://www.anthropic.com/research/prompt-injection-defenses"
+    },
+    {
+     "label": "American Express fee pages (seller-reported)",
+     "url": "https://www.americanexpress.com/en-us/credit-cards/credit-intel/platinum-fee/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "\"St Regis Chicago.jpg\"",
+     "credit": "Rgottlieb310, Wikimedia Commons, CC BY-SA 4.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics, May 2025, Table 1 (USDL-26-0725)",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "FTC press release on the staff report Bringing Dark Patterns to Light (Sept 15, 2022), ftc.gov",
+     "credit": "U.S. government work",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "OWASP GenAI Security Project, LLM01:2025 Prompt Injection, genai.owasp.org",
+     "credit": "CC BY-SA 4.0",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Regulation (EU) 2022/2065 (Digital Services Act), Article 25, on EUR-Lex",
+     "credit": "EU legal text, reuse authorised",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Cal. Code Regs. tit. 11, § 7004",
+     "credit": "state regulatory text, not copyrightable",
+     "url": "",
+     "card": false
+    }
+   ]
+  }
+ ]
+}
