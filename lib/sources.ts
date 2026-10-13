@@ -15,6 +15,7 @@ import makers from "../data/sources-makers.json";
 import museum from "../data/sources-museum.json";
 import polymath from "../data/sources-polymath.json";
 import polymathRnc from "../data/sources-polymath-rnc.json";
+import psychonautBookworm from "../data/sources-psychonaut-bookworm.json";
 import venues from "../data/sources-venues.json";
 import { isReleased, pieceId } from "./releases";
 
@@ -29,6 +30,10 @@ import { isReleased, pieceId } from "./releases";
 // ownership-platform.vercel.app (data/sources-ioo-site.json, joins the ioo account). It is made by rn-collins/ownership-platform
 // scripts/export-selected-work-sources.ts from that repo's own sources lists, dated by its data/releases.json. Its gallery
 // pages (galleryUrl in data/releases.json) live on that site.
+// The Psychonaut Bookworm (account "psychonaut-bookworm", data/sources-psychonaut-bookworm.json) is written by
+// rn-collins/psychonaut-bookworm build/sync_releases.py --sources: one page per released library record, with the
+// sources the record names (none of them has a public URL in that library, so they are listed without links), its
+// long-form draft as the article, and its item page on that site as galleryUrl. Released records only.
 // The takeover packages (Polymath PM-RNC, museum, film) come from scripts/export_takeover_sources.py instead:
 // data/sources-polymath-rnc.json (joins the polymath account), data/sources-museum.json, data/sources-film.json.
 // A takeover reference may have no url (a source with no public copy, such as a recorded conversation); it is
@@ -81,6 +86,9 @@ export const accounts: Account[] = [
     blurb: "Posts from RN Collins' articles in the Journal of Biophilic Design: the research cited and the image credits." },
   { key: "aan-f", name: "Ask a Neuroscientist × Fashion", timeZone: "Pacific/Honolulu", posts: sorted(aanf),
     blurb: "RN Collins' seven Ask a Neuroscientist × Fashion exhibitions: the research cited, the lab tools and the image credits behind each essay." },
+  { key: "psychonaut-bookworm", name: "The Psychonaut Bookworm", timeZone: "Pacific/Honolulu", posts: sorted(psychonautBookworm),
+    intro: "The sources this item names, its long-form draft, and its record in the library's public provenance ledger.",
+    blurb: "Every published object in RN Collins' Psychonaut Bookworm research library: the books and studies it names, its long-form draft and its provenance record." },
 ];
 
 export function account(key: string) {

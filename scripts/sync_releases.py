@@ -31,7 +31,7 @@ ACCOUNTS = {
     "ddw27": ["ddw27"], "dda": ["dda"], "htw": ["htw"], "ioo": ["ioo", "ioo-site"],
     "polymath": ["polymath", "polymath-rnc"], "fatnugs": ["fatnugs"], "clr": ["clr"],
     "museum": ["museum"], "film": ["film"], "kbyg": ["kbyg"], "jbd": ["jbd"],
-    "aan-f": ["aan-f"],
+    "aan-f": ["aan-f"], "psychonaut-bookworm": ["psychonaut-bookworm"],
 }
 ESSAY_ACCOUNTS = ["ddw26", "venues", "makers", "editions", "dda", "ddw27", "kbyg"]
 
