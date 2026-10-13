@@ -26,7 +26,7 @@ import sys
 sys.dont_write_bytecode = True
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.dirname(HERE)
-ACCOUNTS = ["ddw26", "venues", "makers", "editions", "dda", "ddw27"]
+ACCOUNTS = ["ddw26", "venues", "makers", "editions", "dda", "ddw27", "kbyg"]
 
 # --- cleaning rules shared with the sources pages ---------------------------------------------------------
 DROP_URL = re.compile(r"/contact|/download$|programme\?page=|/press2?$|\.zip($|\?)", re.I)
@@ -205,10 +205,14 @@ def main(staging, accounts):
         p = os.path.join(OUT, "data", f"sources-{a}.json")
         source_slugs[a] = {x["slug"] for x in load(p)["posts"]} if os.path.exists(p) else set()
     by_acc = {a: [] for a in ACCOUNTS}
-    pending, problems = [], []
+    pending, waiting, problems = [], [], []
     for e in reg["entries"]:
         lf = e["long_form"]
         if lf.get("kind") != "unpublished_essay" or not lf.get("essay_path"):
+            continue
+        if str(lf.get("outlet") or "").startswith("LinkedIn article"):
+            # RN publishes this one as a LinkedIn article; its link waits for that address, so it is not hosted here
+            waiting.append(e["id"])
             continue
         acc = e["sources_slug"]["account"]
         if acc not in by_acc:
@@ -232,6 +236,7 @@ def main(staging, accounts):
             f.write("\n")
         print(f"{acc}: {len(posts)} essays")
     print(f"pending (essay file not there yet): {len(pending)}")
+    print(f"not hosted (RN publishes it as a LinkedIn article): {len(waiting)}")
     for p in problems:
         print("problem:", p)
     return 1 if any(not p.startswith("warning") for p in problems) else 0

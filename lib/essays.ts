@@ -2,6 +2,7 @@ import dda from "../data/essays-dda.json";
 import ddw26 from "../data/essays-ddw26.json";
 import ddw27 from "../data/essays-ddw27.json";
 import editions from "../data/essays-editions.json";
+import kbyg from "../data/essays-kbyg.json";
 import makers from "../data/essays-makers.json";
 import venues from "../data/essays-venues.json";
 import { ESSAYS_INDEXABLE } from "./essays-config";
@@ -37,8 +38,10 @@ const definitions: Omit<EssayAccount, "essays">[] = [
     blurb: "Essays on the Dutch Design Awards year by year, from the official photo archive and the published record." },
   { key: "ddw27", name: "Dutch Design Week essays",
     blurb: "Essays on work in the Dutch Design Week 2026 programme." },
+  { key: "kbyg", name: "Know Before You Grow",
+    blurb: "Essays from RN Collins' Know Before You Grow series on Hawaiʻi cannabis rules, each traced to the laws and records it cites." },
 ];
-const data: Record<string, Essay[]> = { ddw26: all(ddw26), venues: all(venues), makers: all(makers), editions: all(editions), dda: all(dda), ddw27: all(ddw27) };
+const data: Record<string, Essay[]> = { ddw26: all(ddw26), venues: all(venues), makers: all(makers), editions: all(editions), dda: all(dda), ddw27: all(ddw27), kbyg: all(kbyg) };
 
 export const essayAccounts: EssayAccount[] = definitions
   .map((d) => ({ ...d, essays: data[d.key] }))
