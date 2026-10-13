@@ -10,6 +10,7 @@
  */
 
 import inventory from "../data/builds.json";
+import exclusions from "../data/exclusions.json";
 import {
   buildNotesByRepo,
   categories,
@@ -38,7 +39,8 @@ export type Build = BuildNote & {
   verifiedStatus: number | string;
 };
 
-const records = inventory.builds as InventoryRecord[];
+const excludedRepos = new Set(exclusions.exclusions.map((entry) => entry.repo));
+const records = (inventory.builds as InventoryRecord[]).filter((record) => !excludedRepos.has(record.repo));
 
 export const builds: Build[] = records
   .map((record) => {
@@ -100,3 +102,4 @@ export function getBuild(repo: string): Build | undefined {
 
 export { categories };
 export type { CategoryId, BuildNote };
+

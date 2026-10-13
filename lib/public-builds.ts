@@ -1,3 +1,5 @@
+import exclusions from "../data/exclusions.json";
+
 export type PublicBuild = {
   slug: string;
   title: string;
@@ -20,7 +22,7 @@ export type PublicBuild = {
   artifacts?: { label: string; href: string }[];
 };
 
-export const publicBuilds: PublicBuild[] = [
+const publicBuildRecords: PublicBuild[] = [
   {
     slug: "aloha-ai",
     title: "Aloha AI",
@@ -170,41 +172,7 @@ export const publicBuilds: PublicBuild[] = [
     researched: "The v2 release preserves RN Collins’s documented outreach process while distinguishing self-reported outcomes from user expectations. Current LinkedIn guidance informed the safety model: fewer relevant invitations, specific context, alternatives such as following and groups, changing personalization limits, and restrictions for high-volume or automated behavior.",
     built: "A no-account, browser-private Relationship-Building Lab with target mapping, public-signal and source capture, route selection, next-action dates, a constrained message builder, seven outreach states, live response metrics, CSV export, JSON backup, JSON import, and local-data deletion. The former $67 enrollment, Gumroad checkout, refund, launch, lifetime-access, and delivery claims were removed. Unreleased curriculum elements are explicitly labeled as a product roadmap.",
     serves: "Law students and early-career professionals who need a disciplined, evidence-producing relationship process rather than another generic networking checklist.",
-    demonstrates: "Experience-to-tool translation, local-first product design, workflow modeling, outcome instrumentation, platform-aware safety, claim governance, and release-truth remediation.",
-    evidence: "The canonical v2 deployment returned HTTP 200 and serves the target map, message builder, tracker, metric, export, import, and clearing logic. All executable scripts passed syntax checks; structured data parsed; IDs were unique; and legacy commerce strings were absent. RN’s outreach volumes, response rate, connections, and resulting positions remain self-reported historical evidence—not promises, causal proof, or typical outcomes. The lab does not automate LinkedIn, transmit the target list, provide career or legal advice, or guarantee any response or employment result.",
-    live: "https://set-for-life-black.vercel.app/",
-    source: "https://github.com/rn-collins/set-for-life",
-  },
-  {
-    slug: "psychonaut-bookworm",
-    title: "The Psychonaut Bookworm",
-    category: "Publishing + research systems",
-    practice: "Independent concept developed for Fat Nugs Magazine",
-    status: "Live research-and-learning workbench",
-    purpose: "Turn psychedelic literature into a searchable editorial research system with visible evidence state, rights-review boundaries, and reusable learning tools.",
-    noticed: "A reading list preserves titles but not the reusable connections inside a body of literature: historical actors, scientific claims, quotations, geographies, primary documents, disputed interpretations, and relationships across books. It also does not tell readers which objects are full drafts, study aids, internally labeled workflow states, or excerpts awaiting rights review.",
-    researched: "The v2 rebuild retained the fourteen-format collection and applied current U.S. Copyright Office guidance that fair use is contextual and has no automatic safe word count. It also reviewed current FTC guidance on clear disclosure and official NotebookLM source behavior before correcting the public truth layer.",
-    built: "A searchable Research Desk spanning original editorial drafts, evidence comparisons, flashcards, and science annotations; a browser-persistent reading queue with Markdown export; per-result source counts and internal status; an evidence-and-rights ledger; rights-safe quotation and passage excerpts; and the original fourteen-format library and course tools.",
-    serves: "Editors, readers, educators, publishers, researchers, and psychedelic-literature communities who need a navigable source-aware workbench.",
-    demonstrates: "Editorial systems design, research UX, content atomization, knowledge organization, provenance signaling, rights-aware publishing, and durable client-side state.",
-    evidence: "The live production artifact verifies 1,399 indexed editorial objects across fourteen formats, including 238 full editorial drafts, 337 quote-card objects, 563 flashcards, 112 then-versus-now comparisons, and the remaining learning and planning formats. The Research Desk exposes source-entry counts and internal editorial states, saves a local queue, and exports it. The site now states that 1,399 is an object count—not proof of external publication, peer review, licensing, independent fact-checking, or clinical authority. Third-party quotation and passage excerpts are shortened pending item-level rights review; editorial-complete and editorial-ready are internal workflow labels.",
-    live: "https://psychonaut-bookworm.vercel.app/",
-    source: "https://github.com/rn-collins/psychonaut-bookworm",
-  },
-  {
-    slug: "nervous-system-studio",
-    title: "Nervous System Studio",
-    category: "Neuroscience + environment design",
-    practice: "Independent",
-    status: "Live interactive guide",
-    purpose: "Help people design sensory environments and routines around calm, focus, creativity, and sleep.",
-    noticed: "People often know that certain rooms, routines, sounds, lighting conditions, or levels of stimulation affect how they feel, but those observations remain anecdotal and difficult to compare. Generic wellness and décor advice also tends to prescribe a supposedly ideal environment rather than helping a person examine patterns in their own experience.",
-    researched: "The experience models sensory inputs—including light, sound, scent, clutter, routine, and optional cannabis context—alongside self-reported states such as calm, focus, creativity, sleep, and overstimulation. It uses a sensory profile, repeated moment logs, cautious association language, single-variable experiments, and four environment blueprints while keeping preview data in the user's browser.",
-    built: "An interactive environment-and-routine design experience translating nervous-system considerations into practical choices.",
-    serves: "Individuals seeking more supportive home, work, and daily sensory environments.",
-    demonstrates: "Neuroscience translation, personalized interaction design, environmental thinking, and public education.",
-    evidence: "The live research preview verifies the sensory-profile flow, local-device storage design, moment logging, rules-based pattern language, four blueprint concepts, optional cannabis input, research page, privacy explanation, and safety disclaimers. Its outputs are self-reflection prompts based on user-entered associations—not diagnoses, causal findings, treatment recommendations, or proof that an environmental change improves a health condition. The displayed testimonial is explicitly a composite illustration, and the beta, wait-list, and future service claims require separate fulfillment review.",
-    live: "https://nervous-system-studio.vercel.app/",
+    demonstrates: "Experience-to-tool translation, local-first product design, workflow modeling, outcome instrumentation, platform-aw…1411 tokens truncated…   live: "https://nervous-system-studio.vercel.app/",
   },
   {
     slug: "psychedelic-law-library",
@@ -444,6 +412,12 @@ export const publicBuilds: PublicBuild[] = [
   },
 ];
 
+const excludedSlugs = new Set(
+  exclusions.exclusions.flatMap((entry) => "publicBuildSlug" in entry ? [entry.publicBuildSlug] : []),
+);
+export const publicBuilds: PublicBuild[] = publicBuildRecords.filter((build) => !excludedSlugs.has(build.slug));
+
 export function getPublicBuild(slug: string) {
   return publicBuilds.find((build) => build.slug === slug);
 }
+

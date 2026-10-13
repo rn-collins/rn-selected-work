@@ -96,6 +96,12 @@
       "silent": true
     },
     {
+      "repo": "htw-field-kit",
+      "reason": "RN requested removal from Selected Works; keep the field kit accessible directly without portfolio links.",
+      "silent": true,
+      "publicBuildSlug": "hawaii-tech-week-field-kit"
+    },
+    {
       "repo": "hwit-proposal-collins",
       "reason": "Proposal prepared for a named organisation.",
       "silent": true
