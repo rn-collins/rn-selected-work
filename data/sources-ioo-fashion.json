@@ -1,0 +1,4341 @@
+{
+ "note": "Institutions of One × Fashion (ioo-fashion). Made from rn-collins/institutions-of-one-fashion scripts/build.mjs: one page per released dossier, dated by that repo's data/releases.json, with the sources, further reading and collection images the dossier page shows.",
+ "posts": [
+  {
+   "slug": "b01",
+   "date": "2026-09-07",
+   "id": "B01",
+   "title": "When Does a Designer Become a House?",
+   "series": "Institutions of One × Fashion, Build room, dossier B01",
+   "origin": {
+    "kind": "article",
+    "label": "When Does a Designer Become a House?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/B01-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982. FIT Special Collections, 1982-05-26; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136259"
+    },
+    {
+     "label": "Parsons School of Design Fashion Design Department records. The New School Archives, 1941-2008.",
+     "url": ""
+    },
+    {
+     "label": "Gianfranco Ferré Research Center. Politecnico di Milano / Google Arts & Culture, center established 2021.",
+     "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre"
+    },
+    {
+     "label": "FIT oral histories collection, 1967-2023. FIT Gladys Marcus Library, 1967-2023.",
+     "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Collections Care. Smithsonian Institution Archives, current.",
+     "url": "https://siarchives.si.edu/what-we-do/collections-care"
+    }
+   ],
+   "other": [
+    {
+     "label": "Dress designed by Ann Lowe. National Museum of African American History and Culture, 1950s; record accessed 2026-09-07.",
+     "url": "https://www.si.edu/object/dress-designed-ann-lowe%3Anmaahc_2007.3.23"
+    },
+    {
+     "label": "The Hidden History of American Fashion. Smithsonian Libraries, 2018.",
+     "url": "https://www.si.edu/object/hidden-history-american-fashion-rediscovering-twentieth-century-women-designers-edited-nancy-deihl%3Asiris_sil_1089521"
+    },
+    {
+     "label": "Chinese American fashion designer oral-history digitization project. National Archives and Records Administration, 2024.",
+     "url": "https://www.archives.gov/nhprc/newsletter/april2024"
+    },
+    {
+     "label": "The source notes for dossier B01: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/B01-evidence-register.csv"
+    },
+    {
+     "label": "The B01 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#b01-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Ball gown, ca. 1872. The Metropolitan Museum of Art, 46.25.1a-d. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/81112",
+     "card": false
+    },
+    {
+     "where": "Object 2 in \"Look at the material record\"",
+     "what": "House of Worth, Fancy dress costume, ca. 1870. The Metropolitan Museum of Art, 2009.300.1363a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/156069",
+     "card": false
+    },
+    {
+     "where": "Object 3 in \"Look at the material record\"",
+     "what": "House of Worth, Afternoon dress, ca. 1874. The Metropolitan Museum of Art, 1975.259.2a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/106545",
+     "card": false
+    },
+    {
+     "where": "Object 4 in \"Look at the material record\"",
+     "what": "House of Worth, Dinner dress, ca. 1877. The Metropolitan Museum of Art, 25.63a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/81619",
+     "card": false
+    },
+    {
+     "where": "Object 5 in \"Look at the material record\"",
+     "what": "House of Worth, Coat, 1898. The Metropolitan Museum of Art, C.I.45.95.12. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/84553",
+     "card": false
+    },
+    {
+     "where": "Object 6 in \"Look at the material record\"",
+     "what": "House of Worth, Evening ensemble, 1893. The Metropolitan Museum of Art, 2009.300.622a-c. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159174",
+     "card": false
+    },
+    {
+     "where": "Object 7 in \"Look at the material record\"",
+     "what": "House of Worth, Wedding dress, 1896. The Metropolitan Museum of Art, C.I.41.14.1. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/81467",
+     "card": false
+    },
+    {
+     "where": "Object 8 in \"Look at the material record\"",
+     "what": "House of Worth, Opera cape, ca. 1899. The Metropolitan Museum of Art, 35.134.19. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/101642",
+     "card": false
+    },
+    {
+     "where": "Object 9 in \"Look at the material record\"",
+     "what": "House of Worth, Evening coat, 1901. The Metropolitan Museum of Art, 2009.300.64. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159193",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "b02",
+   "date": "2026-09-07",
+   "id": "B02",
+   "title": "How Does a Designer Develop Recognizable Codes?",
+   "series": "Institutions of One × Fashion, Build room, dossier B02",
+   "origin": {
+    "kind": "article",
+    "label": "How Does a Designer Develop Recognizable Codes?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/B02-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Evening dress. The Metropolitan Museum of Art, ca. 1882.",
+     "url": "https://www.metmuseum.org/art/collection/search/159187"
+    },
+    {
+     "label": "The Costume Institute collection. The Metropolitan Museum of Art, collection current; accessed 2026-09-05.",
+     "url": "https://www.metmuseum.org/about-the-met/collection-areas/the-costume-institute"
+    },
+    {
+     "label": "Useful Articles. U.S. Copyright Office, current; accessed 2026-09-05.",
+     "url": "https://www.copyright.gov/register/va-useful.html"
+    },
+    {
+     "label": "Trademark Manual of Examining Procedure §1202.02, Registration of Trade Dress. U.S. Patent and Trademark Office, current edition; accessed 2026-09-05.",
+     "url": "https://tmep.uspto.gov/RDMS/TMEP/current#/current/TMEP-1200d1e831.html"
+    },
+    {
+     "label": "The Metropolitan Museum of Art Collection API. The Metropolitan Museum of Art, documentation current; accessed 2026-09-05.",
+     "url": "https://metmuseum.github.io/"
+    },
+    {
+     "label": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department. Fashion Institute of Technology Special Collections and College Archives, 1995-02-27; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136318"
+    },
+    {
+     "label": "Patternmaking certificate. Fashion Institute of Technology, current.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php"
+    },
+    {
+     "label": "Protection for Fashion Design, Statement of the Register of Copyrights. U.S. Copyright Office, 2006-07-27.",
+     "url": "https://www.copyright.gov/docs/regstat072706.html"
+    }
+   ],
+   "other": [
+    {
+     "label": "Dress designed by Ann Lowe. National Museum of African American History and Culture, 1950s; record accessed 2026-09-07.",
+     "url": "https://www.si.edu/object/dress-designed-ann-lowe%3Anmaahc_2007.3.23"
+    },
+    {
+     "label": "The World of Anna Sui. Museum of Arts and Design, 2019.",
+     "url": "https://madmuseum.org/press/releases/major-retrospective-of-american-fashion-designer-anna-sui"
+    },
+    {
+     "label": "Fashion collection. Victoria and Albert Museum, collection current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/collections/fashion"
+    },
+    {
+     "label": "Dress. The Metropolitan Museum of Art, ca. 1885; accessed 2026-09-07.",
+     "url": "https://www.metmuseum.org/art/collection/search/159180"
+    },
+    {
+     "label": "Wedding dress by Christian Dior. National Museum of American History, twentieth century; accessed 2026-09-07.",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1006049"
+    },
+    {
+     "label": "Secrets of Balenciaga’s construction. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction"
+    },
+    {
+     "label": "Learning from “The Master”. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/learning-from-the-master"
+    },
+    {
+     "label": "Christian Louboutin v. Yves Saint Laurent. Justia mirror of federal opinion, 2013.",
+     "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/11-3303/11-3303-2013-03-08.html"
+    },
+    {
+     "label": "Contemporary fashion designers on Balenciaga. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/contemporary-fashion-designers-on-balenciaga"
+    },
+    {
+     "label": "The source notes for dossier B02: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/B02-evidence-register.csv"
+    },
+    {
+     "label": "The B02 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#b02-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "Object 2 in \"Look at the material record\"",
+     "what": "Maison Pingat, Dress, ca. 1885. The Metropolitan Museum of Art, 2009.300.628a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159180",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "b03",
+   "date": "2026-09-07",
+   "id": "B03",
+   "title": "Can Taste Become Institutional Knowledge?",
+   "series": "Institutions of One × Fashion, Build room, dossier B03",
+   "origin": {
+    "kind": "article",
+    "label": "Can Taste Become Institutional Knowledge?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/B03-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department. Fashion Institute of Technology Special Collections and College Archives, 1995-02-27; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136318"
+    },
+    {
+     "label": "Patternmaking certificate. Fashion Institute of Technology, current.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php"
+    },
+    {
+     "label": "Protection for Fashion Design, Statement of the Register of Copyrights. U.S. Copyright Office, 2006-07-27.",
+     "url": "https://www.copyright.gov/docs/regstat072706.html"
+    },
+    {
+     "label": "Useful Articles. U.S. Copyright Office, current; accessed 2026-09-05.",
+     "url": "https://www.copyright.gov/register/va-useful.html"
+    },
+    {
+     "label": "Handmade for the 21st century: safeguarding traditional Indian textiles. UNESCO, 2022.",
+     "url": "https://unesdoc.unesco.org/ark:/48223/pf0000382921"
+    },
+    {
+     "label": "Garment Industry Compliance Assistance Toolkit. U.S. Department of Labor, Wage and Hour Division, updated 2025-09-23.",
+     "url": "https://www.dol.gov/agencies/whd/compliance-assistance/toolkits/garment"
+    }
+   ],
+   "other": [
+    {
+     "label": "Oral history. Museum of Modern Art, program current; accessed 2026-09-07.",
+     "url": "https://www.moma.org/research/archives/oral-history"
+    },
+    {
+     "label": "Dive into Color / collection-data experiments. Cooper Hewitt, Smithsonian Design Museum, 2018.",
+     "url": "https://labs.cooperhewitt.org/tag/api/"
+    },
+    {
+     "label": "Dress. The Metropolitan Museum of Art, ca. 1885; accessed 2026-09-07.",
+     "url": "https://www.metmuseum.org/art/collection/search/159180"
+    },
+    {
+     "label": "Vestments and how to make them. Library of Congress, 1914.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.vestmentshowtoma00west/?st=gallery"
+    },
+    {
+     "label": "Shelter and clothing. Library of Congress, 1913.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.shelterclothingt01kinn/?sp=3&st=slideshow"
+    },
+    {
+     "label": "A system for cutting ladies garments. Library of Congress, 1917.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.systemforcutting00leak/?st=pdf"
+    },
+    {
+     "label": "Cooper Hewitt Collection API. Cooper Hewitt, current; accessed 2026-09-07.",
+     "url": "https://collection.cooperhewitt.org/api/"
+    },
+    {
+     "label": "Dressmaking. Internet Archive, 1917.",
+     "url": "https://archive.org/details/dressmaking00fale"
+    },
+    {
+     "label": "Pattern making. Internet Archive, 1922.",
+     "url": "https://archive.org/details/patternmaking00hanngoog"
+    },
+    {
+     "label": "Complete course in dressmaking: Draping and Pattern Making. Internet Archive, 1922.",
+     "url": "https://archive.org/details/completecoursein08cono"
+    },
+    {
+     "label": "Drafting trousers for men, boys, women. Internet Archive, 1945.",
+     "url": "https://archive.org/details/simonsdraftingtrousers1945"
+    },
+    {
+     "label": "The Keystone jacket and dress cutter. Internet Archive, 1895.",
+     "url": "https://archive.org/details/keystonejacketdr00heck"
+    },
+    {
+     "label": "Secrets of Balenciaga’s construction. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction"
+    },
+    {
+     "label": "Learning from “The Master”. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/learning-from-the-master"
+    },
+    {
+     "label": "Sew your own: kimono-inspired dress. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/sew-your-own-kimono-inspired-dress"
+    },
+    {
+     "label": "The source notes for dossier B03: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/B03-evidence-register.csv"
+    },
+    {
+     "label": "The B03 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#b03-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "American or European, Dress, ca. 1903. The Metropolitan Museum of Art, 1976.258.13. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/106420",
+     "card": false
+    },
+    {
+     "where": "Object 2 in \"Look at the material record\"",
+     "what": "Maison Pingat, Dress, ca. 1885. The Metropolitan Museum of Art, 2009.300.628a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159180",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "b04",
+   "date": "2026-09-07",
+   "id": "B04",
+   "title": "When Does an Aesthetic Become a System?",
+   "series": "Institutions of One × Fashion, Build room, dossier B04",
+   "origin": {
+    "kind": "article",
+    "label": "When Does an Aesthetic Become a System?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/B04-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Report of New York fashions, spring & summer 1872. Library of Congress, 1872.",
+     "url": "https://www.loc.gov/resource/ppmsca.44953/"
+    },
+    {
+     "label": "Fashion, Free to Use and Reuse. Library of Congress, collection current; accessed 2026-09-04.",
+     "url": "https://www.loc.gov/free-to-use/fashion/"
+    },
+    {
+     "label": "Useful Articles. U.S. Copyright Office, current; accessed 2026-09-05.",
+     "url": "https://www.copyright.gov/register/va-useful.html"
+    },
+    {
+     "label": "Trademark Manual of Examining Procedure §1202.02, Registration of Trade Dress. U.S. Patent and Trademark Office, current edition; accessed 2026-09-05.",
+     "url": "https://tmep.uspto.gov/RDMS/TMEP/current#/current/TMEP-1200d1e831.html"
+    },
+    {
+     "label": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department. Fashion Institute of Technology Special Collections and College Archives, 1995-02-27; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136318"
+    },
+    {
+     "label": "Patternmaking certificate. Fashion Institute of Technology, current.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php"
+    },
+    {
+     "label": "Rights and Access, Toni Frissell Collection. Library of Congress, collection guidance current; accessed 2026-09-05.",
+     "url": "https://www.loc.gov/rr/print/res/070_fris.html"
+    },
+    {
+     "label": "Garment Industry Compliance Assistance Toolkit. U.S. Department of Labor, Wage and Hour Division, updated 2025-09-23.",
+     "url": "https://www.dol.gov/agencies/whd/compliance-assistance/toolkits/garment"
+    },
+    {
+     "label": "Protection for Fashion Design, Statement of the Register of Copyrights. U.S. Copyright Office, 2006-07-27.",
+     "url": "https://www.copyright.gov/docs/regstat072706.html"
+    }
+   ],
+   "other": [
+    {
+     "label": "Diana Dew's Designs. National Museum of American History, record accessed 2026-09-07.",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1758910"
+    },
+    {
+     "label": "Dive into Color / collection-data experiments. Cooper Hewitt, Smithsonian Design Museum, 2018.",
+     "url": "https://labs.cooperhewitt.org/tag/api/"
+    },
+    {
+     "label": "Vestments and how to make them. Library of Congress, 1914.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.vestmentshowtoma00west/?st=gallery"
+    },
+    {
+     "label": "A system for cutting ladies garments. Library of Congress, 1917.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.systemforcutting00leak/?st=pdf"
+    },
+    {
+     "label": "Costume design for a New York production. Library of Congress, 1935-1939.",
+     "url": "https://www.loc.gov/resource/fprcd.11070018.0/"
+    },
+    {
+     "label": "Dressmaking. Internet Archive, 1917.",
+     "url": "https://archive.org/details/dressmaking00fale"
+    },
+    {
+     "label": "Pattern making. Internet Archive, 1922.",
+     "url": "https://archive.org/details/patternmaking00hanngoog"
+    },
+    {
+     "label": "Complete course in dressmaking: Draping and Pattern Making. Internet Archive, 1922.",
+     "url": "https://archive.org/details/completecoursein08cono"
+    },
+    {
+     "label": "The Keystone jacket and dress cutter. Internet Archive, 1895.",
+     "url": "https://archive.org/details/keystonejacketdr00heck"
+    },
+    {
+     "label": "Secrets of Balenciaga’s construction. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction"
+    },
+    {
+     "label": "The source notes for dossier B04: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/B04-evidence-register.csv"
+    },
+    {
+     "label": "The B04 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#b04-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Butterick & Co., Report of New York fashions, spring and summer 1872, 1872. Library of Congress, ppmsca.44953. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/ppmsca.44953/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "b05",
+   "date": "2026-09-07",
+   "id": "B05",
+   "title": "Can a Creator Build a House Before Building a Company?",
+   "series": "Institutions of One × Fashion, Build room, dossier B05",
+   "origin": {
+    "kind": "article",
+    "label": "Can a Creator Build a House Before Building a Company?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/B05-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Choose a business structure. U.S. Small Business Administration, updated 2025-03-07.",
+     "url": "https://www.sba.gov/business-guide/launch-your-business/choose-business-structure"
+    },
+    {
+     "label": "Register your business. U.S. Small Business Administration, updated 2025-03-07.",
+     "url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "15 U.S.C. § 1060, Assignment. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim"
+    }
+   ],
+   "other": [
+    {
+     "label": "Vestments and how to make them. Library of Congress, 1914.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.vestmentshowtoma00west/?st=gallery"
+    },
+    {
+     "label": "A system for cutting ladies garments. Library of Congress, 1917.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.systemforcutting00leak/?st=pdf"
+    },
+    {
+     "label": "Dressmaking. Internet Archive, 1917.",
+     "url": "https://archive.org/details/dressmaking00fale"
+    },
+    {
+     "label": "Pattern making. Internet Archive, 1922.",
+     "url": "https://archive.org/details/patternmaking00hanngoog"
+    },
+    {
+     "label": "Drafting trousers for men, boys, women. Internet Archive, 1945.",
+     "url": "https://archive.org/details/simonsdraftingtrousers1945"
+    },
+    {
+     "label": "The Keystone jacket and dress cutter. Internet Archive, 1895.",
+     "url": "https://archive.org/details/keystonejacketdr00heck"
+    },
+    {
+     "label": "Sew your own: kimono-inspired dress. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/sew-your-own-kimono-inspired-dress"
+    },
+    {
+     "label": "The source notes for dossier B05: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/B05-evidence-register.csv"
+    },
+    {
+     "label": "The B05 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#b05-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Ball gown, ca. 1872. The Metropolitan Museum of Art, 46.25.1a-d. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/81112",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "b06",
+   "date": "2026-09-07",
+   "id": "B06",
+   "title": "Collection One Is Not the Beginning",
+   "series": "Institutions of One × Fashion, Build room, dossier B06",
+   "origin": {
+    "kind": "article",
+    "label": "Collection One Is Not the Beginning",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/B06-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "CFDA Resources. Council of Fashion Designers of America, current.",
+     "url": "https://cfda.com/resources/"
+    },
+    {
+     "label": "Patternmaking certificate. Fashion Institute of Technology, current.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php"
+    },
+    {
+     "label": "Choose a business structure. U.S. Small Business Administration, updated 2025-03-07.",
+     "url": "https://www.sba.gov/business-guide/launch-your-business/choose-business-structure"
+    },
+    {
+     "label": "Register your business. U.S. Small Business Administration, updated 2025-03-07.",
+     "url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Garment Industry Compliance Assistance Toolkit. U.S. Department of Labor, Wage and Hour Division, updated 2025-09-23.",
+     "url": "https://www.dol.gov/agencies/whd/compliance-assistance/toolkits/garment"
+    },
+    {
+     "label": "Garment industry resources. U.S. Department of Labor, Wage and Hour Division, current.",
+     "url": "https://www.dol.gov/agencies/whd/industry-resources/garment"
+    },
+    {
+     "label": "Intellectual Property in Fashion. World Intellectual Property Organization, current; updated 2026-08-21.",
+     "url": "https://www.wipo.int/en/web/fashion"
+    }
+   ],
+   "other": [
+    {
+     "label": "Shelter and clothing. Library of Congress, 1913.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.shelterclothingt01kinn/?sp=3&st=slideshow"
+    },
+    {
+     "label": "Feedsack dress. National Museum of American History, twentieth century; accessed 2026-09-07.",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1105750"
+    },
+    {
+     "label": "Internet Archive Scholar. Internet Archive, current; accessed 2026-09-07.",
+     "url": "https://scholar.archive.org/"
+    },
+    {
+     "label": "Historical Resources: Fashion Industry. Library of Congress, updated 2026.",
+     "url": "https://guides.loc.gov/fashion-industry/history"
+    },
+    {
+     "label": "The source notes for dossier B06: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/B06-evidence-register.csv"
+    },
+    {
+     "label": "The B06 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#b06-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Butterick & Co., Report of New York fashions, spring and summer 1872, 1872. Library of Congress, ppmsca.44953. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/ppmsca.44953/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "b07",
+   "date": "2026-09-07",
+   "id": "B07",
+   "title": "The Independent Designer’s Research Department",
+   "series": "Institutions of One × Fashion, Build room, dossier B07",
+   "origin": {
+    "kind": "article",
+    "label": "The Independent Designer’s Research Department",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/B07-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Gianfranco Ferré Research Center. Politecnico di Milano / Google Arts & Culture, center established 2021.",
+     "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre"
+    },
+    {
+     "label": "Condé Nast Archive. Condé Nast / Google Arts & Culture, archive since 1909.",
+     "url": "https://artsandculture.google.com/partner/conde-nast-archive"
+    },
+    {
+     "label": "HCC Fashion Archive. Houston City College / Google Arts & Culture, collection spans 1740s-2000s.",
+     "url": "https://artsandculture.google.com/partner/hcc-fashion"
+    },
+    {
+     "label": "MoMu, Fashion Museum Antwerp. MoMu / Google Arts & Culture, museum opened 2002.",
+     "url": "https://artsandculture.google.com/partner/momu"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Gianfranco Ferré Research Center. Politecnico di Milano / Google Arts & Culture, current story.",
+     "url": "https://artsandculture.google.com/story/WQUhce5OUFK2Xg"
+    },
+    {
+     "label": "Introducing Cristóbal Balenciaga. Victoria and Albert Museum, updated 2024-04-17.",
+     "url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga"
+    },
+    {
+     "label": "Alexander McQueen, an introduction. Victoria and Albert Museum, updated 2024-04-17.",
+     "url": "https://www.vam.ac.uk/articles/alexander-mcqueen-an-introduction"
+    }
+   ],
+   "other": [
+    {
+     "label": "Smithsonian Open Access. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess"
+    },
+    {
+     "label": "Open Access FAQ. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess/faq"
+    },
+    {
+     "label": "Diana Dew's Designs. National Museum of American History, record accessed 2026-09-07.",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1758910"
+    },
+    {
+     "label": "Special Collections and FIT Archive. Fashion Institute of Technology, current; accessed 2026-09-07.",
+     "url": "https://www.fitnyc.edu/academics/library/sparc/index.php"
+    },
+    {
+     "label": "Dive into Color / collection-data experiments. Cooper Hewitt, Smithsonian Design Museum, 2018.",
+     "url": "https://labs.cooperhewitt.org/tag/api/"
+    },
+    {
+     "label": "Costume design for a New York production. Library of Congress, 1935-1939.",
+     "url": "https://www.loc.gov/resource/fprcd.11070018.0/"
+    },
+    {
+     "label": "Open Access API. The Metropolitan Museum of Art, current; accessed 2026-09-07.",
+     "url": "https://metmuseum.github.io/"
+    },
+    {
+     "label": "Smithsonian Open Access developer tools. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess/devtools"
+    },
+    {
+     "label": "Cooper Hewitt Collection API. Cooper Hewitt, current; accessed 2026-09-07.",
+     "url": "https://collection.cooperhewitt.org/api/"
+    },
+    {
+     "label": "Internet Archive Scholar. Internet Archive, current; accessed 2026-09-07.",
+     "url": "https://scholar.archive.org/"
+    },
+    {
+     "label": "Historical Resources: Fashion Industry. Library of Congress, updated 2026.",
+     "url": "https://guides.loc.gov/fashion-industry/history"
+    },
+    {
+     "label": "The source notes for dossier B07: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/B07-evidence-register.csv"
+    },
+    {
+     "label": "The B07 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#b07-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Jeanne Hallée, Afternoon dress, ca. 1900. The Metropolitan Museum of Art, 2009.300.3098a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/157996",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "b08",
+   "date": "2026-09-07",
+   "id": "B08",
+   "title": "The Business Partner Beside the Name",
+   "series": "Institutions of One × Fashion, Build room, dossier B08",
+   "origin": {
+    "kind": "article",
+    "label": "The Business Partner Beside the Name",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/B08-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026037074/rl-20260328.htm"
+    },
+    {
+     "label": "Ralph Lauren 2026 Proxy Statement. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000114036126025788/ny20071304x1_def14a.htm"
+    },
+    {
+     "label": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren. U.S. Securities and Exchange Commission, effective 2017-04-02.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217000682/eh1700461_ex1001.htm"
+    },
+    {
+     "label": "Employment Agreement between Ralph Lauren Corporation and Patrice Louvet. U.S. Securities and Exchange Commission, 2017.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217001057/eh1700645_ex1001.htm"
+    },
+    {
+     "label": "Delaware General Corporation Law § 141, Board of directors. State of Delaware, current.",
+     "url": "https://delcode.delaware.gov/title8/c001/sc04/index.html#141"
+    },
+    {
+     "label": "Tapestry, Inc. Form 10-K for year ended June 27, 2026. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/tpr-20260627.htm"
+    },
+    {
+     "label": "15 U.S.C. § 1060, Assignment. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim"
+    }
+   ],
+   "other": [
+    {
+     "label": "Companies House company information service. UK Government, current; accessed 2026-09-07.",
+     "url": "https://find-and-update.company-information.service.gov.uk/"
+    },
+    {
+     "label": "SEC EDGAR APIs. SEC, current; accessed 2026-09-07.",
+     "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces"
+    },
+    {
+     "label": "Garment industry compliance resources. U.S. Department of Labor, current; accessed 2026-09-07.",
+     "url": "https://www.dol.gov/agencies/whd/industry-resources/garment"
+    },
+    {
+     "label": "ILO Better Work programme. International Labour Organization, current; accessed 2026-09-07.",
+     "url": "https://betterwork.org/"
+    },
+    {
+     "label": "J.Crew Creative Director Employment Agreement. U.S. Securities and Exchange Commission, 2010.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1051251/000119312510204267/dex108.htm"
+    },
+    {
+     "label": "J.Crew Employment Agreement: confidential creative records provisions. U.S. Securities and Exchange Commission, 2018.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1513842/000119312519244895/d741756dex1016.htm"
+    },
+    {
+     "label": "Michael Kors Employment Agreement. U.S. Securities and Exchange Commission, 2015.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1530721/000119312515201923/d900571dex107.htm"
+    },
+    {
+     "label": "The source notes for dossier B08: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/B08-evidence-register.csv"
+    },
+    {
+     "label": "The B08 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#b08-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Bernard Gotfryd, Liz Claiborne, fashion designer, with model, 1982. Library of Congress, gtfy.00717. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/gtfy.00717/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "b09",
+   "date": "2026-09-07",
+   "id": "B09",
+   "title": "Seven Seasons of Signal",
+   "series": "Institutions of One × Fashion, Build room, dossier B09",
+   "origin": {
+    "kind": "article",
+    "label": "Seven Seasons of Signal",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/B09-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Alexander McQueen, Explore the Collections. Victoria and Albert Museum, collection current.",
+     "url": "https://www.vam.ac.uk/collections/alexander-mcqueen"
+    },
+    {
+     "label": "Introducing Cristóbal Balenciaga. Victoria and Albert Museum, updated 2024-04-17.",
+     "url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga"
+    },
+    {
+     "label": "Alexander McQueen, an introduction. Victoria and Albert Museum, updated 2024-04-17.",
+     "url": "https://www.vam.ac.uk/articles/alexander-mcqueen-an-introduction"
+    },
+    {
+     "label": "Protection for Fashion Design, Statement of the Register of Copyrights. U.S. Copyright Office, 2006-07-27.",
+     "url": "https://www.copyright.gov/docs/regstat072706.html"
+    },
+    {
+     "label": "Useful Articles. U.S. Copyright Office, current; accessed 2026-09-05.",
+     "url": "https://www.copyright.gov/register/va-useful.html"
+    },
+    {
+     "label": "Trademark Manual of Examining Procedure §1202.02, Registration of Trade Dress. U.S. Patent and Trademark Office, current edition; accessed 2026-09-05.",
+     "url": "https://tmep.uspto.gov/RDMS/TMEP/current#/current/TMEP-1200d1e831.html"
+    },
+    {
+     "label": "Gianfranco Ferré Research Center. Politecnico di Milano / Google Arts & Culture, center established 2021.",
+     "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre"
+    },
+    {
+     "label": "MoMu, Fashion Museum Antwerp. MoMu / Google Arts & Culture, museum opened 2002.",
+     "url": "https://artsandculture.google.com/partner/momu"
+    },
+    {
+     "label": "The Costume Institute collection. The Metropolitan Museum of Art, collection current; accessed 2026-09-05.",
+     "url": "https://www.metmuseum.org/about-the-met/collection-areas/the-costume-institute"
+    },
+    {
+     "label": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982. FIT Special Collections, 1982-05-26; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136259"
+    },
+    {
+     "label": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department. Fashion Institute of Technology Special Collections and College Archives, 1995-02-27; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136318"
+    }
+   ],
+   "other": [
+    {
+     "label": "Fashion in Motion. Victoria and Albert Museum, program current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/collections/fashion-in-motion"
+    },
+    {
+     "label": "The World of Anna Sui. Museum of Arts and Design, 2019.",
+     "url": "https://madmuseum.org/press/releases/major-retrospective-of-american-fashion-designer-anna-sui"
+    },
+    {
+     "label": "Fashion collection. Victoria and Albert Museum, collection current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/collections/fashion"
+    },
+    {
+     "label": "Bridesmaid dress. The Metropolitan Museum of Art, 1896; accessed 2026-09-07.",
+     "url": "https://www.metmuseum.org/art/collection/search/107061"
+    },
+    {
+     "label": "Wedding dress by Christian Dior. National Museum of American History, twentieth century; accessed 2026-09-07.",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1006049"
+    },
+    {
+     "label": "Secrets of Balenciaga’s construction. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction"
+    },
+    {
+     "label": "Contemporary fashion designers on Balenciaga. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/contemporary-fashion-designers-on-balenciaga"
+    },
+    {
+     "label": "The source notes for dossier B09: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/B09-evidence-register.csv"
+    },
+    {
+     "label": "The B09 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#b09-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Toni Frissell, Sporting Look, evening fashions, 1956. Library of Congress, tofr.08422. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/tofr.08422/",
+     "card": false
+    },
+    {
+     "where": "Object 2 in \"Look at the material record\"",
+     "what": "A. F. Jammes, Bridesmaid dress, 1896. The Metropolitan Museum of Art, C.I.41.14.2. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/107061",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "b10",
+   "date": "2026-09-07",
+   "id": "B10",
+   "title": "A Personal Brand Is Not an Institution",
+   "series": "Institutions of One × Fashion, Build room, dossier B10",
+   "origin": {
+    "kind": "article",
+    "label": "A Personal Brand Is Not an Institution",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/B10-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982. FIT Special Collections, 1982-05-26; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136259"
+    },
+    {
+     "label": "FIT oral histories collection, 1967-2023. FIT Gladys Marcus Library, 1967-2023.",
+     "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962"
+    },
+    {
+     "label": "CFDA Resources. Council of Fashion Designers of America, current.",
+     "url": "https://cfda.com/resources/"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "FIT Oral History: Ralph Lauren. FIT Special Collections, 1990-09-05.",
+     "url": "https://archiveondemand.fitnyc.edu/item/135901"
+    },
+    {
+     "label": "Intellectual Property in Fashion. World Intellectual Property Organization, current; updated 2026-08-21.",
+     "url": "https://www.wipo.int/en/web/fashion"
+    },
+    {
+     "label": "Fashion, Beauty, and Intellectual Property: Trademarks. United States Patent and Trademark Office, 2024-02-20; updated 2024-02-26.",
+     "url": "https://www.uspto.gov/about-us/events/fashion-beauty-and-intellectual-property-trademarks"
+    }
+   ],
+   "other": [
+    {
+     "label": "The Hidden History of American Fashion. Smithsonian Libraries, 2018.",
+     "url": "https://www.si.edu/object/hidden-history-american-fashion-rediscovering-twentieth-century-women-designers-edited-nancy-deihl%3Asiris_sil_1089521"
+    },
+    {
+     "label": "Chinese American fashion designer oral-history digitization project. National Archives and Records Administration, 2024.",
+     "url": "https://www.archives.gov/nhprc/newsletter/april2024"
+    },
+    {
+     "label": "Historical Resources: Fashion Industry. Library of Congress, updated 2026.",
+     "url": "https://guides.loc.gov/fashion-industry/history"
+    },
+    {
+     "label": "The source notes for dossier B10: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/B10-evidence-register.csv"
+    },
+    {
+     "label": "The B10 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#b10-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Ball gown, ca. 1872. The Metropolitan Museum of Art, 46.25.1a-d. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/81112",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "ca01",
+   "date": "2026-09-07",
+   "id": "CA01",
+   "title": "The Invisible Institution Behind One Collection",
+   "series": "Institutions of One × Fashion, Carry room, dossier CA01",
+   "origin": {
+    "kind": "article",
+    "label": "The Invisible Institution Behind One Collection",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA01-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department. Fashion Institute of Technology Special Collections and College Archives, 1995-02-27; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136318"
+    },
+    {
+     "label": "Restated License Agreement between Target Brands, Inc., Mossimo, Inc., and Mossimo Giannulli. U.S. Securities and Exchange Commission, public exhibit filed 2006.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1005181/000110465906029856/a06-10480_2ex10d13.htm"
+    },
+    {
+     "label": "Garment Industry Compliance Assistance Toolkit. U.S. Department of Labor, Wage and Hour Division, updated 2025-09-23.",
+     "url": "https://www.dol.gov/agencies/whd/compliance-assistance/toolkits/garment"
+    },
+    {
+     "label": "Patternmaking certificate. Fashion Institute of Technology, current.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php"
+    },
+    {
+     "label": "17 U.S.C. § 101, Definitions. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim"
+    }
+   ],
+   "other": [
+    {
+     "label": "Costume design for a New York production. Library of Congress, 1935-1939.",
+     "url": "https://www.loc.gov/resource/fprcd.11070018.0/"
+    },
+    {
+     "label": "Historical Resources: Fashion Industry. Library of Congress, updated 2026.",
+     "url": "https://guides.loc.gov/fashion-industry/history"
+    },
+    {
+     "label": "The source notes for dossier CA01: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA01-evidence-register.csv"
+    },
+    {
+     "label": "The CA01 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#ca01-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Butterick & Co., Report of New York fashions, spring and summer 1872, 1872. Library of Congress, ppmsca.44953. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/ppmsca.44953/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "ca02",
+   "date": "2026-09-07",
+   "id": "CA02",
+   "title": "Archive as Design Employee",
+   "series": "Institutions of One × Fashion, Carry room, dossier CA02",
+   "origin": {
+    "kind": "article",
+    "label": "Archive as Design Employee",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA02-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Tapestry, Inc. Form 10-K for year ended June 27, 2026. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/tpr-20260627.htm"
+    },
+    {
+     "label": "Gianfranco Ferré Research Center. Politecnico di Milano / Google Arts & Culture, center established 2021.",
+     "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre"
+    },
+    {
+     "label": "Gianfranco Ferré Research Center. Politecnico di Milano / Google Arts & Culture, current story.",
+     "url": "https://artsandculture.google.com/story/WQUhce5OUFK2Xg"
+    },
+    {
+     "label": "Condé Nast Archive. Condé Nast / Google Arts & Culture, archive since 1909.",
+     "url": "https://artsandculture.google.com/partner/conde-nast-archive"
+    },
+    {
+     "label": "HCC Fashion Archive. Houston City College / Google Arts & Culture, collection spans 1740s-2000s.",
+     "url": "https://artsandculture.google.com/partner/hcc-fashion"
+    }
+   ],
+   "other": [
+    {
+     "label": "Smithsonian Open Access. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess"
+    },
+    {
+     "label": "The World of Anna Sui. Museum of Arts and Design, 2019.",
+     "url": "https://madmuseum.org/press/releases/major-retrospective-of-american-fashion-designer-anna-sui"
+    },
+    {
+     "label": "Special Collections and FIT Archive. Fashion Institute of Technology, current; accessed 2026-09-07.",
+     "url": "https://www.fitnyc.edu/academics/library/sparc/index.php"
+    },
+    {
+     "label": "Fashion collection. Victoria and Albert Museum, collection current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/collections/fashion"
+    },
+    {
+     "label": "Dive into Color / collection-data experiments. Cooper Hewitt, Smithsonian Design Museum, 2018.",
+     "url": "https://labs.cooperhewitt.org/tag/api/"
+    },
+    {
+     "label": "Open Access API. The Metropolitan Museum of Art, current; accessed 2026-09-07.",
+     "url": "https://metmuseum.github.io/"
+    },
+    {
+     "label": "Smithsonian Open Access developer tools. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess/devtools"
+    },
+    {
+     "label": "Cooper Hewitt Collection API. Cooper Hewitt, current; accessed 2026-09-07.",
+     "url": "https://collection.cooperhewitt.org/api/"
+    },
+    {
+     "label": "V&A Archives. Victoria and Albert Museum, current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/info/archives"
+    },
+    {
+     "label": "Sustainability of Digital Formats. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://www.loc.gov/preservation/digital/formats/"
+    },
+    {
+     "label": "The source notes for dossier CA02: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA02-evidence-register.csv"
+    },
+    {
+     "label": "The CA02 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#ca02-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Jeanne Hallée, Afternoon dress, ca. 1900. The Metropolitan Museum of Art, 2009.300.3098a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/157996",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "ca03",
+   "date": "2026-09-07",
+   "id": "CA03",
+   "title": "The Patternmaker Behind the Designer",
+   "series": "Institutions of One × Fashion, Carry room, dossier CA03",
+   "origin": {
+    "kind": "article",
+    "label": "The Patternmaker Behind the Designer",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA03-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Patternmaking certificate. Fashion Institute of Technology, current.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php"
+    },
+    {
+     "label": "Introducing Cristóbal Balenciaga. Victoria and Albert Museum, updated 2024-04-17.",
+     "url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga"
+    },
+    {
+     "label": "Alexander McQueen, an introduction. Victoria and Albert Museum, updated 2024-04-17.",
+     "url": "https://www.vam.ac.uk/articles/alexander-mcqueen-an-introduction"
+    },
+    {
+     "label": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department. Fashion Institute of Technology Special Collections and College Archives, 1995-02-27; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136318"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    }
+   ],
+   "other": [
+    {
+     "label": "Special Collections and FIT Archive. Fashion Institute of Technology, current; accessed 2026-09-07.",
+     "url": "https://www.fitnyc.edu/academics/library/sparc/index.php"
+    },
+    {
+     "label": "Dress. The Metropolitan Museum of Art, ca. 1885; accessed 2026-09-07.",
+     "url": "https://www.metmuseum.org/art/collection/search/159180"
+    },
+    {
+     "label": "Shelter and clothing. Library of Congress, 1913.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.shelterclothingt01kinn/?sp=3&st=slideshow"
+    },
+    {
+     "label": "A system for cutting ladies garments. Library of Congress, 1917.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.systemforcutting00leak/?st=pdf"
+    },
+    {
+     "label": "Dressmaking. Internet Archive, 1917.",
+     "url": "https://archive.org/details/dressmaking00fale"
+    },
+    {
+     "label": "Pattern making. Internet Archive, 1922.",
+     "url": "https://archive.org/details/patternmaking00hanngoog"
+    },
+    {
+     "label": "Complete course in dressmaking: Draping and Pattern Making. Internet Archive, 1922.",
+     "url": "https://archive.org/details/completecoursein08cono"
+    },
+    {
+     "label": "Drafting trousers for men, boys, women. Internet Archive, 1945.",
+     "url": "https://archive.org/details/simonsdraftingtrousers1945"
+    },
+    {
+     "label": "Learning from “The Master”. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/learning-from-the-master"
+    },
+    {
+     "label": "The source notes for dossier CA03: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA03-evidence-register.csv"
+    },
+    {
+     "label": "The CA03 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#ca03-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "American or European, Dress, ca. 1903. The Metropolitan Museum of Art, 1976.258.13. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/106420",
+     "card": false
+    },
+    {
+     "where": "Object 2 in \"Look at the material record\"",
+     "what": "Maison Pingat, Dress, ca. 1885. The Metropolitan Museum of Art, 2009.300.628a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159180",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "ca04",
+   "date": "2026-09-07",
+   "id": "CA04",
+   "title": "Who Carries a Creative Vision Into Production?",
+   "series": "Institutions of One × Fashion, Carry room, dossier CA04",
+   "origin": {
+    "kind": "article",
+    "label": "Who Carries a Creative Vision Into Production?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA04-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Garment Industry Compliance Assistance Toolkit. U.S. Department of Labor, Wage and Hour Division, updated 2025-09-23.",
+     "url": "https://www.dol.gov/agencies/whd/compliance-assistance/toolkits/garment"
+    },
+    {
+     "label": "Garment industry resources. U.S. Department of Labor, Wage and Hour Division, current.",
+     "url": "https://www.dol.gov/agencies/whd/industry-resources/garment"
+    },
+    {
+     "label": "Restated License Agreement between Target Brands, Inc., Mossimo, Inc., and Mossimo Giannulli. U.S. Securities and Exchange Commission, public exhibit filed 2006.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1005181/000110465906029856/a06-10480_2ex10d13.htm"
+    },
+    {
+     "label": "Patternmaking certificate. Fashion Institute of Technology, current.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php"
+    },
+    {
+     "label": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products. European Parliament and Council / EUR-Lex, 2024-06-13; OJ 2024-06-28.",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024R1781"
+    }
+   ],
+   "other": [
+    {
+     "label": "Vestments and how to make them. Library of Congress, 1914.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.vestmentshowtoma00west/?st=gallery"
+    },
+    {
+     "label": "Shelter and clothing. Library of Congress, 1913.",
+     "url": "https://www.loc.gov/resource/gdcmassbookdig.shelterclothingt01kinn/?sp=3&st=slideshow"
+    },
+    {
+     "label": "Feedsack dress. National Museum of American History, twentieth century; accessed 2026-09-07.",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1105750"
+    },
+    {
+     "label": "Garment industry compliance resources. U.S. Department of Labor, current; accessed 2026-09-07.",
+     "url": "https://www.dol.gov/agencies/whd/industry-resources/garment"
+    },
+    {
+     "label": "ILO Better Work programme. International Labour Organization, current; accessed 2026-09-07.",
+     "url": "https://betterwork.org/"
+    },
+    {
+     "label": "UNESCO Intangible Cultural Heritage Lists. UNESCO, current; accessed 2026-09-07.",
+     "url": "https://ich.unesco.org/en/lists"
+    },
+    {
+     "label": "Dressmaking. Internet Archive, 1917.",
+     "url": "https://archive.org/details/dressmaking00fale"
+    },
+    {
+     "label": "Complete course in dressmaking: Draping and Pattern Making. Internet Archive, 1922.",
+     "url": "https://archive.org/details/completecoursein08cono"
+    },
+    {
+     "label": "Drafting trousers for men, boys, women. Internet Archive, 1945.",
+     "url": "https://archive.org/details/simonsdraftingtrousers1945"
+    },
+    {
+     "label": "Sew your own: kimono-inspired dress. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/sew-your-own-kimono-inspired-dress"
+    },
+    {
+     "label": "Fashion at the Library. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/"
+    },
+    {
+     "label": "The source notes for dossier CA04: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA04-evidence-register.csv"
+    },
+    {
+     "label": "The CA04 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#ca04-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "French, Dress, 1735-40. The Metropolitan Museum of Art, 1983.399.1. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/83877",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "ca05",
+   "date": "2026-09-07",
+   "id": "CA05",
+   "title": "The Publicist as Institutional Infrastructure",
+   "series": "Institutions of One × Fashion, Carry room, dossier CA05",
+   "origin": {
+    "kind": "article",
+    "label": "The Publicist as Institutional Infrastructure",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA05-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Eleanor Lambert: Empress of Seventh Avenue. The Museum at FIT, 2020.",
+     "url": "https://www.fitnyc.edu/museum/exhibitions/eleanor-lambert.php"
+    },
+    {
+     "label": "Eleanor Lambert collection, 1942-2003. Fashion Institute of Technology Special Collections and College Archives, collection record current.",
+     "url": "https://atom-sparc.fitnyc.edu/sc-214"
+    },
+    {
+     "label": "Consulting Agreement concerning Estée Lauder brand services and persona uses. U.S. Securities and Exchange Commission, public exhibit filed 2011.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1001250/000090951811000147/mm04-0511_8ke101.htm"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    }
+   ],
+   "other": [
+    {
+     "label": "Division of Costume Audiovisual Collection. Smithsonian National Museum of American History Archives Center, collection record current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/object/archives/sova-nmah-ac-0801"
+    },
+    {
+     "label": "Special Collections and FIT Archive. Fashion Institute of Technology, current; accessed 2026-09-07.",
+     "url": "https://www.fitnyc.edu/academics/library/sparc/index.php"
+    },
+    {
+     "label": "Costume design for a New York production. Library of Congress, 1935-1939.",
+     "url": "https://www.loc.gov/resource/fprcd.11070018.0/"
+    },
+    {
+     "label": "Chinese American fashion designer oral-history digitization project. National Archives and Records Administration, 2024.",
+     "url": "https://www.archives.gov/nhprc/newsletter/april2024"
+    },
+    {
+     "label": "Fashion at the Library. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/"
+    },
+    {
+     "label": "The source notes for dossier CA05: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA05-evidence-register.csv"
+    },
+    {
+     "label": "The CA05 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#ca05-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Toni Frissell, Sporting Look, evening fashions, 1956. Library of Congress, tofr.08422. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/tofr.08422/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "ca06",
+   "date": "2026-09-07",
+   "id": "CA06",
+   "title": "How Stylists Manufacture Cultural Meaning",
+   "series": "Institutions of One × Fashion, Carry room, dossier CA06",
+   "origin": {
+    "kind": "article",
+    "label": "How Stylists Manufacture Cultural Meaning",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA06-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Styling for Creative Media. Fashion Institute of Technology, current; accessed 2026-09-04.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/art-and-design/fabric-styling/index.php"
+    },
+    {
+     "label": "The Women of Harper's Bazaar, 1936-1958. Fashion Institute of Technology, 2016 exhibition record.",
+     "url": "https://news.fitnyc.edu/2016/03/03/exhibition-the-women-of-harpers-bazaar-1936-1958/"
+    },
+    {
+     "label": "17 U.S.C. § 101, Definitions. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 204, Execution of transfers of copyright ownership. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section204&num=0&edition=prelim"
+    },
+    {
+     "label": "Standard Application Help: Author. U.S. Copyright Office, current; accessed 2026-09-04.",
+     "url": "https://www.copyright.gov/eco/help-author.html"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    }
+   ],
+   "other": [
+    {
+     "label": "The Fashion and Textile Museum collection and programme. Fashion and Textile Museum, current; accessed 2026-09-07.",
+     "url": "https://fashiontextilemuseum.org/"
+    },
+    {
+     "label": "Historical Resources: Fashion Industry. Library of Congress, updated 2026.",
+     "url": "https://guides.loc.gov/fashion-industry/history"
+    },
+    {
+     "label": "Contemporary fashion designers on Balenciaga. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/contemporary-fashion-designers-on-balenciaga"
+    },
+    {
+     "label": "Fashion at the Library. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/"
+    },
+    {
+     "label": "The source notes for dossier CA06: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA06-evidence-register.csv"
+    },
+    {
+     "label": "The CA06 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#ca06-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Butterick & Co., Report of New York fashions, spring and summer 1872, 1872. Library of Congress, ppmsca.44953. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/ppmsca.44953/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "ca07",
+   "date": "2026-09-07",
+   "id": "CA07",
+   "title": "The Photographer Who Defines the House",
+   "series": "Institutions of One × Fashion, Carry room, dossier CA07",
+   "origin": {
+    "kind": "article",
+    "label": "The Photographer Who Defines the House",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA07-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "What Photographers Should Know about Copyright. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/engage/photographers/"
+    },
+    {
+     "label": "Circular 30: Works Made for Hire. U.S. Copyright Office, current circular.",
+     "url": "https://www.copyright.gov/circs/circ30.pdf"
+    },
+    {
+     "label": "Standard Application Help: Author. U.S. Copyright Office, current; accessed 2026-09-04.",
+     "url": "https://www.copyright.gov/eco/help-author.html"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 204, Execution of transfers of copyright ownership. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section204&num=0&edition=prelim"
+    },
+    {
+     "label": "Condé Nast Archive. Condé Nast / Google Arts & Culture, archive since 1909.",
+     "url": "https://artsandculture.google.com/partner/conde-nast-archive"
+    },
+    {
+     "label": "Sporting Look, evening fashions. Library of Congress, 1956.",
+     "url": "https://www.loc.gov/resource/tofr.08422/"
+    },
+    {
+     "label": "The Women of Harper's Bazaar, 1936-1958. Fashion Institute of Technology, 2016 exhibition record.",
+     "url": "https://news.fitnyc.edu/2016/03/03/exhibition-the-women-of-harpers-bazaar-1936-1958/"
+    },
+    {
+     "label": "Gloria Vanderbilt Cooper. Library of Congress, 1966.",
+     "url": "https://www.loc.gov/resource/tofr.52127/"
+    }
+   ],
+   "other": [
+    {
+     "label": "Division of Costume Audiovisual Collection. Smithsonian National Museum of American History Archives Center, collection record current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/object/archives/sova-nmah-ac-0801"
+    },
+    {
+     "label": "Fashion in Motion. Victoria and Albert Museum, program current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/collections/fashion-in-motion"
+    },
+    {
+     "label": "SEC EDGAR APIs. SEC, current; accessed 2026-09-07.",
+     "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces"
+    },
+    {
+     "label": "Garment industry compliance resources. U.S. Department of Labor, current; accessed 2026-09-07.",
+     "url": "https://www.dol.gov/agencies/whd/industry-resources/garment"
+    },
+    {
+     "label": "ILO Better Work programme. International Labour Organization, current; accessed 2026-09-07.",
+     "url": "https://betterwork.org/"
+    },
+    {
+     "label": "Historical Resources: Fashion Industry. Library of Congress, updated 2026.",
+     "url": "https://guides.loc.gov/fashion-industry/history"
+    },
+    {
+     "label": "The source notes for dossier CA07: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA07-evidence-register.csv"
+    },
+    {
+     "label": "The CA07 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#ca07-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Toni Frissell, Gloria Vanderbilt Cooper, 1966. Library of Congress, tofr.52127. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/tofr.52127/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "ca08",
+   "date": "2026-09-07",
+   "id": "CA08",
+   "title": "What Fashion Owes Its Craftspeople",
+   "series": "Institutions of One × Fashion, Carry room, dossier CA08",
+   "origin": {
+    "kind": "article",
+    "label": "What Fashion Owes Its Craftspeople",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA08-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Garment Industry Compliance Assistance Toolkit. U.S. Department of Labor, Wage and Hour Division, updated 2025-09-23.",
+     "url": "https://www.dol.gov/agencies/whd/compliance-assistance/toolkits/garment"
+    },
+    {
+     "label": "Garment industry resources. U.S. Department of Labor, Wage and Hour Division, current.",
+     "url": "https://www.dol.gov/agencies/whd/industry-resources/garment"
+    },
+    {
+     "label": "How to achieve gender equality in global garment supply chains. International Labour Organization, current infostory; accessed 2026-09-04.",
+     "url": "https://webapps.ilo.org/infostories/en-GB/Stories/discrimination/garment-gender.html"
+    },
+    {
+     "label": "Purchasing practices and low wages in global supply chains. International Labour Organization, 2017.",
+     "url": "https://researchrepository.ilo.org/esploro/outputs/encyclopediaEntry/Purchasing-practices-and-low-wages-in/995219001102676"
+    },
+    {
+     "label": "Decent Work in the Garment Sector Supply Chains in Asia. International Labour Organization, project record current; accessed 2026-09-04.",
+     "url": "https://www.ilo.org/projects-and-partnerships/projects/decent-work-garment-sector-supply-chains-asia"
+    },
+    {
+     "label": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department. Fashion Institute of Technology Special Collections and College Archives, 1995-02-27; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136318"
+    },
+    {
+     "label": "Handmade for the 21st century: safeguarding traditional Indian textiles. UNESCO, 2022.",
+     "url": "https://unesdoc.unesco.org/ark:/48223/pf0000382921"
+    },
+    {
+     "label": "Joyce A. Bailey Oral History Interview. National Museum of African American History and Culture, 2016-07-11.",
+     "url": "https://nmaahc.si.edu/object/nmaahc_2016.129.3.1a-.2a"
+    }
+   ],
+   "other": [
+    {
+     "label": "Dress designed by Ann Lowe. National Museum of African American History and Culture, 1950s; record accessed 2026-09-07.",
+     "url": "https://www.si.edu/object/dress-designed-ann-lowe%3Anmaahc_2007.3.23"
+    },
+    {
+     "label": "Dress. The Metropolitan Museum of Art, ca. 1885; accessed 2026-09-07.",
+     "url": "https://www.metmuseum.org/art/collection/search/159180"
+    },
+    {
+     "label": "The Fashion and Textile Museum collection and programme. Fashion and Textile Museum, current; accessed 2026-09-07.",
+     "url": "https://fashiontextilemuseum.org/"
+    },
+    {
+     "label": "V&A Archives. Victoria and Albert Museum, current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/info/archives"
+    },
+    {
+     "label": "Save Page Now. Internet Archive, current; accessed 2026-09-07.",
+     "url": "https://web.archive.org/save/"
+    },
+    {
+     "label": "The source notes for dossier CA08: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA08-evidence-register.csv"
+    },
+    {
+     "label": "The CA08 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#ca08-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Ball gown, ca. 1887. The Metropolitan Museum of Art, 1977.292.2a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/81630",
+     "card": false
+    },
+    {
+     "where": "Object 1 in \"Look at the material record\"",
+     "what": "Maison Pingat, Dress, ca. 1885. The Metropolitan Museum of Art, 2009.300.628a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159180",
+     "card": false
+    },
+    {
+     "where": "Object 3 in \"Look at the material record\"",
+     "what": "House of Worth, Walking suit, ca. 1889. The Metropolitan Museum of Art, 2009.300.73a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159303",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "ca09",
+   "date": "2026-09-07",
+   "id": "CA09",
+   "title": "How a Fashion House Transfers Tacit Knowledge",
+   "series": "Institutions of One × Fashion, Carry room, dossier CA09",
+   "origin": {
+    "kind": "article",
+    "label": "How a Fashion House Transfers Tacit Knowledge",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA09-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department. Fashion Institute of Technology Special Collections and College Archives, 1995-02-27; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136318"
+    },
+    {
+     "label": "Gianfranco Ferré Research Center. Politecnico di Milano / Google Arts & Culture, center established 2021.",
+     "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre"
+    },
+    {
+     "label": "Gianfranco Ferré Research Center. Politecnico di Milano / Google Arts & Culture, current story.",
+     "url": "https://artsandculture.google.com/story/WQUhce5OUFK2Xg"
+    },
+    {
+     "label": "Handmade for the 21st century: safeguarding traditional Indian textiles. UNESCO, 2022.",
+     "url": "https://unesdoc.unesco.org/ark:/48223/pf0000382921"
+    },
+    {
+     "label": "Patternmaking certificate. Fashion Institute of Technology, current.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php"
+    },
+    {
+     "label": "Introducing Cristóbal Balenciaga. Victoria and Albert Museum, updated 2024-04-17.",
+     "url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga"
+    },
+    {
+     "label": "Garment Industry Compliance Assistance Toolkit. U.S. Department of Labor, Wage and Hour Division, updated 2025-09-23.",
+     "url": "https://www.dol.gov/agencies/whd/compliance-assistance/toolkits/garment"
+    },
+    {
+     "label": "Decent Work in the Garment Sector Supply Chains in Asia. International Labour Organization, project record current; accessed 2026-09-04.",
+     "url": "https://www.ilo.org/projects-and-partnerships/projects/decent-work-garment-sector-supply-chains-asia"
+    }
+   ],
+   "other": [
+    {
+     "label": "Oral history. Museum of Modern Art, program current; accessed 2026-09-07.",
+     "url": "https://www.moma.org/research/archives/oral-history"
+    },
+    {
+     "label": "Cooper Hewitt Collection API. Cooper Hewitt, current; accessed 2026-09-07.",
+     "url": "https://collection.cooperhewitt.org/api/"
+    },
+    {
+     "label": "UNESCO Intangible Cultural Heritage Lists. UNESCO, current; accessed 2026-09-07.",
+     "url": "https://ich.unesco.org/en/lists"
+    },
+    {
+     "label": "Internet Archive Scholar. Internet Archive, current; accessed 2026-09-07.",
+     "url": "https://scholar.archive.org/"
+    },
+    {
+     "label": "Pattern making. Internet Archive, 1922.",
+     "url": "https://archive.org/details/patternmaking00hanngoog"
+    },
+    {
+     "label": "Complete course in dressmaking: Draping and Pattern Making. Internet Archive, 1922.",
+     "url": "https://archive.org/details/completecoursein08cono"
+    },
+    {
+     "label": "The Keystone jacket and dress cutter. Internet Archive, 1895.",
+     "url": "https://archive.org/details/keystonejacketdr00heck"
+    },
+    {
+     "label": "Secrets of Balenciaga’s construction. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction"
+    },
+    {
+     "label": "Learning from “The Master”. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/learning-from-the-master"
+    },
+    {
+     "label": "Sew your own: kimono-inspired dress. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/sew-your-own-kimono-inspired-dress"
+    },
+    {
+     "label": "Contemporary fashion designers on Balenciaga. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/contemporary-fashion-designers-on-balenciaga"
+    },
+    {
+     "label": "The source notes for dossier CA09: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA09-evidence-register.csv"
+    },
+    {
+     "label": "The CA09 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#ca09-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Ensemble, 1893. The Metropolitan Museum of Art, 2009.300.620a-e. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159172",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "ca10",
+   "date": "2026-09-07",
+   "id": "CA10",
+   "title": "The Myth of the Lone Fashion Genius",
+   "series": "Institutions of One × Fashion, Carry room, dossier CA10",
+   "origin": {
+    "kind": "article",
+    "label": "The Myth of the Lone Fashion Genius",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA10-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "FIT oral histories collection, 1967-2023. FIT Gladys Marcus Library, 1967-2023.",
+     "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962"
+    },
+    {
+     "label": "Parsons School of Design Fashion Design Department records. The New School Archives, 1941-2008.",
+     "url": ""
+    },
+    {
+     "label": "Parsons School of Design School of Fashion records. The New School Archives, ca. 1980-2020.",
+     "url": ""
+    },
+    {
+     "label": "Joyce A. Bailey Oral History Interview. National Museum of African American History and Culture, 2016-07-11.",
+     "url": "https://nmaahc.si.edu/object/nmaahc_2016.129.3.1a-.2a"
+    },
+    {
+     "label": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982. FIT Special Collections, 1982-05-26; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136259"
+    },
+    {
+     "label": "Interview of Liz Claiborne, 1990 July 10 and 17. FIT Special Collections, 1990-07-10 and 1990-07-17.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136197"
+    },
+    {
+     "label": "FIT Oral History: Ralph Lauren. FIT Special Collections, 1990-09-05.",
+     "url": "https://archiveondemand.fitnyc.edu/item/135901"
+    }
+   ],
+   "other": [
+    {
+     "label": "Joyce A. Bailey Oral History Interview. National Museum of African American History and Culture, 2016.",
+     "url": "https://www.si.edu/object/joyce-bailey-oral-history-interview%3Anmaahc_2016.129.3.1a-.2a"
+    },
+    {
+     "label": "The Hidden History of American Fashion. Smithsonian Libraries, 2018.",
+     "url": "https://www.si.edu/object/hidden-history-american-fashion-rediscovering-twentieth-century-women-designers-edited-nancy-deihl%3Asiris_sil_1089521"
+    },
+    {
+     "label": "Open Access API. The Metropolitan Museum of Art, current; accessed 2026-09-07.",
+     "url": "https://metmuseum.github.io/"
+    },
+    {
+     "label": "Smithsonian Open Access developer tools. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess/devtools"
+    },
+    {
+     "label": "National Archives records management guidance. NARA, current; accessed 2026-09-07.",
+     "url": "https://www.archives.gov/records-mgmt"
+    },
+    {
+     "label": "Internet Archive Scholar. Internet Archive, current; accessed 2026-09-07.",
+     "url": "https://scholar.archive.org/"
+    },
+    {
+     "label": "J.Crew Employment Agreement: confidential creative records provisions. U.S. Securities and Exchange Commission, 2018.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1513842/000119312519244895/d741756dex1016.htm"
+    },
+    {
+     "label": "Chinese American fashion designer oral-history digitization project. National Archives and Records Administration, 2024.",
+     "url": "https://www.archives.gov/nhprc/newsletter/april2024"
+    },
+    {
+     "label": "Fashion at the Library. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/"
+    },
+    {
+     "label": "Sustainability of Digital Formats. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://www.loc.gov/preservation/digital/formats/"
+    },
+    {
+     "label": "The source notes for dossier CA10: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CA10-evidence-register.csv"
+    },
+    {
+     "label": "The CA10 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#ca10-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Jeanne Hallée, Afternoon dress, ca. 1900. The Metropolitan Museum of Art, 2009.300.3098a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/157996",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co01",
+   "date": "2026-09-07",
+   "id": "CO01",
+   "title": "Your Name Is on the Label. Do You Own It?",
+   "series": "Institutions of One × Fashion, Control room, dossier CO01",
+   "origin": {
+    "kind": "article",
+    "label": "Your Name Is on the Label. Do You Own It?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO01-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "15 U.S.C. § 1052, Trademarks registrable on the principal register. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1052&num=0&edition=prelim"
+    },
+    {
+     "label": "15 U.S.C. § 1060, Assignment. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim"
+    },
+    {
+     "label": "Fashion, Beauty, and Intellectual Property: Trademarks. United States Patent and Trademark Office, 2024-02-20; updated 2024-02-26.",
+     "url": "https://www.uspto.gov/about-us/events/fashion-beauty-and-intellectual-property-trademarks"
+    },
+    {
+     "label": "Delaware General Corporation Law § 141, Board of directors. State of Delaware, current.",
+     "url": "https://delcode.delaware.gov/title8/c001/sc04/index.html#141"
+    }
+   ],
+   "other": [
+    {
+     "label": "Trademark Search system. USPTO, current; accessed 2026-09-07.",
+     "url": "https://tmsearch.uspto.gov/"
+    },
+    {
+     "label": "Trademark Assignment Search. USPTO, current; accessed 2026-09-07.",
+     "url": "https://assignmentcenter.uspto.gov/"
+    },
+    {
+     "label": "WIPO Global Brand Database. WIPO, current; accessed 2026-09-07.",
+     "url": "https://branddb.wipo.int/"
+    },
+    {
+     "label": "JLM Couture, Inc. v. Gutman. Justia mirror of federal opinion, 2022.",
+     "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/21-870/21-870-2022-01-25.html"
+    },
+    {
+     "label": "JA Apparel Corp. v. Abboud. Justia mirror of federal opinion, 2010.",
+     "url": "https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2007cv07787/312411/58/"
+    },
+    {
+     "label": "The source notes for dossier CO01: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO01-evidence-register.csv"
+    },
+    {
+     "label": "The CO01 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co01-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Duval & Hunter, S.D. Sollers & Co., manufacturers of children's fine shoes, 1874. Library of Congress, pga.06009. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/pga.06009/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co02",
+   "date": "2026-09-07",
+   "id": "CO02",
+   "title": "Creative Control Is Not Economic Control",
+   "series": "Institutions of One × Fashion, Control room, dossier CO02",
+   "origin": {
+    "kind": "article",
+    "label": "Creative Control Is Not Economic Control",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO02-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Delaware General Corporation Law § 141, Board of directors. State of Delaware, current.",
+     "url": "https://delcode.delaware.gov/title8/c001/sc04/index.html#141"
+    },
+    {
+     "label": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren. U.S. Securities and Exchange Commission, effective 2017-04-02.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217000682/eh1700461_ex1001.htm"
+    },
+    {
+     "label": "Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026037074/rl-20260328.htm"
+    },
+    {
+     "label": "Ralph Lauren 2026 Proxy Statement. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000114036126025788/ny20071304x1_def14a.htm"
+    },
+    {
+     "label": "Employment Agreement between Ralph Lauren Corporation and Patrice Louvet. U.S. Securities and Exchange Commission, 2017.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217001057/eh1700645_ex1001.htm"
+    }
+   ],
+   "other": [
+    {
+     "label": "Companies House company information service. UK Government, current; accessed 2026-09-07.",
+     "url": "https://find-and-update.company-information.service.gov.uk/"
+    },
+    {
+     "label": "SEC EDGAR APIs. SEC, current; accessed 2026-09-07.",
+     "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces"
+    },
+    {
+     "label": "J.Crew Creative Director Employment Agreement. U.S. Securities and Exchange Commission, 2010.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1051251/000119312510204267/dex108.htm"
+    },
+    {
+     "label": "Michael Kors Employment Agreement. U.S. Securities and Exchange Commission, 2015.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1530721/000119312515201923/d900571dex107.htm"
+    },
+    {
+     "label": "JLM Couture, Inc. v. Gutman. Justia mirror of federal opinion, 2022.",
+     "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/21-870/21-870-2022-01-25.html"
+    },
+    {
+     "label": "The source notes for dossier CO02: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO02-evidence-register.csv"
+    },
+    {
+     "label": "The CO02 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co02-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Bernard Gotfryd, Liz Claiborne, fashion designer, with model, 1982. Library of Congress, gtfy.00717. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/gtfy.00717/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co03",
+   "date": "2026-09-07",
+   "id": "CO03",
+   "title": "Who Owns a Runway Image?",
+   "series": "Institutions of One × Fashion, Control room, dossier CO03",
+   "origin": {
+    "kind": "article",
+    "label": "Who Owns a Runway Image?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO03-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "17 U.S.C. § 101, Definitions. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim"
+    },
+    {
+     "label": "Circular 30: Works Made for Hire. U.S. Copyright Office, current circular.",
+     "url": "https://www.copyright.gov/circs/circ30.pdf"
+    },
+    {
+     "label": "17 U.S.C. § 204, Execution of transfers of copyright ownership. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section204&num=0&edition=prelim"
+    },
+    {
+     "label": "What Photographers Should Know about Copyright. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/engage/photographers/"
+    }
+   ],
+   "other": [
+    {
+     "label": "Open Access FAQ. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess/faq"
+    },
+    {
+     "label": "Knock It Off: A History of Design Piracy in the U.S. Women’s Ready-to-Wear Apparel Industry. Smithsonian Libraries, 2016.",
+     "url": "https://www.si.edu/object/knock-it-history-design-piracy-us-womens-ready-wear-apparel-industry-sara-b-marcketti-and-jean-l%3Asiris_sil_1060315"
+    },
+    {
+     "label": "Europeana Rights Statements. Europeana, current; accessed 2026-09-07.",
+     "url": "https://pro.europeana.eu/page/available-rights-statements"
+    },
+    {
+     "label": "DPLA Rights Statements. DPLA, current; accessed 2026-09-07.",
+     "url": "https://pro.dp.la/hubs/rights-statements"
+    },
+    {
+     "label": "Copyright and the Fashion Design Industry. U.S. Copyright Office, current; accessed 2026-09-07.",
+     "url": "https://www.copyright.gov/docs/regstat072706.html"
+    },
+    {
+     "label": "Christian Louboutin v. Yves Saint Laurent. Justia mirror of federal opinion, 2013.",
+     "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/11-3303/11-3303-2013-03-08.html"
+    },
+    {
+     "label": "The source notes for dossier CO03: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO03-evidence-register.csv"
+    },
+    {
+     "label": "The CO03 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co03-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Toni Frissell, Sporting Look, evening fashions, 1956. Library of Congress, tofr.08422. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/tofr.08422/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co04",
+   "date": "2026-09-07",
+   "id": "CO04",
+   "title": "Who Owns the Archive?",
+   "series": "Institutions of One × Fashion, Control room, dossier CO04",
+   "origin": {
+    "kind": "article",
+    "label": "Who Owns the Archive?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO04-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/title17/92chap2.html"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    },
+    {
+     "label": "Standard Application Help: Claimant, transfer by inheritance. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/eco/help-claimant.html"
+    },
+    {
+     "label": "Electronic Records Information for Archivists. U.S. National Archives and Records Administration, current.",
+     "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html"
+    }
+   ],
+   "other": [
+    {
+     "label": "Smithsonian Open Access. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess"
+    },
+    {
+     "label": "Open Access FAQ. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess/faq"
+    },
+    {
+     "label": "Europeana Rights Statements. Europeana, current; accessed 2026-09-07.",
+     "url": "https://pro.europeana.eu/page/available-rights-statements"
+    },
+    {
+     "label": "DPLA Rights Statements. DPLA, current; accessed 2026-09-07.",
+     "url": "https://pro.dp.la/hubs/rights-statements"
+    },
+    {
+     "label": "National Archives records management guidance. NARA, current; accessed 2026-09-07.",
+     "url": "https://www.archives.gov/records-mgmt"
+    },
+    {
+     "label": "J.Crew Employment Agreement: confidential creative records provisions. U.S. Securities and Exchange Commission, 2018.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1513842/000119312519244895/d741756dex1016.htm"
+    },
+    {
+     "label": "V&A Archives. Victoria and Albert Museum, current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/info/archives"
+    },
+    {
+     "label": "The source notes for dossier CO04: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO04-evidence-register.csv"
+    },
+    {
+     "label": "The CO04 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co04-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co05",
+   "date": "2026-09-07",
+   "id": "CO05",
+   "title": "Controlled Company, Controlled Story",
+   "series": "Institutions of One × Fashion, Control room, dossier CO05",
+   "origin": {
+    "kind": "article",
+    "label": "Controlled Company, Controlled Story",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO05-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026037074/rl-20260328.htm"
+    },
+    {
+     "label": "Ralph Lauren 2026 Proxy Statement. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000114036126025788/ny20071304x1_def14a.htm"
+    },
+    {
+     "label": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren. U.S. Securities and Exchange Commission, effective 2017-04-02.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217000682/eh1700461_ex1001.htm"
+    },
+    {
+     "label": "Employment Agreement between Ralph Lauren Corporation and Patrice Louvet. U.S. Securities and Exchange Commission, 2017.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217001057/eh1700645_ex1001.htm"
+    },
+    {
+     "label": "Delaware General Corporation Law § 141, Board of directors. State of Delaware, current.",
+     "url": "https://delcode.delaware.gov/title8/c001/sc04/index.html#141"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    }
+   ],
+   "other": [
+    {
+     "label": "Trademark Search system. USPTO, current; accessed 2026-09-07.",
+     "url": "https://tmsearch.uspto.gov/"
+    },
+    {
+     "label": "Trademark Assignment Search. USPTO, current; accessed 2026-09-07.",
+     "url": "https://assignmentcenter.uspto.gov/"
+    },
+    {
+     "label": "Companies House company information service. UK Government, current; accessed 2026-09-07.",
+     "url": "https://find-and-update.company-information.service.gov.uk/"
+    },
+    {
+     "label": "WIPO Global Brand Database. WIPO, current; accessed 2026-09-07.",
+     "url": "https://branddb.wipo.int/"
+    },
+    {
+     "label": "Michael Kors Employment Agreement. U.S. Securities and Exchange Commission, 2015.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1530721/000119312515201923/d900571dex107.htm"
+    },
+    {
+     "label": "JA Apparel Corp. v. Abboud. Justia mirror of federal opinion, 2010.",
+     "url": "https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2007cv07787/312411/58/"
+    },
+    {
+     "label": "The source notes for dossier CO05: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO05-evidence-register.csv"
+    },
+    {
+     "label": "The CO05 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co05-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Bernard Gotfryd, Liz Claiborne, fashion designer, with model, 1982. Library of Congress, gtfy.00717. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/gtfy.00717/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co06",
+   "date": "2026-09-07",
+   "id": "CO06",
+   "title": "A Million Followers Is a Rented Institution",
+   "series": "Institutions of One × Fashion, Control room, dossier CO06",
+   "origin": {
+    "kind": "article",
+    "label": "A Million Followers Is a Rented Institution",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO06-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Fashion, Beauty, and Intellectual Property: Trademarks. United States Patent and Trademark Office, 2024-02-20; updated 2024-02-26.",
+     "url": "https://www.uspto.gov/about-us/events/fashion-beauty-and-intellectual-property-trademarks"
+    },
+    {
+     "label": "Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026037074/rl-20260328.htm"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "CFDA Resources. Council of Fashion Designers of America, current.",
+     "url": "https://cfda.com/resources/"
+    }
+   ],
+   "other": [
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://www.digitalpreservation.gov/personalarchiving/"
+    },
+    {
+     "label": "Save Page Now. Internet Archive, current; accessed 2026-09-07.",
+     "url": "https://web.archive.org/save/"
+    },
+    {
+     "label": "Guidance on Managing Social Media Records. NARA, current; accessed 2026-09-07.",
+     "url": "https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html"
+    },
+    {
+     "label": "The source notes for dossier CO06: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO06-evidence-register.csv"
+    },
+    {
+     "label": "The CO06 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co06-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "American or European, Dress, ca. 1903. The Metropolitan Museum of Art, 1976.258.13. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/106420",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co07",
+   "date": "2026-09-07",
+   "id": "CO07",
+   "title": "The Institution Hidden Inside the Contract",
+   "series": "Institutions of One × Fashion, Control room, dossier CO07",
+   "origin": {
+    "kind": "article",
+    "label": "The Institution Hidden Inside the Contract",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO07-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren. U.S. Securities and Exchange Commission, effective 2017-04-02.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217000682/eh1700461_ex1001.htm"
+    },
+    {
+     "label": "Employment Agreement between Ralph Lauren Corporation and Patrice Louvet. U.S. Securities and Exchange Commission, 2017.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217001057/eh1700645_ex1001.htm"
+    },
+    {
+     "label": "17 U.S.C. § 101, Definitions. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 204, Execution of transfers of copyright ownership. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section204&num=0&edition=prelim"
+    },
+    {
+     "label": "Circular 30: Works Made for Hire. U.S. Copyright Office, current circular.",
+     "url": "https://www.copyright.gov/circs/circ30.pdf"
+    },
+    {
+     "label": "Delaware General Corporation Law § 141, Board of directors. State of Delaware, current.",
+     "url": "https://delcode.delaware.gov/title8/c001/sc04/index.html#141"
+    }
+   ],
+   "other": [
+    {
+     "label": "Knock It Off: A History of Design Piracy in the U.S. Women’s Ready-to-Wear Apparel Industry. Smithsonian Libraries, 2016.",
+     "url": "https://www.si.edu/object/knock-it-history-design-piracy-us-womens-ready-wear-apparel-industry-sara-b-marcketti-and-jean-l%3Asiris_sil_1060315"
+    },
+    {
+     "label": "Trademark Search system. USPTO, current; accessed 2026-09-07.",
+     "url": "https://tmsearch.uspto.gov/"
+    },
+    {
+     "label": "SEC EDGAR APIs. SEC, current; accessed 2026-09-07.",
+     "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces"
+    },
+    {
+     "label": "Copyright and the Fashion Design Industry. U.S. Copyright Office, current; accessed 2026-09-07.",
+     "url": "https://www.copyright.gov/docs/regstat072706.html"
+    },
+    {
+     "label": "J.Crew Creative Director Employment Agreement. U.S. Securities and Exchange Commission, 2010.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1051251/000119312510204267/dex108.htm"
+    },
+    {
+     "label": "J.Crew Employment Agreement: confidential creative records provisions. U.S. Securities and Exchange Commission, 2018.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1513842/000119312519244895/d741756dex1016.htm"
+    },
+    {
+     "label": "Michael Kors Employment Agreement. U.S. Securities and Exchange Commission, 2015.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1530721/000119312515201923/d900571dex107.htm"
+    },
+    {
+     "label": "JLM Couture, Inc. v. Gutman. Justia mirror of federal opinion, 2022.",
+     "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/21-870/21-870-2022-01-25.html"
+    },
+    {
+     "label": "The source notes for dossier CO07: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO07-evidence-register.csv"
+    },
+    {
+     "label": "The CO07 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co07-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Butterick & Co., Report of New York fashions, spring and summer 1872, 1872. Library of Congress, ppmsca.44953. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/ppmsca.44953/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co08",
+   "date": "2026-09-07",
+   "id": "CO08",
+   "title": "Can Taste Be Owned in the Age of Generative AI?",
+   "series": "Institutions of One × Fashion, Control room, dossier CO08",
+   "origin": {
+    "kind": "article",
+    "label": "Can Taste Be Owned in the Age of Generative AI?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO08-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Intellectual Property in Fashion. World Intellectual Property Organization, current; updated 2026-08-21.",
+     "url": "https://www.wipo.int/en/web/fashion"
+    },
+    {
+     "label": "WIPO IP Diagnostics for the Fashion Industry. World Intellectual Property Organization, 2026-08-21.",
+     "url": "https://www.wipo.int/en/web/business/w/news/2026/wipo-launches-new-ip-diagnostics-tool-for-the-fashion-industry"
+    },
+    {
+     "label": "How to Protect Designs?. World Intellectual Property Organization, current.",
+     "url": "https://www.wipo.int/en/web/designs/protection"
+    },
+    {
+     "label": "Industrial Designs. World Intellectual Property Organization, current.",
+     "url": "https://www.wipo.int/en/web/designs/"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    }
+   ],
+   "other": [
+    {
+     "label": "Bridesmaid dress. The Metropolitan Museum of Art, 1896; accessed 2026-09-07.",
+     "url": "https://www.metmuseum.org/art/collection/search/107061"
+    },
+    {
+     "label": "Knock It Off: A History of Design Piracy in the U.S. Women’s Ready-to-Wear Apparel Industry. Smithsonian Libraries, 2016.",
+     "url": "https://www.si.edu/object/knock-it-history-design-piracy-us-womens-ready-wear-apparel-industry-sara-b-marcketti-and-jean-l%3Asiris_sil_1060315"
+    },
+    {
+     "label": "Copyright and the Fashion Design Industry. U.S. Copyright Office, current; accessed 2026-09-07.",
+     "url": "https://www.copyright.gov/docs/regstat072706.html"
+    },
+    {
+     "label": "Christian Louboutin v. Yves Saint Laurent. Justia mirror of federal opinion, 2013.",
+     "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/11-3303/11-3303-2013-03-08.html"
+    },
+    {
+     "label": "The source notes for dossier CO08: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO08-evidence-register.csv"
+    },
+    {
+     "label": "The CO08 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co08-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "French, Dress, 1735-40. The Metropolitan Museum of Art, 1983.399.1. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/83877",
+     "card": false
+    },
+    {
+     "where": "Object 2 in \"Look at the material record\"",
+     "what": "A. F. Jammes, Bridesmaid dress, 1896. The Metropolitan Museum of Art, C.I.41.14.2. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/107061",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co09",
+   "date": "2026-09-07",
+   "id": "CO09",
+   "title": "Proof of Making",
+   "series": "Institutions of One × Fashion, Control room, dossier CO09",
+   "origin": {
+    "kind": "article",
+    "label": "Proof of Making",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO09-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "17 U.S.C. § 101, Definitions. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 204, Execution of transfers of copyright ownership. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section204&num=0&edition=prelim"
+    },
+    {
+     "label": "Circular 30: Works Made for Hire. U.S. Copyright Office, current circular.",
+     "url": "https://www.copyright.gov/circs/circ30.pdf"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department. Fashion Institute of Technology Special Collections and College Archives, 1995-02-27; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136318"
+    },
+    {
+     "label": "Patternmaking certificate. Fashion Institute of Technology, current.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    },
+    {
+     "label": "Electronic Records Information for Archivists. U.S. National Archives and Records Administration, current.",
+     "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html"
+    }
+   ],
+   "other": [
+    {
+     "label": "Diana Dew's Designs. National Museum of American History, record accessed 2026-09-07.",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1758910"
+    },
+    {
+     "label": "Bridesmaid dress. The Metropolitan Museum of Art, 1896; accessed 2026-09-07.",
+     "url": "https://www.metmuseum.org/art/collection/search/107061"
+    },
+    {
+     "label": "Knock It Off: A History of Design Piracy in the U.S. Women’s Ready-to-Wear Apparel Industry. Smithsonian Libraries, 2016.",
+     "url": "https://www.si.edu/object/knock-it-history-design-piracy-us-womens-ready-wear-apparel-industry-sara-b-marcketti-and-jean-l%3Asiris_sil_1060315"
+    },
+    {
+     "label": "Copyright and the Fashion Design Industry. U.S. Copyright Office, current; accessed 2026-09-07.",
+     "url": "https://www.copyright.gov/docs/regstat072706.html"
+    },
+    {
+     "label": "Christian Louboutin v. Yves Saint Laurent. Justia mirror of federal opinion, 2013.",
+     "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/11-3303/11-3303-2013-03-08.html"
+    },
+    {
+     "label": "The source notes for dossier CO09: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO09-evidence-register.csv"
+    },
+    {
+     "label": "The CO09 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co09-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Butterick & Co., Report of New York fashions, spring and summer 1872, 1872. Library of Congress, ppmsca.44953. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/ppmsca.44953/",
+     "card": false
+    },
+    {
+     "where": "Object 2 in \"Look at the material record\"",
+     "what": "A. F. Jammes, Bridesmaid dress, 1896. The Metropolitan Museum of Art, C.I.41.14.2. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/107061",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co10",
+   "date": "2026-09-07",
+   "id": "CO10",
+   "title": "The Product Passport Becomes the House Record",
+   "series": "Institutions of One × Fashion, Control room, dossier CO10",
+   "origin": {
+    "kind": "article",
+    "label": "The Product Passport Becomes the House Record",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO10-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products. European Parliament and Council / EUR-Lex, 2024-06-13; OJ 2024-06-28.",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024R1781"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Electronic Records Information for Archivists. U.S. National Archives and Records Administration, current.",
+     "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html"
+    },
+    {
+     "label": "CFDA Sustainability Resource Directory. Council of Fashion Designers of America, second edition current.",
+     "url": "https://cfda.com/resources/sustainability-resource-hub/sustainability-resource-directory/"
+    },
+    {
+     "label": "Textile Conservation. Smithsonian Museum Conservation Institute, current.",
+     "url": "https://mci.si.edu/textile-conservation"
+    }
+   ],
+   "other": [
+    {
+     "label": "European Product Registry for Energy Labelling. European Commission, current; accessed 2026-09-07.",
+     "url": "https://eprel.ec.europa.eu/"
+    },
+    {
+     "label": "Historical Resources: Fashion Industry. Library of Congress, updated 2026.",
+     "url": "https://guides.loc.gov/fashion-industry/history"
+    },
+    {
+     "label": "The source notes for dossier CO10: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO10-evidence-register.csv"
+    },
+    {
+     "label": "The CO10 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co10-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Ensemble, 1893. The Metropolitan Museum of Art, 2009.300.620a-e. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159172",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co11",
+   "date": "2026-09-07",
+   "id": "CO11",
+   "title": "Sell the Company, Keep the Archive?",
+   "series": "Institutions of One × Fashion, Control room, dossier CO11",
+   "origin": {
+    "kind": "article",
+    "label": "Sell the Company, Keep the Archive?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO11-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "15 U.S.C. § 1060, Assignment. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 204, Execution of transfers of copyright ownership. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section204&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/title17/92chap2.html"
+    },
+    {
+     "label": "Tapestry, Inc. Form 10-K for year ended June 27, 2026. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/tpr-20260627.htm"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026037074/rl-20260328.htm"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    },
+    {
+     "label": "Collections Care. Smithsonian Institution Archives, current.",
+     "url": "https://siarchives.si.edu/what-we-do/collections-care"
+    },
+    {
+     "label": "Textile Conservation. Smithsonian Museum Conservation Institute, current.",
+     "url": "https://mci.si.edu/textile-conservation"
+    }
+   ],
+   "other": [
+    {
+     "label": "Trademark Assignment Search. USPTO, current; accessed 2026-09-07.",
+     "url": "https://assignmentcenter.uspto.gov/"
+    },
+    {
+     "label": "Companies House company information service. UK Government, current; accessed 2026-09-07.",
+     "url": "https://find-and-update.company-information.service.gov.uk/"
+    },
+    {
+     "label": "SEC EDGAR APIs. SEC, current; accessed 2026-09-07.",
+     "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces"
+    },
+    {
+     "label": "WIPO Global Brand Database. WIPO, current; accessed 2026-09-07.",
+     "url": "https://branddb.wipo.int/"
+    },
+    {
+     "label": "Michael Kors Employment Agreement. U.S. Securities and Exchange Commission, 2015.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1530721/000119312515201923/d900571dex107.htm"
+    },
+    {
+     "label": "JLM Couture, Inc. v. Gutman. Justia mirror of federal opinion, 2022.",
+     "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/21-870/21-870-2022-01-25.html"
+    },
+    {
+     "label": "JA Apparel Corp. v. Abboud. Justia mirror of federal opinion, 2010.",
+     "url": "https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2007cv07787/312411/58/"
+    },
+    {
+     "label": "The source notes for dossier CO11: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO11-evidence-register.csv"
+    },
+    {
+     "label": "The CO11 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co11-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "co12",
+   "date": "2026-09-07",
+   "id": "CO12",
+   "title": "The Cost of Link-Only Culture",
+   "series": "Institutions of One × Fashion, Control room, dossier CO12",
+   "origin": {
+    "kind": "article",
+    "label": "The Cost of Link-Only Culture",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO12-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Condé Nast Archive. Condé Nast / Google Arts & Culture, archive since 1909.",
+     "url": "https://artsandculture.google.com/partner/conde-nast-archive"
+    },
+    {
+     "label": "HCC Fashion Archive. Houston City College / Google Arts & Culture, collection spans 1740s-2000s.",
+     "url": "https://artsandculture.google.com/partner/hcc-fashion"
+    },
+    {
+     "label": "Electronic Records Information for Archivists. U.S. National Archives and Records Administration, current.",
+     "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html"
+    },
+    {
+     "label": "FIT oral histories collection, 1967-2023. FIT Gladys Marcus Library, 1967-2023.",
+     "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    },
+    {
+     "label": "V&A Fashion in Motion. Victoria and Albert Museum / Google Arts & Culture, series includes 2008 and 2010 examples.",
+     "url": "https://artsandculture.google.com/story/v-a-fashion-in-motion-victoria-and-albert-museum/CAUBD7gX1IiTKw"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    }
+   ],
+   "other": [
+    {
+     "label": "Open Access FAQ. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess/faq"
+    },
+    {
+     "label": "Europeana Rights Statements. Europeana, current; accessed 2026-09-07.",
+     "url": "https://pro.europeana.eu/page/available-rights-statements"
+    },
+    {
+     "label": "DPLA Rights Statements. DPLA, current; accessed 2026-09-07.",
+     "url": "https://pro.dp.la/hubs/rights-statements"
+    },
+    {
+     "label": "Historical Resources: Fashion Industry. Library of Congress, updated 2026.",
+     "url": "https://guides.loc.gov/fashion-industry/history"
+    },
+    {
+     "label": "Save Page Now. Internet Archive, current; accessed 2026-09-07.",
+     "url": "https://web.archive.org/save/"
+    },
+    {
+     "label": "Guidance on Managing Social Media Records. NARA, current; accessed 2026-09-07.",
+     "url": "https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html"
+    },
+    {
+     "label": "The source notes for dossier CO12: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CO12-evidence-register.csv"
+    },
+    {
+     "label": "The CO12 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#co12-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Toni Frissell, Gloria Vanderbilt Cooper, 1966. Library of Congress, tofr.52127. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/tofr.52127/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn01",
+   "date": "2026-09-07",
+   "id": "CN01",
+   "title": "What Happens to a House After the Founder?",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN01",
+   "origin": {
+    "kind": "article",
+    "label": "What Happens to a House After the Founder?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN01-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Evening dress. The Metropolitan Museum of Art, ca. 1882.",
+     "url": "https://www.metmuseum.org/art/collection/search/159187"
+    },
+    {
+     "label": "Ball gown. The Metropolitan Museum of Art, 1895-1900.",
+     "url": "https://www.metmuseum.org/art/collection/search/155989"
+    },
+    {
+     "label": "Evening dress. The Metropolitan Museum of Art, 1898-1900.",
+     "url": "https://www.metmuseum.org/art/collection/search/84652"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/title17/92chap2.html"
+    },
+    {
+     "label": "Standard Application Help: Claimant, transfer by inheritance. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/eco/help-claimant.html"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Electronic Records Information for Archivists. U.S. National Archives and Records Administration, current.",
+     "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html"
+    }
+   ],
+   "other": [
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://www.digitalpreservation.gov/personalarchiving/"
+    },
+    {
+     "label": "National Archives records management guidance. NARA, current; accessed 2026-09-07.",
+     "url": "https://www.archives.gov/records-mgmt"
+    },
+    {
+     "label": "J.Crew Creative Director Employment Agreement. U.S. Securities and Exchange Commission, 2010.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1051251/000119312510204267/dex108.htm"
+    },
+    {
+     "label": "Michael Kors Employment Agreement. U.S. Securities and Exchange Commission, 2015.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1530721/000119312515201923/d900571dex107.htm"
+    },
+    {
+     "label": "JLM Couture, Inc. v. Gutman. Justia mirror of federal opinion, 2022.",
+     "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/21-870/21-870-2022-01-25.html"
+    },
+    {
+     "label": "Guidance on Managing Social Media Records. NARA, current; accessed 2026-09-07.",
+     "url": "https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html"
+    },
+    {
+     "label": "The source notes for dossier CN01: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN01-evidence-register.csv"
+    },
+    {
+     "label": "The CN01 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn01-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Evening dress, 1898-1900. The Metropolitan Museum of Art, 1976.258.1a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/84652",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn02",
+   "date": "2026-09-07",
+   "id": "CN02",
+   "title": "Who Is Allowed to Interpret a Dead Designer’s Codes?",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN02",
+   "origin": {
+    "kind": "article",
+    "label": "Who Is Allowed to Interpret a Dead Designer’s Codes?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN02-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Alexander McQueen, Explore the Collections. Victoria and Albert Museum, collection current.",
+     "url": "https://www.vam.ac.uk/collections/alexander-mcqueen"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/title17/92chap2.html"
+    },
+    {
+     "label": "Standard Application Help: Claimant, transfer by inheritance. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/eco/help-claimant.html"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    }
+   ],
+   "other": [
+    {
+     "label": "Fashion collection. Victoria and Albert Museum, collection current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/collections/fashion"
+    },
+    {
+     "label": "Wedding dress by Christian Dior. National Museum of American History, twentieth century; accessed 2026-09-07.",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1006049"
+    },
+    {
+     "label": "Secrets of Balenciaga’s construction. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction"
+    },
+    {
+     "label": "Learning from “The Master”. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/learning-from-the-master"
+    },
+    {
+     "label": "Contemporary fashion designers on Balenciaga. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/contemporary-fashion-designers-on-balenciaga"
+    },
+    {
+     "label": "The source notes for dossier CN02: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN02-evidence-register.csv"
+    },
+    {
+     "label": "The CN02 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn02-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth; attributed to Charles Frederick Worth and Jean-Philippe Worth, Ball gown, 1895-1900. The Metropolitan Museum of Art, 2009.300.1290a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/155989",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn03",
+   "date": "2026-09-07",
+   "id": "CN03",
+   "title": "The Last Collection Is an Operational Event",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN03",
+   "origin": {
+    "kind": "article",
+    "label": "The Last Collection Is an Operational Event",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN03-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren. U.S. Securities and Exchange Commission, effective 2017-04-02.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217000682/eh1700461_ex1001.htm"
+    },
+    {
+     "label": "Employment Agreement between Ralph Lauren Corporation and Patrice Louvet. U.S. Securities and Exchange Commission, 2017.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217001057/eh1700645_ex1001.htm"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/title17/92chap2.html"
+    },
+    {
+     "label": "Standard Application Help: Claimant, transfer by inheritance. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/eco/help-claimant.html"
+    },
+    {
+     "label": "Delaware General Corporation Law § 141, Board of directors. State of Delaware, current.",
+     "url": "https://delcode.delaware.gov/title8/c001/sc04/index.html#141"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Electronic Records Information for Archivists. U.S. National Archives and Records Administration, current.",
+     "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    }
+   ],
+   "other": [
+    {
+     "label": "Division of Costume Audiovisual Collection. Smithsonian National Museum of American History Archives Center, collection record current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/object/archives/sova-nmah-ac-0801"
+    },
+    {
+     "label": "National Archives records management guidance. NARA, current; accessed 2026-09-07.",
+     "url": "https://www.archives.gov/records-mgmt"
+    },
+    {
+     "label": "J.Crew Creative Director Employment Agreement. U.S. Securities and Exchange Commission, 2010.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1051251/000119312510204267/dex108.htm"
+    },
+    {
+     "label": "J.Crew Employment Agreement: confidential creative records provisions. U.S. Securities and Exchange Commission, 2018.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1513842/000119312519244895/d741756dex1016.htm"
+    },
+    {
+     "label": "The source notes for dossier CN03: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN03-evidence-register.csv"
+    },
+    {
+     "label": "The CN03 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn03-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Evening dress, 1898-1900. The Metropolitan Museum of Art, 1976.258.1a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/84652",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn04",
+   "date": "2026-09-07",
+   "id": "CN04",
+   "title": "The Personal Archive as Succession Infrastructure",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN04",
+   "origin": {
+    "kind": "article",
+    "label": "The Personal Archive as Succession Infrastructure",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN04-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Electronic Records Information for Archivists. U.S. National Archives and Records Administration, current.",
+     "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/title17/92chap2.html"
+    },
+    {
+     "label": "Standard Application Help: Claimant, transfer by inheritance. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/eco/help-claimant.html"
+    }
+   ],
+   "other": [
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://www.digitalpreservation.gov/personalarchiving/"
+    },
+    {
+     "label": "National Archives records management guidance. NARA, current; accessed 2026-09-07.",
+     "url": "https://www.archives.gov/records-mgmt"
+    },
+    {
+     "label": "V&A Archives. Victoria and Albert Museum, current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/info/archives"
+    },
+    {
+     "label": "Sustainability of Digital Formats. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://www.loc.gov/preservation/digital/formats/"
+    },
+    {
+     "label": "The source notes for dossier CN04: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN04-evidence-register.csv"
+    },
+    {
+     "label": "The CN04 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn04-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Fancy dress costume, ca. 1893. The Metropolitan Museum of Art, 1994.462a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/80430",
+     "card": false
+    },
+    {
+     "where": "Object 1 in \"Look at the material record\"",
+     "what": "American or European, Dress, ca. 1903. The Metropolitan Museum of Art, 1976.258.13. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/106420",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn05",
+   "date": "2026-09-07",
+   "id": "CN05",
+   "title": "Foundation, Museum, Company, or School?",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN05",
+   "origin": {
+    "kind": "article",
+    "label": "Foundation, Museum, Company, or School?",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN05-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Gianfranco Ferré Research Center. Politecnico di Milano / Google Arts & Culture, center established 2021.",
+     "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre"
+    },
+    {
+     "label": "Collections Care. Smithsonian Institution Archives, current.",
+     "url": "https://siarchives.si.edu/what-we-do/collections-care"
+    },
+    {
+     "label": "Textile Conservation. Smithsonian Museum Conservation Institute, current.",
+     "url": "https://mci.si.edu/textile-conservation"
+    },
+    {
+     "label": "Delaware General Corporation Law § 141, Board of directors. State of Delaware, current.",
+     "url": "https://delcode.delaware.gov/title8/c001/sc04/index.html#141"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/title17/92chap2.html"
+    },
+    {
+     "label": "Storage and Handling. Smithsonian Institution Archives, current.",
+     "url": "https://siarchives.si.edu/what-we-do/preservation/storage-handling"
+    }
+   ],
+   "other": [
+    {
+     "label": "Joyce A. Bailey Oral History Interview. National Museum of African American History and Culture, 2016.",
+     "url": "https://www.si.edu/object/joyce-bailey-oral-history-interview%3Anmaahc_2016.129.3.1a-.2a"
+    },
+    {
+     "label": "Garment industry compliance resources. U.S. Department of Labor, current; accessed 2026-09-07.",
+     "url": "https://www.dol.gov/agencies/whd/industry-resources/garment"
+    },
+    {
+     "label": "ILO Better Work programme. International Labour Organization, current; accessed 2026-09-07.",
+     "url": "https://betterwork.org/"
+    },
+    {
+     "label": "UNESCO Intangible Cultural Heritage Lists. UNESCO, current; accessed 2026-09-07.",
+     "url": "https://ich.unesco.org/en/lists"
+    },
+    {
+     "label": "Chinese American fashion designer oral-history digitization project. National Archives and Records Administration, 2024.",
+     "url": "https://www.archives.gov/nhprc/newsletter/april2024"
+    },
+    {
+     "label": "Fashion at the Library. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/"
+    },
+    {
+     "label": "The source notes for dossier CN05: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN05-evidence-register.csv"
+    },
+    {
+     "label": "The CN05 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn05-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn06",
+   "date": "2026-09-07",
+   "id": "CN06",
+   "title": "Continue the Method, Not the Motif",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN06",
+   "origin": {
+    "kind": "article",
+    "label": "Continue the Method, Not the Motif",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN06-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Gianfranco Ferré Research Center. Politecnico di Milano / Google Arts & Culture, center established 2021.",
+     "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre"
+    },
+    {
+     "label": "Alexander McQueen, Explore the Collections. Victoria and Albert Museum, collection current.",
+     "url": "https://www.vam.ac.uk/collections/alexander-mcqueen"
+    },
+    {
+     "label": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department. Fashion Institute of Technology Special Collections and College Archives, 1995-02-27; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136318"
+    },
+    {
+     "label": "Protection for Fashion Design, Statement of the Register of Copyrights. U.S. Copyright Office, 2006-07-27.",
+     "url": "https://www.copyright.gov/docs/regstat072706.html"
+    },
+    {
+     "label": "Useful Articles. U.S. Copyright Office, current; accessed 2026-09-05.",
+     "url": "https://www.copyright.gov/register/va-useful.html"
+    },
+    {
+     "label": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982. FIT Special Collections, 1982-05-26; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136259"
+    },
+    {
+     "label": "Patternmaking certificate. Fashion Institute of Technology, current.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php"
+    },
+    {
+     "label": "Introducing Cristóbal Balenciaga. Victoria and Albert Museum, updated 2024-04-17.",
+     "url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga"
+    },
+    {
+     "label": "Alexander McQueen, an introduction. Victoria and Albert Museum, updated 2024-04-17.",
+     "url": "https://www.vam.ac.uk/articles/alexander-mcqueen-an-introduction"
+    },
+    {
+     "label": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products. European Parliament and Council / EUR-Lex, 2024-06-13; OJ 2024-06-28.",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024R1781"
+    },
+    {
+     "label": "Garment Industry Compliance Assistance Toolkit. U.S. Department of Labor, Wage and Hour Division, updated 2025-09-23.",
+     "url": "https://www.dol.gov/agencies/whd/compliance-assistance/toolkits/garment"
+    },
+    {
+     "label": "Handmade for the 21st century: safeguarding traditional Indian textiles. UNESCO, 2022.",
+     "url": "https://unesdoc.unesco.org/ark:/48223/pf0000382921"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    }
+   ],
+   "other": [
+    {
+     "label": "Fashion in Motion. Victoria and Albert Museum, program current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/collections/fashion-in-motion"
+    },
+    {
+     "label": "Fashion collection. Victoria and Albert Museum, collection current; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/collections/fashion"
+    },
+    {
+     "label": "Wedding dress by Christian Dior. National Museum of American History, twentieth century; accessed 2026-09-07.",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1006049"
+    },
+    {
+     "label": "The Fashion and Textile Museum collection and programme. Fashion and Textile Museum, current; accessed 2026-09-07.",
+     "url": "https://fashiontextilemuseum.org/"
+    },
+    {
+     "label": "Secrets of Balenciaga’s construction. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction"
+    },
+    {
+     "label": "Learning from “The Master”. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/learning-from-the-master"
+    },
+    {
+     "label": "Contemporary fashion designers on Balenciaga. Victoria and Albert Museum, 2023; accessed 2026-09-07.",
+     "url": "https://www.vam.ac.uk/articles/contemporary-fashion-designers-on-balenciaga"
+    },
+    {
+     "label": "The source notes for dossier CN06: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN06-evidence-register.csv"
+    },
+    {
+     "label": "The CN06 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn06-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth; attributed to Charles Frederick Worth and Jean-Philippe Worth, Ball gown, 1895-1900. The Metropolitan Museum of Art, 2009.300.1290a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/155989",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn07",
+   "date": "2026-09-07",
+   "id": "CN07",
+   "title": "The Oral History Is a Succession Document",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN07",
+   "origin": {
+    "kind": "article",
+    "label": "The Oral History Is a Succession Document",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN07-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982. FIT Special Collections, 1982-05-26; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136259"
+    },
+    {
+     "label": "FIT oral histories collection, 1967-2023. FIT Gladys Marcus Library, 1967-2023.",
+     "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962"
+    },
+    {
+     "label": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department. Fashion Institute of Technology Special Collections and College Archives, 1995-02-27; digitized 2020.",
+     "url": "https://archiveondemand.fitnyc.edu/item/136318"
+    },
+    {
+     "label": "Joyce A. Bailey Oral History Interview. National Museum of African American History and Culture, 2016-07-11.",
+     "url": "https://nmaahc.si.edu/object/nmaahc_2016.129.3.1a-.2a"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Electronic Records Information for Archivists. U.S. National Archives and Records Administration, current.",
+     "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html"
+    }
+   ],
+   "other": [
+    {
+     "label": "Division of Costume Audiovisual Collection. Smithsonian National Museum of American History Archives Center, collection record current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/object/archives/sova-nmah-ac-0801"
+    },
+    {
+     "label": "Oral history. Museum of Modern Art, program current; accessed 2026-09-07.",
+     "url": "https://www.moma.org/research/archives/oral-history"
+    },
+    {
+     "label": "Joyce A. Bailey Oral History Interview. National Museum of African American History and Culture, 2016.",
+     "url": "https://www.si.edu/object/joyce-bailey-oral-history-interview%3Anmaahc_2016.129.3.1a-.2a"
+    },
+    {
+     "label": "Special Collections and FIT Archive. Fashion Institute of Technology, current; accessed 2026-09-07.",
+     "url": "https://www.fitnyc.edu/academics/library/sparc/index.php"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://www.digitalpreservation.gov/personalarchiving/"
+    },
+    {
+     "label": "Chinese American fashion designer oral-history digitization project. National Archives and Records Administration, 2024.",
+     "url": "https://www.archives.gov/nhprc/newsletter/april2024"
+    },
+    {
+     "label": "Fashion at the Library. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/"
+    },
+    {
+     "label": "The source notes for dossier CN07: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN07-evidence-register.csv"
+    },
+    {
+     "label": "The CN07 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn07-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Bernard Gotfryd, Liz Claiborne, fashion designer, with model, 1982. Library of Congress, gtfy.00717. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/gtfy.00717/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn08",
+   "date": "2026-09-07",
+   "id": "CN08",
+   "title": "A Garment Can Outlive Its File",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN08",
+   "origin": {
+    "kind": "article",
+    "label": "A Garment Can Outlive Its File",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN08-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Storage and Handling. Smithsonian Institution Archives, current.",
+     "url": "https://siarchives.si.edu/what-we-do/preservation/storage-handling"
+    },
+    {
+     "label": "Textile Conservation. Smithsonian Museum Conservation Institute, current.",
+     "url": "https://mci.si.edu/textile-conservation"
+    },
+    {
+     "label": "Electronic Records Information for Archivists. U.S. National Archives and Records Administration, current.",
+     "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "How do I store antique textiles at home?. Smithsonian Institution, current.",
+     "url": "https://www.si.edu/faqs/antique-textile-storage"
+    },
+    {
+     "label": "Collections Care. Smithsonian Institution Archives, current.",
+     "url": "https://siarchives.si.edu/what-we-do/collections-care"
+    }
+   ],
+   "other": [
+    {
+     "label": "Smithsonian Open Access. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess"
+    },
+    {
+     "label": "Feedsack dress. National Museum of American History, twentieth century; accessed 2026-09-07.",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1105750"
+    },
+    {
+     "label": "Europeana Rights Statements. Europeana, current; accessed 2026-09-07.",
+     "url": "https://pro.europeana.eu/page/available-rights-statements"
+    },
+    {
+     "label": "DPLA Rights Statements. DPLA, current; accessed 2026-09-07.",
+     "url": "https://pro.dp.la/hubs/rights-statements"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://www.digitalpreservation.gov/personalarchiving/"
+    },
+    {
+     "label": "National Archives records management guidance. NARA, current; accessed 2026-09-07.",
+     "url": "https://www.archives.gov/records-mgmt"
+    },
+    {
+     "label": "European Product Registry for Energy Labelling. European Commission, current; accessed 2026-09-07.",
+     "url": "https://eprel.ec.europa.eu/"
+    },
+    {
+     "label": "J.Crew Employment Agreement: confidential creative records provisions. U.S. Securities and Exchange Commission, 2018.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1513842/000119312519244895/d741756dex1016.htm"
+    },
+    {
+     "label": "Save Page Now. Internet Archive, current; accessed 2026-09-07.",
+     "url": "https://web.archive.org/save/"
+    },
+    {
+     "label": "Sustainability of Digital Formats. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://www.loc.gov/preservation/digital/formats/"
+    },
+    {
+     "label": "Guidance on Managing Social Media Records. NARA, current; accessed 2026-09-07.",
+     "url": "https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html"
+    },
+    {
+     "label": "The source notes for dossier CN08: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN08-evidence-register.csv"
+    },
+    {
+     "label": "The CN08 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn08-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "French, Dress, 1735-40. The Metropolitan Museum of Art, 1983.399.1. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/83877",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn09",
+   "date": "2026-09-07",
+   "id": "CN09",
+   "title": "Philanthropy as Continuation",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN09",
+   "origin": {
+    "kind": "article",
+    "label": "Philanthropy as Continuation",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN09-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Handmade for the 21st century: safeguarding traditional Indian textiles. UNESCO, 2022.",
+     "url": "https://unesdoc.unesco.org/ark:/48223/pf0000382921"
+    },
+    {
+     "label": "17 U.S.C. § 101, Definitions. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim"
+    },
+    {
+     "label": "Patternmaking certificate. Fashion Institute of Technology, current.",
+     "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php"
+    },
+    {
+     "label": "Decent Work in the Garment Sector Supply Chains in Asia. International Labour Organization, project record current; accessed 2026-09-04.",
+     "url": "https://www.ilo.org/projects-and-partnerships/projects/decent-work-garment-sector-supply-chains-asia"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    }
+   ],
+   "other": [
+    {
+     "label": "UNESCO Intangible Cultural Heritage Lists. UNESCO, current; accessed 2026-09-07.",
+     "url": "https://ich.unesco.org/en/lists"
+    },
+    {
+     "label": "Chinese American fashion designer oral-history digitization project. National Archives and Records Administration, 2024.",
+     "url": "https://www.archives.gov/nhprc/newsletter/april2024"
+    },
+    {
+     "label": "Fashion at the Library. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/"
+    },
+    {
+     "label": "The source notes for dossier CN09: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN09-evidence-register.csv"
+    },
+    {
+     "label": "The CN09 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn09-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Duval & Hunter, S.D. Sollers & Co., manufacturers of children's fine shoes, 1874. Library of Congress, pga.06009. Free to Use and Reuse / Library of Congress curated set.",
+     "credit": "Free to Use and Reuse / Library of Congress curated set",
+     "url": "https://www.loc.gov/resource/pga.06009/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn10",
+   "date": "2026-09-07",
+   "id": "CN10",
+   "title": "The House After the House",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN10",
+   "origin": {
+    "kind": "article",
+    "label": "The House After the House",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN10-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "15 U.S.C. § 1060, Assignment. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim"
+    },
+    {
+     "label": "17 U.S.C. § 204, Execution of transfers of copyright ownership. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section204&num=0&edition=prelim"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    },
+    {
+     "label": "Intellectual Property in Fashion. World Intellectual Property Organization, current; updated 2026-08-21.",
+     "url": "https://www.wipo.int/en/web/fashion"
+    },
+    {
+     "label": "Trademark Manual of Examining Procedure §1202.02, Registration of Trade Dress. U.S. Patent and Trademark Office, current edition; accessed 2026-09-05.",
+     "url": "https://tmep.uspto.gov/RDMS/TMEP/current#/current/TMEP-1200d1e831.html"
+    },
+    {
+     "label": "Tapestry, Inc. Form 10-K for year ended June 27, 2026. U.S. Securities and Exchange Commission, 2026.",
+     "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/tpr-20260627.htm"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/title17/92chap2.html"
+    },
+    {
+     "label": "FIT oral histories collection, 1967-2023. FIT Gladys Marcus Library, 1967-2023.",
+     "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962"
+    },
+    {
+     "label": "MoMu, Fashion Museum Antwerp. MoMu / Google Arts & Culture, museum opened 2002.",
+     "url": "https://artsandculture.google.com/partner/momu"
+    }
+   ],
+   "other": [
+    {
+     "label": "The Hidden History of American Fashion. Smithsonian Libraries, 2018.",
+     "url": "https://www.si.edu/object/hidden-history-american-fashion-rediscovering-twentieth-century-women-designers-edited-nancy-deihl%3Asiris_sil_1089521"
+    },
+    {
+     "label": "Chinese American fashion designer oral-history digitization project. National Archives and Records Administration, 2024.",
+     "url": "https://www.archives.gov/nhprc/newsletter/april2024"
+    },
+    {
+     "label": "Historical Resources: Fashion Industry. Library of Congress, updated 2026.",
+     "url": "https://guides.loc.gov/fashion-industry/history"
+    },
+    {
+     "label": "Fashion at the Library. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/"
+    },
+    {
+     "label": "The source notes for dossier CN10: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN10-evidence-register.csv"
+    },
+    {
+     "label": "The CN10 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn10-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The cover image",
+     "what": "House of Worth, Evening dress, ca. 1882. The Metropolitan Museum of Art, 2009.300.635a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/159187",
+     "card": false
+    },
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "Jeanne Hallée, Afternoon dress, ca. 1900. The Metropolitan Museum of Art, 2009.300.3098a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/157996",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn11",
+   "date": "2026-09-07",
+   "id": "CN11",
+   "title": "Provenance Is Future Memory",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN11",
+   "origin": {
+    "kind": "article",
+    "label": "Provenance Is Future Memory",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN11-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "Dress. The Metropolitan Museum of Art, 1735-40.",
+     "url": "https://www.metmuseum.org/art/collection/search/83877"
+    },
+    {
+     "label": "Afternoon dress. The Metropolitan Museum of Art, ca. 1900.",
+     "url": "https://www.metmuseum.org/art/collection/search/157996"
+    },
+    {
+     "label": "Dress. The Metropolitan Museum of Art, ca. 1903.",
+     "url": "https://www.metmuseum.org/art/collection/search/106420"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    },
+    {
+     "label": "Collections Care. Smithsonian Institution Archives, current.",
+     "url": "https://siarchives.si.edu/what-we-do/collections-care"
+    },
+    {
+     "label": "Textile Conservation. Smithsonian Museum Conservation Institute, current.",
+     "url": "https://mci.si.edu/textile-conservation"
+    },
+    {
+     "label": "FIT oral histories collection, 1967-2023. FIT Gladys Marcus Library, 1967-2023.",
+     "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962"
+    }
+   ],
+   "other": [
+    {
+     "label": "Smithsonian Open Access. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess"
+    },
+    {
+     "label": "Dress designed by Ann Lowe. National Museum of African American History and Culture, 1950s; record accessed 2026-09-07.",
+     "url": "https://www.si.edu/object/dress-designed-ann-lowe%3Anmaahc_2007.3.23"
+    },
+    {
+     "label": "Feedsack dress. National Museum of American History, twentieth century; accessed 2026-09-07.",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_1105750"
+    },
+    {
+     "label": "Open Access API. The Metropolitan Museum of Art, current; accessed 2026-09-07.",
+     "url": "https://metmuseum.github.io/"
+    },
+    {
+     "label": "Smithsonian Open Access developer tools. Smithsonian Institution, current; accessed 2026-09-07.",
+     "url": "https://www.si.edu/openaccess/devtools"
+    },
+    {
+     "label": "European Product Registry for Energy Labelling. European Commission, current; accessed 2026-09-07.",
+     "url": "https://eprel.ec.europa.eu/"
+    },
+    {
+     "label": "Historical Resources: Fashion Industry. Library of Congress, updated 2026.",
+     "url": "https://guides.loc.gov/fashion-industry/history"
+    },
+    {
+     "label": "Sustainability of Digital Formats. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://www.loc.gov/preservation/digital/formats/"
+    },
+    {
+     "label": "The source notes for dossier CN11: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN11-evidence-register.csv"
+    },
+    {
+     "label": "The CN11 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn11-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Ball gown, ca. 1872. The Metropolitan Museum of Art, 46.25.1a-d. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/81112",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "cn12",
+   "date": "2026-09-07",
+   "id": "CN12",
+   "title": "The Institutional Will",
+   "series": "Institutions of One × Fashion, Continue room, dossier CN12",
+   "origin": {
+    "kind": "article",
+    "label": "The Institutional Will",
+    "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN12-package-brief.md"
+   },
+   "research": [
+    {
+     "label": "17 U.S.C. § 201, Ownership of copyright. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/title17/92chap2.html"
+    },
+    {
+     "label": "Standard Application Help: Claimant, transfer by inheritance. U.S. Copyright Office, current.",
+     "url": "https://www.copyright.gov/eco/help-claimant.html"
+    },
+    {
+     "label": "15 U.S.C. § 1060, Assignment. U.S. House Office of the Law Revision Counsel, current preliminary edition.",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim"
+    },
+    {
+     "label": "Delaware General Corporation Law § 141, Board of directors. State of Delaware, current.",
+     "url": "https://delcode.delaware.gov/title8/c001/sc04/index.html#141"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; resources include 2013 publication.",
+     "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/"
+    },
+    {
+     "label": "Universal Electronic Records Management Requirements, Version 3. U.S. National Archives and Records Administration, 2023-06.",
+     "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements"
+    },
+    {
+     "label": "Collections Care. Smithsonian Institution Archives, current.",
+     "url": "https://siarchives.si.edu/what-we-do/collections-care"
+    },
+    {
+     "label": "Appraisal Policy of the National Archives. U.S. National Archives and Records Administration, current policy; page updated 2026.",
+     "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal"
+    },
+    {
+     "label": "Electronic Records Information for Archivists. U.S. National Archives and Records Administration, current.",
+     "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html"
+    }
+   ],
+   "other": [
+    {
+     "label": "Trademark Search system. USPTO, current; accessed 2026-09-07.",
+     "url": "https://tmsearch.uspto.gov/"
+    },
+    {
+     "label": "Trademark Assignment Search. USPTO, current; accessed 2026-09-07.",
+     "url": "https://assignmentcenter.uspto.gov/"
+    },
+    {
+     "label": "Personal Digital Archiving. Library of Congress, current; accessed 2026-09-07.",
+     "url": "https://www.digitalpreservation.gov/personalarchiving/"
+    },
+    {
+     "label": "WIPO Global Brand Database. WIPO, current; accessed 2026-09-07.",
+     "url": "https://branddb.wipo.int/"
+    },
+    {
+     "label": "JLM Couture, Inc. v. Gutman. Justia mirror of federal opinion, 2022.",
+     "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/21-870/21-870-2022-01-25.html"
+    },
+    {
+     "label": "JA Apparel Corp. v. Abboud. Justia mirror of federal opinion, 2010.",
+     "url": "https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2007cv07787/312411/58/"
+    },
+    {
+     "label": "The source notes for dossier CN12: every claim, its evidence label and its sources",
+     "url": "https://institutions-of-one-fashion.vercel.app/downloads/CN12-evidence-register.csv"
+    },
+    {
+     "label": "The CN12 instrument, a working tool for this dossier",
+     "url": "https://institutions-of-one-fashion.vercel.app/tools#cn12-tool"
+    },
+    {
+     "label": "The rights desk: every source in the exhibition and the terms for using it",
+     "url": "https://institutions-of-one-fashion.vercel.app/rights"
+    }
+   ],
+   "images": [
+    {
+     "where": "The featured object, \"Look closely\"",
+     "what": "House of Worth, Fancy dress costume, ca. 1893. The Metropolitan Museum of Art, 1994.462a, b. Public Domain / Met Open Access.",
+     "credit": "Public Domain / Met Open Access",
+     "url": "https://www.metmuseum.org/art/collection/search/80430",
+     "card": false
+    }
+   ]
+  }
+ ]
+}

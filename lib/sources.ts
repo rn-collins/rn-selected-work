@@ -9,6 +9,7 @@ import film from "../data/sources-film.json";
 import htw from "../data/sources-htw.json";
 import ioo from "../data/sources-ioo.json";
 import iooSite from "../data/sources-ioo-site.json";
+import iooFashion from "../data/sources-ioo-fashion.json";
 import jbd from "../data/sources-jbd.json";
 import kbyg from "../data/sources-kbyg.json";
 import makers from "../data/sources-makers.json";
@@ -34,6 +35,10 @@ import { isReleased, pieceId } from "./releases";
 // rn-collins/psychonaut-bookworm build/sync_releases.py --sources: one page per released library record, with the
 // sources the record names (none of them has a public URL in that library, so they are listed without links), its
 // long-form draft as the article, and its item page on that site as galleryUrl. Released records only.
+// Institutions of One × Fashion (account "ioo-fashion", data/sources-ioo-fashion.json) is written by
+// rn-collins/institutions-of-one-fashion scripts/build.mjs (.production/selected-work-sources.json): one page per released
+// dossier, dated by that repo's data/releases.json, with the sources, further reading and collection images the dossier
+// page shows. Its long-form is the dossier chapter and its gallery page (galleryUrl) is /packages/<id> on that site.
 // The takeover packages (Polymath PM-RNC, museum, film) come from scripts/export_takeover_sources.py instead:
 // data/sources-polymath-rnc.json (joins the polymath account), data/sources-museum.json, data/sources-film.json.
 // A takeover reference may have no url (a source with no public copy, such as a recorded conversation); it is
@@ -86,6 +91,9 @@ export const accounts: Account[] = [
     blurb: "Posts from RN Collins' articles in the Journal of Biophilic Design: the research cited and the image credits." },
   { key: "aan-f", name: "Ask a Neuroscientist × Fashion", timeZone: "Pacific/Honolulu", posts: sorted(aanf),
     blurb: "RN Collins' seven Ask a Neuroscientist × Fashion exhibitions: the research cited, the lab tools and the image credits behind each essay." },
+  { key: "ioo-fashion", name: "Institutions of One × Fashion", timeZone: "Pacific/Honolulu", posts: sorted(iooFashion),
+    intro: "The dossier chapter, the sources behind it, further reading and the collection images, each linked to the original.",
+    blurb: "RN Collins' 44 dossiers on how a fashion practice becomes an institution: the sources behind each one, further reading and the collection images with their credits." },
   { key: "psychonaut-bookworm", name: "The Psychonaut Bookworm", timeZone: "Pacific/Honolulu", posts: sorted(psychonautBookworm),
     intro: "The sources this item names, its long-form draft, and its record in the library's public provenance ledger.",
     blurb: "Every published object in RN Collins' Psychonaut Bookworm research library: the books and studies it names, its long-form draft and its provenance record." },
