@@ -3,6 +3,69 @@
  "timeZone": "Pacific/Honolulu",
  "pieces": [
   {
+   "id": "aan-f/aan-f-001",
+   "releasedAt": "2026-09-02",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/clothes-and-cognition/",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aan-f/aan-f-001",
+   "galleryUrl": "https://ask-a-neuroscientist-fashion.vercel.app/gallery/aan-f-001"
+  },
+  {
+   "id": "aan-f/aan-f-002",
+   "releasedAt": "2026-09-03",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/outfit-as-armor/",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aan-f/aan-f-002",
+   "galleryUrl": "https://ask-a-neuroscientist-fashion.vercel.app/gallery/aan-f-002"
+  },
+  {
+   "id": "aan-f/aan-f-003",
+   "releasedAt": "2026-09-03",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/fabric-sensory-world/",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aan-f/aan-f-003",
+   "galleryUrl": "https://ask-a-neuroscientist-fashion.vercel.app/gallery/aan-f-003"
+  },
+  {
+   "id": "aan-f/aan-f-004",
+   "releasedAt": "2026-09-03",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/fashion-nostalgia/",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aan-f/aan-f-004",
+   "galleryUrl": "https://ask-a-neuroscientist-fashion.vercel.app/gallery/aan-f-004"
+  },
+  {
+   "id": "aan-f/aan-f-005",
+   "releasedAt": "2026-09-03",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/fashion-week-nervous-system/",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aan-f/aan-f-005",
+   "galleryUrl": "https://ask-a-neuroscientist-fashion.vercel.app/gallery/aan-f-005"
+  },
+  {
+   "id": "aan-f/aan-f-006",
+   "releasedAt": "2026-09-04",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/runway-soundtracks/",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aan-f/aan-f-006",
+   "galleryUrl": "https://ask-a-neuroscientist-fashion.vercel.app/gallery/aan-f-006"
+  },
+  {
+   "id": "aan-f/aan-f-007",
+   "releasedAt": "2026-09-07",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/uniforms-and-social-perception/",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aan-f/aan-f-007",
+   "galleryUrl": "https://ask-a-neuroscientist-fashion.vercel.app/gallery/aan-f-007"
+  },
+  {
    "id": "aan/apr-06",
    "releasedAt": "2027-04-06",
    "hold": false,

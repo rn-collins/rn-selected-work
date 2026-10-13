@@ -1,0 +1,557 @@
+{
+ "note": "Ask a Neuroscientist x Fashion (AAN-F). Made from rn-collins/ask-a-neuroscientist-fashion: dates from production/publication-register.json web_publication_date, research from the package source manifests, images from the essay figures.",
+ "posts": [
+  {
+   "slug": "aan-f-001",
+   "date": "2026-09-02",
+   "id": "AAN-F-001",
+   "title": "Clothes and Cognition",
+   "series": "Ask a Neuroscientist × Fashion, exhibition 001: Clothes and Cognition",
+   "origin": {
+    "kind": "article",
+    "label": "Clothes and Cognition",
+    "url": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/clothes-and-cognition/"
+   },
+   "research": [
+    {
+     "label": "Hajo Adam and Adam D. Galinsky (2012). Enclothed cognition. Journal of Experimental Social Psychology.",
+     "url": "https://doi.org/10.1016/j.jesp.2012.02.008"
+    },
+    {
+     "label": "Devin M. Burns et al. (2019). An old task in new clothes: A preregistered direct replication attempt of enclothed cognition effects on Stroop performance. Journal of Experimental Social Psychology.",
+     "url": "https://doi.org/10.1016/j.jesp.2018.10.001"
+    },
+    {
+     "label": "C. Blaine Horton Jr. et al. (2023). Evaluating the Evidence for Enclothed Cognition: Z-Curve and Meta-Analyses. Personality and Social Psychology Bulletin.",
+     "url": "https://doi.org/10.1177/01461672231182478"
+    },
+    {
+     "label": "Michael W. Kraus and Wendy Berry Mendes (2014). Sartorial symbols of social class elicit class-consistent behavioral and physiological responses: A dyadic approach. Journal of Experimental Psychology: General.",
+     "url": "https://doi.org/10.1037/xge0000023"
+    }
+   ],
+   "other": [
+    {
+     "label": "The evidence reading room for this exhibition: every claim, its source and what it does not prove",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/evidence/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Image 1 in the essay",
+     "what": "Maison Léoty, Corset, 1891. The Metropolitan Museum of Art, C.I.45.27a, b. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/82433",
+     "card": false
+    },
+    {
+     "where": "Image 2 in the essay",
+     "what": "Hallé, Costume Armor and Sword in the Classical Style, ca. 1788-90. The Met, 1988.65.1-.2; 1995.93a, b. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/626019",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "aan-f-002",
+   "date": "2026-09-03",
+   "id": "AAN-F-002",
+   "title": "Why Does the Right Outfit Feel Like Armor?",
+   "series": "Ask a Neuroscientist × Fashion, exhibition 002: Outfit as Armor",
+   "origin": {
+    "kind": "article",
+    "label": "Why Does the Right Outfit Feel Like Armor?",
+    "url": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/outfit-as-armor/"
+   },
+   "research": [
+    {
+     "label": "C. Bertheaux et al. (2020). Emotion Measurements Through the Touch of Materials Surfaces. Frontiers in Human Neuroscience.",
+     "url": "https://doi.org/10.3389/fnhum.2019.00455"
+    },
+    {
+     "label": "Anna Ciaunica et al. (2021). Whatever Next and Close to My Self, The Transparent Senses and the Second Skin. Frontiers in Psychology.",
+     "url": "https://doi.org/10.3389/fpsyg.2021.613587"
+    },
+    {
+     "label": "Neil Hester and Eric Hehman (2023). Dress is a Fundamental Component of Person Perception. Personality and Social Psychology Review.",
+     "url": "https://doi.org/10.1177/10888683231157961"
+    },
+    {
+     "label": "Tatiana Stolovy (2021). Styling the Self: Clothing Practices, Personality Traits, and Body Image Among Israeli Women. Frontiers in Psychology.",
+     "url": "https://doi.org/10.3389/fpsyg.2021.719318"
+    }
+   ],
+   "other": [
+    {
+     "label": "RN Collins / AAN × Fashion (2026). The Armor Outfit, three-occasion field protocol. AAN × Fashion.",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/production/package-002-field-notes.md"
+    },
+    {
+     "label": "The lab tool for this exhibition: Armor Pathway Mapper",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/lab/armor/"
+    },
+    {
+     "label": "The evidence reading room for this exhibition: every claim, its source and what it does not prove",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/evidence/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Image 1 in the essay",
+     "what": "Armor of Henry II, King of France, ca. 1555. Decoration design by Jean Cousin the Elder; possibly Baptiste Pellerin. The Met, 39.121a-n. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/24671",
+     "card": false
+    },
+    {
+     "where": "Image 2 in the essay",
+     "what": "Field Armor, Nuremberg, ca. 1525 and later. The Met, 04.3.289. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/22001",
+     "card": false
+    },
+    {
+     "where": "Image 3 in the essay",
+     "what": "Kolman Helmschmid, Portions of a Costume Armor, ca. 1525. The Met. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/27790",
+     "card": false
+    },
+    {
+     "where": "Image 4 in the essay",
+     "what": "Armor (Gusoku), Japanese, 19th century. The Met, 04.4.2. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/22020",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "aan-f-003",
+   "date": "2026-09-03",
+   "id": "AAN-F-003",
+   "title": "Why Can One Fabric Feel Calming and Another Unbearable?",
+   "series": "Ask a Neuroscientist × Fashion, exhibition 003: The Sensory Textile Room",
+   "origin": {
+    "kind": "article",
+    "label": "Why Can One Fabric Feel Calming and Another Unbearable?",
+    "url": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/fabric-sensory-world/"
+   },
+   "research": [
+    {
+     "label": "Liljencrantz J, Olausson H. Tactile C fibers and their contributions to pleasant sensations and to tactile allodynia. 2014.",
+     "url": "https://doi.org/10.3389/fnbeh.2014.00037"
+    },
+    {
+     "label": "Mehta et al. Tactile sensitivity alters textile touch perception. 2024.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11410198/"
+    },
+    {
+     "label": "Kyriacou et al. Clothes, Sensory Experiences and Autism. 2023.",
+     "url": "https://doi.org/10.1007/s10803-021-05140-3"
+    },
+    {
+     "label": "Ellingsen et al. The Neurobiology Shaping Affective Touch. 2016.",
+     "url": "https://doi.org/10.3389/fpsyg.2015.01986"
+    },
+    {
+     "label": "Lawson et al. Exploring Effects of Sensory Garments on Participation. 2022.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9192327/"
+    },
+    {
+     "label": "Grandits et al. Effect of compression on repetitive behaviors and task participation. 2023.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10756671/"
+    },
+    {
+     "label": "MacLennan et al. The Complex Sensory Experiences of Autistic Adults. 2022.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9213348/"
+    }
+   ],
+   "other": [
+    {
+     "label": "The lab tool for this exhibition: Sensory Textile Field Map",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/lab/textile-sensory-map/"
+    },
+    {
+     "label": "The evidence reading room for this exhibition: every claim, its source and what it does not prove",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/evidence/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Image 1 in the essay",
+     "what": "Dress, ca. 1872, cotton and porcelain, The Met 2003.426a, b. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/96434",
+     "card": false
+    },
+    {
+     "where": "Image 2 in the essay",
+     "what": "Dress, 1870s, cotton, The Met 1993.35.1a-c. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/82459",
+     "card": false
+    },
+    {
+     "where": "Image 3 in the essay",
+     "what": "Dress, ca. 1870, silk, The Met 1980.409.1a-c. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/107620",
+     "card": false
+    },
+    {
+     "where": "Image 4 in the essay",
+     "what": "Riding coat, ca. 1760, silk and goat hair, The Met 1976.147.1. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/81754",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "aan-f-004",
+   "date": "2026-09-03",
+   "id": "AAN-F-004",
+   "title": "Why Can Fashion Nostalgia Feel So Powerful?",
+   "series": "Ask a Neuroscientist × Fashion, exhibition 004: The Memory Wardrobe",
+   "origin": {
+    "kind": "article",
+    "label": "Why Can Fashion Nostalgia Feel So Powerful?",
+    "url": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/fashion-nostalgia/"
+   },
+   "research": [
+    {
+     "label": "Svoboda E, McKinnon MC, Levine B. The functional neuroanatomy of autobiographical memory: a meta-analysis. Neuropsychologia. 2006.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1995661/"
+    },
+    {
+     "label": "Tulving E, Thomson DM. Encoding specificity and retrieval processes in episodic memory. Psychological Review. 1973.",
+     "url": "https://doi.org/10.1037/h0020071"
+    },
+    {
+     "label": "Holland AC, Kensinger EA. Emotion and autobiographical memory. Physics of Life Reviews. 2010.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2852439/"
+    },
+    {
+     "label": "Janata P. The neural architecture of music-evoked autobiographical memories. Cerebral Cortex. 2009.",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19240137/"
+    },
+    {
+     "label": "Janata P, Tomic ST, Rakowski SK. Characterisation of music-evoked autobiographical memories. Memory. 2007.",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/17965981/"
+    },
+    {
+     "label": "Herz RS, Schooler JW. A naturalistic study of autobiographical memories evoked by olfactory and visual cues. American Journal of Psychology. 2002.",
+     "url": "https://doi.org/10.1080/09658210143000239"
+    },
+    {
+     "label": "Oba K et al. Memory and reward systems coproduce nostalgic experiences in the brain. Social Cognitive and Affective Neuroscience. 2016.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4927028/"
+    },
+    {
+     "label": "Yang Z et al. Patterns of brain activity associated with nostalgia. Scientific Reports. 2022.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714426/"
+    },
+    {
+     "label": "Wildschut T, Bruder M, Robertson S, van Tilburg WAP, Sedikides C. Collective nostalgia: a group-level emotion. Current Opinion in Psychology. 2018.",
+     "url": "https://doi.org/10.1016/j.copsyc.2017.07.021"
+    }
+   ],
+   "other": [
+    {
+     "label": "Memory Garment Field Map, RN Collins, 2026.",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/lab/memory-garment-map/"
+    },
+    {
+     "label": "The evidence reading room for this exhibition: every claim, its source and what it does not prove",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/evidence/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Image 1 in the essay",
+     "what": "Dress, ca. 1872, cotton and porcelain, The Met 2003.426a, b. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/96434",
+     "card": false
+    },
+    {
+     "where": "Image 2 in the essay",
+     "what": "Dress, 1870s, cotton, The Met 1993.35.1a-c. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/82459",
+     "card": false
+    },
+    {
+     "where": "Image 3 in the essay",
+     "what": "Dress, ca. 1870, silk, The Met 1980.409.1a-c. Public Domain / CC0.",
+     "credit": "Public Domain / CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/107620",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "aan-f-005",
+   "date": "2026-09-03",
+   "id": "AAN-F-005",
+   "title": "What Does Fashion Week Do to the Nervous System?",
+   "series": "Ask a Neuroscientist × Fashion, exhibition 005: The Fashion Week Nervous System",
+   "origin": {
+    "kind": "article",
+    "label": "What Does Fashion Week Do to the Nervous System?",
+    "url": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/fashion-week-nervous-system/"
+   },
+   "research": [
+    {
+     "label": "Paula Alhola and Päivi Polo-Kantola (2007). Sleep deprivation: Impact on cognitive performance.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2656292/"
+    },
+    {
+     "label": "NIOSH Training for Nurses on Shift Work and Long Work Hours (2015-2021).",
+     "url": "https://www.cdc.gov/niosh/work-hour-training-for-nurses/default.html"
+    },
+    {
+     "label": "Christine Blume et al. (2019). Effects of light on human circadian rhythms, sleep and mood.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6751071/"
+    },
+    {
+     "label": "Mohammad Javad Jafari et al. (2019). The Effect of Noise Exposure on Cognitive Performance and Brain Activity Patterns.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6901841/"
+    },
+    {
+     "label": "Environmental noise guidelines for the European Region (2018).",
+     "url": "https://www.who.int/europe/publications/i/item/9789289053563"
+    },
+    {
+     "label": "M. Beermann et al. (2023). The connection between stress, density, and speed in crowds.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10442413/"
+    },
+    {
+     "label": "Panagiotis Mavros et al. (2022). A mobile EEG study on the psychophysiological effects of walking and crowding in indoor and outdoor urban environments.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9628500/"
+    },
+    {
+     "label": "Andrew P. Allen et al. (2017). The Trier Social Stress Test: Principles and practice.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5314443/"
+    },
+    {
+     "label": "Thomas R. Waters and Robert B. Dick (2015). Evidence of Health Risks Associated with Prolonged Standing at Work and Intervention Effectiveness.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4591921/"
+    },
+    {
+     "label": "Managing Fatigue During Times of Crisis (2020).",
+     "url": "https://www.cdc.gov/niosh/bulletin/2020/fatigue-crisis.html"
+    },
+    {
+     "label": "London Fashion Week Highlights February 2018, 360 VR (2018).",
+     "url": "https://www.youtube.com/watch?v=S5dwtat6Wp8"
+    },
+    {
+     "label": "Designer Fashion Fund Episode 3: London Fashion Week (undated channel record).",
+     "url": "https://www.youtube.com/watch?v=vRJbrfgrAUs"
+    }
+   ],
+   "other": [
+    {
+     "label": "Field Load / Recovery Mapper (2026).",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/lab/field-load-recovery/"
+    },
+    {
+     "label": "The evidence reading room for this exhibition: every claim, its source and what it does not prove",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/evidence/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Image 1 in the essay",
+     "what": "Runway show · Ahmad Ardity · CC0. The photograph documents light, movement, spectatorship and navigation; it does not measure exposure or physiology.",
+     "credit": "CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Runway_show_pexels.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 2 in the essay",
+     "what": "RN Collins, Fashion Week field-load score, 2026. Original evidence graphic. The score organizes questions; it does not calculate exposure or diagnose a response.",
+     "credit": "RN Collins",
+     "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "aan-f-006",
+   "date": "2026-09-04",
+   "id": "AAN-F-006",
+   "title": "Why Are Runway Soundtracks So Powerful?",
+   "series": "Ask a Neuroscientist × Fashion, exhibition 006: The Listening Room",
+   "origin": {
+    "kind": "article",
+    "label": "Why Are Runway Soundtracks So Powerful?",
+    "url": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/runway-soundtracks/"
+   },
+   "research": [
+    {
+     "label": "Laurel J. Trainor (2015). The origins of music in auditory scene analysis and the roles of evolution and culture in musical creation.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4321130/"
+    },
+    {
+     "label": "Ani Patel and John Iversen (2014). The Action Simulation for Auditory Prediction hypothesis.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4026735/"
+    },
+    {
+     "label": "Hugo Merchant et al. (2015). Finding the beat: a neural perspective across humans and non-human primates.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4321134/"
+    },
+    {
+     "label": "Sylvie Nozaradan (2014). Exploring how musical rhythm entrains brain activity with electroencephalogram frequency-tagging.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4240960/"
+    },
+    {
+     "label": "Di Liberto et al. (2020). Cortical encoding of melodic expectations in human temporal cortex.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7053998/"
+    },
+    {
+     "label": "Petr Janata (2009). The neural architecture of music-evoked autobiographical memories.",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19240137/"
+    },
+    {
+     "label": "Schaffert et al. (2019). A review on the relationship between sound and movement in sports and rehabilitation.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6379478/"
+    },
+    {
+     "label": "WHO Regional Office for Europe (2018). Environmental Noise Guidelines for the European Region.",
+     "url": "https://www.who.int/europe/publications/i/item/9789289053563"
+    },
+    {
+     "label": "Su (2014). Content congruency and temporal synchrony in audiovisual integration.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4259108/"
+    }
+   ],
+   "other": [
+    {
+     "label": "RN Collins (2026). Runway Sound Map.",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/lab/runway-sound-map/"
+    },
+    {
+     "label": "The evidence reading room for this exhibition: every claim, its source and what it does not prove",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/evidence/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Image 1 in the essay",
+     "what": "Metronome, Maelzel, ca. 1821. The Met, 1979.1.2, Public Domain/CC0. An object about measured pulse, not proof that runway gait is metronomic.",
+     "credit": "Public Domain/CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/503169",
+     "card": false
+    },
+    {
+     "where": "Image 2 in the essay",
+     "what": "Drum, Nasca artist(s), 100-400 CE. The Met, 1978.412.111, Public Domain/CC0. Rhythm is also material culture.",
+     "credit": "Public Domain/CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/310563",
+     "card": false
+    },
+    {
+     "where": "Image 3 in the essay",
+     "what": "Music Box, ca. 1810. The Met, 1976.285.5, Public Domain/CC0. Stored sequence becomes repeatable, familiar and available to memory.",
+     "credit": "Public Domain/CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/505646",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "aan-f-007",
+   "date": "2026-09-07",
+   "id": "AAN-F-007",
+   "title": "What Do Uniforms Do to the Wearer, and the Observer?",
+   "series": "Ask a Neuroscientist × Fashion, exhibition 007: The Role Room",
+   "origin": {
+    "kind": "article",
+    "label": "What Do Uniforms Do to the Wearer, and the Observer?",
+    "url": "https://ask-a-neuroscientist-fashion.vercel.app/exhibitions/uniforms-and-social-perception/"
+   },
+   "research": [
+    {
+     "label": "Neil Hester and Eric Hehman (2023). Dress Is a Fundamental Component of Person Perception. Personality and Social Psychology Review.",
+     "url": "https://doi.org/10.1177/10888683231157961"
+    },
+    {
+     "label": "Yingyi Chang and Jose M. Cortina (2024). What should I wear to work? An integrative review of the impact of clothing in the workplace. Journal of Applied Psychology.",
+     "url": "https://doi.org/10.1037/apl0001158"
+    },
+    {
+     "label": "Ciro Civile and Sukhvinder S. Obhi (2017). Students Wearing Police Uniforms Exhibit Biased Attention toward Individuals Wearing Hoodies. Frontiers in Psychology.",
+     "url": "https://doi.org/10.3389/fpsyg.2017.00062"
+    },
+    {
+     "label": "Guillaume P. Pech and Emilie A. Caspar (2023). Does the cowl make the monk? The effect of military and Red Cross uniforms on empathy for pain, sense of agency and moral behaviors. Frontiers in Psychology.",
+     "url": "https://doi.org/10.3389/fpsyg.2023.1255835"
+    },
+    {
+     "label": "Stephen Timmons and Linda East (2011). Uniforms, status and professional boundaries in hospital. Sociology of Health & Illness.",
+     "url": "https://doi.org/10.1111/j.1467-9566.2011.01357.x"
+    },
+    {
+     "label": "Yeon-Ju Hong et al. (2019). Neural Basis of Professional Pride in the Reaction to Uniform Wear. Frontiers in Human Neuroscience.",
+     "url": "https://doi.org/10.3389/fnhum.2019.00253"
+    },
+    {
+     "label": "Maker unknown (1880-84). Military uniform, 1880-84. The Metropolitan Museum of Art.",
+     "url": "https://www.metmuseum.org/art/collection/search/84440"
+    },
+    {
+     "label": "Maker unknown (late 19th century). Uniform, late 19th century. The Metropolitan Museum of Art.",
+     "url": "https://www.metmuseum.org/art/collection/search/84449"
+    },
+    {
+     "label": "Maker unknown (1863-66). Ensemble, 1863-66. The Metropolitan Museum of Art.",
+     "url": "https://www.metmuseum.org/art/collection/search/151912"
+    }
+   ],
+   "other": [
+    {
+     "label": "RN Collins (2026). Uniform Encounter Map. Ask a Neuroscientist × Fashion.",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/lab/uniform-encounter-map/"
+    },
+    {
+     "label": "The evidence reading room for this exhibition: every claim, its source and what it does not prove",
+     "url": "https://ask-a-neuroscientist-fashion.vercel.app/evidence/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Image 1 in the essay",
+     "what": "Uniform, American, late 19th century. The Met, 1979.152.54a-h, Public Domain/CC0. The object is evidence of a coordinated visual system, not evidence that its original wearer possessed any trait.",
+     "credit": "Public Domain/CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/84449",
+     "card": false
+    },
+    {
+     "where": "Image 2 in the essay",
+     "what": "Military uniform, American, 1880-84. The Met, C.I.47.76.1a, b, Public Domain/CC0. Rank and occupation are made legible; character is not.",
+     "credit": "Public Domain/CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/84440",
+     "card": false
+    },
+    {
+     "where": "Image 3 in the essay",
+     "what": "Uniform, American, late 19th century. The Met, 1979.152.54a-h, Public Domain/CC0. A uniform is a system of coordinated parts.",
+     "credit": "Public Domain/CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/84449",
+     "card": false
+    },
+    {
+     "where": "Image 4 in the essay",
+     "what": "Ensemble, American, 1863-66. The Met, 2009.20a-j, Public Domain/CC0. Military form also circulates into fashion and memory.",
+     "credit": "Public Domain/CC0",
+     "url": "https://www.metmuseum.org/art/collection/search/151912",
+     "card": false
+    }
+   ]
+  }
+ ]
+}
