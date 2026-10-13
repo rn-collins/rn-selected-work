@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "builds:regenerate": "node scripts/regenerate-builds.mjs",
-    "builds:check": "node scripts/regenerate-builds.mjs --check"
+    "builds:check": "node scripts/regenerate-builds.mjs --check",
+    "releases:sync": "python3 scripts/sync_releases.py",
+    "releases:check": "python3 scripts/sync_releases.py --check"
   },
   "dependencies": {
     "next": "16.2.6",

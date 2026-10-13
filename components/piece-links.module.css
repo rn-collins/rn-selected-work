@@ -1,0 +1,8 @@
+.box{border-top:1px solid var(--line, currentColor);margin-top:40px;padding-top:24px;max-width:680px}
+.box h2{font-size:14px;letter-spacing:.12em;text-transform:uppercase;font-weight:600;margin:0 0 14px}
+.list{margin:0 0 18px;padding-left:20px;display:grid;gap:8px;font-size:17px;line-height:1.45}
+.list li{overflow-wrap:anywhere}
+.nav{display:grid;gap:8px;margin:0;padding:0;list-style:none;font-size:16px;line-height:1.45}
+.nav li{overflow-wrap:anywhere}
+.list a,.nav a{color:var(--ink);text-decoration-thickness:1px;text-underline-offset:3px}
+.label{font-size:13px;letter-spacing:.08em;text-transform:uppercase;opacity:.72;margin-right:8px}

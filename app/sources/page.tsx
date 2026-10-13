@@ -5,8 +5,8 @@ import { longDate, postedSoFar } from "../../lib/aan-sources";
 import { accounts } from "../../lib/sources";
 import styles from "./sources.module.css";
 
-// Rebuilt daily so each post appears here on its posting day.
-export const revalidate = 86400;
+// Rechecked hourly, and refreshed by the daily cron (app/api/release-day), so each post appears on its release day.
+export const revalidate = 3600;
 
 export function generateMetadata(): Metadata {
   return {

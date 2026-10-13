@@ -1,18 +1,23 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import {
-  essaysByFamily, essayPath, families, FAMILY_BLURB, essays, readingMinutes, totalWords,
+  essaysByFamily, essayPath, families, FAMILY_BLURB, readingMinutes, releasedDdwEssays, releasedWords,
 } from "../../../lib/ddw-essays";
 import styles from "./ddw.module.css";
 
-export const metadata: Metadata = {
-  title: "Dutch Design Week, written out",
-  description:
-    `${essays.length} essays on the makers, venues, editions and awards of Dutch Design Week, each written from the public record and citing its sources.`,
-  alternates: { canonical: "/writing/dutch-design-week" },
-};
+// Lists released essays only (data/releases.json), rechecked hourly and refreshed by the daily cron.
+export const revalidate = 3600;
+
+export function generateMetadata(): Metadata {
+  return {
+    title: "Dutch Design Week, written out",
+    description: "Essays on the makers, venues, editions and awards of Dutch Design Week, each written from the public record and citing its sources.",
+    alternates: { canonical: "/writing/dutch-design-week" },
+  };
+}
 
 export default function DutchDesignWeekIndex() {
+  const essays = releasedDdwEssays();
   return (
     <main className={`${styles.page} shell`}>
       <p className="eyebrow">Dutch Design Week</p>
@@ -24,7 +29,9 @@ export default function DutchDesignWeekIndex() {
         and design press. Each reports what it draws on, and says where it did not go.
       </p>
       <p className={styles.count}>
-        {essays.length} essays · {totalWords.toLocaleString("en-US")} words · by RN Collins
+        {essays.length === 0
+          ? "Each essay appears here on the day its post goes up."
+          : <>{essays.length} essays · {releasedWords().toLocaleString("en-US")} words · by RN Collins</>}
       </p>
       {families().map((family) => {
         const group = essaysByFamily(family);

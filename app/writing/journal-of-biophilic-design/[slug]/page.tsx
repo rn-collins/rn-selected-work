@@ -3,6 +3,10 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CanonicalPage } from "../../../../components/canonical-page";
 import { journalArticle, journalArticles, journalName, journalUrl, readingMinutes } from "../../../../lib/journal-articles";
+import { isReleased, pieceId } from "../../../../lib/releases";
+
+// The link to the article's sources page (/sources/jbd/jbd<issue>) appears from that page's release day.
+export const revalidate = 3600;
 import styles from "../journal.module.css";
 
 export function generateStaticParams() {
@@ -70,6 +74,11 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
               ))}
             </ol>
           </section>
+        ) : null}
+        {isReleased(pieceId("jbd", `jbd${a.issue}`)) ? (
+          <p className={styles.back}>
+            <Link href={`/sources/jbd/jbd${a.issue}`}>Sources and image credits for the post on this article</Link>
+          </p>
         ) : null}
         <p className={styles.back}>
           <Link href="/writing#journal-of-biophilic-design">All writing</Link>

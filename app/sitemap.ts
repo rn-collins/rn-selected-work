@@ -7,10 +7,10 @@ import { postedSoFar } from "../lib/aan-sources";
 import { accounts, listed } from "../lib/sources";
 import { tfhPostedSoFar } from "../lib/tfh-sources";
 import { ESSAYS_INDEXABLE } from "../lib/essays-config";
-import { essayAccounts, essayPath } from "../lib/essays";
+import { essayAccounts, essayPath, releasedEssays } from "../lib/essays";
 import { journalPagePath, journalPdfs } from "../lib/journal-pdfs";
 
-export const revalidate = 86400;
+export const revalidate = 3600;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = "https://rn-selected-work.vercel.app";
@@ -53,7 +53,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
           ...journalPdfs.map((j) => ({ url: `${base}${journalPagePath(j.slug)}`, changeFrequency: "yearly" as const, priority: 0.5 })),
           ...essayAccounts.flatMap((a) => [
             { url: `${base}/essays/${a.key}`, changeFrequency: "weekly" as const, priority: 0.5 },
-            ...a.essays.map((e) => ({ url: `${base}${essayPath(a.key, e.id)}`, changeFrequency: "monthly" as const, priority: 0.5 })),
+            ...releasedEssays(a.key).map((e) => ({ url: `${base}${essayPath(a.key, e.id)}`, changeFrequency: "monthly" as const, priority: 0.5 })),
           ]),
         ]
       : []),

@@ -3,21 +3,26 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CanonicalPage } from "../../../../components/canonical-page";
 import { EssayBody } from "../../../../components/essay-body";
-import { POLYMATH_SUBSCRIBE, essay, essayAccount, essayAccounts, essayPath, essayRobots, essayShare, host, longDate, readingMinutes, sourcesPath } from "../../../../lib/essays";
+import { PieceLinks } from "../../../../components/piece-links";
+import { POLYMATH_SUBSCRIBE, essayAccount, essayAccounts, essayPath, essayRobots, essayShare, host, longDate, readingMinutes, releasedEssay, releasedEssays, sourcesPath } from "../../../../lib/essays";
+import { pieceId } from "../../../../lib/releases";
 import styles from "../../essays.module.css";
 
-export const dynamicParams = false;
+// Only released essays (data/releases.json) are built. Any other address returns 404 until the release day;
+// pages are rechecked hourly, and the daily cron (app/api/release-day) refreshes them all.
+export const dynamicParams = true;
+export const revalidate = 3600;
 
 type Params = { params: Promise<{ account: string; id: string }> };
 
 export function generateStaticParams() {
-  return essayAccounts.flatMap((a) => a.essays.map((e) => ({ account: a.key, id: e.id })));
+  return essayAccounts.flatMap((a) => releasedEssays(a.key).map((e) => ({ account: a.key, id: e.id })));
 }
 
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const { account, id } = await params;
-  const e = essay(account, id);
-  if (!e) return {};
+  const e = releasedEssay(account, id);
+  if (!e) notFound();
   const path = essayPath(account, id);
   return {
     title: e.seoTitle,
@@ -32,8 +37,11 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
 export default async function EssayPage({ params }: Params) {
   const { account, id } = await params;
   const a = essayAccount(account);
-  const e = a && essay(account, id);
+  const e = a && releasedEssay(account, id);
   if (!a || !e) notFound();
+  const order = releasedEssays(account);
+  const at = order.findIndex((q) => q.id === id);
+  const ref = (q?: { id: string; title: string }) => q && { href: essayPath(account, q.id), title: q.title };
   return (
     <CanonicalPage>
       <article className={`${styles.page} shell`}>
@@ -77,7 +85,13 @@ export default async function EssayPage({ params }: Params) {
             <li><Link href="/">RN Selected Work</Link></li>
           </ul>
         </aside>
-        <p className={styles.back}><Link href={`/essays/${account}`}>{a.name}: all essays</Link></p>
+        <PieceLinks
+          id={pieceId(account, id)}
+          sources={sourcesPath(account, id)}
+          index={{ href: `/essays/${account}`, title: `${a.name}: all essays` }}
+          prev={ref(order[at - 1])}
+          next={ref(at >= 0 ? order[at + 1] : undefined)}
+        />
       </article>
     </CanonicalPage>
   );

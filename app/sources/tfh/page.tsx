@@ -4,7 +4,7 @@ import { CanonicalPage } from "../../../components/canonical-page";
 import { tfhPostedSoFar } from "../../../lib/tfh-sources";
 import styles from "../sources.module.css";
 
-export const revalidate = 86400;
+export const revalidate = 3600;
 
 export function generateMetadata(): Metadata {
   return {

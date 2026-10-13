@@ -4,23 +4,29 @@ import { notFound } from "next/navigation";
 import { CanonicalPage } from "../../../../components/canonical-page";
 import { ClientLine } from "../../../../components/sources-detail";
 import { PortfolioBlock, PortfolioLine } from "../../../../components/source-portfolio-link";
-import { account, accounts, entryCount, host, sourcePost, type SourceLink } from "../../../../lib/sources";
+import { PieceLinks } from "../../../../components/piece-links";
+import { POLYMATH_SUBSCRIBE, essay, essayPath } from "../../../../lib/essays";
+import { pieceId } from "../../../../lib/releases";
+import { account, accounts, entryCount, host, listed, releasedPost, type SourceLink } from "../../../../lib/sources";
 import styles from "../../sources.module.css";
 
 // In this folder [slug] is the account (ddw26, venues, makers, editions) and [id] the post. Next.js allows one
 // parameter name per path level, and Ask a Neuroscientist's /sources/[slug] page already owns it.
-export const dynamicParams = false;
+// Only released pieces (data/releases.json) are built. Any other address renders on request and returns 404 until
+// the piece's release day; pages are rechecked hourly, and the daily cron (app/api/release-day) refreshes them all.
+export const dynamicParams = true;
+export const revalidate = 3600;
 
 type Params = { params: Promise<{ slug: string; id: string }> };
 
 export function generateStaticParams() {
-  return accounts.flatMap((a) => a.posts.map((p) => ({ slug: a.key, id: p.slug })));
+  return accounts.flatMap((a) => listed(a).map((p) => ({ slug: a.key, id: p.slug })));
 }
 
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const { slug, id } = await params;
-  const p = sourcePost(slug, id);
-  if (!p) return {};
+  const p = releasedPost(slug, id);
+  if (!p) notFound();
   return {
     title: `Sources: ${p.title}`,
     description: `The article, sources and image credits behind the RN Collins post "${p.title}", each linked to the original.`,
@@ -52,8 +58,18 @@ function Links({ items }: { items: SourceLink[] }) {
 export default async function SourcePage({ params }: Params) {
   const { slug, id } = await params;
   const a = account(slug);
-  const p = a && sourcePost(slug, id);
+  const p = a && releasedPost(slug, id);
   if (!a || !p) notFound();
+  // The long-form for this piece: its essay on this site when there is one. The DDW packages name the newsletter
+  // subscribe page as their article; the essay takes its place, because a subscribe page is not the piece.
+  const e = essay(slug, p.slug);
+  const essayHref = e ? essayPath(slug, p.slug) : undefined;
+  const origin = p.origin?.url === POLYMATH_SUBSCRIBE
+    ? (e ? { kind: "article" as const, label: e.title, url: essayHref! } : null)
+    : p.origin;
+  const order = listed(a);
+  const at = order.findIndex((q) => q.slug === p.slug);
+  const ref = (q?: { slug: string; title: string }) => q && { href: `/sources/${slug}/${q.slug}`, title: q.title };
   return (
     <CanonicalPage>
       <article className={`${styles.page} shell`}>
@@ -66,13 +82,19 @@ export default async function SourcePage({ params }: Params) {
           {a.intro ?? "The article, the sources and the image credits behind this post, each linked to the original."}
         </p>
 
-        {p.origin && (
-          <a className={styles.origin} href={p.origin.url} target="_blank" rel="noreferrer">
-            <span className={styles.originLabel}>{p.origin.kind === "article" ? "The article" : p.origin.kind === "listing" ? "The work" : "Start here"}</span>
-            <span className={styles.originTitle}>{p.origin.label} <span aria-hidden="true">↗</span></span>
-            <span className={styles.host}>{host(p.origin.url)}</span>
+        {origin && (origin.url === essayHref ? (
+          <Link className={styles.origin} href={origin.url}>
+            <span className={styles.originLabel}>The essay</span>
+            <span className={styles.originTitle}>{origin.label}</span>
+            <span className={styles.host}>rn-selected-work.vercel.app</span>
+          </Link>
+        ) : (
+          <a className={styles.origin} href={origin.url} target="_blank" rel="noreferrer">
+            <span className={styles.originLabel}>{origin.kind === "article" ? "The article" : origin.kind === "listing" ? "The work" : "Start here"}</span>
+            <span className={styles.originTitle}>{origin.label} <span aria-hidden="true">↗</span></span>
+            <span className={styles.host}>{host(origin.url)}</span>
           </a>
-        )}
+        ))}
 
         {p.research.length > 0 && (
           <section className={styles.block} aria-labelledby="research">
@@ -104,7 +126,13 @@ export default async function SourcePage({ params }: Params) {
           </section>
         )}
         <ClientLine />
-        <p className={styles.back}><Link href={`/sources/${slug}`}>{a.name}: all posts and their sources</Link></p>
+        <PieceLinks
+          id={pieceId(slug, p.slug)}
+          longForm={essayHref ? { href: essayHref, label: `The essay: ${e!.title}` } : undefined}
+          index={{ href: `/sources/${slug}`, title: `${a.name}: all posts and their sources` }}
+          prev={ref(order[at - 1])}
+          next={ref(at >= 0 ? order[at + 1] : undefined)}
+        />
         <PortfolioBlock />
       </article>
     </CanonicalPage>

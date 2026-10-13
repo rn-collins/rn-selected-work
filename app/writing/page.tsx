@@ -9,7 +9,10 @@ export const metadata: Metadata = {
 };
 import { publicationArchive } from "../../lib/publication-archive";
 import { journalArticles, journalName, journalUrl } from "../../lib/journal-articles";
-import { essays as ddwEssays, essaysByFamily, families, totalWords } from "../../lib/ddw-essays";
+import { essaysByFamily, families, releasedDdwEssays, releasedWords } from "../../lib/ddw-essays";
+
+// The Dutch Design Week section shows released essays only (data/releases.json), rechecked hourly.
+export const revalidate = 3600;
 
 const journalId = "journal-of-biophilic-design";
 const ddwId = "dutch-design-week";
@@ -22,6 +25,8 @@ const publications = [
 ] as const;
 
 export default function WritingArchivePage() {
+  const ddwEssays = releasedDdwEssays();
+  const totalWords = releasedWords();
   return (
     <main>
       <nav className="nav shell" aria-label="Writing archive navigation">
@@ -38,7 +43,7 @@ export default function WritingArchivePage() {
       </header>
       <nav className="publicationJump shell" aria-label="Jump to publication">
         <a href={`#${journalId}`}>{journalName} <span>{journalArticles.length}</span></a>
-        <a href={`#${ddwId}`}>Dutch Design Week <span>{ddwEssays.length}</span></a>
+        {ddwEssays.length > 0 && <a href={`#${ddwId}`}>Dutch Design Week <span>{ddwEssays.length}</span></a>}
         {publications.map((publication) => (
           <a href={`#${publication.toLowerCase().replaceAll(" ", "-")}`} key={publication}>
             {publication} <span>{publicationArchive.filter((item) => item.publication === publication).length}</span>
@@ -70,6 +75,7 @@ export default function WritingArchivePage() {
             </div>
           </section>
         </section>
+        {ddwEssays.length > 0 && (
         <section className="publicationArchive" id={ddwId}>
           <div className="publicationArchiveHead">
             <p className="eyebrow">Written for this site</p>
@@ -100,6 +106,7 @@ export default function WritingArchivePage() {
             </div>
           </section>
         </section>
+        )}
         {publications.map((publication) => {
           const articles = publicationArchive
             .filter((item) => item.publication === publication)

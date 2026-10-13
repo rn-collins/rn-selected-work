@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../components/canonical-page";
-import { POLYMATH_SUBSCRIBE, essayAccounts, essayCount, essayRobots, essayShare } from "../../lib/essays";
+import { POLYMATH_SUBSCRIBE, essayAccounts, essayCount, essayRobots, essayShare, releasedEssays } from "../../lib/essays";
+
+// Counts released essays only (data/releases.json), rechecked hourly and refreshed by the daily cron.
+export const revalidate = 3600;
 import styles from "./essays.module.css";
 
 export function generateMetadata(): Metadata {
@@ -30,7 +33,7 @@ export default function EssaysIndex() {
             <li key={a.key}>
               <Link href={`/essays/${a.key}`}>{a.name}</Link>
               <span className={styles.sub}>{a.blurb}</span>
-              <span className={styles.host}>{a.essays.length} essays</span>
+              <span className={styles.host}>{releasedEssays(a.key).length} published so far</span>
             </li>
           ))}
         </ul>

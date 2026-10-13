@@ -2,13 +2,19 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CanonicalPage } from "../../../../../components/canonical-page";
+import { PieceLinks } from "../../../../../components/piece-links";
 import {
-  Essay, essay, essayPath, essays, readingMinutes, sourcesPath,
+  Essay, ddwPieceId, essay, essayPath, essaysByFamily, readingMinutes, releasedDdwEssays, sourcesPath,
 } from "../../../../../lib/ddw-essays";
+
+// Only released essays (data/releases.json) are built. Any other address returns 404 until the release day;
+// pages are rechecked hourly, and the daily cron (app/api/release-day) refreshes them all.
+export const dynamicParams = true;
+export const revalidate = 3600;
 import styles from "../../ddw.module.css";
 
 export function generateStaticParams() {
-  return essays.map((e) => ({ family: e.family, slug: e.slug }));
+  return releasedDdwEssays().map((e) => ({ family: e.family, slug: e.slug }));
 }
 
 type Params = { params: Promise<{ family: string; slug: string }> };
@@ -16,7 +22,7 @@ type Params = { params: Promise<{ family: string; slug: string }> };
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const { family, slug } = await params;
   const e = essay(family, slug);
-  if (!e) return {};
+  if (!e) notFound();
   return {
     title: e.title,
     description: e.description || e.subtitle,
@@ -49,6 +55,9 @@ export default async function DutchDesignWeekEssay({ params }: Params) {
   const { family, slug } = await params;
   const e = essay(family, slug);
   if (!e) notFound();
+  const order = essaysByFamily(family);
+  const at = order.findIndex((q) => q.slug === e.slug);
+  const ref = (q?: Essay) => q && { href: essayPath(q), title: q.title };
   const byId = new Map(e.sources.map((s, i) => [s.id ?? "", i + 1]));
   const headings = e.sections.filter((s) => s.t === "h2");
   return (
@@ -100,9 +109,13 @@ export default async function DutchDesignWeekEssay({ params }: Params) {
             ))}
           </ol>
         </section>
-        <p className={styles.back}>
-          <Link href="/writing/dutch-design-week">All Dutch Design Week essays</Link>
-        </p>
+        <PieceLinks
+          id={ddwPieceId(e)}
+          sources={sourcesPath(e)}
+          index={{ href: "/writing/dutch-design-week", title: "All Dutch Design Week essays" }}
+          prev={ref(order[at - 1])}
+          next={ref(at >= 0 ? order[at + 1] : undefined)}
+        />
       </article>
     </CanonicalPage>
   );
