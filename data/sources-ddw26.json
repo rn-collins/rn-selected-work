@@ -4418,6 +4418,182 @@
      "card": false
     }
    ]
+  },
+  {
+   "slug": "s33",
+   "date": "2026-10-24",
+   "id": "33",
+   "title": ".Unusual: living organisms as building blocks",
+   "series": "Dutch Design Week 2026",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, where RN publishes this article",
+    "url": "https://polymath-rn-collins.beehiiv.com/subscribe"
+   },
+   "research": [
+    {
+     "label": "Centre Pompidou, \"Un podcast, une oeuvre,\" Art et ecologie, episode 4 (transcript, in French)",
+     "url": "https://www.centrepompidou.fr/fileadmin/user_upload/Un_podcast__une_oeuvre_-_Art_et_ecologie-_Ep._4_Studio_Klarenbeek___Dros_-_transcription.pdf"
+    },
+    {
+     "label": "Royal Academy of Art, The Hague, Design Lectorate: The Mycelium Project",
+     "url": "https://www.kabk.nl/en/lectorates/design/the-mycelium-project"
+    },
+    {
+     "label": "Appels et al., \"Fabrication factors influencing mechanical, moisture- and water-related properties of mycelium-based composites,\" Materials & Design 161 (2019)",
+     "url": "https://research.tudelft.nl/en/publications/fabrication-factors-influencing-mechanical-moisture-and-water-rel/"
+    },
+    {
+     "label": "Yang, Park and Qin, \"Material Function of Mycelium-Based Bio-Composite: A Review,\" Frontiers in Materials 8",
+     "url": "https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2021.737377/full"
+    }
+   ],
+   "other": [
+    {
+     "label": "Dutch Design Week program listing,.Unusual (English, 2026)",
+     "url": "https://ddw.nl/en/programme/unusual"
+    },
+    {
+     "label": "Dutch Design Week program listing,.Unusual (Dutch, 2026)",
+     "url": "https://ddw.nl/nl/programma/unusual"
+    },
+    {
+     "label": "Dutch Design Week program listing, Secrid Talent Podium (2026)",
+     "url": "https://ddw.nl/en/programme/secrid-talent-podium"
+    },
+    {
+     "label": "Secrid, \"Vijf jaar Secrid Talent Podium: 50 ontwerpers, van toepassing naar opschaling,\" Emerce Industry Wire (submitted press release)",
+     "url": "https://www.emerce.nl/wire/vijf-jaar-secrid-talent-podium-50-ontwerpers-toepassing-opschaling"
+    },
+    {
+     "label": ".unusual, Klarenbeek & Dros, Designers of the Unusual: studio website",
+     "url": "https://www.dotunusual.com/"
+    },
+    {
+     "label": "Weedware B.V., company website",
+     "url": "https://www.weedware.org/"
+    },
+    {
+     "label": "Pinakothek der Moderne, exhibition page: Klarenbeek & Dros, Design of the Unusual",
+     "url": "https://www.pinakothek-der-moderne.de/en/exhibitions/klarenbeek-dros-designers-of-the-unusual/"
+    },
+    {
+     "label": "Die Neue Sammlung, exhibition page: Klarenbeek & Dros. Design of the Unusual (easy-read English)",
+     "url": "https://www.die-neue-sammlung.de/er/ausstellung/klarenbeek-dros/"
+    },
+    {
+     "label": "Centre Pompidou, art and ecology teaching resource: Studio Klarenbeek & Dros, Mycelium Chair",
+     "url": "https://www.centrepompidou.fr/en/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart/art-et-ecologie/studio-klarenbeek-dros"
+    },
+    {
+     "label": "Centre Pompidou, collection search for \"Studio Klarenbeek\" (23 results)",
+     "url": "https://www.centrepompidou.fr/fr/recherche/oeuvres?terms=Studio%20Klarenbeek"
+    },
+    {
+     "label": "Het Nieuwe Instituut, New Material Award 2018",
+     "url": "https://nieuweinstituut.nl/en/projects/new-material-award/new-material-award-2018"
+    },
+    {
+     "label": "Museum Boijmans Van Beuningen, The Breakdown Economy (online exhibition)",
+     "url": "https://deafbreekeconomie.boijmans.nl/en/"
+    },
+    {
+     "label": "Dutch Design Week program archive 2025: Growing Facade",
+     "url": "https://ddw.nl/en/programme/archive/2025/growing-facade-wierwaar"
+    },
+    {
+     "label": "Dutch Design Week program listing: Friday Next - Future Bio Design (October 24, 2025)",
+     "url": "https://ddw.nl/en/programme/15696/friday-next-future-bio-design"
+    },
+    {
+     "label": "MaterialDistrict, \"AI-grown mycelium facade showcases a scalable circular building material\"",
+     "url": "https://materialdistrict.com/article/ai-grown-mycelium-facade-showcases-a-scalable-circular-building-material/"
+    },
+    {
+     "label": "UN Environment Programme, Global Status Report for Buildings and Construction 2024/2025",
+     "url": "https://www.unep.org/resources/report/global-status-report-buildings-and-construction-20242025"
+    },
+    {
+     "label": "NOAA National Ocean Service, how much of the oxygen comes from the ocean",
+     "url": "https://oceanservice.noaa.gov/facts/ocean-oxygen.html"
+    },
+    {
+     "label": "Rijksdienst voor het Cultureel Erfgoed, monument register: Philipscomplex Strijp S (complex 518768, monument 518769)",
+     "url": "https://monumentenregister.cultureelerfgoed.nl/print/pdf/node/571055"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "An injection moulding machine with a robot arm lifting a finished plastic part clear of the die",
+     "credit": "Photo: The robotic engineer1, CC BY-SA",
+     "url": "https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A recycling combine inside a sorting facility, mixed waste heaped on the floor around it",
+     "credit": "Photo: CaptJayRuffins, CC BY-SA",
+     "url": "https://commons.wikimedia.org/wiki/File:Recycling_combine_-_Sunset_Pk,_NYC_05.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Heavy smoke and haze hanging over an industrial skyline",
+     "credit": "Photo: Janak Bhatta, CC BY-SA",
+     "url": "https://commons.wikimedia.org/wiki/File:Air_pollution3.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Workers guiding wet concrete from a chute into timber foundation forms",
+     "credit": "Photo: U.S. Air Force, PD, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Concrete_pouring_for_the_new_Spangdahlem_Elementary_School_(8062804).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A small vaulted structure built from pale mycelium bricks, grown rather than fired",
+     "credit": "Photo: SnowFire, CC BY, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:NYBG_Mycelium_Brick_Home_September_2024.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Rows of bright green algae cultures in glass vessels under laboratory light",
+     "credit": "Photo: U.S. Dept of Energy, PD, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:U.S._Department_of_Energy_-_Science_-_298_042_003_(9525866984).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A large slab of mycelium composite, its surface mottled cream and brown",
+     "credit": "Photo: Meyer & Pfeiffer, CC BY-SA",
+     "url": "https://commons.wikimedia.org/wiki/File:Figure_5_in_%27Mind_the_Fungi%27_by_Meyer_%26_Pfeiffer_-_picture_by_Wolfgang_G%C3%BCnzel.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The Design Academy Eindhoven building seen from the street",
+     "credit": "Photo: IK's World Trip, CC BY, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Design_Academy_Eindhoven,_2010.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "The Klokgebouw on Strijp-S, the brick former Philips factory with its clock tower",
+     "credit": "Photo: S. Perquin, CC BY-SA",
+     "url": "https://commons.wikimedia.org/wiki/File:Klokgebouw_(2024)_(2).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "A circular panel of biomaterial samples in browns, greys and creams, each square a different texture",
+     "credit": "Photo: Camilla.vi, CC BY, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Bio-materials.jpg",
+     "card": false
+    }
+   ]
   }
  ]
 }
