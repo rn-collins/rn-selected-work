@@ -1,0 +1,3609 @@
+{
+ "generated": "2026-10-13",
+ "host": "rn-selected-work.vercel.app",
+ "from": "rn-collins/ownership-platform scripts/export-selected-work-sources.ts",
+ "posts": [
+  {
+   "slug": "edit-001",
+   "date": "2026-09-16",
+   "title": "When Does One Person Become an Institution?",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 001: When Does One Person Become an Institution?, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/001"
+   },
+   "id": "Edition 001",
+   "series": "The I/1 Edit",
+   "research": [
+    {
+     "label": "Apple Newsroom, “Jony Ive to form independent design company with Apple as client” (June 27, 2019)",
+     "url": "https://www.apple.com/newsroom/2019/06/jony-ive-to-form-independent-design-company-with-apple-as-client/"
+    },
+    {
+     "label": "Shondaland Media, “About us”",
+     "url": "https://www.shondalandmedia.com/about-us/"
+    },
+    {
+     "label": "Netflix, “Netflix and Shonda Rhimes Expand Creative Pact” (July 8, 2021)",
+     "url": "https://about.netflix.com/en/news/netflix-and-shonda-rhimes-expand-creative-pact"
+    },
+    {
+     "label": "Miami-Dade County, “Heat Action Plan 2022”",
+     "url": "https://www.miamidade.gov/resources/environment/documents/2022-heat-action-plan.pdf"
+    },
+    {
+     "label": "Miami-Dade County, employee profile of Jane Gilbert",
+     "url": "https://secure.miamidade.gov/employee/ithrive/archive/ithrive-rer-gilbert.page"
+    },
+    {
+     "label": "Chamberlain Coffee, “About Chamberlain”",
+     "url": "https://chamberlaincoffee.com/pages/about-us"
+    },
+    {
+     "label": "Chamberlain Coffee, café page",
+     "url": "https://chamberlaincoffee.com/pages/chamberlain-coffee-cafe"
+    },
+    {
+     "label": "Lyft, “Lyft welcomes Suzie Reider” (December 4, 2024)",
+     "url": "https://www.lyft.com/blog/posts/lyft-welcomes-suzie-reider"
+    },
+    {
+     "label": "Pieter Levels, “Nomad List Founder” (January 7, 2017)",
+     "url": "https://levels.io/nomad-list-founder"
+    },
+    {
+     "label": "Pieter Levels, “How I built Nomad Jobs” (August 31, 2014)",
+     "url": "https://levels.io/how-i-built-a-remote-jobs-board"
+    },
+    {
+     "label": "Shondaland, “Shonda Rhimes”",
+     "url": "https://www.shondaland.com/about-us/shonda-rhimes"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "edit-002",
+   "date": "2026-09-16",
+   "title": "Your Career Has a Supply Chain",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 002: Your Career Has a Supply Chain, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/002"
+   },
+   "id": "Edition 002",
+   "series": "The I/1 Edit",
+   "research": [
+    {
+     "label": "Spotify Newsroom, “‘Call Her Daddy’ Is Making It Exclusive With Spotify” (June 15, 2021)",
+     "url": "https://newsroom.spotify.com/2021-06-15/call-her-daddy-is-making-it-exclusive-with-spotify/"
+    },
+    {
+     "label": "SiriusXM, “SiriusXM Inks New Multi-Year Agreement with Alex Cooper” (August 20, 2024)",
+     "url": "https://investor.siriusxm.com/news-events/press-releases/detail/2096/siriusxm-inks-new-multi-year-agreement-with-alex-cooper"
+    },
+    {
+     "label": "YouTube Blog, “Marques Brownlee shares how podcasting can help creators establish their voice” (June 6, 2022)",
+     "url": "https://blog.youtube/creator-and-artist-stories/marques-brownlee-podcasting-youtube-creator-economy/"
+    },
+    {
+     "label": "YouTube Blog, “From the CEO: What’s coming to YouTube in 2026” (January 21, 2026)",
+     "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/"
+    },
+    {
+     "label": "Amazon, “‘Beast Games’ renewed for two more seasons” (May 12, 2025)",
+     "url": "https://www.aboutamazon.com/news/entertainment/mrbeast-prime-video-beast-games-season-2-and-3"
+    },
+    {
+     "label": "Feastables, “Our commitment to ethical sourcing”",
+     "url": "https://feastables.com/pages/ethicalsourcing"
+    },
+    {
+     "label": "Patreon, “The story of Patreon”",
+     "url": "https://www.patreon.com/about"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "edit-003",
+   "date": "2026-09-16",
+   "title": "Your Archive Is Not a Backup",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 003: Your Archive Is Not a Backup, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/003"
+   },
+   "id": "Edition 003",
+   "series": "The I/1 Edit",
+   "research": [
+    {
+     "label": "Google Account Help: How to download your Google data",
+     "url": "https://support.google.com/accounts/answer/3024190"
+    },
+    {
+     "label": "LinkedIn Help: Download your data",
+     "url": "https://www.linkedin.com/help/linkedin/answer/a1339364/downloading-your-account-data"
+    },
+    {
+     "label": "LinkedIn Help: Export connections",
+     "url": "https://www.linkedin.com/help/linkedin/answer/a566336/export-connections-from-linkedin"
+    },
+    {
+     "label": "Substack Help: Export posts",
+     "url": "https://support.substack.com/hc/en-us/articles/360037466012-How-do-I-export-my-posts"
+    },
+    {
+     "label": "Substack Help: Export an email list",
+     "url": "https://support.substack.com/hc/en-us/articles/6314498343700-How-do-I-export-my-email-list-on-Substack"
+    },
+    {
+     "label": "Instagram Help: Export your Instagram information",
+     "url": "https://help.instagram.com/181231772500920/"
+    },
+    {
+     "label": "Facebook Help: Export your Facebook information",
+     "url": "https://www.facebook.com/help/212802592074644"
+    },
+    {
+     "label": "Facebook Help: Manage Page access",
+     "url": "https://www.facebook.com/help/187316341316631"
+    },
+    {
+     "label": "TikTok Support: Requesting your data",
+     "url": "https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/requesting-your-data"
+    },
+    {
+     "label": "YouTube Help: Manage channel permissions",
+     "url": "https://support.google.com/youtube/answer/9481328"
+    },
+    {
+     "label": "Google Account Help: Share a copy with a third party",
+     "url": "https://support.google.com/accounts/answer/14452558"
+    },
+    {
+     "label": "X Help: Access and download your X data",
+     "url": "https://help.x.com/en/managing-your-account/accessing-your-x-data"
+    },
+    {
+     "label": "X Help: Delegate account access",
+     "url": "https://help.x.com/en/managing-your-account/how-to-use-the-delegate-feature"
+    },
+    {
+     "label": "GDPR Article 20: Right to data portability",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02016R0679-20160504"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "edit-004",
+   "date": "2026-09-16",
+   "title": "The Exit Is Part of the Architecture",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 004: The Exit Is Part of the Architecture, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/004"
+   },
+   "id": "Edition 004",
+   "series": "The I/1 Edit",
+   "research": [
+    {
+     "label": "GitHub Docs: Transferring a repository",
+     "url": "https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository"
+    },
+    {
+     "label": "GitHub Docs: Backing up a repository",
+     "url": "https://docs.github.com/en/repositories/archiving-a-github-repository/backing-up-a-repository"
+    },
+    {
+     "label": "Spotify for Creators: Switching away with a 301 redirect",
+     "url": "https://support.spotify.com/us/creators/article/switching-away-from-spotify-for-creators-with-a-301-redirect/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "edit-005",
+   "date": "2026-08-21",
+   "title": "The $2,000 Video",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 005: The $2,000 Video, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/005"
+   },
+   "id": "Edition 005",
+   "series": "The I/1 Edit",
+   "research": [
+    {
+     "label": "17 U.S.C. §§101 and 106",
+     "url": "https://www.copyright.gov/title17/92chap1.html"
+    },
+    {
+     "label": "17 U.S.C. §§201, 202, and 204",
+     "url": "https://www.copyright.gov/title17/92chap2.html"
+    },
+    {
+     "label": "U.S. Copyright Office, Copyright Basics (Circular 1)",
+     "url": "https://www.copyright.gov/circs/circ01.pdf"
+    },
+    {
+     "label": "Nike, The Nike Swoosh Logo: From Humble Beginnings to Global Icon",
+     "url": "https://about.nike.com/en/magazine/nike-swoosh-logo-history"
+    },
+    {
+     "label": "Canva Contributor Agreement",
+     "url": "https://www.canva.com/policies/contributor-agreement/"
+    },
+    {
+     "label": "Apple Media Services Terms and Conditions, U.S.",
+     "url": "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+    },
+    {
+     "label": "Apple Support, About purchasing movies, TV shows, music, books, and ringtones from Apple",
+     "url": "https://support.apple.com/en-us/121877"
+    },
+    {
+     "label": "Fiverr Help, Managing Gig extras, source files, and shipping",
+     "url": "https://help.fiverr.com/hc/en-us/articles/360014487758-Managing-Gig-extras-source-files-and-shipping"
+    },
+    {
+     "label": "Adobe Premiere, Move Premiere projects to another computer",
+     "url": "https://helpx.adobe.com/uk/premiere/desktop/organize-media/create-projects/move-project-to-another-computer.html"
+    },
+    {
+     "label": "Adobe Illustrator, Package files in Illustrator",
+     "url": "https://helpx.adobe.com/illustrator/using/package-files.html"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Image 1",
+     "what": "The invoice records a price and transaction; it does not disclose every permission or ownership term.",
+     "credit": "Deutsches Buch- und Schriftmuseum / Forschungsstelle Papiergeschichte, Public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Rechnung_Buntpapier-Fabrik_Hennessen_%26_Jansen_M.-Gladbach_1903.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 2",
+     "what": "A documented signing makes the parties, governing instrument, and moment of assent visible.",
+     "credit": "Oregon Department of Transportation, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Signing_the_agreement_(10442537774).jpg",
+     "card": false
+    },
+    {
+     "where": "Image 3",
+     "what": "A working crew reveals the multiple contributors behind a finished deliverable.",
+     "credit": "Ryan Hagerty, U.S. Fish and Wildlife Service, via Public-domain-image.com (date not given), Public domain (U.S. federal government work)",
+     "url": "https://commons.wikimedia.org/wiki/File:Video_production_workers_in_studio_studying_bank_of_monitors_showing_camera_views.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 4",
+     "what": "A working animation sheet identifies the production format and physical handoff behind a finished frame.",
+     "credit": "Popolon, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Graticule.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 5",
+     "what": "A shared storyboard gives the first scope conversation a concrete object: the team can point to what will be made before pricing its uses.",
+     "credit": "Bill Branson / National Cancer Institute, NIH, Public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Group_discusses_storyboards.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 6",
+     "what": "A deal record preserves the exchange outside anyone’s memory, even when the medium changes.",
+     "credit": "Marie-Lan Nguyen / Louvre Museum, Public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Sales_contract_Shuruppak_Louvre_AO3766.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 7",
+     "what": "A production team demonstrates why deal records must identify people, roles, files and obligations.",
+     "credit": "Le Martel, March 23, 2022 (PixelMusica video production team), CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:PixelMusica_-_Video_Production_Team.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "edit-006",
+   "date": "2026-08-21",
+   "title": "The Person Inside the Asset",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 006: The Person Inside the Asset, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/006"
+   },
+   "id": "Edition 006",
+   "series": "The I/1 Edit",
+   "research": [
+    {
+     "label": "17 U.S.C. §§ 101 and 106: definitions and exclusive rights",
+     "url": "https://www.copyright.gov/title17/92chap1.html"
+    },
+    {
+     "label": "17 U.S.C. §§ 201 and 203: ownership and termination",
+     "url": "https://www.copyright.gov/title17/92chap2.html"
+    },
+    {
+     "label": "17 U.S.C. § 302: duration",
+     "url": "https://www.copyright.gov/title17/92chap3.html"
+    },
+    {
+     "label": "U.S. Copyright Office, Works Made for Hire (Circular 30)",
+     "url": "https://www.copyright.gov/circs/circ30.pdf"
+    },
+    {
+     "label": "U.S. Copyright Office, Copyright and Artificial Intelligence, Part 1: Digital Replicas",
+     "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf"
+    },
+    {
+     "label": "Community for Creative Non-Violence v. Reid, 490 U.S. 730 (1989), official U.S. Reports record",
+     "url": "https://www.govinfo.gov/app/details/USREPORTS-490/USREPORTS-490-730"
+    },
+    {
+     "label": "Federal Trade Commission, Endorsements, Influencers, and Reviews",
+     "url": "https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews"
+    },
+    {
+     "label": "YouTube Help, “What is a copyright claim?”: automated Content ID claims and their effects",
+     "url": "https://support.google.com/youtube/answer/7002106"
+    },
+    {
+     "label": "Associated Press, official account of the Fairey proceedings",
+     "url": "https://www.ap.org/media-center/ap-in-the-news/2012/obama-hope-poster-artist-shepard-fairey-gets-probation/"
+    },
+    {
+     "label": "OpenAI, “How the voices for ChatGPT were chosen”",
+     "url": "https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/"
+    },
+    {
+     "label": "Associated Press, Johansson statement and OpenAI response",
+     "url": "https://apnews.com/article/openai-chatgpt-scarlett-johansson-voice-her-532c849ccae3ca9e9325dacfe88e0436"
+    },
+    {
+     "label": "Dove, Evolution campaign archive",
+     "url": "https://www.dove.com/ca/en/stories/campaigns/evolution.html"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Image 1",
+     "what": "The editing apparatus makes alteration a separate production act, not an invisible extension of permission to post.",
+     "credit": "HaeB / Museum of the Moving Image, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Moviola_Model_D_(MOMI).jpg",
+     "card": false
+    },
+    {
+     "where": "Image 2",
+     "what": "A label identifies and credits an object; by itself, it is not a permission record.",
+     "credit": "Allison Agsten / LACMA, Public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:WLA_LACMA_label.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 3",
+     "what": "A voice recording setup separates the performer, recording, equipment, and later uses carried inside one asset.",
+     "credit": "Will Fisher, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Vocal_recording_setup_%26_IYE_-_Studio_B%2C_In_Your_Ear_Studios.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 4",
+     "what": "The crew and equipment make the chain of contribution visible before publication.",
+     "credit": "Nirvana Studios - Custom Circus, February 19, 2026, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Camera_crew_setting_everything_up.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 5",
+     "what": "A model release is a distinct record of likeness consent, not a substitute for copyright ownership.",
+     "credit": "RalfHuels, based on a template by Joi Ito, April 19, 2014, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hardenstein_2014_--_Model_Release.png",
+     "card": false
+    },
+    {
+     "where": "Image 6",
+     "what": "The crew makes the people, equipment and production roles inside one finished asset visible.",
+     "credit": "Peter van der Sluijs via Wikimedia Commons, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Camera_crew_Brielle.JPG",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "edit-007",
+   "date": "2026-08-21",
+   "title": "The Asset’s Afterlife",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 007: The Asset’s Afterlife, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/007"
+   },
+   "id": "Edition 007",
+   "series": "The I/1 Edit",
+   "research": [
+    {
+     "label": "Meta for Developers, Instagram Creator Marketplace API",
+     "url": "https://developers.facebook.com/documentation/instagram-platform/instagram-api-with-facebook-login/creator-marketplace"
+    },
+    {
+     "label": "Meta Help, What is the Meta Ad Library and how do I search it?",
+     "url": "https://www.facebook.com/help/259468828226154/"
+    },
+    {
+     "label": "YouTube Help, Embed Videos and Playlists",
+     "url": "https://support.google.com/youtube/answer/171780"
+    },
+    {
+     "label": "FTC, Endorsements, Influencers, and Reviews",
+     "url": "https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews"
+    },
+    {
+     "label": "FTC, Disclosures 101 for Social Media Influencers",
+     "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+    },
+    {
+     "label": "Hope Batchelor, “10 Red Flags I Spot in Almost Every Creator Contract I Receive”",
+     "url": "https://toastwithhope.substack.com/p/10-red-flags-i-spot-in-almost-every"
+    },
+    {
+     "label": "Roxanne / Travel Creator CEO, “5 Brand Contract Terms Every Content Creator Should Know”",
+     "url": "https://travelcreatorceo.substack.com/p/ugc-creator-rates-guide"
+    },
+    {
+     "label": "The Washington Post, contemporaneous report from the 1992 Olympic medal ceremony",
+     "url": "https://www.washingtonpost.com/archive/sports/1992/08/09/are-there-any-other-questions/69c49c0f-8526-4dc9-beb4-626a25f773ab/"
+    },
+    {
+     "label": "GQ, “The Dream Will Never Die: An Oral History of the Dream Team”",
+     "url": "https://www.gq.com/story/dream-team-20th-anniversary-1992-olympics-usa-basketball"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Figure 1",
+     "what": "Two platforms. Two authorization architectures.",
+     "credit": "Source for the claim: Meta, Making it Easier for Brands and Creators to Collaborate on Instagram, February 21, 2024. Diagram by Institutions of One / RN Collins.",
+     "url": "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/",
+     "card": false
+    },
+    {
+     "where": "Figure 2",
+     "what": "Paid distribution adds an authority chain.",
+     "credit": "Source for the claim: Meta, Making it Easier for Brands and Creators to Collaborate on Instagram, February 21, 2024. Diagram by Institutions of One / RN Collins.",
+     "url": "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/",
+     "card": false
+    },
+    {
+     "where": "Figure 3",
+     "what": "When month three ends, six different things may happen",
+     "credit": "Meta Help Center, What is the Meta Ad Library and how do I search it?; editorial diagram by Institutions of One / RN Collins.",
+     "url": "https://www.facebook.com/help/259468828226154/",
+     "card": false
+    },
+    {
+     "where": "Figure 4",
+     "what": "Accessible worldwide is not the same as licensed worldwide",
+     "credit": "RN Collins, The Asset’s Afterlife; editorial diagram by Institutions of One / RN Collins.",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/the-assets-afterlife",
+     "card": false
+    },
+    {
+     "where": "Figure 5",
+     "what": "One public moment. Multiple commercial systems.",
+     "credit": "Photo: Ken Hackman, U.S. Air Force, via the U.S. National Archives and Wikimedia Commons (public domain), cropped for this edition. Jacket account: Sotheby’s, The Ultimate Symbol of Michael Jordan’s Loyalty to Nike? A Reebok Jacket, June 20, 2023.",
+     "url": "https://www.sothebys.com/en/articles/the-ultimate-symbol-of-michael-jordans-loyalty-to-nike-a-reebok-jacket",
+     "card": false
+    },
+    {
+     "where": "Figure 6",
+     "what": "The route card",
+     "credit": "RN Collins, The Asset’s Afterlife; worksheet design by Institutions of One / RN Collins.",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/the-assets-afterlife",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "edit-008",
+   "date": "2026-08-21",
+   "title": "The Smallest Institution in the Campaign",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 008: The Smallest Institution in the Campaign, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/008"
+   },
+   "id": "Edition 008",
+   "series": "The I/1 Edit",
+   "research": [
+    {
+     "label": "U.S. Copyright Office, Circulars: Copyright Basics and How to Obtain Permission",
+     "url": "https://www.copyright.gov/circs/"
+    },
+    {
+     "label": "17 U.S.C. Chapters 1 and 2",
+     "url": "https://www.copyright.gov/title17/"
+    },
+    {
+     "label": "Federal Trade Commission, Endorsements, Influencers, and Reviews",
+     "url": "https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews"
+    },
+    {
+     "label": "Meta for Developers, Instagram Creator Marketplace API",
+     "url": "https://developers.facebook.com/documentation/instagram-platform/instagram-api-with-facebook-login/creator-marketplace"
+    },
+    {
+     "label": "Meta Help, Partnership Ads and Branded Content Eligibility",
+     "url": "https://www.facebook.com/help/instagram/1372533836927082"
+    },
+    {
+     "label": "YouTube Help, Embed Videos and Playlists",
+     "url": "https://support.google.com/youtube/answer/171780?hl=en"
+    },
+    {
+     "label": "Google Docs Editors Help, Find Out What’s Changed in a File",
+     "url": "https://support.google.com/docs/answer/190843"
+    },
+    {
+     "label": "Adobe Premiere, Share for Review with Frame.io",
+     "url": "https://helpx.adobe.com/in/premiere/desktop/collaborate-with-others/share-for-review-using-frame-io/share-for-review-with-frame-io.html"
+    },
+    {
+     "label": "Adobe Premiere, Import Frame.io Comments as Markers",
+     "url": "https://helpx.adobe.com/premiere/desktop/collaborate-with-others/share-for-review-using-frame-io/import-comments-as-markers.html"
+    },
+    {
+     "label": "Jeremy Bassetti, “Organize, Archive, and Back Up Your Photos | My Workflow + Tips” (October 22, 2024)",
+     "url": "https://jeremybassetti.com/fieldnotes/2024/organize-digital-photographs/"
+    },
+    {
+     "label": "IKEA, Assembly Instructions",
+     "url": "https://www.ikea.com/es/en/customer-service/product-support/assembly-guides/"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Image 1",
+     "what": "The storyboard turns scattered production decisions into a visible sequence; the system exists in the relationships among them.",
+     "credit": "Steve Fontanini / Los Angeles Times Photographic Collection at UCLA, CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Carl_Urbano_working_on_a_storyboard%2C_1967.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 2",
+     "what": "A production workflow turns decisions into inspectable assignments and dependencies.",
+     "credit": "John Cummings, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Asana_Data_workflow.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 3",
+     "what": "A production set shows multiple roles working from one coordinated plan.",
+     "credit": "Yemi Festus, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Filming_production.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 4",
+     "what": "Separate technical systems make the production chain visible as more than a single file.",
+     "credit": "Nilanjan19, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:35MM_ARC_Lamp%2C_Film_Projector%2C_Sound_Mixer.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 5",
+     "what": "A crew makes the people responsible for building and carrying the work visible.",
+     "credit": "Don Ramey Logan, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:My_Fair_Brady_production_crew_photo_Don_Ramey_Logan.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 6",
+     "what": "The mixing room documents a specialized handoff in the post-production workflow.",
+     "credit": "Will Fisher, November 26, 2014, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:5.1_mixing_room_for_Radio%2C_TV%2C_and_Film_production%2C_equipt_with_AVID_Pro_Tools_including_ICON_D-Command_-_Control_Room_B%2C_In_Your_Ear_Studios.jpg",
+     "card": false
+    },
+    {
+     "where": "Image 7",
+     "what": "A named production specialist represents accountable authorship inside a collaborative system.",
+     "credit": "Oluwafemi Jonathan, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:OLUWAFEMI_JONATHAN.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "case-suzie-reider",
+   "date": "2026-07-27",
+   "title": "Suzie Reider",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 001: When Does One Person Become an Institution?, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/001"
+   },
+   "id": "Case: Suzie Reider",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Lyft appointment announcement and reporting line (Lyft)",
+     "url": "https://www.lyft.com/blog/posts/lyft-welcomes-suzie-reider"
+    },
+    {
+     "label": "Career chronology across Ziff-Davis, CNET, YouTube, and Waze (Middlebury College)",
+     "url": "https://www.middlebury.edu/middcore/suzie-reider"
+    },
+    {
+     "label": "Institutional biography describing YouTube and Waze leadership (Middlebury College)",
+     "url": "https://www.middlebury.edu/about-middlebury/suzanne-reider-87"
+    },
+    {
+     "label": "Independent report on the Lyft appointment (MediaPost)",
+     "url": "https://www.mediapost.com/publications/article/401629/googles-suzie-reider-joins-lyft.html"
+    },
+    {
+     "label": "Independent report on Waze's pandemic advertising dependence (Business Insider)",
+     "url": "https://www.businessinsider.com/how-googles-waze-salvaged-its-ad-business-amid-the-coronavirus-2020-6"
+    },
+    {
+     "label": "Podcast interview in which Reider discusses Waze traffic and retail-advertising dependence (Modern Retail)",
+     "url": "https://www.modernretail.co/retailers/wazes-suzie-reider-on-the-return-of-road-traffic-and-the-retailers-that-depend-on-it/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-kenny-gold",
+   "date": "2026-07-27",
+   "title": "Kenny Gold",
+   "origin": {
+    "kind": "article",
+    "label": "Kenny Gold: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/kenny-gold"
+   },
+   "id": "Case: Kenny Gold",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Edelman appointment, reporting line, mandate, and existing team scale (Edelman)",
+     "url": "https://www.edelman.com/news-awards/kenny-gold-global-chief-creator-officer"
+    },
+    {
+     "label": "First-person account of moving into consulting and building at Deloitte Digital (Kenny Gold / LinkedIn)",
+     "url": "https://www.linkedin.com/posts/kennethrgold_nearly-five-years-ago-i-took-a-bet-on-myself-activity-7460702920838246400-2cVb"
+    },
+    {
+     "label": "Institutional biography documenting Grey and Deloitte roles (Advertising Educational Foundation)",
+     "url": "https://aef.com/partnership-programs/honors-night/honors2021/2021-champions/champion-gold/"
+    },
+    {
+     "label": "Staff write-up of a Cannes Lions 2023 panel, mostly Gold’s own reported remarks on creators and AI (BuzzInContent)",
+     "url": "https://www.buzzincontent.com/story/ai-is-an-ally-not-a-replacement-for-creators-deloitte-digital-single-s-kenny-gold/"
+    },
+    {
+     "label": "Podcast roundtable in which Gold describes his role and thesis (The CMO Podcast)",
+     "url": "https://podscan.fm/podcasts/the-cmo-podcast/episodes/the-creator-economy-roundtable-with-brandon-b-kim-larson-youtube-and-kenny-gold-deloitte-digital"
+    },
+    {
+     "label": "First-person articulation of creator autonomy in brand partnerships (Kenny Gold / LinkedIn)",
+     "url": "https://www.linkedin.com/videos/kennethrgold_creatoreconomy-advertising-content-activity-7394014142975721472-eu7w"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-steven-bartlett",
+   "date": "2026-07-27",
+   "title": "Steven Bartlett",
+   "origin": {
+    "kind": "article",
+    "label": "Steven Bartlett: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/steven-bartlett"
+   },
+   "id": "Case: Steven Bartlett",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Independent career profile (The Guardian)",
+     "url": "https://www.theguardian.com/tv-and-radio/2022/jan/06/how-steven-bartlett-went-from-dropout-to-youngest-ever-dragons-den-investor"
+    },
+    {
+     "label": "Contemporaneous Social Chain listing report (Prolific North)",
+     "url": "https://www.prolificnorth.co.uk/news/social-chain-goes-public-german-stock-exchange/"
+    },
+    {
+     "label": "Contemporaneous founder-departure report (BusinessCloud)",
+     "url": "https://businesscloud.co.uk/news/social-chain-co-founders-steve-bartlett-and-dominic-mcgregor-leave-business/"
+    },
+    {
+     "label": "FlightStory description of the show (FlightStory)",
+     "url": "https://www.flightstory.com/shows/diary-of-a-ceo"
+    },
+    {
+     "label": "Steven.com system description (Steven.com)",
+     "url": "https://steven.com/"
+    },
+    {
+     "label": "Huel podcast advertising ruling (Advertising Standards Authority)",
+     "url": "https://www.asa.org.uk/rulings/huel-ltd-a22-1147672-huel-ltd.html"
+    },
+    {
+     "label": "Huel financial-interest disclosure ruling (Advertising Standards Authority)",
+     "url": "https://www.asa.org.uk/rulings/huel-ltd-g24-1237493-huel-ltd.html"
+    },
+    {
+     "label": "ZOE financial-interest disclosure ruling (Advertising Standards Authority)",
+     "url": "https://www.asa.org.uk/rulings/zoe-ltd-g24-1241850-zoe-ltd.html"
+    },
+    {
+     "label": "Originating investigation of health claims in 15 sampled episodes, with company response (BBC World Service)",
+     "url": "https://www.bbc.com/news/articles/c4gpz163vg2o"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-ashley-rudder",
+   "date": "2026-07-28",
+   "title": "Ashley Rudder",
+   "origin": {
+    "kind": "article",
+    "label": "Ashley Rudder: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/ashley-rudder"
+   },
+   "id": "Case: Ashley Rudder",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Whalar announcement defining the remit (Whalar / PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/whalar-names-ashley-rudder-first-ever-chief-creator-officer-301729971.html"
+    },
+    {
+     "label": "As-told-to essay in which Rudder describes how she became Whalar’s first global chief creator officer (Business Insider)",
+     "url": "https://www.businessinsider.com/whalar-global-chief-creator-officer-new-c-suite-role-position-2023-1"
+    },
+    {
+     "label": "Interview in which Rudder describes her career chronology and Deutsch role (Muse by Clio)",
+     "url": "https://musebyclios.com/culture-creators/ashley-rudder-on-steering-deutsch-n-y-deeper-into-creator-content/"
+    },
+    {
+     "label": "Institutional report on the Deutsch remit (Attivo Group)",
+     "url": "https://attivogroup.co/news/dnys-ashley-rudder-talks-to-muse-by-clio-about-delving-deeper-into-creator-content/"
+    },
+    {
+     "label": "Creator collective record (HAUS OF SÔS)",
+     "url": "https://www.hausofsos.com/"
+    },
+    {
+     "label": "Self-maintained role chronology (Ashley Rudder / LinkedIn)",
+     "url": "https://www.linkedin.com/in/ashleyrudder1"
+    },
+    {
+     "label": "Rudder’s own website (checked October 2026), listing M·A·C, Whalar, and Deutsch NY in her background (Ashley Rudder)",
+     "url": "https://ashleyrudder.com/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-gordon-glenister",
+   "date": "2026-07-28",
+   "title": "Gordon Glenister",
+   "origin": {
+    "kind": "article",
+    "label": "Gordon Glenister: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/gordon-glenister"
+   },
+   "id": "Case: Gordon Glenister",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Contemporaneous BPMA departure report (Sourcing City News)",
+     "url": "https://www.sourcingcitynews.co.uk/gordon-glenister-resigns-from-bpma/"
+    },
+    {
+     "label": "BCMA record of Glenister as Global Head of Influencer Marketing and Influence Global Podcast host (Branded Content Marketing Association)",
+     "url": "https://www.thebcma.info/team.html"
+    },
+    {
+     "label": "BCMA influencer guidelines and founding steering group (Branded Content Marketing Association)",
+     "url": "https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf"
+    },
+    {
+     "label": "Pitch Influence organizer and judging record (Branded Content Marketing Association)",
+     "url": "https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20-%20Pitch%20Influence%202020%20-%20Winners%20Announced.pdf"
+    },
+    {
+     "label": "Podcast interview in which Glenister describes the BPMA transition and joint BCMA launch (Bigeye)",
+     "url": "https://www.bigeyeagency.com/podcast/influencer-marketing-strategy-with-gordon-glenister"
+    },
+    {
+     "label": "Influence Global distribution record (Apple Podcasts)",
+     "url": "https://podcasts.apple.com/gb/podcast/influence-global/id1463375054"
+    },
+    {
+     "label": "Influencer Marketing Strategy publisher record (Kogan Page)",
+     "url": "https://www.koganpage.com/marketing-communications/influencer-marketing-strategy-9781398615236"
+    },
+    {
+     "label": "Joint ISBA/IMTB code, scope, recognition, and signatories (Influencer Marketing Trade Body)",
+     "url": "https://imtb.org.uk/influencer-marketing-code-of-conduct/"
+    },
+    {
+     "label": "ISBA release announcing the refreshed Influencer Marketing Code of Conduct with IMTB (ISBA)",
+     "url": "https://www.isba.org.uk/article/isba-and-imtb-launch-refreshed-and-comprehensive-influencer-marketing-code-conduct"
+    },
+    {
+     "label": "ISBA privacy policy, giving the organization’s full name (The Incorporated Society of British Advertisers Ltd) (ISBA)",
+     "url": "https://www.isba.org.uk/privacy-policy"
+    },
+    {
+     "label": "Regulator guidance placing the code within wider advertising rules (Advertising Standards Authority)",
+     "url": "https://www.asa.org.uk/advice-and-resources/resource-library/influencer-marketing-key-advice-resources.html"
+    },
+    {
+     "label": "ASA and IMTB weight-loss-drug advertising communication (IMTB / ASA)",
+     "url": "https://imtb.org.uk/imtb-partners-with-asa-to-warn-weight-loss-drug-advertisers/"
+    },
+    {
+     "label": "Current founder-led services and media portfolio (Gordon Glenister)",
+     "url": "https://www.gordonglenister.com/about"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-claire-zau",
+   "date": "2026-07-28",
+   "title": "Claire Zau",
+   "origin": {
+    "kind": "article",
+    "label": "Claire Zau: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/claire-zau"
+   },
+   "id": "Case: Claire Zau",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Current title, investment stage, new-media remit, and Lightwork role (Lightspeed Venture Partners)",
+     "url": "https://lsvp.com/team-member/claire-zau/"
+    },
+    {
+     "label": "First-person Lightspeed appointment and prior-work chronology (Claire Zau / LinkedIn)",
+     "url": "https://www.linkedin.com/posts/clairezau_im-beyond-excited-to-announce-that-im-joining-activity-7460414042734706688-8Xjn"
+    },
+    {
+     "label": "Independent report on dual mandate, reporting lines, Launch, and personal-channel independence (Business Insider)",
+     "url": "https://www.businessinsider.com/why-lightspeed-ventures-hired-first-creator-seed-investor-claire-zau-2026-5"
+    },
+    {
+     "label": "Independent profile of the GSV-to-Lightspeed transition and audience growth (Fortune)",
+     "url": "https://fortune.com/media/a9e68e36-f547-4aed-ad61-fcb1ebfff0a9"
+    },
+    {
+     "label": "Former Partner and AI Lead biography (GSV Ventures)",
+     "url": "https://gsv.ventures/our-team/"
+    },
+    {
+     "label": "Prior investing, programming, and thought-leadership work (ASU+GSV Summit)",
+     "url": "https://asugsvsummit.com/speakers/claire-zau"
+    },
+    {
+     "label": "Institutional AI & Education Weekly hosting record (ASU+GSV Summit)",
+     "url": "https://asugsvsummit.com/video/ai-education-weekly-with-claire-zau-gsvtv-2"
+    },
+    {
+     "label": "Independent institutional listing of the AI-and-education newsletter (Stanford University)",
+     "url": "https://edupreneurship.stanford.edu/resource/education-innovation-newsletters/"
+    },
+    {
+     "label": "Forbes 30 Under 30 2025 list entry giving her GSV role and named AI investments (a listing card, not a reported article) (Forbes)",
+     "url": "https://www.forbes.com/profile/claire-zau/"
+    },
+    {
+     "label": "Pre-existing founder-support program (Lightspeed Venture Partners)",
+     "url": "https://lsvp.com/launch/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-brad-keywell",
+   "date": "2026-07-28",
+   "title": "Brad Keywell",
+   "origin": {
+    "kind": "article",
+    "label": "Brad Keywell: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/brad-keywell"
+   },
+   "id": "Case: Brad Keywell",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Public-company biography documenting board service, Uptake, and Gigawatt roles (TKO Group Holdings)",
+     "url": "https://investor.tkogrp.com/governance/board-of-directors/person-details/default.aspx?ItemId=f95e7a1b-cc0b-44ce-b659-480fbd29ef73"
+    },
+    {
+     "label": "Contemporaneous report on the Starbelly acquisition (Chicago Tribune)",
+     "url": "https://www.chicagotribune.com/2000/01/24/ha-lo-buys-starbellycom-go2callcom-revs-up-its-search-engine/"
+    },
+    {
+     "label": "Groupon public filing documenting founders, governance, and company history (U.S. Securities and Exchange Commission)",
+     "url": "https://www.sec.gov/Archives/edgar/data/1490281/000104746911005613/a2203913zs-1.htm"
+    },
+    {
+     "label": "Company announcement of the Donovan Data Systems and MediaBank merger forming Mediaocean (Mediaocean)",
+     "url": "https://www.mediaocean.com/donovan-data-mediabank-merge"
+    },
+    {
+     "label": "Founder and chair role in the civic ideas platform (Chicago Ideas)",
+     "url": "https://www.chicagoideas.com/people/brad-keywell"
+    },
+    {
+     "label": "Founding-chair record and cross-venture biography (Future Founders)",
+     "url": "https://www.futurefounders.com/bradkeywell/"
+    },
+    {
+     "label": "State announcement creating the Illinois Innovation Council (State of Illinois)",
+     "url": "https://www.illinois.gov/news/release.html?releaseid=9229"
+    },
+    {
+     "label": "Independent profile documenting the Booth teaching role and entrepreneurship record (Chicago Tribune)",
+     "url": "https://www.chicagotribune.com/2014/02/17/brad-keywell-2/"
+    },
+    {
+     "label": "Independent report on Uptake’s $117 million round and $2 billion valuation (VentureBeat)",
+     "url": "https://venturebeat.com/2017/11/30/uptake-raises-117-million-to-spot-inefficiencies-in-industrial-machinery"
+    },
+    {
+     "label": "Uptake founder narrative and 2019 entrepreneurship award (EY)",
+     "url": "https://www.ey.com/en_gl/weoy/ey-world-entrepreneur-of-the-year-2019-brad-keywell-us"
+    },
+    {
+     "label": "GE complaint, General Electric Co. v. Uptake Technologies, Inc., No. 1:18-cv-08267 (N.D. Ill.), stating disputed commercial and personnel allegations against Uptake and six former GE employees (U.S. District Court, Northern District of Illinois / CourtListener)",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.359541/gov.uscourts.ilnd.359541.1.0.pdf"
+    },
+    {
+     "label": "Court docket, including the June 25, 2019 order on the motions to dismiss (Dkt. 34) and the August 1, 2019 stipulated dismissal (Dkt. 37) (U.S. District Court, Northern District of Illinois / CourtListener)",
+     "url": "https://www.courtlistener.com/docket/8422110/general-electric-company-v-uptake-technologies-inc/"
+    },
+    {
+     "label": "Trade report, citing the Chicago Tribune, on Uptake laying off 51 employees in January 2018 (TechStartups)",
+     "url": "https://techstartups.com/2018/01/09/unicorn-startup-uptake-technologies-laid-off-51-employees-after-a-2-billion-valuation/"
+    },
+    {
+     "label": "Uptake press release on Kayne Grau becoming CEO and Keywell becoming executive chairman (Uptake / PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/uptake-appoints-kayne-grau-as-ceo-301393247.html"
+    },
+    {
+     "label": "Independent report that the opposing GE and Uptake suits settled without disclosed terms (Chicago Business Journal)",
+     "url": "https://www.bizjournals.com/chicago/news/2019/08/05/ge-and-uptake-agree-to-make-nice-settle-opposing.html"
+    },
+    {
+     "label": "Independent account identifying the wider WNDR creative operation (Newcity Design)",
+     "url": "https://design.newcity.com/2023/08/30/question-everything-how-david-allen-creates-instagrammable-wndr-museum-experiences-without-selling-his-soul/"
+    },
+    {
+     "label": "Independent report on WNDR expansion and its studio team (The Daily Aztec)",
+     "url": "https://thedailyaztec.com/112248/artsandculture/interactive-wndr-museum-to-open-first-west-coast-location-in-san-diego/"
+    },
+    {
+     "label": "Archived museum page recording Keywell’s 2020 installation (the live page now redirects to the museum home page) (WNDR Museum, via the Internet Archive)",
+     "url": "https://web.archive.org/web/20260511030306/https://www.wndrmuseum.com/installations/chicago/we-are-all-artists"
+    },
+    {
+     "label": "Local report that WNDR Museum Chicago would close on September 7, 2026 (ABC7 Chicago)",
+     "url": "https://abc7chicago.com/post/wndr-museum-chicagos-west-loop-close-month/19701792/"
+    },
+    {
+     "label": "Local report that WNDR Museum Boston would close on August 30, 2026 and Chicago on September 7 (Boston.com)",
+     "url": "https://boston.com/news/local-news/2026/08/18/downtown-boston-immersive-art-museum-announces-closure"
+    },
+    {
+     "label": "Current operating team and founder role at Gigawatt (Gigawatt AI)",
+     "url": "https://gigawatt.ai/company/"
+    },
+    {
+     "label": "First-person statement introducing the utility-AI thesis (Brad Keywell / LinkedIn)",
+     "url": "https://www.linkedin.com/pulse/introducing-gigawatt-foundation-next-era-utilities-brad-keywell-ddjre"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-klitos-teklos",
+   "date": "2026-07-28",
+   "title": "Klitos Teklos",
+   "origin": {
+    "kind": "article",
+    "label": "Klitos Teklos: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/klitos-teklos"
+   },
+   "id": "Case: Klitos Teklos",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "First-person career and Estée Lauder portfolio biography (Klitos Teklos)",
+     "url": "https://www.klitosteklos.com/about"
+    },
+    {
+     "label": "Studio services, residencies, and named brand partnerships (Tēklos Studio)",
+     "url": "https://www.klitosteklos.com/"
+    },
+    {
+     "label": "Self-maintained chronology across AIR PARIS, Estée Lauder, studio, and brand work (Klitos Teklos / LinkedIn)",
+     "url": "https://www.linkedin.com/in/klitosteklos"
+    },
+    {
+     "label": "Long-form interview on education and early agency career (Anna Krith)",
+     "url": "https://annakrith.wordpress.com/2017/09/09/klitos-teklos-interview-with-the-cypriot-creative-director-who-conquers-ny/"
+    },
+    {
+     "label": "Models.com directory page with role, biography, and selected creative credits (a listing with no byline or reporting) (Models.com)",
+     "url": "https://models.com/people/klitos-teklos"
+    },
+    {
+     "label": "Institutional executive listing for the Estée Lauder role (Comparably)",
+     "url": "https://www.comparably.com/companies/estee-lauder-companies/klitos-teklos"
+    },
+    {
+     "label": "First-person account of the LAB SERIES repositioning (Klitos Teklos / LinkedIn)",
+     "url": "https://www.linkedin.com/posts/klitosteklos_how-est%C3%A9e-lauder-cos-lab-series-reinvented-activity-6890293930697850880-Fm8W"
+    },
+    {
+     "label": "Independent appointment report and stated remit (WWD)",
+     "url": "https://wwd.com/business-news/human-resources/tory-burch-names-klitos-teklos-chief-brand-officer-1239054554/"
+    },
+    {
+     "label": "Independent report identifying the first-holder mandate (The Business of Fashion)",
+     "url": "https://www.businessoffashion.com/news/luxury/tory-burch-names-first-chief-brand-officer/"
+    },
+    {
+     "label": "Independent report on studio clients, Gap beauty work, and Tory Burch responsibilities (FashionUnited)",
+     "url": "https://fashionunited.uk/news/people/tory-burch-names-klitos-teklos-chief-brand-officer/2026070889056"
+    },
+    {
+     "label": "First-person Tory Burch appointment statement (Klitos Teklos / LinkedIn)",
+     "url": "https://www.linkedin.com/posts/klitosteklos_tory-burch-appoints-klitos-teklos-chief-brand-activity-7482395717081387008-NNk2"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-charlotte-tansill",
+   "date": "2026-07-28",
+   "title": "Charlotte Tansill",
+   "origin": {
+    "kind": "article",
+    "label": "Charlotte Tansill: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/charlotte-tansill"
+   },
+   "id": "Case: Charlotte Tansill",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Ogilvy announcement of Tansill's global PR strategy role (Ogilvy)",
+     "url": "https://www.ogilvy.com/ideas/ogilvy-pr-appoints-global-chief-creative-officer-global-chief-strategy-officer"
+    },
+    {
+     "label": "Independent report on the North America PR, social and influence promotion (PRWeek)",
+     "url": "https://www.prweek.com/article/1809894/ogilvy-pr-ups-charlotte-tansill-president-pr-social-influence"
+    },
+    {
+     "label": "PRovoke Media Innovator 25 Americas 2024 entry on Ogilvy tenure and integrated-work thesis, with a questionnaire answered by Tansill (PRovoke Media)",
+     "url": "https://www.provokemedia.com/ranking-and-data/innovator-25/innovator-25-2024/innovator-25-americas-2024/charlotte-tansill"
+    },
+    {
+     "label": "Independent 2025 role and career profile (PRWeek)",
+     "url": "https://www.prweek.com/article/1926246/prweek-power-list-2025-30-charlotte-tansill-ogilvy-pr"
+    },
+    {
+     "label": "Ogilvy account of the campaign's integrated channel structure (Ogilvy)",
+     "url": "https://www.ogilvy.com/ideas/how-cerave-broke-mold-won-super-bowl"
+    },
+    {
+     "label": "Joint interview with Tansill and CeraVe executive Adam Kornblum (Wharton School)",
+     "url": "https://knowledge.wharton.upenn.edu/podcast/marketing-matters/charlotte-tansill-adam-kornblum-on-ceraves-super-bowl-ad-campaign/"
+    },
+    {
+     "label": "Detailed multi-organization campaign credit record (The One Club for Creativity)",
+     "url": "https://www.oneclub.org/awards/theoneshow/-award/52822/michael-cerave/"
+    },
+    {
+     "label": "Additional client, agency, creator, and production credits (Shorty Awards)",
+     "url": "https://shortyawards.com/17th/cerave-michael-cerave"
+    },
+    {
+     "label": "Announcement-style report on the Publicis appointment, reporting line, leadership membership, and remit (company framing, no outside sourcing) (Little Black Book)",
+     "url": "https://lbbonline.com/news/Charlotte-Tansill-Publicis-Creative-US-President-Social-Creator-Earned"
+    },
+    {
+     "label": "Independent report on the newly created Publicis role (PRWeek)",
+     "url": "https://www.prweek.com/article/1940878/publicis-creative-us-hires-charlotte-tansill-president-social-creator-earned"
+    },
+    {
+     "label": "Independent career chronology and Publicis remit (MediaPost)",
+     "url": "https://www.mediapost.com/publications/article/410937/ogilvy-veteran-tansill-will-lead-us-social-creato.html"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-kunal-shah",
+   "date": "2026-10-08",
+   "title": "Kunal Shah",
+   "origin": {
+    "kind": "article",
+    "label": "Kunal Shah: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/kunal-shah"
+   },
+   "id": "Case: Kunal Shah",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Snapdeal acquires FreeCharge, hopes for surge in growth rate (Forbes India)",
+     "url": "https://www.forbesindia.com/article/special/snapdeal-acquires-freecharge-hopes-for-surge-in-growth-rate/39991/1"
+    },
+    {
+     "label": "Snapdeal continues acquisition run, acquires FreeCharge for undisclosed amount (The Tech Portal)",
+     "url": "https://thetechportal.com/2015/04/08/snapdeal-freecharge-acquisition/"
+    },
+    {
+     "label": "How FreeCharge found its Mojo (Founding Fuel)",
+     "url": "https://www.foundingfuel.com/article/how-freecharge-found-its-mojo"
+    },
+    {
+     "label": "Snapdeal acquires FreeCharge (TechCrunch)",
+     "url": "https://techcrunch.com/2015/04/08/snapdeal-freecharge/"
+    },
+    {
+     "label": "Snapdeal buys Freecharge in mobile transactions push (Reuters via Business Today)",
+     "url": "https://www.businesstoday.in/story/snapdeal-buys-freecharge-in-mobile-transactions-push/1/217887.html"
+    },
+    {
+     "label": "FreeCharge CEO Govind Rajan resigns from the company (MediaNama)",
+     "url": "https://www.medianama.com/2017/02/223-freecharge-ceo-govind-rajan-resigns/"
+    },
+    {
+     "label": "Senior Level Exit At Snapdeal Continues; FreeCharge CEO Govind Rajan Quits (Inc42)",
+     "url": "https://inc42.com/buzz/govind-rajan-quits-freecharge"
+    },
+    {
+     "label": "Axis Bank acquires Freecharge for Rs 385 crore (Business Today)",
+     "url": "https://www.businesstoday.in/latest/corporate/story/axis-bank-acquires-freecharge-for-rs-385-crore-snapdeal-paytm-85237-2017-07-27"
+    },
+    {
+     "label": "Snapdeal Sells FreeCharge To Axis Bank For $60 Million, Two Years After Buying It For $400 Million (OfficeChai)",
+     "url": "https://officechai.com/news/snapdeal-sells-freecharge-axis-bank-60-million-two-years-buying-400-million"
+    },
+    {
+     "label": "CRED to raise ₹8,550 crore (~US$900M) from Meta (CRED (Dreamplug Technologies))",
+     "url": "https://newsroom.cred.club/cred-to-raise-8-550-crore-us-900m-from-meta/"
+    },
+    {
+     "label": "Kunal Shah steps down as promoter, board member of Cred on joining WhatsApp (Mint)",
+     "url": "https://www.livemint.com/companies/people/kunal-shah-promoter-board-member-cred-whatsapp-meta-platforms-shareholding-11784023818673.html"
+    },
+    {
+     "label": "WhatsApp gets a new boss: Kunal Shah to lead platform as Meta bets $900 million on CRED (Business Today)",
+     "url": "https://www.businesstoday.in/amp/technology/story/whatsapp-gets-a-new-boss-kunal-shah-to-lead-platform-as-meta-bets-900-million-on-cred-538544-2026-06-22"
+    },
+    {
+     "label": "WhatsApp's pick of Indian fintech founder signals scale of payment ambitions (Reuters via Deccan Herald)",
+     "url": "https://www.deccanherald.com/business/companies/whatsapps-pick-of-indian-fintech-founder-signals-scale-of-payment-ambitions-4051866"
+    },
+    {
+     "label": "CRED lands ₹8,550 crore from Meta; founder Kunal Shah exits CEO role ahead of 'eventual IPO' (Upstox)",
+     "url": "https://upstox.com/news/business-news/latest-updates/cred-lands-8-550-crore-from-meta-founder-kunal-shah-exits-ceo-role-ahead-of-eventual-ipo/article-195780/"
+    },
+    {
+     "label": "Kunal Shah, Aman Gupta, Anupam Mittal among most active angel investors (Mint)",
+     "url": "https://www.livemint.com/companies/start-ups/kunal-shah-aman-gupta-anupam-mittal-among-most-active-angel-investors-11672327213544.html"
+    },
+    {
+     "label": "WhatsApp gets new chief as Meta taps India's CRED founder Kunal Shah and invests $900M in startup (TechCrunch)",
+     "url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/"
+    },
+    {
+     "label": "CRED raises $72 Mn from Lathe, Kunal Shah's QED and others (Entrackr)",
+     "url": "https://entrackr.com/news/cred-raises-72-mn-from-lathe-kunal-shahs-qed-and-others-9349417"
+    },
+    {
+     "label": "Cred FY25 revenue rises 16% to Rs 2,735 crore, losses narrow (Economic Times (ETtech))",
+     "url": "https://m.economictimes.com/tech/startups/cred-fy25-revenue-rises-16-to-rs-2735-crore-losses-narrow/articleshow/127796869.cms"
+    },
+    {
+     "label": "CRED reports Rs 2,735 Cr revenue in FY25; operating losses fall 51% (Entrackr)",
+     "url": "https://entrackr.com/news/cred-reports-rs-2735-cr-revenue-in-fy25-operating-losses-fall-51-11058243"
+    },
+    {
+     "label": "RBI authorizes CRED to operate as a payment aggregator (CRED (Dreamplug Technologies))",
+     "url": "https://newsroom.cred.club/rbi-authorizes-cred-to-operate-as-a-payment-aggregator/"
+    },
+    {
+     "label": "RBI clears CRED to become payments aggregator (The Week)",
+     "url": "https://www.theweek.in/news/biz-tech/2026/03/11/rbi-clears-cred-to-become-payments-aggregator.html"
+    },
+    {
+     "label": "A note on trust (CRED (Dreamplug Technologies))",
+     "url": "https://newsroom.cred.club/a-note-on-trust/"
+    },
+    {
+     "label": "Meta Invests $900 Million in Cred, Taps Founder to Head WhatsApp (Bloomberg)",
+     "url": "https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment"
+    },
+    {
+     "label": "Meta Platforms, Inc. in connection with its USD 900 mn investment in Cred (AZB & Partners)",
+     "url": "https://www.azbpartners.com/bank/meta-platforms-inc-in-connection-with-its-usd-900-mn-investment-in-cred-dreamplug-technologies-private-limited/"
+    },
+    {
+     "label": "Latham & Watkins Advises Meta on Investment in CRED (Latham & Watkins)",
+     "url": "https://www.lw.com/en/news/2026/06/latham-watkins-advises-meta-on-investment-in-cred"
+    },
+    {
+     "label": "Trilegal, Cooley, AZB, Latham, SAM, CMS INDUSLAW act on CRED securing $900 million from Meta (Bar & Bench)",
+     "url": "https://www.barandbench.com/amp/story/dealstreet/trilegal-azb-latham-sam-cms-induslaw-act-on-cred-securing-900-from-meta"
+    },
+    {
+     "label": "Meta's $900 Mn CRED Deal And Why Kunal Shah Stepped Away (Inc42)",
+     "url": "https://inc42.com/features/metas-900-mn-cred-deal-and-why-kunal-shah-stepped-away/"
+    },
+    {
+     "label": "As Kunal Shah heads to WhatsApp, Meta commits $900 million to CRED (People Matters)",
+     "url": "https://www.peoplematters.in/amp/news/funding-and-investment/as-kunal-shah-heads-to-whatsapp-meta-commits-dollar900-million-to-cred-50445"
+    },
+    {
+     "label": "Kunal Shah Leaves CRED For Top Role At WhatsApp (Inc42)",
+     "url": "https://inc42.com/buzz/kunal-shah-leaves-cred-for-top-role-at-whatsapp/"
+    },
+    {
+     "label": "WhatsApp head Will Cathcart is stepping down after seven years (The Verge)",
+     "url": "https://www.theverge.com/tech/953464/whatsapp-will-cathcart-stepping-down-cred"
+    },
+    {
+     "label": "Meta Invests $900 mn In India's Cred; Makes Kunal Shah Global Chief of WhatsApp (Deccan Chronicle)",
+     "url": "https://deccanchronicle.com/business/companies/meta-invests-900-mn-in-indias-cred-makes-kunal-shah-global-chief-of-whatsapp-1965459"
+    },
+    {
+     "label": "How Kunal Shah Was Appointed As WhatsApp CEO, Meta's CPO Chris Cox Reveals (Outlook Business)",
+     "url": "https://www.outlookbusiness.com/corporate/how-kunal-shah-was-appointed-as-whatsapp-ceo-metas-cpo-chris-cox-reveals"
+    },
+    {
+     "label": "CRED-Meta deal: Why is Meta paying $900 mn for CRED's largest minority stake? (Business Today)",
+     "url": "https://www.businesstoday.in/technology/story/cred-meta-deal-why-is-meta-paying-900-mn-for-creds-largest-minority-stake-538741-2026-06-23"
+    },
+    {
+     "label": "Two Big Concerns on Meta's $900-Million Investment in CRED (The Wire)",
+     "url": "https://thewire.in/business/two-big-concerns-on-metas-900-million-investment-in-cred"
+    },
+    {
+     "label": "Kunal Shah exits Cred board after Meta appointment (ETBFSI (Economic Times))",
+     "url": "https://bfsi.economictimes.indiatimes.com/news/financial-services/kunal-shah-exits-cred-board-after-meta-appointment/132433359"
+    },
+    {
+     "label": "WhatsApp Global CEO Kunal Shah Exits Cred Promoter Role (Outlook Business)",
+     "url": "https://www.outlookbusiness.com/corporate/whatsapp-global-ceo-kunal-shah-exits-cred-promoter-role"
+    },
+    {
+     "label": "Meta Platforms, Inc. quarterly report for the period ended June 30, 2026 (U.S. Securities and Exchange Commission (Meta Platforms, Inc. Form 10-Q))",
+     "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/meta-20260630.htm"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-mo-gawdat",
+   "date": "2026-07-28",
+   "title": "Mo Gawdat",
+   "origin": {
+    "kind": "article",
+    "label": "Mo Gawdat: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/mo-gawdat"
+   },
+   "id": "Case: Mo Gawdat",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Independent profile of the Google career, bereavement, and happiness framework (The Guardian)",
+     "url": "https://www.theguardian.com/technology/2017/apr/30/google-mo-gawdat-solve-for-happy-interview"
+    },
+    {
+     "label": "Current first-person career, books, podcast, and venture account (Mo Gawdat)",
+     "url": "https://www.mogawdat.com/"
+    },
+    {
+     "label": "Institutional biography documenting former X role and public platform (International Telecommunication Union)",
+     "url": "https://aiforgood.itu.int/speaker/mo-gawdat/"
+    },
+    {
+     "label": "Publisher record for Solve for Happy and its stated framework (Pan Macmillan)",
+     "url": "https://www.panmacmillan.com/authors/mo-gawdat/solve-for-happy/9781509833726"
+    },
+    {
+     "label": "Publisher record for Scary Smart and its AI thesis (Pan Macmillan)",
+     "url": "https://www.panmacmillan.com/authors/mo-gawdat/scary-smart/9781529077650"
+    },
+    {
+     "label": "Platform record for Slo Mo ownership, run, and episode count (Apple Podcasts)",
+     "url": "https://podcasts.apple.com/us/podcast/slo-mo-a-podcast-with-mo-gawdat/id1508914142"
+    },
+    {
+     "label": "Report on Flight Story’s chief AI officer appointment, drawn from the company’s announcement (adds no independent reporting) (Tech.eu)",
+     "url": "https://tech.eu/2023/05/31/ex-google-x-mo-gawdat-joins-flight-story-as-lead-on-how-ai-will-impact-the-digital-marketing-firm/"
+    },
+    {
+     "label": "Second report of the Flight Story appointment, drawn from the company’s announcement (adds no independent reporting) (BusinessCloud)",
+     "url": "https://businesscloud.co.uk/news/former-google-x-chief-to-head-up-ai-at-flight-story/"
+    },
+    {
+     "label": "Current company claims and founder role (Emma)",
+     "url": "https://emma.love/"
+    },
+    {
+     "label": "First-person introduction of the Emma product (Mo Gawdat / LinkedIn)",
+     "url": "https://www.linkedin.com/posts/mogawdat_ive-been-talking-for-several-years-about-activity-7361688826286686209-OOvp"
+    },
+    {
+     "label": "Independent event report on Emma's stated boundaries and accountability (Sharjah 24)",
+     "url": "https://sharjah24.ae/en/Articles/2026/02/01/AL018"
+    },
+    {
+     "label": "Independent report contrasting Gawdat's job-loss prediction with other industry views (Business Insider)",
+     "url": "https://www.businessinsider.com/ex-google-exec-predicts-end-of-white-collar-jobs-starting-in-2027-2025-8"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-josephus-allmond",
+   "date": "2026-07-27",
+   "title": "Josephus Allmond",
+   "origin": {
+    "kind": "article",
+    "label": "Josephus Allmond: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/josephus-allmond"
+   },
+   "id": "Case: Josephus Allmond",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Governor creates the office and announces the appointment (Commonwealth of Virginia)",
+     "url": "https://www.governor.virginia.gov/newsroom/news-releases/2026/march-releases/name-1114943-en.html"
+    },
+    {
+     "label": "Executive Order 14 (2026), Establishing the Role of Chief Energy Officer (Commonwealth of Virginia)",
+     "url": "https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/eo/EO-14-ESTABLISHING-THE-ROLE-OF-CHIEF-ENERGY-OFFICER.pdf"
+    },
+    {
+     "label": "Official biography and prior utility-regulation work (Commonwealth of Virginia)",
+     "url": "https://www.governor.virginia.gov/cabinet/name-1114976-en.html"
+    },
+    {
+     "label": "Independent report on the office’s creation (Virginia Mercury)",
+     "url": "https://virginiamercury.com/2026/03/25/spanberger-creates-new-cabinet-position-appoints-selcs-josephus-allmond-chief-energy-officer/"
+    },
+    {
+     "label": "Independent profile of the office’s energy-policy challenge (WHRO / Virginia Center for Investigative Journalism)",
+     "url": "https://www.whro.org/virginia-center-for-investigative-journalism/2026-06-17/vcij-josephus-allmond"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-peter-diamandis",
+   "date": "2026-07-28",
+   "title": "Peter Diamandis",
+   "origin": {
+    "kind": "article",
+    "label": "Peter Diamandis: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/peter-diamandis"
+   },
+   "id": "Case: Peter Diamandis",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Independent profile of early institutions and venture pattern (Wired)",
+     "url": "https://www.wired.com/2012/06/mf-icons-diamandis/"
+    },
+    {
+     "label": "Institutional record naming ISU’s three founders, including Diamandis (International Space University)",
+     "url": "https://www.isunet.edu/wp-content/uploads/2026/01/ANNUAL-REPORT-2024–2025-Public-Version.pdf"
+    },
+    {
+     "label": "XPRIZE's 30-year history and Ansari contribution (XPRIZE)",
+     "url": "https://www.xprize.org/news/celebrating-30-years-of-xprize"
+    },
+    {
+     "label": "First-person account of securing the purse and operating the prize (Peter Diamandis)",
+     "url": "https://www.diamandis.com/blog/how-xprize-works"
+    },
+    {
+     "label": "X PRIZE Foundation announcement of the Ansari family contribution and the Ansari X Prize title (SpaceNews (reproducing the X PRIZE Foundation press release))",
+     "url": "https://spacenews.com/celebrating-anniversary-of-historic-space-flight-ansari-familys-donation-gives-huge-boost-to-future-space-travel-and-tourism/"
+    },
+    {
+     "label": "XPRIZE profile of the Ansari family and the 2004 competition sponsorship (XPRIZE)",
+     "url": "https://www.xprize.org/people/the-ansari-family"
+    },
+    {
+     "label": "Contemporaneous report crediting the winning team, pilot, designer, and financier (Wired)",
+     "url": "https://www.wired.com/2004/10/spaceshipone-wins-the-x-prize/"
+    },
+    {
+     "label": "Singularity biography and current affiliated roles (Singularity)",
+     "url": "https://www.su.org/team/peter-diamandis"
+    },
+    {
+     "label": "Independent report on Planetary Resources' formation and distributed backing (Reuters)",
+     "url": "https://www.reuters.com/article/us-space-asteroids-idUSBRE83N06U20120424/"
+    },
+    {
+     "label": "Independent report on Planetary Resources' financing difficulty and asset acquisition (SpaceNews)",
+     "url": "https://spacenews.com/asteroid-mining-company-planetary-resources-acquired-by-blockchain-firm/"
+    },
+    {
+     "label": "XPRIZE CEO succession announcement (XPRIZE)",
+     "url": "https://www.xprize.org/news/xprize-foundation-announces-new-ceo"
+    },
+    {
+     "label": "Investigation of the Abundance 360 COVID-19 outbreak (MIT Technology Review)",
+     "url": "https://www.technologyreview.com/2021/02/13/1018374/peter-diamandis-covid-superspreader-a360-conference/"
+    },
+    {
+     "label": "Independent report on the outbreak and response (The Washington Post)",
+     "url": "https://www.washingtonpost.com/nation/2021/02/16/peter-diamandis-summit-coronavirus-outbreak/"
+    },
+    {
+     "label": "First-person apology and risk-assumption review (Peter Diamandis)",
+     "url": "https://www.diamandis.com/blog/false-sense-security"
+    },
+    {
+     "label": "Institutional record for the Healthspan competition (XPRIZE)",
+     "url": "https://www.xprize.org/competitions/healthspan"
+    },
+    {
+     "label": "Current first-person portfolio and impact claims (Peter Diamandis)",
+     "url": "https://www.diamandis.com/about"
+    },
+    {
+     "label": "Current membership, audience, and commercial positioning (Abundance 360)",
+     "url": "https://www.abundance360.com/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-noubar-afeyan",
+   "date": "2026-07-28",
+   "title": "Noubar Afeyan",
+   "origin": {
+    "kind": "article",
+    "label": "Noubar Afeyan: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/noubar-afeyan"
+   },
+   "id": "Case: Noubar Afeyan",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Current first-party biography and portfolio claims (Flagship Pioneering)",
+     "url": "https://www.flagshippioneering.com/people/noubar-afeyan"
+    },
+    {
+     "label": "Institutional biography and prior-company chronology (MIT)",
+     "url": "https://jclinic.mit.edu/team-member/noubar-afeyan/"
+    },
+    {
+     "label": "First-party explanation of the venture-creation process (Flagship Pioneering)",
+     "url": "https://www.flagshippioneering.com/stories/can-innovations-be-made-systematically-a-conversation-with-noubar-afeyan"
+    },
+    {
+     "label": "Independent examination of Flagship's model, claims, and risk (STAT)",
+     "url": "https://www.statnews.com/2021/02/16/flagship-pioneering-profile/"
+    },
+    {
+     "label": "Flagship's detailed Moderna formation timeline (Flagship Pioneering)",
+     "url": "https://www.flagshippioneering.com/companies/moderna"
+    },
+    {
+     "label": "Moderna registration statement covering formation, governance, risk, IP, and ownership (U.S. Securities and Exchange Commission)",
+     "url": "https://www.sec.gov/Archives/edgar/data/1682852/000119312518323562/d577473ds1.htm"
+    },
+    {
+     "label": "First public annual report and related-party disclosures (U.S. Securities and Exchange Commission)",
+     "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285219000013/moderna10-ka12312018.htm"
+    },
+    {
+     "label": "Regulatory record for Moderna's COVID-19 vaccine (U.S. Food and Drug Administration)",
+     "url": "https://www.fda.gov/vaccines-blood-biologics/coronavirus-covid-19-cber-regulated-biologics/moderna-covid-19-vaccine"
+    },
+    {
+     "label": "Annual report documenting government, manufacturing, clinical, and commercialization dependencies (U.S. Securities and Exchange Commission)",
+     "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285222000012/mrna-20211231.htm"
+    },
+    {
+     "label": "Independent report on Rubius restructuring and clinical-program termination (BioPharma Dive)",
+     "url": "https://www.biopharmadive.com/news/rubius-therapeutics-layoffs-restructuring/631744/"
+    },
+    {
+     "label": "Independent report on Kaleido's shutdown after financing difficulty (Fierce Biotech)",
+     "url": "https://www.fiercebiotech.com/biotech/cut-music-kaleido-calls-it-quits-after-fda-scrum-precipitated-pipeline-implosion"
+    },
+    {
+     "label": "Independent profile identifying succession as an active 25-year question (Boston Business Journal)",
+     "url": "https://www.bizjournals.com/boston/news/2025/11/25/noubar-afeyan-flagship-pioneering-profile.html"
+    },
+    {
+     "label": "Current board, compensation, affiliation, and beneficial-ownership disclosures (U.S. Securities and Exchange Commission)",
+     "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817926000081/mrna-courtesy-pdf.pdf"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-nadir-godrej",
+   "date": "2026-07-28",
+   "title": "Nadir Godrej",
+   "origin": {
+    "kind": "article",
+    "label": "Nadir Godrej: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/nadir-godrej"
+   },
+   "id": "Case: Nadir Godrej",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Shareholder notice documenting education, tenure, technical remit, office, and remuneration (Godrej Industries Limited)",
+     "url": "https://www.godrejindustries.com/uploads/GIL_AGM_Notice_a9d85fd77d.pdf"
+    },
+    {
+     "label": "Godrej Agrovet annual report documenting board structure, business portfolio, governance, and dependencies (Godrej Agrovet Limited)",
+     "url": "https://www.godrejindustries.com/uploads/GAVL_Annual_Report_FY_2024_25_ee7f989ef2.pdf"
+    },
+    {
+     "label": "Independent profile of Godrej’s poetry, mathematics, languages, and business life (Mint)",
+     "url": "https://www.livemint.com/Leisure/xZJAlF25G24S29HcsvF5KK/Rhymes-and-reasons.html"
+    },
+    {
+     "label": "Business Today report on a tribute poem Godrej wrote for Adi Godrej on his retirement as Godrej Industries chairman (Business Today)",
+     "url": "https://www.businesstoday.in/trending/story/nadir-godrej-pens-tribute-poem-to-brother-adi-godrej-on-his-retirement-as-godrej-industries-chairman-305521-2021-08-30"
+    },
+    {
+     "label": "Independent report on the family settlement, control division, and continued shared brand (Reuters)",
+     "url": "https://www.reuters.com/business/indias-godrej-family-agree-split-conglomerate-into-two-2024-05-01/"
+    },
+    {
+     "label": "Annual report preceding the family settlement and leadership transition (Godrej Industries Limited)",
+     "url": "https://www.godrejindustries.com/uploads/GIL_Annual_Report_2023_24_bd61855654.pdf"
+    },
+    {
+     "label": "Shareholder notice documenting reappointment and formal chair-and-managing-director terms (Godrej Industries Limited)",
+     "url": "https://www.godrejindustries.com/uploads/37th_AGM_Notice_1610edd5c3.pdf"
+    },
+    {
+     "label": "Independent April 2026 preview of the planned August 2026 chair transition (The Times of India)",
+     "url": "https://timesofindia.indiatimes.com/business/india-business/change-of-guard-pirojsha-to-take-over-from-nadir-godrej/articleshow/130249178.cms"
+    },
+    {
+     "label": "Godrej Industries press release and exchange filing announcing the planned generational succession and the August 14, 2026 chair transition (Godrej Industries Limited / BSE)",
+     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d5a71147-d5e0-4eda-bc23-f98c98cbcaed.pdf"
+    },
+    {
+     "label": "Godrej Properties exchange filing on Pirojsha Godrej's re-designation, citing the retirement of Nadir Godrej as chairperson and managing director of Godrej Industries (Godrej Properties Limited / BSE)",
+     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2f53812-4550-40aa-835d-7f6e9fd26971.pdf"
+    },
+    {
+     "label": "Annual report for 2025-26, published in July 2026, covering group governance and recording the board’s planned chair transition (Godrej Industries Limited)",
+     "url": "https://www.godrejindustries.com/uploads/Godrej_Industries_Limited_Annual_Report_2025_26_a51007baba.pdf"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-mrbeast",
+   "date": "2026-07-28",
+   "title": "MrBeast (Jimmy Donaldson)",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 002: Your Career Has a Supply Chain, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/002"
+   },
+   "id": "Case: MrBeast (Jimmy Donaldson)",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Primary channel record and current distribution scale (YouTube / MrBeast)",
+     "url": "https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA"
+    },
+    {
+     "label": "Independent long-form profile of the attention system, production model, philanthropy, and cultural complications (The Guardian)",
+     "url": "https://www.theguardian.com/news/2025/jun/03/mrbeast-jimmy-donaldson-youtube-videos-star"
+    },
+    {
+     "label": "Institutional campaign record and partner attribution (Team Trees / Arbor Day Foundation)",
+     "url": "https://teamtrees.org/"
+    },
+    {
+     "label": "Institutional campaign record and beneficiary-partner attribution (Team Seas)",
+     "url": "https://teamseas.org/"
+    },
+    {
+     "label": "Beast Investments federal complaint concerning licensing, control, quality, and reputation (dismissed without prejudice in August 2023) (U.S. District Court / CourtListener)",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.603226/gov.uscourts.nysd.603226.1.0.pdf"
+    },
+    {
+     "label": "Virtual Dining Concepts and Celebrity Virtual Dining complaint against Beast Investments and Donaldson, New York Supreme Court (NYSCEF Doc. 1) (New York Supreme Court / PR Newswire copy)",
+     "url": "https://mmx.prnewswire.com/media/2170765/Filed_Complaint_ID_8abf41bd1e8c.pdf"
+    },
+    {
+     "label": "Appellate decision affirming dismissal of three counterclaims, Beast Investments, LLC v. Celebrity Virtual Dining, LLC, 2025 NY Slip Op 03012 (New York Supreme Court, Appellate Division, First Department / CourtListener)",
+     "url": "https://storage.courtlistener.com/html/2025/05/20/beast_invs._llc_v._celebrity_virtual_dining_llc.html"
+    },
+    {
+     "label": "First-party consumer-product positioning and sourcing account (Feastables)",
+     "url": "https://feastables.com/pages/our-cocoa-story"
+    },
+    {
+     "label": "First-party creator-analytics product record (Viewstats)",
+     "url": "https://www.viewstats.com/"
+    },
+    {
+     "label": "Trade-press report of the December 2023 Viewstats launch and its co-founders (Tubefilter)",
+     "url": "https://www.tubefilter.com/2023/12/13/view-stats-analytics-statistics-mrbeast-jimmy-donaldson-chucky-appleby/"
+    },
+    {
+     "label": "Trade-press report of the Viewstats Pro paid tier (Tubefilter)",
+     "url": "https://www.tubefilter.com/2024/05/29/mrbeast-launches-viewstats-pro-premium-analytics-platform-jimmy-donaldson-jon-youshaei/"
+    },
+    {
+     "label": "Independent report using deposition and investor materials to document ownership, financing, employment scale, revenue, and profitability limits (Business Insider)",
+     "url": "https://www.businessinsider.com/mrbeast-revealed-ownership-stake-beast-industries-feastables-2025-11"
+    },
+    {
+     "label": "Independent profile of Beast Industries’ professional management and diversification (TIME)",
+     "url": "https://time.com/collection/time100-most-influential-companies/2026/beast-industries/"
+    },
+    {
+     "label": "Studio announcement of Beast Games and the Prime Video relationship (Amazon MGM Studios)",
+     "url": "https://press.amazonmgmstudios.com/us/en/press-release/prime-video-orders-ibeast-gamesi-from-mrbeast-and-"
+    },
+    {
+     "label": "Independent reporting on contestant safety and production-condition complaints (The New York Times)",
+     "url": "https://www.nytimes.com/2024/08/02/style/mrbeast-beast-games-competition-show.html"
+    },
+    {
+     "label": "Independent report on the proposed contestant class action and defendants (Variety)",
+     "url": "https://variety.com/2024/digital/news/mrbeast-amazon-sued-beast-games-contestants-class-action-1236148181/"
+    },
+    {
+     "label": "Independent report on media losses, Feastables profit, and Amazon production economics (Fortune)",
+     "url": "https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos/"
+    },
+    {
+     "label": "Amazon renewal announcement and reported global performance (Amazon MGM Studios)",
+     "url": "https://press.amazonmgmstudios.com/us/en/press-release/prime-video-gives-twoseason-renewal-to-global-hit-"
+    },
+    {
+     "label": "Independent report on INAH’s statement about the permits and the MrBeast spokesperson’s response (Newsweek)",
+     "url": "https://www.newsweek.com/mrbeast-response-mexico-pyramid-video-archaeology-2074041"
+    },
+    {
+     "label": "Independent report on Mexico’s claims concerning permits and commercial use of archaeological sites (BBC News)",
+     "url": "https://www.bbc.com/news/articles/crr70vykk0wo"
+    },
+    {
+     "label": "Federal docket, Contestant 1 v. MRB2024, LLC, No. 2:25-cv-03051 (C.D. Cal.), removed from Los Angeles Superior Court (U.S. District Court, Central District of California / CourtListener)",
+     "url": "https://www.courtlistener.com/docket/69856593/contestant-1-a-california-resident-v-mrb2024-llc/"
+    },
+    {
+     "label": "Federal docket, Mavromatis v. MrBeastYouTube, LLC, No. 4:26-cv-00059 (E.D.N.C.); the complaint is stamped filed April 22, 2026 (U.S. District Court, Eastern District of North Carolina / CourtListener)",
+     "url": "https://www.courtlistener.com/docket/73225380/mavromatis-v-mrbeastyoutube-llc/"
+    },
+    {
+     "label": "Independent report on the former employee’s harassment and termination allegations and the company’s denial (ABC News)",
+     "url": "https://abcnews.com/US/mrbeasts-company-sued-alleged-sexual-harassment-wrongful-termination/story?id=132293451"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-emma-chamberlain",
+   "date": "2026-07-28",
+   "title": "Emma Chamberlain",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 001: When Does One Person Become an Institution?, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/001"
+   },
+   "id": "Case: Emma Chamberlain",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Primary channel record and distribution platform (YouTube / Emma Chamberlain)",
+     "url": "https://www.youtube.com/@emmachamberlain"
+    },
+    {
+     "label": "Independent profile of creator income, the coffee company, operating roles, and return-to-YouTube plans (Forbes)",
+     "url": "https://www.forbes.com/sites/alexyork/2024/04/12/emma-chamberlain-interview-youtube-creator-chamberlain-coffee/"
+    },
+    {
+     "label": "Independent fashion-industry chronology of Chamberlain’s media and company formation (The Business of Fashion)",
+     "url": "https://www.businessoffashion.com/people/emma-chamberlain/"
+    },
+    {
+     "label": "Independent report on the Series A, earlier seed financing, and omnichannel plan (NOSH)",
+     "url": "https://www.nosh.com/news/2022/chamberlain-coffee-raises-7m-to-support-omnichannel-growth/"
+    },
+    {
+     "label": "Company announcement of the additional $7 million raise and intended uses (Chamberlain Coffee / PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/chamberlain-coffee-raises-7m-in-funding-from-previous-and-new-investors-301840027.html"
+    },
+    {
+     "label": "Independent report on outside investors, retail expansion, and influencer-dependence risk (Modern Retail)",
+     "url": "https://www.modernretail.co/operations/dtc-briefing-chamberlain-coffee-raises-7m-as-it-plots-retail-expansion/"
+    },
+    {
+     "label": "Institutional biography attributing operating growth and fundraising work to CEO Christopher Gallant and the team (Beverage Forum)",
+     "url": "https://www.bevindustry.com/beverage-forum/speakers/chris-gallant"
+    },
+    {
+     "label": "Platform announcement of the multiyear exclusive license, archive, future episodes, and video format (Spotify)",
+     "url": "https://newsroom.spotify.com/2022-11-17/emma-chamberlains-anything-goes-podcast-comes-exclusively-to-spotify/"
+    },
+    {
+     "label": "Independent report on the Spotify exclusivity agreement (Variety)",
+     "url": "https://variety.com/2022/digital/news/emma-chamberlain-spotify-podcast-anything-goes-1235435401/"
+    },
+    {
+     "label": "Independent report on Chamberlain and Hossy becoming co-CEOs (Forbes)",
+     "url": "https://www.forbes.com/sites/alexyork/2024/08/15/youtuber-emma-chamberlain-takes-the-helm-as-co-ceo-at-chamberlain-coffee/"
+    },
+    {
+     "label": "Trade report on the shared CEO appointment and Gallant’s replacement (BevNET)",
+     "url": "https://www.bevnet.com/news/2024/chamberlain-coffees-influencer-founder-emma-chamberlain-takes-co-ceo-mantle/"
+    },
+    {
+     "label": "Former CEO’s account of the company’s scale and transfer to Chamberlain and Hossy (Christopher Gallant / LinkedIn)",
+     "url": "https://www.linkedin.com/posts/cbgallant_emma-chamberlain-appointed-co-ceo-at-chamberlain-activity-7233952385520254976-WSno"
+    },
+    {
+     "label": "Independent reporting from a 2024 investor deck on projections, supply-chain problems, profitability, fundraising, retail, café expansion, and potential acquirers (Business Insider)",
+     "url": "https://www.businessinsider.com/emma-chamberlain-coffee-expansion-plans-detailed-in-leaked-deck-2025-3"
+    },
+    {
+     "label": "People recap of Chamberlain’s July 2026 appearance on Emma Grede’s Aspire podcast and her April 2026 podcast-break announcement (People did not interview her; adds no outside reporting) (People)",
+     "url": "https://people.com/emma-chamberlain-reveals-why-she-felt-she-couldnt-do-her-podcast-anymore-12025245"
+    },
+    {
+     "label": "Report restating Chamberlain’s April 2026 video on the podcast break and her statement that it did not come from burnout (adds no outside reporting) (Yahoo Entertainment)",
+     "url": "https://www.yahoo.com/entertainment/celebrity/articles/emma-chamberlain-reveals-why-she-180051795.html"
+    },
+    {
+     "label": "Report restating Chamberlain’s remarks on feeling emotionally depleted by YouTube, from her July 2026 podcast appearance (adds no outside reporting) (Yahoo News UK / BANG Showbiz)",
+     "url": "https://uk.news.yahoo.com/emma-chamberlain-felt-depleted-podcasting-220000201.html"
+    },
+    {
+     "label": "People interview with Chamberlain on the podcast break and her first café (People)",
+     "url": "https://people.com/emma-chamberlain-says-taking-a-break-from-her-podcast-sparked-a-psychological-blossoming-exclusive-11980099"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-huda-kattan",
+   "date": "2026-07-28",
+   "title": "Huda Kattan",
+   "origin": {
+    "kind": "article",
+    "label": "Huda Kattan: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/huda-kattan"
+   },
+   "id": "Case: Huda Kattan",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Independent early profile of Kattan’s move from employment and makeup practice into blogging (The New Yorker)",
+     "url": "https://www.newyorker.com/culture/culture-desk/beauty-blogging-in-dubai"
+    },
+    {
+     "label": "Independent profile of the blog, family enterprise, products, and influence (The New York Times)",
+     "url": "https://www.nytimes.com/2017/03/20/fashion/huda-kattan-beauty-blogger.html"
+    },
+    {
+     "label": "Independent account of product formation and family participation (Entrepreneur Middle East)",
+     "url": "https://mena.entrepreneur.com/women-entrepreneur/how-huda-mona-and-alya-kattan-built-the-billion-dollar/338195"
+    },
+    {
+     "label": "Independent report on social reach and the economics of beauty influence (CNBC)",
+     "url": "https://www.cnbc.com/2017/10/23/huda-beauty-working-with-bank-to-raise-money-for-minority-stake-sale.html"
+    },
+    {
+     "label": "Independent report on TSG Consumer’s minority investment in Huda Beauty (WWD)",
+     "url": "https://wwd.com/business-news/mergers-acquisitions/feature/exclusive-how-huda-beauty-will-expand-after-landing-major-investment-deal-11074930/"
+    },
+    {
+     "label": "Trade rewrite of Kattan’s own video announcement of her 2020 CEO handoff to Nathalie Kristo (Global Cosmetic Industry)",
+     "url": "https://www.gcimagazine.com/brands-products/news/news/21874922/huda-kattan-steps-down-as-huda-beauty-ceo"
+    },
+    {
+     "label": "Institutional biography attributing North American and digital operating infrastructure to Nathalie Kristo and her team (Cosmetic Executive Women)",
+     "url": "https://cew.org/people/nathalie-kristo/"
+    },
+    {
+     "label": "Independent trade report on Kattan’s CEO return and the short professional-management succession (WWD)",
+     "url": "https://wwd.com/beauty-industry-news/beauty-features/huda-kattan-back-as-ceo-huda-beauty-1236226184/"
+    },
+    {
+     "label": "Trade rewrite of Kattan’s own Instagram video announcing her CEO return, redesign, and portfolio changes (Global Cosmetic Industry)",
+     "url": "https://www.gcimagazine.com/brands-products/news/news/22888537/huda-kattan-announces-return-as-huda-beauty-ceo-rebrand"
+    },
+    {
+     "label": "Independent report clarifying the 2020 to 2024 executive sequence (Cosmetics Business)",
+     "url": "https://cosmeticsbusiness.com/huda-kattan-announces-huda-beauty-rebrand"
+    },
+    {
+     "label": "Independent report on the federal court’s final settlement approval and disclosure allegations (The National)",
+     "url": "https://www.thenationalnews.com/world/us-news/2022/07/27/huda-beauty-case-closed-by-us-judge-after-class-action-settlement/"
+    },
+    {
+     "label": "Order granting final approval of the class settlement, Ramirez v. HB USA Holdings, Inc., No. 5:20-cv-01016 (C.D. Cal.), Dkt. 92 (U.S. District Court, Central District of California / CourtListener)",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.cacd.782439/gov.uscourts.cacd.782439.92.0.pdf"
+    },
+    {
+     "label": "Court docket, Ramirez v. HB USA Holdings, Inc. (U.S. District Court, Central District of California / CourtListener)",
+     "url": "https://www.courtlistener.com/docket/17153804/cristie-ramirez-v-hb-usa-holdings-inc/"
+    },
+    {
+     "label": "Trade report on settlement amount, refunds, and Huda Beauty’s denial of wrongdoing (Cosmetics Business)",
+     "url": "https://cosmeticsbusiness.com/huda-beauty-pays-nearly-2m-to-settle-neon-obsessions-lawsuit--202450"
+    },
+    {
+     "label": "Independent transaction report on KAYALI’s separation, General Atlantic, TSG repurchase purpose, and undisclosed value (Reuters)",
+     "url": "https://www.reuters.com/markets/deals/dubai-based-huda-beauty-sells-fragrance-line-kayali-co-founder-general-atlantic-2025-02-17/"
+    },
+    {
+     "label": "Independent report on Kattan’s repurchase of TSG’s minority stake (The Business of Fashion)",
+     "url": "https://www.businessoffashion.com/news/beauty/huda-kattan-buys-back-huda-beauty/"
+    },
+    {
+     "label": "Founder announcement of the return to full ownership (Huda Kattan / Instagram)",
+     "url": "https://www.instagram.com/p/DKcB7ooIWeF/"
+    },
+    {
+     "label": "Huda Beauty press release announcing that Kattan bought back her equity and is the sole owner (Huda Beauty / PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/huda-beauty-reclaims-full-ownership-as-an-independent-beauty-brand-302471853.html"
+    },
+    {
+     "label": "Independent report on TikTok’s removal of the video and the claims it contained (People)",
+     "url": "https://people.com/huda-kattans-video-about-israel-removed-tiktok-11784487"
+    },
+    {
+     "label": "Independent trade report quoting Sephora’s statement that it was reviewing the issue, and Kattan’s response (Beauty Independent)",
+     "url": "https://www.beautyindependent.com/huda-beauty-sales-fall-sephora/"
+    },
+    {
+     "label": "Independent report on Kattan’s response: she removed the video herself, denied promoting antisemitism, and said her criticism targeted the Israeli government (Khaleej Times)",
+     "url": "https://www.khaleejtimes.com/world/huda-kattan-reacts-tiktok-video-israel-criticism-backlash-calls-remove-brand-from-sephora"
+    },
+    {
+     "label": "Current direct-commerce and product record (Huda Beauty)",
+     "url": "https://hudabeauty.com/"
+    },
+    {
+     "label": "Current wholesale distribution and assortment record (Sephora)",
+     "url": "https://www.sephora.com/brand/huda-beauty"
+    },
+    {
+     "label": "Independent industry analysis of Huda Beauty’s portfolio and longevity context (Vogue Business)",
+     "url": "https://www.vogue.com/article/where-should-your-beauty-brand-be-after-10-years"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-marques-brownlee",
+   "date": "2026-07-28",
+   "title": "Marques Brownlee",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 002: Your Career Has a Supply Chain, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/002"
+   },
+   "id": "Case: Marques Brownlee",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Question-and-answer interview in which Brownlee describes channel development and production practice (2018) (Business Insider)",
+     "url": "https://www.businessinsider.com/marques-brownlee-mkbhd-youtube-interview-2018-3"
+    },
+    {
+     "label": "Long-form interview on YouTube economics, team building, editorial choices, and audience trust (Stratechery)",
+     "url": "https://stratechery.com/2024/an-interview-with-marques-brownlee-mkbhd-about-being-a-youtube-star/"
+    },
+    {
+     "label": "First-person account of the operation, including family financial administration and studio staff (Marques Brownlee / Reddit)",
+     "url": "https://www.reddit.com/r/IAmA/comments/13m1y2g/im_marques_brownlee_aka_mkbhd_and_i_make_tech/"
+    },
+    {
+     "label": "Independent report on Panels launch, artist economics, pricing, advertising, and privacy criticism (The Verge)",
+     "url": "https://www.theverge.com/2024/9/24/24253023/mkbhd-panels-wallpaper-app-response-criticism"
+    },
+    {
+     "label": "Independent report on post-launch pricing and product changes (The Verge)",
+     "url": "https://www.theverge.com/2024/10/11/24267900/marques-brownlee-mkbhd-price-panels-wallpaper-app"
+    },
+    {
+     "label": "Independent report on the sponsored-video and speeding controversy (The Verge)",
+     "url": "https://www.theverge.com/2024/11/12/24294921/mkbhd-controversy-dji-sponsored-video-speeding"
+    },
+    {
+     "label": "Independent report on the DJI-sponsored video, the speeding clip, and Brownlee's apology (NBC News)",
+     "url": "https://www.nbcnews.com/tech/internet/marques-brownlee-youtube-mkbhd-apologizes-speeding-controversy-rcna180008"
+    },
+    {
+     "label": "Independent report on the backlash over the sponsored video and the clip (TechSpot)",
+     "url": "https://www.techspot.com/news/105560-mkbhd-faces-backlash-driving-95mph-35mph-zone-sponsored.html"
+    },
+    {
+     "label": "Independent report on Panels shutdown, development-team dependency, refunds, data deletion, and open-source plan (The Verge)",
+     "url": "https://www.theverge.com/news/835090/mkbhd-panels-wallpaper-app-shutdown"
+    },
+    {
+     "label": "Podcast interview in which Brownlee describes his workflow, review authorship, and team collaboration (Cortex / CGP Grey)",
+     "url": "https://cgpgrey.substack.com/p/state-of-the-workflow-marques-brownlee"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-pieter-levels",
+   "date": "2026-07-28",
+   "title": "Pieter Levels",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 001: When Does One Person Become an Institution?, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/001"
+   },
+   "id": "Case: Pieter Levels",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Founder announcement of the twelve-startups experiment (Pieter Levels)",
+     "url": "https://levels.io/12-startups-12-months"
+    },
+    {
+     "label": "First-person account of Nomad List’s initial launch and distribution (Pieter Levels)",
+     "url": "https://levels.io/product-hunt-hacker-news-number-one"
+    },
+    {
+     "label": "First-person account of building the remote job board (Pieter Levels)",
+     "url": "https://levels.io/how-i-built-a-remote-jobs-board"
+    },
+    {
+     "label": "Founder account of product development, monetization, and traffic (Pieter Levels)",
+     "url": "https://levels.io/bootstrapping"
+    },
+    {
+     "label": "Founder presentation on the portfolio’s business models (Pieter Levels)",
+     "url": "https://levels.io/startups"
+    },
+    {
+     "label": "Founder disclosure of revenue, traffic, paid users, concentration, and solo operation (Pieter Levels)",
+     "url": "https://levels.io/deviance"
+    },
+    {
+     "label": "Long-form independently hosted interview transcript covering products, revenue volatility, automation, AI infrastructure, and operating model (Lex Fridman Podcast)",
+     "url": "https://lexfridman.com/pieter-levels-transcript/"
+    },
+    {
+     "label": "Current founder-controlled publication and product index (Pieter Levels)",
+     "url": "https://levels.io/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-jack-conte",
+   "date": "2026-07-28",
+   "title": "Jack Conte",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 002: Your Career Has a Supply Chain, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/002"
+   },
+   "id": "Case: Jack Conte",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Contemporaneous account of Patreon’s launch, Conte’s creator problem, and Sam Yam’s co-founder role (WIRED)",
+     "url": "https://www.wired.com/2013/10/big-idea-patreon/"
+    },
+    {
+     "label": "Long-form profile of Conte, Patreon, creator income, and platform limits (WIRED)",
+     "url": "https://www.wired.com/story/jack-conte-patreon-plight-creative-class/"
+    },
+    {
+     "label": "Trade report of Patreon’s $155 million Series F and $4 billion valuation, citing the Wall Street Journal (Tubefilter)",
+     "url": "https://tubefilter.com/2021/04/07/patreon-4-billion-dollars-funding-round/"
+    },
+    {
+     "label": "Long-form interview on Patreon’s scale, mission, platform thesis, and Conte’s continued leadership (WIRED)",
+     "url": "https://www.wired.com/story/the-big-interview-podcast-jack-conte-patreon/"
+    },
+    {
+     "label": "Independent report on Patreon’s reversal of the 2017 fee change (Axios)",
+     "url": "https://www.axios.com/2017/12/13/patreon-wont-change-its-1513191484"
+    },
+    {
+     "label": "Independent analysis of the fee change’s effect on small creators and patrons (The Outline)",
+     "url": "https://theoutline.com/post/2612/patreon-hurt-its-small-creators-now-how-will-it-fix-the-damage"
+    },
+    {
+     "label": "Independent report on the 2022 workforce reduction and office closures (The Verge)",
+     "url": "https://www.theverge.com/2022/9/13/23351414/patreon-layoffs-september-2022-operations-finance-security"
+    },
+    {
+     "label": "Independent report on Patreon security-team cuts and resulting concerns (CyberScoop)",
+     "url": "https://cyberscoop.com/patreon-security-team-layoffs/"
+    },
+    {
+     "label": "Patreon documentation of Apple’s in-app purchase fee and creator pricing choices (Patreon)",
+     "url": "https://support.patreon.com/hc/en-us/articles/27991664769677-How-iOS-in-app-purchases-work-on-Patreon"
+    },
+    {
+     "label": "Independent report on Apple’s billing mandate and Patreon’s dependency (The Verge)",
+     "url": "https://www.theverge.com/tech/870022/patreon-creator-apple-ios-subscription-billing-november-2026"
+    },
+    {
+     "label": "Independent report on Patreon’s 2026 restructuring and workforce reduction (The Verge)",
+     "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai"
+    },
+    {
+     "label": "Independent report and reproduced chief-executive memo on the 2026 restructuring (Business Insider)",
+     "url": "https://www.businessinsider.com/patreon-creator-economy-cuts-93-employees-layoffs-ai-memo-2026-7"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-colin-samir",
+   "date": "2026-07-28",
+   "title": "Colin & Samir",
+   "origin": {
+    "kind": "article",
+    "label": "Colin & Samir: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/colin-samir"
+   },
+   "id": "Case: Colin & Samir",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Trade report on The Whistle’s June 2014 acquisition of The Lacrosse Network, naming its co-founders and Rosenblum’s role (NextTV)",
+     "url": "https://www.nexttv.com/news/whistle-buys-lacrosse-network-374963"
+    },
+    {
+     "label": "Long-form founder interview on The Lacrosse Network, acquisition, and partnership history (Smart Passive Income)",
+     "url": "https://www.smartpassiveincome.com/podcasts/spi-567-the-origin-of-the-colin-samir-show/"
+    },
+    {
+     "label": "Independent report on the Whistle exit, near-quit period, Samsung runway, and media-company turn (Digiday)",
+     "url": "https://digiday.com/future-of-tv/how-youtube-stars-colin-and-samir-went-from-nearly-quitting-to-creating-their-own-media-company/"
+    },
+    {
+     "label": "Long-form interview on rebuilding after The Lacrosse Network and structuring the creator enterprise (Nathan Barry / The Nathan Barry Show)",
+     "url": "https://nathanbarry.com/059-samir-chaudry-youtube-launch-creator-enterprise/"
+    },
+    {
+     "label": "Current first-party description of the show, publication, products, and partnership (Colin & Samir)",
+     "url": "https://www.colinandsamir.com/"
+    },
+    {
+     "label": "Distributor record for the continuing Colin and Samir Show podcast (Apple Podcasts)",
+     "url": "https://podcasts.apple.com/us/podcast/the-colin-and-samir-show/id1379942034"
+    },
+    {
+     "label": "Current publication and Press Publish summit record (The Publish Press)",
+     "url": "https://news.thepublishpress.com/"
+    },
+    {
+     "label": "Platform case study on The Publish Press audience and newsletter operation (beehiiv)",
+     "url": "https://www.beehiiv.com/case-studies/the-publish-press"
+    },
+    {
+     "label": "First-party explanation of the company’s decision to add a second channel after rapid flagship growth (The Publish Press)",
+     "url": "https://news.thepublishpress.com/p/new-channel"
+    },
+    {
+     "label": "First-party record of the cohort-based creator education product (Colin & Samir)",
+     "url": "https://www.colinandsamir.com/creator-startup"
+    },
+    {
+     "label": "Partner case study on designing Creator Startup, including stated audience and education scope (Rare Days)",
+     "url": "https://www.raredays.com/work/colin-samir"
+    },
+    {
+     "label": "Institutional record of Creator Support as an audience question-and-answer format (Adobe MAX)",
+     "url": "https://www.adobe.com/max/2025/sessions/creator-support-qa-with-colin-and-samir-os555.html"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-alex-cooper",
+   "date": "2026-07-28",
+   "title": "Alex Cooper",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 002: Your Career Has a Supply Chain, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/002"
+   },
+   "id": "Case: Alex Cooper",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Contemporaneous account of the Barstool contract dispute and co-host split (The New York Times)",
+     "url": "https://www.nytimes.com/2020/05/19/style/call-her-daddy-podcast.html"
+    },
+    {
+     "label": "Independent interview preserving Sofia Franklyn’s account of the partnership breakdown (Rolling Stone)",
+     "url": "https://www.rollingstone.com/culture/culture-features/sofia-franklyn-call-her-daddy-alex-cooper-betrayal-dave-portnoy-podcasts-barstool-sports-1234783499/"
+    },
+    {
+     "label": "Report restating Cooper’s account of the IP negotiation and split, drawn from her Hulu docuseries and earlier interviews (adds no outside reporting) (People)",
+     "url": "https://people.com/alex-cooper-recalls-parting-ways-with-call-her-daddy-co-host-sofia-franklyn-11750865"
+    },
+    {
+     "label": "Contemporaneous report on the Spotify agreement and reported value (Variety)",
+     "url": "https://variety.com/2021/digital/news/spotify-call-her-daddy-alex-cooper-exclusive-1234996840/"
+    },
+    {
+     "label": "Spotify announcement of the exclusive Call Her Daddy relationship (Spotify)",
+     "url": "https://newsroom.spotify.com/2021-06-15/call-her-daddy-is-making-it-exclusive-with-spotify/"
+    },
+    {
+     "label": "Contemporaneous report on the Unwell Network launch and first creator signings (Deadline)",
+     "url": "https://deadline.com/2023/08/call-her-daddys-alex-cooper-unwell-network-alix-earle-madeline-argy-1235456998/"
+    },
+    {
+     "label": "SiriusXM agreement covering advertising, distribution, content, and events (SiriusXM)",
+     "url": "https://investor.siriusxm.com/news-events/press-releases/detail/2096/siriusxm-inks-new-multi-year-agreement-with-alex-cooper"
+    },
+    {
+     "label": "Independent report on the SiriusXM deal and reported value (Variety)",
+     "url": "https://variety.com/2024/digital/news/alex-cooper-deal-siriusxm-call-her-daddy-exclusive-content-1236112140/"
+    },
+    {
+     "label": "CNN report, syndicated by KVIA, that the SiriusXM deal was worth $125 million over three years, citing people familiar with the terms (CNN (via KVIA))",
+     "url": "https://kvia.com/news/business-technology/cnn-business-consumer/2024/08/20/alex-coopers-call-her-daddy-podcast-is-moving-to-siriusxm-for-reportedly-nine-figure-sum/"
+    },
+    {
+     "label": "Independent report on Hot Mess leaving the Unwell Network (Variety)",
+     "url": "https://variety.com/2025/digital/news/alix-earle-hot-mess-podcast-dropped-alex-cooper-1236320220/"
+    },
+    {
+     "label": "Independent report on the later public dispute between Cooper and Earle (Variety)",
+     "url": "https://variety.com/2026/digital/news/alex-cooper-alex-earle-podcast-feud-1236720531/"
+    },
+    {
+     "label": "Report on staff complaints about Matt Kaplan’s behavior and an Unwell all-hands meeting (Bloomberg)",
+     "url": "https://www.bloomberg.com/news/articles/2026-04-22/alex-cooper-husband-skip-team-meeting-after-behavior-complaints"
+    },
+    {
+     "label": "Investigative report on workplace allegations at Unwell (Vanity Fair)",
+     "url": "https://www.vanityfair.com/story/alex-coopers-mean-girl-problem"
+    },
+    {
+     "label": "Independent report (TheWrap, syndicated on Yahoo) on Cooper’s June 2026 Wall Street Journal interview response to the workplace allegations (TheWrap (via Yahoo Entertainment))",
+     "url": "https://www.yahoo.com/entertainment/celebrity/articles/alex-cooper-denies-toxic-workplace-183825708.html"
+    },
+    {
+     "label": "Independent report on Cooper’s June 2026 Wall Street Journal interview response to the workplace allegations (The Hollywood Reporter)",
+     "url": "https://www.hollywoodreporter.com/news/general-news/alex-cooper-toxic-workplace-claims-reacts-1236629981/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-codie-sanchez",
+   "date": "2026-07-28",
+   "title": "Codie Sanchez",
+   "origin": {
+    "kind": "article",
+    "label": "Codie Sanchez: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/codie-sanchez"
+   },
+   "id": "Case: Codie Sanchez",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Independent profile of Sanchez’s career, Contrarian Thinking’s growth, staffing, audience, programs, and conference (Houston Chronicle)",
+     "url": "https://www.houstonchronicle.com/business/article/codie-sanchez-finance-influencer-21119012.php"
+    },
+    {
+     "label": "Independent profile of the book, audience, and business-ownership thesis (Forbes)",
+     "url": "https://www.forbes.com/sites/gingergentile/2025/01/09/codie-sanchez-how-women-can-build-wealth-to-become-a-main-street-millionaire/"
+    },
+    {
+     "label": "Contemporaneous interview describing Unconventional Acquisitions and its acquisition curriculum (The Liberty Company)",
+     "url": "https://libertycompany.com/news/mergers-acquisitions-podcast/codie-sanchez-the-9-steps-to-buying-a-business/"
+    },
+    {
+     "label": "Institutional record for Unconventional Acquisitions’ founding, purpose, and private-company status (LinkedIn)",
+     "url": "https://www.linkedin.com/company/unconventional-acquisitions"
+    },
+    {
+     "label": "Company account of its media, education, advisory, investment, marketplace, team, and operating thesis (Contrarian Thinking)",
+     "url": "https://www.contrarianthinking.co/about"
+    },
+    {
+     "label": "Current academy scope, membership claims, refund terms, and absence of guaranteed outcomes (Contrarian Thinking)",
+     "url": "https://www.contrarianthinking.co/contrarian-academy"
+    },
+    {
+     "label": "Current library of acquisition and business-operating resources (Contrarian Thinking)",
+     "url": "https://www.contrarianthinking.co/resources"
+    },
+    {
+     "label": "Interview containing company-reported audience, portfolio, and revenue claims (Forbes Books)",
+     "url": "https://books.forbes.com/author-podcasts/forbesbooks-podcast/contrarian-thinking-how-codie-sanchez-built-a-business-empire/"
+    },
+    {
+     "label": "Publisher record for Main Street Millionaire (Penguin Random House)",
+     "url": "https://www.penguinrandomhouse.com/books/748704/main-street-millionaire-by-codie-sanchez/"
+    },
+    {
+     "label": "Independent report on BizScout’s $5 million seed round and investors (Inc.)",
+     "url": "https://www.inc.com/victoria-salves/codie-sanchez-just-raised-5m-from-the-founders-of-tinder-and-coinbase-to-disrupt-how-we-buy-businesses/91330300"
+    },
+    {
+     "label": "Current marketplace record and disclosed transaction-service partners (BizScout)",
+     "url": "https://www.bizscout.com/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-gary-vaynerchuk",
+   "date": "2026-07-28",
+   "title": "Gary Vaynerchuk",
+   "origin": {
+    "kind": "article",
+    "label": "Gary Vaynerchuk: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/gary-vaynerchuk"
+   },
+   "id": "Case: Gary Vaynerchuk",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Independent account of VaynerMedia's formation and early agency model (The New York Times)",
+     "url": "https://www.nytimes.com/2013/11/03/business/riding-the-hashtag-in-social-media-marketing.html"
+    },
+    {
+     "label": "First-party career chronology and acknowledgment of AJ Vaynerchuk as co-founder (Gary Vaynerchuk)",
+     "url": "https://garyvaynerchuk.com/biography/"
+    },
+    {
+     "label": "Institutional history identifying Gary and AJ as VaynerMedia co-founders (Shorty Awards)",
+     "url": "https://shortyawards.com/7th/vaynermedia"
+    },
+    {
+     "label": "Current public portfolio and family-of-companies description (VaynerX)",
+     "url": "https://vaynerx.com/"
+    },
+    {
+     "label": "Current formal roles across VaynerX, VaynerMedia, and VeeFriends (Gary Vaynerchuk)",
+     "url": "https://garyvaynerchuk.com/press/"
+    },
+    {
+     "label": "Report on Gallery Media Group's acquisition-based expansion (Yahoo Finance)",
+     "url": "https://finance.yahoo.com/news/gmg-acquires-coveteur-marking-first-145611265.html"
+    },
+    {
+     "label": "Trade brief repeating VaynerX’s announcement of The Sasha Group’s rebrand and separate operating president (concerns a portfolio agency, not Vaynerchuk himself) (MediaPost)",
+     "url": "https://www.mediapost.com/publications/article/412378/vaynerx-unveils-rebranded-social-first-agency-chuk.html"
+    },
+    {
+     "label": "Launch record identifying Tamara Group's named leadership team (VaynerX / PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/vaynerx-launches-tamara-group-the-attention-media-and-relevance-agency-302754653.html"
+    },
+    {
+     "label": "Acquirer record for American Express's acquisition of co-founded Resy (American Express)",
+     "url": "https://www.americanexpress.com/en-us/newsroom/articles/travel-and-dining/new-resy-benefits-are-added-to-american-express-u-s--consumer-an.html"
+    },
+    {
+     "label": "Acquirer record identifying Empathy Wines' three co-founders (Constellation Brands)",
+     "url": "https://ir.cbrands.com/news-events/press-releases/detail/44/constellation-brands-acquires-digitally-native-wine-brand-empathy-wines"
+    },
+    {
+     "label": "Regulatory filing describing acquired Empathy assets and earn-out (Constellation Brands / SEC filing)",
+     "url": "https://ir.cbrands.com/sec-filings/all-sec-filings/content/0000016918-22-000069/stz-20220228.htm"
+    },
+    {
+     "label": "VeeFriends launch, token supply, access, and collaborator description (VeeFriends / PR Newswire)",
+     "url": "https://www.prnewswire.co.uk/news-releases/gary-vaynerchuk-releases-his-first-nft-collection-veefriends--870319949.html"
+    },
+    {
+     "label": "Company legal terms distinguishing token licenses from underlying IP rights (VeeFriends)",
+     "url": "https://veefriends.com/terms-of-use/veefriends-nft-terms-of-sale-and-user-license"
+    },
+    {
+     "label": "Transaction-counsel record of VeeFriends' $50 million seed investment (Foley & Lardner)",
+     "url": "https://www.foley.com/news/2022/08/foley-represents-gary-v-nft-project-veefriends-50m/"
+    },
+    {
+     "label": "First-party warning that most NFT projects could lose their value (Gary Vaynerchuk)",
+     "url": "https://garyvaynerchuk.com/why-i-said-97-99-of-nfts-would-go-to-zero-and-what-it-means-in-2023-and-beyond/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-alexandr-wang",
+   "date": "2026-07-28",
+   "title": "Alexandr Wang",
+   "origin": {
+    "kind": "article",
+    "label": "Alexandr Wang: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/alexandr-wang"
+   },
+   "id": "Case: Alexandr Wang",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Current company description of Scale's founding, services, workforce, and valuation (Scale AI)",
+     "url": "https://scale.com/about"
+    },
+    {
+     "label": "Founder interview describing Scale's initial human-labor API model (Y Combinator)",
+     "url": "https://www.ycombinator.com/library/MV-alexandr-wang-building-scale-ai-transforming-work-with-agents-competing-with-china"
+    },
+    {
+     "label": "Independent record of Lucy Guo's co-founding, operating contribution, departure, and continuing stake (Forbes)",
+     "url": "https://www.forbes.com/profile/lucy-guo/"
+    },
+    {
+     "label": "Wang's first-party account of Scale's government and national-security work (Scale AI)",
+     "url": "https://scale.com/blog/win-the-ai-war"
+    },
+    {
+     "label": "Independent report on Meta's investment, valuation, Wang's move, and Scale's leadership transition (Reuters)",
+     "url": "https://www.reuters.com/business/finance/meta-finalizes-investment-scale-ai-valuing-startup-29-billion-2025-06-13/"
+    },
+    {
+     "label": "Independent report on the 49% stake, regulatory structure, and board role (Reuters)",
+     "url": "https://www.reuters.com/sustainability/boards-policy-regulation/metas-148-billion-scale-ai-deal-latest-test-ai-partnerships-2025-06-13/"
+    },
+    {
+     "label": "Independent account of the investment, continuing Scale independence, co-founding, board role, and interim CEO (Associated Press)",
+     "url": "https://apnews.com/article/4b55aabf7ea018e38ffdccb66e37cf26"
+    },
+    {
+     "label": "Independent report on major-customer conflict and Google's planned split after the Meta deal (Reuters)",
+     "url": "https://www.reuters.com/business/google-scale-ais-largest-customer-plans-split-after-meta-deal-sources-say-2025-06-13/"
+    },
+    {
+     "label": "Report on the Department of Labor investigation and Scale's response (TechCrunch)",
+     "url": "https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/"
+    },
+    {
+     "label": "Report on contractor litigation alleging psychological injury from harmful training content (Inc.)",
+     "url": "https://www.inc.com/sam-blum/scale-ai-sued-for-subjecting-contract-workers-to-depraved-content/91111116"
+    },
+    {
+     "label": "Independent report on Meta Superintelligence Labs and Wang's chief AI officer mandate (Reuters)",
+     "url": "https://www.reuters.com/business/meta-deepens-ai-push-with-superintelligence-lab-source-says-2025-06-30/"
+    },
+    {
+     "label": "Scale’s announcement of Francis deSouza as CEO, listing Wang as founder and chairman of the board (Scale AI)",
+     "url": "https://scale.com/blog/scale-appoints-new-ceo"
+    },
+    {
+     "label": "Report that the Department of Labor dropped its investigation of Scale in May 2025 (TechCrunch)",
+     "url": "https://techcrunch.com/2025/05/09/the-department-of-labor-just-dropped-its-investigation-into-scale-ai/"
+    },
+    {
+     "label": "Summary of the court-approved class notice for the $12.5 million Scale AI misclassification settlement (a republished notice, not independent reporting) (OpenClassActions)",
+     "url": "https://openclassactions.com/settlements/employment-law/scale-ai-contributor-misclassification-class-action-settlement.php"
+    },
+    {
+     "label": "Trade-press summary of a New York Times report on Meta’s March 2026 reorganization of AI teams (Storyboard18)",
+     "url": "https://www.storyboard18.com/brand-makers/meta-reorganises-ai-teams-trims-oversight-of-highest-paid-employee-alexandr-wang-report-91327.htm"
+    },
+    {
+     "label": "Independent report on the division's first model and the investment required to build the team (Reuters)",
+     "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/meta-unveils-first-ai-model-superintelligence-team-2026-04-08/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-mustafa-suleyman",
+   "date": "2026-07-28",
+   "title": "Mustafa Suleyman",
+   "origin": {
+    "kind": "article",
+    "label": "Mustafa Suleyman: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/mustafa-suleyman"
+   },
+   "id": "Case: Mustafa Suleyman",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Microsoft announcement forming Microsoft AI and defining initial reporting lines (Microsoft)",
+     "url": "https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/"
+    },
+    {
+     "label": "Microsoft AI London hub announcement (Microsoft)",
+     "url": "https://blogs.microsoft.com/blog/2024/04/07/announcing-new-microsoft-ai-hub-in-london/"
+    },
+    {
+     "label": "Microsoft Copilot and superintelligence leadership reorganization (Microsoft)",
+     "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/"
+    },
+    {
+     "label": "Microsoft AI model-development archive (Microsoft AI)",
+     "url": "https://microsoft.ai/news-categories/models/"
+    },
+    {
+     "label": "Microsoft AI announcement of seven internally developed MAI models (Microsoft AI)",
+     "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"
+    },
+    {
+     "label": "Competition review and clearance of Microsoft-Inflection arrangements (UK Competition and Markets Authority)",
+     "url": "https://www.gov.uk/cma-cases/microsoft-slash-inflection-ai-inquiry"
+    },
+    {
+     "label": "Independent report on Suleyman's appointment and the new Microsoft unit (Reuters)",
+     "url": "https://www.reuters.com/technology/microsoft-hires-deepmind-co-founder-suleyman-head-new-consumer-ai-organization-2024-03-19/"
+    },
+    {
+     "label": "Independent report on the Inflection licensing and personnel arrangement (Reuters)",
+     "url": "https://www.reuters.com/technology/microsoft-agreed-pay-inflection-650-mln-while-hiring-its-staff-information-2024-03-21/"
+    },
+    {
+     "label": "Inflection founding announcement identifying co-founders and incubation (Greylock)",
+     "url": "https://greylock.com/blog/a-new-paradigm-in-human-machine-interaction/"
+    },
+    {
+     "label": "Institutional chronology of DeepMind, Google, and applied-AI roles (Greylock)",
+     "url": "https://greylock.com/team/mustafa-suleyman/"
+    },
+    {
+     "label": "Greylock announcement of Suleyman's move from Google (Greylock)",
+     "url": "https://greylock.com/firm-news/welcome-mustafa-suleyman/"
+    },
+    {
+     "label": "Independent report on management complaints, apology, and Google departure (Engadget)",
+     "url": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html"
+    },
+    {
+     "label": "Regulator page on the Royal Free and DeepMind health-data sharing and the related class-action lawsuit (UK Information Commissioner's Office)",
+     "url": "https://ico.org.uk/for-the-public/ico-40/google-deepmind-and-class-action-lawsuit/"
+    },
+    {
+     "label": "Independent report on the ICO finding against the Royal Free and the undertaking it signed (The Register)",
+     "url": "https://www.theregister.com/offbeat/2017/07/03/google-deepmind-trial-failed-to-comply-with-data-protection-ico/802146"
+    },
+    {
+     "label": "DeepMind statement on the ICO decision, its data-processor role, and lessons learned (Google DeepMind)",
+     "url": "https://deepmind.google/blog/the-information-commissioner-the-royal-free-and-what-weve-learned/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-cathy-hackl",
+   "date": "2026-07-28",
+   "title": "Cathy Hackl",
+   "origin": {
+    "kind": "article",
+    "label": "Cathy Hackl: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/cathy-hackl"
+   },
+   "id": "Case: Cathy Hackl",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Independent institutional interview on Hackl's entry into VR and later shift across AR, metaverse, AI, and spatial computing (Mastercard Newsroom)",
+     "url": "https://www.mastercard.com/news/perspectives/2024/seeing-the-future-cathy-hackl-s-vision-for-how-digital-physical-reality-will-take-shape"
+    },
+    {
+     "label": "Current first-party description of speaking, advisory, and emerging-technology work (Cathy Hackl)",
+     "url": "https://www.cathyhackl.com/"
+    },
+    {
+     "label": "First-party career chronology including Futures Intelligence Group acquisition (Cathy Hackl / LinkedIn)",
+     "url": "https://www.linkedin.com/in/cathyhackl"
+    },
+    {
+     "label": "Question-and-answer interview in which Hackl describes founding Futures Intelligence Group and choosing the chief metaverse officer role (Digiday)",
+     "url": "https://digiday.com/marketing/my-title-was-non-negotiable-a-qa-with-cathy-hackl-chief-metaverse-officer-at-journey/"
+    },
+    {
+     "label": "Independent account of the Futures Intelligence Group acquisition and Hackl's category-building role (Vogue Business)",
+     "url": "https://www.vogue.com/article/the-vogue-business-100-innovators-tech-and-web3-innovators"
+    },
+    {
+     "label": "Institutional interview describing Hackl's Journey role and studio remit (Protiviti)",
+     "url": "https://vision.protiviti.com/insight/making-most-metaverse-moment-tech-futurist-cathy-hackl"
+    },
+    {
+     "label": "Independent profile of Hackl's chief metaverse officer work and public practice (Forbes)",
+     "url": "https://www.forbes.com/sites/pauleannareid/2022/08/18/meet-the-worlds-first-chief-metaverse-officer-how-cathy-hackl-is-demystifying-web3-for-female-professionals/"
+    },
+    {
+     "label": "Independent examination of the retreat from chief metaverse officer roles (Wired)",
+     "url": "https://www.wired.com/story/where-have-all-the-chief-metaverse-officers-gone"
+    },
+    {
+     "label": "Harvard Business Review article co-authored by Hackl: framework for business leaders evaluating spatial computing (Harvard Business Review)",
+     "url": "https://hbr.org/2023/11/what-leaders-need-to-know-about-spatial-computing"
+    },
+    {
+     "label": "Publisher record for Spatial Computing: An AI-Driven Business Revolution (Wiley)",
+     "url": "https://www.wiley.com/en-us/Spatial+Computing:+An+AI+Driven+Business+Revolution+-p-9781394244416"
+    },
+    {
+     "label": "Industry-conference biography identifying Spatial Dynamics and prior institutional roles (Augmented World Expo)",
+     "url": "https://www.awexr.com/usa-2025/speakers/1419-cathy-hackl"
+    },
+    {
+     "label": "Current podcast record establishing the continuing TechMagic media channel (Apple Podcasts)",
+     "url": "https://podcasts.apple.com/us/podcast/techmagic-with-cathy-hackl/id1586989316"
+    },
+    {
+     "label": "Current conference biography identifying Future Dynamics, Journey, Nokia, and BCG roles (Mobile World Congress)",
+     "url": "https://www.mwcbarcelona.com/agenda/speakers/17964-cathy-hackl"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-jane-gilbert",
+   "date": "2026-07-28",
+   "title": "Jane Gilbert",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 001: When Does One Person Become an Institution?, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/001"
+   },
+   "id": "Case: Jane Gilbert",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "County release announcing the first Extreme Heat Action Plan, naming Gilbert and the task force co-chairs (Miami-Dade County)",
+     "url": "https://www.miamidade.gov/global/release.page?Mduid_release=rel1671058592011897"
+    },
+    {
+     "label": "Extreme Heat Action Plan: task force, co-chairs, priorities, and proposed actions (Miami-Dade County)",
+     "url": "https://www.miamidade.gov/resources/environment/documents/2022-heat-action-plan.pdf"
+    },
+    {
+     "label": "County record assigning Gilbert project-management duties in a school tree-canopy agreement (Miami-Dade County)",
+     "url": "https://www.miamidade.gov/govaction/legistarfiles/Matters/Y2023/230560.pdf"
+    },
+    {
+     "label": "Urban Forestry Plan documenting shared leadership, public participation, and implementation (Miami-Dade County)",
+     "url": "https://www.miamidade.gov/resources/environment/documents/urban-forestry-plan.pdf"
+    },
+    {
+     "label": "Career profile covering the Miami chief-resilience-officer role and the heat-officer appointment (archived copy; Barnard has removed the live page) (Barnard College via Internet Archive)",
+     "url": "https://web.archive.org/web/20260414215928/https://barnard.edu/news/being-first-chief-heat-officer-jane-gilbert-87"
+    },
+    {
+     "label": "Institutional biography recording Gilbert as managing principal of Resilience Consulting and former Miami chief resilience officer (Trust for America’s Health)",
+     "url": "https://www.tfah.org/jane-gilbert/"
+    },
+    {
+     "label": "Chief heat officer model, county fragmentation, mandate, and replication (Harvard Data-Smart City Solutions)",
+     "url": "https://datasmart.hks.harvard.edu/role-chief-heat-officers-jane-gilbert"
+    },
+    {
+     "label": "Question-and-answer interview in which Gilbert describes the role’s creation, responsibilities, and implementation (Governing)",
+     "url": "https://www.governing.com/climate/worlds-first-chief-heat-officer-has-tips-for-managing-risks-of-extreme-heat"
+    },
+    {
+     "label": "Independent reporting on heat conditions, policy work, and durability (Smithsonian Magazine)",
+     "url": "https://www.smithsonianmag.com/innovation/how-nations-first-chief-heat-officer-working-keep-miami-cool-180984902/"
+    },
+    {
+     "label": "Current biography identifying Chief Heat Ambassador and former county officeholder (the Climate Resilience Center is the Atlantic Council center formerly named the Adrienne Arsht-Rockefeller Foundation Resilience Center) (Climate Resilience Center)",
+     "url": "https://onebillionresilient.org/expert/jane-gilbert/"
+    },
+    {
+     "label": "County release announcing the restructure that consolidates the Chief Resilience, Chief Bay, and Chief Heat Officer roles (Miami-Dade County)",
+     "url": "https://www.miamidade.gov/global/release.page?Mduid_release=rel174008970454488"
+    },
+    {
+     "label": "Report on the resilience office rebrand, staff cuts, and Gilbert’s planned retirement (WLRN)",
+     "url": "https://www.wlrn.org/light/government-politics/2025-02-21/miami-dades-resilience-department-rebrand-staff-cuts"
+    },
+    {
+     "label": "Climate Resilience Center announcement appointing Gilbert Chief Heat Ambassador (Climate Resilience Center)",
+     "url": "https://onebillionresilient.org/2025/11/06/appoint-chief-heat-ambassador/"
+    },
+    {
+     "label": "Magazine report on Miami extreme-heat work, saying Gilbert left Miami-Dade late in 2025 to become chief heat ambassador (Governing)",
+     "url": "https://www.governing.com/magazine/protecting-miami-from-extreme-heat"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-darren-murph",
+   "date": "2026-07-28",
+   "title": "Darren Murph",
+   "origin": {
+    "kind": "article",
+    "label": "Darren Murph: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/darren-murph"
+   },
+   "id": "Case: Darren Murph",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Podcast episode in which Murph describes joining GitLab as head of remote (Running Remote)",
+     "url": "https://runningremote.com/darren-murph-head-of-remote-gitlab/"
+    },
+    {
+     "label": "Murph-authored account of GitLab's pre-existing all-remote system and handbook (GitLab)",
+     "url": "https://about.gitlab.com/blog/how-to-build-a-more-productive-remote-team/"
+    },
+    {
+     "label": "Current collectively maintained all-remote operating handbook (GitLab)",
+     "url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/"
+    },
+    {
+     "label": "Institutional interview on the Head of Remote remit (Crowe)",
+     "url": "https://www.crowe.com/global/insights/exclusive-q-a-with-gitlab-head-of-remote"
+    },
+    {
+     "label": "First-person account of cross-functional work and distributed-workforce scale (Twist)",
+     "url": "https://async.twist.com/how-darren-murph-works-async/"
+    },
+    {
+     "label": "Institutional interview documenting leadership principles and GitLab role (Coursera)",
+     "url": "https://blog.coursera.org/remote-leadership-qa-with-darren-murph-head-of-remote-at-gitlab/"
+    },
+    {
+     "label": "Interview byline listing Murph as Head of Culture at Lovie and founder of Page 52 Consulting, and announcing a November 2026 book (Allwork.Space)",
+     "url": "https://allwork.space/2026/07/why-remote-work-requires-better-systems-not-more-meetings-with-darren-murph/"
+    },
+    {
+     "label": "Podcast interview in which Murph describes his move from GitLab to Andela (Between Two COOs)",
+     "url": "https://betweentwocoos.com/perfecting-remote-work-operations-with-darren-murph-fmr-gitlab-vp-remote/"
+    },
+    {
+     "label": "Current first-party advisory practice, frameworks, and former GitLab role (Darren Murph)",
+     "url": "https://darrenmurph.com/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-linda-fisher",
+   "date": "2026-07-28",
+   "title": "Linda Fisher",
+   "origin": {
+    "kind": "article",
+    "label": "Linda Fisher: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/linda-fisher"
+   },
+   "id": "Case: Linda Fisher",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "EPA nomination record documenting prior agency, Monsanto, and legal roles (U.S. Environmental Protection Agency)",
+     "url": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/c8526e8eb1b1ab2785256a3f006cb82a.html"
+    },
+    {
+     "label": "DuPont announcement that Krysta Harden would succeed Fisher, who had elected to retire the previous month (March 2, 2016) (DuPont / 3BL Media)",
+     "url": "https://www.3blmedia.com/News/DuPont-Names-Krysta-Harden-Vice-President-Public-Policy-and-Chief-Sustainability-Officer"
+    },
+    {
+     "label": "EPA confirmation announcement defining the deputy administrator remit and career chronology (U.S. Environmental Protection Agency)",
+     "url": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/989209589ae67bc985256a570074ceb1.html"
+    },
+    {
+     "label": "Official resignation record and effective endpoint (U.S. Environmental Protection Agency)",
+     "url": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/be33d56e3993c66085256d5100575b24.html"
+    },
+    {
+     "label": "Official chronology of EPA deputy administrators (U.S. Environmental Protection Agency)",
+     "url": "https://www.epa.gov/history/chronology-epa-deputy-administrators"
+    },
+    {
+     "label": "Post-retirement biography describing DuPont remit and retirement (NatureBridge)",
+     "url": "https://naturebridge.org/about-us/leadership/linda-fisher"
+    },
+    {
+     "label": "Chief sustainability officer field study describing Fisher's 2004 appointment and role formation (Weinreb Group)",
+     "url": "https://weinrebgroup.com/wp-content/uploads/2018/07/CSO-Back-Story-by-Weinreb-Group.pdf"
+    },
+    {
+     "label": "Independent field history of DuPont's early CSO role and its contested corporate context (Corporate Knights)",
+     "url": "https://corporateknights.com/workplace/the-rise-of-the-chief-sustainability-officer-cso/"
+    },
+    {
+     "label": "Interview on Fisher's movement between government and business and DuPont sustainability strategy (Resources for the Future)",
+     "url": "https://www.resources.org/archives/greening-the-global-economy-roles-for-business-and-government-an-interview-with-linda-fisher/"
+    },
+    {
+     "label": "EPA-hosted presentation documenting DuPont's 2015 footprint and market-facing goals (U.S. Environmental Protection Agency / DuPont)",
+     "url": "https://www.epa.gov/sites/default/files/2014-10/documents/bk2_thur_9_giraud_reich.pdf"
+    },
+    {
+     "label": "Institutional interview on environmental risk, stakeholder engagement, and the evolution of the CSO function (Duke University Fuqua EDGE)",
+     "url": "https://centers.fuqua.duke.edu/edge/2015/04/28/duponts-chief-sustainability-officer-discusses-the-evolution-of-corporate-sustainability/"
+    },
+    {
+     "label": "Trade-magazine reprint of DuPont’s announcement of its 2020 goals, innovation pipeline, and shared R&D responsibility (adds no independent reporting) (Adhesives Magazine)",
+     "url": "https://www.adhesivesmag.com/articles/94293-dupont-announces-2020-sustainability-goals"
+    },
+    {
+     "label": "Post-tenure interview on market-facing goals and Fisher's DuPont work (Forbes / Environmental Defense Fund)",
+     "url": "https://www.forbes.com/sites/edfenergyexchange/2017/09/28/raising-the-bar-on-corporate-sustainability-a-one-on-one-with-former-dupont-cso-linda-fisher/"
+    },
+    {
+     "label": "Board history confirming DuPont retirement and later World Environment Center service (World Environment Center / 3BL Media)",
+     "url": "https://www.3blmedia.com/news/world-environment-center-elects-new-emeritus-directors"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-jony-ive",
+   "date": "2026-07-28",
+   "title": "Jony Ive",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 001: When Does One Person Become an Institution?, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/001"
+   },
+   "id": "Case: Jony Ive",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Apple reorganization assigning Human Interface leadership and naming other executives (Apple)",
+     "url": "https://www.apple.com/newsroom/2012/10/29Apple-Announces-Changes-to-Increase-Collaboration-Across-Hardware-Software-Services/"
+    },
+    {
+     "label": "Apple announcement of Ive's departure, LoveFrom, client relationship, design team, and successor leaders (Apple)",
+     "url": "https://www.apple.com/newsroom/2019/06/jony-ive-to-form-independent-design-company-with-apple-as-client/"
+    },
+    {
+     "label": "Contemporaneous report of Apple's new Chief Design Officer title (Time)",
+     "url": "https://time.com/3895749/apple-jonathan-ive-tim-cook/"
+    },
+    {
+     "label": "Independent contemporaneous account of the Apple departure and named design succession (Time)",
+     "url": "https://time.com/5616374/jony-ive-apple/"
+    },
+    {
+     "label": "Airbnb newsroom post by Brian Chesky announcing a multi-year LoveFrom collaboration (Airbnb)",
+     "url": "https://news.airbnb.com/designing-the-future-of-airbnb/"
+    },
+    {
+     "label": "Joint announcement of Ferrari, Exor, LoveFrom, Ive, and Marc Newson collaboration (Exor and Ferrari)",
+     "url": "https://www.exor.com/press-releases/2021-09-27/exor-ferrari-and-lovefrom-announce-creative-partnership"
+    },
+    {
+     "label": "Ferrari article revealing the Luce interior, interface design, and name, and LoveFrom's role (Ferrari)",
+     "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-luce-revealing-interior-interface-design-and-the-name"
+    },
+    {
+     "label": "Ferrari article presenting the Luce exterior, designed with LoveFrom (Ferrari)",
+     "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-luce-a-new-chapter-for-the-maranello-marque"
+    },
+    {
+     "label": "New York Times report, citing unnamed sources, that Apple and LoveFrom agreed not to extend their consulting agreement; it also reported a contract value above $100 million, which neither company has confirmed (The New York Times)",
+     "url": "https://www.nytimes.com/2022/07/12/technology/jony-ive-apple-lovefrom.html"
+    },
+    {
+     "label": "Reuters rewrite of the New York Times report that Apple and LoveFrom ended their consulting agreement (adds no independent reporting) (Reuters)",
+     "url": "https://www.reuters.com/technology/apple-has-ended-consulting-deal-with-former-designer-jony-ive-ny-times-2022-07-12/"
+    },
+    {
+     "label": "Royal College of Art record of Ive's chancellorship and institutional duties (Royal College of Art)",
+     "url": "https://www.rca.ac.uk/news-and-events/news/sir-jony-ive-kbe-appointed-chancellor-of-the-royal-college-of-art/"
+    },
+    {
+     "label": "British Museum governance record identifying Ive within a multi-person board (British Museum)",
+     "url": "https://www.britishmuseum.org/about-us/governance"
+    },
+    {
+     "label": "British Museum press release announcing Ive's appointment as trustee (British Museum)",
+     "url": "https://www.britishmuseum.org/about-us/press/press-releases/sir-jony-ive-appointed-new-trustee-british-museum"
+    },
+    {
+     "label": "OpenAI statement on io, team merger, LoveFrom independence, and cross-company design responsibilities (OpenAI)",
+     "url": "https://openai.com/sam-and-jony/"
+    },
+    {
+     "label": "Independent transaction report on io, valuation, team, and intended relationship (Reuters)",
+     "url": "https://www.reuters.com/technology/artificial-intelligence/openai-buys-iphone-designer-ives-hardware-startup-names-him-creative-head-2025-05-21/"
+    },
+    {
+     "label": "Independent transaction reporting on OpenAI's io acquisition and prior relationship (Financial Times)",
+     "url": "https://www.ft.com/content/8ac40343-2fd1-4035-9664-47c77017d0d3"
+    },
+    {
+     "label": "Independent reporting on the io/IYO trademark order and promotional restrictions (Associated Press)",
+     "url": "https://apnews.com/article/39c18d183f8fb8d0ec3af38ffa61ff7d"
+    },
+    {
+     "label": "Independent report on merger completion, trademark dispute, and LoveFrom independence (The Verge)",
+     "url": "https://www.theverge.com/news/703114/openai-io-jony-ive-sam-altman-ai-hardware"
+    },
+    {
+     "label": "Court docket, IYO, Inc. v. IO Products, Inc., No. 3:25-cv-04861-TLT (N.D. Cal.), including ECF 158, 195, and 207 to 209 (stipulation, status report, and order on stipulation) (U.S. District Court, Northern District of California)",
+     "url": "https://www.courtlistener.com/docket/70495566/iyo-inc-v-io-products-inc/"
+    },
+    {
+     "label": "Order granting iyO's motion for a preliminary injunction (ECF 158) (U.S. District Court, Northern District of California)",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.450913/gov.uscourts.cand.450913.158.0.pdf"
+    },
+    {
+     "label": "Joint notice of settlement (ECF 195) (U.S. District Court, Northern District of California)",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.450913/gov.uscourts.cand.450913.195.0.pdf"
+    },
+    {
+     "label": "Ninth Circuit memorandum affirming the temporary restraining order, No. 25-4028 (U.S. Court of Appeals for the Ninth Circuit)",
+     "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2025/12/03/25-4028.pdf"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-astro-teller",
+   "date": "2026-07-28",
+   "title": "Astro Teller",
+   "origin": {
+    "kind": "article",
+    "label": "Astro Teller: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/astro-teller"
+   },
+   "id": "Case: Astro Teller",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "X's current institutional mission and Google ownership (X, a division of Google)",
+     "url": "https://x.company/"
+    },
+    {
+     "label": "Official X record of graduates, project launches, and closures (X, a division of Google)",
+     "url": "https://x.company/press/"
+    },
+    {
+     "label": "Official portfolio of current and graduated projects (X, a division of Google)",
+     "url": "https://x.company/projects/"
+    },
+    {
+     "label": "X's retrospective account naming teams and project histories (X, a division of Google)",
+     "url": "https://x.company/moonshotpodcast/"
+    },
+    {
+     "label": "Alphabet's description of its holding-company structure for speculative bets (Alphabet)",
+     "url": "https://abc.xyz/"
+    },
+    {
+     "label": "Independent technical profile of Teller and X's multidisciplinary laboratory (IEEE Spectrum)",
+     "url": "https://spectrum.ieee.org/astro-teller-captain-of-moonshots-at-x"
+    },
+    {
+     "label": "Institutional record of Teller's method for testing and ending projects (Stanford Technology Ventures Program)",
+     "url": "https://stvp.stanford.edu/av/celebrating-failure-fuels-moonshots"
+    },
+    {
+     "label": "Independent interview on X's experimentation method and Alphabet funding (Wired)",
+     "url": "https://www.wired.com/story/astro-teller-google-moonshot-factory-wired25/"
+    },
+    {
+     "label": "Independent account of Loon's closure, commercial limits, and Teller's role in ending it (Wired)",
+     "url": "https://www.wired.com/story/plaintext-alphabet-pops-loons-balloons/"
+    },
+    {
+     "label": "Independent report on the shutdown of Everyday Robots after graduation (Wired)",
+     "url": "https://www.wired.com/story/alphabet-layoffs-hit-trash-sorting-robots/"
+    },
+    {
+     "label": "Independent report on Taara's spinout and Alphabet's retained minority stake (The Verge)",
+     "url": "https://www.theverge.com/news/631049/alphabet-spins-off-starlink-competitor-taara"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-marc-lore",
+   "date": "2026-07-28",
+   "title": "Marc Lore",
+   "origin": {
+    "kind": "article",
+    "label": "Marc Lore: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/marc-lore"
+   },
+   "id": "Case: Marc Lore",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Independent career and Wonder operating-model profile (Fortune)",
+     "url": "https://fortune.com/2025/03/27/wonder-marc-lore-serial-entrepreneur-amazon-of-food-delivery/"
+    },
+    {
+     "label": "Amazon acquisition announcement naming Quidsi co-founders, price, debt, and outstanding shares (Amazon)",
+     "url": "https://press.aboutamazon.com/2010/11/amazon-com-to-acquire-diapers-com-and-soap-com"
+    },
+    {
+     "label": "Independent report on Amazon shutting down Quidsi and its stated profitability rationale (CNBC)",
+     "url": "https://www.cnbc.com/2017/03/29/amazon-shuts-down-quidsi.html"
+    },
+    {
+     "label": "Walmart's Jet.com acquisition and Lore leadership announcement (Walmart)",
+     "url": "https://corporate.walmart.com/news/2016/08/08/walmart-agrees-to-acquire-jet-com-one-of-the-fastest-growing-e-commerce-companies-in-the-u-s"
+    },
+    {
+     "label": "Independent report on Lore's Walmart departure and e-commerce mandate (Reuters)",
+     "url": "https://www.reuters.com/business/walmart-head-us-e-commerce-retire-2021-01-15/"
+    },
+    {
+     "label": "Independent report on Jet's closure, integration, performance, and Lore's advisory period (Retail Dive)",
+     "url": "https://www.retaildive.com/news/walmart-e-commerce-chief-marc-lore-to-retire/593472/"
+    },
+    {
+     "label": "Independent report on Wonder’s completion of the Blue Apron acquisition (NJBIZ)",
+     "url": "https://njbiz.com/wonder-continues-pivot-closes-103m-blue-apron-acquisition"
+    },
+    {
+     "label": "Telosa's first-party description of the proposed city and governance aspirations (Telosa)",
+     "url": "https://cityoftelosa.com/"
+    },
+    {
+     "label": "NBA approval of the Timberwolves and Lynx ownership transaction (National Basketball Association)",
+     "url": "https://www.nba.com/news/nba-approves-sale-minnesota-timberwolves-marc-lore-and-alex-rodriguez"
+    },
+    {
+     "label": "Archived copy of the Wonder and Grubhub announcement of the $650 million acquisition structure (the live page now redirects to Wonder’s newsroom index) (Grubhub / Wonder)",
+     "url": "https://web.archive.org/web/20260826050608/https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/"
+    },
+    {
+     "label": "Independent report on Grubhub's sale price, prior valuation, and market position (Associated Press)",
+     "url": "https://apnews.com/article/32e1a09026364b7df1f654795eae4d18"
+    },
+    {
+     "label": "Independent report on approximately 500 Grubhub layoffs after Wonder's takeover (Reuters)",
+     "url": "https://www.reuters.com/technology/food-delivery-company-grubhub-lay-off-500-positions-2025-02-28/"
+    },
+    {
+     "label": "Independent report on Wonder's 2025 financing, valuation, and expansion (Restaurant Dive)",
+     "url": "https://www.restaurantdive.com/news/wonder-raises-600-million-7-billion-valuation/747284/"
+    },
+    {
+     "label": "Wonder's 2026 Series D announcement, investor list, valuation basis, and use of proceeds (Wonder / PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/wonder-announces-650-million-series-d-round-at-a-9-billion-pre-money-valuation-302827208.html"
+    },
+    {
+     "label": "Independent report on Wonder's 2026 financing and proposed IPO timing (Fortune)",
+     "url": "https://fortune.com/2026/07/16/exclusive-marc-lore-says-wonder-is-gearing-up-for-an-ipo-650-million-9-billion-valuation-cathie-wood-grubhub-food-delivery/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-shonda-rhimes",
+   "date": "2026-07-28",
+   "title": "Shonda Rhimes",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 001: When Does One Person Become an Institution?, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/001"
+   },
+   "id": "Case: Shonda Rhimes",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Company history, media extensions, leadership, and Netflix relationship (Shondaland)",
+     "url": "https://www.shondalandmedia.com/about-us/"
+    },
+    {
+     "label": "Institutional profile of authorship and company leadership (American Academy of Arts & Sciences)",
+     "url": "https://www.amacad.org/person/shonda-rhimes"
+    },
+    {
+     "label": "Netflix announces the overall deal and Beers’s move (Netflix)",
+     "url": "https://about.netflix.com/en/news/shonda-rhimes-and-shondland-come-to-netflix"
+    },
+    {
+     "label": "Contemporaneous report on the move from ABC to Netflix (Time)",
+     "url": "https://time.com/4898933/netflix-shonda-rhimes-shondaland/"
+    },
+    {
+     "label": "Netflix announces expanded pact and covered formats (Netflix)",
+     "url": "https://about.netflix.com/en/news/netflix-and-shonda-rhimes-expand-creative-pact"
+    },
+    {
+     "label": "Industry report on the extended agreement (Deadline)",
+     "url": "https://deadline.com/2021/07/shonda-rhimes-extends-deal-with-netflix-adds-feature-films-gaming-1234788724/"
+    },
+    {
+     "label": "Independent report on expanded production scope (Variety)",
+     "url": "https://variety.com/2021/tv/news/netflix-shonda-rhimes-extend-deal-to-include-feature-films-gaming-and-virtual-reality-content-1235014998/"
+    },
+    {
+     "label": "Report on the Bridgerton musical litigation and dismissal (Deadline)",
+     "url": "https://deadline.com/2022/09/netflix-sues-bridgerton-the-musical-creators-for-infringement-1235081610/"
+    },
+    {
+     "label": "Complaint, Netflix Worldwide Entertainment, LLC v. Barlow, No. 1:22-cv-02247 (D.D.C.), filed July 29, 2022 (U.S. District Court for the District of Columbia (via Deadline))",
+     "url": "https://deadline.com/wp-content/uploads/2022/07/Netflix-Barlow-And-Bear-Lawsuit.pdf"
+    },
+    {
+     "label": "Independent report on the voluntary dismissal and reported settlement (Tubefilter)",
+     "url": "https://www.tubefilter.com/2022/09/26/unofficial-bridgerton-musical-lawsuit-settlement-netflix-shonda-rhimes-abigal-barlow-emily-bear/"
+    },
+    {
+     "label": "Republication of statements by Rhimes, Quinn, and Netflix on the musical dispute (adds no independent reporting) (Playbill)",
+     "url": "https://playbill.com/article/shonda-rhimes-julia-quinn-respond-to-netflixs-unofficial-bridgerton-musical-lawsuit-against-barlow-and-bear"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-simon-cook",
+   "date": "2026-07-28",
+   "title": "Simon Cook",
+   "origin": {
+    "kind": "article",
+    "label": "Simon Cook: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/simon-cook"
+   },
+   "id": "Case: Simon Cook",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Trade report of the same March 2019 announcement (drawn from the owner’s statement), saying Cook had been with Cannes Lions for nearly four years (The Drum)",
+     "url": "https://www.thedrum.com/news/cannes-lions-announces-simon-cook-managing-director"
+    },
+    {
+     "label": "Reprint of Ascential’s March 2019 announcement of Cook’s managing-director appointment and credited system design (Little Black Book)",
+     "url": "https://lbbonline.com/news/simon-cook-announced-as-managing-director-of-cannes-lions"
+    },
+    {
+     "label": "Cook biography and current CEO role (Cannes Lions)",
+     "url": "https://www.canneslions.com/festival/speakers/simon-cook-s1-112589"
+    },
+    {
+     "label": "Independent reporting on Cannes Lions owner Ascential (The Guardian)",
+     "url": "https://www.theguardian.com/media/2016/jan/14/cannes-lions-owner-ascential-float-top-right-apax-gmg"
+    },
+    {
+     "label": "Transaction report on Informa’s Ascential acquisition (Reuters)",
+     "url": "https://www.reuters.com/markets/deals/informa-agrees-16-billion-deal-cannes-lions-owner-ascential-2024-07-24/"
+    },
+    {
+     "label": "Report on Informa’s post-acquisition restructuring (Financial Times)",
+     "url": "https://www.ft.com/content/32e6b86a-9fa4-446b-a94c-8766652223df"
+    },
+    {
+     "label": "Cannes Lions announces global integrity standards (Cannes Lions)",
+     "url": "https://www.canneslions.com/statement-cannes-lions-introduces-global-integrity-standards"
+    },
+    {
+     "label": "Report on manipulated case studies and new rules (Adweek)",
+     "url": "https://www.adweek.com/creativity/cannes-lions-cracks-down-on-award-manipulation-with-new-rules/"
+    },
+    {
+     "label": "Report on sanctions for wilfully false submissions (PRWeek)",
+     "url": "https://www.prweek.com/article/1925166/cannes-lions-ban-agencies-submit-wilfully-false-campaigns"
+    },
+    {
+     "label": "Programme documenting continuing leadership and expansion (Cannes Lions)",
+     "url": "https://www.canneslions.com/festival/experiences/lions-sport/programme/lions-sport-welcome-e1-74864"
+    },
+    {
+     "label": "Interview on 2026 awards enforcement (MM+M)",
+     "url": "https://www.mmm-online.com/news/cannes-lions-boss-on-new-awards-rules/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-marc-pritchard",
+   "date": "2026-07-28",
+   "title": "Marc Pritchard",
+   "origin": {
+    "kind": "article",
+    "label": "Marc Pritchard: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/marc-pritchard"
+   },
+   "id": "Case: Marc Pritchard",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Official role, remit, and P&G career chronology (Procter & Gamble)",
+     "url": "https://us.pg.com/leadership-team/marc-pritchard/"
+    },
+    {
+     "label": "Independent professional biography and appointment chronology (American Advertising Federation)",
+     "url": "https://www.aaf.org/Public/Public/Bios/AHOF_Members/O-P/Marc_Pritchard.aspx"
+    },
+    {
+     "label": "Independent report on appointment as global marketing officer (The Guardian)",
+     "url": "https://www.theguardian.com/media/2008/jul/16/mediabusiness.marketingandpr"
+    },
+    {
+     "label": "Interview page and executive biography from The CMO Survey, in which Pritchard describes budget and marketer-development responsibilities (The CMO Survey)",
+     "url": "https://cmosurvey.org/about/cmo-insights/marc-s-pritchard-global-marketing-officer-procter-gamble/"
+    },
+    {
+     "label": "Independent report on P&G’s $200 million digital-spending reduction (Reuters)",
+     "url": "https://www.reuters.com/article/business/pg-says-cut-digital-ad-spend-by-200-million-in-2017-idUSKCN1GD653/"
+    },
+    {
+     "label": "Independent report on transparency pressure, spending cuts, and claimed reach effects (The Wall Street Journal)",
+     "url": "https://www.wsj.com/articles/p-g-slashed-digital-ad-spending-by-another-100-million-1519915621"
+    },
+    {
+     "label": "Contemporaneous account of the media-transparency program (Marketing Week)",
+     "url": "https://www.marketingweek.com/pg-marc-pritchard-clean-up-digital/"
+    },
+    {
+     "label": "Independent analysis of agency consolidation and in-house control (The Guardian)",
+     "url": "https://www.theguardian.com/media/2018/apr/21/advertising-no-longer-pays-global-publicity-titans-martin-sorrell"
+    },
+    {
+     "label": "First-party account of representation strategy and reported commercial context (Procter & Gamble)",
+     "url": "https://us.pg.com/blogs/pg-perfect-score-hrc-corporate-equality-index/"
+    },
+    {
+     "label": "Institutional description of current brand-building responsibilities (Cannes Lions)",
+     "url": "https://www.canneslions.com/learning/learning-speakers/marc-pritchard-s1-109299"
+    },
+    {
+     "label": "First-party account of the 2026 AI and human-insight brand-building thesis (Procter & Gamble)",
+     "url": "https://us.pg.com/blogs/cannes-lions-international-festival-of-creativity/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-reid-hoffman",
+   "date": "2026-07-28",
+   "title": "Reid Hoffman",
+   "origin": {
+    "kind": "article",
+    "label": "Reid Hoffman: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/reid-hoffman"
+   },
+   "id": "Case: Reid Hoffman",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "First-party account of current companies, media, and AI priorities (Reid Hoffman)",
+     "url": "https://www.reidhoffman.org/"
+    },
+    {
+     "label": "Institutional biography covering PayPal, LinkedIn, and Greylock roles (Greylock)",
+     "url": "https://greylock.com/team/reid-hoffman/"
+    },
+    {
+     "label": "Institutional biography describing operating and investment roles (MIT)",
+     "url": "https://www.ccc.mit.edu/person/reid-hoffman/"
+    },
+    {
+     "label": "Microsoft and LinkedIn acquisition announcement, price, and operating structure (Microsoft)",
+     "url": "https://news.microsoft.com/source/2016/06/13/microsoft-to-acquire-linkedin/"
+    },
+    {
+     "label": "Transaction call documenting Hoffman’s shareholder support and Weiner’s continuing CEO role (Microsoft)",
+     "url": "https://news.microsoft.com/speeches/microsoft-and-linkedin-conference-call-chris-suh-satya-nadella-jeff-weiner-amy-hood-brad-smith/"
+    },
+    {
+     "label": "Microsoft corporate history and board record (Microsoft)",
+     "url": "https://news.microsoft.com/facts-about-microsoft/"
+    },
+    {
+     "label": "Independent report on Inflection’s founders, financing, investors, and staffing (Reuters)",
+     "url": "https://www.reuters.com/technology/inflection-ai-raises-13-bln-funding-microsoft-others-2023-06-29/"
+    },
+    {
+     "label": "Independent report on Microsoft’s Inflection licensing and hiring transaction (Reuters)",
+     "url": "https://www.reuters.com/technology/microsoft-agreed-pay-inflection-650-mln-while-hiring-its-staff-information-2024-03-21/"
+    },
+    {
+     "label": "Independent report on leadership transfer, continuing company, and Hoffman’s board role (Financial Times)",
+     "url": "https://www.ft.com/content/5feedf3a-ff7a-4c89-9b1d-f9b48834ff4c"
+    },
+    {
+     "label": "Independent report on Microsoft board tenure and 2026 decision not to seek re-election (Reuters)",
+     "url": "https://www.reuters.com/business/linkedin-co-founder-reid-hoffman-step-down-microsofts-board-2026-06-05/"
+    },
+    {
+     "label": "Independent reporting on Hoffman’s Epstein interactions and stated regret (The Wall Street Journal)",
+     "url": "https://www.wsj.com/articles/jeffrey-epstein-reid-hoffman-elon-musk-bill-gates-5071d976"
+    },
+    {
+     "label": "Report on Hoffman’s 2019 statement about his Epstein interactions and MIT fundraising (Axios)",
+     "url": "https://www.axios.com/2019/09/12/reid-hoffman-jeffrey-epstein-mit-donations"
+    },
+    {
+     "label": "Independent report on Hoffman, the Epstein files, and the Wall Street Journal’s 2023 reporting (Fortune)",
+     "url": "https://fortune.com/2025/11/18/reid-hoffman-epstein-files/"
+    },
+    {
+     "label": "Independent report on Hoffman’s Epstein ties, his 2019 statement, and the 2025 calls for investigation (ABC News)",
+     "url": "https://abcnews.com/US/linkedin-founder-reid-hoffmans-ties-jeffrey-epstein-face/story?id=127651719"
+    },
+    {
+     "label": "Independent report on the February 2026 Epstein files and Hoffman’s statement (NBC News)",
+     "url": "https://www.nbcnews.com/tech/tech-news/jeffrey-epstein-files-reveal-deep-tech-ties-musk-gates-rcna257092"
+    },
+    {
+     "label": "Hoffman’s announcement that he was leaving OpenAI’s board (Reid Hoffman (LinkedIn))",
+     "url": "https://www.linkedin.com/posts/reidhoffman_ai-like-most-transformative-technologies-activity-7037481313934741504-wJjU"
+    },
+    {
+     "label": "Independent report on Hoffman leaving OpenAI’s board to avoid potential conflicts (CNBC (via NBC Connecticut))",
+     "url": "https://www.nbcconnecticut.com/news/business/money-report/reid-hoffman-steps-down-from-openai-board-to-avoid-potential-conflicts-of-interest/2987376/"
+    },
+    {
+     "label": "Federal Election Commission itemized contributions from Hoffman, Reid to FF PAC (C00669259), 2023-2024 cycle, $1,000,000 and over (Federal Election Commission)",
+     "url": "https://www.fec.gov/data/receipts/individual-contributions/?committee_id=C00669259&contributor_name=Hoffman%2C+Reid&two_year_transaction_period=2024&min_amount=1000000"
+    },
+    {
+     "label": "Federal Election Commission itemized contributions from Hoffman, Reid to Lone Star Rising PAC (C00918268), 2025-2026 cycle (Federal Election Commission)",
+     "url": "https://www.fec.gov/data/receipts/individual-contributions/?committee_id=C00918268&contributor_name=Hoffman%2C+Reid&two_year_transaction_period=2026"
+    },
+    {
+     "label": "Independent investigation commissioned by MIT into Epstein fundraising and institutional controls (Goodwin Procter / MIT)",
+     "url": "https://facultygovernance.mit.edu/sites/default/files/20200121GoodwinProcterReport.pdf"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-fei-fei-li",
+   "date": "2026-07-28",
+   "title": "Fei-Fei Li",
+   "origin": {
+    "kind": "article",
+    "label": "Fei-Fei Li: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/fei-fei-li"
+   },
+   "id": "Case: Fei-Fei Li",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Official academic, industry, institutional, and World Labs chronology (Stanford University)",
+     "url": "https://profiles.stanford.edu/fei-fei-li"
+    },
+    {
+     "label": "Institutional biography covering ImageNet, SAIL, Google Cloud, HAI, and AI4ALL (Stanford HAI)",
+     "url": "https://hai.stanford.edu/people/fei-fei-li"
+    },
+    {
+     "label": "Original ImageNet research paper documenting the collaborative dataset (IEEE)",
+     "url": "https://ieeexplore.ieee.org/document/5206848"
+    },
+    {
+     "label": "Independent institutional account of ImageNet’s scale and role (Stanford AI Index)",
+     "url": "https://hai.stanford.edu/sites/default/files/ai_index_2019_report.pdf"
+    },
+    {
+     "label": "Organizational history and mission of the education nonprofit (AI4ALL)",
+     "url": "https://ai-4-all.org/about/"
+    },
+    {
+     "label": "Independent report on Li’s leaked Project Maven communications (Business Insider)",
+     "url": "https://www.businessinsider.com/google-fei-fei-li-warned-about-maven-ai-deal-2018-5"
+    },
+    {
+     "label": "Republished copy of the New York Times report on Project Maven, including Li’s statement to the Times (WRAL, reprinting The New York Times)",
+     "url": "https://www.wral.com/archive/17592306/"
+    },
+    {
+     "label": "Independent investigation of Google’s Project Maven conflict (The New York Times)",
+     "url": "https://www.nytimes.com/2018/05/30/technology/google-project-maven-pentagon.html"
+    },
+    {
+     "label": "External critique of ImageNet’s politics, taxonomies, and person labels (Kate Crawford and Trevor Paglen / Liverpool Biennial)",
+     "url": "https://archive.biennial.com/journal/issue-9/excavating-ai-the-politics-of-images-in-machine-learning-training-sets"
+    },
+    {
+     "label": "ImageNet team’s technical review of problematic person categories and imbalance (arXiv)",
+     "url": "https://arxiv.org/abs/1912.07726"
+    },
+    {
+     "label": "Institutional account of the ImageNet remediation research (Princeton University)",
+     "url": "https://engineering.princeton.edu/news/2020/02/12/researchers-devise-approach-reduce-biases-computer-vision-data-sets"
+    },
+    {
+     "label": "Independent account of ImageNet Roulette criticism and its limits (Axios)",
+     "url": "https://www.axios.com/2019/09/22/imagenet-roulette-ai-art-bias"
+    },
+    {
+     "label": "Independent report on Li’s venture role and policy work (Axios)",
+     "url": "https://www.axios.com/2023/02/10/fei-fei-li-ai-expert-radical-ventures"
+    },
+    {
+     "label": "Independent report on World Labs’ co-founders, financing, staffing, and thesis (Reuters)",
+     "url": "https://www.reuters.com/technology/artificial-intelligence/ai-godmother-fei-fei-li-raises-230-million-launch-ai-startup-2024-09-13/"
+    },
+    {
+     "label": "Independent report on World Labs’ formation, financing, and valuation (Financial Times)",
+     "url": "https://www.ft.com/content/0b210299-4659-4055-8d81-5a493e85432f"
+    },
+    {
+     "label": "AMD Form 8-K reporting the merger agreement to acquire World Labs (U.S. Securities and Exchange Commission (AMD))",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000182/amd-20260926.htm"
+    },
+    {
+     "label": "Independent report on AMD’s agreement to acquire World Labs and Li’s planned role (The Next Web)",
+     "url": "https://thenextweb.com/news/amd-world-labs-8-2bn-fei-fei-li-chief-scientist"
+    },
+    {
+     "label": "Company description of team, research thesis, and products (World Labs)",
+     "url": "https://www.worldlabs.ai/about"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-neri-oxman",
+   "date": "2026-07-28",
+   "title": "Neri Oxman",
+   "origin": {
+    "kind": "article",
+    "label": "Neri Oxman: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/neri-oxman"
+   },
+   "id": "Case: Neri Oxman",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "MIT biography and institutional account of Material Ecology (MIT Media Lab)",
+     "url": "https://www.media.mit.edu/people/neri/overview/"
+    },
+    {
+     "label": "MIT account of doctoral formation and the Material Ecology research frame (MIT News)",
+     "url": "https://news.mit.edu/2014/media-labs-neri-oxman-awarded-vilcek-prize-"
+    },
+    {
+     "label": "Oxman’s doctoral dissertation record (MIT DSpace)",
+     "url": "https://dspace.mit.edu/handle/1721.1/59192"
+    },
+    {
+     "label": "Institutional profile describing the Mediated Matter group and its interdisciplinary work (MIT Media Lab)",
+     "url": "https://www.media.mit.edu/articles/neri-oxman-has-all-the-answers/"
+    },
+    {
+     "label": "Project record naming Glass I researchers and collaborating MIT institutions (MIT Media Lab)",
+     "url": "https://www.media.mit.edu/projects/g3p/overview/"
+    },
+    {
+     "label": "Project record crediting Oxman, Mediated Matter members, Stratasys, and named collaborators (MIT Media Lab)",
+     "url": "https://www.media.mit.edu/projects/vespers/overview/"
+    },
+    {
+     "label": "Independent investigation commissioned by MIT into Epstein donations and institutional controls (Goodwin Procter / MIT)",
+     "url": "https://facultygovernance.mit.edu/sites/default/files/20200121GoodwinProcterReport.pdf"
+    },
+    {
+     "label": "Independent report on funding to Oxman’s lab and related communications (Axios)",
+     "url": "https://www.axios.com/2019/09/14/joi-jeffrey-epstein-ties-mit-media-lab-professor"
+    },
+    {
+     "label": "Independent report on the 2015 meeting with Epstein, the resulting gift, and Oxman’s regret (The Boston Globe)",
+     "url": "https://www.bostonglobe.com/metro/2019/09/13/meeting-with-epstein-led-gift-and-now-regrets/0SPYm0hSg8iNh3JdDwPICP/story.html"
+    },
+    {
+     "label": "Independent report on Oxman’s statement about the MIT donations (Dezeen)",
+     "url": "https://www.dezeen.com/2019/09/16/neri-oxman-mit-donations-jeffrey-epstein-news/"
+    },
+    {
+     "label": "Publisher account of the Mediated Matter monograph and research history (MIT Press)",
+     "url": "https://mitpress.mit.edu/9780262049177/mediated-matter/"
+    },
+    {
+     "label": "Museum exhibition record for Nature × Humanity (San Francisco Museum of Modern Art)",
+     "url": "https://www.sfmoma.org/exhibition/nature-x-humanity-oxman-architects/"
+    },
+    {
+     "label": "Company mission and current project system (OXMAN)",
+     "url": "https://www.oxman.com/"
+    },
+    {
+     "label": "Company record of projects, partnerships, and public launch (OXMAN)",
+     "url": "https://oxman.com/company"
+    },
+    {
+     "label": "Company launch announcement naming the multidisciplinary team (OXMAN / PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/neri-oxman-launches-oxman-a-revolutionary-practice-transforming-design-generation-manufacturing-and-construction-for-the-simultaneous-benefit-of-humans-and-the-natural-environment-302263320.html"
+    },
+    {
+     "label": "Partner announcement documenting OXMAN’s first industry collaboration (Goodman Group)",
+     "url": "https://us.goodman.com/about-goodman/media-center/latest-news/2024/oxman-announces-partnership-with-goodman-group"
+    },
+    {
+     "label": "Investigation of attribution and citation problems in academic work (Business Insider)",
+     "url": "https://www.businessinsider.com/neri-oxman-plagiarize-wikipedia-mit-dissertation-2024-1"
+    },
+    {
+     "label": "Independent report on Oxman’s response to the dissertation allegations, including her statement on X (NBC News)",
+     "url": "https://www.nbcnews.com/news/us-news/neri-oxman-billionaire-investor-bill-ackmans-wife-accused-plagiarism-m-rcna132436"
+    },
+    {
+     "label": "Independent report that Business Insider and its parent stood by the investigation after review (Associated Press)",
+     "url": "https://apnews.com/article/c8d7817314772b1b5443f656d0e2ae74"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "case-brian-may",
+   "date": "2026-07-28",
+   "title": "Brian May",
+   "origin": {
+    "kind": "article",
+    "label": "Brian May: the case record on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/observatory/brian-may"
+   },
+   "id": "Case: Brian May",
+   "series": "Institutions of One Observatory, case record",
+   "research": [
+    {
+     "label": "Official biography covering Queen, solo work, science, stereoscopy, and advocacy (Queen)",
+     "url": "https://www.queenonline.com/brian_may"
+    },
+    {
+     "label": "Official Queen history and band chronology (Queen)",
+     "url": "https://www.queenonline.com/queen"
+    },
+    {
+     "label": "Imperial repository record and full 2007 doctoral thesis (Imperial College London)",
+     "url": "https://spiral.imperial.ac.uk/entities/publication/3d426771-aa65-4ac5-a546-42b23881e3db"
+    },
+    {
+     "label": "Imperial archive account of May’s 1970 to 1974 doctoral research period (Imperial College London)",
+     "url": "https://blogs.imperial.ac.uk/videoarchive/tag/physics/"
+    },
+    {
+     "label": "Imperial account of May’s post-PhD lecture on zodiacal dust (Imperial College London)",
+     "url": "https://www.imperial.ac.uk/news/21834/zodiacal-dust-stuff-the-annual-alumni/"
+    },
+    {
+     "label": "Company record of May’s stereoscopic publishing and collaborations (London Stereoscopic Company)",
+     "url": "https://www.londonstereo.com/"
+    },
+    {
+     "label": "Charity mission, campaigns, and organizational activity (Save Me Trust)",
+     "url": "https://savemetrust.co.uk/"
+    },
+    {
+     "label": "Institutional history of Asteroid Day and its co-founders (Asteroid Foundation)",
+     "url": "https://asteroidday.org/about/"
+    },
+    {
+     "label": "United Nations record recognizing International Asteroid Day (United Nations)",
+     "url": "https://www.un.org/en/observances/asteroid-day"
+    },
+    {
+     "label": "NASA mission account of OSIRIS-REx and the Bennu sample-return collaboration (NASA)",
+     "url": "https://science.nasa.gov/mission/osiris-rex/"
+    },
+    {
+     "label": "Question-and-answer interview in which May describes his stereoscopic contribution to OSIRIS-REx (Space.com)",
+     "url": "https://www.space.com/brian-may-osiris-rex-bennu-interview"
+    },
+    {
+     "label": "Independent report on Queen Productions ownership and the proposed catalog transaction (The Guardian)",
+     "url": "https://www.theguardian.com/music/article/2024/may/29/sony-music-talks-queen-music-catalogue-1bn"
+    },
+    {
+     "label": "Independent report on the Queen rights transaction and reported price (Variety)",
+     "url": "https://variety.com/2024/music/news/queen-catalog-acquired-by-sony-music-1-billion-1236042619/"
+    }
+   ],
+   "other": [],
+   "images": []
+  },
+  {
+   "slug": "tool-dependency-explorer",
+   "date": "2026-07-27",
+   "title": "Dependency Explorer",
+   "origin": {
+    "kind": "article",
+    "label": "Edition 002: Your Career Has a Supply Chain, in The I/1 Edit",
+    "url": "https://ownership-platform.vercel.app/edit/002"
+   },
+   "id": "Dependency Explorer",
+   "series": "Institutions of One Observatory, interactive tool",
+   "research": [],
+   "other": [
+    {
+     "label": "The 41 case records the explorer reads, each with its own sources",
+     "url": "https://ownership-platform.vercel.app/observatory"
+    },
+    {
+     "label": "How the evidence behind the case records is checked",
+     "url": "https://ownership-platform.vercel.app/observatory/evidence"
+    }
+   ],
+   "images": []
+  },
+  {
+   "slug": "tool-ownership-index",
+   "date": "2026-07-23",
+   "title": "The Ownership Index",
+   "origin": {
+    "kind": "article",
+    "label": "The Ownership Index method, on Institutions of One",
+    "url": "https://ownership-platform.vercel.app/methodology"
+   },
+   "id": "The Ownership Index",
+   "series": "Institutions of One Observatory, interactive tool",
+   "research": [],
+   "other": [
+    {
+     "label": "The method behind the Ownership Index: the questions, the five areas and how a result is read",
+     "url": "https://ownership-platform.vercel.app/methodology"
+    },
+    {
+     "label": "The two self-checks, side by side",
+     "url": "https://ownership-platform.vercel.app/assess"
+    }
+   ],
+   "images": []
+  }
+ ]
+}

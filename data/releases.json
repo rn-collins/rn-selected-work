@@ -4638,6 +4638,481 @@
    "galleryUrl": ""
   },
   {
+   "id": "ioo/case-alex-cooper",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/002",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-alex-cooper",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/alex-cooper"
+  },
+  {
+   "id": "ioo/case-alexandr-wang",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/alexandr-wang",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-alexandr-wang",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/alexandr-wang"
+  },
+  {
+   "id": "ioo/case-ashley-rudder",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/ashley-rudder",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-ashley-rudder",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/ashley-rudder"
+  },
+  {
+   "id": "ioo/case-astro-teller",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/astro-teller",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-astro-teller",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/astro-teller"
+  },
+  {
+   "id": "ioo/case-brad-keywell",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/brad-keywell",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-brad-keywell",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/brad-keywell"
+  },
+  {
+   "id": "ioo/case-brian-may",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/brian-may",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-brian-may",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/brian-may"
+  },
+  {
+   "id": "ioo/case-cathy-hackl",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/cathy-hackl",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-cathy-hackl",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/cathy-hackl"
+  },
+  {
+   "id": "ioo/case-charlotte-tansill",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/charlotte-tansill",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-charlotte-tansill",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/charlotte-tansill"
+  },
+  {
+   "id": "ioo/case-claire-zau",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/claire-zau",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-claire-zau",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/claire-zau"
+  },
+  {
+   "id": "ioo/case-codie-sanchez",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/codie-sanchez",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-codie-sanchez",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/codie-sanchez"
+  },
+  {
+   "id": "ioo/case-colin-samir",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/colin-samir",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-colin-samir",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/colin-samir"
+  },
+  {
+   "id": "ioo/case-darren-murph",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/darren-murph",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-darren-murph",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/darren-murph"
+  },
+  {
+   "id": "ioo/case-emma-chamberlain",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/001",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-emma-chamberlain",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/emma-chamberlain"
+  },
+  {
+   "id": "ioo/case-fei-fei-li",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/fei-fei-li",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-fei-fei-li",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/fei-fei-li"
+  },
+  {
+   "id": "ioo/case-gary-vaynerchuk",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/gary-vaynerchuk",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-gary-vaynerchuk",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/gary-vaynerchuk"
+  },
+  {
+   "id": "ioo/case-gordon-glenister",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/gordon-glenister",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-gordon-glenister",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/gordon-glenister"
+  },
+  {
+   "id": "ioo/case-huda-kattan",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/huda-kattan",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-huda-kattan",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/huda-kattan"
+  },
+  {
+   "id": "ioo/case-jack-conte",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/002",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-jack-conte",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/jack-conte"
+  },
+  {
+   "id": "ioo/case-jane-gilbert",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/001",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-jane-gilbert",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/jane-gilbert"
+  },
+  {
+   "id": "ioo/case-jony-ive",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/001",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-jony-ive",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/jony-ive"
+  },
+  {
+   "id": "ioo/case-josephus-allmond",
+   "releasedAt": "2026-07-27",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/josephus-allmond",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-josephus-allmond",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/josephus-allmond"
+  },
+  {
+   "id": "ioo/case-kenny-gold",
+   "releasedAt": "2026-07-27",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/kenny-gold",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-kenny-gold",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/kenny-gold"
+  },
+  {
+   "id": "ioo/case-klitos-teklos",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/klitos-teklos",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-klitos-teklos",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/klitos-teklos"
+  },
+  {
+   "id": "ioo/case-kunal-shah",
+   "releasedAt": "2026-10-08",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/kunal-shah",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-kunal-shah",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/kunal-shah"
+  },
+  {
+   "id": "ioo/case-linda-fisher",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/linda-fisher",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-linda-fisher",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/linda-fisher"
+  },
+  {
+   "id": "ioo/case-marc-lore",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/marc-lore",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-marc-lore",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/marc-lore"
+  },
+  {
+   "id": "ioo/case-marc-pritchard",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/marc-pritchard",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-marc-pritchard",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/marc-pritchard"
+  },
+  {
+   "id": "ioo/case-marques-brownlee",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/002",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-marques-brownlee",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/marques-brownlee"
+  },
+  {
+   "id": "ioo/case-mo-gawdat",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/mo-gawdat",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-mo-gawdat",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/mo-gawdat"
+  },
+  {
+   "id": "ioo/case-mrbeast",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/002",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-mrbeast",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/mrbeast"
+  },
+  {
+   "id": "ioo/case-mustafa-suleyman",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/mustafa-suleyman",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-mustafa-suleyman",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/mustafa-suleyman"
+  },
+  {
+   "id": "ioo/case-nadir-godrej",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/nadir-godrej",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-nadir-godrej",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/nadir-godrej"
+  },
+  {
+   "id": "ioo/case-neri-oxman",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/neri-oxman",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-neri-oxman",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/neri-oxman"
+  },
+  {
+   "id": "ioo/case-noubar-afeyan",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/noubar-afeyan",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-noubar-afeyan",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/noubar-afeyan"
+  },
+  {
+   "id": "ioo/case-peter-diamandis",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/peter-diamandis",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-peter-diamandis",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/peter-diamandis"
+  },
+  {
+   "id": "ioo/case-pieter-levels",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/001",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-pieter-levels",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/pieter-levels"
+  },
+  {
+   "id": "ioo/case-reid-hoffman",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/reid-hoffman",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-reid-hoffman",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/reid-hoffman"
+  },
+  {
+   "id": "ioo/case-shonda-rhimes",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/001",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-shonda-rhimes",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/shonda-rhimes"
+  },
+  {
+   "id": "ioo/case-simon-cook",
+   "releasedAt": "2026-07-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/simon-cook",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-simon-cook",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/simon-cook"
+  },
+  {
+   "id": "ioo/case-steven-bartlett",
+   "releasedAt": "2026-07-27",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/observatory/steven-bartlett",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-steven-bartlett",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/steven-bartlett"
+  },
+  {
+   "id": "ioo/case-suzie-reider",
+   "releasedAt": "2026-07-27",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/001",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/case-suzie-reider",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/suzie-reider"
+  },
+  {
+   "id": "ioo/edit-001",
+   "releasedAt": "2026-09-16",
+   "hold": false,
+   "postUrls": {
+    "beehiiv": "https://polymath-rn-collins.beehiiv.com/p/001-when-does-one-person-become-an-institution"
+   },
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/001",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/edit-001",
+   "galleryUrl": "https://ownership-platform.vercel.app/edit/001"
+  },
+  {
+   "id": "ioo/edit-002",
+   "releasedAt": "2026-09-16",
+   "hold": false,
+   "postUrls": {
+    "beehiiv": "https://polymath-rn-collins.beehiiv.com/p/002-your-career-has-a-supply-chain"
+   },
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/002",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/edit-002",
+   "galleryUrl": "https://ownership-platform.vercel.app/edit/002"
+  },
+  {
+   "id": "ioo/edit-003",
+   "releasedAt": "2026-09-16",
+   "hold": false,
+   "postUrls": {
+    "beehiiv": "https://polymath-rn-collins.beehiiv.com/p/003-your-archive-is-not-a-backup"
+   },
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/003",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/edit-003",
+   "galleryUrl": "https://ownership-platform.vercel.app/edit/003"
+  },
+  {
+   "id": "ioo/edit-004",
+   "releasedAt": "2026-09-16",
+   "hold": false,
+   "postUrls": {
+    "beehiiv": "https://polymath-rn-collins.beehiiv.com/p/004-the-exit-is-part-of-the-architecture"
+   },
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/004",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/edit-004",
+   "galleryUrl": "https://ownership-platform.vercel.app/edit/004"
+  },
+  {
+   "id": "ioo/edit-005",
+   "releasedAt": "2026-08-21",
+   "hold": false,
+   "postUrls": {
+    "beehiiv": "https://polymath-rn-collins.beehiiv.com/p/the-2000-video"
+   },
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/005",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/edit-005",
+   "galleryUrl": "https://ownership-platform.vercel.app/edit/005"
+  },
+  {
+   "id": "ioo/edit-006",
+   "releasedAt": "2026-08-21",
+   "hold": false,
+   "postUrls": {
+    "beehiiv": "https://polymath-rn-collins.beehiiv.com/p/the-person-inside-the-asset"
+   },
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/006",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/edit-006",
+   "galleryUrl": "https://ownership-platform.vercel.app/edit/006"
+  },
+  {
+   "id": "ioo/edit-007",
+   "releasedAt": "2026-08-21",
+   "hold": false,
+   "postUrls": {
+    "beehiiv": "https://polymath-rn-collins.beehiiv.com/p/the-assets-afterlife"
+   },
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/007",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/edit-007",
+   "galleryUrl": "https://ownership-platform.vercel.app/edit/007"
+  },
+  {
+   "id": "ioo/edit-008",
+   "releasedAt": "2026-08-21",
+   "hold": false,
+   "postUrls": {
+    "beehiiv": "https://polymath-rn-collins.beehiiv.com/p/the-smallest-institution-in-the-campaign"
+   },
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/008",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/edit-008",
+   "galleryUrl": "https://ownership-platform.vercel.app/edit/008"
+  },
+  {
+   "id": "ioo/tool-dependency-explorer",
+   "releasedAt": "2026-07-27",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/edit/002",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/tool-dependency-explorer",
+   "galleryUrl": "https://ownership-platform.vercel.app/observatory/dependencies"
+  },
+  {
+   "id": "ioo/tool-ownership-index",
+   "releasedAt": "2026-07-23",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://ownership-platform.vercel.app/methodology",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/tool-ownership-index",
+   "galleryUrl": "https://ownership-platform.vercel.app/assess/creator"
+  },
+  {
    "id": "jbd/jbd17",
    "releasedAt": "2027-08-09",
    "hold": false,

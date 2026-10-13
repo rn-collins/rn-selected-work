@@ -8,6 +8,7 @@ import fatnugs from "../data/sources-fatnugs.json";
 import film from "../data/sources-film.json";
 import htw from "../data/sources-htw.json";
 import ioo from "../data/sources-ioo.json";
+import iooSite from "../data/sources-ioo-site.json";
 import jbd from "../data/sources-jbd.json";
 import kbyg from "../data/sources-kbyg.json";
 import makers from "../data/sources-makers.json";
@@ -24,6 +25,10 @@ import { isReleased, pieceId } from "./releases";
 // Ask a Neuroscientist x Fashion (account "aan-f", data/sources-aan-f.json) is made from rn-collins/ask-a-neuroscientist-fashion:
 // one page per exhibition package, dated by that repo's publication register, research from its source manifests and
 // image credits from the essay figures. Its gallery pages (galleryUrl in data/releases.json) live on that site.
+// Institutions of One also gets one page per released I/1 Edit edition, Observatory case record and interactive tool on
+// ownership-platform.vercel.app (data/sources-ioo-site.json, joins the ioo account). It is made by rn-collins/ownership-platform
+// scripts/export-selected-work-sources.ts from that repo's own sources lists, dated by its data/releases.json. Its gallery
+// pages (galleryUrl in data/releases.json) live on that site.
 // The takeover packages (Polymath PM-RNC, museum, film) come from scripts/export_takeover_sources.py instead:
 // data/sources-polymath-rnc.json (joins the polymath account), data/sources-museum.json, data/sources-film.json.
 // A takeover reference may have no url (a source with no public copy, such as a recorded conversation); it is
@@ -58,8 +63,8 @@ export const accounts: Account[] = [
     blurb: "The Dutch Design Awards year by year in the official photo archive: sources and image credits." },
   { key: "htw", name: "Tech From Here: Hawaiʻi", timeZone: "Pacific/Honolulu", posts: sorted(htw),
     blurb: "Stories about the technology Hawaiʻi gave the world: the sources and where each image comes from." },
-  { key: "ioo", name: "Institutions of One", timeZone: "Pacific/Honolulu", posts: sorted(ioo),
-    blurb: "Cycle 01 packages on ownership in creative and independent work: sources and image credits." },
+  { key: "ioo", name: "Institutions of One", timeZone: "Pacific/Honolulu", posts: sorted(ioo, iooSite),
+    blurb: "The I/1 Edit editions, the Observatory case records and tools, and the Cycle 01 packages on ownership in creative and independent work: sources and image credits." },
   { key: "polymath", name: "The Polymath", timeZone: "Pacific/Honolulu", posts: sorted(polymath, polymathRnc),
     blurb: "Posts from RN Collins' Polymath essays: the research cited and the image credits." },
   { key: "fatnugs", name: "Fat Nugs Magazine", timeZone: "Pacific/Honolulu", posts: sorted(fatnugs),
