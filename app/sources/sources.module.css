@@ -26,3 +26,5 @@
 .origin .host{opacity:.8}
 
 .note{margin:18px 0 0;padding:12px 16px;border-left:3px solid var(--line, currentColor);font-size:16px;line-height:1.5;max-width:680px}
+.gallery{margin:0 0 34px;font-size:17px;line-height:1.5;max-width:680px;overflow-wrap:anywhere}
+.gallery a{color:var(--ink);text-decoration-thickness:1px;text-underline-offset:3px}

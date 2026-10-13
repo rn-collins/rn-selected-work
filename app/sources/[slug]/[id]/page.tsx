@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { CanonicalPage } from "../../../../components/canonical-page";
 import { ClientLine } from "../../../../components/sources-detail";
 import { PortfolioBlock, PortfolioLine } from "../../../../components/source-portfolio-link";
+import { galleryLink } from "../../../../lib/ddw27-gallery";
 import { account, accounts, entryCount, host, sourcePost, type SourceLink } from "../../../../lib/sources";
 import styles from "../../sources.module.css";
 
@@ -54,6 +55,7 @@ export default async function SourcePage({ params }: Params) {
   const a = account(slug);
   const p = a && sourcePost(slug, id);
   if (!a || !p) notFound();
+  const gallery = galleryLink(slug, p.slug);
   return (
     <CanonicalPage>
       <article className={`${styles.page} shell`}>
@@ -72,6 +74,13 @@ export default async function SourcePage({ params }: Params) {
             <span className={styles.originTitle}>{p.origin.label} <span aria-hidden="true">↗</span></span>
             <span className={styles.host}>{host(p.origin.url)}</span>
           </a>
+        )}
+
+        {gallery && (
+          <p className={styles.gallery}>
+            Read the essay in the DDW27 gallery:{" "}
+            <a href={gallery.gallery_url} target="_blank" rel="noreferrer">{gallery.gallery_url.replace(/^https:\/\//, "")} <span aria-hidden="true">↗</span></a>
+          </p>
         )}
 
         {p.research.length > 0 && (
