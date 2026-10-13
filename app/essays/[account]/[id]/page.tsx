@@ -5,6 +5,7 @@ import { CanonicalPage } from "../../../../components/canonical-page";
 import { EssayBody } from "../../../../components/essay-body";
 import { PieceLinks } from "../../../../components/piece-links";
 import { POLYMATH_SUBSCRIBE, essayAccount, essayAccounts, essayPath, essayRobots, essayShare, host, longDate, readingMinutes, releasedEssay, releasedEssays, sourcesPath } from "../../../../lib/essays";
+import { POLYMATH_HOME, linkOnly, polymathArticle } from "../../../../lib/longform";
 import { pieceId } from "../../../../lib/releases";
 import styles from "../../essays.module.css";
 
@@ -42,6 +43,9 @@ export default async function EssayPage({ params }: Params) {
   const order = releasedEssays(account);
   const at = order.findIndex((q) => q.id === id);
   const ref = (q?: { id: string; title: string }) => q && { href: essayPath(account, q.id), title: q.title };
+  // Link-only accounts (lib/longform.ts): the essay itself is on the Polymath, so the body is not shown here.
+  const outside = linkOnly(account);
+  const article = outside ? polymathArticle(pieceId(account, id)) : undefined;
   return (
     <CanonicalPage>
       <article className={`${styles.page} shell`}>
@@ -51,7 +55,7 @@ export default async function EssayPage({ params }: Params) {
         <p className={styles.byline}>
           By {e.byline}
           {e.date ? <> · <time dateTime={e.date}>{longDate(e.date)}</time></> : null}
-          {" · "}{readingMinutes(e)} minute read
+          {outside ? null : <>{" · "}{readingMinutes(e)} minute read</>}
         </p>
         <ul className={styles.links} aria-label="Related links">
           <li><Link href={sourcesPath(account, id)}>Sources and image credits</Link></li>
@@ -59,7 +63,21 @@ export default async function EssayPage({ params }: Params) {
           <li><a href={POLYMATH_SUBSCRIBE} target="_blank" rel="noreferrer">Subscribe to The Polymath <span aria-hidden="true">↗</span></a></li>
         </ul>
 
-        <EssayBody e={e} />
+        {outside ? (
+          <>
+            {e.description ? <p className={styles.standfirst}>{e.description}</p> : null}
+            <p>
+              {article ? (
+                <a href={article}>Read the full essay on The Polymath <span aria-hidden="true">↗</span></a>
+              ) : (
+                <>The full essay is published on The Polymath, RN Collins&apos; newsletter.{" "}
+                  <a href={POLYMATH_HOME}>Go to The Polymath <span aria-hidden="true">↗</span></a></>
+              )}
+            </p>
+          </>
+        ) : (
+          <EssayBody e={e} />
+        )}
 
         <section className={styles.sources} aria-labelledby="sources">
           <h2 id="sources">Sources</h2>

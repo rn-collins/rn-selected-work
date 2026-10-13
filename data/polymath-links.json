@@ -1,0 +1,4 @@
+{
+  "note": "Polymath Beehiiv article for each long-form piece, keyed by piece id (data/releases.json). Read by lib/longform.ts. Only https://polymath-rn-collins.beehiiv.com/p/<slug> links are used. Add each link when its article publishes.",
+  "links": {}
+}

@@ -6,6 +6,7 @@ import { PieceLinks } from "../../../../../components/piece-links";
 import {
   Essay, ddwPieceId, essay, essayPath, essaysByFamily, readingMinutes, releasedDdwEssays, sourcesPath,
 } from "../../../../../lib/ddw-essays";
+import { POLYMATH_HOME, linkOnly, polymathArticle } from "../../../../../lib/longform";
 
 // Only released essays (data/releases.json) are built. Any other address returns 404 until the release day;
 // pages are rechecked hourly, and the daily cron (app/api/release-day) refreshes them all.
@@ -60,6 +61,9 @@ export default async function DutchDesignWeekEssay({ params }: Params) {
   const ref = (q?: Essay) => q && { href: essayPath(q), title: q.title };
   const byId = new Map(e.sources.map((s, i) => [s.id ?? "", i + 1]));
   const headings = e.sections.filter((s) => s.t === "h2");
+  // Link-only families (lib/longform.ts): the essay itself is on the Polymath, so the body is not shown here.
+  const outside = linkOnly(e.family);
+  const article = outside ? polymathArticle(ddwPieceId(e)) : undefined;
   return (
     <CanonicalPage>
       <article className={`${styles.page} shell`}>
@@ -67,33 +71,53 @@ export default async function DutchDesignWeekEssay({ params }: Params) {
         <h1 className={styles.title}>{e.title}</h1>
         {e.subtitle ? <p className={styles.subtitle}>{e.subtitle}</p> : null}
         <p className={styles.byline}>
-          {e.byline.replace(/^By /, "By ")} · {readingMinutes(e)} minute read
+          {e.byline.replace(/^By /, "By ")}{outside ? null : <> · {readingMinutes(e)} minute read</>}
         </p>
-        <p className={styles.origin}>
-          Written from the public record. Every claim carries the source it rests on, numbered
-          through the text and listed at the end. The citation page for this package, with the
-          image credits, is at <Link href={sourcesPath(e)}>{sourcesPath(e)}</Link>.
-        </p>
-        {headings.length > 3 ? (
-          <nav className={styles.contents} aria-label="In this essay">
-            <p>In this essay</p>
-            <ol>
-              {headings.map((h) => (
-                <li key={h.x}>
-                  <a href={`#${slugify(h.x)}`}>{h.x}</a>
-                </li>
-              ))}
-            </ol>
-          </nav>
-        ) : null}
-        <div className={styles.body}>
-          {e.sections.map((s, i) => {
-            if (s.t === "h2") return <h2 id={slugify(s.x)} key={i}>{s.x}</h2>;
-            if (s.t === "li") return <ul key={i}><li>{withRefs(s.x, byId)}</li></ul>;
-            if (s.t === "tr") return <p key={i}>{withRefs(s.x, byId)}</p>;
-            return <p key={i}>{withRefs(s.x, byId)}</p>;
-          })}
-        </div>
+        {outside ? (
+          <>
+            {e.description ? <p className={styles.origin}>{e.description}</p> : null}
+            <p className={styles.origin}>
+              {article ? (
+                <a href={article}>Read the full essay on The Polymath <span aria-hidden="true">↗</span></a>
+              ) : (
+                <>The full essay is published on The Polymath, RN Collins&apos; newsletter.{" "}
+                  <a href={POLYMATH_HOME}>Go to The Polymath <span aria-hidden="true">↗</span></a></>
+              )}
+            </p>
+            <p className={styles.origin}>
+              The sources the essay rests on are listed below. The citation page for this package, with the image
+              credits, is at <Link href={sourcesPath(e)}>{sourcesPath(e)}</Link>.
+            </p>
+          </>
+        ) : (
+          <>
+          <p className={styles.origin}>
+            Written from the public record. Every claim carries the source it rests on, numbered
+            through the text and listed at the end. The citation page for this package, with the
+            image credits, is at <Link href={sourcesPath(e)}>{sourcesPath(e)}</Link>.
+          </p>
+          {headings.length > 3 ? (
+            <nav className={styles.contents} aria-label="In this essay">
+              <p>In this essay</p>
+              <ol>
+                {headings.map((h) => (
+                  <li key={h.x}>
+                    <a href={`#${slugify(h.x)}`}>{h.x}</a>
+                  </li>
+                ))}
+              </ol>
+            </nav>
+          ) : null}
+          <div className={styles.body}>
+            {e.sections.map((s, i) => {
+              if (s.t === "h2") return <h2 id={slugify(s.x)} key={i}>{s.x}</h2>;
+              if (s.t === "li") return <ul key={i}><li>{withRefs(s.x, byId)}</li></ul>;
+              if (s.t === "tr") return <p key={i}>{withRefs(s.x, byId)}</p>;
+              return <p key={i}>{withRefs(s.x, byId)}</p>;
+            })}
+          </div>
+          </>
+        )}
         <section className={styles.refs} aria-labelledby="sources">
           <h2 id="sources">Sources</h2>
           <ol>
