@@ -5,7 +5,8 @@ import links from "../data/polymath-links.json";
 // article. Links live in data/polymath-links.json, keyed by piece id (the data/releases.json id, e.g.
 // "ddw27/new-design-visibility"), and are added as each article publishes. Until then the page links the Polymath home.
 export const POLYMATH_HOME = "https://polymath-rn-collins.beehiiv.com";
-export const LINK_ONLY_FAMILIES = new Set<string>(["ddw27"]);
+// Family keys as used by data/releases.json, lib/essays.ts (essay accounts) and lib/ddw-essays.ts (Essay.family).
+export const LINK_ONLY_FAMILIES = new Set<string>(["ddw26", "venues", "makers", "editions", "dda", "ddw27"]);
 
 export const linkOnly = (family: string) => LINK_ONLY_FAMILIES.has(family);
 
