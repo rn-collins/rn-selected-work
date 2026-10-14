@@ -793,7 +793,7 @@
       "repo": "rn-ask-a-neuroscientist",
       "live": "https://askaneuroscientist.vercel.app",
       "visibility": "private",
-      "repoUrl": null,
+      "repoUrl": "https://github.com/rn-collins/ask-a-neuroscientist-cards",
       "githubDescription": "Ask a Neuroscientist: the series companion site. Cards, sourced reader pages, and the build that assembles them.",
       "pushedAt": "2026-10-10T04:06:53Z",
       "httpStatus": 200,
