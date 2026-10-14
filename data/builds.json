@@ -180,8 +180,8 @@
     {
       "repo": "ask-a-neuroscientist-fashion",
       "live": "https://ask-a-neuroscientist-fashion.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/ask-a-neuroscientist-fashion",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "A fashion editorial gallery exploring the dressed nervous system.",
       "pushedAt": "2026-10-10T03:49:52Z",
       "httpStatus": 200,
@@ -408,8 +408,8 @@
     {
       "repo": "kids-developing-brains",
       "live": "https://kids-developing-brains.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/kids-developing-brains",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "RN Collins - kids-developing-brains brand site",
       "pushedAt": "2026-09-03T07:58:56Z",
       "httpStatus": 200,
@@ -744,8 +744,8 @@
     {
       "repo": "psychonaut-bookworm",
       "live": "https://psychonaut-bookworm.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/psychonaut-bookworm",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "An independent research and learning library indexing 1,399 editorial objects across psychedelic literature, with source visibility and rights-review notes.",
       "pushedAt": "2026-10-10T03:50:09Z",
       "httpStatus": 200,
@@ -792,8 +792,8 @@
     {
       "repo": "rn-ask-a-neuroscientist",
       "live": "https://askaneuroscientist.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/rn-ask-a-neuroscientist",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "Ask a Neuroscientist: the series companion site. Cards, sourced reader pages, and the build that assembles them.",
       "pushedAt": "2026-10-10T04:06:53Z",
       "httpStatus": 200,

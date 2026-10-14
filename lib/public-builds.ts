@@ -190,7 +190,6 @@ const publicBuildRecords: PublicBuild[] = [
     demonstrates: "Editorial systems design, research UX, content atomization, knowledge organization, provenance signaling, rights-aware publishing, and durable client-side state.",
     evidence: "The live site publishes 454 editorial objects drawn from a 1,664-record provenance ledger: 221 editorial drafts, 112 then-versus-now comparisons, 58 claims, 12 NotebookLM source packs, 11 reading lists, 11 science annotations, 10 flashcards, 8 bridge pieces, 8 course modules and 3 teaching modules. Each one has its own page, linked to its long-form draft and to its sources page on this site. The other 1,210 records are withheld pending source and rights review; the public ledger counts them and does not show them. The Research Desk exposes source-entry counts and internal editorial states, saves a local queue, and exports it. The site states that 454 is an object count, not proof of external publication, peer review, licensing, independent fact-checking, or clinical authority. Editorial complete and editorial ready are internal workflow labels.",
     live: "https://psychonaut-bookworm.vercel.app/",
-    source: "https://github.com/rn-collins/psychonaut-bookworm",
   },
   {
     slug: "nervous-system-studio",

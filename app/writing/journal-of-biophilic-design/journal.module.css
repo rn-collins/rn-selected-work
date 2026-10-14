@@ -18,3 +18,5 @@
 .refs li{overflow-wrap:anywhere}
 .back{margin-top:44px;font-size:16px}
 @media(max-width:600px){.body{font-size:17px}.standfirst{font-size:19px}}
+
+.refnote{font-size:14px;line-height:1.5;margin:0 0 16px;opacity:.75}

@@ -1,0 +1,28 @@
+{
+  "$comment": "Link targets for the printed references. The reference text is shown exactly as printed; only the link changes. A string replaces a printed address that does not resolve with the verified record for the same work (matched on title, first author and year at Crossref). null shows the reference unlinked because the printed address is dead and no record of the work was found. Checked 13 Oct 2026. Details: the correction note to the journal.",
+  "links": {
+    "https://doi.org/10.1016/0272-4944(95)90006-5": "https://doi.org/10.1016/0272-4944(95)90001-2",
+    "https://doi.org/10.1016/S0896-6273(02)00783-7": "https://doi.org/10.1016/s0896-6273(02)00830-9",
+    "https://doi.org/10.1088/1748-9326/ab8d01": "https://doi.org/10.1088/1748-9326/aba134",
+    "https://doi.org/10.1177/0013916513499582": "https://doi.org/10.1089/eco.2014.0028",
+    "https://doi.org/10.3390/buildings14070772": "https://doi.org/10.3390/buildings14051292",
+    "https://doi.org/10.3390/ijerph120404356": "https://doi.org/10.3390/ijerph120404354",
+    "https://doi.org/10.3390/ijerph16244797": "https://doi.org/10.1016/j.heliyon.2019.e01339",
+    "https://doi.org/10.3390/ijerph7041036": "https://doi.org/10.3390/ijerph7031036",
+    "https://doi.org/10.1177/193758671000400205": "https://doi.org/10.1108/02632771011023096",
+    "https://doi.org/10.1080/02723638.2021.1988502": "https://doi.org/10.1080/02723638.2017.1349987",
+    "https://fitwel.org/standard": "https://www.fitwel.org/",
+    "https://centerforactivedesign.org/fitwel": "https://www.fitwel.org/",
+    "https://doi.org/10.1007/s10086-010-1121-1": null,
+    "https://doi.org/10.1017/CBO9780511573620": null,
+    "https://doi.org/10.1017/CBO9780511623390": null,
+    "https://doi.org/10.1038/s41598-019-45362-8": null,
+    "https://doi.org/10.1080/17480272.2019.1608550": null,
+    "https://doi.org/10.1146/annurev-publhealth-052020-110253": null,
+    "https://doi.org/10.3389/fpsyg.2023.1175685": null,
+    "https://doi.org/10.3390/buildings15030301": null,
+    "https://files.hudexchange.info/resources/documents/Trauma-Informed-Approaches-in-HUD-Programs.pdf": null,
+    "https://www.acentech.com/project/jamaica-plain-branch-library": null,
+    "https://www.boston.gov/news/jamaica-plain-branch-library-reopens-after-renovation": null
+  }
+}
