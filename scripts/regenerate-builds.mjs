@@ -161,7 +161,7 @@ async function main() {
       repo: name,
       live,
       visibility: repo ? repo.visibility.toLowerCase() : "unknown",
-      repoUrl: repo && repo.visibility === "PUBLIC" ? `https://github.com/${OWNER}/${name}` : null,
+      repoUrl: (config.repoUrlOverrides && config.repoUrlOverrides[name]) || (repo && repo.visibility === "PUBLIC" ? `https://github.com/${OWNER}/${name}` : null),
       githubDescription: repo?.description || null,
       pushedAt: repo?.pushedAt || null,
       httpStatus: result.status,
