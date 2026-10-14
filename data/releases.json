@@ -7700,7 +7700,7 @@
    "releasedAt": "2026-08-15",
    "hold": false,
    "postUrls": {},
-   "longFormUrl": "https://psychonaut-bookworm.vercel.app/item/writing/mini-moksha-letters",
+   "longFormUrl": "https://psychonaut-bookworm.vercel.app/item/writing/vocabulary-of-a-new-world",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/psychonaut-bookworm/notebooklm-nlm-001",
    "galleryUrl": "https://psychonaut-bookworm.vercel.app/item/notebookLM/nlm-001"
   },
@@ -10925,6 +10925,15 @@
    "longFormUrl": "https://psychonaut-bookworm.vercel.app/item/writing/vietnam-study",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/psychonaut-bookworm/writing-vietnam-study",
    "galleryUrl": "https://psychonaut-bookworm.vercel.app/item/writing/vietnam-study"
+  },
+  {
+   "id": "psychonaut-bookworm/writing-vocabulary-of-a-new-world",
+   "releasedAt": "2026-10-14",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "https://psychonaut-bookworm.vercel.app/item/writing/vocabulary-of-a-new-world",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/psychonaut-bookworm/writing-vocabulary-of-a-new-world",
+   "galleryUrl": ""
   },
   {
    "id": "psychonaut-bookworm/writing-wasson-life-magazine",
