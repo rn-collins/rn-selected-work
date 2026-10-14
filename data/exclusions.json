@@ -313,5 +313,11 @@
   "urlOverrides": {
     "ask-a-neuroscientist-fashion": "https://ask-a-neuroscientist-fashion.vercel.app",
     "tech-from-here-amsterdam-eindhoven": "https://tech-from-here-amsterdam-eindhoven.vercel.app"
+  },
+  "repoUrlOverrides": {
+    "$comment": "Builds whose source repository is private and whose public source lives in another repository. Keyed by build name.",
+    "psychonaut-bookworm": "https://github.com/rn-collins/psychonaut-bookworm-library",
+    "rn-ask-a-neuroscientist": "https://github.com/rn-collins/ask-a-neuroscientist-cards",
+    "ask-a-neuroscientist-fashion": "https://github.com/rn-collins/ask-a-neuroscientist-fashion-gallery"
   }
 }
