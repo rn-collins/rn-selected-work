@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CanonicalPage } from "../../../../components/canonical-page";
 import { journalArticle, journalArticles, journalName, journalUrl, readingMinutes } from "../../../../lib/journal-articles";
+import linkFixes from "../../../../data/journal/link-fixes.json";
 import { isReleased, pieceId } from "../../../../lib/releases";
 
 // The link to the article's sources page (/sources/jbd/jbd<issue>) appears from that page's release day.
@@ -68,6 +69,7 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
         {a.references.length > 0 ? (
           <section className={styles.refs} aria-labelledby="references">
             <h2 id="references">References</h2>
+            <p className={styles.refnote}>Citations appear as first printed. Where a printed link did not resolve, the link goes to the verified record of the same work.</p>
             <ol>
               {a.references.map((r) => (
                 <li key={r}>{linkify(r)}</li>
@@ -88,13 +90,23 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
   );
 }
 
+const fixes = linkFixes.links as Record<string, string | null>;
+
+// Printed addresses that no longer resolve are swapped for the verified record of the same work,
+// or shown as plain text when none exists. The citation text itself is never changed.
 function linkify(text: string) {
   const parts = text.split(/(https?:\/\/\S+)/g);
-  return parts.map((part, i) =>
-    /^https?:\/\//.test(part) ? (
-      <a href={part.replace(/[.,;]$/, "")} target="_blank" rel="noreferrer" key={i}>{part}</a>
-    ) : (
-      part
-    ),
-  );
+  return parts.map((part, i) => {
+    if (!/^https?:\/\//.test(part)) return part;
+    const printed = part.replace(/[.,;]$/, "");
+    const tail = part.slice(printed.length);
+    const target = printed in fixes ? fixes[printed] : printed;
+    if (target === null) return part;
+    return (
+      <span key={i}>
+        <a href={target} target="_blank" rel="noreferrer">{target}</a>
+        {tail}
+      </span>
+    );
+  });
 }

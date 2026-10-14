@@ -155,6 +155,8 @@ export const buildNotes: BuildNote[] = [
     category: "tools",
     status: "Live · internal · admin key required",
     statusKind: "live",
+    linkHeld:
+      "The dashboard sits behind an admin key and holds enquiry data, so its address is not offered here. The write-up is the public record.",
     problem:
       "The NSAG assessment modules each collected enquiries on their own, so there was no single place to see which modules were drawing interest, from what kinds of organisation, or whether a tier was producing anything at all.",
     does:
@@ -745,6 +747,8 @@ export const buildNotes: BuildNote[] = [
     category: "tools",
     status: "Live · one endpoint hosted, the rest self-hosted",
     statusKind: "live",
+    linkHeld:
+      "The hosted address answers a single data endpoint rather than a page, so it is not offered as a link. The full source, tests and design are open in the repository.",
     problem:
       "Brand management runs on judgement calls that nobody records: whether a post was disclosed, whether a claim is defensible, and who signed off. The evidence for those decisions usually exists only in somebody's inbox.",
     does:
