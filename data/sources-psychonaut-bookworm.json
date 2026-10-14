@@ -7784,6 +7784,59 @@
    "images": []
   },
   {
+   "slug": "writing-vocabulary-of-a-new-world",
+   "date": "2026-10-14",
+   "id": "writing/vocabulary-of-a-new-world",
+   "title": "The Vocabulary of a New World",
+   "series": "Psychonaut Bookworm, editorial draft on Moksha: Letters of Huxley & Osmond",
+   "origin": {
+    "kind": "article",
+    "label": "The Vocabulary of a New World",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/vocabulary-of-a-new-world"
+   },
+   "research": [
+    {
+     "label": "Bisbee, P., Carson Bisbee, C., Dyck, E., Farrell, P., Sexton, J. & Spisak, J.W. (eds.) Psychedelic Prophets: The Letters of Aldous Huxley and Humphry Osmond. McGill-Queen's University Press (2018)",
+     "url": ""
+    },
+    {
+     "label": "Smith, G. (ed.) Letters of Aldous Huxley. Chatto & Windus (1969)",
+     "url": ""
+    },
+    {
+     "label": "Osmond, H. A Review of the Clinical Effects of Psychotomimetic Agents, Ann. NY Acad. Sci. (1957)",
+     "url": ""
+    },
+    {
+     "label": "Huxley, The Doors of Perception (1954)",
+     "url": ""
+    },
+    {
+     "label": "New York Academy of Sciences, The Origin of the Term Psychedelic (blog)",
+     "url": ""
+    },
+    {
+     "label": "Wikipedia, Humphry Osmond",
+     "url": ""
+    },
+    {
+     "label": "Wikipedia, Aldous Huxley",
+     "url": ""
+    },
+    {
+     "label": "Wikipedia, The Doors of Perception",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "The public provenance ledger for this corpus, which lists record writing/vocabulary-of-a-new-world and the sources it was checked against",
+     "url": "https://psychonaut-bookworm.vercel.app/provenance/writing.json"
+    }
+   ],
+   "images": []
+  },
+  {
    "slug": "thenvsnow-tvn-001",
    "date": "2026-08-15",
    "id": "thenVsNow/tvn-001",
@@ -14083,8 +14136,8 @@
    "series": "Psychonaut Bookworm, NotebookLM source pack on Moksha: Letters of Huxley & Osmond",
    "origin": {
     "kind": "article",
-    "label": "Why the Letters Matter More Than the Books",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/mini-moksha-letters"
+    "label": "The Vocabulary of a New World",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/vocabulary-of-a-new-world"
    },
    "research": [],
    "other": [
