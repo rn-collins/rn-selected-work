@@ -1692,6 +1692,26 @@
     {
      "label": "Wikipedia, Marihuana Tax Act of 1937",
      "url": ""
+    },
+    {
+     "label": "Marihuana Tax Act of 1937, 50 Stat. 551 (approved August 2, 1937)",
+     "url": ""
+    },
+    {
+     "label": "U.S. Senate Committee on Finance, Taxation of Marihuana, hearing on H.R. 6906 (July 12, 1937)",
+     "url": ""
+    },
+    {
+     "label": "U.S. Patent 2,130,948, Synthetic fiber (granted September 20, 1938)",
+     "url": ""
+    },
+    {
+     "label": "Science History Institute, Wallace Hume Carothers profile",
+     "url": ""
+    },
+    {
+     "label": "Wishnia, Debunking the Hemp Conspiracy Theory, AlterNet (2008)",
+     "url": ""
     }
    ],
    "other": [
@@ -5632,6 +5652,18 @@
     {
      "label": "Popular Mechanics, New Billion-Dollar Crop (February 1938)",
      "url": ""
+    },
+    {
+     "label": "Marihuana Tax Act of 1937, 50 Stat. 551 (approved August 2, 1937)",
+     "url": ""
+    },
+    {
+     "label": "U.S. Patent 2,130,948, Synthetic fiber (granted September 20, 1938)",
+     "url": ""
+    },
+    {
+     "label": "Wishnia, Debunking the Hemp Conspiracy Theory, AlterNet (2008)",
+     "url": ""
     }
    ],
    "other": [
@@ -7379,6 +7411,379 @@
    "images": []
   },
   {
+   "slug": "writing-april-19-1943",
+   "date": "2026-10-13",
+   "id": "writing/april-19-1943",
+   "title": "April 19, 1943",
+   "series": "Psychonaut Bookworm, editorial draft on LSD: My Problem Child",
+   "origin": {
+    "kind": "article",
+    "label": "April 19, 1943",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/april-19-1943"
+   },
+   "research": [
+    {
+     "label": "Hofmann, LSD: My Problem Child (1979)",
+     "url": ""
+    },
+    {
+     "label": "Nichols, D.E. Psychedelics. Pharmacological Reviews, 68(2):264-355 (2016)",
+     "url": ""
+    },
+    {
+     "label": "Preller et al., Changes in global and thalamic brain connectivity in LSD-induced altered states of consciousness are attributable to the 5-HT2A receptor, eLife (2018)",
+     "url": ""
+    },
+    {
+     "label": "Huxley, The Doors of Perception (1954)",
+     "url": ""
+    },
+    {
+     "label": "Grinspoon, L. LSD Reconsidered: Should clinical research be resumed? The Sciences (January 1981)",
+     "url": ""
+    },
+    {
+     "label": "Krebs & Johansen, Lysergic acid diethylamide (LSD) for alcoholism: meta-analysis of randomized controlled trials, J Psychopharmacol (2012)",
+     "url": ""
+    },
+    {
+     "label": "Public Law 90-639, 82 Stat. 1361 (October 24, 1968)",
+     "url": ""
+    },
+    {
+     "label": "Controlled Substances Act, 21 U.S.C. 812 (1970); 21 CFR 1308.11",
+     "url": ""
+    },
+    {
+     "label": "Strassman & Qualls, Dose-response study of N,N-dimethyltryptamine in humans I, Arch Gen Psychiatry (1994)",
+     "url": ""
+    },
+    {
+     "label": "Griffiths et al., Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance, Psychopharmacology (2006)",
+     "url": ""
+    },
+    {
+     "label": "Gasser et al., Safety and efficacy of lysergic acid diethylamide-assisted psychotherapy for anxiety associated with life-threatening diseases, J Nerv Ment Dis (2014)",
+     "url": ""
+    },
+    {
+     "label": "Albert Hofmann (1906 to 2008), University of Zurich Department of Chemistry symposium page",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "The public provenance ledger for this corpus, which lists record writing/april-19-1943 and the sources it was checked against",
+     "url": "https://psychonaut-bookworm.vercel.app/provenance/writing.json"
+    }
+   ],
+   "images": []
+  },
+  {
+   "slug": "writing-the-man-in-the-garden-chair",
+   "date": "2026-10-13",
+   "id": "writing/the-man-in-the-garden-chair",
+   "title": "The Man in the Garden Chair",
+   "series": "Psychonaut Bookworm, editorial draft on The Doors of Perception",
+   "origin": {
+    "kind": "article",
+    "label": "The Man in the Garden Chair",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/the-man-in-the-garden-chair"
+   },
+   "research": [
+    {
+     "label": "Huxley, The Doors of Perception (1954)",
+     "url": ""
+    },
+    {
+     "label": "Nichols, Psychedelics, Pharmacological Reviews (2016)",
+     "url": ""
+    },
+    {
+     "label": "Carhart-Harris & Friston, REBUS and the Anarchic Brain, Pharmacological Reviews (2019)",
+     "url": ""
+    },
+    {
+     "label": "Husserl, Phenomenology (Encyclopaedia Britannica article), trans. Palmer, Journal of the British Society for Phenomenology (1971)",
+     "url": ""
+    },
+    {
+     "label": "Stanford Encyclopedia of Philosophy, Edmund Husserl",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "The public provenance ledger for this corpus, which lists record writing/the-man-in-the-garden-chair and the sources it was checked against",
+     "url": "https://psychonaut-bookworm.vercel.app/provenance/writing.json"
+    }
+   ],
+   "images": []
+  },
+  {
+   "slug": "writing-the-scream-at-the-start-of-everything",
+   "date": "2026-10-13",
+   "id": "writing/the-scream-at-the-start-of-everything",
+   "title": "The Scream at the Start of Everything",
+   "series": "Psychonaut Bookworm, editorial draft on Chasing the Scream",
+   "origin": {
+    "kind": "article",
+    "label": "The Scream at the Start of Everything",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/the-scream-at-the-start-of-everything"
+   },
+   "research": [
+    {
+     "label": "Hari, Chasing the Scream (2015)",
+     "url": ""
+    },
+    {
+     "label": "Hari, The Hunting of Billie Holiday, Politico Magazine (January 2015)",
+     "url": ""
+    },
+    {
+     "label": "Hari, Questions and Corrections, chasingthescream.com",
+     "url": ""
+    },
+    {
+     "label": "Harwood, One Thing You Can Say for the War on Drugs Is We Gave It a Fair Shot (interview with Hari), ACLU (April 23, 2015)",
+     "url": ""
+    },
+    {
+     "label": "Biography.com, Billie Holiday: How the Government Targeted the Strange Fruit Singer with Drug Arrests",
+     "url": ""
+    },
+    {
+     "label": "Porter, Billie Holiday: There was Never a Federal Campaign against Strange Fruit, Part 2, Substack (October 31, 2022)",
+     "url": ""
+    },
+    {
+     "label": "DEA Museum, Harry Jacob Anslinger exhibit, Narcotics Enforcement in the 1930s",
+     "url": ""
+    },
+    {
+     "label": "U.S. Sentencing Commission, Mandatory Minimum Penalties in the Federal Criminal Justice System, ch. 2 (2011)",
+     "url": ""
+    },
+    {
+     "label": "Controlled Substances Act, 21 U.S.C. 812 (Pub. L. 91-513, 1970)",
+     "url": ""
+    },
+    {
+     "label": "Nixon, Special Message to the Congress on Drug Abuse Prevention and Control (June 17, 1971)",
+     "url": ""
+    },
+    {
+     "label": "Nixon, Remarks About an Intensified Program for Drug Abuse Prevention and Control (June 17, 1971)",
+     "url": ""
+    },
+    {
+     "label": "Baum, Legalize It All, Harper's Magazine (April 2016)",
+     "url": ""
+    },
+    {
+     "label": "Marlan, Beyond Cannabis: Psychedelic Decriminalization and Social Justice. Lewis & Clark Law Review 23(3):851 (2019)",
+     "url": ""
+    },
+    {
+     "label": "Seddon, Prescribing heroin: John Marks, the Merseyside clinics, and lessons from history. Int J Drug Policy 78:102730 (2020)",
+     "url": ""
+    },
+    {
+     "label": "rabble.ca, Downtown Eastside activist and poet Bud Osborn has died (May 7, 2014)",
+     "url": ""
+    },
+    {
+     "label": "Christian Science Monitor, Mexico activists vow to press ahead after mother seeking justice is murdered (December 22, 2010)",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "The public provenance ledger for this corpus, which lists record writing/the-scream-at-the-start-of-everything and the sources it was checked against",
+     "url": "https://psychonaut-bookworm.vercel.app/provenance/writing.json"
+    }
+   ],
+   "images": []
+  },
+  {
+   "slug": "writing-the-secret-that-lasted-two-thousand-years",
+   "date": "2026-10-13",
+   "id": "writing/the-secret-that-lasted-two-thousand-years",
+   "title": "The Secret That Lasted Two Thousand Years",
+   "series": "Psychonaut Bookworm, editorial draft on The Road to Eleusis",
+   "origin": {
+    "kind": "article",
+    "label": "The Secret That Lasted Two Thousand Years",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/the-secret-that-lasted-two-thousand-years"
+   },
+   "research": [
+    {
+     "label": "Wasson, Hofmann & Ruck, The Road to Eleusis (1978)",
+     "url": ""
+    },
+    {
+     "label": "Homeric Hymn to Demeter, trans. Evelyn-White (1914)",
+     "url": ""
+    },
+    {
+     "label": "Cicero, De Legibus 2.14.36 (Loeb 213, trans. Keyes, 1928)",
+     "url": ""
+    },
+    {
+     "label": "Nilsson, M.P. Greek Folk Religion (1961)",
+     "url": ""
+    },
+    {
+     "label": "Plutarch, How the Young Man Should Study Poetry, in Moralia I (Loeb, trans. Babbitt, 1927)",
+     "url": ""
+    },
+    {
+     "label": "Plutarch, Life of Alcibiades 22 (Loeb, trans. Perrin, 1916)",
+     "url": ""
+    },
+    {
+     "label": "Livy, History of Rome 31.14",
+     "url": ""
+    },
+    {
+     "label": "Clement of Alexandria, Protrepticus (ca. 190 CE)",
+     "url": ""
+    },
+    {
+     "label": "Hippolytus, Refutation of All Heresies 5.8 (early 3rd century CE)",
+     "url": ""
+    },
+    {
+     "label": "Burkert, Ancient Mystery Cults (1987)",
+     "url": ""
+    },
+    {
+     "label": "Bizzotto, J. The hypothesis on the presence of entheogens in the Eleusinian Mysteries. Medicina Historica 2(2):85-93 (2018)",
+     "url": ""
+    },
+    {
+     "label": "Ott & Neely, Entheogenic (hallucinogenic) effects of methylergonovine. J Psychedelic Drugs 12(2):165-166 (1980)",
+     "url": ""
+    },
+    {
+     "label": "Hofmann et al., Psilocybin, ein psychotroper Wirkstoff aus dem mexikanischen Rauschpilz Psilocybe mexicana Heim. Experientia 14(3):107-109 (1958)",
+     "url": ""
+    },
+    {
+     "label": "Wasson, R.G. Seeking the Magic Mushroom, Life magazine (1957)",
+     "url": ""
+    },
+    {
+     "label": "Wasson, Soma: Divine Mushroom of Immortality (1968)",
+     "url": ""
+    },
+    {
+     "label": "Gonzales v. O Centro (2006)",
+     "url": ""
+    },
+    {
+     "label": "Native American Church peyote exemption, 42 U.S.C. 1996a (1994)",
+     "url": ""
+    },
+    {
+     "label": "Marlan, D. Beyond Cannabis. Lewis & Clark Law Review, 23(3):851 (2019)",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "The public provenance ledger for this corpus, which lists record writing/the-secret-that-lasted-two-thousand-years and the sources it was checked against",
+     "url": "https://psychonaut-bookworm.vercel.app/provenance/writing.json"
+    }
+   ],
+   "images": []
+  },
+  {
+   "slug": "writing-what-the-record-actually-shows",
+   "date": "2026-10-13",
+   "id": "writing/what-the-record-actually-shows",
+   "title": "What the Record Actually Shows",
+   "series": "Psychonaut Bookworm, editorial draft on The Emperor Wears No Clothes",
+   "origin": {
+    "kind": "article",
+    "label": "What the Record Actually Shows",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/what-the-record-actually-shows"
+   },
+   "research": [
+    {
+     "label": "Herer, The Emperor Wears No Clothes (1985)",
+     "url": ""
+    },
+    {
+     "label": "Popular Mechanics, New Billion-Dollar Crop (February 1938)",
+     "url": ""
+    },
+    {
+     "label": "Marihuana Tax Act of 1937, 50 Stat. 551 (approved August 2, 1937)",
+     "url": ""
+    },
+    {
+     "label": "U.S. Senate Committee on Finance, Taxation of Marihuana, hearing on H.R. 6906 (July 12, 1937)",
+     "url": ""
+    },
+    {
+     "label": "U.S. House Committee on Ways and Means, Taxation of Marihuana, hearing on H.R. 6385 (May 4, 1937 session)",
+     "url": ""
+    },
+    {
+     "label": "Hari, Chasing the Scream (2015)",
+     "url": ""
+    },
+    {
+     "label": "Marlan, Beyond Cannabis: Psychedelic Decriminalization and Social Justice. Lewis & Clark Law Review 23(3):851 (2019)",
+     "url": ""
+    },
+    {
+     "label": "National Academies, The Health Effects of Cannabis and Cannabinoids (2017)",
+     "url": ""
+    },
+    {
+     "label": "Gaoni and Mechoulam, J. Am. Chem. Soc. 86:1646-1647 (1964)",
+     "url": ""
+    },
+    {
+     "label": "ACLU, A Tale of Two Countries (2020)",
+     "url": ""
+    },
+    {
+     "label": "Blumenthal, Reconsidering Anslinger, Race, the Gateway Theory, and the Origins of Marijuana Prohibition, Points (2016, updated 2023)",
+     "url": ""
+    },
+    {
+     "label": "Wishnia, Debunking the Hemp Conspiracy Theory, AlterNet (2008)",
+     "url": ""
+    },
+    {
+     "label": "Science History Institute, Wallace Hume Carothers profile",
+     "url": ""
+    },
+    {
+     "label": "U.S. Patent 2,130,948, Synthetic fiber (granted September 20, 1938)",
+     "url": ""
+    },
+    {
+     "label": "Reason, Return With Me Now to the Thrilling Days When Marijuana Was Spelled With an H (August 2, 2007)",
+     "url": ""
+    },
+    {
+     "label": "Wikipedia, Harry J. Anslinger",
+     "url": ""
+    }
+   ],
+   "other": [
+    {
+     "label": "The public provenance ledger for this corpus, which lists record writing/what-the-record-actually-shows and the sources it was checked against",
+     "url": "https://psychonaut-bookworm.vercel.app/provenance/writing.json"
+    }
+   ],
+   "images": []
+  },
+  {
    "slug": "thenvsnow-tvn-001",
    "date": "2026-08-15",
    "id": "thenVsNow/tvn-001",
@@ -7831,8 +8236,8 @@
    "series": "Psychonaut Bookworm, then vs. now comparison on Moksha: Letters of Huxley & Osmond",
    "origin": {
     "kind": "article",
-    "label": "LSD at the End of Life: From Island to the Clinic",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/deep-dive-huxley-osmond-death-dying"
+    "label": "Island and Its Limits: Huxley's Utopia Evaluated",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/series-moksha-island"
    },
    "research": [
     {
@@ -8198,8 +8603,8 @@
    "series": "Psychonaut Bookworm, then vs. now comparison on The Cosmic Serpent",
    "origin": {
     "kind": "article",
-    "label": "The Ayahuasca Patent and After: Biopiracy in the Psychedelic Economy",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/policy-cosmic-serpent-biopiracy"
+    "label": "Biopiracy: When Science Takes Without Asking",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/narby-biopiracy"
    },
    "research": [
     {
@@ -11154,8 +11559,8 @@
    "series": "Psychonaut Bookworm, flashcard",
    "origin": {
     "kind": "article",
-    "label": "The Stoned Ape at the Edge of History",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/the-stoned-ape-at-the-edge-of-history"
+    "label": "The Crystal Structure of the Trip",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/the-structure-of-the-receptor"
    },
    "research": [
     {
@@ -12444,8 +12849,8 @@
    "series": "Psychonaut Bookworm, claim on The Emperor Wears No Clothes",
    "origin": {
     "kind": "article",
-    "label": "The Billion Dollar Crop That Never Was",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/popular-mechanics-billion"
+    "label": "The Hemp Economy Herer Predicted: Industrial Cannabis in 2026",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/deep-dive-emperor-hemp-policy"
    },
    "research": [],
    "other": [
@@ -12750,8 +13155,8 @@
    "series": "Psychonaut Bookworm, bridge piece on letters-huxley-osmond, chasing-the-scream",
    "origin": {
     "kind": "article",
-    "label": "The Commissioner's Last Prescription",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/mini-chasing-anslinger-end"
+    "label": "The Scream at the Start of Everything",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/the-scream-at-the-start-of-everything"
    },
    "research": [
     {
@@ -13528,8 +13933,8 @@
    "series": "Psychonaut Bookworm, science annotation",
    "origin": {
     "kind": "article",
-    "label": "The Emperor's New Industry: Cannabis at $40 Billion",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/deep-dive-emperor-cannabis-industry"
+    "label": "What the Record Actually Shows",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/what-the-record-actually-shows"
    },
    "research": [
     {
@@ -13698,8 +14103,8 @@
    "series": "Psychonaut Bookworm, NotebookLM source pack on LSD: My Problem Child",
    "origin": {
     "kind": "article",
-    "label": "April 19, 1943: What Hofmann Didn't Know He Was Starting",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/deep-dive-bicycle-day-context"
+    "label": "April 19, 1943",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/april-19-1943"
    },
    "research": [],
    "other": [
@@ -13778,8 +14183,8 @@
    "series": "Psychonaut Bookworm, NotebookLM source pack on The Emperor Wears No Clothes",
    "origin": {
     "kind": "article",
-    "label": "The Billion Dollar Crop That Never Was",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/popular-mechanics-billion"
+    "label": "What the Record Actually Shows",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/what-the-record-actually-shows"
    },
    "research": [],
    "other": [
@@ -13898,8 +14303,8 @@
    "series": "Psychonaut Bookworm, NotebookLM source pack on Plants of the Gods",
    "origin": {
     "kind": "article",
-    "label": "Peyote Under Pressure: Conservation, Native Rights, and the Psychedelic Industry",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/deep-dive-plants-gods-peyote-crisis"
+    "label": "The Archive and the Fire: Ethnobotany in the Extinction Era",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/deep-dive-plants-gods-extinction"
    },
    "research": [],
    "other": [
@@ -14017,8 +14422,8 @@
    "series": "Psychonaut Bookworm, course module on The Road to Eleusis",
    "origin": {
     "kind": "article",
-    "label": "The Ergot-Eleusis Hypothesis: Status in 2026",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/scijour-wasson-ergot-verdict"
+    "label": "The Secret That Lasted Two Thousand Years",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/the-secret-that-lasted-two-thousand-years"
    },
    "research": [
     {
