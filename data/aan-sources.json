@@ -1561,7 +1561,7 @@
     },
     {
      "where": "Slide 7",
-     "what": "Text card made for this post: Eindhoven Library, Yellowchess, IK ZIE JE · Oct 17 to 25, 2026 · 11:00 to 18:00 · Free (DDW 2026 listing, IK ZIE JE)",
+     "what": "Text card made for this post: Eindhoven Library, Yellowchess, IK ZIE JE · Oct 17 to 25, 2026 · 10:30 to 18:00 · Free (DDW 2026 listing, IK ZIE JE)",
      "credit": "DDW 2026 listing, IK ZIE JE",
      "url": "https://app-api.ddw.nl/en/programme/ik-zie-je",
      "card": true
@@ -2672,7 +2672,7 @@
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Your Own Health?, Dutch universities, medical centres and a design academy · Klokgebouw Hall 4, Strijp-S · Oct 17 to 25, 2026 (DDW 2026 listing, Your Own Health?)",
+     "what": "Text card made for this post: Your Own Health?, Dutch universities, universities of applied sciences and medical centres · Klokgebouw, B4, Weaf Studio, Strijp-S · Oct 17 to 25, 2026 (DDW 2026 listing, Your Own Health?)",
      "credit": "DDW 2026 listing, Your Own Health?",
      "url": "https://ddw.nl/en/programme/your-own-health",
      "card": true
@@ -4272,6 +4272,10 @@
     {
      "label": "Hagger, M. S., Chatzisarantis, N. L. D., Alberts, H., et al. (2016). A multilab preregistered replication of the ego-depletion effect. Perspectives on Psychological Science, 11(4), 546-573. doi 10.1177/1745691616652873. Tilburg University research portal.",
      "url": "https://research.tilburguniversity.edu/en/publications/a-multi-lab-pre-registered-replication-of-the-ego-depletion-effec/"
+    },
+    {
+     "label": "Weinshall-Margel, K. and Shapard, J. (2011). Overlooked factors in the analysis of parole decisions. Proceedings of the National Academy of Sciences, 108(42), E833. doi 10.1073/pnas.1110910108.",
+     "url": "https://doi.org/10.1073/pnas.1110910108"
     }
    ],
    "other": [
