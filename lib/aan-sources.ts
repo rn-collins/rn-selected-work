@@ -6,6 +6,8 @@ export type SourceLink = { label: string; url: string };
 export type ImageCredit = { where: string; what: string; credit: string; url: string; card: boolean };
 export type Origin = { kind: "article" | "listing" | "main"; label: string; url: string } | null;
 export type SourcePost = {
+  disclaimer?: string; // the AaN house line for health and drug posts, from the package (alignment contract)
+  resources?: string; // the resources line of a sensitive-tagged post, copied from the package
   slug: string; date: string; id: string; title: string; series: string; origin: Origin;
   research: SourceLink[]; other: SourceLink[]; images: ImageCredit[];
 };
