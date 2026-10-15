@@ -37,6 +37,8 @@ export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = A
         <h1 className={styles.title}>{p.title}</h1>
         <p className={styles.meta}>{meta}</p>
         <p className={styles.intro}>{intro}</p>
+        {p.disclaimer && <p className={styles.intro}>{p.disclaimer}</p>}
+        {p.resources && <p className={styles.intro}>{p.resources}</p>}
 
         {p.origin && (
           <a className={styles.origin} href={p.origin.url} target="_blank" rel="noreferrer">
