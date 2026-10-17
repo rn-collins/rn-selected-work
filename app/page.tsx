@@ -283,6 +283,7 @@ export default function Home() {
           <Link href="/writing#journal-of-biophilic-design">Journal of Biophilic Design <span>{journalArticles.length}</span></Link>
           <Link href="/writing#fat-nugs-magazine">Fat Nugs Magazine <span>{publicationCounts["Fat Nugs Magazine"]}</span></Link>
           <Link href="/writing#cannabis-law-report">Cannabis Law Report <span>{publicationCounts["Cannabis Law Report"]}</span></Link>
+          <Link href="/writing#the-daily-pennsylvanian">The Daily Pennsylvanian <span>{publicationCounts["The Daily Pennsylvanian"]}</span></Link>
           <Link href="/writing#new-bones-mag">New Bones Mag</Link>
           <Link href="/writing#mit-science-policy-review">Academic + policy writing</Link>
         </nav>
@@ -293,6 +294,10 @@ export default function Home() {
           />
           <Publication title="Cannabis Law Report" items={writing.clr} />
           <Publication title={journalName} items={journalArticles.map((article) => ({ title: article.title, href: `/writing/journal-of-biophilic-design/${article.slug}`, blurb: `Issue ${article.issue} · ${article.theme} · Read the full article` }))} />
+          <Publication title="The Daily Pennsylvanian" items={[
+            ...publicationArchive.filter((article) => article.publication === "The Daily Pennsylvanian" && ["Michelle Obama and Jill Biden 'Join Forces' at Penn", "HUP adjusts to implementation of Affordable Care Act", "Nursing students create games to teach about healthcare issues"].includes(article.title)).map((article) => ({ title: article.title, href: article.href, blurb: "Read the full article at The Daily Pennsylvanian." })),
+            { title: "Explore all 29 articles", href: "/writing#the-daily-pennsylvanian", blurb: "Health care, education, public policy, business, and campus life." },
+          ]} />
           <Publication title="Research, policy + independent writing" items={[
             { title: "New Bones Mag", href: "/writing#new-bones-mag", blurb: "Neuroscience and abolition." },
             { title: "Academic papers + policy reports", href: "/writing#mit-science-policy-review", blurb: "MIT Science Policy Review, Academic Radiology, Frontiers in Education, Policy Insights from the Behavioral and Brain Sciences, and Mothers in Science." },
@@ -306,7 +311,7 @@ export default function Home() {
           </div>
           <div>
             <p>
-              {journalArticles.length} Journal of Biophilic Design articles · {publicationCounts["Fat Nugs Magazine"]} Fat Nugs Magazine articles · {publicationCounts["Cannabis Law Report"]} Cannabis Law Report publication records · {publicationCounts["Cannabis Law Journal"]} Cannabis Law Journal editions.
+              {journalArticles.length} Journal of Biophilic Design articles · {publicationCounts["Fat Nugs Magazine"]} Fat Nugs Magazine articles · {publicationCounts["Cannabis Law Report"]} Cannabis Law Report publication records · {publicationCounts["Cannabis Law Journal"]} Cannabis Law Journal editions · {publicationCounts["The Daily Pennsylvanian"]} Daily Pennsylvanian articles.
             </p>
             <p className="archiveNote">
               Checked October 17, 2026. Includes academic papers, policy work, and a thesis. Separate editions and republications are labeled; unindexed and print-only work may still be missing.

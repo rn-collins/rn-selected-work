@@ -35,7 +35,7 @@ export default function WritingArchivePage() {
         <h1>Published work,<br /><em>across disciplines.</em></h1>
         <div className="archiveIntro">
           <p>{totalRecords} located publication records across law, governance, neuroscience, cannabis, psychedelics, culture, institutional accountability, and Hawaiʻi.</p>
-          <p>The archive includes five full-text Journal of Biophilic Design articles, journalism, coauthored academic papers, a policy action plan, a preprint, and a thesis. Dates retain the precision supported by the source. Separate editions and republications are labeled; the total counts records, not distinct original works. Publisher archives and public research indexes were checked on October 17, 2026; unindexed and print-only work may still be missing.</p>
+          <p>The archive includes five full-text Journal of Biophilic Design articles, journalism, coauthored academic papers, a policy action plan, a preprint, and a thesis. Dates, where shown, retain the precision supported by the source. Separate editions and republications are labeled; the total counts records, not distinct original works. Publisher archives and public research indexes were checked on October 17, 2026; unindexed and print-only work may still be missing.</p>
         </div>
       </header>
       <nav className="publicationJump shell" aria-label="Jump to publication">
@@ -116,6 +116,7 @@ export default function WritingArchivePage() {
                 <h2>{publication}</h2>
                 <span>{articles.length} records</span>
               </div>
+              {publication === "The Daily Pennsylvanian" && <p className="archiveDisclosure">Reporting on health care, education, public policy, business, and campus life. Read each article in full at The Daily Pennsylvanian.</p>}
               {publication === "Cannabis Law Journal" ? (
                 <p className="archiveDisclosure">The publication’s current site identifies itself as Cannabis Law Journal. These are separately located Journal editions of work also published by Cannabis Law Report; they are not represented as three additional original articles.</p>
               ) : null}
@@ -124,8 +125,8 @@ export default function WritingArchivePage() {
                   <h3>{seriesName}</h3>
                   <div className="archiveList">
                     {articles.filter((article) => article.series === seriesName).map((article) => (
-                      <article key={article.href}>
-                        <time dateTime={article.date || undefined}>{formatDate(article.date)}</time>
+                      <article key={article.href} style={article.hideDate ? { gridTemplateColumns: "1fr" } : undefined}>
+                        {!article.hideDate && <time dateTime={article.date || undefined}>{formatDate(article.date)}</time>}
                         <div>
                           <h4><a href={article.href} target="_blank" rel="noreferrer">{article.title} ↗</a></h4>
                           <p>{article.byline}{article.note ? ` · ${article.note}` : ""}</p>
