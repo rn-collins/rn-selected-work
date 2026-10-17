@@ -1,3 +1,5 @@
+import { DiscoveryBrowser } from "../../components/discovery-browser";
+import { discoveryItems } from "../../lib/discovery";
 import { publicSourceLink } from "../../lib/source-links";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -38,6 +40,7 @@ export default function WritingArchivePage() {
           <p>The archive includes five full-text Journal of Biophilic Design articles, journalism, coauthored academic papers, a policy action plan, a preprint, and a thesis. Dates, where shown, retain the precision supported by the source. Separate editions and republications are labeled; the total counts records, not distinct original works. Publisher archives and public research indexes were checked on October 17, 2026; unindexed and print-only work may still be missing.</p>
         </div>
       </header>
+<DiscoveryBrowser items={discoveryItems().filter(item => ["Writing", "Essay"].includes(item.kind))} title="Find something to read" />
       <nav className="publicationJump shell" aria-label="Jump to publication">
         <a href={`#${journalId}`}>{journalName} <span>{journalArticles.length}</span></a>
         {ddwEssays.length > 0 && <a href={`#${ddwId}`}>Dutch Design Week <span>{ddwEssays.length}</span></a>}

@@ -1,3 +1,5 @@
+import { DiscoveryBrowser } from "../../components/discovery-browser";
+import { discoveryItems } from "../../lib/discovery";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../components/canonical-page";
@@ -20,6 +22,7 @@ export function generateMetadata(): Metadata {
 export default function EssaysIndex() {
   return (
     <CanonicalPage>
+<DiscoveryBrowser items={discoveryItems().filter(item => ["Essay"].includes(item.kind))} title="Find an essay" />
       <div className={`${styles.page} shell`}>
         <p className="eyebrow">RN Collins</p>
         <h1 className={styles.title}>Essays</h1>

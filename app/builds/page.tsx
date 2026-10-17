@@ -1,3 +1,5 @@
+import { DiscoveryBrowser } from "../../components/discovery-browser";
+import { discoveryItems } from "../../lib/discovery";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../components/canonical-page";
@@ -10,6 +12,8 @@ import {
   statusLabels,
   undescribed,
 } from "../../lib/builds";
+
+export const revalidate = 3600;
 
 export const metadata: Metadata = {
   title: "Build index",
@@ -42,6 +46,7 @@ export default function BuildIndexPage() {
           held more than twice that.
         </p>
       </header>
+<DiscoveryBrowser items={discoveryItems().filter(item => ["Build"].includes(item.kind))} title="Find a tool or working system" />
 
       <section className="canonicalSection shell" aria-labelledby="method">
         <div className="canonicalSplit">

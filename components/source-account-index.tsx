@@ -1,3 +1,5 @@
+import { DiscoveryBrowser } from "./discovery-browser";
+import { discoveryItems } from "../lib/discovery";
 import Link from "next/link";
 import { CanonicalPage } from "./canonical-page";
 import { PortfolioBlock, PortfolioLine } from "./source-portfolio-link";
@@ -20,6 +22,7 @@ export function SourceAccountIndex({ accountKey }: { accountKey: string }) {
   const posts = listed(a).slice().reverse();
   return (
     <CanonicalPage>
+      {posts.length > 6 && <DiscoveryBrowser items={discoveryItems().filter(i => i.kind === "Sources" && i.collection === a.name)} title={`Search ${a.name}`} />}
       <div className={`${styles.page} shell`}>
         <p className="eyebrow">{a.name}</p>
         <h1 className={styles.title}>Sources</h1>

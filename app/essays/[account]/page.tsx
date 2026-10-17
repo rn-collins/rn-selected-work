@@ -1,3 +1,5 @@
+import { DiscoveryBrowser } from "../../../components/discovery-browser";
+import { discoveryItems } from "../../../lib/discovery";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -33,6 +35,7 @@ export default async function EssayAccountIndex({ params }: Params) {
   const list = releasedEssays(a.key);
   return (
     <CanonicalPage>
+      {list.length > 6 && <DiscoveryBrowser items={discoveryItems().filter(i => i.kind === "Essay" && i.collection === a.name)} title={`Search ${a.name}`} />}
       <div className={`${styles.page} shell`}>
         <p className="eyebrow">{a.name}</p>
         <h1 className={styles.title}>Essays</h1>

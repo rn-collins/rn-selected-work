@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
+import { PortfolioWayfinding } from "../components/portfolio-wayfinding";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://rn-selected-work.vercel.app"),
@@ -44,8 +45,10 @@ export default function RootLayout({
         />
       </head>
       <body>
-        <a className="skipLink" href="#main-content">Skip to main content</a>
-        <div id="main-content">{children}</div>
+        <a className="skipLink" href="#portfolio-content">Skip to main content</a>
+        <PortfolioWayfinding />
+        <div id="portfolio-content">{children}</div>
+        <PortfolioWayfinding bottom />
       </body>
     </html>
   );
