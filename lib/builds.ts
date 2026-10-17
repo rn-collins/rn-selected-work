@@ -9,6 +9,7 @@
  * is maintained by remembering to add it twice.
  */
 
+import { publicSourceLink } from "./source-links";
 import inventory from "../data/builds.json";
 import exclusions from "../data/exclusions.json";
 import {
@@ -49,7 +50,7 @@ export const builds: Build[] = records
     return {
       ...note,
       live: record.live,
-      repoUrl: record.repoUrl,
+      repoUrl: publicSourceLink(record.repoUrl, record.live) ?? null,
       sourceVisibility: record.visibility,
       lastDeployed: record.pushedAt,
       verifiedStatus: record.httpStatus,

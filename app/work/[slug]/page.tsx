@@ -1,3 +1,4 @@
+import { publicSourceLink } from "../../../lib/source-links";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -36,6 +37,7 @@ export default async function ProjectPage({
   const p = getProject(slug);
   const build = getPublicBuild(slug);
   const projectRecord = buildByCaseStudy.get(slug);
+  const source = publicSourceLink(p?.repo || projectRecord?.repoUrl, p?.live);
   if (build) return <PublicBuildCase build={build} />;
   if (!p)
     return (
@@ -102,14 +104,14 @@ export default async function ProjectPage({
               Open live experience ↗
             </a>
           )}
-          {p.repo && (
+          {source && (
             <a
               className="button secondary"
-              href={p.repo}
+              href={source}
               target="_blank"
               rel="noreferrer"
             >
-              Inspect technical source ↗
+              View source on GitHub ↗
             </a>
           )}
           <Link className="textlink" href="/#work">
@@ -131,6 +133,7 @@ function CaseBlock({ label, text }: { label: string; text: string }) {
 
 function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
   const record = buildByCaseStudy.get(build.slug);
+  const source = publicSourceLink(build.source || record?.repoUrl, build.live);
   return (
     <main>
       <nav className="nav shell" aria-label="Case study navigation">
@@ -172,9 +175,9 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
           ) : (
             <span className="availability">Public link held pending remediation</span>
           )}
-          {build.source && (
-            <a className="button secondary" href={build.source} target="_blank" rel="noreferrer">
-              Inspect technical source ↗
+          {source && (
+            <a className="button secondary" href={source} target="_blank" rel="noreferrer">
+              View source on GitHub ↗
             </a>
           )}
           {build.artifacts?.map((artifact) => (

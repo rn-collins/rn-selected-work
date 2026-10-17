@@ -204,8 +204,8 @@
     {
       "repo": "claude-smb-buechler",
       "live": "https://claude-smb-buechler.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/claude-smb-buechler",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "An independent, plain-English quick-start for building your first Claude small-business workflow.",
       "pushedAt": "2026-09-06T04:06:49Z",
       "httpStatus": 200,
@@ -276,8 +276,8 @@
     {
       "repo": "dru-assessment",
       "live": "https://dru-assessment.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/dru-assessment",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "An unvalidated, browser-local demonstration of pseudonymously linked questionnaire records.",
       "pushedAt": "2026-10-10T03:49:55Z",
       "httpStatus": 200,
@@ -324,8 +324,8 @@
     {
       "repo": "future-professional-profiles",
       "live": "https://future-professional-profiles.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/future-professional-profiles",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "RN Studio concept profiles: researched professional positioning, content strategy, and alternate-future publishing system.",
       "pushedAt": "2026-10-10T03:49:56Z",
       "httpStatus": 200,
@@ -360,8 +360,8 @@
     {
       "repo": "inflection-radar-real-chemistry",
       "live": "https://inflection-radar-real-chemistry.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/inflection-radar-real-chemistry",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "An independently initiated proposal for a governed public-source method for identifying emerging neuropsychiatry opportunities.",
       "pushedAt": "2026-09-06T03:59:53Z",
       "httpStatus": 200,
@@ -396,8 +396,8 @@
     {
       "repo": "keiki-robotics-oahu-ai",
       "live": "https://keiki-robotics-oahu-ai.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/keiki-robotics-oahu-ai",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "A family first-steps guide to competitive robotics in Hawaiʻi, with Oʻahu A.I., at Hawaiʻi Tech Week 2026.",
       "pushedAt": "2026-08-29T10:13:07Z",
       "httpStatus": 200,
@@ -408,8 +408,8 @@
     {
       "repo": "kids-developing-brains",
       "live": "https://kids-developing-brains.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/kids-developing-brains",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "RN Collins - kids-developing-brains brand site",
       "pushedAt": "2026-09-03T07:58:56Z",
       "httpStatus": 200,
@@ -840,8 +840,8 @@
     {
       "repo": "sovereign-stack",
       "live": "https://sovereign-stack-psi.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/sovereign-stack",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "Purple Maiʻa working proposal: a community-authority governance and learning layer for AI systems.",
       "pushedAt": "2026-10-10T03:50:11Z",
       "httpStatus": 200,
@@ -900,8 +900,8 @@
     {
       "repo": "transform-observatory",
       "live": "https://transform-observatory.vercel.app",
-      "visibility": "public",
-      "repoUrl": "https://github.com/rn-collins/transform-observatory",
+      "visibility": "private",
+      "repoUrl": null,
       "githubDescription": "Create a source-anchored, six-dimension evidence record for a drug-policy or regulated-market transition.",
       "pushedAt": "2026-09-06T17:06:11Z",
       "httpStatus": 200,
@@ -991,5 +991,6 @@
       "reason": "Private owner workspace behind a passphrase gate.",
       "silent": false
     }
-  ]
+  ],
+  "sourceLinksCheckedAt": "2026-10-17T05:17:26.865Z"
 }

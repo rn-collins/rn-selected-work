@@ -48,7 +48,7 @@ export default async function BuildPage({ params }: { params: Promise<{ repo: st
           )}
           {build.repoUrl && (
             <a className="button secondary" href={build.repoUrl} target="_blank" rel="noreferrer">
-              Inspect technical source ↗
+              View source on GitHub ↗
             </a>
           )}
           {build.caseStudy && (

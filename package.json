@@ -6,10 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "builds:regenerate": "node scripts/regenerate-builds.mjs",
+    "builds:regenerate": "node scripts/regenerate-builds.mjs && node scripts/refresh-source-links.mjs",
     "builds:check": "node scripts/regenerate-builds.mjs --check",
     "releases:sync": "python3 scripts/sync_releases.py",
-    "releases:check": "python3 scripts/sync_releases.py --check"
+    "releases:check": "python3 scripts/sync_releases.py --check",
+    "sources:refresh": "node scripts/refresh-source-links.mjs"
   },
   "dependencies": {
     "next": "16.2.6",

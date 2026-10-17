@@ -150,7 +150,7 @@ export default function BuildIndexPage() {
                       )}
                       {build.repoUrl && (
                         <a href={build.repoUrl} target="_blank" rel="noreferrer">
-                          Source <span aria-hidden="true">↗</span>
+                          GitHub <span aria-hidden="true">↗</span>
                         </a>
                       )}
                     </div>

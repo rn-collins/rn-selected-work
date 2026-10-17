@@ -48,6 +48,7 @@ export function BuildRoster({
                   Open the build <span aria-hidden="true">↗</span>
                 </a>
               )}
+              {build.repoUrl && (<a href={build.repoUrl} target="_blank" rel="noreferrer">GitHub <span aria-hidden="true">↗</span></a>)}
               {build.caseStudy && (
                 <Link href={`/work/${build.caseStudy}`}>
                   Case study <span aria-hidden="true">→</span>
