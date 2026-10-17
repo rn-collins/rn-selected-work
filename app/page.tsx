@@ -3,6 +3,7 @@ import Link from "next/link";
 import { SocialIcons } from "../components/social-icons";
 import { projects, writing } from "../lib/portfolio";
 import { builds, institutionalBuilds, populatedCategories } from "../lib/builds";
+import { journalArticles, journalName } from "../lib/journal-articles";
 import { publicationArchive, publicationCounts } from "../lib/publication-archive";
 
 export const metadata: Metadata = {
@@ -275,7 +276,7 @@ export default function Home() {
       <section id="writing" className="writing shell">
         <div className="sectionhead">
           <p className="eyebrow">Published work</p>
-          <p>Selected close reads, plus a complete archive of {publicationArchive.length} publication records.</p>
+          <p>Journalism, design writing, and research · {publicationArchive.length + journalArticles.length} located publication records.</p>
         </div>
         <div className="articlecols">
           <Publication
@@ -283,22 +284,26 @@ export default function Home() {
             items={writing.fnm}
           />
           <Publication title="Cannabis Law Report" items={writing.clr} />
+          <Publication title={journalName} items={journalArticles.map((article) => ({ title: article.title, href: `/writing/journal-of-biophilic-design/${article.slug}`, blurb: `Issue ${article.issue} · ${article.theme} · Read the full article` }))} />
+          <Publication title="Research, policy + independent writing" items={[
+            { title: "New Bones Mag", href: "/writing#new-bones-mag", blurb: "Neuroscience and abolition." },
+            { title: "Academic papers + policy reports", href: "/writing#mit-science-policy-review", blurb: "MIT Science Policy Review, Academic Radiology, Frontiers in Education, Policy Insights from the Behavioral and Brain Sciences, and Mothers in Science." },
+            { title: "POLYMATH", href: "https://polymath-rn-collins.beehiiv.com/", blurb: "Independent essays and the newsletter archive." },
+          ]} />
         </div>
         <div className="archiveCallout">
           <div>
-            <p className="eyebrow">Complete editorial archive</p>
-            <h2>Every located byline, not only the featured six.</h2>
+            <p className="eyebrow">Publication archive</p>
+            <h2>Follow the work across publications.</h2>
           </div>
           <div>
             <p>
-              {publicationCounts["Fat Nugs Magazine"]} Fat Nugs Magazine articles · {publicationCounts["Cannabis Law Report"]} Cannabis Law Report publication records · {publicationCounts["Cannabis Law Journal"]} Cannabis Law Journal editions.
+              {journalArticles.length} Journal of Biophilic Design articles · {publicationCounts["Fat Nugs Magazine"]} Fat Nugs Magazine articles · {publicationCounts["Cannabis Law Report"]} Cannabis Law Report publication records · {publicationCounts["Cannabis Law Journal"]} Cannabis Law Journal editions.
             </p>
             <p className="archiveNote">
-              Searched under RN Collins, Rayven-Nikkita Collins, Nikkita Collins,
-              and RN Williams. Duplicate and republished URLs are labeled rather
-              than silently counted as new works.
+              Checked October 17, 2026. Includes academic papers, policy work, and a thesis. Separate editions and republications are labeled; unindexed and print-only work may still be missing.
             </p>
-            <Link className="button" href="/writing">Browse the complete archive →</Link>
+            <Link className="button" href="/writing">Browse the publication archive →</Link>
           </div>
         </div>
       </section>

@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Writing",
   description:
-    "The complete located editorial archive: Fat Nugs Magazine, Cannabis Law Report, and Cannabis Law Journal publication records by RN Collins.",
+    "Published writing and research by RN Collins: journalism, Journal of Biophilic Design columns, academic papers, policy reports, and a thesis.",
   alternates: { canonical: "/writing" },
 };
 import { publicationArchive } from "../../lib/publication-archive";
@@ -18,11 +18,7 @@ const journalId = "journal-of-biophilic-design";
 const ddwId = "dutch-design-week";
 const totalRecords = publicationArchive.length + journalArticles.length;
 
-const publications = [
-  "Fat Nugs Magazine",
-  "Cannabis Law Report",
-  "Cannabis Law Journal",
-] as const;
+const publications = [...new Set(publicationArchive.map((article) => article.publication))];
 
 export default function WritingArchivePage() {
   const ddwEssays = releasedDdwEssays();
@@ -34,11 +30,11 @@ export default function WritingArchivePage() {
         <div className="navlinks"><Link href="/#work">Work</Link><Link href="/writing">Writing</Link></div>
       </nav>
       <header className="archiveHero shell">
-        <p className="eyebrow">Complete editorial archive · through October 9, 2026</p>
-        <h1>Published work,<br /><em>in full.</em></h1>
+        <p className="eyebrow">Publication archive · checked October 17, 2026</p>
+        <h1>Published work,<br /><em>across disciplines.</em></h1>
         <div className="archiveIntro">
           <p>{totalRecords} located publication records across law, governance, neuroscience, cannabis, psychedelics, culture, institutional accountability, and Hawaiʻi.</p>
-          <p>Five articles from the Journal of Biophilic Design are reproduced in full below, because the journal’s issues cannot be linked to. This archive searches the bylines RN Collins, Rayven-Nikkita Collins, Nikkita Collins, and RN Williams. Publication duplicates and Journal republications remain visible and are explicitly labeled.</p>
+          <p>The archive includes five full-text Journal of Biophilic Design articles, journalism, coauthored academic papers, a policy action plan, a preprint, and a thesis. Dates retain the precision supported by the source. Separate editions and republications are labeled; the total counts records, not distinct original works. Publisher archives and public research indexes were checked on October 17, 2026; unindexed and print-only work may still be missing.</p>
         </div>
       </header>
       <nav className="publicationJump shell" aria-label="Jump to publication">
@@ -128,7 +124,7 @@ export default function WritingArchivePage() {
                   <div className="archiveList">
                     {articles.filter((article) => article.series === seriesName).map((article) => (
                       <article key={article.href}>
-                        <time dateTime={article.date}>{formatDate(article.date)}</time>
+                        <time dateTime={article.date || undefined}>{formatDate(article.date)}</time>
                         <div>
                           <h4><a href={article.href} target="_blank" rel="noreferrer">{article.title} ↗</a></h4>
                           <p>{article.byline}{article.note ? ` · ${article.note}` : ""}</p>
@@ -148,6 +144,8 @@ export default function WritingArchivePage() {
 }
 
 function formatDate(date: string) {
+  if (!date) return "Date unconfirmed";
+  if (date.length === 4) return date;
   return new Intl.DateTimeFormat("en-US", {
     year: "numeric",
     month: "short",
