@@ -1,3 +1,4 @@
+import { publicSourceLink } from "../../lib/source-links";
 import Link from "next/link";
 import type { Metadata } from "next";
 
@@ -138,7 +139,7 @@ export default function WritingArchivePage() {
           );
         })}
       </div>
-      <footer className="footer archiveFooter"><div className="shell"><Link className="button archiveBack" href="/">← Return to selected work</Link></div></footer>
+      <footer className="footer archiveFooter"><div className="shell"><Link className="button archiveBack" href="/">← Return to selected work</Link>{publicSourceLink("https://github.com/rn-collins/rn-selected-work") && <p><a href={publicSourceLink("https://github.com/rn-collins/rn-selected-work")} target="_blank" rel="noopener noreferrer">View source on GitHub ↗</a></p>}</div></footer>
     </main>
   );
 }

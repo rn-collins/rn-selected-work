@@ -1,3 +1,4 @@
+import { publicSourceLink } from "../lib/source-links";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { SocialIcons } from "../components/social-icons";
@@ -340,6 +341,7 @@ export default function Home() {
               Continue on LinkedIn ↗
             </a>
             <SocialIcons />
+            {publicSourceLink("https://github.com/rn-collins/rn-selected-work") && <p><a href={publicSourceLink("https://github.com/rn-collins/rn-selected-work")} target="_blank" rel="noopener noreferrer">View source on GitHub ↗</a></p>}
             <p className="note">
               Explore the research, systems, and public work here, then begin with
               the question or institutional problem that matters most.
