@@ -278,6 +278,13 @@ export default function Home() {
           <p className="eyebrow">Published work</p>
           <p>Journalism, design writing, and research · {publicationArchive.length + journalArticles.length} located publication records.</p>
         </div>
+        <nav className="publicationJump" aria-label="Publication outlets">
+          <Link href="/writing#journal-of-biophilic-design">Journal of Biophilic Design <span>{journalArticles.length}</span></Link>
+          <Link href="/writing#fat-nugs-magazine">Fat Nugs Magazine <span>{publicationCounts["Fat Nugs Magazine"]}</span></Link>
+          <Link href="/writing#cannabis-law-report">Cannabis Law Report <span>{publicationCounts["Cannabis Law Report"]}</span></Link>
+          <Link href="/writing#new-bones-mag">New Bones Mag</Link>
+          <Link href="/writing#mit-science-policy-review">Academic + policy writing</Link>
+        </nav>
         <div className="articlecols">
           <Publication
             title="Fat Nugs Magazine · Ask a Neuroscientist"
