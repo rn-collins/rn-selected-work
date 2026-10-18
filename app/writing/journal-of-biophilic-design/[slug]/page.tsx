@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { CanonicalPage } from "../../../../components/canonical-page";
 import { journalArticle, journalArticles, journalName, journalUrl, readingMinutes } from "../../../../lib/journal-articles";
 import linkFixes from "../../../../data/journal/link-fixes.json";
+import amendments from "../../../../data/journal/web-amendments.json";
 import { isReleased, pieceId } from "../../../../lib/releases";
 
 // The link to the article's sources page (/sources/jbd/jbd<issue>) appears from that page's release day.
@@ -33,6 +34,7 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
   const a = journalArticle((await params).slug);
   if (!a) notFound();
   const headings = a.sections.filter((s) => s.t === "h2");
+  const changes = (amendments.articles as Record<string, Amendment[]>)[a.slug] ?? [];
   return (
     <CanonicalPage>
       <article className={`${styles.page} shell`}>
@@ -46,7 +48,8 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
         </p>
         <p className={styles.origin}>
           First published in <a href={journalUrl} target="_blank" rel="noreferrer">{journalName}, Issue {a.issue}<span aria-hidden="true"> ↗</span></a>.
-          The journal is sold as an ebook or in print, so the full text is reproduced here. The wording is as printed.
+          The journal is sold as an ebook or in print, so the full text is reproduced here.
+          {changes.length ? " This web edition includes evidence corrections dated 18 October 2026. Amended passages link to their supporting sources and retain the original wording for comparison." : " The wording is as printed."}
         </p>
         {a.standfirst ? <p className={styles.standfirst}>{a.standfirst}</p> : null}
         {headings.length > 3 ? (
@@ -63,13 +66,30 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
           {a.sections.map((s, i) => {
             if (s.t === "h2") return <h2 id={slugify(s.x)} key={i}>{s.x}</h2>;
             if (s.t === "h3") return <h3 key={i}>{s.x}</h3>;
+            const change = changes.find((item) => item.section === i && item.original === s.x);
+            if (change) return (
+              <div key={i} className={styles.amended}>
+                <p>{change.text}</p>
+                <details className={styles.amendment}>
+                  <summary>Web edition correction · 18 October 2026 · sources and original wording</summary>
+                  <p>{change.reason}</p>
+                  <ul>
+                    {change.sources.map((source) => (
+                      <li key={source.url}><a href={source.url} target="_blank" rel="noreferrer">{source.label}</a>{source.note ? ` — ${source.note}` : ""}</li>
+                    ))}
+                  </ul>
+                  <p><strong>As first published</strong></p>
+                  <blockquote>{s.x}</blockquote>
+                </details>
+              </div>
+            );
             return <p key={i}>{s.x}</p>;
           })}
         </div>
         {a.references.length > 0 ? (
           <section className={styles.refs} aria-labelledby="references">
-            <h2 id="references">References</h2>
-            <p className={styles.refnote}>Citations appear as first printed. Verified replacement links are identified below. Unverified or mismatched links are withheld; this does not establish the underlying claim. These link-verification notes are additions to this web edition.</p>
+            <h2 id="references">References as printed</h2>
+            <p className={styles.refnote}>Citations below preserve the publication record. Sources supporting amendments appear beside each corrected passage. Verified replacement links are identified below. Unverified or mismatched links are withheld. These verification notes are additions to this web edition.</p>
             <ol>
               {a.references.map((r) => (
                 <li key={r}>{linkify(r)}</li>
@@ -91,6 +111,7 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
 }
 
 const fixes = linkFixes.links as Record<string, string | null>;
+type Amendment = { section: number; original: string; text: string; reason: string; sources: { label: string; url: string; note?: string }[] };
 const verificationNotes = linkFixes.notes as Record<string, string>;
 
 // Printed addresses that no longer resolve are swapped for the verified record of the same work,

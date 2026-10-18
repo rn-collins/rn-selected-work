@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-18",
+  "articles": {
+    "trauma-informed-architecture": [
+      {
+        "section": 5,
+        "original": "Certain design features consistently calm, orient, and empower occupants. Daylight restores circadian alignment and cognitive alertness (Yin et al., 2020). Tactile natural materials like wood, stone, and textured plantings evoke safety and familiarity (Zhang et al., 2023). Intuitive layouts with clear sightlines reduce cognitive load and anxiety (Owen & Crane, 2022). Acoustic buffering – through soft finishes, vegetation, or spatial zoning – prevents sensory overload (Conzatti et al., 2022). Flexible layouts that reflect local norms respect cultural identity and foster belonging (Al-Shoubaki et al., 2024). Embedding these elements allows buildings to soothe rather than startle – providing daily nervous-system relief to those who need it most (Ames, 2023).",
+        "text": "Design features can support occupants in specific, measurable ways. Greater morning exposure to circadian-effective light was associated with better sleep outcomes in an observational office-worker study (Figueiro et al., 2017). Short laboratory experiments found physiological differences between touching white oak and other materials or finishes (Ikei et al., 2017). Combining landmarks and window views improved wayfinding in a virtual healthcare environment (Qi et al., 2022). Applying these findings to trauma-informed spaces calls for consultation with occupants about lighting, textures, noise, privacy and navigation, followed by evaluation of their responses. These studies do not establish that natural materials or flexible layouts provide universal nervous-system relief.",
+        "reason": "The original paragraph extended findings about particular materials, light exposure and navigation into broad claims about safety, circadian restoration and trauma recovery. This amendment distinguishes measured outcomes from recommendations for design.",
+        "sources": [
+          {
+            "label": "Figueiro et al. (2017), The impact of daytime light exposures on sleep and mood in office workers",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28526259/",
+            "note": "Observational study of 109 workers; measured light exposure and sleep associations."
+          },
+          {
+            "label": "Ikei, Song and Miyazaki (2017), Physiological Effects of Touching Wood",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28718814/",
+            "note": "18 female students, 90-second exposure; comparison with marble and steel does not establish universal psychological safety."
+          },
+          {
+            "label": "Ikei, Song and Miyazaki (2017), Physiological Effects of Touching Coated Wood",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28703777/",
+            "note": "Small laboratory comparison of oak finishes."
+          },
+          {
+            "label": "Qi, Lu and Chen (2022), Investigating the Influences of Healthcare Facility Features on Wayfinding Performance and Associated Stress Using Virtual Reality",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35761774/",
+            "note": "Wayfinding improved; the stress relationship requires further research."
+          }
+        ]
+      }
+    ],
+    "designing-for-cognitive-clarity": [
+      {
+        "section": 2,
+        "original": "Nature-inspired interiors provide the brain with the mental “breathing room” it needs. Attention Restoration Theory suggests that environments rich in soft fascination – ambient daylight, curved forms, natural textures – restore directed attention and reduce fatigue (Kaplan & Kaplan, 1989). A VR-based study from the Harvard T.H. Chan School of Public Health found that participants immersed in biophilic interiors recovered from stress significantly faster than those in conventional settings, showing lower anxiety and reduced electrodermal activity (Yin et al., 2020). Zhang et al. (2023) confirmed in Frontiers in Psychology that biophilic elements measurably improve mood, focus, and parasympathetic activation in workplace settings. These aren’t abstract findings – they translate directly to real rooms where overstressed people heal, work, and learn.",
+        "text": "Nature-inspired interiors are being studied as settings for recovery, with benefits that vary by outcome and design. In a randomized experiment with 100 participants, virtual offices containing biophilic elements supported better short-term recovery from stress and anxiety than a conventional virtual office (Yin et al., 2020). In a separate study of 27 office workers, greenery affected mood but did not significantly change heart-rate variability or cognitive-task performance (Fukumoto et al., 2024). These findings support testing natural elements in real settings and measuring their effects; they do not establish that every biophilic design improves mood, focus and autonomic regulation together.",
+        "reason": "The unlocated Zhang citation has been replaced in this web passage by independently verified studies, including evidence of null effects. Virtual stress recovery is not treated as proof of lasting benefits in occupied buildings.",
+        "sources": [
+          {
+            "label": "Yin et al. (2020), Effects of biophilic indoor environment on stress and anxiety recovery",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31881421/",
+            "note": "Randomized virtual-office experiment with 100 participants; short-term recovery after stress tasks."
+          },
+          {
+            "label": "Fukumoto, Shimoda and Hoshino (2024), The effects of different designs of indoor biophilic greening on office workers",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307934",
+            "note": "27 workers; mood effects did not translate into significant HRV or cognitive-task differences."
+          }
+        ]
+      },
+      {
+        "section": 4,
+        "original": "Neuroscience points to specific features that reliably support mental recovery. Daylight exposure restores circadian rhythms and sharpens alertness (Yin et al., 2020). Natural materials offer tactile safety, prompting parasympathetic response through their warmth and irregular textures (Zhang et al., 2023). Spatial legibility – intuitive layouts and clear sightlines – lightens cognitive load and improves spatial memory (Evans & Wener, 2007). Sensory zoning empowers people to choose stimulation or stillness, a core principle in trauma-responsive environments (Golembiewski, 2010). In settings designed for recovery, these aren’t optional – they’re fundamental.",
+        "text": "Design choices should follow the outcomes the evidence measures. In an observational study of 109 office workers, greater morning exposure to circadian-effective light was associated with better sleep quality, shorter sleep-onset latency and a stronger measure of circadian entrainment (Figueiro et al., 2017). In a small laboratory study, touching white oak increased a heart-rate-variability measure associated with parasympathetic activity compared with marble and stainless steel (Ikei et al., 2017). Combining landmarks and window views improved wayfinding in a virtual healthcare environment (Qi et al., 2022). Designers can use these findings to inform lighting, material and navigation choices, while evaluating quiet areas and options for stimulation with the people who use them.",
+        "reason": "Yin's virtual stress-recovery study did not test circadian restoration, and Evans and Wener's train-crowding study did not test spatial memory from clear layouts. The new sources support narrower propositions; warmth and irregular textures were not established as causal mechanisms.",
+        "sources": [
+          {
+            "label": "Figueiro et al. (2017), The impact of daytime light exposures on sleep and mood in office workers",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28526259/",
+            "note": "Observational study of 109 workers; measured light exposure and sleep associations."
+          },
+          {
+            "label": "Ikei, Song and Miyazaki (2017), Physiological Effects of Touching Wood",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28718814/",
+            "note": "18 female students, 90-second exposure; comparison with marble and steel does not establish universal psychological safety."
+          },
+          {
+            "label": "Qi, Lu and Chen (2022), Investigating the Influences of Healthcare Facility Features on Wayfinding Performance and Associated Stress Using Virtual Reality",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35761774/",
+            "note": "Wayfinding improved; the stress relationship requires further research."
+          }
+        ]
+      },
+      {
+        "section": 6,
+        "original": "Policy frameworks are beginning to reflect these findings. WELL Building and Fitwel standards now incorporate metrics for biophilic and neuro-supportive design – linking layout, air quality, and lighting to performance and wellbeing (International WELL Building Institute, 2023; The Center for Active Design, 2023). Medicaid facility upgrades, HUD trauma-informed funding streams, and post-pandemic education recovery grants are increasingly aligned with these principles (U.S. Department of Health and Human Services, 2021; U.S. Department of Housing and Urban Development, 2022). These programs provide scaffolding, but thoughtful execution by designers and administrators determines whether interiors truly deliver cognitive relief.",
+        "text": "Federal programs have supported specific environmental and service improvements through distinct authorities. CMS guidance issued in 2021 described individualized housing-related supports and home-accessibility modifications under existing Medicaid authorities. The American Rescue Plan Act of 2021 permitted qualifying school repairs and indoor-air-quality improvements, including ventilation and window work. An August 2020 interagency report described trauma-informed service requirements for HUD Domestic Violence Bonus projects in the FY2018 and FY2019 competitions. These historical examples concern different purposes and rules; they do not establish a shared federal funding commitment to biophilic or neuro-supportive interiors.",
+        "reason": "Replaces the broad funding assertion with specific historical authorities. The cited documents address accessibility, school conditions and service delivery; they do not establish eligibility for any particular biophilic design project or current funding availability. The unverified WELL/Fitwel performance linkage is not repeated in this amended paragraph.",
+        "sources": [
+          {
+            "label": "CMS (2021), Opportunities in Medicaid and CHIP to Address Social Determinants of Health, SHO 21-001",
+            "url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho21001.pdf",
+            "note": "Pages 2–6: existing authorities, individual needs and accessibility modifications."
+          },
+          {
+            "label": "American Rescue Plan Act of 2021, Public Law 117-2, §2001(e)(2)(O)–(P)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ2/html/PLAW-117publ2.htm",
+            "note": "Historical eligibility for qualifying school repairs and indoor-air-quality improvements; not a statement that funding remains available."
+          },
+          {
+            "label": "USICH (2020), Report on Trauma-Informed Care",
+            "url": "https://usich.gov/sites/default/files/document/CLEARED-DJM-102-USICH-Report-on-Trauma-Informed-Care.pdf",
+            "note": "Page 7: trauma-informed service requirements for FY2018/2019 HUD Domestic Violence Bonus projects."
+          }
+        ]
+      }
+    ],
+    "wood-the-multisensory-physiological-magician": [
+      {
+        "section": 20,
+        "original": "Through acoustic and visual properties, wood moderates these demands. Speech intelligibility improves. “Soft fascination” allows attention to settle instead of scattering (Zhang et al., 2023).",
+        "text": "Wood-based acoustic treatments can improve speech conditions when their construction and placement are appropriate. In one classroom intervention, 50 mm wood-wool cement boards improved word-discrimination scores across the tested seats (Scoczynski Ribeiro et al., 2021). Evidence for attention restoration from wooden interiors is mixed: a randomized crossover trial found lower end-of-session anxiety in a wooden office, but no improvement in sustained attention (Ojala et al., 2023). An acoustic benefit from a particular panel assembly does not establish an attentional benefit from wood in general.",
+        "reason": "Replaces the unlocated Zhang attribution with an acoustic intervention and a controlled office trial. The specific speech result is retained; soft fascination is no longer asserted as an established wood-specific mechanism.",
+        "sources": [
+          {
+            "label": "Scoczynski Ribeiro et al. (2021), Acoustical treatment characterization of a classroom with wood-based composites",
+            "url": "https://doi.org/10.1016/j.apacoust.2021.107967",
+            "note": "Classroom intervention using wood-wool cement boards; treatment did not meet the cited reverberation-time standard."
+          },
+          {
+            "label": "Ojala et al. (2023), Psychological and physiological effects of a wooden office room on human well-being",
+            "url": "https://researchportal.tuni.fi/en/publications/psychological-and-physiological-effects-of-a-wooden-office-room-o/",
+            "note": "Randomized crossover trial of 61 participants; lower anxiety, similar sustained attention, and greater sympathetic activity at several phases."
+          }
+        ]
+      },
+      {
+        "section": 38,
+        "original": "Life-cycle assessments demonstrate that timber construction carries lower embodied carbon than steel or concrete alternatives. Carbon sequestration during growth and reduced processing energy drive this advantage (Peñaloza et al., 2019; Amiri et al., 2020).",
+        "text": "Comparative modeling shows that mass-timber buildings can have lower embodied carbon than equivalent steel or concrete designs. Kumar et al. (2024) found this advantage across modeled 8-, 12- and 18-story residential buildings, while showing that total embodied energy was not consistently lower. The results depend on building design, energy sources, the life-cycle stages included and end-of-life assumptions. A lower carbon footprint therefore should not be attributed automatically to lower processing-energy use.",
+        "reason": "Independent comparative research corroborates a qualified carbon advantage. It does not recover the printed Peñaloza reference. The blanket lower-energy explanation is corrected because the study found similar total embodied energy to steel and higher values than concrete for two building heights.",
+        "sources": [
+          {
+            "label": "Kumar et al. (2024), Environmental impact assessment of mass timber, structural steel, and reinforced concrete buildings",
+            "url": "https://research.fs.usda.gov/treesearch/67350",
+            "note": "Nine conceptual designs; 1 m² over 75 years, embodied life-cycle stages, with operational energy excluded. See section 3.3 for energy comparisons."
+          }
+        ]
+      }
+    ],
+    "biophilic-landscapes-as-cognitive-infrastructure": [
+      {
+        "section": 14,
+        "original": "The hippocampus constructs cognitive maps – internal representations encoding spatial location, navigation history, and route planning (O’Keefe & Nadel, 1978). The structure is exquisitely sensitive to environmental organization and navigability (Burgess et al., 2002). When environmental structure breaks down through unclear cues, sensory overload, or spatial incoherence, cognitive load goes up and stress responses kick in, which is particularly problematic for people already experiencing trauma (Bohbot et al., 2017).",
+        "text": "The hippocampus contributes to cognitive maps that support spatial learning and navigation (O’Keefe & Nadel, 1978; Burgess et al., 2002). In a virtual-navigation experiment, changing learned routes and landmarks increased participants’ self-reported spatial anxiety and task stress (Oliver et al., 2023). Separately, trauma-exposed participants performed less well on an allocentric navigation task in an observational study (Miller et al., 2017). Together, these findings motivate attention to navigability, but they do not establish that confusing architecture produces a greater physiological stress response in trauma-exposed people.",
+        "reason": "The printed Bohbot identifier referred to an unrelated paper. This amendment uses two independent studies and keeps their causal directions and populations separate; neither establishes the original combined sensory-overload and trauma-specific stress mechanism.",
+        "sources": [
+          {
+            "label": "Oliver et al. (2023; online 2022), Induction of spatial anxiety in a virtual navigation environment",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10615917/",
+            "note": "44 analyzed participants; combined route and landmark manipulation, with self-reported stress."
+          },
+          {
+            "label": "Miller et al. (2017), Impairment in active navigation from trauma and Post-Traumatic Stress Disorder",
+            "url": "https://eprints.bournemouth.ac.uk/27853/",
+            "note": "Observational comparison of 138 participants; trauma history was associated with poorer allocentric navigation."
+          }
+        ]
+      }
+    ],
+    "biophilic-design-and-climate-change": [
+      {
+        "section": 2,
+        "text": "Heat exposure is relevant to mental health as well as physical illness. In a nationwide study of insured US adults, extreme-heat days were associated with an 8% higher rate of mental-health-related emergency visits than days at the study’s modeled optimal temperature (Nori-Sarma et al., 2022). That estimate came from 2010–2019 data and is not a Phoenix-specific statistic. Phoenix’s 31-day streak of temperatures reaching 110°F or higher occurred from June 30 to July 30, 2023 (NOAA/NCEI, 2023).",
+        "reason": "Corrects the Phoenix year and removes the uncorroborated claim of a 40% local surge. The national 8% association is explicitly identified as separate evidence, with a different population and period; it is not a replacement estimate for Phoenix.",
+        "sources": [
+          {
+            "label": "Nori-Sarma et al. (2022), Association Between Ambient Heat and Risk of Emergency Department Visits for Mental Health Among US Adults, 2010 to 2019",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8867392/",
+            "note": "Case-crossover analysis of about 3.5 million visits; incidence-rate ratio 1.08, 95% CI 1.07–1.09. Extreme heat was the county-specific 95th percentile of warm-season daily maximum temperature."
+          },
+          {
+            "label": "NOAA/NCEI (2023), Assessing the U.S. Climate in July 2023",
+            "url": "https://www.ncei.noaa.gov/news/national-climate-202307",
+            "note": "Other Notable Events identifies the June 30–July 30, 2023 streak."
+          }
+        ],
+        "original": "The evidence has been building for years, but it’s rarely centred in discussions of climate adaptation. Systematic reviews show that higher ambient temperatures and temperature variability correlate with increased anxiety, depression, psychiatric hospitalizations, and suicide attempts across diverse geographic regions (Thompson et al., 2023; Rony et al., 2023). In July 2024, Phoenix hit 31 consecutive days above 110°F. Emergency departments reported a 40% surge in mental health crises alongside the expected heat-related illness."
+      },
+      {
+        "section": 8,
+        "text": "Hot nights can disrupt sleep. In a chamber experiment involving seven healthy young men, humid heat reduced REM and slow-wave sleep and increased wakefulness (Okamoto-Mizuno et al., 1999). At a larger scale, an observational study linking more than seven million wristband sleep records to weather data found shorter sleep on warmer nights, chiefly through delayed sleep onset (Minor et al., 2022). These findings support concern about heat-related sleep disruption. They do not establish how long any resulting effects on emotional regulation persist after temperatures fall.",
+        "reason": "Adds studies that directly measured sleep. The original claims about next-day cognitive fatigue, weeks or months of cumulative emotional impairment, and failure to recover after a single cool night were not established by the heat studies located in this review.",
+        "sources": [
+          {
+            "label": "Okamoto-Mizuno et al. (1999), Effects of humid heat exposure on human sleep stages and body temperature",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10505822/",
+            "note": "Seven men; chamber conditions varied temperature (29/35°C) and relative humidity (50/75%). Findings from the 35°C/75% condition should not be generalized to every modest temperature increase."
+          },
+          {
+            "label": "Minor et al. (2022), Rising temperatures erode human sleep globally",
+            "url": "https://orbit.dtu.dk/en/publications/rising-temperatures-erode-human-sleep-globally/",
+            "note": "47,628 people in 68 countries; wearable sleep duration, not direct measurement of sleep stages or emotional recovery."
+          }
+        ],
+        "original": "Sleep disruption represents one of the most underappreciated pathways. Elevated nighttime temperatures interfere with slow-wave and REM sleep – phases essential for emotional processing and memory consolidation. Population studies show that even modest nighttime heat increases correlate with mood disturbance and next-day cognitive fatigue, particularly in urban areas where buildings and pavement retain heat (Thompson et al., 2023; Rony et al., 2023). The cumulative effect of poor sleep under sustained heat exposure compounds over weeks and months, eroding baseline emotional regulation in ways that don’t resolve with a single cool night."
+      },
+      {
+        "section": 27,
+        "text": "Greenery can influence reported thermal comfort. An indoor study of 144 university students found greater improvements in thermal-comfort ratings with green walls than with a non-green wall (Ma et al., 2024). This supports studying visual and psychological contributions to thermal experience. It does not establish that perceived coolness protects people from dangerous heat, or that resource-safety judgments explain the effect.",
+        "reason": "Replaces the unlocated Yao attribution with a thermal-perception experiment. Reported comfort is distinguished from physiological heat protection, and cognitive appraisal and perceived resource safety are not presented as measured mechanisms.",
+        "sources": [
+          {
+            "label": "Ma, Du, Deng, Zhou and Hong (2024), Effects of green walls on thermal perception and cognitive performance: An indoor study",
+            "url": "https://doi.org/10.1016/j.buildenv.2024.111180",
+            "note": "Mean changes in thermal-comfort votes were 0.02, 0.25 and 0.44 for non-green, small-green and large-green walls. These are study-specific ratings, not temperature reductions."
+          }
+        ],
+        "original": "Most designers understand that vegetation cools through shade and evapotranspiration. Fewer recognise that environments perceived as cooler, greener, or more natural reduce subjective heat stress and improve mood even when objective temperature reductions are modest (Yao et al., 2021). This isn’t placebo – it’s cognitive appraisal, the brain making rapid assessments about environmental safety and resource availability."
+      },
+      {
+        "section": 40,
+        "text": "Brief experiments suggest that viewing water can support relaxation. In two studies, participants showed short-term changes in the ratio of systolic to diastolic blood pressure and in heart rate while looking at water. In the larger study, which compared views of water with adjacent ground, the average blood-pressure ratio and heart rate were lower and subjective relaxation was higher during water viewing (Coss & Keller, 2022). These findings concern a brief response in the tested settings. They do not establish lasting blood-pressure benefits or a universal mechanism in which water signals safety.",
+        "reason": "Uses direct water-viewing evidence and identifies the actual blood-pressure measure. The paper’s evolutionary resource-safety account is a hypothesis, not a demonstrated mediator. Parasympathetic activation from water sounds and long-term mood benefits are not inferred from these experiments.",
+        "sources": [
+          {
+            "label": "Coss and Keller (2022), Transient decreases in blood pressure and heart rate with increased subjective level of relaxation while viewing water compared with adjacent ground",
+            "url": "https://doi.org/10.1016/j.jenvp.2022.101794",
+            "note": "Studies of 32 and 73 participants; the physiological analysis used systolic/diastolic pressure ratio and heart rate. The larger study also measured subjective relaxation."
+          }
+        ],
+        "original": "Water features enhance microclimatic cooling through evaporative processes, but their psychological effects may be equally important. Research on natural elements including water shows these features correlate with reduced stress, lower blood pressure, and improved mood (Ulrich et al., 1991; Yao et al., 2021). The mechanism likely involves both direct sensory effects (sound and sight of water activating parasympathetic responses) and cognitive associations (water signalling resource availability and safety)."
+      }
+    ]
+  }
+}

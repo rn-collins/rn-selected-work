@@ -20,3 +20,10 @@
 @media(max-width:600px){.body{font-size:17px}.standfirst{font-size:19px}}
 
 .refnote{font-size:14px;line-height:1.5;margin:0 0 16px;opacity:.75}
+.amended{margin-bottom:1.6em}
+.amendment{font-size:14px;line-height:1.55;border-left:2px solid var(--line);padding:0 0 0 16px;margin-top:-.5em;overflow-wrap:anywhere}
+.amendment summary{cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+.amendment summary:focus-visible{outline:2px solid var(--ink);outline-offset:4px}
+.amendment p,.amendment ul{margin:12px 0}
+.amendment a{color:var(--ink);text-underline-offset:3px}
+.amendment blockquote{margin:12px 0;padding-left:16px;border-left:1px solid var(--line)}
