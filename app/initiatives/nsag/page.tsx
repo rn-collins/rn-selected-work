@@ -2,17 +2,15 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../../components/canonical-page";
 import { BuildRoster } from "../../../components/build-roster";
-import { buildsIn } from "../../../lib/builds";
 
 export const metadata: Metadata = {
   title: "Neurocognitive Systems Advisory Group",
   description:
-    "Nervous-system-aware governance and research-led institutional design: the framework, the workbenches that operationalise it, and the fifteen prototype modules that were retired.",
+    "Nervous-system-aware governance and research-led institutional design: the framework, its workbenches, and fifteen modules consolidated on the NSAG site.",
   alternates: { canonical: "/initiatives/nsag" },
 };
 
 export default function Page() {
-  const retiredCount = buildsIn("retired").length;
 
   return (
     <CanonicalPage>
@@ -67,24 +65,22 @@ export default function Page() {
 
       <section className="canonicalSection shell">
         <div className="canonicalSplit">
-          <p className="eyebrow">What was retired</p>
+          <p className="eyebrow">The module collection</p>
           <div>
-            <h2>{retiredCount} prototype modules, retired and left online on purpose.</h2>
+            <h2>Fifteen modules, now together on the NSAG site.</h2>
             <p className="bigcopy">
-              The first attempt at this work split institutional governance into fifteen
-              numbered assessable domains, from governance and accountability through to
-              implementation readiness, each with its own deployment.
+              The modules set out evidence and governance questions across fifteen
+              institutional design domains. Each originally had its own deployment;
+              the collection now lives together on the NSAG site.
             </p>
             <p>
-              That approach did not survive contact with use. Fifteen separate assessments
-              produced fifteen separate conversations and no single place where a decision
-              got made, which is the failure mode the framework exists to name. The modules
-              were retired rather than quietly repurposed.
+              The standalone deployments were consolidated on 15 August 2026. The
+              modules remain current; it is the separate hosting that was retired.
             </p>
             <p>
-              Their deployments are still online, serving a retirement notice. A link to
-              one of them resolves to an honest statement rather than a 404 — or, worse, a
-              working-looking assessment form that nobody maintains. The build index retains their module records and identifies the status and destination of each one.
+              The old addresses remain online as signposts to the current modules,
+              preserving links published before consolidation. The build index retains
+              their records and explains the status and destination of each one.
             </p>
             <div className="canonicalActions">
               <Link className="button" href="/work/neurocognitive-systems-advisory-group">
