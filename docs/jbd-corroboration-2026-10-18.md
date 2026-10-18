@@ -1,27 +1,33 @@
-# JBD web-edition corroboration and corrections
+# JBD web-edition evidence audit
 
-18 October 2026. RN requested continued independent corroboration after the link audit. The earlier failure to locate printed references did not establish that the associated claims were impossible to support.
+18 October 2026. RN authorized continued independent corroboration and correction across all five articles. Three research agents reviewed the articles, followed by cross-review of proposed changes. This expands the earlier eleven-passage review.
 
-## Scope and result
+## Coverage and changes
 
-Eleven passages across five articles now have dated web-edition amendments supported by 20 distinct primary-study or official-record destinations. Original article JSON and printed references are preserved. Each amended paragraph displays revised text, with an expandable explanation, supporting sources and its exact original wording. The source data is `data/journal/web-amendments.json`.
+Every one of the 289 body sections, including headings, and each article's standfirst field has an audit record. The combined ledger contains 302 records and 433 claim-or-paragraph units; the two long landscape/climate articles use full paragraphs as the unit, so this number is not a count of atomized factual claims. Metadata was also considered. Original article JSON remains unchanged.
 
-| Article | Section indices (zero-based) | Evidence outcome |
-| --- | --- | --- |
-| Trauma-informed architecture | 5 | Narrow light, tactile-wood and wayfinding findings; universal safety/trauma-recovery promises removed. |
-| Designing for cognitive clarity | 2, 4, 6 | Mixed office outcomes acknowledged; light and navigation miscitation corrected; federal authorities described individually and historically. |
-| Wood: the multisensory physiological magician | 20, 38 | Assembly-specific acoustic benefit and mixed attention evidence; qualified comparative carbon advantage without a universal lower-energy explanation. |
-| Biophilic landscapes as cognitive infrastructure | 14 | Navigation-anxiety experiment separated from observational trauma/navigation findings. |
-| Biophilic design and climate change | 2, 8, 27, 40 | Phoenix date corrected; independent heat/ED, sleep, thermal-comfort and water-viewing evidence added with measured outcomes and limits. |
+There are 206 dated amendments: 195 additions to the earlier eleven. Each displays corrected wording, an explanation, supporting sources where applicable, and the exact original wording in an expandable disclosure. Amendments also work for introductions and headings. Original heading anchors are retained, and contents labels reflect amended headings.
 
-The Phoenix 40% mental-health-emergency statistic was not corroborated. It is removed from corrected reading text. The separate nationwide estimate is labeled with its different population and dates. Claims about prolonged emotional impairment after a cool night, proven resource-safety mechanisms and universal parasympathetic activation are not repeated as established facts.
+| Article | Amended passages | Main corrections |
+| --- | ---: | --- |
+| Trauma-informed architecture | 9 | EEG alpha result corrected; design studies distinguished from measured clinical effects; trauma-treatment promises removed. |
+| Designing for cognitive clarity | 8 | Mixed office evidence, diagnosis-specific sunlight findings, conceptual housing examples, historically bounded policy claims. |
+| Wood | 51 | Mixed physiological findings; unsupported healing, education and civic outcomes removed; qualified carbon, fire, durability and emissions statements. |
+| Landscapes as cognitive infrastructure | 62 | Mortality distinguished from mental health; navigation and nature findings narrowed; unverified case numbers removed; proposals labeled as proposals. |
+| Design and climate change | 76 | Heat and temperature denominators clarified; unsupported city/case/economic figures removed; policy targets separated from demonstrated effects. |
 
-## Verification
+The Philadelphia trial's depression-item improvement is separated from its nonsignificant overall poor-mental-health endpoint. The climate article distinguishes land-surface temperatures from air temperatures. Anonymous hospital, courtyard and pediatric case statistics were not replaced with invented cases. Useful design ideas remain as proposals to evaluate.
 
-All eleven amendment records were checked against the exact original paragraph and type. The three research reviewers independently checked the resulting amendments against their primary-source findings and found no material mismatch. New source records are clearly distinguished from the unlocated printed Zhang, Rony, Bohbot, Peñaloza and Yao references.
+Printed references remain historical records. Newly identified bibliographic errors receive notes, and the Edinburgh address wrongly attributed to Shepley/Sachs is withheld as a source link. Missing printed works are not represented as recovered merely because a related source exists.
 
-This resolves the identified passages through corroboration and correction. It is not a claim that every sentence of all five articles has undergone a new systematic review, that the missing printed publications have been recovered, or that every external publisher permits unrestricted full-text access. Publisher access exceptions from the earlier link audit remain separate.
+## Evidence and verification
 
-The build and production verification are recorded in the deployment handoff. Repository visibility and release settings are outside these changes.
+`data/journal/web-amendments.json` is the authoritative amended reading text. `docs/jbd-full-audit-ledger-2026-10-18.json` records review snapshots, classifications and evidence limits. Final reading text includes small cross-review refinements beyond the proposal ledger: explicit no-intervention and non-redlined comparators, narrower FSC assurance wording, and added theory/end-of-life source notes.
+
+The verification script checks section coverage, exact preservation of originals, rendered amendment counts, source links and contents anchors for all five pages. The production build passed. A standalone TypeScript invocation encountered pre-existing .ts import configuration errors in tests/image-source-link.test.ts; this is distinct from the production build and its configured checks.
+
+The review does not certify every original assertion as true. It removes or narrows claims that were unsupported, overgeneralized or contradicted by the reviewed evidence. Some source full texts remain restricted, and study results retain population, duration and design limitations. No systematic-review claim is made.
+
+See `docs/link-access-followup-2026-10-18.md` for external-access and interface limits, including the outstanding mobile interaction check. Repository visibility and release controls are unchanged.
 
 Made-with: ChatGPT (OpenAI) · Codex / ChatGPT Work in browser · account: rndc gmail · chat: "ddw '26 gmail interview outreach" · https://chatgpt.com/g/g-p-6a6646890c688191b0df41d38e2e02de-polymath/c/6acb6a9a-30a0-83e8-82b8-a79e2e88dfd7

@@ -33,8 +33,10 @@ function slugify(text: string) {
 export default async function JournalArticlePage({ params }: { params: Promise<{ slug: string }> }) {
   const a = journalArticle((await params).slug);
   if (!a) notFound();
-  const headings = a.sections.filter((s) => s.t === "h2");
   const changes = (amendments.articles as Record<string, Amendment[]>)[a.slug] ?? [];
+  const amended = (section: number, original: string) => changes.find((item) => item.section === section && item.original === original);
+  const headings = a.sections.map((s, i) => ({ ...s, text: amended(i, s.x)?.text ?? s.x })).filter((s) => s.t === "h2");
+  const standfirstChange = a.standfirst ? amended(-1, a.standfirst) : undefined;
   return (
     <CanonicalPage>
       <article className={`${styles.page} shell`}>
@@ -51,36 +53,26 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
           The journal is sold as an ebook or in print, so the full text is reproduced here.
           {changes.length ? " This web edition includes evidence corrections dated 18 October 2026. Amended passages link to their supporting sources and retain the original wording for comparison." : " The wording is as printed."}
         </p>
-        {a.standfirst ? <p className={styles.standfirst}>{a.standfirst}</p> : null}
+        {a.standfirst ? <><p className={styles.standfirst}>{standfirstChange?.text ?? a.standfirst}</p>{standfirstChange ? <AmendmentNote change={standfirstChange} /> : null}</> : null}
         {headings.length > 3 ? (
           <nav className={styles.contents} aria-label="In this article">
             <p>In this article</p>
             <ol>
               {headings.map((h) => (
-                <li key={h.x}><a href={`#${slugify(h.x)}`}>{h.x}</a></li>
+                <li key={h.x}><a href={`#${slugify(h.x)}`}>{h.text}</a></li>
               ))}
             </ol>
           </nav>
         ) : null}
         <div className={styles.body}>
           {a.sections.map((s, i) => {
-            if (s.t === "h2") return <h2 id={slugify(s.x)} key={i}>{s.x}</h2>;
-            if (s.t === "h3") return <h3 key={i}>{s.x}</h3>;
-            const change = changes.find((item) => item.section === i && item.original === s.x);
+            const change = amended(i, s.x);
+            if (s.t === "h2") return <div key={i}><h2 id={slugify(s.x)}>{change?.text ?? s.x}</h2>{change ? <AmendmentNote change={change} /> : null}</div>;
+            if (s.t === "h3") return <div key={i}><h3>{change?.text ?? s.x}</h3>{change ? <AmendmentNote change={change} /> : null}</div>;
             if (change) return (
               <div key={i} className={styles.amended}>
                 <p>{change.text}</p>
-                <details className={styles.amendment}>
-                  <summary>Web edition correction · 18 October 2026 · sources and original wording</summary>
-                  <p>{change.reason}</p>
-                  <ul>
-                    {change.sources.map((source) => (
-                      <li key={source.url}><a href={source.url} target="_blank" rel="noreferrer">{source.label}</a>{source.note ? ` — ${source.note}` : ""}</li>
-                    ))}
-                  </ul>
-                  <p><strong>As first published</strong></p>
-                  <blockquote>{s.x}</blockquote>
-                </details>
+                <AmendmentNote change={change} />
               </div>
             );
             return <p key={i}>{s.x}</p>;
@@ -112,11 +104,21 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
 
 const fixes = linkFixes.links as Record<string, string | null>;
 type Amendment = { section: number; original: string; text: string; reason: string; sources: { label: string; url: string; note?: string }[] };
+function AmendmentNote({ change }: { change: Amendment }) {
+  return <details className={styles.amendment}>
+    <summary>Web edition correction · 18 October 2026 · sources and original wording</summary>
+    <p>{change.reason}</p>
+    {change.sources.length ? <ul>{change.sources.map((source) => <li key={source.url}><a href={source.url} target="_blank" rel="noreferrer">{source.label}</a>{source.note ? ` — ${source.note}` : ""}</li>)}</ul> : null}
+    <p><strong>As first published</strong></p>
+    <blockquote>{change.original}</blockquote>
+  </details>;
+}
 const verificationNotes = linkFixes.notes as Record<string, string>;
 
 // Printed addresses that no longer resolve are swapped for the verified record of the same work,
 // or shown as plain text when none exists. The citation text itself is never changed.
 function linkify(text: string) {
+  if (verificationNotes[text]) return <>{text}<span className={styles.refnote}> — {verificationNotes[text]}</span></>;
   const parts = text.split(/(https?:\/\/\S+)/g);
   return parts.map((part, i) => {
     if (!/^https?:\/\//.test(part)) return part;
