@@ -84,16 +84,14 @@ export default function Page() {
             <p>
               Their deployments are still online, serving a retirement notice. A link to
               one of them resolves to an honest statement rather than a 404 — or, worse, a
-              working-looking assessment form that nobody maintains. They are listed in the
-              build index under their own heading, as retired, because pretending they were
-              never built would be its own inaccuracy.
+              working-looking assessment form that nobody maintains. The build index retains their module records and identifies the status and destination of each one.
             </p>
             <div className="canonicalActions">
               <Link className="button" href="/work/neurocognitive-systems-advisory-group">
                 Read the NSAG case study →
               </Link>
-              <Link className="button secondary" href="/builds#retired">
-                See the retired modules →
+              <Link className="button secondary" href="/builds#records">
+                Browse the module records →
               </Link>
             </div>
           </div>

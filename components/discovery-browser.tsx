@@ -1,9 +1,15 @@
 'use client';
-import { useEffect, useState } from 'react';
+import { Suspense, useEffect, useState } from 'react';
+import { useSearchParams } from 'next/navigation';
 import type { DiscoveryItem } from '../lib/discovery';
-export function DiscoveryBrowser({items,title='Find your way through the work'}:{items:DiscoveryItem[];title?:string}) {
+type DiscoveryProps = {items:DiscoveryItem[];title?:string};
+export function DiscoveryBrowser(props:DiscoveryProps) {
+ return <Suspense fallback={<p className="shell" role="status">Loading portfolio search…</p>}><DiscoveryBrowserContent {...props}/></Suspense>;
+}
+function DiscoveryBrowserContent({items,title='Find your way through the work'}:DiscoveryProps) {
+ const searchParams = useSearchParams();
  const [q,setQ]=useState(''),[kind,setKind]=useState(''),[topic,setTopic]=useState(''),[collection,setCollection]=useState(''),[status,setStatus]=useState(''),[limit,setLimit]=useState(12);
- useEffect(()=>{const p=new URLSearchParams(window.location.search);setQ(p.get('q')||'');setKind(p.get('kind')||'');setTopic(p.get('topic')||'');setCollection(p.get('collection')||'');setStatus(p.get('status')||'')},[]);
+ useEffect(()=>{const p=searchParams;setQ(p.get('q')||'');setKind(p.get('kind')||'');setTopic(p.get('topic')||'');setCollection(p.get('collection')||'');setStatus(p.get('status')||'');setLimit(12)},[searchParams]);
  function update(key:string,value:string){({q:setQ,kind:setKind,topic:setTopic,collection:setCollection,status:setStatus}[key]!)(value);setLimit(12);const u=new URL(window.location.href);if(value)u.searchParams.set(key,value);else u.searchParams.delete(key);window.history.replaceState(null,'',u);}
  function clear(){setQ('');setKind('');setTopic('');setCollection('');setStatus('');setLimit(12);const u=new URL(window.location.href);['q','kind','topic','collection','status'].forEach(k=>u.searchParams.delete(k));window.history.replaceState(null,'',u);}
  const normalize=(s:string)=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
@@ -11,6 +17,7 @@ export function DiscoveryBrowser({items,title='Find your way through the work'}:
  const result=items.filter(i=>(!kind||i.kind===kind)&&(!topic||i.topics.includes(topic))&&(!collection||i.collection===collection)&&(!status||i.status===status)&&words.every(w=>normalize([i.title,i.description,i.collection,...i.topics].join(' ')).includes(w)));
  const options=(key:'kind'|'collection'|'status')=>Array.from(new Set(items.map(i=>i[key]))).sort();
  const topics=Array.from(new Set(items.flatMap(i=>i.topics))).sort();
+ if(items.length===0) return <section className="discovery shell" aria-label={title}><h2>{title}</h2><p>There are no public records to browse in this collection yet. New work appears here after release.</p><a href="/writing">Browse published writing →</a></section>;
  return <section className="discovery shell" aria-label={title}><div className="discoveryHeading"><div><p className="eyebrow">Explore the portfolio</p><h2>{title}</h2></div><p>Search by a question, subject, title, or publication.</p></div>
  <div className="discoveryControls"><label className="discoveryQuery">Search<input type="search" value={q} onChange={e=>update('q',e.target.value)} placeholder="Try neuroscience, ownership, education…"/></label>
  <label>Format<select value={kind} onChange={e=>update('kind',e.target.value)}><option value="">All formats</option>{options('kind').map(v=><option key={v}>{v}</option>)}</select></label>
