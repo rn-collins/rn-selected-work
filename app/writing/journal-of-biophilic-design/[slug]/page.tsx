@@ -69,7 +69,7 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
         {a.references.length > 0 ? (
           <section className={styles.refs} aria-labelledby="references">
             <h2 id="references">References</h2>
-            <p className={styles.refnote}>Citations appear as first printed. Where a printed link did not resolve, the link goes to the verified record of the same work.</p>
+            <p className={styles.refnote}>Citations appear as first printed. Verified replacement links are identified below. Unverified or mismatched links are withheld; this does not establish the underlying claim. These link-verification notes are additions to this web edition.</p>
             <ol>
               {a.references.map((r) => (
                 <li key={r}>{linkify(r)}</li>
@@ -91,6 +91,7 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
 }
 
 const fixes = linkFixes.links as Record<string, string | null>;
+const verificationNotes = linkFixes.notes as Record<string, string>;
 
 // Printed addresses that no longer resolve are swapped for the verified record of the same work,
 // or shown as plain text when none exists. The citation text itself is never changed.
@@ -101,11 +102,17 @@ function linkify(text: string) {
     const printed = part.replace(/[.,;]$/, "");
     const tail = part.slice(printed.length);
     const target = printed in fixes ? fixes[printed] : printed;
-    if (target === null) return part;
+    if (target === null) return (
+      <span key={i}>
+        {part}
+        <span className={styles.refnote}> — {verificationNotes[printed] || "Source verification pending: no verified matching destination is available for this printed address."}</span>
+      </span>
+    );
     return (
       <span key={i}>
         <a href={target} target="_blank" rel="noreferrer">{target}</a>
         {tail}
+        {(verificationNotes[printed] || target !== printed) && <span className={styles.refnote}> — {verificationNotes[printed] || "Link corrected to the verified record of the cited work."}</span>}
       </span>
     );
   });

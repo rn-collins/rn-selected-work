@@ -23,6 +23,37 @@
     "https://doi.org/10.3390/buildings15030301": null,
     "https://files.hudexchange.info/resources/documents/Trauma-Informed-Approaches-in-HUD-Programs.pdf": null,
     "https://www.acentech.com/project/jamaica-plain-branch-library": null,
-    "https://www.boston.gov/news/jamaica-plain-branch-library-reopens-after-renovation": null
+    "https://www.boston.gov/news/jamaica-plain-branch-library-reopens-after-renovation": null,
+    "https://www.medicaid.gov/federal-policy-guidance/downloads/cib060721.pdf": null,
+    "https://doi.org/10.3390/buildings13040921": null,
+    "https://doi.org/10.1016/j.buildenv.2018.02.030": "https://doi.org/10.1016/j.solener.2018.03.008",
+    "https://doi.org/10.1016/j.envint.2020.105670": "https://doi.org/10.1016/j.envint.2019.105427",
+    "https://doi.org/10.1016/j.envint.2020.105751": "https://doi.org/10.1016/j.envint.2019.105427",
+    "https://doi.org/10.1016/j.jenvp.2005.07.002": "https://doi.org/10.1016/j.jenvp.2005.07.001",
+    "https://doi.org/10.1016/j.jenvp.2010.01.002": "https://doi.org/10.1016/j.jenvp.2010.04.004",
+    "https://doi.org/10.1016/j.landurbplan.2015.02.007": "https://doi.org/10.1016/j.landurbplan.2014.10.022",
+    "https://doi.org/10.1016/j.landurbplan.2016.12.013": "https://doi.org/10.1016/j.landurbplan.2016.06.008",
+    "https://doi.org/10.1016/j.envres.2021.110821": null,
+    "https://doi.org/10.1016/j.envres.2022.114445": null,
+    "https://doi.org/10.1002/hipo.22712": null,
+    "https://doi.org/10.1016/j.conbuildmat.2018.12.201": null
+  },
+  "notes": {
+    "https://www.medicaid.gov/federal-policy-guidance/downloads/cib060721.pdf": "Source verification pending: the printed document could not be located. Related CMS guidance does not establish the article's broader funding claim, so it has not been substituted here.",
+    "https://doi.org/10.3390/buildings13040921": "Source verification pending: the printed DOI identifies a different article about building water disruptions. No verified match for the cited work has been established.",
+    "https://doi.org/10.1016/j.envres.2021.110821": "Source verification pending: the printed DOI identifies a different work about selective outcome reporting. A related Yao paper was found, but its authors, title and journal differ from this citation; it has not been silently substituted.",
+    "https://doi.org/10.1016/j.envres.2022.114445": "Source verification pending: the printed DOI identifies a study of ultrafine particles and myocardial infarction. The cited Rony systematic review has not been located; a related perspective is a different publication.",
+    "https://doi.org/10.1002/hipo.22712": "Source verification pending: the printed DOI identifies a mouse spatial-cognition study, not the cited Bohbot wayfinding paper. No verified matching record has been established.",
+    "https://doi.org/10.1016/j.conbuildmat.2018.12.201": "Source verification pending: the printed DOI identifies a metakaolin geopolymer study, not the cited Peñaloza timber life-cycle review. No verified matching record has been established.",
+    "https://doi.org/10.1016/j.buildenv.2018.02.030": "Corrected destination: Bartesaghi Koc, Osmond and Peters, Evaluating the cooling effects of green infrastructure: A systematic review of methods, indicators and data sources, Solar Energy (2018). The printed author list and journal differ.",
+    "https://doi.org/10.1186/s41018-022-00123-0": "Bibliographic note: this identifier names Conzatti, Kershaw, Copping and Coley, A review of the impact of shelter design on the health of displaced populations. The printed author list and title differ.",
+    "https://doi.org/10.3390/buildings15081288": "Bibliographic note: this identifier names Al-Homoud and Samarah, Redesigning Refuge: Spatial Adaptations and Defensible Space Principles in Zaatari Camp in Jordan. The printed author list and title differ.",
+    "https://doi.org/10.3390/su16209127": "Bibliographic note: this identifier names Al-Shoubaki and colleagues, A Human-Centered Shelter Design for People on the Move in the Al-Sahel Region. The printed author list and title differ.",
+    "https://doi.org/10.3390/ijerph20095637": "Bibliographic note: the indexed title is Architectural Allostatic Overloading: Exploring a Connection between Architectural Form and Allostatic Overloading, by Valentine.",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10689333": "Bibliographic note: this record is by Rebecca L Ames and Janet E Loebach, Applying Trauma-Informed Design Principles to Therapeutic Residential Care Facilities to Reduce Retraumatization and Promote Resiliency Among Youth in Care, Journal of Child & Adolescent Trauma (2023). The printed authors, title and journal differ.",
+    "https://doi.org/10.3389/fbuil.2024.1467692": "Bibliographic note: the author names are Al Khatib I, Samara F and Ndiaye M; the printed initials differ.",
+    "https://doi.org/10.1016/j.jenvp.2006.10.002": "Bibliographic note: the indexed subtitle is Please don’t make me sit in the middle, rather than Passenger reactions.",
+    "https://doi.org/10.1016/j.susmat.2015.05.002": "Bibliographic note: the indexed publication year is 2015, rather than the printed 2017.",
+    "https://doi.org/10.1021/es403688w": "Bibliographic note: the indexed title is Longitudinal effects on mental health of moving to greener and less green urban areas; the printed title is a paraphrase."
   }
 }

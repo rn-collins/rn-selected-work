@@ -7,6 +7,8 @@ import { PortfolioBlock, PortfolioLine } from "../../../../components/source-por
 import { PieceLinks } from "../../../../components/piece-links";
 import { POLYMATH_SUBSCRIBE, essay, essayPath } from "../../../../lib/essays";
 import { pieceId } from "../../../../lib/releases";
+import { imageSourceLink } from "../../../../lib/image-source-link";
+import { sourceLinkTargets } from "../../../../lib/source-link-targets";
 import { account, accounts, entryCount, host, listed, releasedPost, type SourceLink } from "../../../../lib/sources";
 import styles from "../../sources.module.css";
 
@@ -39,12 +41,18 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
 function Links({ items }: { items: SourceLink[] }) {
   return (
     <ol className={styles.links}>
-      {items.map((s, i) => (
+      {items.flatMap((s) => {
+        const targets = sourceLinkTargets(s.url);
+        return targets.length > 1
+          ? targets.map((url, index) => ({ url, label: `${s.label} — source ${index + 1} of ${targets.length}` }))
+          : [s];
+      }).map((s) => ({ ...s, ...imageSourceLink(s.url) })).map((s, i) => (
         <li key={s.url || `${i}-${s.label}`}>
           {s.url ? (
             <>
-              <a href={s.url} target="_blank" rel="noreferrer">{s.label || host(s.url)} <span aria-hidden="true">↗</span></a>
-              <span className={styles.host}>{host(s.url)}</span>
+              <a href={s.href} target="_blank" rel="noreferrer">{s.label || host(s.href)} <span aria-hidden="true">↗</span></a>
+              <span className={styles.host}>{host(s.href)}</span>
+              {s.note && <span className={styles.credit}>{s.note}</span>}
             </>
           ) : (
             <span>{s.label}</span>
@@ -112,16 +120,20 @@ export default async function SourcePage({ params }: Params) {
           <section className={styles.block} aria-labelledby="images">
             <h2 id="images">Images, slide by slide</h2>
             <dl className={styles.images}>
-              {p.images.map((im) => (
+              {p.images.map((im) => {
+                const source = imageSourceLink(im.url);
+                return (
                 <div key={im.where}>
                   <dt>{im.where}</dt>
                   <dd>
                     {im.card ? <span>Number card made for this post, citing {im.credit}.</span> : <span>{im.what}</span>}
                     {!im.card && im.credit && <span className={styles.credit}>{im.credit}</span>}
-                    {im.url && <a href={im.url} target="_blank" rel="noreferrer">{im.card ? "The study" : "Photo record"} <span aria-hidden="true">↗</span></a>}
+                    {source.href && <a href={source.href} target="_blank" rel="noreferrer">{im.card ? "The study" : "Photo record"} <span aria-hidden="true">↗</span></a>}
+                    {source.note && <span className={styles.credit}>{source.note}</span>}
                   </dd>
                 </div>
-              ))}
+                );
+              })}
             </dl>
           </section>
         )}
