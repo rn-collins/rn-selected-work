@@ -1087,5 +1087,38 @@
     "boundary": "Part of the Institutions of One research proposal. No universal score, automatic ranking or manager-facing employment database is claimed.",
     "held": false,
     "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+  },
+  {
+    "id": "private-proposal-studio",
+    "title": "Private Proposal Studio",
+    "category": "Systems",
+    "stage": "Prototype",
+    "question": "How can an individualized proposal reach the intended reader while preserving the approved version and a clear boundary around access?",
+    "expression": "A reusable proposal-delivery architecture connecting an approved content snapshot, recipient authorization, revocable access and release verification. The recovered implementation separates proposal presentation, generation, access control and certification.",
+    "boundary": "Recovered prototype with locally tested synthetic records. The archived record leaves live deployment and authorization certification pending; this entry does not claim a deployed or independently audited security product.",
+    "held": true,
+    "provenance": "Recovered implementation archive and accompanying documentation; catalogued October 2026. Catalogue date is not a first-conception date."
+  },
+  {
+    "id": "fieldwork-that-outlasts-the-trip",
+    "title": "Fieldwork That Outlasts the Trip",
+    "category": "Culture + fieldwork",
+    "stage": "Proposal",
+    "question": "What would make the learning, relationships and commitments from a short expedition remain useful after everyone leaves?",
+    "expression": "A before, during and after field research system: source-linked preparation, consent-aware interviews and visual records, daily synthesis separating observation from inference, a rights-aware archive, and follow-up at 30 and 90 days. Reported features, films and decision briefs would draw from the same evidence base.",
+    "boundary": "A proposed contribution and production model, not a delivered expedition or confirmed engagement. Scope, local priorities, consent, cultural authority, editorial independence and publication rights would be agreed with participants and partners.",
+    "held": false,
+    "provenance": "Recovered authored contribution note and proposal website source; catalogued October 2026. Catalogue date is not a first-conception date."
+  },
+  {
+    "id": "the-body-data-story",
+    "title": "The Body Data Story",
+    "category": "Culture + fieldwork",
+    "stage": "Creative study",
+    "question": "How could a health-data service become a story people recognize in their own lives?",
+    "expression": "A proposed creative partnership connecting people, data and health through audience research, content specimens, distribution and measurement. The surviving visual studies frame real people and their questions as the starting point for stories and relationships.",
+    "boundary": "Recovered visual proposal studies, not a delivered campaign or a claim of ownership of any measurement technology. The complete underlying research and production scope have not been recovered; no health or commercial outcome is asserted.",
+    "held": false,
+    "provenance": "Recovered visual proposal studies and their extracted text; catalogued October 2026. Catalogue date is not a first-conception date."
   }
 ]

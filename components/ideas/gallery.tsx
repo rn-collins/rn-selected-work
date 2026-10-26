@@ -1,11 +1,10 @@
 'use client';
 import { useEffect, useRef, useState, type CSSProperties } from 'react';
-import dynamic from 'next/dynamic';
+import Sculpture from './sculpture';
 import Link from 'next/link';
 import type { Idea, Exhibition } from '../../lib/ideas';
 import { ConceptArt } from './concept-art';
 import styles from './ideas.module.css';
-const Sculpture=dynamic(()=>import('./sculpture'),{ssr:false});
 
 export function IdeaGallery({ideas,exhibition}:{ideas:Idea[];exhibition:Exhibition[]}) {
  const [paused,setPaused]=useState(true);
