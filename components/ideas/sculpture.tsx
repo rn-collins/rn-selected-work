@@ -30,9 +30,9 @@ export default function Sculpture({ paused }: { paused: boolean }) {
    const star = new T.Mesh(starGeometry,starMaterial);assembly.add(star);
    scene.add(new T.AmbientLight(0xd8d2ff, 2));
    [[0xffffff,5,3,5,4],[0xb6a1ff,6,-4,1,2],[0xff8855,5,0,-3,3]].forEach(([color,intensity,x,y,z])=>{const light=new T.DirectionalLight(color,intensity);light.position.set(x,y,z);scene.add(light);});
-   let frame = 0, visible = true, angle = .3, last = 0, pointerX = 0, pointerY = 0;
+   let frame = 0, visible = true, contextLost = false, angle = .3, last = 0, pointerX = 0, pointerY = 0;
    const render = (time = 0) => {
-    frame = 0;const moving = motion.current && visible && !document.hidden;
+    frame = 0;if(contextLost || disposed)return;const moving = motion.current && visible && !document.hidden;
     if (moving) angle += Math.min((time-last)/1000 || 0, .04) * .18;last = time;
     knot.rotation.set(angle*.45 + pointerY*.15, angle + pointerX*.2, -.35);hoops[0].rotation.z=angle*.3;
     star.position.set(Math.cos(angle*2)*2.3,Math.sin(angle*2)*1.7,Math.sin(angle*2)*1.5);renderer.render(scene,camera);
@@ -44,9 +44,11 @@ export default function Sculpture({ paused }: { paused: boolean }) {
    const visibility = new IntersectionObserver(([entry])=>{visible=entry.isIntersecting;resume();});visibility.observe(container);
    const pointer = (e: PointerEvent) => { if(!motion.current || e.pointerType==='touch')return;const r=container.getBoundingClientRect();pointerX=(e.clientX-r.left)/r.width-.5;pointerY=(e.clientY-r.top)/r.height-.5;if(!frame)resume(); };
    container.addEventListener('pointermove',pointer,{passive:true});document.addEventListener('visibilitychange',resume);
-   const lost = (e: Event) => {e.preventDefault();if(frame)cancelAnimationFrame(frame);setReady(false);};renderer.domElement.addEventListener('webglcontextlost',lost);
+   const lost = (e: Event) => {e.preventDefault();contextLost=true;if(frame)cancelAnimationFrame(frame);frame=0;renderer.domElement.style.visibility='hidden';setReady(false);};
+   const restored = () => {contextLost=false;renderer.domElement.style.visibility='';resize();setReady(true);};
+   renderer.domElement.addEventListener('webglcontextlost',lost);renderer.domElement.addEventListener('webglcontextrestored',restored);
    resize();setReady(true);
-   cleanup = () => {cancelAnimationFrame(frame);renderOnce.current=null;observer.disconnect();visibility.disconnect();container.removeEventListener('pointermove',pointer);document.removeEventListener('visibilitychange',resume);renderer.domElement.removeEventListener('webglcontextlost',lost);geometry.dispose();material.dispose();hoopGeometry.dispose();hoopMaterial.dispose();starGeometry.dispose();starMaterial.dispose();renderer.dispose();renderer.domElement.remove();};
+   cleanup = () => {cancelAnimationFrame(frame);renderOnce.current=null;observer.disconnect();visibility.disconnect();container.removeEventListener('pointermove',pointer);document.removeEventListener('visibilitychange',resume);renderer.domElement.removeEventListener('webglcontextlost',lost);renderer.domElement.removeEventListener('webglcontextrestored',restored);geometry.dispose();material.dispose();hoopGeometry.dispose();hoopMaterial.dispose();starGeometry.dispose();starMaterial.dispose();renderer.dispose();renderer.domElement.remove();};
   }).catch(()=>{});
   return () => {disposed=true;cleanup();};
  }, []);

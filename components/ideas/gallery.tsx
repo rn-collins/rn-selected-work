@@ -1,25 +1,24 @@
 'use client';
 import { useEffect, useRef, useState, type CSSProperties } from 'react';
-import dynamic from 'next/dynamic';
+import Sculpture from './sculpture';
 import Link from 'next/link';
 import type { Idea, Exhibition } from '../../lib/ideas';
 import { ConceptArt } from './concept-art';
 import styles from './ideas.module.css';
-const Sculpture=dynamic(()=>import('./sculpture'),{ssr:false});
 
 export function IdeaGallery({ideas,exhibition}:{ideas:Idea[];exhibition:Exhibition[]}) {
  const [paused,setPaused]=useState(true);
  const [query,setQuery]=useState('');const [category,setCategory]=useState('All');
- const [selected,setSelected]=useState<Idea|null>(null);const [copied,setCopied]=useState(false);
+ const [selected,setSelected]=useState<Idea|null>(null);const [copied,setCopied]=useState(false);const [copyFallback,setCopyFallback]=useState('');
  const dialog=useRef<HTMLDialogElement>(null);const trigger=useRef<HTMLElement|null>(null);
  const categories=['All',...new Set(ideas.map(x=>x.category))];
  const filtered=ideas.filter(x=>(category==='All'||x.category===category)&&`${x.title} ${x.question} ${x.expression} ${x.stage}`.toLowerCase().includes(query.toLowerCase()));
  useEffect(()=>{const media=window.matchMedia('(prefers-reduced-motion: reduce)');setPaused(media.matches);const change=()=>setPaused(media.matches);media.addEventListener('change',change);return()=>media.removeEventListener('change',change);},[]);
  useEffect(()=>{const sync=()=>{const id=new URLSearchParams(window.location.search).get('idea');const found=ideas.find(x=>x.id===id);if(found){setSelected(found);dialog.current?.showModal();}else{dialog.current?.close();setSelected(null);}};sync();window.addEventListener('popstate',sync);return()=>window.removeEventListener('popstate',sync);},[ideas]);
  useEffect(()=>{if(!selected)return;const previous=document.body.style.overflow;document.body.style.overflow='hidden';return()=>{document.body.style.overflow=previous;};},[selected]);
- function open(idea:Idea){trigger.current=document.activeElement as HTMLElement;setSelected(idea);setCopied(false);const url=new URL(window.location.href);url.searchParams.set('idea',idea.id);window.history.pushState({},'',url);dialog.current?.showModal();}
- function close(){dialog.current?.close();setSelected(null);const url=new URL(window.location.href);url.searchParams.delete('idea');window.history.replaceState({},'',url);trigger.current?.focus();}
- async function copy(){try{await navigator.clipboard.writeText(window.location.href);setCopied(true);}catch{setCopied(false);}}
+ function open(idea:Idea){trigger.current=document.activeElement as HTMLElement;setSelected(idea);setCopied(false);setCopyFallback('');const url=new URL(window.location.href);url.searchParams.set('idea',idea.id);window.history.pushState({},'',url);dialog.current?.showModal();}
+ function close(){dialog.current?.close();setSelected(null);setCopyFallback('');const url=new URL(window.location.href);url.searchParams.delete('idea');window.history.replaceState({},'',url);trigger.current?.focus();}
+ async function copy(){try{await navigator.clipboard.writeText(window.location.href);setCopied(true);setCopyFallback('');}catch{setCopied(false);setCopyFallback(window.location.href);}}
  return <main className={styles.gallery} data-paused={paused||!!selected}>
   <div className={styles.utility}><Link href="/">RN / SELECTED WORKS</Link><span>THE CONCEPT COLLECTION</span><button onClick={()=>setPaused(!paused)} aria-pressed={paused}>{paused?'Play motion ↗':'Pause motion Ⅱ'}</button></div>
   <header className={styles.hero}>
@@ -46,6 +45,6 @@ export function IdeaGallery({ideas,exhibition}:{ideas:Idea[];exhibition:Exhibiti
    <p className={styles.archiveNote}>This is a catalogue of RN’s work and proposed directions. Related modules are listed individually; the count is not a claim of {ideas.length} separate inventions. Development labels describe the recovered records, not a fresh operational audit. Recipient identities and correspondence are omitted.</p>
   </section>
   <footer className={styles.footer}><span>THE NEXT ONE STARTS WITH A QUESTION.</span><h2>What could<br/><em>we make real?</em></h2><Link href="/contact">Work with RN <b>↗</b></Link><div><span>RAYVEN-NIKKITA COLLINS</span><a href="#exhibition">Back to the collection ↑</a></div></footer>
-  <dialog ref={dialog} className={styles.dialog} onCancel={e=>{e.preventDefault();close();}} onClick={e=>{if(e.target===e.currentTarget)close();}} aria-labelledby="idea-dialog-title"><div className={styles.dialogInner}>{selected?<><div className={styles.dialogTop}><span>{selected.category} / {selected.stage}</span><button onClick={close} aria-label="Close concept" autoFocus>Close ×</button></div><p className={styles.kicker}>CONCEIVED + DEVELOPED BY RN COLLINS</p><h2 id="idea-dialog-title">{selected.title}</h2><section><h3>The question</h3><p>{selected.question}</p></section><section><h3>The expression</h3><p>{selected.expression}</p></section><section className={styles.boundary}><h3>Where it stands</h3><p>{selected.boundary}</p>{selected.held?<p>The working artifact is held from public linking.</p>:null}</section><div className={styles.dialogActions}><Link href="/contact">Discuss this direction ↗</Link><button onClick={copy}>{copied?'Link copied ✓':'Copy concept link ↗'}</button></div><p className={styles.dialogCredit}>{selected.provenance}<br/>RN Selected Works / Zero to One · Catalogue edition October 2026</p></>:null}</div></dialog>
+  <dialog ref={dialog} className={styles.dialog} onCancel={e=>{e.preventDefault();close();}} onClick={e=>{if(e.target===e.currentTarget)close();}} aria-labelledby="idea-dialog-title"><div className={styles.dialogInner}>{selected?<><div className={styles.dialogTop}><span>{selected.category} / {selected.stage}</span><button onClick={close} aria-label="Close concept" autoFocus>Close ×</button></div><p className={styles.kicker}>CONCEIVED + DEVELOPED BY RN COLLINS</p><h2 id="idea-dialog-title">{selected.title}</h2><section><h3>The question</h3><p>{selected.question}</p></section><section><h3>The expression</h3><p>{selected.expression}</p></section><section className={styles.boundary}><h3>Where it stands</h3><p>{selected.boundary}</p>{selected.held?<p>The working artifact is held from public linking.</p>:null}</section><div className={styles.dialogActions}><Link href="/contact">Discuss this direction ↗</Link><button onClick={copy}>{copied?'Link copied ✓':copyFallback?'Select link below':'Copy concept link ↗'}</button></div>{copyFallback?<div className={styles.copyFallback}><p role="status">Clipboard access is unavailable. Select and copy this link:</p><input aria-label="Concept link" readOnly value={copyFallback} onFocus={e=>e.currentTarget.select()}/></div>:null}<p className={styles.dialogCredit}>{selected.provenance}<br/>RN Selected Works / Zero to One · Catalogue edition October 2026</p></>:null}</div></dialog>
  </main>;
 }

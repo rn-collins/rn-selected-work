@@ -8,7 +8,7 @@ for (const idea of ideas) {
  assert.equal(typeof idea.held,'boolean');
 }
 const publicText=JSON.stringify(ideas);
-assert.doesNotMatch(publicText,/Lyft|Suzie Reider|Hystelica|Blest-Hopley|Yuriy Blokhin|Homecoming|Real Chemistry|Ericka McKenna|Laure Carli|Von Wooding|Helen Fan|Moonmax|Gordon Glenister|Joon Silverstein|Coachtopia|VanderVolpi|Frantz Ward|Vicente|Parabola|Buechler|Burgermeister|libfile_|file_0000|https?:\/\//i,'Recipient/private source must not leak into gallery data');
+assert.doesNotMatch(publicText,/InBody|Edge City|Pelsung|Gelephu|Lyft|Suzie Reider|Hystelica|Blest-Hopley|Yuriy Blokhin|Homecoming|Real Chemistry|Ericka McKenna|Laure Carli|Von Wooding|Helen Fan|Moonmax|Gordon Glenister|Joon Silverstein|Coachtopia|VanderVolpi|Frantz Ward|Vicente|Parabola|Buechler|Burgermeister|libfile_|file_0000|https?:\/\//i,'Recipient/private source must not leak into gallery data');
 const exhibitionSource=fs.readFileSync('lib/ideas.ts','utf8');
 const features=[...exhibitionSource.matchAll(/\{id:'([^']+)'/g)].map(m=>m[1]);
 assert.ok(features.length>=12);
