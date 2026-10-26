@@ -10,7 +10,7 @@ Public fields omit proposal recipient names, correspondence, commercial terms an
 
 ## Interaction
 
-Lazy-loaded Three.js engine with a server-rendered sculptural fallback. The artwork is present before JavaScript loads; context loss suspends rendering and restores the fallback, and context restoration resumes the scene. Pause control, reduced-motion preference, offscreen/hidden-tab suspension and resource disposal. CSS visual studies, search, field filters, empty-state reset, native modal dialogs, keyboard close/focus return and shareable `?idea=` links. No forms, trackers, databases or new external data access.
+Lazy-loaded Three.js engine with a server-rendered sculptural fallback. The artwork is present before JavaScript loads; context loss suspends rendering and restores the fallback, and context restoration resumes the scene. Pause control, reduced-motion preference, offscreen/hidden-tab suspension and resource disposal. CSS visual studies, search, field filters, empty-state reset, native modal dialogs, keyboard close/focus return and shareable `?idea=` links. Denied clipboard access exposes a selectable URL instead of silently failing. No forms, trackers, databases or new external data access.
 
 ## Verification
 
