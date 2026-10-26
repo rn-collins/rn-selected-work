@@ -15,6 +15,7 @@ export const revalidate = 3600;
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = "https://rn-selected-work.vercel.app";
   return [
+    { url: `${base}/ideas`, changeFrequency: "weekly", priority: 0.9 },
     { url: `${base}/explore`, changeFrequency: "daily", priority: 0.9 },
     { url: base, changeFrequency: "weekly", priority: 1 },
     { url: `${base}/about`, changeFrequency: "monthly", priority: 0.8 },
