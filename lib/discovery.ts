@@ -35,6 +35,7 @@ export function discoveryItems(now=new Date()):DiscoveryItem[] {
  ...essayAccounts.flatMap(a=>releasedEssays(a.key,now).map(p=>item(p.title,`/essays/${a.key}/${p.id}`,p.description,'Essay',a.name))),
  ...releasedDdwEssays(now).map(p=>item(p.title,`/writing/dutch-design-week/${p.family}/${p.slug}`,p.description,'Essay',p.familyLabel)),
  ...[
+ ['Zero to One','/ideas','Concepts, proposals and working systems conceived by RN Collins.'],
  ['Practice','/practice','How research becomes a framework, working system, or public resource.'],
  ['For organizations','/for-organizations','Ways to work together, from a question to a concrete project.'],
  ['Initiatives','/initiatives','Explore Aloha AI, Institutions of One, and neurocognitive systems research.'],
@@ -45,6 +46,7 @@ export function discoveryItems(now=new Date()):DiscoveryItem[] {
  return Array.from(new Map(rows.map(r=>[r.href,r])).values());
 }
 export const pathways=[
+ {title:"Enter the concept collection",href:"/ideas",description:"Zero to One: the questions, the connections, and the worlds they become."},
  {title:'Understand how I work',href:'/work',description:'Case studies: the question, the reasoning, and what I made.'},
  {title:'Try something I built',href:'/explore?kind=Build',description:'Tools, observatories, learning resources, and experiments—with their status.'},
  {title:'Read across disciplines',href:'/writing',description:'Journalism, design writing, scientific papers, and policy work.'},

@@ -25,6 +25,7 @@ export default function Home() {
         <div className="navlinks">
           <a href="#work">Work</a>
           <Link href="/builds">Build index</Link>
+          <Link href="/ideas">Zero to One ↗</Link>
           <a href="#writing">Writing</a>
         </div>
       </nav>
