@@ -102,6 +102,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/apr-08-2031",
+   "releasedAt": "2031-04-08",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/apr-08-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/apr-11",
    "releasedAt": "2027-05-04",
    "hold": false,
@@ -144,6 +153,15 @@
    "postUrls": {},
    "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/the-ropes-in-the-pyramid-of-unas",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/apr-13",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/apr-13-2031",
+   "releasedAt": "2031-04-13",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/apr-13-2031",
    "galleryUrl": ""
   },
   {
@@ -198,6 +216,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/apr-18",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/apr-18-2031",
+   "releasedAt": "2031-04-18",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/apr-18-2031",
    "galleryUrl": ""
   },
   {
@@ -279,6 +306,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/apr-26",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/apr-26-2031",
+   "releasedAt": "2031-04-26",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/apr-26-2031",
    "galleryUrl": ""
   },
   {
@@ -445,11 +481,20 @@
   },
   {
    "id": "aan/aug-10",
-   "releasedAt": "2027-08-10",
+   "releasedAt": "2027-11-30",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-10",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/aug-10-sa01",
+   "releasedAt": "2027-08-10",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-10-sa01",
    "galleryUrl": ""
   },
   {
@@ -598,11 +643,20 @@
   },
   {
    "id": "aan/aug-20",
-   "releasedAt": "2027-08-20",
+   "releasedAt": "2027-11-29",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-20",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/aug-20-mq01",
+   "releasedAt": "2027-08-20",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-20-mq01",
    "galleryUrl": ""
   },
   {
@@ -615,12 +669,48 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/aug-22",
+   "releasedAt": "2027-08-22",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-22",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/aug-23",
    "releasedAt": "2027-03-09",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/neither-christians-nor-saracens-know",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-23",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/aug-23-bc07",
+   "releasedAt": "2027-08-23",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-23-bc07",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/aug-24",
+   "releasedAt": "2027-08-24",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-24",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/aug-25",
+   "releasedAt": "2027-08-25",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-25",
    "galleryUrl": ""
   },
   {
@@ -651,6 +741,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/aug-27",
+   "releasedAt": "2027-08-27",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-27",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/aug-28",
    "releasedAt": "2027-08-07",
    "hold": false,
@@ -660,12 +759,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/aug-29",
+   "releasedAt": "2027-08-29",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-29",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/aug-30",
    "releasedAt": "2027-08-30",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-30",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/aug-31",
+   "releasedAt": "2027-08-31",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/aug-31",
    "galleryUrl": ""
   },
   {
@@ -687,6 +804,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-01-2030",
+   "releasedAt": "2030-12-01",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-01-2030",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-02",
    "releasedAt": "2026-12-02",
    "hold": false,
@@ -702,6 +828,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-02-2027",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-02-2027-df01",
+   "releasedAt": "2027-10-12",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-02-2027-df01",
    "galleryUrl": ""
   },
   {
@@ -786,12 +921,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-06-2030",
+   "releasedAt": "2030-12-06",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-06-2030",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-07",
    "releasedAt": "2027-02-14",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-07",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-07-2027",
+   "releasedAt": "2027-12-07",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-07-2027",
    "galleryUrl": ""
   },
   {
@@ -813,6 +966,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-08-2027-hn01",
+   "releasedAt": "2027-12-08",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-08-2027-hn01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-09",
    "releasedAt": "2028-06-24",
    "hold": false,
@@ -831,6 +993,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-09-2027-hg01",
+   "releasedAt": "2027-12-09",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-09-2027-hg01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-09-2028",
    "releasedAt": "2028-12-09",
    "hold": false,
@@ -846,6 +1017,15 @@
    "postUrls": {},
    "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/knowledge-is-not-finished-when-i-understand-it",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-10",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-10-2027",
+   "releasedAt": "2027-12-10",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-10-2027",
    "galleryUrl": ""
   },
   {
@@ -885,6 +1065,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-13-2027",
+   "releasedAt": "2027-07-18",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-13-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-14",
    "releasedAt": "2027-01-06",
    "hold": false,
@@ -903,12 +1092,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-14-2027-mn01",
+   "releasedAt": "2027-10-27",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-14-2027-mn01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-15",
    "releasedAt": "2027-03-16",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/who-gets-a-protected-nervous-system",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-15",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-15-2027",
+   "releasedAt": "2027-12-15",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-15-2027",
    "galleryUrl": ""
   },
   {
@@ -921,12 +1128,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-15-2030",
+   "releasedAt": "2030-12-15",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-15-2030",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-16",
    "releasedAt": "2028-07-01",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-16",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-16-2027",
+   "releasedAt": "2027-12-16",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-16-2027",
    "galleryUrl": ""
   },
   {
@@ -954,6 +1179,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-17-2027",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-17-2027-nj01",
+   "releasedAt": "2027-12-17",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-17-2027-nj01",
    "galleryUrl": ""
   },
   {
@@ -993,6 +1227,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-19-2027-bs01",
+   "releasedAt": "2027-12-19",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-19-2027-bs01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-20",
    "releasedAt": "2027-01-08",
    "hold": false,
@@ -1011,12 +1254,39 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-20-2027-sg01",
+   "releasedAt": "2027-12-20",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-20-2027-sg01",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-20-2029",
+   "releasedAt": "2029-12-20",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-20-2029",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-21",
    "releasedAt": "2027-01-11",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-21",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-21-2027",
+   "releasedAt": "2027-12-21",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-21-2027",
    "galleryUrl": ""
   },
   {
@@ -1038,6 +1308,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-22-2027-gs01",
+   "releasedAt": "2027-12-22",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-22-2027-gs01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-22-kb37",
    "releasedAt": "2026-12-22",
    "hold": false,
@@ -1053,6 +1332,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-23",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-23-2027",
+   "releasedAt": "2027-12-23",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-23-2027",
    "galleryUrl": ""
   },
   {
@@ -1083,6 +1371,24 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-24-2027-ddw607",
+   "releasedAt": "2027-12-24",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-24-2027-ddw607",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-24-2030",
+   "releasedAt": "2030-12-24",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-24-2030",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-25",
    "releasedAt": "2026-12-25",
    "hold": false,
@@ -1110,12 +1416,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-26-2027",
+   "releasedAt": "2027-12-26",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-26-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-27",
    "releasedAt": "2027-04-03",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-27",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-27-2027",
+   "releasedAt": "2027-12-27",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-27-2027",
    "galleryUrl": ""
   },
   {
@@ -1137,6 +1461,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-28-2027",
+   "releasedAt": "2027-12-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-28-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-29",
    "releasedAt": "2026-12-24",
    "hold": false,
@@ -1146,12 +1479,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/dec-29-2027",
+   "releasedAt": "2027-12-29",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-29-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/dec-30",
    "releasedAt": "2026-11-18",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-30",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-30-2027",
+   "releasedAt": "2027-12-30",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-30-2027",
    "galleryUrl": ""
   },
   {
@@ -1179,6 +1530,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-31-2027",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/dec-31-2027-ddw609",
+   "releasedAt": "2027-12-31",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/dec-31-2027-ddw609",
    "galleryUrl": ""
   },
   {
@@ -1269,6 +1629,15 @@
    "postUrls": {},
    "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/a-hundred-pounds-an-acre",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/feb-07-2028",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/feb-07-2031",
+   "releasedAt": "2031-02-07",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/feb-07-2031",
    "galleryUrl": ""
   },
   {
@@ -1389,6 +1758,24 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/feb-16-2028",
+   "releasedAt": "2028-02-16",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/feb-16-2028",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/feb-16-2031",
+   "releasedAt": "2031-02-16",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/feb-16-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/feb-17",
    "releasedAt": "2026-11-01",
    "hold": false,
@@ -1467,6 +1854,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/feb-22",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/feb-22-2031",
+   "releasedAt": "2031-02-22",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/feb-22-2031",
    "galleryUrl": ""
   },
   {
@@ -1560,12 +1956,39 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-02-2028",
+   "releasedAt": "2028-01-02",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-02-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-02-2030",
    "releasedAt": "2030-01-02",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-02-2030",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-02-2031",
+   "releasedAt": "2027-11-21",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-02-2031",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-02-2031-sm01",
+   "releasedAt": "2031-01-02",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-02-2031-sm01",
    "galleryUrl": ""
   },
   {
@@ -1605,6 +2028,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-04-2028",
+   "releasedAt": "2028-01-04",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-04-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-05",
    "releasedAt": "2026-12-10",
    "hold": false,
@@ -1614,12 +2046,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-05-2028",
+   "releasedAt": "2028-01-05",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-05-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-06",
    "releasedAt": "2027-01-20",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-06",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-06-2028",
+   "releasedAt": "2028-01-06",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-06-2028",
    "galleryUrl": ""
   },
   {
@@ -1638,6 +2088,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-07",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-07-2028",
+   "releasedAt": "2028-01-07",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-07-2028",
    "galleryUrl": ""
   },
   {
@@ -1677,12 +2136,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-09-2028",
+   "releasedAt": "2028-01-09",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-09-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-10",
    "releasedAt": "2027-09-19",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-10",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-10-2028",
+   "releasedAt": "2028-01-10",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-10-2028",
    "galleryUrl": ""
   },
   {
@@ -1704,12 +2181,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-11-2028",
+   "releasedAt": "2028-01-11",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-11-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-11-2030",
    "releasedAt": "2030-01-11",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-11-2030",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-11-2031",
+   "releasedAt": "2031-01-11",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-11-2031",
    "galleryUrl": ""
   },
   {
@@ -1731,12 +2226,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-12-2028-le01",
+   "releasedAt": "2028-04-26",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-12-2028-le01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-13",
    "releasedAt": "2027-01-28",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-13",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-13-2028",
+   "releasedAt": "2028-01-13",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-13-2028",
    "galleryUrl": ""
   },
   {
@@ -1755,6 +2268,15 @@
    "postUrls": {},
    "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/her-garden-was-her-medicine-cabinet",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-14",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-14-2028",
+   "releasedAt": "2028-01-14",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-14-2028",
    "galleryUrl": ""
   },
   {
@@ -1785,6 +2307,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-16-2028",
+   "releasedAt": "2028-01-16",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-16-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-17",
    "releasedAt": "2027-01-29",
    "hold": false,
@@ -1812,6 +2343,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-18-2028",
+   "releasedAt": "2028-01-18",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-18-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-18-ht19",
    "releasedAt": "2027-01-18",
    "hold": false,
@@ -1830,12 +2370,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-19-2028",
+   "releasedAt": "2028-01-19",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-19-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-20",
    "releasedAt": "2027-10-22",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-20",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-20-2028",
+   "releasedAt": "2028-01-20",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-20-2028",
    "galleryUrl": ""
   },
   {
@@ -1857,12 +2415,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-20-2031",
+   "releasedAt": "2031-01-20",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-20-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-21",
    "releasedAt": "2027-02-11",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/the-recognition-came-before-the-credentials",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-21",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-21-2028",
+   "releasedAt": "2028-01-21",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-21-2028",
    "galleryUrl": ""
   },
   {
@@ -1893,6 +2469,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-23-2028",
+   "releasedAt": "2028-01-23",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-23-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-23-ng13",
    "releasedAt": "2027-01-23",
    "hold": false,
@@ -1911,6 +2496,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-24-2028",
+   "releasedAt": "2028-01-24",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-24-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-24-kd03",
    "releasedAt": "2027-01-24",
    "hold": false,
@@ -1926,6 +2520,24 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-25",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-25-2028",
+   "releasedAt": "2028-01-25",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-25-2028",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-25-2030",
+   "releasedAt": "2030-01-25",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-25-2030",
    "galleryUrl": ""
   },
   {
@@ -1974,12 +2586,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jan-28-2028-ge01",
+   "releasedAt": "2028-12-05",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-28-2028-ge01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jan-29",
    "releasedAt": "2027-11-08",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-29",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jan-29-2031",
+   "releasedAt": "2031-01-29",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jan-29-2031",
    "galleryUrl": ""
   },
   {
@@ -2208,6 +2838,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jul-16-2031",
+   "releasedAt": "2032-02-04",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jul-16-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jul-17",
    "releasedAt": "2027-06-26",
    "hold": false,
@@ -2227,7 +2866,7 @@
   },
   {
    "id": "aan/jul-18",
-   "releasedAt": "2027-07-18",
+   "releasedAt": "2027-12-13",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -2478,6 +3117,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jun-05-2031",
+   "releasedAt": "2031-06-05",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jun-05-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jun-06",
    "releasedAt": "2027-06-06",
    "hold": false,
@@ -2523,12 +3171,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jun-10-2031",
+   "releasedAt": "2031-10-09",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jun-10-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jun-11",
-   "releasedAt": "2027-06-11",
+   "releasedAt": "2027-12-12",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jun-11",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jun-11-rp01",
+   "releasedAt": "2027-06-11",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jun-11-rp01",
    "galleryUrl": ""
   },
   {
@@ -2574,6 +3240,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jun-14-2030",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/jun-15-2031",
+   "releasedAt": "2031-06-16",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jun-15-2031",
    "galleryUrl": ""
   },
   {
@@ -2703,6 +3378,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/jun-25-2031",
+   "releasedAt": "2031-06-25",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/jun-25-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/jun-26",
    "releasedAt": "2027-09-18",
    "hold": false,
@@ -2793,6 +3477,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/mar-03-2031",
+   "releasedAt": "2031-03-03",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/mar-03-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/mar-04",
    "releasedAt": "2027-03-04",
    "hold": false,
@@ -2856,6 +3549,24 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/mar-12-2028",
+   "releasedAt": "2028-03-12",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/mar-12-2028",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/mar-12-2031",
+   "releasedAt": "2031-03-12",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/mar-12-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/mar-14",
    "releasedAt": "2028-10-07",
    "hold": false,
@@ -2889,6 +3600,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/mar-17",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/mar-17-2028",
+   "releasedAt": "2028-03-17",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/mar-17-2028",
    "galleryUrl": ""
   },
   {
@@ -2928,6 +3648,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/mar-20-2028",
+   "releasedAt": "2028-03-20",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/mar-20-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/mar-21",
    "releasedAt": "2027-03-21",
    "hold": false,
@@ -2937,8 +3666,17 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/mar-21-2031",
+   "releasedAt": "2031-03-21",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/mar-21-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/mar-22",
-   "releasedAt": "2027-03-14",
+   "releasedAt": "2027-11-15",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -3000,6 +3738,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/mar-30-2031",
+   "releasedAt": "2031-03-30",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/mar-30-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/mar-31",
    "releasedAt": "2029-07-21",
    "hold": false,
@@ -3027,8 +3774,17 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/may-01-2031",
+   "releasedAt": "2031-05-01",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/may-01-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/may-02",
-   "releasedAt": "2027-05-02",
+   "releasedAt": "2027-11-18",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -3042,6 +3798,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/may-03",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/may-03-2028",
+   "releasedAt": "2028-05-03",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/may-03-2028",
    "galleryUrl": ""
   },
   {
@@ -3099,6 +3864,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/may-06-2031",
+   "releasedAt": "2031-05-06",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/may-06-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/may-07",
    "releasedAt": "2027-05-07",
    "hold": false,
@@ -3141,6 +3915,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/may-11",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/may-11-2031",
+   "releasedAt": "2031-05-11",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/may-11-2031",
    "galleryUrl": ""
   },
   {
@@ -3207,6 +3990,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/may-16-2031",
+   "releasedAt": "2031-05-16",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/may-16-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/may-17",
    "releasedAt": "2027-11-02",
    "hold": false,
@@ -3261,6 +4053,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/may-21-2031",
+   "releasedAt": "2029-09-29",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/may-21-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/may-22",
    "releasedAt": "2027-05-01",
    "hold": false,
@@ -3312,6 +4113,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/may-26",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/may-26-2031",
+   "releasedAt": "2031-05-26",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/may-26-2031",
    "galleryUrl": ""
   },
   {
@@ -3378,6 +4188,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/may-31-2031",
+   "releasedAt": "2031-05-31",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/may-31-2031",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/nov-01",
    "releasedAt": "2026-11-08",
    "hold": false,
@@ -3423,6 +4242,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/nov-03-2027",
+   "releasedAt": "2027-11-03",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-03-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/nov-03-ns37",
    "releasedAt": "2026-11-03",
    "hold": false,
@@ -3438,6 +4266,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-04",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/nov-04-2027",
+   "releasedAt": "2027-11-22",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-04-2027",
    "galleryUrl": ""
   },
   {
@@ -3567,6 +4404,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/nov-09-2027",
+   "releasedAt": "2027-11-09",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-09-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/nov-10",
    "releasedAt": "2026-11-29",
    "hold": false,
@@ -3582,6 +4428,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-10-2027",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/nov-10-2027-pa01",
+   "releasedAt": "2027-11-10",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-10-2027-pa01",
    "galleryUrl": ""
   },
   {
@@ -3621,6 +4476,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/nov-12-2027",
+   "releasedAt": "2027-11-12",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-12-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/nov-13",
    "releasedAt": "2026-12-09",
    "hold": false,
@@ -3639,6 +4503,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/nov-13-2027-ow01",
+   "releasedAt": "2027-11-13",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-13-2027-ow01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/nov-13-pb03",
    "releasedAt": "2026-11-13",
    "hold": false,
@@ -3654,6 +4527,15 @@
    "postUrls": {},
    "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/what-mdma-does-to-a-marriage",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-14",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/nov-14-2027",
+   "releasedAt": "2027-11-14",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-14-2027",
    "galleryUrl": ""
   },
   {
@@ -3693,12 +4575,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/nov-15-2027",
+   "releasedAt": "2027-03-14",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-15-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/nov-16",
    "releasedAt": "2026-11-05",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-16",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/nov-16-2027",
+   "releasedAt": "2027-11-16",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-16-2027",
    "galleryUrl": ""
   },
   {
@@ -3717,6 +4617,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-18",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/nov-18-2027",
+   "releasedAt": "2027-05-02",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-18-2027",
    "galleryUrl": ""
   },
   {
@@ -3747,12 +4656,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/nov-19-2027-cu01",
+   "releasedAt": "2027-11-19",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-19-2027-cu01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/nov-20",
    "releasedAt": "2026-11-30",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-20",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/nov-20-2027",
+   "releasedAt": "2027-11-20",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-20-2027",
    "galleryUrl": ""
   },
   {
@@ -3783,6 +4710,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/nov-22-2027-ch01",
+   "releasedAt": "2027-11-04",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-22-2027-ch01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/nov-22-2028",
    "releasedAt": "2028-01-03",
    "hold": false,
@@ -3801,12 +4737,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/nov-23-2027",
+   "releasedAt": "2027-11-23",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-23-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/nov-23-2029",
    "releasedAt": "2029-11-23",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-23-2029",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/nov-23-2030",
+   "releasedAt": "2030-11-23",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-23-2030",
    "galleryUrl": ""
   },
   {
@@ -3864,6 +4818,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/nov-26-2027",
+   "releasedAt": "2027-11-27",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-26-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/nov-27",
    "releasedAt": "2027-12-01",
    "hold": false,
@@ -3882,6 +4845,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/nov-27-2027-tm01",
+   "releasedAt": "2027-11-26",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-27-2027-tm01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/nov-27-ra89",
    "releasedAt": "2026-11-27",
    "hold": false,
@@ -3897,6 +4869,24 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-28",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/nov-28-2027",
+   "releasedAt": "2027-11-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-28-2027",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/nov-28-2029",
+   "releasedAt": "2029-11-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/nov-28-2029",
    "galleryUrl": ""
   },
   {
@@ -4044,6 +5034,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/oct-12-2027",
+   "releasedAt": "2027-12-02",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/oct-12-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/oct-13-2027",
    "releasedAt": "2027-04-27",
    "hold": false,
@@ -4104,6 +5103,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/oct-18-2030",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/oct-19-2027",
+   "releasedAt": "2027-10-19",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/oct-19-2027",
    "galleryUrl": ""
   },
   {
@@ -4179,6 +5187,24 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/oct-26-2027",
+   "releasedAt": "2027-10-26",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/oct-26-2027",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/oct-27-2027",
+   "releasedAt": "2027-12-14",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/oct-27-2027",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/oct-27-2029",
    "releasedAt": "2029-10-27",
    "hold": false,
@@ -4212,6 +5238,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/oct-29",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/oct-29-2027",
+   "releasedAt": "2027-10-29",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/oct-29-2027",
    "galleryUrl": ""
   },
   {
@@ -4257,6 +5292,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/oct-31",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/sep-01",
+   "releasedAt": "2027-09-01",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-01",
    "galleryUrl": ""
   },
   {
@@ -4413,12 +5457,39 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/sep-10",
+   "releasedAt": "2027-09-10",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-10",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/sep-11",
    "releasedAt": "2027-08-21",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-11",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/sep-11-sz04",
+   "releasedAt": "2027-09-11",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-11-sz04",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/sep-12",
+   "releasedAt": "2027-09-12",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-12",
    "galleryUrl": ""
   },
   {
@@ -4437,6 +5508,33 @@
    "postUrls": {},
    "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/the-strength-of-the-parcel-employed",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-13",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/sep-13-bc10",
+   "releasedAt": "2027-09-13",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-13-bc10",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/sep-14",
+   "releasedAt": "2027-09-14",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-14",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/sep-15",
+   "releasedAt": "2027-09-15",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-15",
    "galleryUrl": ""
   },
   {
@@ -4485,12 +5583,30 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/sep-17-2028-af01",
+   "releasedAt": "2028-09-17",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-17-2028-af01",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/sep-18",
    "releasedAt": "2027-04-06",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/the-soma-that-no-one-drinks",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-18",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/sep-21",
+   "releasedAt": "2027-09-21",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-21",
    "galleryUrl": ""
   },
   {
@@ -4530,6 +5646,24 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/sep-24",
+   "releasedAt": "2027-09-24",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-24",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/sep-25",
+   "releasedAt": "2027-09-25",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-25",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/sep-26",
    "releasedAt": "2027-09-26",
    "hold": false,
@@ -4566,6 +5700,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/sep-28-2028",
+   "releasedAt": "2028-09-28",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/sep-28-2028",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/sep-28-la02",
    "releasedAt": "2027-09-28",
    "hold": false,
@@ -4576,7 +5719,7 @@
   },
   {
    "id": "aan/sep-29-2029",
-   "releasedAt": "2029-09-29",
+   "releasedAt": "2031-05-21",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
