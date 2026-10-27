@@ -1977,6 +1977,26 @@
     {
      "label": "Bremen and Middlebrooks (2013), PLOS ONE, full text in PMC, CC BY",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3602423"
+    },
+    {
+     "label": "McAnally KI, Martin RL (2014). Frontiers in Neuroscience. doi 10.3389/fnins.2014.00210 (full text read, Europe PMC PMC4130110, CC BY)",
+     "url": "https://doi.org/10.3389/fnins.2014.00210"
+    },
+    {
+     "label": "Reinhart PN, Souza PE (2018). Trends in Hearing. doi 10.1177/2331216517750706 (full text read, Europe PMC PMC5768263, CC BY-NC 4.0, facts only)",
+     "url": "https://doi.org/10.1177/2331216517750706"
+    },
+    {
+     "label": "Tranchant P, et al. (2017). Frontiers in Neuroscience. doi 10.3389/fnins.2017.00507 (full text read, Europe PMC PMC5601036, CC BY 4.0)",
+     "url": "https://doi.org/10.3389/fnins.2017.00507"
+    },
+    {
+     "label": "Limb CJ, Braun AR (2008). PLOS ONE. doi 10.1371/journal.pone.0001679 (full text read, Europe PMC PMC2244806, CC0)",
+     "url": "https://doi.org/10.1371/journal.pone.0001679"
+    },
+    {
+     "label": "Sala G, Gobet F (2020). Memory and Cognition. doi 10.3758/s13421-020-01060-2 (full text read, Europe PMC PMC7683441, CC BY 4.0)",
+     "url": "https://doi.org/10.3758/s13421-020-01060-2"
     }
    ],
    "other": [
@@ -1999,35 +2019,47 @@
     {
      "label": "Electric Grand project site: makers' bios",
      "url": "https://www.electricgrand.nl/antoon-versteegde"
+    },
+    {
+     "label": "Electric Grand project site: Q and A",
+     "url": "https://www.electricgrand.nl/qa"
+    },
+    {
+     "label": "Electric Grand project site: media page (Eindhovens Dagblad, Sander Verrips, Oct 18, 2026)",
+     "url": "https://www.electricgrand.nl/media"
+    },
+    {
+     "label": "Electric Grand project site: Yamaha CP-70 page",
+     "url": "https://www.electricgrand.nl/yamaha-cp70"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Ignace Pleyel et Compagnie, Grand piano, c. 1844, BK-NM-9395",
-     "credit": "Ignace Pleyel et Compagnie, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Vleugel--a36b3ebb05a7f8908d052cd461d5ca56",
+     "what": "RN Collins, Electric Grand sign in its bamboo frame, photograph, Oct 17, 2026, PH-B4B73A39",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_ketelhuisplein/PH-B4B73A39.jpg",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Electric Grand, Antoon Versteegde and Bart van Dongen · Ketelhuisplein, Strijp-S · Oct 17 to 25, 2026 (DDW 2026 listing, Electric Grand: Walk inside a Piano)",
-     "credit": "DDW 2026 listing, Electric Grand: Walk inside a Piano",
-     "url": "https://ddw.nl/en/programme/electric-grand-walk-inside-a-piano",
-     "card": true
+     "what": "RN Collins, Electric Grand programme sign at the info stand, photograph, Oct 17, 2026, PH-1B7E2F45",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_ketelhuisplein/PH-1B7E2F45.jpg",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Number card made for this post: 72 speakers, one loudspeaker per key of a Yamaha CP-70 electric grand, hung in bamboo (DDW 2026 listing, Electric Grand; electricgrand.nl/ddw)",
-     "credit": "DDW 2026 listing, Electric Grand; electricgrand.nl/ddw",
-     "url": "https://www.electricgrand.nl/ddw",
-     "card": true
+     "what": "RN Collins, Bamboo frame with terracotta speaker pots, photograph, Oct 17, 2026, PH-24CF73E3",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_ketelhuisplein/PH-24CF73E3.jpg",
+     "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Anonymous, Japan, Bamboo in mist (Bamboe in mist), octagonal woodcut, 1880 to 1890, RP-P-1961-134",
-     "credit": "Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-P-1961-134",
+     "what": "RN Collins, Visitors under the speaker pots, photograph, Oct 17, 2026, PH-6A68368D",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_ketelhuisplein/PH-6A68368D.jpg",
      "card": false
     },
     {
@@ -2046,37 +2078,37 @@
     },
     {
      "where": "Slide 7",
-     "what": "Bartolomeo Cristofori, Grand Piano, cypress; boxwood; paint; leather; fir, 1720, 89.4.1219a to c (The Metropolitan Museum of Art)",
-     "credit": "Bartolomeo Cristofori, The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/501788",
+     "what": "Illustration made for this post: a usual piano sounds from one instrument; in Electric Grand each key drives its own pot, scattered around the listener (electricgrand.nl; DDW listing)",
+     "credit": "electricgrand.nl; DDW 2026 listing",
+     "url": "https://www.electricgrand.nl/",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Anonymous, Square piano with seven octaves, c. 1860 to c. 1880, BK-NM-12374",
-     "credit": "Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Square-piano--469e40cf72d99fcf14c8a228b9cb1ce0",
+     "what": "RN Collins, Electric Grand sign, close up, photograph, Oct 17, 2026, PH-328B710B",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_ketelhuisplein/PH-328B710B.jpg",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Chen Jiecan, Bamboo in rain, hanging scroll, ink, c. 1800 to 1825, AK-MAK-98",
-     "credit": "Chen Jiecan, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Bamboe--897a08b52283e6bd71164267136ed257",
+     "what": "RN Collins, Visitors walking through the bamboo frame, photograph, Oct 17, 2026, PH-D2B4C932",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_ketelhuisplein/PH-D2B4C932.jpg",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Unknown maker, Upright Piano and Reed Organ, ca. 1835, 89.4.2098 (The Metropolitan Museum of Art)",
-     "credit": "Unknown maker, The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/502665",
-     "card": false
+     "what": "Text card made for this post: Electric Grand, Ketelhuisplein, Strijp-S · Oct 17 to 25, 2026 (DDW 2026 listing, Electric Grand: Walk inside a Piano)",
+     "credit": "DDW 2026 listing, Electric Grand: Walk inside a Piano",
+     "url": "https://app-api.ddw.nl/en/programme/electric-grand-walk-inside-a-piano",
+     "card": true
     },
     {
      "where": "Story 2",
-     "what": "Tachibana Morikuni, Bamboo, two pages from Umpitsu soga, woodcut, 1849, RP-P-1951-290",
-     "credit": "Tachibana Morikuni, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-P-1951-290",
+     "what": "Chart drawn to scale for this post: 72 dots, one for each loudspeaker pot (DDW listing; electricgrand.nl/qa)",
+     "credit": "DDW 2026 listing; electricgrand.nl/qa",
+     "url": "https://www.electricgrand.nl/qa",
      "card": false
     },
     {
@@ -2992,6 +3024,26 @@
     {
      "label": "Sheeran et al. (2016), Health Psychology, record",
      "url": "https://vivo.colorado.edu/display/pubid_140068"
+    },
+    {
+     "label": "Visch V, Bueno de Mesquita N, van Dijk S, Kraaij W, van der Linden Y, van Poecke N, Witkamp E, van Zaalen Y, Janssen V (2026). Your own Health? A position paper on the concept of health ownership. Medical Delta, presented at DDW (PDF; introduction, theory and conclusion read; no licence statement, facts only)",
+     "url": "https://www.medicaldelta.nl/media/t3klvofc/gezondheid-van-jezelf-position-paper-ddw.pdf"
+    },
+    {
+     "label": "Garcia et al. (2026). Archives of Physiotherapy. doi 10.33393/aop.2026.3963 (full text read, Europe PMC PMC13681173, CC BY-NC 4.0, facts only)",
+     "url": "https://doi.org/10.33393/aop.2026.3963"
+    },
+    {
+     "label": "AlBishi (2026). Frontiers in Endocrinology. doi 10.3389/fendo.2026.1853376 (full text read, Europe PMC PMC13463115, CC BY)",
+     "url": "https://doi.org/10.3389/fendo.2026.1853376"
+    },
+    {
+     "label": "Klimek-Ociepka et al. (2026). Medicina. doi 10.3390/medicina62071255 (full text read, Europe PMC PMC13414460, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/medicina62071255"
+    },
+    {
+     "label": "Chai, Chow and Tsuchiya (2026). International Journal for Equity in Health. doi 10.1186/s12939-026-02931-x (full text read, Europe PMC PMC13629148, CC BY-NC-ND 4.0, facts only)",
+     "url": "https://doi.org/10.1186/s12939-026-02931-x"
     }
    ],
    "other": [
@@ -3027,9 +3079,9 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Elisabeth Geertruida Wassenbergh, The Doctor's Visit, oil on canvas, 1750 to 1760, SK-A-3740: a physician takes a young woman's pulse while her mother watches",
-     "credit": "Elisabeth Geertruida Wassenbergh, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/The-Doctors-Visit--7775b42fd6b739852b00041abf71088f",
+     "what": "RN Collins, Your Own Health? box and title band, photograph, Oct 17, 2026, PH-1F7E465F",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_klokgebouw/PH-1F7E465F.jpg",
      "card": false
     },
     {
@@ -3041,9 +3093,9 @@
     },
     {
      "where": "Slide 3",
-     "what": "Anonymous after Hans Weiditz (II), Sick man in bed being cared for (Zieke man in bed wordt verzorgd), woodcut, 1514 to 1531, RP-P-2018-3210-9-1",
-     "credit": "After Hans Weiditz (II), Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Zieke-man-in-bed-wordt-verzorgd--80e1c9ab749679ab780578eedaf1e176",
+     "what": "Chart drawn to scale for this post: 61% of the Dutch population has a chronic condition, as stated in the Your own Health? position paper (Visch et al., 2026)",
+     "credit": "Visch V, Bueno de Mesquita N, van Dijk S, et al. (2026), Your own Health? position paper, Medical Delta",
+     "url": "https://www.medicaldelta.nl/media/t3klvofc/gezondheid-van-jezelf-position-paper-ddw.pdf",
      "card": false
     },
     {
@@ -3062,23 +3114,23 @@
     },
     {
      "where": "Slide 6",
-     "what": "Hendrik Wilhelmus Last after Jozef Geirnaert, Dokter voelt de pols van een vrouw, lithograph, 1846, RP-P-1904-3155: the patient sits in a chair with her mother behind her, her daughter beside her and the maid in the background",
-     "credit": "Hendrik Wilhelmus Last after Jozef Geirnaert, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Dokter-voelt-de-pols-van-een-vrouw--658ad59efcc3c14db06b4f79d8826911",
+     "what": "Illustration made for this post: the three health locus of control orientations (internal, powerful others, chance), from Garcia et al. (2026)",
+     "credit": "Garcia et al. (2026), Archives of Physiotherapy (CC BY-NC 4.0, facts only)",
+     "url": "https://doi.org/10.33393/aop.2026.3963",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Attributed to Wybrand Hendriks, Arts bezoekt een zieke oude vrouw in bed, pen and watercolour, RP-T-1921-326: a physician speaks with an elderly patient in bed",
-     "credit": "Attributed to Wybrand Hendriks, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/---1c9f65d795665483a6aaa16f003dcc43",
+     "what": "Illustration made for this post: the position paper's conclusion, ownership as shifting influence spread across people and systems, which does not ask for more personal control or responsibility (Visch et al., 2026)",
+     "credit": "Visch V, Bueno de Mesquita N, van Dijk S, et al. (2026), Your own Health? position paper, Medical Delta",
+     "url": "https://www.medicaldelta.nl/media/t3klvofc/gezondheid-van-jezelf-position-paper-ddw.pdf",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Rembrandt van Rijn, Sheet of Studies, with a Woman Lying Ill in Bed, etching, c. 1639, RP-P-OB-773",
-     "credit": "Rembrandt van Rijn, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/RP-P-OB-773--f311e865aac48e070a1247f6e7ec9d73",
+     "what": "Illustration made for this post: a person's own choices and abilities alongside relatives, care staff, technology, communities and public systems, ownership as 'dynamic and distributed' (Visch et al., 2026; DDW listing)",
+     "credit": "Visch V, Bueno de Mesquita N, van Dijk S, et al. (2026), Your own Health? position paper, Medical Delta; DDW 2026 listing",
+     "url": "https://www.medicaldelta.nl/media/t3klvofc/gezondheid-van-jezelf-position-paper-ddw.pdf",
      "card": false
     },
     {
@@ -9912,6 +9964,10 @@
    ],
    "other": [
     {
+     "label": "Navigating Stress (2026). Homepage, in Dutch (read in full Oct 26, 2026)",
+     "url": "https://navigatingstress.nl/"
+    },
+    {
      "label": "Design Academy Eindhoven: Navigating Stress (Mirte van der Nat, 2021)",
      "url": "https://designacademy.nl/page/3755/navigating-stress"
     }
@@ -9926,10 +9982,10 @@
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: A stress game, Navigating Stress: players build stress as a landscape (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
+     "what": "RN Collins, The Mountain of Perfectionism from Navigating Stress, photograph, 2026: taken at Dutch Design Week 2026 (Sat Oct 17, 18:09), a large green mountain-shaped object with its name cut into the face, on the grass at Strijp T+R, Eindhoven, beside a blue Navigating Stress sign",
+     "credit": "Photo: RN Collins",
      "url": "https://ddw.nl/en/programme/navigating-stress-1",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 3",
@@ -9989,7 +10045,7 @@
     },
     {
      "where": "Story 3",
-     "what": "Text card made for this post: Piet Hein Eek, Strijp T+R, Eindhoven, Oct 17 to 25 (DDW 2026 listing)",
+     "what": "Text card made for this post: F O R M designlab, Strijp T+R, Eindhoven, Oct 17 to 25 (DDW 2026 listing)",
      "credit": "DDW 2026 listing",
      "url": "https://ddw.nl/en/programme/navigating-stress-1",
      "card": true
@@ -11524,102 +11580,128 @@
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
-     "label": "Vert et al. (2020), Environmental Research, record (University of Exeter repository) [full read before posting]",
-     "url": "https://ore.exeter.ac.uk/repository/handle/10871/121710?show=full"
+     "label": "Alvarsson, J. J., Wiens, S., & Nilsson, M. E. (2010). Stress recovery during exposure to nature sound and environmental noise. International Journal of Environmental Research and Public Health, 7(3), 1036-1046 (full text read, Europe PMC PMC2872309, CC BY 3.0)",
+     "url": "https://doi.org/10.3390/ijerph7031036"
     },
     {
-     "label": "Gould van Praag et al. (2017), Scientific Reports",
-     "url": "https://www.nature.com/articles/srep45273"
+     "label": "Valenza, A., et al. (2025). Skin wetness perception across body sites in children and adolescents aged 7 to 16 years old. Experimental Physiology (full text read, Europe PMC PMC12857481, CC BY 4.0)",
+     "url": "https://doi.org/10.1113/EP092691"
     },
     {
-     "label": "Brighton and Sussex Medical School news (2017)",
-     "url": "https://bsms.ac.uk/about/news/2017/03-31-the-sound-of-nature-helps-us-relax.aspx"
+     "label": "Pearce, E., Launay, J., & Dunbar, R. I. M. (2015). The ice-breaker effect: Singing mediates fast social bonding. Royal Society Open Science, 2(10), 150221 (full text read, PMC4632513, CC BY 4.0)",
+     "url": "https://doi.org/10.1098/rsos.150221"
     },
     {
-     "label": "IRIS Sapienza record for Gould van Praag et al. (2017)",
-     "url": "https://iris.uniroma1.it/handle/11573/947802"
+     "label": "Buxton, R. T., et al. (2021). PNAS 118(14), e2013097118 (full text read, PMC8040792, CC BY-NC-ND 4.0: facts only)",
+     "url": "https://doi.org/10.1073/pnas.2013097118"
+    },
+    {
+     "label": "Kipping, M., Schulz, A., & Pollatos, O. (2026). Scientific Reports (full text read, PMC13171930, CC BY 4.0)",
+     "url": "https://doi.org/10.1038/s41598-026-48641-w"
+    },
+    {
+     "label": "Gan, X., et al. (2026). Human Brain Mapping (full text read, PMC13581101, CC BY 4.0)",
+     "url": "https://doi.org/10.1002/hbm.70577"
     }
    ],
    "other": [
     {
-     "label": "Stimuleringsfonds Creatieve Industrie: grant record",
+     "label": "DDW location page: MU Hybrid Art House (opened in full)",
+     "url": "https://ddw.nl/en/locations/mu-hybrid-art-house"
+    },
+    {
+     "label": "Creative Industries Fund NL grant record (opened in full)",
      "url": "https://www.stimuleringsfonds.nl/en/grants-issued/everything-moist-seems-alive"
     },
     {
-     "label": "BlueHealth summary of Vert et al. (2020) [full read before posting]",
-     "url": "https://bluehealth2020.eu/?p=2211"
+     "label": "MAISON the FAUX studio site (opened in full)",
+     "url": "https://www.maisonthefaux.com"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Question frame made for this post: can being near water change how you feel?",
-     "credit": "Vert et al. (2020), Environmental Research 188:109812",
-     "url": "https://doi.org/10.1016/j.envres.2020.109812",
+     "what": "RN Collins, Bulbous sculpture in Everything Moist Seems Alive at MU, photograph, 2026",
+     "credit": "Photo: RN Collins",
+     "url": "",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: MU, Strijp-S, water through tubes, pools and waterfalls, with performers' voices (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/everything-moist-seems-alive",
-     "card": true
-    },
-    {
-     "where": "Slide 3",
-     "what": "Illustration made for this post (not data): after Astrida Neimanis: each person an open, leaky ecosystem; water the great equaliser",
-     "credit": "DDW 2026 listing, Everything Moist Seems Alive",
-     "url": "https://ddw.nl/en/programme/everything-moist-seems-alive",
+     "what": "RN Collins, Title wall and candle table of Everything Moist Seems Alive at MU, photograph, 2026",
+     "credit": "Photo: RN Collins",
+     "url": "",
      "card": false
     },
     {
+     "where": "Slide 3",
+     "what": "Text card made for this post: water and ritual, an MU host's words (RN's recording)",
+     "credit": "RN Collins's recording at MU, Oct 17, 2026",
+     "url": "",
+     "card": true
+    },
+    {
      "where": "Slide 4",
-     "what": "Illustration made for this post (not data): 59 office workers in Barcelona: 20 minutes of blue space walk, urban walk or rest; mood better right after blue walks",
-     "credit": "Vert et al. (2020), Environmental Research 188",
-     "url": "https://doi.org/10.1016/j.envres.2020.109812",
+     "what": "Illustration made for this post: the lab protocol, two-minute speeded arithmetic, one of four sounds, recovery measured",
+     "credit": "Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3)",
+     "url": "https://doi.org/10.3390/ijerph7031036",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): self-reported mood better after blue walks; blood pressure and heart rate variability did not differ",
-     "credit": "Vert et al. (2020), Environmental Research 188",
-     "url": "https://doi.org/10.1016/j.envres.2020.109812",
+     "what": "Bar chart drawn to scale for this post from Alvarsson et al. (2010) Figure 4: fitted half-life of skin conductance recovery, 101.3 s nature sound, 111.4 low noise, 121.3 ambient noise, 159.8 high noise",
+     "credit": "Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3), Figure 4 (CC BY 3.0)",
+     "url": "https://doi.org/10.3390/ijerph7031036",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Gould van Praag et al. (2017), Scientific Reports, Figure 3: heart rate variability (high-frequency peak) with naturalistic versus artificial soundscapes",
-     "credit": "Gould van Praag CD, Garfinkel SN, Sparasci O, Mees A, Philippides AO, Ware M, et al. (2017), Scientific Reports 7, Figure 3 (CC BY 4.0)",
-     "url": "https://doi.org/10.1038/srep45273",
-     "card": false
+     "what": "Text card made for this post: no change in high-frequency heart rate variability (Alvarsson et al., 2010)",
+     "credit": "Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3)",
+     "url": "https://doi.org/10.3390/ijerph7031036",
+     "card": true
     },
     {
      "where": "Slide 7",
-     "what": "Question frame made for this post: where do you feel calmest, by water, in the city, or somewhere else?",
-     "credit": "Vert et al. (2020), Environmental Research 188:109812",
-     "url": "https://doi.org/10.1016/j.envres.2020.109812",
+     "what": "Bar chart drawn to scale for this post: how much wetter the very cold 0.8 mL drop was rated, 35.5 points than neutral, 22.7 than very hot, 16.1 than cold, on a 0 to 100 scale",
+     "credit": "Valenza et al. (2025), Experimental Physiology (CC BY 4.0)",
+     "url": "https://doi.org/10.1113/EP092691",
      "card": false
     },
     {
+     "where": "Slide 8",
+     "what": "Text card made for this post: about 60 percent, the makers' figure for body water",
+     "credit": "DDW programme page, Everything Moist Seems Alive",
+     "url": "https://app-api.ddw.nl/en/programme/everything-moist-seems-alive",
+     "card": true
+    },
+    {
+     "where": "Slide 9",
+     "what": "Text card made for this post: the closing question",
+     "credit": "Ask a Neuroscientist",
+     "url": "https://app-api.ddw.nl/en/programme/everything-moist-seems-alive",
+     "card": true
+    },
+    {
      "where": "Story 1",
-     "what": "Question frame made for this post: calmer by water? A room of moving water and voices at MU",
-     "credit": "Dutch Design Week 2026 listing: Everything Moist Seems Alive",
-     "url": "https://ddw.nl/en/programme/everything-moist-seems-alive",
+     "what": "Diagram made for this post: the show at a glance from the DDW pages",
+     "credit": "DDW programme and location pages",
+     "url": "https://app-api.ddw.nl/en/programme/everything-moist-seems-alive",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Diagram made for this post: in a 2020 trial mood was better right after short walks in a blue space and heart measures showed no difference between blue and urban walks (Vert et al., 2020)",
-     "credit": "Vert et al. (2020), Environmental Research 188:109812",
-     "url": "https://doi.org/10.1016/j.envres.2020.109812",
-     "card": false
+     "what": "Text card made for this post: 40 students in the study (Alvarsson et al., 2010)",
+     "credit": "Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3)",
+     "url": "https://doi.org/10.3390/ijerph7031036",
+     "card": true
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): water through tubes, pools and waterfalls; performers' voices; MU Hybrid Art House, Strijp-S, Eindhoven",
-     "credit": "DDW 2026 listing, Everything Moist Seems Alive",
-     "url": "https://ddw.nl/en/programme/everything-moist-seems-alive",
-     "card": false
+     "what": "Text card made for this post: MU Hybrid Art House address (DDW location page)",
+     "credit": "DDW location page, MU Hybrid Art House",
+     "url": "https://app-api.ddw.nl/en/locations/mu-hybrid-art-house",
+     "card": true
     }
    ]
   },
@@ -42439,124 +42521,104 @@
    "series": "Dutch Design Week",
    "research": [
     {
-     "label": "Bonenberg et al. (2023), Materials 16(6): 2164, full text (CC BY)",
-     "url": "https://www.mdpi.com/1996-1944/16/6/2164/htm"
-    },
-    {
-     "label": "Intemann et al. (2025), Global Challenges, perspective (Montana State ScholarWorks)",
-     "url": "https://scholarworks.montana.edu/handle/1/20060"
-    },
-    {
-     "label": "Cummings, Landreville and Kuzma (2024), Frontiers in Public Health, US survey on microbiome engineering",
-     "url": "https://public-pages-files-2025.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1477377/text"
+     "label": "Intemann, K. K., Lavoie, H. R., Elsass, K. D. A., Scott, B. G., and Gerlach, R. (2025). The challenge of the yuck factor in public acceptance of engineered living materials. Global Challenges. doi 10.1002/gch2.202400384 (full text read Oct 27, 2026, Europe PMC PMC12151802, CC BY 4.0)",
+     "url": "https://doi.org/10.1002/gch2.202400384"
     }
    ],
    "other": [
     {
-     "label": "DDW press release: Emma van der Leest and Anab Jain are the Beacons of DDW 2026",
-     "url": "https://ddw.nl/en/press/press-releases/design-pionieers-emma-van-der-leest-and-anab-jain-are-the-beacons-van-dutch-design-week-press"
+     "label": "Dutch Design Week (2026b). Participant pages: Novya Biotech, Foamlab, BIOMA Lab, Microbial Service Desk (full pages read Oct 26, 2026)",
+     "url": "https://ddw.nl/en/programme/novya-biotech-1"
     },
     {
-     "label": "DDW update: Beacons of DDW",
-     "url": "https://ddw.nl/en/updates/design-pionieers-emma-van-der-leest-and-anab-jain-are-the-beacons-van-ddw"
-    },
-    {
-     "label": "Innovation Origins (10 May 2023), interview with Emma van der Leest",
-     "url": "https://ioplus.nl/archive/en/biodesigner-emma-van-der-leest-on-a-mission-to-change-the-bad-image-of-bacteria-yeasts-and-fungi-for-good/"
-    },
-    {
-     "label": "Zhou, Doubrovski, Giaccardi and Karana (2024), CHI 2024, abstract (TU Delft research portal)",
-     "url": "https://research.tudelft.nl/en/publications/living-with-cyanobacteria-exploring-materiality-in-caring-for-mic/"
-    },
-    {
-     "label": "Wellcome Collection records, scanning electron micrographs of moulds (CC BY 4.0)",
-     "url": "https://wellcomecollection.org/works/urujvbsw"
+     "label": "van der Leest, E. (n.d.). About and Fungkee Supercoating pages, emmavanderleest.com (full pages read Oct 26, 2026)",
+     "url": "https://emmavanderleest.com/portfolio/fungkee-supercoating/"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Bonenberg et al. (2023), Figure 7: wall cladding panels made of mycelium-based composite (photo by A.B.)",
-     "credit": "Bonenberg, Sydor, Cofta, Doczekalska and Grygorowicz-Kosakowska (2023), Materials 16(6): 2164, CC BY",
-     "url": "https://www.mdpi.com/1996-1944/16/6/2164/htm",
+     "what": "RN Collins, Flask of purple-blue yeast colourant and dyed yarn, The Biodesign Warehouse, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_klokgebouw-r-a-w/PH-8AF1FC29.jpg",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Type card made for this post: the show, a department store of things made with living systems (maker's images not cleared)",
-     "credit": "Dutch Design Week listing",
-     "url": "https://ddw.nl/en/programme/the-biodesign-warehouse-department-store-for-life-1",
-     "card": true
+     "what": "RN Collins, Welcome to The Biodesign Warehouse entrance sign, Klokgebouw, photograph, 17 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_klokgebouw/PH-9EE00BA6.jpg",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "David Gregory & Debbie Marshall, Penicillium mould producing chains of spores, scanning electron micrograph, B0004595 (Wellcome Collection)",
-     "credit": "David Gregory & Debbie Marshall, Wellcome Collection (CC BY 4.0)",
-     "url": "https://wellcomecollection.org/works/urujvbsw",
+     "what": "RN Collins, Label reading engineered yeast beside purple yarn spools, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_klokgebouw-r-a-w/PH-DB0A7D9F.jpg",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Bonenberg et al. (2023), Figure 1: the sample used in test A, a hemispherical mycelium-based composite (photo by A.B.)",
-     "credit": "Bonenberg, Sydor, Cofta, Doczekalska and Grygorowicz-Kosakowska (2023), Materials 16(6): 2164, CC BY",
-     "url": "https://www.mdpi.com/1996-1944/16/6/2164/htm",
+     "what": "RN Collins, Student jacket and leather-like sheets on a round table, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_r-a-w/PH-773D5FA0.jpg",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Chart drawn to scale for this post from Bonenberg, Sydor, Cofta, Doczekalska and Grygorowicz-Kosakowska (2023), Materials 16(6): 2164: one dot per student, 73 of 80 rated the smell of the mycelium sample pleasant or neutral (test A)",
-     "credit": "Bonenberg, Sydor, Cofta, Doczekalska and Grygorowicz-Kosakowska (2023), Materials 16(6): 2164, chart drawn for this post",
-     "url": "https://www.mdpi.com/1996-1944/16/6/2164/htm",
+     "what": "Illustration made for this post: three drivers of disgust toward living materials, pathogens, naturalness and morals (Intemann et al., 2025)",
+     "credit": "Intemann, Lavoie, Elsass, Scott and Gerlach (2025), Global Challenges, diagram drawn for this post",
+     "url": "https://doi.org/10.1002/gch2.202400384",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Chart drawn to scale for this post from Bonenberg, Sydor, Cofta, Doczekalska and Grygorowicz-Kosakowska (2023), Materials 16(6): 2164: students answering yes (1 to 3 on the 9 point scale) to accepting the material in interior elements: 52 in a home they design with an ecological aesthetic, 20 in their own home (read from Figure 9)",
-     "credit": "Bonenberg, Sydor, Cofta, Doczekalska and Grygorowicz-Kosakowska (2023), Materials 16(6): 2164, chart drawn for this post",
-     "url": "https://www.mdpi.com/1996-1944/16/6/2164/htm",
+     "what": "RN Collins, Leather-like sheets in red, olive and grey, hung beside the jacket, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_r-a-w/PH-D8072DCF.jpg",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Chart drawn to scale for this post from Zhou, Doubrovski, Giaccardi and Karana (2024), CHI 2024: eight participants each lived with and cared for a cyanobacterial living artefact for two weeks (abstract)",
-     "credit": "Zhou, Doubrovski, Giaccardi and Karana (2024), CHI 2024, chart drawn for this post",
-     "url": "https://doi.org/10.1145/3613904.3642039",
+     "what": "RN Collins, BEAUTY department sign in the warehouse hall, photograph, 17 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_klokgebouw-r-a-w/PH-3174AEB5.jpg",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Type card made for this post: venue and dates of the show (maker's images not cleared)",
-     "credit": "Dutch Design Week listing",
-     "url": "https://ddw.nl/en/programme/the-biodesign-warehouse-department-store-for-life-1",
-     "card": true
+     "what": "Illustration made for this post: two ways of describing the same microbes, words that may trigger disgust and words that may calm it (Intemann et al., 2025)",
+     "credit": "Intemann, Lavoie, Elsass, Scott and Gerlach (2025), Global Challenges, diagram drawn for this post",
+     "url": "https://doi.org/10.1002/gch2.202400384",
+     "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Bonenberg et al. (2023), Figure 4: wall cladding elements, 20 cm x 20 cm: (A) mycelium-based composite; (B) chamotte clay (photo by A.B.)",
-     "credit": "Bonenberg, Sydor, Cofta, Doczekalska and Grygorowicz-Kosakowska (2023), Materials 16(6): 2164, CC BY",
-     "url": "https://www.mdpi.com/1996-1944/16/6/2164/htm",
+     "what": "RN Collins, Yeast-dyed swatches on the white textiles table, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_r-a-w-textiles-table/PH-69998B68.jpg",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "David Gregory & Debbie Marshall, Aspergillus hyphae with two conidiophores, scanning electron micrograph, B0000543 (Wellcome Collection)",
-     "credit": "David Gregory & Debbie Marshall, Wellcome Collection (CC BY 4.0)",
-     "url": "https://wellcomecollection.org/works/gbcw2nub",
+     "what": "RN Collins, Dyed scarves hanging over the yeast colourant table, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_klokgebouw-r-a-w/PH-9346FFBB.jpg",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Bonenberg et al. (2023), Figure 2: wall cladding element before ripening, the form filled with mycelium-based composite (photo by A.B.)",
-     "credit": "Bonenberg, Sydor, Cofta, Doczekalska and Grygorowicz-Kosakowska (2023), Materials 16(6): 2164, CC BY",
-     "url": "https://www.mdpi.com/1996-1944/16/6/2164/htm",
+     "what": "RN Collins, Blue and white scarves with the flask and yarn below, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_klokgebouw-r-a-w/PH-CEBD637F.jpg",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Liz Hirst (Medical Research Council), Fruiting body of bread mould, scanning electron micrograph, B0006132 (Wellcome Collection)",
-     "credit": "Liz Hirst (Medical Research Council), Wellcome Collection (CC BY 4.0)",
-     "url": "https://wellcomecollection.org/works/bqdsbtpf",
-     "card": false
+     "what": "Number card made for this post: three drivers of disgust toward living materials (Intemann et al., 2025)",
+     "credit": "Intemann, Lavoie, Elsass, Scott and Gerlach (2025), Global Challenges",
+     "url": "https://doi.org/10.1002/gch2.202400384",
+     "card": true
     }
    ]
   },
@@ -46844,128 +46906,124 @@
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
-     "label": "Xie et al. (2022), Frontiers in Psychology, full text PDF, CC BY",
-     "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.938636/pdf"
+     "label": "Zaccaro, A., Piarulli, A., Laurino, M., Garbella, E., Menicucci, D., Neri, B., & Gemignani, A. (2018). How breath-control can change your life: A systematic review on psycho-physiological correlates of slow breathing. Frontiers in Human Neuroscience, 12, 353 (full text read, Europe PMC PMC6137615, CC BY)",
+     "url": "https://doi.org/10.3389/fnhum.2018.00353"
     },
     {
-     "label": "Xie et al. (2023), Sensors, full text, CC BY",
-     "url": "https://www.mdpi.com/1424-8220/23/11/5322/html"
+     "label": "Canazei, M., Glenzer, L., Staggl, S., Dresen, V., Weninger, J., & Weiss, E. M. (2025). Light-guided resonant breathing enhances psychophysiological stress recovery in a simulated office environment. Scientific Reports, 15, 40953 (full text read, Europe PMC PMC12635061, CC BY-NC-ND 4.0: facts only)",
+     "url": "https://doi.org/10.1038/s41598-025-24813-y"
     },
     {
-     "label": "Wilms and Oberfeld (2018), Psychological Research, author PDF",
-     "url": "https://www.staff.uni-mainz.de/oberfeld/downloads/Wilms-Oberfeld2018_Article_ColorAndEmotionEffectsOfHueSat.pdf"
+     "label": "Huntley, M. K., Nguyen, A., Albrecht, M. A., & Marinovic, W. (2024). Attention, Perception, and Psychophysics (full text read, PMC11062975, CC BY 4.0)",
+     "url": "https://doi.org/10.3758/s13414-023-02828-9"
     },
     {
-     "label": "Jonauskaite et al. (2020), Psychological Science, repository PDF",
-     "url": "https://biopen.bi.no/bi-xmlui/bitstream/11250/2761614/1/Jonauskaite_etal_2020_PsychScience.pdf"
+     "label": "Monroy, M., et al. (2025). Awe reduces depressive symptoms and improves well-being in a randomized-controlled clinical trial. Scientific Reports (full text read, PMC12069556, CC BY 4.0)",
+     "url": "https://doi.org/10.1038/s41598-025-96555-w"
+    },
+    {
+     "label": "Foster, M. W., et al. (2025). PLOS ONE (full text read, PMC12367177, CC BY)",
+     "url": "https://doi.org/10.1371/journal.pone.0328215"
+    },
+    {
+     "label": "Tural, A., & Tural, E. (2024). Frontiers in Psychology, 15, 1473520 (full text read, PMC11637840, CC BY)",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1473520"
     }
    ],
    "other": [
     {
-     "label": "DDW listing (site.ddw.nl)",
-     "url": "https://site.ddw.nl/en/programme/17654/beacons-of-hope"
+     "label": "Rive Roshan: Garden of Hope, Milan Design Week 2026 (project page, opened in full)",
+     "url": "https://riveroshan.com/milan-design-week-2026"
     },
     {
-     "label": "DDW 2026 update",
-     "url": "https://ddw.nl/en/updates/ddw26"
-    },
-    {
-     "label": "Dezeen events guide: Rive Roshan, Garden of Hope",
-     "url": "https://www.dezeen.com/?p=2316177"
-    },
-    {
-     "label": "Sugar and Cream: Garden of Hope at Alcova, Milan Design Week 2026",
-     "url": "https://sugarandcream.co/rive-roshan-brings-garden-of-hope-to-alcova-milan-design-week-2026-riveroshan-alcova-studioravenhorst-rubendelarivebox-golnarroshan-mdw2026-onlinemagazine-sugarandcream-interiormagazine/"
-    },
-    {
-     "label": "Vandewalle et al. (2010), PNAS, abstract (Archive ouverte UNIGE)",
-     "url": "https://archive-ouverte.unige.ch/unige:21364"
+     "label": "Rive Roshan: about page (opened in full)",
+     "url": "https://riveroshan.com/about"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Xie et al. (2023), Sensors, Figure 3: the same image under green, blue, red and yellow light in the lab",
-     "credit": "Xie X, Cai J, Fang H, Wang B, He H, Zhou Y, et al. (2023), Sensors 23, Figure 3 (CC BY 4.0)",
-     "url": "https://doi.org/10.3390/s23115322",
+     "what": "Illustration made for this post: a schematic line of brightness rising and falling slowly, no numbers",
+     "credit": "Illustration drawn for this post",
+     "url": "https://app-api.ddw.nl/en/programme/beacons-of-hope",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Beacons of Hope, Rive Roshan · standing sculptural beacons · Dutch Design Week (DDW listing, Rive Roshan)",
-     "credit": "Dezeen events guide, Rive Roshan",
-     "url": "https://www.dezeen.com/?p=2316177",
+     "what": "Text card made for this post: Beacons of Hope, Rive Roshan, glass marquetry and kinetic light, Klokgebouw (DDW programme page)",
+     "credit": "DDW programme page, Beacons of Hope",
+     "url": "https://app-api.ddw.nl/en/programme/beacons-of-hope",
      "card": true
     },
     {
      "where": "Slide 3",
-     "what": "Anonymous, France, Vuurtoren van Grand Jardin (Phare du Grand Jardin), photomechanical print, c. 1873 to in or before 1883, RP-F-2001-7-1590-11",
-     "credit": "Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-F-2001-7-1590-11",
-     "card": false
+     "what": "Text card made for this post: a maker's words from RN's recording, Oct 18, 2026",
+     "credit": "RN Collins's recording at the work, Oct 18, 2026",
+     "url": "",
+     "card": true
     },
     {
      "where": "Slide 4",
-     "what": "Xie et al. (2022), Frontiers in Psychology, Figure 5: participants mood ratings after each coloured light in experiment 1",
-     "credit": "Xie X, Cai J, Fang H, Tang X, Yamanaka T (2022), Frontiers in Psychology 13, Figure 5 (CC BY)",
-     "url": "https://doi.org/10.3389/fpsyg.2022.938636",
+     "what": "Illustration made for this post: a pace set by hand versus a pace driven by a visitor's breathing (in progress)",
+     "credit": "RN Collins's recording at the work, Oct 18, 2026; DDW programme page",
+     "url": "https://app-api.ddw.nl/en/programme/beacons-of-hope",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Xie et al. (2023), Sensors, Figure 6: skin conductance responses to images under each coloured light",
-     "credit": "Xie X, Cai J, Fang H, Wang B, He H, Zhou Y, et al. (2023), Sensors 23, Figure 6 (CC BY 4.0)",
-     "url": "https://doi.org/10.3390/s23115322",
+     "what": "Illustration made for this post: the review screened 2,461 abstracts and kept 15 studies of healthy people",
+     "credit": "Zaccaro et al. (2018), Frontiers in Human Neuroscience 12:353",
+     "url": "https://doi.org/10.3389/fnhum.2018.00353",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post (not data): 17 healthy volunteers in an fMRI scanner: blue light raised brain responses to emotional voices more than green; brain activity, not mood (Vandewalle et al. 2010)",
-     "credit": "Vandewalle G, Schwartz S, Grandjean D, et al. (2010), PNAS 107(45):19549-19554",
-     "url": "https://doi.org/10.1073/pnas.1010180107",
-     "card": false
+     "what": "Text card made for this post: Limited, the review authors' word for the evidence (Zaccaro et al., 2018)",
+     "credit": "Zaccaro et al. (2018), Frontiers in Human Neuroscience 12:353",
+     "url": "https://doi.org/10.3389/fnhum.2018.00353",
+     "card": true
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): what has been tested: short bursts of coloured light in small lab groups; not found: a peer-reviewed study of moving light art and mood",
-     "credit": "Xie et al. (2022), Frontiers in Psychology; Xie et al. (2023), Sensors; Vandewalle et al. (2010), PNAS",
-     "url": "https://doi.org/10.3389/fpsyg.2022.938636",
+     "what": "Illustration made for this post: 80 students after lab stress; light-guided slow breathing gave a bigger RMSSD rebound than passive rest (large effects)",
+     "credit": "Canazei et al. (2025), Scientific Reports 15:40953",
+     "url": "https://doi.org/10.1038/s41598-025-24813-y",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Text card made for this post: Klokgebouw, Rive Roshan, Beacons of Hope · light by Studio Ravenhorst · Eindhoven, Dutch Design Week (DDW listing, Rive Roshan)",
-     "credit": "Dezeen events guide, Rive Roshan",
-     "url": "https://www.dezeen.com/?p=2316177",
+     "what": "Text card made for this post: none found, our search for a study of watching a light artwork and breathing",
+     "credit": "Our own literature search",
+     "url": "https://app-api.ddw.nl/en/programme/beacons-of-hope",
      "card": true
     },
     {
      "where": "Slide 9",
-     "what": "Clara Wolcott Driscoll, Peony Table Lamp, Leaded glass; bronze, c. 1902 to 10, 2018.260 (Cleveland Museum of Art)",
-     "credit": "Clara Wolcott Driscoll, The Cleveland Museum of Art, Bequest of Charles Maurer (CC0)",
-     "url": "https://clevelandart.org/art/2018.260",
-     "card": false
+     "what": "Text card made for this post: slow down, the closing question",
+     "credit": "Ask a Neuroscientist",
+     "url": "https://app-api.ddw.nl/en/programme/beacons-of-hope",
+     "card": true
     },
     {
      "where": "Story 1",
-     "what": "Anonymous, France, Vuurtorens van La Canche (Phares de La Canche), photomechanical print, c. 1873 to in or before 1883, RP-F-2001-7-1590-4",
-     "credit": "Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Vuurtorens-van-La-Canche--cbea4d123b5add7d02a12dccb1ffe616",
+     "what": "Diagram made for this post: a scale of breaths per minute with the review's cut-off for slow breathing at 10",
+     "credit": "Zaccaro et al. (2018), Frontiers in Human Neuroscience 12:353",
+     "url": "https://doi.org/10.3389/fnhum.2018.00353",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Xie et al. (2022), Frontiers in Psychology, Figure 2: plan of the laboratory room where students sat under coloured light",
-     "credit": "Xie X, Cai J, Fang H, Tang X, Yamanaka T (2022), Frontiers in Psychology 13, Figure 2 (CC BY)",
-     "url": "https://doi.org/10.3389/fpsyg.2022.938636",
-     "card": false
+     "what": "Text card made for this post: under 10 breaths a minute, the review's definition of slow breathing (Zaccaro et al., 2018)",
+     "credit": "Zaccaro et al. (2018), Frontiers in Human Neuroscience 12:353",
+     "url": "https://doi.org/10.3389/fnhum.2018.00353",
+     "card": true
     },
     {
      "where": "Story 3",
-     "what": "Anonymous, France, Vuurtoren van Quai Valin in de haven van La Rochelle, lighthouse and floating light beacon, photomechanical print, c. 1873 to in or before 1883, RP-F-2001-7-1590-34",
-     "credit": "Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Vuurtoren-van-Quai-Valin-in-de-haven-van-La-Rochelle--0dbada0b0b1aa061322992859965fe2a",
-     "card": false
+     "what": "Text card made for this post: Klokgebouw, Beacons of Hope by Rive Roshan (DDW programme page)",
+     "credit": "DDW programme page, Beacons of Hope",
+     "url": "https://app-api.ddw.nl/en/programme/beacons-of-hope",
+     "card": true
     }
    ]
   },
