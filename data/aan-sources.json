@@ -2134,117 +2134,128 @@
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
-     "label": "Cryan et al. (2019), Physiological Reviews, UCC repository abstract",
-     "url": "https://cora.ucc.ie/handle/10468/10506"
+     "label": "Yilmaz, B., et al. (2026). Spatial mapping of human colonic niches reveals rapid, mucus-specific microbiota disruption after bowel cleansing. Gut Microbes, 18(1), 2635866 (full text read, Europe PMC PMC12940144, CC BY 4.0)",
+     "url": "https://doi.org/10.1080/19490976.2026.2635866"
     },
     {
-     "label": "Ulrich (1984), Science, full text PDF",
-     "url": "https://www.wrrc.arizona.edu/sites/default/files/ulrich-view%20through%20a%20window.pdf"
+     "label": "McGuinness, A. J., et al. (2024). Depressive symptoms and gut microbiota after bowel preparation and colonoscopy. Microorganisms, 12(10), 1960 (full text read, Europe PMC PMC11509487, CC BY)",
+     "url": "https://doi.org/10.3390/microorganisms12101960"
     },
     {
-     "label": "Bonaz, Bazin and Pellissier (2018), Frontiers in Neuroscience, CC BY",
-     "url": "https://www.frontiersin.org/articles/10.3389/fnins.2018.00049/pdf"
+     "label": "Foster, M. W., et al. (2025). The effects of viewing visual artwork on patients, staff, and visitors in healthcare settings: A scoping review. PLOS ONE, 20(8), e0328215 (full text read, Europe PMC PMC12367177, CC BY)",
+     "url": "https://doi.org/10.1371/journal.pone.0328215"
     },
     {
-     "label": "Savulescu-Fiedler et al. (2025), Current Issues in Molecular Biology, CC BY 4.0",
-     "url": "https://mdpi-res.com/d_attachment/cimb/cimb-47-00489/article_deploy/cimb-47-00489.pdf"
+     "label": "Hopkins, T., et al. (2025). A video decision aid decreases fear of colonoscopy after an abnormal fecal immunochemical test result: A pilot study. Journal of Cancer Education, 41(1), 55-62 (full text read, Europe PMC PMC12971742, CC BY 4.0)",
+     "url": "https://doi.org/10.1007/s13187-025-02623-0"
+    },
+    {
+     "label": "Kipping, M., Schulz, A., and Pollatos, O. (2026). Stress modulates gastric interoception depending on eating traits and emotion regulation. Scientific Reports, 16, 14969 (full text read, Europe PMC PMC13171930, CC BY 4.0)",
+     "url": "https://doi.org/10.1038/s41598-026-48641-w"
     }
    ],
    "other": [
     {
-     "label": "DDW update: Large-scale designs take over Eindhoven during Dutch Design Week 2026 (Sep 8, 2026)",
-     "url": "https://ddw.nl/en/updates/large-scale-designs-take-over-eindhoven-during-dutch-design-week-2026"
+     "label": "Dutch Design Week (2026b). Ketelhuisplein, location page (full page read Oct 26, 2026)",
+     "url": "https://ddw.nl/en/locations/ketelhuisplein"
     },
     {
-     "label": "DDW press release: Giant bird perched on an egg (Aug 25, 2026)",
-     "url": "https://ddw.nl/en/press/press-releases/giant-bird-perched-on-an-egg-by-atelier-van-lieshout-arrives-in-eindhoven-for-dutch-design-week-2026"
+     "label": "Atelier Van Lieshout (n.d.). About Joep van Lieshout (studio site, full page read Oct 26, 2026)",
+     "url": "https://ateliervanlieshout.com/about/about-joep-van-lieshout/"
     },
     {
-     "label": "DDW Mission Days 2026",
-     "url": "https://ddw.nl/en/programme/mission-days-2026"
+     "label": "Mishori, R., Otubu, A., and Jones, A. A. (2011). The dangers of colon cleansing. Journal of Family Practice, 60(8), 454-457 (mirrored full text read Oct 27, 2026; PubMed 21814639)",
+     "url": "https://community.the-hospitalist.org/content/dangers-colon-cleansing"
     },
     {
-     "label": "NCCIH: Detoxes and cleanses, what you need to know",
-     "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know"
+     "label": "RN Collins (2026). Recording of the Colonic Cleansing Clinic's maker speaking to the press group, Oct 18, 2026 (PH-9EB80C41, transcript in ddw/fnm-exhaustive/transcripts)",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/transcripts/PH-9EB80C41.txt"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Andreas Vesalius, Gastrointestinal plate (septima and octava quinti libri figura), De humani corporis fabrica, woodcut, 1543, A027102 (National Library of Medicine)",
-     "credit": "National Library of Medicine, Digital Collections (public domain)",
-     "url": "https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101437486-img",
+     "what": "RN Collins, Pale green gut-shaped form with red cross and lettering, maker at the right, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_strijp-s/PH-B89FD155.jpg",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Van Lieshout, Atelier Van Lieshout, Colonic Cleansing Clinic, a functional sculpture shaped like the human gut (DDW 2026 listing, Colonic Cleansing Clinic)",
-     "credit": "DDW 2026 listing, Colonic Cleansing Clinic",
-     "url": "https://ddw.nl/en/programme/colonic-cleansing-clinic-2",
-     "card": true
+     "what": "RN Collins, Gut-shaped sculpture seen side on, maker posing in front, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_strijp-s/PH-F1DBB051.jpg",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Anonymous, Doll's house kitchen with 45 miniatures, c. 1845, BK-KOG-1917",
-     "credit": "Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Poppenkeuken-met-45-miniaturen--5bf39d8a9ff643e8aa04f68c10078c90",
+     "what": "RN Collins, Lettering and red cross of the clinic beside the maker, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_strijp-s/PH-01469EB1.jpg",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Anonymous, Bedroom suite designed by Sybold van Ravesteyn for M.R. Radermacher Schorer's home, Wilhelminapark 12, Utrecht, gelatin silver print, 1924, RP-F-2009-93",
-     "credit": "Anonymous photographer, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-F-2009-93",
+     "what": "RN Collins, Maker smiling beside the red cross, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_strijp-s/PH-95CEDBD2.jpg",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): four routes between gut microbes and the brain: the immune system, the vagus nerve, the enteric nervous system and microbial products such as short-chain fatty acids, from Cryan et al. (2019)",
-     "credit": "Cryan JF, O'Riordan KJ, Cowan CSM, et al. (2019), Physiological Reviews 99(4):1877-2013",
-     "url": "https://doi.org/10.1152/physrev.00018.2018",
+     "what": "Illustration made for this post: the four search terms of the 2011 literature search on colon cleansing (Mishori et al., 2011)",
+     "credit": "Mishori, Otubu and Jones (2011), J Fam Pract 60(8), diagram drawn for this post",
+     "url": "https://community.the-hospitalist.org/content/dangers-colon-cleansing",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Chart drawn to scale for this post: days in hospital after gallbladder surgery: 7.96 with a window on trees, 8.70 with a window on a brick wall (Ulrich 1984)",
-     "credit": "Ulrich RS (1984), Science 224(4647):420-421",
-     "url": "https://doi.org/10.1126/science.6143402",
+     "what": "Illustration made for this post: harms reported after colon cleansing, by body system (Mishori et al., 2011)",
+     "credit": "Mishori, Otubu and Jones (2011), J Fam Pract 60(8), diagram drawn for this post",
+     "url": "https://community.the-hospitalist.org/content/dangers-colon-cleansing",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Text card made for this post: Ketelhuisplein, Atelier Van Lieshout · Sanitas Futurum · Strijp-S · Oct 17 to 25, 2026 · Free (DDW 2026 listing, Colonic Cleansing Clinic)",
-     "credit": "DDW 2026 listing, Colonic Cleansing Clinic",
-     "url": "https://ddw.nl/en/programme/colonic-cleansing-clinic-2",
-     "card": true
+     "what": "Illustration made for this post: lumen bacteria steady, mucus-layer bacteria dip in the first 12 hours after bowel cleansing and return by 24 hours (Yilmaz et al., 2026); schematic, no data values",
+     "credit": "Yilmaz et al. (2026), Gut Microbes, illustration drawn for this post",
+     "url": "https://doi.org/10.1080/19490976.2026.2635866",
+     "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Unknown maker, Hospital ward, photograph, D05691 (National Library of Medicine)",
-     "credit": "National Library of Medicine, Digital Collections (public domain)",
-     "url": "https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101612150-img",
+     "what": "RN Collins, Gut-shaped form and red cross under a grey sky, maker at its side, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_strijp-s/PH-36060A96.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "RN Collins, Pale green surface and red cross, maker standing at the edge, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_strijp-s/PH-CFD19DE1.jpg",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Unknown maker, The digestive system, engraving, 18th century, V0007871EL (Wellcome Collection)",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/qduagqnf",
+     "what": "RN Collins, Gut-shaped form with the clinic lettering, maker at the right, Strijp-S building behind, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_strijp-s/PH-80BD15F6.jpg",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Figure 2, vagal terminal afferent endings in the gut wall (schematic), Bonaz et al. (2018)",
-     "credit": "Bonaz, Bazin and Pellissier (2018), Frontiers in Neuroscience 12:49, CC BY",
-     "url": "https://www.frontiersin.org/article/10.3389/fnins.2018.00049/full",
+     "what": "RN Collins, Maker beside the red cross on the gut-shaped form, flag pole behind, photograph, 18 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_strijp-s/PH-9D9327F5.jpg",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): window on trees: shorter stays after surgery; window on a brick wall: longer stays, from Ulrich (1984)",
-     "credit": "Ulrich RS (1984), Science 224(4647):420-421",
-     "url": "https://doi.org/10.1126/science.6143402",
-     "card": false
+     "what": "Number card made for this post: 68 publications in a scoping review of art in healthcare settings (Foster et al., 2025)",
+     "credit": "Foster et al. (2025), PLOS ONE",
+     "url": "https://doi.org/10.1371/journal.pone.0328215",
+     "card": true
     }
    ]
   },
@@ -2596,10 +2607,6 @@
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
-     "label": "Dartmouth news release on the trial",
-     "url": "https://tto.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits"
-    },
-    {
      "label": "Lieberman et al. (2007), Psychological Science, full PDF (UCLA lab)",
      "url": "https://sites.lifesci.ucla.edu/psych-sanlab/wp-content/uploads/sites/31/2016/03/Lieberman_2007_PsychScience.pdf"
     },
@@ -2610,6 +2617,26 @@
     {
      "label": "Torre and Lieberman (2018), Emotion Review",
      "url": "https://journals.sagepub.com/doi/10.1177/1754073917742706"
+    },
+    {
+     "label": "Licciardone JC, et al. (2024), JAMA Network Open (full text, Europe PMC PMC11009829, CC BY)",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2024.6026"
+    },
+    {
+     "label": "Azoum et al. (2018), PLOS ONE (full text, Europe PMC PMC5908089, CC BY)",
+     "url": "https://doi.org/10.1371/journal.pone.0194519"
+    },
+    {
+     "label": "Olson et al. (2025), JAMA Network Open (full text, Europe PMC PMC12492056, CC BY)",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2025.34976"
+    },
+    {
+     "label": "Suka and Shimazaki (2023), Archives of Public Health (full text, Europe PMC PMC10704777, CC BY 4.0)",
+     "url": "https://doi.org/10.1186/s13690-023-01226-9"
+    },
+    {
+     "label": "Park et al. (2018), Environmental Health Insights (full text, Europe PMC PMC6287302, CC BY-NC 4.0)",
+     "url": "https://doi.org/10.1177/1178630218812817"
     }
    ],
    "other": [
@@ -2632,99 +2659,91 @@
     {
      "label": "DDW 2026 update",
      "url": "https://ddw.nl/en/updates/ddw26"
-    },
-    {
-     "label": "Heinz et al. (2025), authors' center summary (C4TBH, Dartmouth)",
-     "url": "https://www.c4tbh.org/randomized-trial-of-a-generative-ai-chatbot-for-mental-health-treatment"
-    },
-    {
-     "label": "Psychiatric News Alert (APA) on the trial",
-     "url": "https://alert.psychnews.org/psych-news-alert/2025/03/therapeutic-chatbot-shows-promise-in.html"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Anonymous after Wenceslaus Hollar, Hen, roosters and chicks (a brooding hen), etching, 1654 to 1712, RP-P-OB-11.621",
-     "credit": "Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/RP-P-OB-11.621--0b75813087295e813ef244ff4a500670",
+     "what": "Illustration made for this post: line drawing of a golden bird on a giant egg with a small door, about seven metres tall (DDW description)",
+     "credit": "Drawing made for this post after the DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/spreekkamer-van-de-toekomst",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: A golden egg, Atelier Van Lieshout · a seven-metre golden bird on a giant egg, Markt, Eindhoven (DDW 2026 listing and press release, Spreekkamer van de Toekomst)",
-     "credit": "DDW 2026 listing and press release, Spreekkamer van de Toekomst",
-     "url": "https://ddw.nl/en/programme/spreekkamer-van-de-toekomst",
-     "card": true
+     "what": "Illustration made for this post: the work outside (gold, on a market square) and inside (a working consultation room during DDW)",
+     "credit": "Dutch Design Week (2026), programme page",
+     "url": "https://app-api.ddw.nl/en/programme/spreekkamer-van-de-toekomst",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Richard Tepe, Nest with eggs of a curlew (Nest met eieren van een wulp), photograph, c. 1900 to c. 1930, RP-F-2000-11-161",
-     "credit": "Richard Tepe, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/RP-F-2000-11-161--b0671f8db5a654bef1bfec314f64dac8",
+     "what": "Illustration made for this post: line drawing of the golden bird alone",
+     "credit": "Drawing made for this post after the DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/spreekkamer-van-de-toekomst",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Samuel van Hoogstraten, 'The Anemic Lady', oil on canvas, 1660 to 1678, SK-C-152 (a physician's visit)",
-     "credit": "Samuel van Hoogstraten, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/The-Anemic-Lady--9fbb9fb0533bce8091e7912c8355cb78",
+     "what": "Illustration made for this post: line drawing of the egg with a door visitors could step through",
+     "credit": "Drawing made for this post after the DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/spreekkamer-van-de-toekomst",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): 210 adults randomly assigned for four weeks: the chatbot group had larger symptom drops than the waitlist group, from Heinz et al. (2025)",
-     "credit": "Heinz MV, Mackin DM, Trudeau BM, et al. (2025), NEJM AI 2(4)",
-     "url": "https://doi.org/10.1056/AIoa2400802",
+     "what": "Illustration made for this post: where you go for care today (a doctor's practice or a hospital) and in the maker's future (a sculpture)",
+     "credit": "Atelier Van Lieshout maker, DDW press tour, recorded by RN Collins (PH-9EB80C41, Oct 18, 2026)",
+     "url": "https://app-api.ddw.nl/en/programme/spreekkamer-van-de-toekomst",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post (not data): the trial compared the chatbot with a waitlist, not with a human therapist; staff stepped in 15 times over safety concerns, from Heinz et al. (2025)",
-     "credit": "Heinz MV, Mackin DM, Trudeau BM, et al. (2025), NEJM AI 2(4)",
-     "url": "https://doi.org/10.1056/AIoa2400802",
+     "what": "Chart drawn to scale for this post: 1,470 adults with chronic low back pain followed for 12 months, one dot per 10",
+     "credit": "Licciardone et al. (2024), JAMA Network Open",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2024.6026",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): 30 adults viewing upsetting images: naming the feeling went with less amygdala activity than other labels such as the person's gender, from Lieberman et al. (2007)",
-     "credit": "Lieberman MD, Eisenberger NI, Crockett MJ, et al. (2007), Psychological Science 18(5):421-428",
-     "url": "https://doi.org/10.1111/j.1467-9280.2007.01916.x",
+     "what": "Illustration made for this post: after a flying cue, people who named the feeling had a smaller rise in anxiety than those who did not",
+     "credit": "Azoum et al. (2018), PLOS ONE",
+     "url": "https://doi.org/10.1371/journal.pone.0194519",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Text card made for this post: Markt, Eindhoven, Spreekkamer van de Toekomst · Atelier Van Lieshout · Oct 17 to 25, 2026 · 11:00 to 18:00 · Free (DDW 2026 listing, Spreekkamer van de Toekomst)",
-     "credit": "DDW 2026 listing, Spreekkamer van de Toekomst",
-     "url": "https://ddw.nl/en/programme/spreekkamer-van-de-toekomst",
-     "card": true
+     "what": "Bar chart drawn to scale for this post: clinician burnout 51.9% before and 38.8% after 30 days with an AI scribe, no control group",
+     "credit": "Olson et al. (2025), JAMA Network Open",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2025.34976",
+     "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Unknown maker, De conversatie (The conversation), c. 1850 to c. 1899, SK-A-1803 (Rijksmuseum, Amsterdam)",
-     "credit": "Unknown maker, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/SK-A-1803",
-     "card": false
+     "what": "Text card made for this post: Markt, Eindhoven; Consultation Room of the Future by Atelier Van Lieshout, DDW 2026 (DDW 2026 listing)",
+     "credit": "DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/spreekkamer-van-de-toekomst",
+     "card": true
     },
     {
      "where": "Story 1",
-     "what": "Richard Tepe (attributed), Bird on a nest (Vogel op nest), photograph, 1900 to 1930, RP-F-2000-11-173",
-     "credit": "Richard Tepe, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Vogel-op-nest--e691f4dca930f16eea94f0b5405f6a36",
-     "card": false
+     "what": "Text card made for this post: about seven metres, a golden bird on a giant egg on the Markt (DDW 2026 listing)",
+     "credit": "DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/spreekkamer-van-de-toekomst",
+     "card": true
     },
     {
      "where": "Story 2",
-     "what": "Jan Havicksz",
-     "credit": "Jan Steen, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/The-Sick-Woman--0df2a3aef123a06a24bd57df17b1923a",
+     "what": "Illustration made for this post: what a cohort study can show (who did better) and cannot show (why)",
+     "credit": "Licciardone et al. (2024), JAMA Network Open",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2024.6026",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Unknown maker, Drie oude vrouwen in gesprek (Three old women in conversation), ca. 1900, BK-15318 (Rijksmuseum, Amsterdam)",
-     "credit": "Unknown maker, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/BK-15318",
+     "what": "Illustration made for this post: the two Sanitas Futurum works in public space, on the Markt and on Ketelhuisplein",
+     "credit": "Dutch Design Week (2026), programme page",
+     "url": "https://app-api.ddw.nl/en/programme/spreekkamer-van-de-toekomst",
      "card": false
     }
    ]
@@ -2934,16 +2953,16 @@
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: UMPRUM, Prague, students, and a Czech farm's own scutching mill for short hemp fibre (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/sow-hemp",
-     "card": true
+     "what": "RN Collins, the SOW HEMP room: a woven hemp wall, a hemp relief on an orange wall and a video screen, SOW HEMP (UMPRUM), Klokgebouw, photograph, 17 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_klokgebouw/PH-FC46B448.jpg",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (not data): the students felted, spun, wove tapestry, embroidered by machine and dissolved fibre into bioplastic",
-     "credit": "DDW 2026 listing, SOW HEMP",
-     "url": "https://ddw.nl/en/programme/sow-hemp",
+     "what": "RN Collins, raw hemp fibre, rope, woven and felted samples on a pale green table, SOW HEMP (UMPRUM), Klokgebouw, photograph, 17 October 2026",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_klokgebouw/PH-69CD9741.jpg",
      "card": false
     },
     {
@@ -2997,10 +3016,10 @@
     },
     {
      "where": "Story 3",
-     "what": "Text card made for this post: Klokgebouw, Strijp-S, Eindhoven: SOW HEMP by UMPRUM students (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/sow-hemp",
-     "card": true
+     "what": "RN Collins, hemp fibre rings and spun samples on a pale green table, SOW HEMP (UMPRUM), Klokgebouw, photograph, 17 October 2026 (cropped)",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-17_klokgebouw/PH-597AE9E2.jpg",
+     "card": false
     }
    ]
   },
