@@ -1120,5 +1120,27 @@
     "boundary": "Recovered visual proposal studies, not a delivered campaign or a claim of ownership of any measurement technology. The complete underlying research and production scope have not been recovered; no health or commercial outcome is asserted.",
     "held": false,
     "provenance": "Recovered visual proposal studies and their extracted text; catalogued October 2026. Catalogue date is not a first-conception date."
+  },
+  {
+    "id": "all-i-notice",
+    "title": "All I Notice",
+    "category": "Culture + fieldwork",
+    "stage": "Product blueprint",
+    "question": "How can a moment of attention become a connection, an experiment and finished work without losing its origins?",
+    "expression": "A proposed private observatory, production studio and public multimedia gallery organized around an observation. Sources, interpretations, connections, rights and finished derivatives would stay linked, making the path from what RN noticed to what she made visible.",
+    "boundary": "A product-conception blueprint, not a claim that all proposed surfaces have been implemented. Public release would require deliberate editorial selection, source attribution, permissions and accessible media.",
+    "held": false,
+    "provenance": "Recovered authored product blueprint, vision and content-model sections; catalogued October 2026. Catalogue date is not a first-conception date."
+  },
+  {
+    "id": "legal-ai-fluency-loop",
+    "title": "The Legal AI Fluency Loop",
+    "category": "Learning",
+    "stage": "Proposal",
+    "question": "How can legal education distinguish access to AI from the judgment required to use it responsibly?",
+    "expression": "A proposed student-embedded research and implementation loop connecting baseline assessment, workflow and failure-mode research, training, simulated practice, supervised work and curricular feedback. Findings would inform the next round of learning and institutional implementation.",
+    "boundary": "A proposed educational research workstream, not an adopted curriculum or confirmed partnership. Institutional permission, privacy protections and appropriate supervision would be required. No learning outcomes or comparative superiority are claimed.",
+    "held": false,
+    "provenance": "Recovered authored strategic concept package, executive and design sections; catalogued October 2026. Catalogue date is not a first-conception date."
   }
 ]
