@@ -1324,20 +1324,28 @@
    "series": "Dutch Design Week",
    "research": [
     {
-     "label": "Henkel (2014), Psychological Science, abstract",
-     "url": "https://digitalcommons.fairfield.edu/psychology-facultypubs/26"
+     "label": "Lurie R, Fabrizio SP, Westerman DL (2025), The cost of saving: how photos and screenshots impair memory, Memory and Cognition 53(7):2301 to 2311 (full text read Oct 28, 2026, Europe PMC PMC13332969, CC BY)",
+     "url": "https://doi.org/10.3758/s13421-025-01711-2"
     },
     {
-     "label": "Henkel (2014), APS journal page",
-     "url": "https://www.psychologicalscience.org/journals/psychological-science/0956797613504438/"
+     "label": "Bravo-Adasme N, Cataldo A, et al. (2026), From the cluttered room to the full hard drive: the relationship between hoarding disorder and digital hoarding, Behavioral Sciences 16(3):429 (full text read Oct 28, 2026, Europe PMC PMC13023865, CC BY)",
+     "url": "https://doi.org/10.3390/bs16030429"
     },
     {
-     "label": "Barasch et al. (2017), Psychological Science",
-     "url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2017/02/Barasch-Diehl-Silverman-Zauberman-Photographic-Memory-Psych-Science.pdf"
+     "label": "Zhang C, Li J, Hao Y (2025), Why do 'digital hamsters' hoard but never consume? Behavioral Sciences 15(11):1575 (full text read Oct 28, 2026, Europe PMC PMC12649117, CC BY)",
+     "url": "https://doi.org/10.3390/bs15111575"
     },
     {
-     "label": "Braun et al. (2024), CogSci proceedings, CC BY 4.0",
-     "url": "https://escholarship.org/content/qt30n2s163/qt30n2s163.pdf?t=ssy994"
+     "label": "Berry JA, Guhle DC, Davis RL (2024), Active forgetting and neuropsychiatric diseases, Molecular Psychiatry (full text read Oct 28, 2026, Europe PMC PMC11420092, CC BY)",
+     "url": "https://doi.org/10.1038/s41380-024-02521-9"
+    },
+    {
+     "label": "Semizer Y, Gopu S, Weiss T (2026), Visual clutter: the role of item quantity, spatial organization, and surface complexity in model and human estimates, Journal of Vision 26(7):11 (full text read Oct 28, 2026, Europe PMC PMC13399066, CC BY-NC-ND, facts only)",
+     "url": "https://doi.org/10.1167/jov.26.7.11"
+    },
+    {
+     "label": "Huang J, et al. (2026), Binding items to contexts through conjunctive neural representations with the method of loci, Nature Communications (full text read Oct 28, 2026, Europe PMC PMC13273176, CC BY-NC-ND, facts only)",
+     "url": "https://doi.org/10.1038/s41467-026-71428-6"
     }
    ],
    "other": [
@@ -1346,87 +1354,97 @@
      "url": "https://ddw.nl/en/locations/gebouw-sff-bosch"
     },
     {
-     "label": "DDW second listing: Overload (overload-1)",
-     "url": "https://ddw.nl/en/programme/overload-1"
-    },
-    {
-     "label": "Overload project site",
+     "label": "Overload project site (read Oct 26, 2026)",
      "url": "https://tsouhaoyu.wixstudio.com/overload"
     },
     {
-     "label": "Soares (2020), dissertation, eScholarship",
-     "url": "https://escholarship.org/uc/item/01k1x4xm"
+     "label": "Vimeo oEmbed record: DDW Exhibition Version_Original (read Oct 26, 2026)",
+     "url": "https://vimeo.com/1236283141"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Unknown, [Amateur Snapshot Album], Cyanotypes; gelatin silver prints, 1890 to 92, 1997.54 (The Metropolitan Museum of Art)",
-     "credit": "Unknown, The Metropolitan Museum of Art, Funds from various donors, 1997 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/281975",
+     "what": "Illustration made for this post: line drawing of a phone whose file icons grow up into trees, with two broken blocks like ruins at the ground (after the DDW description of files growing into creatures and forests)",
+     "credit": "Drawing made for this post after the DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/overload",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Overload, cloud storage as a fantasy world: files grow into creatures, forgotten data forms ruins (DDW 2026 listing, Overload)",
-     "credit": "DDW 2026 listing, Overload",
-     "url": "https://ddw.nl/en/programme/overload",
-     "card": true
+     "what": "Illustration made for this post: in Overload's Memory Realm files move from intact to corrupted to petrified (DDW press kit)",
+     "credit": "Dutch Design Week (2026), programme page and press kit",
+     "url": "https://app-api.ddw.nl/en/programme/overload",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Giovanni Battista Piranesi, Interior of the Temple of Canopus at Hadrian's Villa, Tivoli, etching, 1748 to 1778, RP-P-1941-669",
-     "credit": "Giovanni Battista Piranesi, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Interieur-van-de-Tempel-van-de-god-Canopus-in-de-Villa-Adriana-te-Tivoli--62269c81e448b92e5f20c1e0153528d1",
+     "what": "Bar chart drawn to scale for this post: Lurie et al. (2025) Study 2, recognition 76% for art only viewed, 63% photographed, 54% screenshotted",
+     "credit": "Lurie, Fabrizio and Westerman (2025), Memory and Cognition",
+     "url": "https://doi.org/10.3758/s13421-025-01711-2",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post (not data): three panels: only looked (remembered more objects, details and locations), photographed whole (fewer), zoomed in on a part (no memory loss), from Henkel (2014)",
-     "credit": "Henkel LA (2014), Psychological Science 25(2):396-402",
-     "url": "https://doi.org/10.1177/0956797613504438",
+     "what": "Illustration made for this post: if divided attention caused the memory cost, the more complex tablet photo should cost most; the simpler screenshot cost most",
+     "credit": "Lurie, Fabrizio and Westerman (2025), Memory and Cognition",
+     "url": "https://doi.org/10.3758/s13421-025-01711-2",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Chart drawn to scale for this post: visual detail questions answered correctly out of 10: only looked 5.70, photo kept 5.79, photo deleted 5.79 (Braun et al. 2024)",
-     "credit": "Braun S, Croes M, Vaitkunaite R, et al. (2024), Proceedings of the Annual Meeting of the Cognitive Science Society 46 (CC BY 4.0)",
-     "url": "https://escholarship.org/uc/item/30n2s163",
+     "what": "Bar chart drawn to scale for this post: Bravo-Adasme et al. (2026) path weights to digital hoarding, stress 0.177, memory 0.150, enjoyment 0.107",
+     "credit": "Bravo-Adasme et al. (2026), Behavioral Sciences",
+     "url": "https://doi.org/10.3390/bs16030429",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Text card made for this post: Gebouw SFF, Strijp-S, Yuhuan Shen and Haoyu Zou · Dutch Design Week, Oct 17 to 25, 2026 · Free (DDW 2026 listing, Overload)",
-     "credit": "DDW 2026 listing, Overload",
-     "url": "https://ddw.nl/en/programme/overload",
-     "card": true
+     "what": "Illustration made for this post: a cross-sectional survey cannot show whether stress leads to digital hoarding or hoarding adds stress",
+     "credit": "Bravo-Adasme et al. (2026), Behavioral Sciences",
+     "url": "https://doi.org/10.3390/bs16030429",
+     "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Unknown maker, Engels fotoalbum met 41 foto's (English photo album for 41 photographs, cover lettered Historical Album), 1860 to 1920, RP-F-F00652 (Rijksmuseum, Amsterdam)",
-     "credit": "Unknown maker, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-F-F00652",
+     "what": "Zhang, Li and Hao (2025), Figure 1: attitudinal model of digital hoarding among Chinese Generation Z (emotional attachment, deletion barriers, uncertainty avoidance, media dependency, usefulness, ease of use)",
+     "credit": "Zhang, Li and Hao (2025), Behavioral Sciences, Figure 1 (CC BY)",
+     "url": "https://doi.org/10.3390/bs15111575",
      "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustration made for this post: active forgetting, a trace forms, forgetting pathways degrade or mask it, behaviour stays flexible (mostly fly research)",
+     "credit": "Berry, Guhle and Davis (2024), Molecular Psychiatry",
+     "url": "https://doi.org/10.1038/s41380-024-02521-9",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Text card made for this post: Gebouw SFF; Overload by Yuhuan Shen and Haoyu Zou, DDW 2026 (DDW 2026 listing)",
+     "credit": "DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/overload",
+     "card": true
     },
     {
      "where": "Story 1",
-     "what": "NASA/JPL-Caltech, Smartphone walkdown: a technician points a smartphone camera at the Perseverance rover, photograph, 2020, PIA23825 (NASA)",
-     "credit": "NASA/NASA/JPL-Caltech (NASA image, public domain)",
-     "url": "https://images.nasa.gov/details/PIA23825",
-     "card": false
+     "what": "Text card made for this post: 7:27, the length of Overload's DDW Exhibition Version on Vimeo (Vimeo record)",
+     "credit": "Vimeo record, DDW Exhibition Version_Original",
+     "url": "https://vimeo.com/1236283141",
+     "card": true
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (not data): the museum study in three steps: a guided tour, observe some objects and photograph others, a memory test where objects photographed whole were remembered less, from Henkel (2014)",
-     "credit": "Henkel LA (2014), Psychological Science 25(2):396-402",
-     "url": "https://doi.org/10.1177/0956797613504438",
+     "what": "Chart drawn to scale for this post: 21 of 35 Gen Z interviewees said deleting content caused anxiety or a sense of loss (Zhang, Li and Hao, 2025)",
+     "credit": "Zhang, Li and Hao (2025), Behavioral Sciences",
+     "url": "https://doi.org/10.3390/bs15111575",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Eberhard Cornelis Rahms, Forest view, etching on chine colle, June 1860, RP-P-OB-73.678",
-     "credit": "Eberhard Cornelis Rahms, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Bosgezicht--776bac98f0bd382fccf7a220aa137f95",
+     "what": "Illustration made for this post: the method, 45 artworks viewed in three blocks, some photographed or screenshotted, then each picked out from two look-alikes",
+     "credit": "Lurie, Fabrizio and Westerman (2025), Memory and Cognition",
+     "url": "https://doi.org/10.3758/s13421-025-01711-2",
      "card": false
     }
    ]
@@ -3058,6 +3076,10 @@
     {
      "label": "Chai, Chow and Tsuchiya (2026). International Journal for Equity in Health. doi 10.1186/s12939-026-02931-x (full text read, Europe PMC PMC13629148, CC BY-NC-ND 4.0, facts only)",
      "url": "https://doi.org/10.1186/s12939-026-02931-x"
+    },
+    {
+     "label": "Cheng C, Cheung MW, Lo BCY (2016), Relationship of health locus of control with specific health behaviours and global health appraisal: a meta-analysis and effects of moderators, Health Psychology Review 10(4):460-477 (full text read Oct 28, 2026, Europe PMC PMC5214986, CC BY-NC-ND; facts only)",
+     "url": "https://doi.org/10.1080/17437199.2016.1219672"
     }
    ],
    "other": [
@@ -3135,13 +3157,20 @@
     },
     {
      "where": "Slide 7",
+     "what": "Chart drawn to scale made for this post: largest average correlations of health locus of control with specific health behaviours (0.10; 76 samples, 76,580 adults) and with global health appraisal (0.21; 95 samples, 12,068 adults), from Cheng, Cheung and Lo (2016), Health Psychology Review 10(4):460-477",
+     "credit": "Cheng, Cheung and Lo (2016), Health Psychology Review 10(4):460-477",
+     "url": "https://doi.org/10.1080/17437199.2016.1219672",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
      "what": "Illustration made for this post: the position paper's conclusion, ownership as shifting influence spread across people and systems, which does not ask for more personal control or responsibility (Visch et al., 2026)",
      "credit": "Visch V, Bueno de Mesquita N, van Dijk S, et al. (2026), Your own Health? position paper, Medical Delta",
      "url": "https://www.medicaldelta.nl/media/t3klvofc/gezondheid-van-jezelf-position-paper-ddw.pdf",
      "card": false
     },
     {
-     "where": "Slide 8",
+     "where": "Slide 9",
      "what": "Illustration made for this post: a person's own choices and abilities alongside relatives, care staff, technology, communities and public systems, ownership as 'dynamic and distributed' (Visch et al., 2026; DDW listing)",
      "credit": "Visch V, Bueno de Mesquita N, van Dijk S, et al. (2026), Your own Health? position paper, Medical Delta; DDW 2026 listing",
      "url": "https://www.medicaldelta.nl/media/t3klvofc/gezondheid-van-jezelf-position-paper-ddw.pdf",
@@ -3784,6 +3813,14 @@
     {
      "label": "Shirani et al. (2025), Nutrients 17(18):2916, full text via Europe PMC (PMC12477836, CC BY), read Oct 15, 2026",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12477836/"
+    },
+    {
+     "label": "Harrington et al. (2012), Human and Ecological Risk Assessment 18(6):1338-1358, full text via Europe PMC (PMC3498839, open access, facts only), read Oct 28, 2026",
+     "url": "https://doi.org/10.1080/10807039.2012.722857"
+    },
+    {
+     "label": "Cardona et al. (2020), World Allergy Organization Journal 13(10):100472, full text via Europe PMC (PMC7607509, CC BY-NC-ND, facts only), read Oct 28, 2026",
+     "url": "https://doi.org/10.1016/j.waojou.2020.100472"
     }
    ],
    "other": [
@@ -3794,6 +3831,10 @@
     {
      "label": "DDW 2026 Mission Day Equal Society page",
      "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-equal-society"
+    },
+    {
+     "label": "4TU Design United (2025), Towards Inclusive Gastronomy, project page, read in full Oct 28, 2026",
+     "url": "https://www.4tu.nl/du/projects/Towards-Inclusive-Gastronomy/"
     }
    ],
    "images": [
@@ -6840,6 +6881,34 @@
     {
      "label": "Huber et al. (2016), full-text PDF (iph.nl)",
      "url": "https://www.iph.nl/assets/uploads/2020/12/bmj-open-2016-5-e010091-huber-et-al-towards-a-patient-centred-operationalisation-of-the-new-concept-of-health.pdf"
+    },
+    {
+     "label": "Smeuninx et al. (2020), J Cachexia Sarcopenia Muscle (CC BY 4.0)",
+     "url": "https://doi.org/10.1002/jcsm.12661"
+    },
+    {
+     "label": "Shen, Wang, Xue and Chen (2023), Ital J Pediatr (CC BY 4.0)",
+     "url": "https://doi.org/10.1186/s13052-023-01518-4"
+    },
+    {
+     "label": "Kal et al. (2015), PLoS One (CC BY 4.0)",
+     "url": "https://doi.org/10.1371/journal.pone.0136917"
+    },
+    {
+     "label": "Erk, Toet and Van Erp (2015), PeerJ (CC BY 4.0)",
+     "url": "https://doi.org/10.7717/peerj.1297"
+    },
+    {
+     "label": "Gauthier et al. (2022), EClinicalMedicine (CC BY 4.0)",
+     "url": "https://doi.org/10.1016/j.eclinm.2021.101239"
+    },
+    {
+     "label": "Heiland et al. (2021), Front Hum Neurosci (CC BY)",
+     "url": "https://doi.org/10.3389/fnhum.2021.719509"
+    },
+    {
+     "label": "Zhuang, Li, Qiu and Zhang (2026), Metabolites (CC BY 4.0)",
+     "url": "https://doi.org/10.3390/metabo16080528"
     }
    ],
    "other": [
@@ -6862,91 +6931,104 @@
     {
      "label": "WHO Constitution",
      "url": "https://www.who.int/about/governance/constitution"
+    },
+    {
+     "label": "4TU Design United (2026), OverDeTop",
+     "url": "https://www.4tu.nl/du/projects/overdetop/"
+    },
+    {
+     "label": "4TU Design United (2026), Moefy",
+     "url": "https://www.4tu.nl/du/projects/moefy/"
+    },
+    {
+     "label": "4TU Design United (2026), Learn like a Coach",
+     "url": "https://www.4tu.nl/du/projects/learn-like-a-coach/"
+    },
+    {
+     "label": "4TU Design United (2025), Freehabilitation",
+     "url": "https://www.4tu.nl/du/projects/Freehabilitation/"
+    },
+    {
+     "label": "4TU Design United (2025), Octoping",
+     "url": "https://www.4tu.nl/du/projects/Octoping/"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (not data): three answers to what health is: WHO 1946 complete physical, mental and social well-being; BMJ authors 2011 the ability to adapt and self manage; patients 2016 six dimensions almost equally important",
-     "credit": "WHO Constitution (1946); Huber et al. (2011), BMJ; Huber et al. (2016), BMJ Open",
-     "url": "https://openresearch-repository.anu.edu.au/items/736af4dc-f342-45d2-bbac-e360328e1ade",
+     "what": "Dot chart drawn to scale for this post: seven design projects pitched at Natlab (DDW 2026 listing; press kit 1654)",
+     "credit": "DDW 2026 listing; press kit 1654",
+     "url": "https://app-api.ddw.nl/en/programme/4tudesign-united-dialogues-4-health-wellbeing",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Natlab, Strijp-S, Eindhoven: a morning dialogue on Oct 22 (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://app-api.ddw.nl/en/programme/4tudesign-united-dialogues-4-health-wellbeing",
-     "card": true
+     "what": "Timeline made for this post from DDW press kit 1654: 09:45 welcome, 11:11 break, 12:30 network lunch",
+     "credit": "DDW 2026 press kit 1654",
+     "url": "https://app-api.ddw.nl/programme/1654/press-kit.zip",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (not data): a researcher measures a condition; an artist helps someone live alongside it; they rarely get to explain their approaches to each other",
-     "credit": "DDW 2026 listing, 4TU.Design United Dialogues 4",
-     "url": "https://app-api.ddw.nl/en/programme/4tudesign-united-dialogues-4-health-wellbeing",
+     "what": "Bar drawn to scale for this post: the OverDeTop team's own figure, children in bed for up to 95% of a hospital stay",
+     "credit": "4TU Design United, OverDeTop (2026)",
+     "url": "https://www.4tu.nl/du/projects/overdetop/",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Number card made for this post: 7 projects, set to pitch, from DCPA Care Scan to Polaris (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://app-api.ddw.nl/en/programme/4tudesign-united-dialogues-4-health-wellbeing",
-     "card": true
+     "what": "Bar chart drawn to scale from Smeuninx et al. (2020): 0.7% and 3.5% of quadriceps cross-section lost at the lowest and highest sites over 5 days of bed rest in older men",
+     "credit": "Smeuninx et al. (2020), J Cachexia Sarcopenia Muscle, CC BY 4.0",
+     "url": "https://doi.org/10.1002/jcsm.12661",
+     "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): the WHO Constitution (1946) defines health as a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity",
-     "credit": "Constitution of the World Health Organization (1946)",
-     "url": "https://www.who.int/about/governance/constitution",
+     "what": "Diagram made for this post: Moefy, where, how and aim, from the project page",
+     "credit": "4TU Design United, Moefy (2026)",
+     "url": "https://www.4tu.nl/du/projects/moefy/",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post (not data): WHO 1946 complete well-being set against Huber et al. 2011, the ability to adapt and self manage in the face of social, physical and emotional challenges",
-     "credit": "Huber et al. (2011), BMJ 343:d4163",
-     "url": "https://openresearch-repository.anu.edu.au/items/736af4dc-f342-45d2-bbac-e360328e1ade",
+     "what": "Diagram made for this post from Shen et al. (2023): children's own pain ratings did not differ; adults watching saw less distress",
+     "credit": "Shen et al. (2023), Ital J Pediatr, CC BY 4.0",
+     "url": "https://doi.org/10.1186/s13052-023-01518-4",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): in a survey of 1,938 Dutch stakeholders, patients rated all six dimensions of health almost equally important; physicians judged health more narrowly, mainly bodily functions and quality of life",
-     "credit": "Huber et al. (2016), BMJ Open 6:e010091",
-     "url": "https://bmjopen.bmj.com/content/6/1/e010091",
+     "what": "Diagram made for this post from Kal et al. (2015): outward focus gave no gain in automaticity; a trend favoured inward focus for the weaker leg",
+     "credit": "Kal et al. (2015), PLoS One, CC BY 4.0",
+     "url": "https://doi.org/10.1371/journal.pone.0136917",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Illustration made for this post (not data): the three organisers listed: Carmen Heuvelmans (University of Twente), Marthe Derkzen (Wageningen University), Karin Bogdanova (TU Delft)",
-     "credit": "DDW 2026 listing, 4TU.Design United Dialogues 4",
+     "what": "Diagram made for this post: three claims checked; tests of the designs themselves still missing",
+     "credit": "4TU project pages; Smeuninx 2020; Shen 2023; Kal 2015",
      "url": "https://app-api.ddw.nl/en/programme/4tudesign-united-dialogues-4-health-wellbeing",
-     "card": false
-    },
-    {
-     "where": "Slide 9",
-     "what": "Chart drawn to scale for this post: 49.9% of 1,938 respondents said the new concept shows a person is more than their illness; 41.8% said it asks a lot of people; 22.0% said health is mainly the absence of disease",
-     "credit": "Huber et al. (2016), BMJ Open 6:e010091, Tables 4 and 5",
-     "url": "https://bmjopen.bmj.com/content/6/1/e010091",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): 1946 WHO complete well-being; 2011 BMJ authors the ability to adapt and self manage; 2016 Dutch patients six dimensions almost equally important",
-     "credit": "WHO Constitution (1946); Huber et al. (2011); Huber et al. (2016)",
-     "url": "https://bmjopen.bmj.com/content/6/1/e010091",
+     "what": "Question frame made for this post: physio homework, done or skipped?",
+     "credit": "4TU Design United, Freehabilitation (2025)",
+     "url": "https://www.4tu.nl/du/projects/Freehabilitation/",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Chart drawn to scale for this post: the 1,938 respondents by group: 643 healthcare providers, 575 patients, 430 citizens, 106 researchers, 89 public health actors, 80 policymakers, 15 insurers",
-     "credit": "Huber et al. (2016), BMJ Open 6:e010091, Table 3",
-     "url": "https://bmjopen.bmj.com/content/6/1/e010091",
+     "what": "Bar chart drawn to scale from the Freehabilitation team's own figures: 30 minutes recommended, 15 minutes typical",
+     "credit": "4TU Design United, Freehabilitation (2025)",
+     "url": "https://www.4tu.nl/du/projects/Freehabilitation/",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): the morning as listed: 09:45 welcome, 09:50 seven project pitches, 11:30 activities with project owners, 12:00 Raising the Arch, 12:30 network lunch",
-     "credit": "DDW 2026 listing, 4TU.Design United Dialogues 4",
-     "url": "https://app-api.ddw.nl/en/programme/4tudesign-united-dialogues-4-health-wellbeing",
+     "what": "Diagram made for this post from the Freehabilitation page: hand rehab built into a toothbrush and cup",
+     "credit": "4TU Design United, Freehabilitation (2025)",
+     "url": "https://www.4tu.nl/du/projects/Freehabilitation/",
      "card": false
     }
    ]
@@ -15756,6 +15838,26 @@
     {
      "label": "Tranchant et al. (2017), Frontiers in Neuroscience, PDF",
      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00507/pdf"
+    },
+    {
+     "label": "McPherson, M. J., and McDermott, J. H. (2018), Nature Human Behaviour (Europe PMC author manuscript; facts only)",
+     "url": "https://doi.org/10.1038/s41562-017-0261-8"
+    },
+    {
+     "label": "Sala, G., and Gobet, F. (2020), Memory and Cognition (CC BY 4.0)",
+     "url": "https://doi.org/10.3758/s13421-020-01060-2"
+    },
+    {
+     "label": "Rio-Alamos et al. (2023), Eur J Investig Health Psychol Educ (CC BY 4.0)",
+     "url": "https://doi.org/10.3390/ejihpe13020024"
+    },
+    {
+     "label": "Tarr, Launay, Cohen and Dunbar (2015), Biology Letters (CC BY 4.0)",
+     "url": "https://doi.org/10.1098/rsbl.2015.0767"
+    },
+    {
+     "label": "Siedenburg et al. (2024), Scientific Reports (CC BY 4.0)",
+     "url": "https://doi.org/10.1038/s41598-024-57961-8"
     }
    ],
    "other": [
@@ -15766,49 +15868,65 @@
     {
      "label": "DDW location page: Muziek & Ko",
      "url": "https://ddw.nl/en/locations/muziek-ko"
+    },
+    {
+     "label": "Muziek&Ko (n.d.), events page",
+     "url": "https://muziekko.nl/events/"
+    },
+    {
+     "label": "Muziek&Ko (n.d.), home page",
+     "url": "https://muziekko.nl/"
+    },
+    {
+     "label": "New Music Now (n.d.), The Bell Bronzes",
+     "url": "https://newmusicnow.nl/beleef/video/the-bell-bronzes"
+    },
+    {
+     "label": "Museum Boijmans Van Beuningen (n.d.), Major Sixth in Cis",
+     "url": "https://www.boijmans.nl/en/collection/artworks/127734/major-sixth-in-cis"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Try-it frame made for this post: rest a hand on a speaker playing deep bass and notice whether you feel it before you hear it",
-     "credit": "Cameron et al. (2022), Current Biology 32(21):R1222-R1223",
-     "url": "https://doi.org/10.1016/j.cub.2022.09.035",
+     "what": "Illustration made for this post: a cone-shaped bell ringing, for Harmen Brethouwer's Bell Bronzes (Muziek&Ko)",
+     "credit": "Muziek&Ko (n.d.), events page",
+     "url": "https://muziekko.nl/events/",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Information frame made for this post: the venue was fully wheelchair accessible, with free wifi and toilets, per the DDW listing",
-     "credit": "DDW listing, Design by Resonance",
-     "url": "https://ddw.nl/en/programme/design-by-resonance",
+     "what": "Diagram made for this post: who made the Bell Bronzes and where they were shown (Muziek&Ko events page; DDW listing)",
+     "credit": "Muziek&Ko (n.d.); DDW listing",
+     "url": "https://muziekko.nl/events/",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Try-it frame made for this post: hum near a glass, a drum or a wall and notice which one buzzes back",
-     "credit": "DDW listing, Design by Resonance",
-     "url": "https://ddw.nl/en/programme/design-by-resonance",
+     "what": "Diagram made for this post: three decades of square panels and cones, then the cone as an instrument (Muziek&Ko events page)",
+     "credit": "Muziek&Ko (n.d.), events page",
+     "url": "https://muziekko.nl/events/",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Diagram made for this post from Cameron et al. (2022): the bass switched on for 2.5 minutes and off for 2.5 minutes, repeated over 55 minutes",
-     "credit": "Cameron et al. (2022), Current Biology 32(21):R1222-R1223",
-     "url": "https://doi.org/10.1016/j.cub.2022.09.035",
+     "what": "Illustration made for this post, not data: evenly spaced overtones (a string) beside uneven overtones (a bell)",
+     "credit": "McPherson and McDermott (2018), Nature Human Behaviour",
+     "url": "https://doi.org/10.1038/s41562-017-0261-8",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Bar chart drawn to scale from Cameron et al. (2022): audience movement was 11.8% higher on average with very low frequency sound on than off; a separate 17-person test found 49.8% correct, at chance",
-     "credit": "Cameron et al. (2022), Current Biology 32(21):R1222-R1223",
-     "url": "https://doi.org/10.1016/j.cub.2022.09.035",
+     "what": "Diagram made for this post from McPherson and McDermott (2018): pitch direction still judged with inharmonic tones; interval judgements broke down",
+     "credit": "McPherson and McDermott (2018), Nature Human Behaviour",
+     "url": "https://doi.org/10.1038/s41562-017-0261-8",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Diagram made for this post from Cameron et al. (2022): shown, more movement with the bass on; untested, whether the inner ear or touch carried it",
-     "credit": "Cameron et al. (2022), Current Biology 32(21):R1222-R1223",
-     "url": "https://doi.org/10.1016/j.cub.2022.09.035",
+     "what": "Diagram made for this post from McPherson and McDermott (2018): pitch uses several mechanisms; bells were not tested",
+     "credit": "McPherson and McDermott (2018), Nature Human Behaviour",
+     "url": "https://doi.org/10.1038/s41562-017-0261-8",
      "card": false
     },
     {
@@ -15820,35 +15938,35 @@
     },
     {
      "where": "Slide 8",
-     "what": "Information frame made for this post: nine days in October 2026, open 11:00 to 18:00, per the DDW listing",
-     "credit": "DDW listing, Design by Resonance",
-     "url": "https://ddw.nl/en/programme/design-by-resonance",
+     "what": "Bar chart drawn to scale from Cameron et al. (2022): audience movement was 11.8% higher on average with very low bass on; a separate 17-person detection test was at chance",
+     "credit": "Cameron et al. (2022), Current Biology 32(21):R1222-R1223",
+     "url": "https://doi.org/10.1016/j.cub.2022.09.035",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Question frame made for this post: turn the bass up and down on the next song and tell us if your feet noticed",
-     "credit": "Cameron et al. (2022), Current Biology 32(21):R1222-R1223",
-     "url": "https://doi.org/10.1016/j.cub.2022.09.035",
+     "what": "Try-it frame made for this post: tap a glass or a pan, let it ring out, count what you hear",
+     "credit": "McPherson and McDermott (2018), Nature Human Behaviour",
+     "url": "https://doi.org/10.1038/s41562-017-0261-8",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Information frame made for this post from the DDW listing: sound sculptures and furniture built around resonance",
-     "credit": "DDW listing, Design by Resonance",
-     "url": "https://ddw.nl/en/programme/design-by-resonance",
+     "what": "Question frame made for this post: one tone or a cluster of tones, for a poll on bells",
+     "credit": "Muziek&Ko (n.d.), Bell Bronzes",
+     "url": "https://muziekko.nl/events/",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Diagram made for this post from Cameron et al. (2022): people moved more when bass too low to notice was on",
-     "credit": "Cameron et al. (2022), Current Biology 32(21):R1222-R1223",
-     "url": "https://doi.org/10.1016/j.cub.2022.09.035",
+     "what": "Diagram made for this post from McPherson and McDermott (2018): uneven overtones, interval judgements failed, direction still heard",
+     "credit": "McPherson and McDermott (2018), Nature Human Behaviour",
+     "url": "https://doi.org/10.1038/s41562-017-0261-8",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Information frame made for this post from the DDW listing: Design by Resonance at Muziek&Ko, Hallenweg 7, Eindhoven",
+     "what": "Information frame made for this post from the DDW listing: Design by Resonance at Muziek&Ko, Hallenweg 7, Eindhoven, where the Bell Bronzes were shown",
      "credit": "DDW listing, Design by Resonance",
      "url": "https://ddw.nl/en/programme/design-by-resonance",
      "card": false
@@ -38660,6 +38778,22 @@
     {
      "label": "Nguyen and Luu (2021), Frontiers in Human Neuroscience, PDF",
      "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.622535/pdf"
+    },
+    {
+     "label": "Gaffney, Ryan, Loetscher, Singh and Murphy (2026), Nutrients 18(14):2338, systematic review (full text read Oct 28, 2026, Europe PMC PMC13415140, CC BY)",
+     "url": "https://doi.org/10.3390/nu18142338"
+    },
+    {
+     "label": "Zhang et al. (2026), Frontiers in Nutrition, systematic review and meta-analysis (full text read Oct 28, 2026, Europe PMC PMC13402156, CC BY 4.0)",
+     "url": "https://doi.org/10.3389/fnut.2026.1878848"
+    },
+    {
+     "label": "Pantović, Djekić, Petrović and Tomić (2025), Foods 14(18):3151 (full text read Oct 28, 2026, Europe PMC PMC12469804, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/foods14183151"
+    },
+    {
+     "label": "Stafford, Morris, Boak and Philpott (2026), PLOS ONE (full text read Oct 28, 2026, Europe PMC PMC13630209, CC BY)",
+     "url": "https://doi.org/10.1371/journal.pone.0358651"
     }
    ],
    "other": [
@@ -38700,38 +38834,38 @@
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post: the plate as the makers describe it: a shape that steers liquid to the centre and a wide rim to hold, carry, pass and tilt",
+     "what": "Illustration made for this post: JOYN as the makers describe it: a plate shaped so liquid runs to the middle, an edge broad enough to grip, and heavier cutlery; JOYN itself was not tested in the sources read",
      "credit": "DDW 2026 listing (makers' description)",
      "url": "https://ddw.nl/en/programme/joyn-inclusive-tableware",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post: the cutlery as the makers describe it: weight meant to steady the hand and give clearer touch feedback; JOYN itself was not tested in the sources read",
-     "credit": "DDW 2026 listing (makers' description)",
-     "url": "https://ddw.nl/en/programme/joyn-inclusive-tableware",
-     "card": false
-    },
-    {
-     "where": "Slide 6",
      "what": "Illustration made for this post: one session with a built-up spoon (108 g), a weighted spoon (248 g) and a wrist cuff (470 g) in 16 people with Parkinson's; no significant change in tremor amplitude or frequency, from the abstract of Meshack and Norman (2002), Clinical Rehabilitation 16(5):481-492",
      "credit": "Meshack and Norman (2002), Clinical Rehabilitation 16(5):481-492",
      "url": "https://doi.org/10.1191/0269215502cr521oa",
      "card": false
     },
     {
-     "where": "Slide 7",
+     "where": "Slide 6",
      "what": "Chart drawn to scale made for this post: mean share of food moved to the cup: plain spoon 74.3%, weighted spoon 80.7%, deep-bowl spoon 93.6%, three of the seven devices in the abstract of Adabi and Ondo (2026), Movement Disorders Clinical Practice 13(1):85-89",
      "credit": "Adabi and Ondo (2026), Movement Disorders Clinical Practice 13(1):85-89",
      "url": "https://doi.org/10.1002/mdc3.70229",
      "card": false
     },
     {
+     "where": "Slide 7",
+     "what": "Chart drawn to scale made for this post: 64 older adults across four small studies of tableware and dining rooms with more visual contrast; most reported more eating, evidence rated limited and low-quality, from Gaffney et al. (2026), Nutrients 18(14):2338",
+     "credit": "Gaffney et al. (2026), Nutrients 18(14):2338",
+     "url": "https://doi.org/10.3390/nu18142338",
+     "card": false
+    },
+    {
      "where": "Slide 8",
-     "what": "Text card made for this post: HAK Studio, JOYN, Kazerne Design Lab, Eindhoven, Dutch Design Week, Oct 17 to 25 (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/joyn-inclusive-tableware",
-     "card": true
+     "what": "Chart drawn to scale made for this post: odds ratios for depression with eating alone in older adults, 1.58 pooled and 2.13 for dinner alone, cross-sectional studies, from Zhang et al. (2026), Frontiers in Nutrition",
+     "credit": "Zhang et al. (2026), Frontiers in Nutrition",
+     "url": "https://doi.org/10.3389/fnut.2026.1878848",
+     "card": false
     },
     {
      "where": "Slide 9",
@@ -38779,6 +38913,22 @@
     {
      "label": "Houben, Brankaert, Kenning, Eggen and Bongers (2020), IJERPH 17(17):6333, full text via Europe PMC (CC BY)",
      "url": "https://europepmc.org/article/PMC/PMC7504695"
+    },
+    {
+     "label": "Fong, K. N. K., et al. (2023), American Journal of Alzheimer's Disease and Other Dementias (CC BY-NC-ND 4.0, facts only)",
+     "url": "https://doi.org/10.1177/15333175231160682"
+    },
+    {
+     "label": "Howett, D., et al. (2019), Brain (CC BY 4.0)",
+     "url": "https://doi.org/10.1093/brain/awz116"
+    },
+    {
+     "label": "Moreira, S. V., Justi, F. R. R., Gomes, C. F. A., and Moreira, M. (2023), Healthcare (CC BY 4.0)",
+     "url": "https://doi.org/10.3390/healthcare11222912"
+    },
+    {
+     "label": "Sanders, L. M. J., et al. (2019), PLoS ONE (CC BY 4.0)",
+     "url": "https://doi.org/10.1371/journal.pone.0210036"
     }
    ],
    "other": [
@@ -38793,14 +38943,18 @@
     {
      "label": "WHO Dementia fact sheet",
      "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+    },
+    {
+     "label": "TU/e Cursor (2026), Day rhythm clock wins award, Warm Technology Challenge (May 2026)",
+     "url": "https://www.cursor.tue.nl/en/campus/2026/mei/week-4/day-rhythm-clock-wins-award-warm-technology-challenge"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Houben, Brankaert, Kenning, Eggen and Bongers (2020), Figure 1: Vita, an audio cushion with conductive touchpads (a) and buttons on the reverse (b), the audio-based technology discussed in workshops with 18 care staff; made by TU/e dementia design researchers, not one of the DDW 2025 prototypes",
-     "credit": "Houben et al. (2020), IJERPH 17(17):6333, Figure 1 (CC BY 4.0)",
-     "url": "https://doi.org/10.3390/ijerph17176333",
+     "what": "Illustration made for this post, not data: daylight rising and falling across one day, for a day rhythm clock (TU/e Cursor, 2026)",
+     "credit": "TU/e Cursor (2026), Warm Technology Challenge",
+     "url": "https://www.cursor.tue.nl/en/campus/2026/mei/week-4/day-rhythm-clock-wins-award-warm-technology-challenge",
      "card": false
     },
     {
@@ -38812,41 +38966,48 @@
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post: the exhibitors' DDW workshop question, time and place, from the DDW listing and ECDT page",
-     "credit": "DDW 2025 listing; ECDT",
-     "url": "https://ecdt.nl/dutch-design-week-2025/",
-     "card": false
-    },
-    {
-     "where": "Slide 4",
-     "what": "Dots drawn to scale for this post: 57 million people living with dementia in 2021 and nearly 10 million new cases a year, one dot per million, from the WHO dementia fact sheet",
-     "credit": "World Health Organization, dementia fact sheet",
-     "url": "https://www.who.int/news-room/fact-sheets/detail/dementia",
-     "card": false
-    },
-    {
-     "where": "Slide 5",
-     "what": "Illustration made for this post: who the Aumens Compass (Rens Brankaert) is for and its one-arrow design, from the ECDT page",
-     "credit": "ECDT, Dutch Design Week 2025 page",
-     "url": "https://ecdt.nl/dutch-design-week-2025/",
-     "card": false
-    },
-    {
-     "where": "Slide 6",
-     "what": "Illustration made for this post: 18 care professionals in three workshops, the Vita sound cushion as the example, and audio technology seen as influencing mood and supporting social interaction, from Houben et al. (2020)",
-     "credit": "Houben et al. (2020), IJERPH 17(17):6333",
+     "what": "Houben, Brankaert, Kenning, Eggen and Bongers (2020), Figure 1: Vita, an audio cushion with conductive touchpads (a) and buttons on the reverse (b), the audio-based technology discussed in workshops with 18 care staff; made by TU/e dementia design researchers, not one of the DDW 2025 prototypes",
+     "credit": "Houben et al. (2020), IJERPH 17(17):6333, Figure 1 (CC BY 4.0)",
      "url": "https://doi.org/10.3390/ijerph17176333",
      "card": false
     },
     {
+     "where": "Slide 4",
+     "what": "Diagram made for this post from TU/e Cursor (2026): the three Warm Technology Challenge 2026 awards",
+     "credit": "TU/e Cursor (2026), Warm Technology Challenge",
+     "url": "https://www.cursor.tue.nl/en/campus/2026/mei/week-4/day-rhythm-clock-wins-award-warm-technology-challenge",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Diagram made for this post from TU/e Cursor (2026): the jury pick, an avatar you talk to, and the inclusion pick, a song memory game",
+     "credit": "TU/e Cursor (2026), Warm Technology Challenge",
+     "url": "https://www.cursor.tue.nl/en/campus/2026/mei/week-4/day-rhythm-clock-wins-award-warm-technology-challenge",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale from Fong et al. (2023): pooled effect of light therapy on night awakenings in dementia, SMD -0.31",
+     "credit": "Fong et al. (2023), Am J Alzheimers Dis Other Demen, CC BY-NC-ND 4.0 (facts only)",
+     "url": "https://doi.org/10.1177/15333175231160682",
+     "card": false
+    },
+    {
      "where": "Slide 7",
-     "what": "Illustration made for this post: address, opening days and hours and free entry of the exhibition, from the DDW listing",
-     "credit": "DDW 2025 listing",
-     "url": "https://ddw.nl/en/programme/archive/2025/shaping-the-future-of-care",
+     "what": "Dot chart drawn to scale from Fong et al. (2023): 11 randomised trials pooled",
+     "credit": "Fong et al. (2023), Am J Alzheimers Dis Other Demen",
+     "url": "https://doi.org/10.1177/15333175231160682",
      "card": false
     },
     {
      "where": "Slide 8",
+     "what": "Diagram made for this post: light therapy tested in trials; a day rhythm clock not yet tested (Fong et al., 2023; TU/e Cursor, 2026)",
+     "credit": "Fong et al. (2023); TU/e Cursor (2026)",
+     "url": "https://doi.org/10.1177/15333175231160682",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
      "what": "Illustration made for this post: who the exhibitors design with and their aim of support without taking away control, from the DDW listing and ECDT page",
      "credit": "DDW 2025 listing; ECDT",
      "url": "https://ddw.nl/en/programme/archive/2025/shaping-the-future-of-care",
@@ -44534,9 +44695,9 @@
     },
     {
      "where": "Slide 4",
-     "what": "Keystone View Company (B. L. Singley), Roughing it, Rocky Mountains, Colo., U.S.A., stereograph no. 2437, 1897: a tent camp in the Colorado Rockies (left half of the stereo pair)",
-     "credit": "Keystone View Company, Library of Congress Prints and Photographs Division (cropped)",
-     "url": "https://www.loc.gov/item/2018645690/",
+     "what": "Illustration made for this post: how the 2013 camping study ran, a week of electric light then a week in tents with natural light only",
+     "credit": "Wright et al. (2013), Current Biology 23(16)",
+     "url": "https://doi.org/10.1016/j.cub.2013.06.039",
      "card": false
     },
     {
