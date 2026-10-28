@@ -7,7 +7,7 @@ import { builds } from "../../lib/builds";
 export const metadata: Metadata = {
   alternates: { canonical: "/connect" },
   title: "Connect with RN",
-  description: "Contact Rayven-Nikkita (RN) Collins and find her technology builds, selected work, and published writing.",
+  description: "Contact RN Collins and find her technology builds, selected work, and published writing.",
 };
 
 export default function ConnectPage() {
@@ -20,11 +20,11 @@ export default function ConnectPage() {
 
       <header className="connectHero shell">
         <div className="connectPortrait">
-          <Image src="/rn-collins-portrait.svg" alt="Portrait of Rayven-Nikkita (RN) Collins" width={900} height={1125} priority sizes="(max-width: 800px) 100vw, 38vw" />
+          <Image src="/rn-collins-portrait.svg" alt="Portrait of RN Collins" width={900} height={1125} priority sizes="(max-width: 800px) 100vw, 38vw" />
         </div>
         <div className="connectIdentity">
           <p className="eyebrow">Connect with RN</p>
-          <h1>Rayven-Nikkita<br /><em>(RN) Collins</em></h1>
+          <h1>RN <em>Collins</em></h1>
           <p className="connectRoles">Neuroscientist · Fractional Law Clerk · AI Technologist</p>
           <p className="connectPositioning">I work across—and in between—science, law, technology, culture, and institutions. I connect the dots, reveal the gaps, and build what is missing.</p>
           <div className="connectActions" aria-label="Contact options">
