@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27",
+ "generated": "2026-10-28",
  "host": "rn-selected-work.vercel.app",
  "posts": [
   {
@@ -1840,16 +1840,16 @@
    "series": "Dutch Design Week",
    "research": [
     {
-     "label": "Dehaene et al. (2010), Science, PDF",
-     "url": "https://web.math.princeton.edu/~sswang/developmental-diaschisis-references/Science-2010-Dehaene-1359-64.pdf"
+     "label": "Dehaene-Lambertz G, Monzalvo K, Dehaene S (2018), The emergence of the visual word form: longitudinal evolution of category-specific ventral visual areas during reading acquisition, PLOS Biology 16(3):e2004103 (full text read Oct 28, 2026, Europe PMC PMC5856411, CC BY)",
+     "url": "https://doi.org/10.1371/journal.pbio.2004103"
     },
     {
-     "label": "Dehaene-Lambertz, Monzalvo and Dehaene (2018), PLOS Biology, CC BY",
-     "url": "https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.2004103"
+     "label": "Ma GYK, Mak WWS (2022), Meta-analysis of studies on the impact of mobility disability simulation programs on attitudes toward people with disabilities and environmental in/accessibility, PLoS ONE 17(6):e0269357 (full text read Oct 28, 2026, Europe PMC PMC9187118, CC BY)",
+     "url": "https://doi.org/10.1371/journal.pone.0269357"
     },
     {
-     "label": "OECD (2025) Education at a Glance, Netherlands note",
-     "url": "https://zoek.officielebekendmakingen.nl/blg-1213162.pdf"
+     "label": "Win Thu SY, Eka Pranata MA, Yeh YL, Lin FG (2025), Exploring the interplay of health literacy and non-communicable disease health outcomes in Southeast Asia: a systematic review, Iranian Journal of Public Health 54(10) (full text read Oct 28, 2026, Europe PMC PMC12675942, CC BY-NC: facts only)",
+     "url": "https://doi.org/10.18502/ijph.v54i10.20135"
     }
    ],
    "other": [
@@ -1858,102 +1858,97 @@
      "url": "https://ddw.nl/en/locations/eindhoven-library"
     },
     {
-     "label": "DDW update: DDW26",
-     "url": "https://ddw.nl/en/updates/ddw26"
+     "label": "Stichting Lezen en Schrijven (2026), Feiten en cijfers (re-opened Oct 28, 2026)",
+     "url": "https://www.lezenenschrijven.nl/voor-organisaties/feiten-en-cijfers"
     },
     {
-     "label": "Yellowchess website",
-     "url": "https://www.yellowchess.nl"
-    },
-    {
-     "label": "Hervais-Adelman et al. (2019), Science Advances, MPI record",
-     "url": "https://www.mpi.nl/publications/item3158392/learning-read-recycles-visual-cortical-networks-without-destruction"
-    },
-    {
-     "label": "Skeide et al. (2017), Science Advances, MPI record",
-     "url": "https://forms.mpi.nl/node/45577"
-    },
-    {
-     "label": "Hear Dutch Here: zien",
-     "url": "https://heardutchhere.net/verbs_zien_smartphone.html"
+     "label": "Yellowchess team page (read Oct 26, 2026)",
+     "url": "https://www.yellowchess.nl/team/"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Jan Luyken (printmaker), Willem Goeree (publisher), Syriac, Phoenician and Egyptian alphabets, etching, 1690, RP-P-1896-A-19368-820",
-     "credit": "Jan Luyken, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Syrisch-Phoenicisch-en-Egyptisch-alfabet--38b69e6f7f7e2b2eb9a93dc080fe75a4",
-     "card": false
-    },
-    {
-     "where": "Slide 2",
-     "what": "Text card made for this post: IK ZIE JE, Yellowchess · Eindhoven Library · a show about hidden struggles with reading (DDW 2026 listing, IK ZIE JE)",
-     "credit": "DDW 2026 listing, IK ZIE JE",
-     "url": "https://app-api.ddw.nl/en/programme/ik-zie-je",
+     "what": "Text card made for this post: 3 million people in the Netherlands have difficulty reading, writing and/or counting (Stichting Lezen en Schrijven)",
+     "credit": "Stichting Lezen en Schrijven (2026), facts page",
+     "url": "https://www.lezenenschrijven.nl/voor-organisaties/feiten-en-cijfers",
      "card": true
     },
     {
+     "where": "Slide 2",
+     "what": "Illustration made for this post: the route of IK ZIE JE, whispers, rooms, a host with lived experience, a mirror",
+     "credit": "Dutch Design Week (2026), programme page",
+     "url": "https://app-api.ddw.nl/en/programme/ik-zie-je",
+     "card": false
+    },
+    {
      "where": "Slide 3",
-     "what": "Cornelis Dircksz",
-     "credit": "Cornelis Dircksz. Boissens, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Schrijfvoorbeeld-de-Nederlandse-letter--458c86fc582d7abd796962332ad0e787",
+     "what": "Illustration made for this post: two more whispered lines from the installation and the Dutch original of the glasses line",
+     "credit": "Dutch Design Week (2026), programme page and press kit",
+     "url": "https://app-api.ddw.nl/en/programme/ik-zie-je",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Chart drawn to scale for this post: 63 adults, one dot each: 10 never learned to read, 22 learned as adults, 31 learned in childhood (Dehaene et al. 2010)",
-     "credit": "Dehaene S, Pegado F, Braga LW, et al. (2010), Science 330(6009):1359-1364",
-     "url": "https://doi.org/10.1126/science.1194140",
+     "what": "Illustration made for this post: the same letter read fluently and read as a wall of marks, as the installation's rooms set out to make visitors feel",
+     "credit": "Dutch Design Week (2026), programme page",
+     "url": "https://app-api.ddw.nl/en/programme/ik-zie-je",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Chart drawn to scale for this post: adults 25 to 64 at or below Level 1 literacy: Netherlands 16%, OECD average 27% (OECD 2025)",
-     "credit": "OECD (2025), Education at a Glance 2025, country note: Netherlands",
-     "url": "https://zoek.officielebekendmakingen.nl/blg-1213162.pdf",
+     "what": "Dehaene-Lambertz et al. (2018), Figure 8: schematic model of ventral visual development; before schooling, uncommitted patches; after schooling, an additional site tuned to words",
+     "credit": "Dehaene-Lambertz, Monzalvo and Dehaene (2018), PLOS Biology, Figure 8 (CC BY)",
+     "url": "https://doi.org/10.1371/journal.pbio.2004103",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Joseph-Germain Dutalis and Louis Royer, Toilet mirror, gilded silver and mirror glass, 1828 to 1829, BK-1994-34",
-     "credit": "Joseph-Germain Dutalis and Louis Royer, Rijksmuseum, Amsterdam (public domain); acquired with support from the Vereniging Rembrandt",
-     "url": "https://rijksmuseum.nl/en/collection/object/Toiletspiegel--46ec6a28cf4b6fc269255b8f697fea75",
+     "what": "Bar chart drawn to scale for this post: effect sizes after mobility disability simulations, fear and anxiety d = -1.51 (2 studies), inclusion ideas 0.24, stereotypes at follow-up 0.57 (3 studies), inclusive behaviour no clear effect",
+     "credit": "Ma and Mak (2022), PLoS ONE",
+     "url": "https://doi.org/10.1371/journal.pone.0269357",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Text card made for this post: Eindhoven Library, Yellowchess, IK ZIE JE · Oct 17 to 25, 2026 · 10:30 to 18:00 · Free (DDW 2026 listing, IK ZIE JE)",
-     "credit": "DDW 2026 listing, IK ZIE JE",
+     "what": "Chart drawn to scale for this post: the 12 studies in the meta-analysis, 8 before-and-after comparisons, 1 randomised controlled trial, 3 other designs",
+     "credit": "Ma and Mak (2022), PLoS ONE",
+     "url": "https://doi.org/10.1371/journal.pone.0269357",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustration made for this post: the foundation's yearly figures, EUR 1.13 billion societal cost and EUR 572 million missed income (PwC)",
+     "credit": "Stichting Lezen en Schrijven (2026), facts page",
+     "url": "https://www.lezenenschrijven.nl/voor-organisaties/feiten-en-cijfers",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Text card made for this post: the mirror question \"Who do you see?\", IK ZIE JE by Yellowchess, DDW 2026 (DDW programme page)",
+     "credit": "Dutch Design Week (2026), programme page",
      "url": "https://app-api.ddw.nl/en/programme/ik-zie-je",
      "card": true
     },
     {
-     "where": "Slide 8",
-     "what": "Johannes Vermeer, Woman Reading a Letter, oil on canvas, c. 1663, SK-C-251",
-     "credit": "Johannes Vermeer, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Woman-Reading-a-Letter--8e9e02c8045362ffb2171b2fb52953ba",
-     "card": false
-    },
-    {
      "where": "Story 1",
-     "what": "Simon Frisius after Jan van de Velde (I), Writing sample: the alphabet in four lines of capitals, engraving, 1605, RP-P-1964-2146",
-     "credit": "Simon Frisius after Jan van de Velde (I), Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://rijksmuseum.nl/en/collection/RP-P-1964-2146",
+     "what": "Illustration made for this post: E42 Eindhoven Library, Emmasingel 22, Dutch Design Week 17 to 25 October 2026, free",
+     "credit": "Dutch Design Week (2026), programme page",
+     "url": "https://app-api.ddw.nl/en/programme/ik-zie-je",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (not data): people who learned to read in childhood and people who learned as adults showed most of the same reading-linked brain changes, from Dehaene et al. (2010)",
-     "credit": "Dehaene S, Pegado F, Braga LW, et al. (2010), Science 330(6009):1359-1364",
-     "url": "https://doi.org/10.1126/science.1194140",
+     "what": "Illustration made for this post: the foundation counts difficulty with reading, writing and/or arithmetic",
+     "credit": "Stichting Lezen en Schrijven (2026), facts page",
+     "url": "https://www.lezenenschrijven.nl/voor-organisaties/feiten-en-cijfers",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "James Stokes, Looking Glass, 1795 to 1800, 1994.421 (The Metropolitan Museum of Art)",
-     "credit": "James Stokes, The Metropolitan Museum of Art, Purchase, The Virginia and Leonard Marx Foundation Gift, 1994 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/14933",
+     "what": "Illustration made for this post: the mirror's two questions, the visitor first, then the people not yet seen",
+     "credit": "Dutch Design Week (2026), programme page",
+     "url": "https://app-api.ddw.nl/en/programme/ik-zie-je",
      "card": false
     }
    ]
@@ -9377,105 +9372,111 @@
    "series": "Dutch Design Week",
    "research": [
     {
-     "label": "Abrams and Christ (2003), Psychological Science, abstract (WashU profile) [full read before posting]",
-     "url": "https://profiles.wustl.edu/en/publications/motion-onset-captures-attention/"
+     "label": "Cornelio P, Haggard P, Hornbaek K, et al. (2022), The sense of agency in emerging technologies for human-computer integration: a review, Frontiers in Neuroscience 16:949138 (full text read Oct 28, 2026, Europe PMC PMC9511170, CC BY)",
+     "url": "https://doi.org/10.3389/fnins.2022.949138"
     },
     {
-     "label": "Abrams and Christ (2003), PubMed abstract [full read before posting]",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/12930472/"
+     "label": "Attwood JE, Kennard C, Harris J, Humphreys G, Antoniades CA (2018), A comparison of change blindness in real-world and on-screen viewing of museum artefacts, Frontiers in Psychology 9:151 (full text read Oct 28, 2026, Europe PMC PMC5820331, CC BY)",
+     "url": "https://doi.org/10.3389/fpsyg.2018.00151"
     },
     {
-     "label": "Simons, Franconeri and Reimer (2000), Perception, abstract (SAGE) [full read before posting]",
-     "url": "https://journals.sagepub.com/doi/10.1068/p3104"
+     "label": "Krach S, Hegel F, Wrede B, Sagerer G, Binkofski F, Kircher T (2008), Can machines think? Interaction and perspective taking with robots investigated via fMRI, PLoS ONE 3(7):e2597 (full text read Oct 28, 2026, Europe PMC PMC2440351, CC BY)",
+     "url": "https://doi.org/10.1371/journal.pone.0002597"
     },
     {
-     "label": "Kellogg School record: Simons et al. (2000)",
-     "url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2000/change-blindness-in-the-absence-of-a-visual-disruption"
+     "label": "Lv J, Zhang J, Zhang C, et al. (2026), Revisiting the watching-eyes effect in the Ultimatum Game: the role of public self-awareness, Behavioral Sciences 16(7):1177 (full text read Oct 28, 2026, Europe PMC PMC13405611, CC BY)",
+     "url": "https://doi.org/10.3390/bs16071177"
+    },
+    {
+     "label": "Han DR, Sabran K (2025), Effects of video-based natural restorative environments on mental health: a systematic review, BMC Public Health 25:2423 (full text read Oct 28, 2026, Europe PMC PMC12243412, CC BY)",
+     "url": "https://doi.org/10.1186/s12889-025-21730-7"
     }
    ],
-   "other": [],
+   "other": [
+    {
+     "label": "Emit Light (2026), Lightwall page and about page (read in full Oct 26, 2026)",
+     "url": "https://www.emit-light.com/lightwall"
+    },
+    {
+     "label": "Mellen G (2026), CSUF collaboration uses AI to help visitors get personal with art installation, Orange County Register, Feb 10, 2026 (read in full Oct 26, 2026)",
+     "url": "https://www.ocregister.com/2026/02/10/csuf-collaboration-uses-ai-to-help-visitors-get-personal-with-art-installation/"
+    }
+   ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (not data): sudden changes such as motion onset draw the eye; gradual changes can slip past",
-     "credit": "Abrams and Christ (2003); Simons, Franconeri and Reimer (2000)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/12930472/",
+     "what": "Illustration made for this post: line drawing of a hand-cut white paper pattern with a prism splitting a beam of light, after the DDW and Emit Light descriptions",
+     "credit": "Drawing made for this post after the DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/lightwall-1",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Illustration made for this post (not data): in three experiments, letters that had just started to move drew attention; steady motion did not",
-     "credit": "Abrams and Christ (2003), Psychological Science 14",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/12930472/",
+     "what": "Illustration made for this post: a visitor moves, locally run AI on a custom motherboard responds, motorised prisms and beam splitters move the light",
+     "credit": "Dutch Design Week (2026), programme page",
+     "url": "https://app-api.ddw.nl/en/programme/lightwall-1",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (not data): with gradual enough change and no blink or cut, large changes can go undetected",
-     "credit": "Simons, Franconeri and Reimer (2000), Perception 29",
-     "url": "https://journals.sagepub.com/doi/10.1068/p3104",
+     "what": "Illustration made for this post: where the work computes (in the room) and what it keeps (nothing, per Emit Light)",
+     "credit": "Emit Light (2026), Lightwall page",
+     "url": "https://www.emit-light.com/lightwall",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post (not data): people caught more changes when a disruption was added than when the change was smooth and gradual",
-     "credit": "Simons, Franconeri and Reimer (2000), Perception 29",
-     "url": "https://journals.sagepub.com/doi/10.1068/p3104",
+     "what": "Illustration made for this post: the sense of agency, a voluntary action, sensed evidence of an effect, the feeling that the effect is mine",
+     "credit": "Cornelio et al. (2022), Frontiers in Neuroscience",
+     "url": "https://doi.org/10.3389/fnins.2022.949138",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): tested: letters and scenes on screens in a lab; not tested: art in a gallery",
-     "credit": "Abrams and Christ (2003); Simons, Franconeri and Reimer (2000)",
-     "url": "https://journals.sagepub.com/doi/10.1068/p3104",
+     "what": "Attwood et al. (2018), Figure 3: levels of change blindness in real-world and on-screen viewing for each of 12 pairs of museum artefacts and the overall mean (chart)",
+     "credit": "Attwood, Kennard, Harris, Humphreys and Antoniades (2018), Frontiers in Psychology, Figure 3 (CC BY)",
+     "url": "https://doi.org/10.3389/fpsyg.2018.00151",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Text card made for this post: Emit Light, kinetic prisms shift light over hand-cut white paper (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://app-api.ddw.nl/en/programme/lightwall-1",
-     "card": true
+     "what": "Attwood et al. (2018), Figure 4: change blindness for each pair of artefacts, real-world and on-screen combined, and the overall mean (chart)",
+     "credit": "Attwood, Kennard, Harris, Humphreys and Antoniades (2018), Frontiers in Psychology, Figure 4 (CC BY)",
+     "url": "https://doi.org/10.3389/fpsyg.2018.00151",
+     "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): locally run AI on a custom motherboard steers motorised beam splitters and prisms that shift light over hand-cut white paper as visitors move",
-     "credit": "DDW 2026 listing, Lightwall",
-     "url": "https://app-api.ddw.nl/en/programme/lightwall-1",
+     "what": "Illustration made for this post: the four partners in order of human-likeness, computer, functional robot, humanoid robot, human; activity in social brain areas rose along this order",
+     "credit": "Krach et al. (2008), PLoS ONE",
+     "url": "https://doi.org/10.1371/journal.pone.0002597",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Text card made for this post: United Cowboys, Art House, Eindhoven, Oct 17 to 25 (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://app-api.ddw.nl/en/programme/lightwall-1",
+     "what": "Text card made for this post: remember or forget? Lightwall by Rita Sus (Emit Light), DDW 2026",
+     "credit": "Emit Light (2026), Lightwall page",
+     "url": "https://www.emit-light.com/lightwall",
      "card": true
     },
     {
-     "where": "Slide 9",
-     "what": "Illustration made for this post (not data): a glance catches sudden changes; lingering may let slow changes show",
-     "credit": "Abrams and Christ (2003); Simons, Franconeri and Reimer (2000)",
-     "url": "https://journals.sagepub.com/doi/10.1068/p3104",
-     "card": false
-    },
-    {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): a sudden start grabs attention; a slow change can slip past",
-     "credit": "Abrams and Christ (2003); Simons, Franconeri and Reimer (2000)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/12930472/",
-     "card": false
+     "what": "Text card made for this post: \"Talk to the wall.\", the first Lightwall in Escondido, 2026 (OC Register)",
+     "credit": "Orange County Register (2026), Feb 10",
+     "url": "https://www.ocregister.com/2026/02/10/csuf-collaboration-uses-ai-to-help-visitors-get-personal-with-art-installation/",
+     "card": true
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (not data): with no blink and no cut, a gradual enough change lets large changes go undetected",
-     "credit": "Simons, Franconeri and Reimer (2000), Perception 29",
-     "url": "https://journals.sagepub.com/doi/10.1068/p3104",
+     "what": "Illustration made for this post: the California version talked and listened; the DDW version reacts to movement",
+     "credit": "OC Register (2026); DDW (2026)",
+     "url": "https://app-api.ddw.nl/en/programme/lightwall-1",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): Lightwall by Rita Sus and Zach Rattner: light, colour and shadow move over hand-cut white paper",
-     "credit": "DDW 2026 listing, Lightwall",
+     "what": "Timeline made for this post: Lightwall at Art House United Cowboys, Kleine Berg 62, 17 to 25 October 2026, 11:00 to 18:00",
+     "credit": "Dutch Design Week (2026), programme page",
      "url": "https://app-api.ddw.nl/en/programme/lightwall-1",
      "card": false
     }
@@ -38982,69 +38983,86 @@
    "origin": {
     "kind": "listing",
     "label": "See the work on the Dutch Design Week programme",
-    "url": "https://ddw.nl/en/programme/archive/2025/nieuw-zwanenburg-x-wdka"
+    "url": "https://ddw.nl/en/programme/farming-future-foundations"
    },
    "series": "Dutch Design Week",
-   "research": [],
+   "research": [
+    {
+     "label": "Liu, Zuo, Zhao and Lu (2025), Frontiers in Psychology (CC BY 4.0, full text, Europe PMC PMC12411960)",
+     "url": "https://doi.org/10.3389/fpsyg.2025.1658797"
+    },
+    {
+     "label": "Grailey, Murray, Reader and Brett (2021), BMC Health Services Research (CC BY 4.0, full text, Europe PMC PMC8344175)",
+     "url": "https://doi.org/10.1186/s12913-021-06740-6"
+    },
+    {
+     "label": "Smith, Cordoza and Basner (2022), Environmental Health Perspectives (public domain, full text, Europe PMC PMC9272916)",
+     "url": "https://doi.org/10.1289/EHP10197"
+    },
+    {
+     "label": "Kampfer, Leischnig, Ivens and Spence (2017), PLoS ONE (CC BY, full text, Europe PMC PMC5636136)",
+     "url": "https://doi.org/10.1371/journal.pone.0186121"
+    }
+   ],
    "other": [
     {
-     "label": "Rijkswaterstaat news, Jan 2025",
-     "url": "https://rijkswaterstaat.nl/en/news/archive/2025/01/the-materials-of-tomorrow-grow-on-land"
+     "label": "DDW 2025 archive: Nieuw Zwanenburg x WdKA, Harvest of Dreams; press kit 488",
+     "url": "https://ddw.nl/en/programme/archive/2025/nieuw-zwanenburg-x-wdka"
     },
     {
-     "label": "Dutch Design Daily, Sept 2025",
-     "url": "https://dutchdesigndaily.com/?p=117793"
-    },
-    {
-     "label": "Nieuw Zwanenburg site",
+     "label": "Nieuw Zwanenburg site (Dutch)",
      "url": "https://www.nieuwzwanenburg.nl"
     },
     {
-     "label": "Chen et al. (2020) abstract (TU/e portal, CC BY)",
-     "url": "https://research.tue.nl/en/publications/bio-based-ultra-lightweight-concrete-applying-miscanthus-fibers-a/"
+     "label": "TNO Vector, Nieuw Zwanenburg article (Dutch)",
+     "url": "https://vector.tno.nl/artikelen/nieuw-zwanenburg-duurzame-oplossingen/"
+    },
+    {
+     "label": "Rijkswaterstaat news, Jan 2025",
+     "url": "https://rijkswaterstaat.nl/en/news/archive/2025/01/the-materials-of-tomorrow-grow-on-land"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Photograph of Miscanthus × longiberbis (Czechia), by Jonáš Gaigr, iNaturalist observation 341679210 via GBIF occurrence 6179203475; the genus of the fiber crop the students used",
-     "credit": "Jonáš Gaigr, iNaturalist via GBIF (CC BY 4.0)",
-     "url": "https://www.gbif.org/occurrence/6179203475",
+     "what": "RN Collins, white crates of apples, roots and dried flax stalks with tall dried plants, Building TX, Strijp T+R, photograph, 18 October 2026 (trip; RN to confirm the show is Farming Future Foundations)",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_circular-furniture-studio-and-halls/PH-5CB993A9.jpg",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Miscanthus, herbarium specimen BOTANYXLX3812106 (Naturalis Biodiversity Center), the genus of the fiber crop the students used",
-     "credit": "Naturalis Biodiversity Center via Europeana (CC0)",
-     "url": "https://www.europeana.eu/item/1390/BOTANYXLX3812106",
+     "what": "RN Collins, crates of crops and tall dried grass plumes against a concrete wall, Building TX, Strijp T+R, photograph, 18 October 2026 (trip; RN to confirm the show is Farming Future Foundations)",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_circular-furniture-studio-and-halls/PH-BEA3114A.jpg",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post: Nieuw Zwanenburg, a 17th-century farmstead in Oirschot that Rijkswaterstaat bought to widen the A58 and that is now a field lab on 10 hectares",
-     "credit": "Rijkswaterstaat (2025); Nieuw Zwanenburg; DDW 2025 listing",
-     "url": "https://rijkswaterstaat.nl/en/news/archive/2025/01/the-materials-of-tomorrow-grow-on-land",
+     "what": "RN Collins, crates of apples, a beet and dried stalks before printed botanical panels, Building TX, Strijp T+R, photograph, 18 October 2026 (trip; RN to confirm the show is Farming Future Foundations)",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_circular-furniture-studio-and-halls/PH-090DA0CE.jpg",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Text card made for this post: Viaducts, roads, locks, built with crops from Dutch farmland: the students' question (DDW 2025 listing)",
-     "credit": "DDW 2025 listing",
-     "url": "https://ddw.nl/en/programme/archive/2025/nieuw-zwanenburg-x-wdka",
-     "card": true
+     "what": "Illustration made for this post: a timeline of the farmstead, the DDW 2022 talk, the 2025 students and the 2026 show",
+     "credit": "Nieuw Zwanenburg; TNO Vector; DDW (2025, 2026)",
+     "url": "https://www.nieuwzwanenburg.nl",
+     "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Text card made for this post: Field barn and shed, curated by Tjeerd Veenhoven; sound barriers by Natrufied, Terrestrial and Urban Reef (DDW 2025 listing)",
-     "credit": "DDW 2025 listing",
-     "url": "https://ddw.nl/en/programme/archive/2025/nieuw-zwanenburg-x-wdka",
-     "card": true
+     "what": "Illustration made for this post: three tests at Nieuw Zwanenburg, a fibre bridge, a motorway barrier and a plant binder in asphalt",
+     "credit": "Nieuw Zwanenburg (n.d.), home page",
+     "url": "https://www.nieuwzwanenburg.nl",
+     "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Chart drawn to scale made for this post: sound absorption coefficient of 0.9 at low frequencies for ultra-lightweight concrete with miscanthus fibers, on a scale from 0 to 1",
-     "credit": "Chen, Wu, Yu and Brouwers (2020), Cement and Concrete Composites 114:103829",
-     "url": "https://doi.org/10.1016/j.cemconcomp.2020.103829",
+     "what": "Illustration made for this post: Nieuw Zwanenburg, a 17th-century farmstead in Oirschot that Rijkswaterstaat bought to widen the A58 and that is now a field lab on 10 hectares",
+     "credit": "Rijkswaterstaat (2025); Nieuw Zwanenburg; DDW 2025 listing",
+     "url": "https://rijkswaterstaat.nl/en/news/archive/2025/01/the-materials-of-tomorrow-grow-on-land",
      "card": false
     },
     {
@@ -39056,30 +39074,30 @@
     },
     {
      "where": "Slide 8",
-     "what": "Photograph of Miscanthus × longiberbis (Germany), by Markus Krieger, iNaturalist observation 20009311 via GBIF occurrence 3031847411; the genus of the fiber crop the students used",
-     "credit": "Markus Krieger, iNaturalist via GBIF (CC BY 4.0)",
-     "url": "https://www.gbif.org/occurrence/3031847411",
+     "what": "Photograph of Miscanthus × longiberbis (Czechia), by Jonáš Gaigr, iNaturalist observation 341679210 via GBIF occurrence 6179203475; the genus of the fiber crop the students used",
+     "credit": "Jonáš Gaigr, iNaturalist via GBIF (CC BY 4.0)",
+     "url": "https://www.gbif.org/occurrence/6179203475",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Photograph of Miscanthus sinensis (France), by Patrick Le Mao, iNaturalist observation 406108337 via GBIF occurrence 6579168406; the genus of the fiber crop the students used",
-     "credit": "Patrick Le Mao, iNaturalist via GBIF (CC0)",
-     "url": "https://www.gbif.org/occurrence/6579168406",
+     "what": "RN Collins, dried flax stalks, grass plumes and crates of fruit, seen from the side, Building TX, Strijp T+R, photograph, 18 October 2026 (trip; RN to confirm the show is Farming Future Foundations)",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_circular-furniture-studio-and-halls/PH-6727F5B8.jpg",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post: density 554 kg per cubic metre, thermal conductivity 0.09 W per metre-kelvin and absorption 0.9 at low frequencies, from the abstract",
-     "credit": "Chen, Wu, Yu and Brouwers (2020), Cement and Concrete Composites 114:103829",
-     "url": "https://doi.org/10.1016/j.cemconcomp.2020.103829",
+     "what": "Illustration made for this post: the asphalt binder today and the plant binder being tested",
+     "credit": "Nieuw Zwanenburg (n.d.), home page",
+     "url": "https://www.nieuwzwanenburg.nl",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Photograph of Miscanthus sinensis (United States), by swords, iNaturalist observation 335292690 via GBIF occurrence 6159287960; the genus of the fiber crop the students used",
-     "credit": "swords, iNaturalist via GBIF (CC0)",
-     "url": "https://www.gbif.org/occurrence/6159287960",
+     "what": "RN Collins, a long hall with tall windows and a wooden bench, Building TX, Strijp T+R, photograph, 18 October 2026 (trip; the hall is in Building TX; its link to the show is a guess)",
+     "credit": "Photo: RN Collins",
+     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/stills/ddw/10-18_circular-furniture-studio-and-halls/PH-3F0A27C8.jpg",
      "card": false
     }
    ]
