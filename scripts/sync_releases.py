@@ -76,7 +76,7 @@ def build(existing):
         for f in files:
             for p in posts(f"sources-{f}.json"):
                 add(f"{acct}/{p['slug']}", p["date"], p.get("origin"), f"/sources/{acct}/{p['slug']}")
-    for p in posts("sources-tfh.json"):
+    for p in posts("sources-tfh.json") + posts("sources-tfh-rnc.json"):
         add(f"tfh/{p['slug']}", p["date"], p.get("origin"), f"/sources/tfh/{p['slug']}")
 
     ids = [r["id"] for r in rows]

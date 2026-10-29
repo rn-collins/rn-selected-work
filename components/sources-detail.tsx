@@ -30,7 +30,7 @@ function Links({ items }: { items: SourceLink[] }) {
 const AAN_INTRO = "The studies, records and images behind this post, each linked to the original. Where a slide shows a number card, the number is quoted from the study named on the card.";
 
 // `links` (the piece's link set, components/piece-links.tsx) takes the place of the plain back link when given.
-export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = AAN_INTRO, social = "aan", links }: { p: SourcePost; eyebrow: string; meta: string; backHref: string; backLabel: string; intro?: string; social?: "rn" | "aan"; links?: ReactNode }) {
+export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = AAN_INTRO, social = "aan", links, clientLine = true }: { p: SourcePost; eyebrow: string; meta: string; backHref: string; backLabel: string; intro?: string; social?: "rn" | "aan"; links?: ReactNode; clientLine?: boolean }) {
   return (
       <article className={`${styles.page} shell`}>
         <p className="eyebrow">{eyebrow}</p>
@@ -81,7 +81,7 @@ export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = A
           <p>{social === "aan" ? "Follow Ask a Neuroscientist" : "Follow RN Collins"}</p>
           <SocialRow set={social} />
         </section>
-        <ClientLine />
+        {clientLine && <ClientLine />}
         {links ?? <p className={styles.back}><Link href={backHref}>{backLabel}</Link></p>}
       </article>
   );
