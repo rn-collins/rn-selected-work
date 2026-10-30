@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28",
+ "generated": "2026-10-30",
  "host": "rn-selected-work.vercel.app",
  "posts": [
   {
@@ -1614,6 +1614,18 @@
     {
      "label": "Marsh, Kanngiesser and Hood (2018), Cognition, Nottingham repository (CC BY)",
      "url": "https://nottingham-repository.worktribe.com/OutputFile/902996"
+    },
+    {
+     "label": "NCS Colour (2026), Ways of Seeing press release PDF (read in full in the FNM pass, Oct 26, 2026; re-read Oct 28, 2026)",
+     "url": "https://cdn.shopify.com/s/files/1/0755/7775/3921/files/DDW_Press_Release.pdf?v=1790865422"
+    },
+    {
+     "label": "Izuma K, Murayama K (2013), Choice-induced preference change in the free-choice paradigm: a critical methodological review, Frontiers in Psychology 4:41 (full text read Oct 28, 2026, Europe PMC PMC3566335, CC BY)",
+     "url": "https://doi.org/10.3389/fpsyg.2013.00041"
+    },
+    {
+     "label": "Bowler DE, Buyung-Ali LM, Knight TM, Pullin AS (2010), A systematic review of evidence for the added benefits to health of exposure to natural environments, BMC Public Health 10:456 (full text read Oct 28, 2026, Europe PMC PMC2924288, CC BY)",
+     "url": "https://doi.org/10.1186/1471-2458-10-456"
     }
    ],
    "other": [
@@ -1632,85 +1644,89 @@
     {
      "label": "Sabesan et al. (2016), Science Advances, eScholarship record",
      "url": "https://escholarship.org/uc/item/1t9252st"
+    },
+    {
+     "label": "NCS Colour (2026), Ways of Seeing at Dutch Design Week, event page (read in full in the FNM pass, Oct 26, 2026; re-read Oct 28, 2026)",
+     "url": "https://ncscolour.com/pages/dutch-design-week-2026"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Leidsche Katoen Maatschappij, Sample book with swatches 1 to 876, c. 1900, object 10716",
-     "credit": "Museum De Lakenhal, Leiden (public domain)",
-     "url": "https://www.lakenhal.nl/en/collection/10716",
+     "what": "Illustration made for this post: one sheer fabric panel lit warm from the left and cool from the right, each half taking a different tint",
+     "credit": "Drawing made for this post after the NCS Colour press release and event page (2026)",
+     "url": "https://cdn.shopify.com/s/files/1/0755/7775/3921/files/DDW_Press_Release.pdf?v=1790865422",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Leidsche Katoen Maatschappij, Sample book C 1900 with swatches 119 to 5053, 1900, object 10723",
-     "credit": "Museum De Lakenhal, Leiden (public domain)",
-     "url": "https://www.lakenhal.nl/en/collection/10723",
+     "what": "Illustration made for this post: two translucent rectangles, yellow and blue, overlapping into a third tone (generic colours, no NCS codes)",
+     "credit": "Drawing made for this post after the NCS Colour press release and event page (2026)",
+     "url": "https://cdn.shopify.com/s/files/1/0755/7775/3921/files/DDW_Press_Release.pdf?v=1790865422",
      "card": false
     },
     {
      "where": "Slide 3",
+     "what": "Illustration made for this post: a band of sheer strips from soft yellows and peach to pinks and blues, as the NCS event page describes the room (generic colours, no NCS codes)",
+     "credit": "Drawing made for this post after the NCS Colour event page (2026)",
+     "url": "https://ncscolour.com/pages/dutch-design-week-2026",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
      "what": "Illustration made for this post (not data): three panels for the S, M and L cones, most sensitive to short, medium and long wavelengths, from Roorda and Williams (1999)",
      "credit": "Roorda A, Williams DR (1999), Nature 397:520-522",
      "url": "https://doi.org/10.1038/17383",
      "card": false
     },
     {
-     "where": "Slide 4",
+     "where": "Slide 5",
      "what": "Chart drawn to scale for this post: one bar of 100%: 57% blue and black, 30% white and gold, 13% other answers, of 1,401 people (Lafer-Sousa et al. 2015)",
      "credit": "Lafer-Sousa R, Hermann KL, Conway BR (2015), Current Biology 25(13):R545-R546",
      "url": "https://doi.org/10.1016/j.cub.2015.04.053",
      "card": false
     },
     {
-     "where": "Slide 5",
+     "where": "Slide 6",
      "what": "Illustration made for this post (not data): three steps: researchers shaped assumptions about the lighting, people saw the dress photo, the colours they saw followed the assumed light, from Witzel et al. (2017)",
      "credit": "Witzel C, Racey C, O'Regan JK (2017), Journal of Vision 17(2):1",
      "url": "https://doi.org/10.1167/17.2.1",
      "card": false
     },
     {
-     "where": "Slide 6",
+     "where": "Slide 7",
      "what": "Illustration made for this post (not data): adults bid more for a storage box they built than an identical ready-made one (Norton et al. 2012); the bias appears at about age 5 (Marsh et al. 2018)",
      "credit": "Norton MI, Mochon D, Ariely D (2012), Journal of Consumer Psychology 22(3):453-460; Marsh LE, Kanngiesser P, Hood B (2018), Cognition 170:245-253",
      "url": "https://doi.org/10.1016/j.jcps.2011.08.002",
      "card": false
     },
     {
-     "where": "Slide 7",
-     "what": "Text card made for this post: Ways of Seeing, NCS Colour, Other Degree, Rive Roshan and Cooloo · Piet Hein Eek, Strijp T+R, Eindhoven · Oct 17 to 25, 2026 (DDW 2026 listing, Ways of Seeing)",
-     "credit": "DDW 2026 listing, Ways of Seeing",
-     "url": "https://ddw.nl/en/programme/ways-of-seeing",
-     "card": true
-    },
-    {
      "where": "Slide 8",
-     "what": "Leidsche Katoen Maatschappij, Stalenboek II (sample book II), c. 1900, object 4708.2: twenty folded samples of imitation batik with quality labels",
-     "credit": "Leidsche Katoen Maatschappij, Museum De Lakenhal, Leiden (public domain)",
-     "url": "https://www.lakenhal.nl/en/collection/4708-2",
+     "what": "Illustration made for this post: a doorway opening onto receding sheer layers in warm and cool tints",
+     "credit": "Drawing made for this post after the NCS Colour press release and event page (2026)",
+     "url": "https://cdn.shopify.com/s/files/1/0755/7775/3921/files/DDW_Press_Release.pdf?v=1790865422",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Chart drawn to scale for this post: 57% saw the dress as blue and black, 30% as white and gold, of 1,401 people (Lafer-Sousa et al. 2015)",
-     "credit": "Lafer-Sousa R, Hermann KL, Conway BR (2015), Current Biology 25(13):R545-R546",
-     "url": "https://doi.org/10.1016/j.cub.2015.04.053",
+     "what": "Illustration made for this post: two translucent circles overlapping, the overlap marked with a question mark for the viewer's guess (generic colours)",
+     "credit": "Drawing made for this post after the NCS Colour press release and event page (2026)",
+     "url": "https://cdn.shopify.com/s/files/1/0755/7775/3921/files/DDW_Press_Release.pdf?v=1790865422",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (not data): built it yourself: higher bids; ready-made: lower bids, from Norton et al. (2012)",
-     "credit": "Norton MI, Mochon D, Ariely D (2012), Journal of Consumer Psychology 22(3):453-460",
-     "url": "https://doi.org/10.1016/j.jcps.2011.08.002",
+     "what": "Illustration made for this post: the authors' hypothesis, a bluish-sky assumption discounts shorter waves and a lamp-light assumption discounts longer waves",
+     "credit": "Lafer-Sousa R, Hermann KL, Conway BR (2015), Current Biology 25(13)",
+     "url": "https://doi.org/10.1016/j.cub.2015.04.053",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Text card made for this post: Piet Hein Eek, Ways of Seeing · Strijp T+R, Eindhoven · Oct 17 to 25, 2026 (DDW 2026 listing, Ways of Seeing)",
-     "credit": "DDW 2026 listing, Ways of Seeing",
-     "url": "https://ddw.nl/en/programme/ways-of-seeing",
-     "card": true
+     "what": "Chart drawn to scale for this post: twelve dots, one per shade in the room, picked by Rive Roshan",
+     "credit": "NCS Colour (2026), event page",
+     "url": "https://ncscolour.com/pages/dutch-design-week-2026",
+     "card": false
     }
    ]
   },
@@ -1719,12 +1735,8 @@
    "date": "2026-11-09",
    "id": "CLRA5",
    "title": "Why does fear stick in PTSD? Brain imaging, extinction and a psilocybin safety trial in PTSD",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-collins-series-2-no-10-veteran-access-to-state-licensed-psychedelic-services/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -2488,12 +2500,8 @@
    "date": "2026-11-15",
    "id": "CLRA1",
    "title": "Can a brain scan show a thought? Altered states and the line between thinking and doing",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-collins-series-3-no-4-the-cognitive-liberty-claim-schedule-i-prohibition-neurological-autonomy-and-the-constitutional-lacuna-at-the-boundary-of-thought-and-conduct/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -3328,124 +3336,119 @@
    "series": "Dutch Design Week",
    "research": [
     {
-     "label": "Crisinel et al. (2012), abstract, ORA",
-     "url": "https://ora.ox.ac.uk/objects/uuid:9568cf5c-6e08-4800-88f6-e9df2c82888d"
+     "label": "Mainetto E, Westwater ML, Ziauddeen H, Diederen KMJ, Fletcher PC (2026), Expectation modulates hedonic experiences and midbrain responses to sweet flavor, Journal of Neuroscience 46 (full text read Oct 28, 2026, Europe PMC PMC13022526, CC BY)",
+     "url": "https://doi.org/10.1523/JNEUROSCI.1121-25.2026"
     },
     {
-     "label": "Spence and Deroy (2013), i-Perception",
-     "url": "https://journals.sagepub.com/doi/10.1068/i0577ic"
+     "label": "Khorisantono PA, Veldhuizen MG, Seubert J (2025), Tastes and retronasal odours evoke a shared flavour-specific neural code in the human insula, Nature Communications (full text read Oct 28, 2026, Europe PMC PMC12432251, CC BY)",
+     "url": "https://doi.org/10.1038/s41467-025-63803-6"
     },
     {
-     "label": "Guedes et al. (2023), Food Quality and Preference, open access",
-     "url": "https://repositorio.iscte-iul.pt/bitstream/10071/29265/1/article_97383.pdf"
+     "label": "Diepeveen J, Moerdijk-Poortvliet TCW, van der Leij FR (2022), Molecular insights into human taste perception and umami tastants: a review, Journal of Food Science (full text read Oct 28, 2026, Europe PMC PMC9314127, CC BY)",
+     "url": "https://doi.org/10.1111/1750-3841.16101"
     },
     {
-     "label": "Spence (2015), Flavour, CC BY 4.0",
-     "url": "https://flavourjournal.biomedcentral.com/track/pdf/10.1186/s13411-015-0031-3"
+     "label": "Hutelin Z, et al. (2026), Nature Metabolism (full text read Oct 28, 2026, Europe PMC PMC13690601, CC BY-NC-ND, facts only)",
+     "url": "https://doi.org/10.1038/s42255-026-01619-4"
+    },
+    {
+     "label": "Pramudya RC, Seo HS (2019), Hand-feel touch cues and their influences on consumer perception and behavior, Foods 8(7):259 (full text read, Europe PMC PMC6678767, CC BY; via plan P003)",
+     "url": "https://doi.org/10.3390/foods8070259"
+    },
+    {
+     "label": "Pantovic I, et al. (2025), Foods (full text read, Europe PMC PMC12469804, CC BY; via plan P003)",
+     "url": "https://doi.org/10.3390/foods14183151"
     }
    ],
    "other": [
     {
-     "label": "DDW 2026 location page: Sprout Coffee Roasters & Aroma Records",
-     "url": "https://ddw.nl/en/locations/sprout-coffee-roasters-aroma-records"
-    },
-    {
-     "label": "DDW 2026 dates",
-     "url": "https://ddw.nl/en/updates/ddw26"
-    },
-    {
-     "label": "DDW 2025 archive: Phygital Seasoning",
-     "url": "https://ddw.nl/en/programme/archive/2025/phygital-seasoning"
-    },
-    {
-     "label": "S+T+ARTS Hungry EcoCities: Sensesbit x Laila Snevele",
-     "url": "https://starts.eu/hungryecocities/ppe/sensesbit-laila-snevele"
-    },
-    {
-     "label": "Mediamatic: Phygital Seasoning",
-     "url": "https://www.mediamatic.net/nl/page/393037/phygital-seasoning"
-    },
-    {
-     "label": "Wang, Woods and Spence (2015), i-Perception, DOAJ record",
-     "url": "https://doaj.org/article/9db7a015fd3742a2b4768e2fd21aa3bf"
+     "label": "Sensoverse (2026), Phygital Seasoning project page (read Oct 26, 2026)",
+     "url": "https://www.sensoverse.eu/portfolio-1/phygital-seasoning"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "S. W., London, Sweetmeat dish, Silver, 1627 to 28, 1974.28.154 (The Metropolitan Museum of Art)",
-     "credit": "S. W., London, The Metropolitan Museum of Art, Bequest of Irwin Untermyer, 1973 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/205657",
+     "what": "Illustration made for this post: line drawing of one plate with the same three cubes of food under a headset, set across a pink room with round shapes and a green room with spiky shapes",
+     "credit": "Drawing made for this post after the DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/phygital-seasoning",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Phygital Seasoning, Laila Snevele · one base food, many tastes, through digital seasoning (DDW 2026 listing, Phygital Seasoning)",
-     "credit": "DDW 2026 listing, Phygital Seasoning",
+     "what": "Timeline made for this post: Digital Seasoning put the five basic tastes on a screen (2018), an installation at DDW 2025, the research on show at DDW 2026",
+     "credit": "Dutch Design Week (2026); Sensoverse (2026)",
      "url": "https://app-api.ddw.nl/en/programme/phygital-seasoning",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Text card made for this post: Five shapers, colour · shape · smell · sound · umami (DDW 2026 listing, Phygital Seasoning)",
-     "credit": "DDW 2026 listing, Phygital Seasoning",
-     "url": "https://app-api.ddw.nl/en/programme/phygital-seasoning",
-     "card": true
+     "what": "Illustration made for this post: the prototype in four parts, visuals and sound, a gesture changes the scene, aroma joins in, the plate stays the same",
+     "credit": "Sensoverse (2026), Phygital Seasoning project page",
+     "url": "https://www.sensoverse.eu/portfolio-1/phygital-seasoning",
+     "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Unknown maker, Base of the brain, anatomical illustration, A012650 (National Library of Medicine)",
-     "credit": "National Library of Medicine, Digital Collections (public domain)",
-     "url": "https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101434272-img",
+     "what": "Chart drawn to scale for this post: about 80% of tasting participants at DDW 2025 reported a shift in flavour perception, as reported by the maker; no neutral control is reported",
+     "credit": "Sensoverse (2026), Phygital Seasoning project page (maker-reported)",
+     "url": "https://www.sensoverse.eu/portfolio-1/phygital-seasoning",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): the same cinder toffee was rated more bitter with a bitter soundtrack than with a sweet one, from Crisinel et al. (2012)",
-     "credit": "Crisinel AS, Cosser S, King S, et al. (2012), Food Quality and Preference 24(1):201-204",
-     "url": "https://doi.org/10.1016/j.foodqual.2011.08.009",
+     "what": "Illustration made for this post: in the scanner a cue predicted sugar or sweetener; for 27 adults the two tasted alike, and their answers depended largely on expectation",
+     "credit": "Mainetto et al. (2026), Journal of Neuroscience",
+     "url": "https://doi.org/10.1523/JNEUROSCI.1121-25.2026",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post (not data): sweet and bitter soundtracks changed chocolate ratings only when people heard both, not when each heard one, from Guedes et al. (2023)",
-     "credit": "Guedes D, Prada M, Lamy E, Garrido MV (2023), Food Quality and Preference 110:104964",
-     "url": "https://doi.org/10.1016/j.foodqual.2023.104964",
+     "what": "Illustration made for this post: after learning flavour pairs, odours delivered through the mouth alone evoked insula patterns like those of the paired tastes",
+     "credit": "Khorisantono, Veldhuizen and Seubert (2025), Nature Communications",
+     "url": "https://doi.org/10.1038/s41467-025-63803-6",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post: where Phygital Seasoning has been shown, Next Nature Museum, Eindhoven, at Dutch Design Week 2025 and Sprout Coffee Roasters & Aroma Records (venue G11) at Dutch Design Week 2026 (DDW listings)",
-     "credit": "Dutch Design Week 2025 archive and 2026 listing",
-     "url": "https://app-api.ddw.nl/en/programme/phygital-seasoning",
+     "what": "Illustration made for this post: a two by two test design, sweet or neutral scene crossed with the nose open or clipped, so the visuals can be judged without smell",
+     "credit": "Test design suggested by this post (after Khorisantono et al., 2025)",
+     "url": "https://doi.org/10.1523/JNEUROSCI.1121-25.2026",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Philips Galle after Frans Floris (I), Muziek, engraving, RP-P-OB-6911: seven musicians around a table, six playing lutes, lyre, bagpipe, shawm and flute while a woman sings",
-     "credit": "Philips Galle after Frans Floris, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-P-OB-6911",
+     "what": "Illustration made for this post: a yes or no question invites a yes; a 1 to 9 rating scale measures how big a change is",
+     "credit": "Test design suggested by this post (after Mainetto et al., 2026)",
+     "url": "https://doi.org/10.1523/JNEUROSCI.1121-25.2026",
      "card": false
     },
     {
+     "where": "Slide 9",
+     "what": "Text card made for this post: G11 Sprout; Phygital Seasoning by Laila Snevele (SENSOVERSE), DDW 2026 (DDW 2026 listing)",
+     "credit": "DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/phygital-seasoning",
+     "card": true
+    },
+    {
      "where": "Story 1",
-     "what": "Illustration made for this post: the show's claim as its listing puts it: colour, shape, smell, sound and umami shape the final sensory experience, and one base food gives many tastes through digital seasoning (DDW 2026 listing)",
-     "credit": "Dutch Design Week 2026 listing, Phygital Seasoning",
+     "what": "Text card made for this post: one food, many digital seasonings, Phygital Seasoning (DDW 2026 listing)",
+     "credit": "DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/phygital-seasoning",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Illustration made for this post: the quiz, round shapes or spiky shapes",
+     "credit": "Phygital Seasoning, DDW 2026 press kit",
      "url": "https://app-api.ddw.nl/en/programme/phygital-seasoning",
      "card": false
     },
     {
-     "where": "Story 2",
-     "what": "Illustration made for this post (not data): the toffee test: four pieces of cinder toffee, two soundtracks in random order, rated more bitter with the bitter soundtrack, from Crisinel et al. (2012)",
-     "credit": "Crisinel AS, Cosser S, King S, et al. (2012), Food Quality and Preference 24(1):201-204",
-     "url": "https://doi.org/10.1016/j.foodqual.2011.08.009",
-     "card": false
-    },
-    {
      "where": "Story 3",
-     "what": "Unknown maker, Queen Anne spice box, Walnut; poplar; ash, ca. 1750, 2014.527 (The Metropolitan Museum of Art)",
-     "credit": "Unknown maker, The Metropolitan Museum of Art, Purchase, William Cullen Bryant Fellows Gifts, 2014 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/653054",
+     "what": "Illustration made for this post: the cues the maker's text lists as making food seem sweeter, round shapes, soft textures, pink and red, sweet aromas, light sounds",
+     "credit": "Phygital Seasoning, DDW 2026 press kit",
+     "url": "https://app-api.ddw.nl/en/programme/phygital-seasoning",
      "card": false
     }
    ]
@@ -6183,12 +6186,8 @@
    "date": "2026-12-13",
    "id": "CLRA15",
    "title": "What is THCA, and why does heat turn it into THC?",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/r-n-collins-federal-schedule-iii-and-state-cannabis-systems-legislative-brief-series/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -6225,10 +6224,6 @@
     }
    ],
    "other": [
-    {
-     "label": "RN Collins. RN Collins: Bill Tracker: Cannabis Enforcement Reforms in 2026 State Legislatures. Cannabis Law Report, Mar 16, 2026.",
-     "url": "https://cannabislaw.report/rn-collins-bill-tracker-cannabis-enforcement-reforms-in-2026-state-legislatures/"
-    },
     {
      "label": "USDA. 7 CFR 990.1, Meaning of terms (Domestic Hemp Production Program), eCFR as of Oct 1, 2026.",
      "url": "https://www.ecfr.gov/current/title-7/part-990/section-990.1"
@@ -6340,7 +6335,36 @@
     "url": "https://ddw.nl/en/programme/huis-een-installatie-over-drempels"
    },
    "series": "Dutch Design Week",
-   "research": [],
+   "research": [
+    {
+     "label": "Carcel-Lopez M-D, Ferrando-Prieto M (2026), Describing pre-post changes observed during the implementation of a Snoezelen program in a real-school context, European Journal of Investigation in Health, Psychology and Education 16(5):62 (full text read Oct 28, 2026, Europe PMC PMC13205858, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/ejihpe16050062"
+    },
+    {
+     "label": "Frederiksen MR, Stoy K, Mataric M (2026), Frontiers in Robotics and AI (full text read Oct 28, 2026, Europe PMC PMC13642002, CC BY 4.0)",
+     "url": "https://doi.org/10.3389/frobt.2026.1810778"
+    },
+    {
+     "label": "Johnson C et al. (2026), Autism 30(11):2725-2738 (full text read Oct 28, 2026, Europe PMC PMC13687619, CC BY 4.0)",
+     "url": "https://doi.org/10.1177/13623613261460932"
+    },
+    {
+     "label": "McFadyen J et al. (2021), BMC Psychology 9:41 (full text read Oct 28, 2026, Europe PMC PMC7938580, CC BY 4.0)",
+     "url": "https://doi.org/10.1186/s40359-021-00536-3"
+    },
+    {
+     "label": "Locke M et al. (2026), BMC Public Health (full text read Oct 15, 2026, Europe PMC PMC13173912, CC BY-NC-ND, facts only)",
+     "url": "https://doi.org/10.1186/s12889-026-27201-x"
+    },
+    {
+     "label": "Abungin L et al. (2026), Health Promotion International (full text read Oct 15, 2026, Europe PMC PMC12778329, CC BY)",
+     "url": "https://doi.org/10.1093/heapro/daaf237"
+    },
+    {
+     "label": "Firkin CJ, Rechner L, Obrusnikova I (2024), Delaware Journal of Public Health 10(1):74-83 (full text read Oct 15, 2026, Europe PMC PMC10987020, CC BY-NC-ND, facts only)",
+     "url": "https://doi.org/10.32481/djph.2024.03.09"
+    }
+   ],
    "other": [
     {
      "label": "DDW listing by ID (16744)",
@@ -6374,79 +6398,79 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Anonymous photographer (Leiden), clichémaker possibly Joseph Maes, Staircase for the Town Hall of Leiden (Trap voor het Stadhuis van Leiden), collotype and photolithograph, c. 1876 to before 1881, RP-F-2001-7-1741-73",
-     "credit": "Anonymous photographer, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-F-2001-7-1741-73",
+     "what": "Illustration made for this post (not data): room to move and room to rest, from the listing's description",
+     "credit": "DDW 2026 listing, Huis",
+     "url": "https://app-api.ddw.nl/en/programme/huis-een-installatie-over-drempels",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Huis, a play installation on wheels by Studio Kars en Boom and RAUM · Dutch Design Week (Studio Kars + Boom, RAUM project page)",
-     "credit": "Studio Kars + Boom, RAUM project page",
-     "url": "https://www.karsenboom.com/raum",
-     "card": true
+     "what": "Illustration made for this post (not data): where Huis stood and its access, from the listing",
+     "credit": "DDW 2026 listing, Huis",
+     "url": "https://app-api.ddw.nl/en/programme/huis-een-installatie-over-drempels",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Number card made for this post: 50+ children, with and without disabilities, helped shape the design (Studio Kars + Boom, RAUM project page)",
-     "credit": "Studio Kars + Boom, RAUM project page",
-     "url": "https://www.karsenboom.com/raum",
-     "card": true
+     "what": "Dot chart drawn to scale for this post: at least 50 children contributed, over 150 observed (DDW listing)",
+     "credit": "DDW 2026 listing, Huis",
+     "url": "https://app-api.ddw.nl/en/programme/huis-een-installatie-over-drempels",
+     "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Possibly Dionys van Nijmegen, View of a garden with an open door in the foreground (Gezicht in een tuin met op de voorgrond een openstaande deur), pencil, 1715 to 1798, RP-T-1968-313(R)",
-     "credit": "Possibly Dionys van Nijmegen, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Gezicht-in-een-tuin-met-op-de-voorgrond-een-openstaande-deur--a0dbeadc75682a34a58488c9494b356d",
+     "what": "Illustration made for this post (not data): how the school multisensory room study ran (Carcel-Lopez and Ferrando-Prieto 2026)",
+     "credit": "Carcel-Lopez and Ferrando-Prieto (2026), EJIHPE 16(5):62",
+     "url": "https://doi.org/10.3390/ejihpe16050062",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Fragment of silk relief velvet, anonymous, 1600, BK-NM-3711-A",
-     "credit": "Fragment of silk relief velvet, 1600, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/BK-NM-3711-A",
+     "what": "Illustration made for this post (not data): which of the three scales changed (Carcel-Lopez and Ferrando-Prieto 2026)",
+     "credit": "Carcel-Lopez and Ferrando-Prieto (2026), EJIHPE 16(5):62",
+     "url": "https://doi.org/10.3390/ejihpe16050062",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Anonymous photographer, Bench designed by Mathieu Lauweriks (Bank naar ontwerp van Mathieu Lauweriks), mahogany salon bench for J.P.W. Schuurman, The Hague, collodion silver print, c. 1910, RP-F-00-5412-21",
-     "credit": "Anonymous photographer, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-F-00-5412-21",
+     "what": "Illustration made for this post (not data): a one-group design and what a firmer test adds (Carcel-Lopez and Ferrando-Prieto 2026)",
+     "credit": "Carcel-Lopez and Ferrando-Prieto (2026), EJIHPE 16(5):62",
+     "url": "https://doi.org/10.3390/ejihpe16050062",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Johann Thomas Hauer, Door with painters' attributes (Deur met schildersattributen), design for a panelled door, etching and engraving, 1781, RP-P-1964-1406 (no figures)",
-     "credit": "Johann Thomas Hauer, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Deur+met+schildersattributen--d75ee2b408a02bdc3c758c72422a05b0",
+     "what": "Illustration made for this post (not data): what has and has not been tested",
+     "credit": "Carcel-Lopez and Ferrando-Prieto (2026); FNM search",
+     "url": "https://doi.org/10.3390/ejihpe16050062",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Anonymous, Bedroom in the Museum Plantin-Moretus, Antwerp (Slaapkamer in Museum Plantin-Moretus), collotype, c. 1892 to before 1897, RP-F-2001-7-1403-54",
-     "credit": "Anonymous, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/nl/collectie/object/Slaapkamer-in-Museum-Plantin-Moretus--5e2c49fbffa410554a2841d5f02c1430",
+     "what": "Dot chart drawn to scale for this post: 200 children in Het Straatscherm, 50+ in Huis (karsenboom.com/raum; DDW listing)",
+     "credit": "Studio Kars + Boom, RAUM project page; DDW 2026 listing",
+     "url": "https://www.karsenboom.com/raum",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Anonymous, Toy tricycle in the form of a horse (Speelgoeddriewieler in de vorm van een paard), hand-coloured lithograph, 1850 to 1900, RP-F-F14335",
-     "credit": "Anonymous, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-F-F14335",
+     "what": "Illustration made for this post (not data): Huis at E8, opening and closing days and hours (DDW listing)",
+     "credit": "DDW 2026 listing, Huis",
+     "url": "https://app-api.ddw.nl/en/programme/huis-een-installatie-over-drempels",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Attributed to Cornelis Johannes Lodewicus Vermeulen, Bedroom in the Vermeulen family house on Toussaintkade, The Hague, gelatin silver print, c. 1910 to 1915, RP-F-2004-86-39",
-     "credit": "Attributed to C.J.L. Vermeulen, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-F-2004-86-39",
-     "card": false
+     "what": "Number card made for this post: over 150 children observed (DDW 2026 listing)",
+     "credit": "DDW 2026 listing, Huis",
+     "url": "https://app-api.ddw.nl/en/programme/huis-een-installatie-over-drempels",
+     "card": true
     },
     {
      "where": "Story 3",
-     "what": "Tuinbank in Marotstijl (garden bench in Marot style), design Daniel Marot (I), stained pine, c. 1700 to c. 1750, BK-16480",
-     "credit": "After a design by Daniel Marot (I), Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://rijksmuseum.nl/en/collection/BK-16480",
+     "what": "Illustration made for this post (not data): methods that helped autistic pupils take part (Johnson et al. 2026)",
+     "credit": "Johnson et al. (2026), Autism",
+     "url": "https://doi.org/10.1177/13623613261460932",
      "card": false
     }
    ]
@@ -6631,6 +6655,26 @@
     {
      "label": "Baird et al. (2012), Psychological Science, full text",
      "url": "https://www.cmhp.ucsb.edu/sites/default/files/2018-12/Baird%20et%20al.%20%282012%29%20Inspired%20by%20distraction.pdf"
+    },
+    {
+     "label": "He J-W, Tu Z-H, Xiao L, Su T, Tang Y-X (2020), Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working memory: a randomized pilot trial, PLOS ONE 15(2):e0228756 (full text read Oct 28, 2026, Europe PMC PMC7010281, CC BY 4.0)",
+     "url": "https://doi.org/10.1371/journal.pone.0228756"
+    },
+    {
+     "label": "Ross et al. (2025), Scientific Reports (full text read Oct 28, 2026, Europe PMC PMC12639163, CC BY-NC-ND 4.0, facts only)",
+     "url": "https://doi.org/10.1038/s41598-025-25174-2"
+    },
+    {
+     "label": "Schaupp et al. (2026), PLOS ONE (full text read Oct 28, 2026, Europe PMC PMC12998852, CC BY 4.0)",
+     "url": "https://doi.org/10.1371/journal.pone.0342906"
+    },
+    {
+     "label": "Holtzman et al. (2021), Journal of Social and Personal Relationships (full text read Oct 28, 2026, Europe PMC PMC8669216, CC BY-NC 4.0, facts only)",
+     "url": "https://doi.org/10.1177/02654075211043296"
+    },
+    {
+     "label": "Kawashima I, Hinuma T, Tanaka SC (2023), Scientific Reports 13:2873 (full text read Oct 15, 2026, PMC9938857, CC BY)",
+     "url": "https://doi.org/10.1038/s41598-023-29854-9"
     }
    ],
    "other": [
@@ -6649,70 +6693,67 @@
     {
      "label": "Pileggi et al. (2025), CogSci proceedings, CC BY 4.0",
      "url": "https://escholarship.org/uc/item/61s0x8ks"
+    },
+    {
+     "label": "caitybegg.com home, speaking and press pages; Spotify show page; TEDxPrincetonU page (read Oct 26, 2026, per ddw/fnm-exhaustive/public/P386.md)",
+     "url": "https://www.caitybegg.com"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "NASA, Smartphone Video Guidance Sensor test operations: astronaut Nicole Mann with two Astrobee robots carrying smartphones, photograph, 2022, iss068e020703 (NASA)",
-     "credit": "NASA/Nicole Mann (NASA image, public domain)",
-     "url": "https://images.nasa.gov/details/iss068e020703",
-     "card": false
-    },
-    {
-     "where": "Slide 2",
-     "what": "Chart drawn to scale for this post: 35% of people in Caitlin Begg's recent study said they could easily go 24 hours without a phone (DDW listing)",
-     "credit": "DDW 2026 listing, Stuck in the Screen? In Defense of Drifting (Caitlin Begg)",
-     "url": "https://app-api.ddw.nl/en/programme/stuck-in-the-screen-in-defense-of-drifting",
-     "card": false
-    },
-    {
-     "where": "Slide 3",
      "what": "Chart drawn to scale for this post: 92% check their phone on waking; 5% sleep with it outside the bedroom; figures as the talk listing gives them, no source named",
      "credit": "DDW 2026 listing, Stuck in the Screen? In Defense of Drifting (Caitlin Begg)",
      "url": "https://app-api.ddw.nl/en/programme/stuck-in-the-screen-in-defense-of-drifting",
      "card": false
     },
     {
+     "where": "Slide 2",
+     "what": "Illustration made for this post (not data): which listing figures name a study",
+     "credit": "DDW 2026 listing, Stuck in the Screen? In Defense of Drifting (Caitlin Begg)",
+     "url": "https://app-api.ddw.nl/en/programme/stuck-in-the-screen-in-defense-of-drifting",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Dot chart drawn to scale for this post: 19 students per group (He et al. 2020)",
+     "credit": "He J, Tu Z, Xiao L, Su T, Tang Y (2020), PLOS ONE 15(2):e0228756",
+     "url": "https://doi.org/10.1371/journal.pone.0228756",
+     "card": false
+    },
+    {
      "where": "Slide 4",
-     "what": "Illustration made for this post (not data): across 11 studies, people asked to sit 6 to 15 minutes with nothing to do but think typically did not enjoy it (Wilson et al. 2014)",
-     "credit": "Wilson TD, Reinhard DA, Westgate EC, et al. (2014), Science 345(6192):75-77",
-     "url": "https://doi.org/10.1126/science.1250830",
+     "what": "Illustration made for this post (not data): what changed after four weeks (He et al. 2020)",
+     "credit": "He J, Tu Z, Xiao L, Su T, Tang Y (2020), PLOS ONE 15(2):e0228756",
+     "url": "https://doi.org/10.1371/journal.pone.0228756",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Fox et al. (2014), Frontiers in Psychology, Figure 1: histograms of how people rated just thinking: enjoyment, boredom and mind wandering, from Wilson et al",
-     "credit": "Fox KCR, Thompson E, Andrews-Hanna JR, Christoff K (2014), Frontiers in Psychology 5, Figure 1 (CC BY 4.0)",
-     "url": "https://doi.org/10.3389/fpsyg.2014.01427",
+     "what": "Illustration made for this post (not data): who took part and how sleep was measured (He et al. 2020)",
+     "credit": "He J, Tu Z, Xiao L, Su T, Tang Y (2020), PLOS ONE 15(2):e0228756",
+     "url": "https://doi.org/10.1371/journal.pone.0228756",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Robbert Muys after Gerard Sandifort, Anatomie van het hoofd (Anatomy of the head), cross-section of the inside of the human head, etching and engraving, 1752 to 1825, RP-P-1906-268",
-     "credit": "Robbert Muys after Gerard Sandifort, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-P-1906-268",
+     "what": "Illustration made for this post (not data): how the phone habit study collected its data (Ross et al. 2025)",
+     "credit": "Ross et al. (2025), Scientific Reports",
+     "url": "https://doi.org/10.1038/s41598-025-25174-2",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): people who took a break with an easy task that let minds wander improved more on creative problems they had already seen (Baird et al. 2012)",
-     "credit": "Baird B, Smallwood J, Mrazek MD, et al. (2012), Psychological Science 23(10):1117-1122",
-     "url": "https://doi.org/10.1177/0956797612446024",
+     "what": "Illustration made for this post (not data): what the map study covered and did not (Ross et al. 2025)",
+     "credit": "Ross et al. (2025), Scientific Reports",
+     "url": "https://doi.org/10.1038/s41598-025-25174-2",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Text card made for this post: Caitlin Begg, Stuck in the Screen? In Defense of Drifting · Piet Hein Eek, Eindhoven · Dutch Design Week (DDW 2026 listing, Stuck in the Screen? In Defense of Drifting (Caitlin Begg))",
-     "credit": "DDW 2026 listing, Stuck in the Screen? In Defense of Drifting (Caitlin Begg)",
+     "what": "Illustration made for this post (not data): a phone within reach or out of reach at night",
+     "credit": "Illustration made for this post; DDW 2026 listing",
      "url": "https://app-api.ddw.nl/en/programme/stuck-in-the-screen-in-defense-of-drifting",
-     "card": true
-    },
-    {
-     "where": "Slide 9",
-     "what": "Matthys Maris, Reverie, Oil on canvas, 1875, 92.1.49 (The Metropolitan Museum of Art)",
-     "credit": "Matthys Maris, The Metropolitan Museum of Art, Bequest of Elizabeth U. Coles, in memory of her son, William F. Coles, 1892 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/436975",
      "card": false
     },
     {
@@ -6724,16 +6765,16 @@
     },
     {
      "where": "Story 2",
-     "what": "Attributed to Willem Geets, Jonge vrouw nadenkend aan een schrijftafel (Young woman thinking at a writing table), etching, 1887, RP-P-1910-3362",
-     "credit": "Attributed to Willem Geets, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Jonge-vrouw-nadenkend-aan-een-schrijftafel--c71cd751c0797480afcc0bd41494b883",
-     "card": false
+     "what": "Number card made for this post: the listing's 5% figure, no source named",
+     "credit": "DDW 2026 listing, Stuck in the Screen? In Defense of Drifting (Caitlin Begg)",
+     "url": "https://app-api.ddw.nl/en/programme/stuck-in-the-screen-in-defense-of-drifting",
+     "card": true
     },
     {
      "where": "Story 3",
-     "what": "Anonymous after Kitagawa Utamaro, Lezende vrouw (Woman reading), colour woodcut, 1900 to 1999, RP-P-2015-26-1905",
-     "credit": "Anonymous after Kitagawa Utamaro, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-P-2015-26-1905",
+     "what": "Illustration made for this post (not data): the trial's steps (He et al. 2020)",
+     "credit": "He J, Tu Z, Xiao L, Su T, Tang Y (2020), PLOS ONE 15(2):e0228756",
+     "url": "https://doi.org/10.1371/journal.pone.0228756",
      "card": false
     }
    ]
@@ -7050,16 +7091,16 @@
      "url": "https://www.centropiaggio.unipi.it/sites/default/files/course/material/articoli_tatto.pdf"
     },
     {
-     "label": "Sadato et al. (1996), Nature 380:526-528 [full read before posting]",
-     "url": "https://www.nature.com/articles/380526a0"
-    },
-    {
      "label": "Siuda-Krzywicka et al. (2016), eLife 5:e10762, CC BY 4.0 (full PDF, LJMU repository)",
      "url": "https://researchonline.ljmu.ac.uk/id/eprint/13251/1/SiudaKrzywicka_2016.pdf"
     },
     {
      "label": "Siuda-Krzywicka et al. (2016), LJMU record",
      "url": "https://researchonline.ljmu.ac.uk/id/eprint/13251/"
+    },
+    {
+     "label": "Ernst, A., Bertrand, J. M. F., Voltzenlogel, V., Souchay, C., & Moulin, C. J. A. (2021). The Proust Machine. Frontiers in Psychology 11:623910 (full text read Oct 28, 2026, Europe PMC PMC7854910, CC BY)",
+     "url": "https://doi.org/10.3389/fpsyg.2020.623910"
     }
    ],
    "other": [
@@ -7072,91 +7113,87 @@
      "url": "https://ddw.nl/en/updates/ddw26"
     },
     {
-     "label": "Cohen et al. (1997), Nature 389:180-183 (abstract, RePEc)",
-     "url": "https://ideas.repec.org/a/nat/nature/v389y1997i6647d10.1038_38278.html"
-    },
-    {
-     "label": "Goldreich and Kanics (2003), Journal of Neuroscience 23:3439-3445 (abstract, McMaster)",
-     "url": "https://experts.mcmaster.ca/scholarly-works/182682"
+     "label": "Innovation in Textiles (2024), Young designers in the spotlight at Heimtextil 2024 (read in full); Messe Frankfurt Heimtextil University Contest press release (German, read in full)",
+     "url": "https://www.innovationintextiles.com/young-designers-in-the-spotlight-at-heimtextil-2024"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Unknown maker, Tactile map of the rivers and mountain ranges of Iberia in Braille, embossed paper on board, c. 1910 to 1930, Escuela de Ciegos de la Casa P. de Caridad, Barcelona, espanya:2829 (Cartographic and Geological Institute of Catalonia)",
-     "credit": "Cartographic and Geological Institute of Catalonia via Europeana (public domain)",
-     "url": "https://www.europeana.eu/item/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_espanya____2829_ent0",
+     "what": "Illustration made for this post: line drawing of a translucent curtain with rows of invented raised dots and bars; not the maker's notation",
+     "credit": "Drawing made for this post after the DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/tactile-notation-1",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Silk curtains, with a notation you read by touch, by Svenja Bremen (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
+     "what": "Illustration made for this post: information, a self-developed notation system, flocked and wooden marks on silk",
+     "credit": "Dutch Design Week (2026), Tactile Notation listing",
      "url": "https://app-api.ddw.nl/en/programme/tactile-notation-1",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (not data): information translated by a self-developed notation system into sequences of flocked and wooden marks on silk, read by touch while the curtain still works as a curtain",
-     "credit": "DDW 2026 listing, Tactile Notation (Svenja Bremen)",
+     "what": "Illustration made for this post: the textile keeps its job as a curtain and also carries marks to decode",
+     "credit": "Dutch Design Week (2026), Tactile Notation listing",
      "url": "https://app-api.ddw.nl/en/programme/tactile-notation-1",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Chart drawn to scale for this post: about 100 Merkel-type (SA1) touch fibres per square centimetre of fingertip skin, drawn as 100 dots",
+     "what": "Illustration made for this post: a fingertip outline with a row of touch endings near the surface, labelled SA1 fibres end in Merkel cells; schematic",
      "credit": "Johnson (2001), Current Opinion in Neurobiology 11",
      "url": "https://www.centropiaggio.unipi.it/sites/default/files/course/material/articoli_tatto.pdf",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): in Braille readers blind from early life, tactile discrimination such as Braille reading activated visual cortex; a simple touch with nothing to tell apart did not",
-     "credit": "Sadato et al. (1996), Nature 380",
-     "url": "https://www.nature.com/articles/380526a0",
-     "card": false
-    },
-    {
-     "where": "Slide 6",
      "what": "Siuda-Krzywicka et al. 2016, eLife, Figure 1: study design and brain regions activated by tactile Braille reading before and after a 9-month course",
      "credit": "Siuda-Krzywicka et al. (2016), eLife 5:e10762, Figure 1 (CC BY 4.0)",
      "url": "https://elifesciences.org/articles/10762",
      "card": false
     },
     {
-     "where": "Slide 7",
-     "what": "Text card made for this post: KEVN, Strijp T+R, Eindhoven, Oct 17 to 25 (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://app-api.ddw.nl/en/programme/tactile-notation-1",
-     "card": true
-    },
-    {
-     "where": "Slide 8",
+     "where": "Slide 6",
      "what": "Siuda-Krzywicka et al. 2016, eLife, Figure 4: magnetic stimulation of the visual word form area lowered accuracy in reading Braille words by touch",
      "credit": "Siuda-Krzywicka et al. (2016), eLife 5:e10762, Figure 4 (CC BY 4.0)",
      "url": "https://elifesciences.org/articles/10762",
      "card": false
     },
     {
-     "where": "Story 1",
-     "what": "Unknown maker, Tactile provincial map of Spain in Braille, embossed paper on board, c. 1910 to 1930, Escuela de Ciegos de la Casa P. de Caridad, Barcelona, espanya:2830 (Cartographic and Geological Institute of Catalonia)",
-     "credit": "Cartographic and Geological Institute of Catalonia via Europeana (public domain)",
-     "url": "https://www.europeana.eu/item/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_espanya____2830_ent0",
+     "where": "Slide 7",
+     "what": "Illustration made for this post: what the DDW listing states and what it does not",
+     "credit": "Dutch Design Week (2026), Tactile Notation listing",
+     "url": "https://app-api.ddw.nl/en/programme/tactile-notation-1",
      "card": false
     },
     {
+     "where": "Slide 8",
+     "what": "Illustration made for this post: a seen pattern and a felt layer, for the closing question",
+     "credit": "Dutch Design Week (2026), Tactile Notation listing",
+     "url": "https://app-api.ddw.nl/en/programme/tactile-notation-1",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Quiz card made for this post from Johnson (2001)",
+     "credit": "Johnson (2001), Current Opinion in Neurobiology 11",
+     "url": "https://www.centropiaggio.unipi.it/sites/default/files/course/material/articoli_tatto.pdf",
+     "card": true
+    },
+    {
      "where": "Story 2",
-     "what": "Chart drawn to scale for this post: a single SA1 fibre resolves detail of 0.5 mm though its receptive field is 2 to 3 mm across",
+     "what": "Chart drawn to scale for this post: about 100 SA1 touch fibres in one square centimetre of fingertip, one dot each",
      "credit": "Johnson (2001), Current Opinion in Neurobiology 11",
      "url": "https://www.centropiaggio.unipi.it/sites/default/files/course/material/articoli_tatto.pdf",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): two layers in one curtain: a visual pattern on translucent silk, and a touch layer of information that is not immediately visible",
-     "credit": "DDW 2026 listing, Tactile Notation (Svenja Bremen)",
+     "what": "Type card made for this post: the map code of Tactile Notation (DDW 2026 listing)",
+     "credit": "Dutch Design Week (2026), Tactile Notation listing",
      "url": "https://app-api.ddw.nl/en/programme/tactile-notation-1",
-     "card": false
+     "card": true
     }
    ]
   },
@@ -8622,12 +8659,16 @@
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
-     "label": "Fiorillo, Tobler and Schultz (2003), Science 299(5614): 1898-902, PubMed abstract [full read before posting]",
+     "label": "Fiorillo, Tobler and Schultz (2003), Science 299(5614): 1898-902, PubMed abstract (full text read Oct 15, 2026: author copy and supporting material)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/12649484/"
     },
     {
      "label": "Lindström et al. (2021), Nature Communications 12: 1311, full text (Springer link)",
      "url": "https://link.springer.com/article/10.1038/s41467-020-19607-x"
+    },
+    {
+     "label": "Panova and Carbonell (2018), Journal of Behavioral Addictions 7(2): 252-259, full text (Europe PMC, CC BY-NC 4.0; read in full in the FNM round 3 pass, Oct 26, 2026)",
+     "url": "https://doi.org/10.1556/2006.7.2018.49"
     }
    ],
    "other": [
@@ -8636,7 +8677,7 @@
      "url": "https://www.kabk.nl/en/student-alumni-profiles/maria-mombers"
     },
     {
-     "label": "Fiorillo, Tobler and Schultz (2003), record at University of Fribourg (folia) [full read before posting]",
+     "label": "Fiorillo, Tobler and Schultz (2003), record at University of Fribourg (folia) (full text read Oct 15, 2026: author copy and supporting material)",
      "url": "https://folia.unifr.ch/unifr/documents/300083"
     },
     {
@@ -9232,6 +9273,22 @@
     {
      "label": "Lynott et al. (2014), Lancaster University repository record",
      "url": "https://eprints.lancs.ac.uk/id/eprint/69546/"
+    },
+    {
+     "label": "Zhu, X., Feng, T., & Culbertson, H. (2022). Understanding the effect of speed on human emotion perception in mediated social touch using voice coil actuators. Frontiers in Computer Science, 4, 826637 (full text read by FNM)",
+     "url": "https://doi.org/10.3389/fcomp.2022.826637"
+    },
+    {
+     "label": "Héron, R., et al. (2024). Touching at a distance. Frontiers in Psychology, 15, 1497289 (full text read by FNM)",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1497289"
+    },
+    {
+     "label": "Ipakchian Askari, S., Haans, A., & IJsselsteijn, W. A. (2022). Uncovering terra incognita in the AHD design space. Frontiers in Computer Science, 4, 795772 (full text read by FNM)",
+     "url": "https://doi.org/10.3389/fcomp.2022.795772"
+    },
+    {
+     "label": "Ackerley, R., et al. (2014). Human C-tactile afferents are tuned to the temperature of a skin-stroking caress. Journal of Neuroscience, 34(8), 2879-2883 (full text read Oct 28, 2026, PMC3931502; facts only)",
+     "url": "https://doi.org/10.1523/JNEUROSCI.2847-13.2014"
     }
    ],
    "other": [
@@ -9240,84 +9297,98 @@
      "url": "https://site.ddw.nl/en/programme/16902/felt-connection-sensation-carried-between-bodies"
     },
     {
-     "label": "Damon, Kathman, Case and Inagaki (2025), Biological Psychology, abstract on eScholarship (CC BY-NC-ND 4.0) [full read before posting]",
-     "url": "https://escholarship.org/uc/item/5fq9m463"
-    },
-    {
      "label": "Lynott et al. (2014), Social Psychology 45(3), Hogrefe article page",
      "url": "https://econtent.hogrefe.com/doi/10.1027/1864-9335/a000187"
+    },
+    {
+     "label": "Line Rebecca Rumhult (2026), Felt Connection, Vimeo oEmbed record (read in full)",
+     "url": "https://vimeo.com/1200985109"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (not data): the two touches tested: warm or neutral temperature packs, and deep or light pressure from weighted blankets",
-     "credit": "Damon, Kathman, Case and Inagaki (2025), Biological Psychology",
-     "url": "https://escholarship.org/uc/item/5fq9m463",
+     "what": "Illustration made for this post: two hands each holding a soft object, joined by a dotted signal line; not the artefacts' shapes",
+     "credit": "Drawing made for this post after the maker's Vimeo description",
+     "url": "https://vimeo.com/1200985109",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Line Rumhult, soft, connected objects to wear, carry and hold (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/felt-connection-sensation-carried-between-bodies-1",
-     "card": true
+     "what": "Illustration made for this post: two people paired through soft artefacts, the network made felt",
+     "credit": "Line Rumhult (2026), Felt Connection, Vimeo description",
+     "url": "https://vimeo.com/1200985109",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (not data): a soft form with hidden sensing and moving electronics that answers the hand through weight, balance, texture and warmth",
-     "credit": "DDW 2026 listing, Felt Connection",
-     "url": "https://ddw.nl/en/programme/felt-connection-sensation-carried-between-bodies-1",
+     "what": "Illustration made for this post: the four ways the listing says the pieces answer the hand, sorted into force and skin",
+     "credit": "Dutch Design Week (2026), Felt Connection listing",
+     "url": "https://app-api.ddw.nl/en/programme/felt-connection-sensation-carried-between-bodies-1",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post (not data): 75 people: a warm pack with deep pressure raised feelings of connection to close others most; warmth or pressure alone less",
-     "credit": "Damon, Kathman, Case and Inagaki (2025), Biological Psychology",
-     "url": "https://escholarship.org/uc/item/5fq9m463",
+     "what": "Illustration made for this post: in a lab study with voice coil actuators, slow stroking was read as more positive and faster gestures as more negative",
+     "credit": "Zhu, Feng and Culbertson (2022), Frontiers in Computer Science 4",
+     "url": "https://doi.org/10.3389/fcomp.2022.826637",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Chart drawn to scale for this post: 75 people in the 2025 study against 861 in the 2014 three-lab replication that failed",
-     "credit": "Damon et al. (2025); Lynott et al. (2014), Social Psychology 45(3)",
-     "url": "https://eprints.lancs.ac.uk/id/eprint/69546/",
+     "what": "Illustration made for this post, schematic with no measured values: C-tactile firing peaks at slow stroking near 3 cm/s and is higher at skin temperature (32 C) than cool (18 C)",
+     "credit": "Ackerley et al. (2014), Journal of Neuroscience 34(8)",
+     "url": "https://doi.org/10.1523/JNEUROSCI.2847-13.2014",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Text card made for this post: Young Graduates, HUB, Eindhoven, Oct 17 to 25 (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/felt-connection-sensation-carried-between-bodies-1",
-     "card": true
+     "what": "Illustration made for this post: C-tactile fibres were recorded in hairy forearm skin; a palm holding an object was not tested",
+     "credit": "Ackerley et al. (2014), Journal of Neuroscience 34(8)",
+     "url": "https://doi.org/10.1523/JNEUROSCI.2847-13.2014",
+     "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): objects that raised closeness in the lab: a warm pack and a weighted blanket, together, while viewing images of close others",
-     "credit": "Damon, Kathman, Case and Inagaki (2025), Biological Psychology",
-     "url": "https://escholarship.org/uc/item/5fq9m463",
+     "what": "Chart drawn to scale for this post: 89 affective haptic device prototypes, 44 mediated social touch, 37 symbolic, 8 awareness",
+     "credit": "Ipakchian Askari, Haans and IJsselsteijn (2022), Frontiers in Computer Science 4",
+     "url": "https://doi.org/10.3389/fcomp.2022.795772",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Illustration made for this post: a hand lifting a soft rounded object, slow wave lines above it; not one of the artefacts",
+     "credit": "Drawing made for this post after the DDW 2026 listing",
+     "url": "https://app-api.ddw.nl/en/programme/felt-connection-sensation-carried-between-bodies-1",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Illustration made for this post: touch up close, skin to skin, or from afar, object to object, for the closing question",
+     "credit": "Line Rumhult (2026), Felt Connection, Vimeo description",
+     "url": "https://vimeo.com/1200985109",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): you wear, carry or hold the piece; it answers with weight, balance, texture and warmth",
-     "credit": "DDW 2026 listing, Felt Connection",
-     "url": "https://ddw.nl/en/programme/felt-connection-sensation-carried-between-bodies-1",
-     "card": false
+     "what": "Type card made for this post from the maker's Vimeo description",
+     "credit": "Line Rumhult (2026), Vimeo",
+     "url": "https://vimeo.com/1200985109",
+     "card": true
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (not data): a warm pack and a heavy blanket together raised feelings of connection to close others most",
-     "credit": "Damon, Kathman, Case and Inagaki (2025), Biological Psychology",
-     "url": "https://escholarship.org/uc/item/5fq9m463",
+     "what": "Chart drawn to scale for this post: five cohabiting couples in a study of touch at a distance",
+     "credit": "Héron et al. (2024), Frontiers in Psychology 15",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1497289",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): Felt Connection by Line Rumhult: soft, connected objects made to be worn, carried and held, answering through weight, balance, texture and warmth",
-     "credit": "DDW 2026 listing, Felt Connection",
-     "url": "https://ddw.nl/en/programme/felt-connection-sensation-carried-between-bodies-1",
-     "card": false
+     "what": "Type card made for this post from Zhu et al. (2022) and Ackerley et al. (2014)",
+     "credit": "Zhu et al. (2022); Ackerley et al. (2014)",
+     "url": "https://doi.org/10.3389/fcomp.2022.826637",
+     "card": true
     }
    ]
   },
@@ -10411,6 +10482,14 @@
     {
      "label": "DDW Klokgebouw location page",
      "url": "https://ddw.nl/en/locations/klokgebouw"
+    },
+    {
+     "label": "ReHemptation, Co-Balance collection page",
+     "url": "https://www.rehemptation.com/co-balance-collection"
+    },
+    {
+     "label": "InteriorDaily interview with Jadwiga Husarska-Sobina (12 May 2026)",
+     "url": "https://www.interiordaily.com/article/9835546/my-aim-was-to-make-a-clear-statement-hemp-is-not-a-problematic-plant-for-furniture/"
     }
    ],
    "images": [
@@ -10491,12 +10570,8 @@
    "date": "2027-01-17",
    "id": "CLRA10",
    "title": "Who were psychedelic trials tested on, and can the results apply to everyone?",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-collins-series-2-no-5-of-20-civil-rights-safeguards-in-psychedelic-service-delivery-models-policy-reform-governance-oversight-series/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -11837,6 +11912,14 @@
     {
      "label": "DDW listing: Soft Companions (Dutch)",
      "url": "https://ddw.nl/nl/programma/17314/soft-companions"
+    },
+    {
+     "label": "Crossref record: Westland (2026), TEI '26 paper",
+     "url": "https://api.crossref.org/works/10.1145/3731459.3786225"
+    },
+    {
+     "label": "OpenAlex record with abstract: Westland (2026), TEI '26 paper (abstract only; the maker's own description)",
+     "url": "https://api.openalex.org/works/doi:10.1145/3731459.3786225"
     }
    ],
    "images": [
@@ -11884,9 +11967,9 @@
     },
     {
      "where": "Slide 7",
-     "what": "Diagram made for this post from the DDW listing: Soft Companions by Katrijn Westland at Klokgebouw, Strijp-S, Eindhoven, Oct 17 to 25",
-     "credit": "Dutch Design Week 2026 listing: Soft Companions",
-     "url": "https://ddw.nl/en/programme/soft-companions",
+     "what": "Diagram made for this post (not data): one box-breathing cycle, inflate 4, hold 4, deflate 4, hold 4, as the maker describes the companion in her TEI '26 abstract (Westland, 2026)",
+     "credit": "Westland (2026), Soft Companions: A Breathing Textile Creature for Sensory Rituals of Care, TEI '26 (abstract)",
+     "url": "https://doi.org/10.1145/3731459.3786225",
      "card": false
     },
     {
@@ -11942,6 +12025,10 @@
     {
      "label": "McPherson et al. (2020), Nature Communications, full text (Europe PMC, PMC7270137, CC BY 4.0)",
      "url": "https://europepmc.org/article/PMC/PMC7270137"
+    },
+    {
+     "label": "Gilmore, Pham and Russo (2026), Cerebral Cortex 36(7): bhag111, CC BY 4.0 (Europe PMC, PMC13421781)",
+     "url": "https://doi.org/10.1093/cercor/bhag111"
     }
    ],
    "other": [],
@@ -11990,7 +12077,7 @@
     },
     {
      "where": "Slide 7",
-     "what": "Diagram made for this post (not data): in McPherson et al. (2020), listeners in the Amazon (Tsimane') and in Boston both tended to hear two notes in simple ratios as one sound",
+     "what": "Diagram made for this post (not data): in McPherson et al. (2020), 31 Tsimane' listeners and 28 Boston non-musicians both fused simple-ratio note pairs; a preference for consonant pairs showed in Boston, none was detected in the Tsimane' group",
      "credit": "McPherson, Dolan, Durango, Ossandon, Valdes, Undurraga, Jacoby, Godoy and McDermott (2020), Nature Communications 11:2786 (CC BY 4.0)",
      "url": "https://doi.org/10.1038/s41467-020-16448-6",
      "card": false
@@ -12767,7 +12854,7 @@
      "where": "Slide 2",
      "what": "Diagram made for this post from the DDW listing: Fontys for Society at Area 51, Ketelhuisplein, Strijp-S, Eindhoven, daily 11:00 to 18:00 during DDW 2026, free entry",
      "credit": "Dutch Design Week 2026 listings: Fontys for Society and Designing",
-     "url": "https://ddw.nl/en/programme/designing",
+     "url": "https://app-api.ddw.nl/en/programme/fontys-for-society",
      "card": false
     },
     {
@@ -14651,18 +14738,30 @@
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
-     "label": "Zhai, Cao, Li, Gong, Guo and Zhang (2025), Buildings 15(13): 2310, full text, CC BY",
+     "label": "Iskra-Golec I, Golonka K, Wyczesany M, Smith L, Siemiginowska P, Wątroba J (2017), Daytime effect of monochromatic blue light on EEG activity depends on duration and timing of exposure in young men, Advances in Cognitive Psychology 13(3): 241-247 (full text read Oct 28, 2026, Europe PMC PMC5643565, CC BY-NC-ND 4.0, facts only)",
+     "url": "https://doi.org/10.5709/acp-0224-0"
+    },
+    {
+     "label": "Zhai, Cao, Li, Gong, Guo and Zhang (2025), Buildings 15(13): 2310, full text (read by FNM, Oct 15, 2026; the MDPI record returned 403 on Oct 26, so its figures are not used)",
      "url": "https://www.mdpi.com/2075-5309/15/13/2310"
+    },
+    {
+     "label": "Piedimonte A, et al. (2025), Brain Sciences 15(6): 578 (full text read Oct 28, 2026, Europe PMC PMC12190210, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/brainsci15060578"
     }
    ],
    "other": [
     {
-     "label": "DDW listing: The Ripple: Drops of Light (second listing, same makers, venue and dates)",
-     "url": "https://ddw.nl/en/programme/the-ripple-2"
+     "label": "Studio Koen Steger, Ripple project page (read in full Oct 28, 2026)",
+     "url": "https://studiokoensteger.com/project/ripple"
     },
     {
-     "label": "Chamilothori, Lemmens, Karaman-Madan and de Kort (2022), Lux Europa 2022, TU/e research portal record with abstract",
-     "url": "https://research.tue.nl/en/publications/effects-of-dappled-light-patterns-on-preference-fascination-and-r/"
+     "label": "Studio Koen Steger, Hypnagogia project page (read in full Oct 28, 2026)",
+     "url": "https://studiokoensteger.com/project/hypnagogia"
+    },
+    {
+     "label": "Studio Koen Steger, about page (read in full Oct 28, 2026)",
+     "url": "https://studiokoensteger.com/about"
     }
    ],
    "images": [
@@ -14675,7 +14774,7 @@
     },
     {
      "where": "Slide 2",
-     "what": "Information frame made for this post: the venue, E31 Kazerne Design Lab, Paradijslaan, open daily 11:00 to 18:00 during DDW 2026, per the DDW listing",
+     "what": "Information frame made for this post: the venue, E31 Kazerne Design Lab, Paradijslaan 8, open daily 11:00 to 18:00 during DDW 2026, per the DDW listing",
      "credit": "DDW 2026 listing, The Ripple",
      "url": "https://ddw.nl/en/programme/the-ripple",
      "card": false
@@ -14689,44 +14788,51 @@
     },
     {
      "where": "Slide 4",
-     "what": "Diagram made for this post from Chamilothori et al. (2022): the three backdrops behind one task, moving and frozen shadow patterns and a flat grey control",
-     "credit": "Chamilothori, Lemmens, Karaman-Madan and de Kort (2022), Lux Europa 2022, TU Eindhoven",
-     "url": "https://research.tue.nl/en/publications/effects-of-dappled-light-patterns-on-preference-fascination-and-r/",
+     "what": "Dot chart drawn to scale for this post: the 40 lamps of the first Ripple, a 2025 apartment entrance in Amsterdam",
+     "credit": "Studio Koen Steger, Ripple project page",
+     "url": "https://studiokoensteger.com/project/ripple",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Diagram made for this post from Chamilothori et al. (2022): a scorecard, motion won on preference and fascination, no winner on stress recovery or task scores",
-     "credit": "Chamilothori, Lemmens, Karaman-Madan and de Kort (2022), Lux Europa 2022, TU Eindhoven",
-     "url": "https://research.tue.nl/en/publications/effects-of-dappled-light-patterns-on-preference-fascination-and-r/",
+     "what": "Illustration made for this post: line drawing of a dome lit by shifting colour, after the Hypnagogia project page; not the real work",
+     "credit": "Studio Koen Steger, Hypnagogia project page",
+     "url": "https://studiokoensteger.com/project/hypnagogia",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Zhai et al. (2025), Figure 6: perceived restoration scores across waterscape types under silent vs. sound conditions (chart)",
-     "credit": "Zhai, Cao, Li, Gong, Guo and Zhang (2025), Buildings 15(13): 2310, CC BY",
-     "url": "https://www.mdpi.com/2075-5309/15/13/2310",
+     "what": "Illustration made for this post: the theta target and the studio's alpha hunch, with no EEG reported",
+     "credit": "Studio Koen Steger, Hypnagogia project page",
+     "url": "https://studiokoensteger.com/project/hypnagogia",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Diagram made for this post: what the two studies tested, 45 and 33 people on screens, and what they did not, a real room or The Ripple itself",
-     "credit": "Chamilothori, Lemmens, Karaman-Madan and de Kort (2022), Lux Europa 2022, TU Eindhoven; Zhai, Cao, Li, Gong, Guo and Zhang (2025), Buildings 15(13): 2310",
-     "url": "https://research.tue.nl/en/publications/effects-of-dappled-light-patterns-on-preference-fascination-and-r/",
+     "what": "Illustration made for this post: who took part, what light they saw and what happened after a short dose in Iskra-Golec et al. (2017)",
+     "credit": "Iskra-Golec, Golonka, Wyczesany, Smith, Siemiginowska and Wątroba (2017), Advances in Cognitive Psychology 13: 241",
+     "url": "https://doi.org/10.5709/acp-0224-0",
      "card": false
     },
     {
      "where": "Slide 8",
+     "what": "Dot chart drawn to scale for this post: 33 students analysed and 7 removed in Zhai et al. (2025)",
+     "credit": "Zhai, Cao, Li, Gong, Guo and Zhang (2025), Buildings 15(13): 2310",
+     "url": "https://www.mdpi.com/2075-5309/15/13/2310",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
      "what": "Question frame made for this post: next time you pass water, notice whether moving or still water slowed you down",
      "credit": "Zhai, Cao, Li, Gong, Guo and Zhang (2025), Buildings 15(13): 2310",
-     "url": "https://doi.org/10.3390/buildings15132310",
+     "url": "https://www.mdpi.com/2075-5309/15/13/2310",
      "card": false
     },
     {
      "where": "Story 1",
      "what": "Poll frame made for this post: moving light or still light?",
-     "credit": "Chamilothori, Lemmens, Karaman-Madan and de Kort (2022), Lux Europa 2022, TU Eindhoven",
-     "url": "https://research.tue.nl/en/publications/effects-of-dappled-light-patterns-on-preference-fascination-and-r/",
+     "credit": "Zhai, Cao, Li, Gong, Guo and Zhang (2025), Buildings 15(13): 2310",
+     "url": "https://www.mdpi.com/2075-5309/15/13/2310",
      "card": false
     },
     {
@@ -17105,6 +17211,14 @@
     {
      "label": "Bonenberg et al. (2023), Materials 16(6): 2164, full text (CC BY)",
      "url": "https://www.mdpi.com/1996-1944/16/6/2164/htm"
+    },
+    {
+     "label": "Al-Otaibi, H. H., & Alabdulmohsen (2025). From disgust to curiosity: Investigating Saudi university students' willingness and attitudes toward edible insects as an alternative protein source. Insects, 16(9), 963. doi 10.3390/insects16090963 (full text read Oct 30, 2026, Europe PMC PMC12470629, CC BY)",
+     "url": "https://doi.org/10.3390/insects16090963"
+    },
+    {
+     "label": "Al Hallak et al. (2023). Toxins, 15(3), 175. doi 10.3390/toxins15030175 (review; full text read Oct 30, 2026, Europe PMC PMC10054896, CC BY)",
+     "url": "https://doi.org/10.3390/toxins15030175"
     }
    ],
    "other": [
@@ -17119,67 +17233,68 @@
     {
      "label": "Rijksmuseum: Roemer, BK-NM-10754-50",
      "url": "https://www.rijksmuseum.nl/en/collection/BK-NM-10754-50"
+    },
+    {
+     "label": "Mediamatic, Growing Gunya (2022), exhibition page",
+     "url": "https://www.mediamatic.net/en/page/386877/growing-gunya"
+    },
+    {
+     "label": "Utrecht University microbiology public outreach 2020",
+     "url": "https://www.uu.nl/en/research/microbiology/public-outreach/public-outreach-2020"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Question frame made for this post: pick up the glass nearest you; now imagine it grown, not made",
-     "credit": "DDW 2026 listing, Bar Mycelium",
-     "url": "https://ddw.nl/en/programme/bar-mycelium-1",
+     "what": "Bonenberg et al. 2023, Materials, Figure 4: wall cladding elements, 20 cm by 20 cm, (A) made of a mycelium-based composite and (B) of chamotte clay; photo by the authors; no fruiting bodies",
+     "credit": "Bonenberg et al. (2023), Materials 16: 2164, Figure 4, photo by the authors (CC BY 4.0), https://pmc.ncbi.nlm.nih.gov/articles/PMC10051586/",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10051586/",
      "card": false
     },
     {
      "where": "Slide 2",
+     "what": "Timeline made for this post: a five-week grow before DDW, then DDW from Oct 17 to 25, 2026",
+     "credit": "DDW 2026 listing, Bar Mycelium",
+     "url": "https://app-api.ddw.nl/en/programme/bar-mycelium-1",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
      "what": "Diagram made for this post: the work at a glance, a full bar made from fungus down to the cups, Eindhoven, autumn 2026 (DDW 2026 listing)",
      "credit": "DDW 2026 listing, Bar Mycelium",
      "url": "https://ddw.nl/en/programme/bar-mycelium-1",
      "card": false
     },
     {
-     "where": "Slide 3",
-     "what": "Diagram made for this post from Bergmann Tiest and Kappers (2009): materials pull heat from the hand at different rates, and the skin reads that rate as coldness; metal feels colder than wood",
-     "credit": "Bergmann Tiest and Kappers (2009), World Haptics",
-     "url": "https://doi.org/10.1109/WHC.2009.4810822",
-     "card": false
-    },
-    {
      "where": "Slide 4",
-     "what": "Bar drawn to scale from Bergmann Tiest and Kappers (2009): people could tell two cooling rates apart at about a 43% gap",
-     "credit": "Bergmann Tiest and Kappers (2009), World Haptics",
-     "url": "https://doi.org/10.1109/WHC.2009.4810822",
+     "what": "Illustration made for this post: acceptance of a mycelium material was high for a home designed with an eco look and lower for one's own home",
+     "credit": "Bonenberg et al. (2023), Materials 16: 2164",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10051586/",
      "card": false
     },
     {
      "where": "Slide 5",
+     "what": "Illustration made for this post: disgust and seeing insects as unsafe pull willingness down; interest in new foods and environmental concern pull it up",
+     "credit": "Al-Otaibi and Alabdulmohsen (2025), Insects 16: 963",
+     "url": "https://doi.org/10.3390/insects16090963",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
      "what": "Bhatta et al. (2017), Figure 1, panel A only: the ten test surfaces (brushed, sanded, varnished and waxed oak and pine; sandpaper-240; silk) at normal view",
      "credit": "Bhatta, Tiippana, Vahtikari, Hughes and Kyttä (2017), Frontiers in Psychology 8: 367, CC BY (cropped)",
      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00367/full",
      "card": false
     },
     {
-     "where": "Slide 6",
-     "what": "Dot chart drawn to scale from Slocombe, Carmichael and Simner (2016): 38 adults rated a rough sweet as more sour than a smooth one with the same ingredients",
-     "credit": "Slocombe, Carmichael and Simner (2016), Neuropsychologia 88: 58-64",
-     "url": "https://doi.org/10.1016/j.neuropsychologia.2015.07.011",
-     "card": false
-    },
-    {
      "where": "Slide 7",
-     "what": "Diagram made for this post from Slocombe, Carmichael and Simner (2016): rough or smooth plates made no clear difference to taste; the authors think the plates felt too alike",
-     "credit": "Slocombe, Carmichael and Simner (2016), Neuropsychologia 88: 58-64",
-     "url": "https://doi.org/10.1016/j.neuropsychologia.2015.07.011",
+     "what": "Illustration made for this post: what we know (mouldy buildings shed spores and allergens) and what we did not find (an emissions test of finished mycelium furniture)",
+     "credit": "Al Hallak et al. (2023), Toxins 15: 175",
+     "url": "https://doi.org/10.3390/toxins15030175",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Diagram made for this post: hands on; students aged 19 to 24 in Poznan touched a dried mycelium material; most called it neutral (39) or warm (Bonenberg et al., 2023)",
-     "credit": "Bonenberg et al. (2023), Materials 16(6): 2164",
-     "url": "https://doi.org/10.3390/ma16062164",
-     "card": false
-    },
-    {
-     "where": "Slide 9",
      "what": "Question frame made for this post: clay, wood, fungus, glass, or something else? Pick what you would sip from",
      "credit": "DDW 2026 listing, Bar Mycelium",
      "url": "https://ddw.nl/en/programme/bar-mycelium-1",
@@ -17187,24 +17302,24 @@
     },
     {
      "where": "Story 1",
-     "what": "Poll frame made for this post: would you drink from a grown glass?",
+     "what": "Information frame made for this post from the DDW 2026 listing: Bar Mycelium, MU Hybrid Art House, Strijp-S, Eindhoven",
      "credit": "DDW 2026 listing, Bar Mycelium",
      "url": "https://ddw.nl/en/programme/bar-mycelium-1",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Information frame made for this post from Slocombe et al. (2016): a rough sweet was rated more sour than a smooth one",
-     "credit": "Slocombe, Carmichael and Simner (2016), Neuropsychologia 88: 58-64",
-     "url": "https://doi.org/10.1016/j.neuropsychologia.2015.07.011",
+     "what": "Poll frame made for this post: would you drink from a grown glass?",
+     "credit": "DDW 2026 listing, Bar Mycelium",
+     "url": "https://ddw.nl/en/programme/bar-mycelium-1",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Information frame made for this post from the DDW 2026 listing: Bar Mycelium, MU Hybrid Art House, Strijp-S, Eindhoven",
-     "credit": "DDW 2026 listing, Bar Mycelium",
-     "url": "https://ddw.nl/en/programme/bar-mycelium-1",
-     "card": false
+     "what": "Text card made for this post from Bonenberg et al. (2023)",
+     "credit": "Bonenberg et al. (2023), Materials 16: 2164",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10051586/",
+     "card": true
     }
    ]
   },
@@ -21232,7 +21347,7 @@
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
-     "label": "Allen et al. (2016), Environmental Health Perspectives, PMC full text (public domain)",
+     "label": "Allen et al. (2016), Environmental Health Perspectives, PMC full text",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4892924/"
     },
     {
@@ -21296,8 +21411,8 @@
     },
     {
      "where": "Slide 6",
-     "what": "Allen et al. (2016), Figure 1: average cognitive function scores by domain for the Conventional, Green and two Green+ conditions, normalized to the Green condition",
-     "credit": "Allen et al. (2016), Environ Health Perspect 124:805-812, Figure 1 (public domain: 'Publication of EHP lies in the public domain')",
+     "what": "Chart drawn to scale for this post from the numbers Allen et al. (2016) report in their Results: average thinking test score on the Conventional day set to 100, Green day 161 (61% higher), Green+ days 201 (101% higher)",
+     "credit": "Allen et al. (2016), Environ Health Perspect 124:805-812",
      "url": "https://doi.org/10.1289/ehp.1510037",
      "card": false
     },
@@ -21331,8 +21446,8 @@
     },
     {
      "where": "Story 2",
-     "what": "Number card made for this post: 24 office workers, Scored higher on thinking tests on the best-ventilated days (Allen, MacNaughton, Satish, Santanam, Vallarino and Spengler (2016), Environmental Health Perspectives 124: 805 to 812 (public domain))",
-     "credit": "Allen, MacNaughton, Satish, Santanam, Vallarino and Spengler (2016), Environmental Health Perspectives 124: 805 to 812 (public domain)",
+     "what": "Number card made for this post: 24 office workers, Scored higher on thinking tests on the best-ventilated days (Allen, MacNaughton, Satish, Santanam, Vallarino and Spengler (2016), Environmental Health Perspectives 124: 805 to 812)",
+     "credit": "Allen, MacNaughton, Satish, Santanam, Vallarino and Spengler (2016), Environmental Health Perspectives 124: 805 to 812",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4892924/",
      "card": true
     },
@@ -43370,12 +43485,8 @@
    "date": "2027-10-28",
    "id": "CLRA6",
    "title": "What Schedule III weighs: abuse potential, dependence and medical use in the 2023 federal cannabis review",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-collins-federal-drug-policy-april-2026-the-operative-architecture-of-cannabis-rescheduling-the-psychedelic-therapeutic-acceleration-directive-and-the-road-to-june-29-2/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "resources": "If someone may be overdosing, call 911 (US) or your local emergency number.",
    "research": [
@@ -44422,6 +44533,14 @@
     {
      "label": "Chang et al. (2015), PNAS, abstract",
      "url": "https://pure.psu.edu/en/publications/evening-use-of-light-emitting-ereaders-negatively-affects-sleep-c/"
+    },
+    {
+     "label": "Shin, M., Halaki, M., Swan, P., Ireland, A. H., & Chow, C. M. (2016). The effects of fabric for sleepwear and bedding on sleep at ambient temperatures of 17°C and 22°C. Nature and Science of Sleep, 8, 121 to 131. doi 10.2147/NSS.S100271 (full text read Oct 28, 2026, Europe PMC PMC4853167, CC BY-NC 3.0: facts only; funded by Australian Wool Innovation, two authors employed there)",
+     "url": "https://doi.org/10.2147/NSS.S100271"
+    },
+    {
+     "label": "Costa, M., Frumento, S., Nese, M., & Predieri, I. (2018). Interior color and psychological functioning in a university residence hall. Frontiers in Psychology, 9, 1580. doi 10.3389/fpsyg.2018.01580 (full text read Oct 28, 2026, Europe PMC PMC6120989, CC BY)",
+     "url": "https://doi.org/10.3389/fpsyg.2018.01580"
     }
    ],
    "other": [
@@ -44438,16 +44557,20 @@
      "url": "https://ddw.nl/en/updates/ddw26"
     },
     {
-     "label": "Auping product page (footer only)",
-     "url": "https://www.auping.com/en/bed-linen/duvet-covers/painted-canvas-duvet-cover"
-    },
-    {
      "label": "Escobar, I., et al. (2024). Efficient Daylighting: The Importance of Glazing Transmittance and Room Surface Reflectance. Buildings, doi 10.3390/buildings14103108. Abstract via DOAJ",
      "url": "https://doaj.org/article/b7b07c6a2a0f49c58dc3da971d8526a8"
     },
     {
      "label": "Escobar et al. (2024), University of Zaragoza record",
      "url": "https://zaguan.unizar.es/record/145588"
+    },
+    {
+     "label": "Auping product page (footer only)",
+     "url": "https://www.auping.com/en/bed-linen/duvet-covers/painted-canvas-duvet-cover"
+    },
+    {
+     "label": "WOTH magazine interview with Stefanie van Keijsteren (issue 5)",
+     "url": "https://www.woth.co/index.php/people/people-stefanie-van-keijsteren-interviewed-by-woth/"
     }
    ],
    "images": [
@@ -44460,51 +44583,58 @@
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Studio RENS, hand-screenprinted colour studies turned into bedding for Auping (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/canvas-surface-of-sleep",
-     "card": true
-    },
-    {
-     "where": "Slide 3",
      "what": "Illustration made for this post (not data): colour built by hand, layer by layer, through movement, pressure and repetition, with small shifts and imperfections left visible",
      "credit": "DDW 2026 listing, CANVAS",
      "url": "https://ddw.nl/en/programme/canvas-surface-of-sleep",
      "card": false
     },
     {
+     "where": "Slide 3",
+     "what": "Illustration made for this post: what sleep labs have tested (light at the eye, room temperature, sleepwear and duvet fibre) and what is still open (duvet colour)",
+     "credit": "Brown et al. (2022), PLOS Biology; Shin et al. (2016)",
+     "url": "https://doi.org/10.2147/NSS.S100271",
+     "card": false
+    },
+    {
      "where": "Slide 4",
+     "what": "Chart drawn to scale for this post: 17 sleepers, 10 men and 7 women, one dot each",
+     "credit": "Shin et al. (2016), Nature and Science of Sleep 8",
+     "url": "https://doi.org/10.2147/NSS.S100271",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Illustration made for this post: three swaps in one sleep lab (duvet, sleepwear, room) and what each changed",
+     "credit": "Shin et al. (2016), Nature and Science of Sleep 8",
+     "url": "https://doi.org/10.2147/NSS.S100271",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale for this post: minutes to fall asleep, 11.0 in wool sleepwear and 15.0 in cotton (Table 2)",
+     "credit": "Shin et al. (2016), Nature and Science of Sleep 8",
+     "url": "https://doi.org/10.2147/NSS.S100271",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Bar chart drawn to scale for this post: REM sleep as a share of the night, 23.9% at 17 C and 22.1% at 22 C (Table 3)",
+     "credit": "Shin et al. (2016), Nature and Science of Sleep 8",
+     "url": "https://doi.org/10.2147/NSS.S100271",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
      "what": "Brown et al. (2022), Fig 1: \"Differences in photopic and melanopic spectral sensitivity formalised in the SI-compliant system for quantifying ipRGC-influenced responses to light.\"",
      "credit": "Brown, Brainard, Cajochen et al. (2022), PLOS Biology 20(3): e3001571, CC BY 4.0 (cropped)",
      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001571",
      "card": false
     },
     {
-     "where": "Slide 5",
-     "what": "Brown et al. (2022), Fig 2: \"Recommendations for melanopic light exposures in relation to the sensitivity of melatonin suppression, circadian phase resetting, and subjective alerting responses.\"",
-     "credit": "Brown, Brainard, Cajochen et al. (2022), PLOS Biology 20(3): e3001571, CC BY 4.0 (cropped)",
-     "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001571",
-     "card": false
-    },
-    {
-     "where": "Slide 6",
-     "what": "Illustration made for this post (not data): in one simulated classroom, white walls lit the room best, then blue, then red",
-     "credit": "Escobar, Orduna-Hospital, Aporta and Sanchez-Cano (2024), Buildings 14(10):3108",
-     "url": "https://doi.org/10.3390/buildings14103108",
-     "card": false
-    },
-    {
-     "where": "Slide 7",
-     "what": "Text card made for this post: Strijp T+R, Studio RENS, Eindhoven, Oct 17 to 25 (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/canvas-surface-of-sleep",
-     "card": true
-    },
-    {
-     "where": "Slide 8",
-     "what": "Illustration made for this post (not data): two bedtime questions: the colour you sleep under, which reflects room light, and the light on before bed, which the studies measured at the eye",
-     "credit": "Brown et al. (2022), PLOS Biology 20(3); Escobar et al. (2024)",
-     "url": "https://doi.org/10.1371/journal.pbio.3001571",
+     "where": "Slide 9",
+     "what": "Illustration made for this post: where the evidence sits; the room at 17 C gave a bit more REM sleep, the duvet's fibre had no effect and its colour is untested",
+     "credit": "Shin et al. (2016), Nature and Science of Sleep 8",
+     "url": "https://doi.org/10.2147/NSS.S100271",
      "card": false
     },
     {
@@ -44516,16 +44646,16 @@
     },
     {
      "where": "Story 2",
-     "what": "Chart drawn to scale for this post: melanopsin cells respond most near 480 nm; light from 446 to 477 nm most suppressed melatonin at night",
-     "credit": "Brown et al. (2022), PLOS Biology 20(3); Brainard et al. (2001), Journal of Neuroscience 21(16)",
-     "url": "https://doi.org/10.1371/journal.pbio.3001571",
-     "card": false
+     "what": "Poll card made for this post from Shin et al. (2016)",
+     "credit": "Shin et al. (2016), Nature and Science of Sleep 8",
+     "url": "https://doi.org/10.2147/NSS.S100271",
+     "card": true
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): CANVAS by Studio RENS for Auping: close to the body, soft in use; clear in the room, colour as atmosphere",
-     "credit": "DDW 2026 listing, CANVAS",
-     "url": "https://ddw.nl/en/programme/canvas-surface-of-sleep",
+     "what": "Chart drawn to scale for this post: the two lab bedrooms, 17 C and 22 C, on a 15 to 25 C scale",
+     "credit": "Shin et al. (2016), Nature and Science of Sleep 8",
+     "url": "https://doi.org/10.2147/NSS.S100271",
      "card": false
     }
    ]
@@ -47347,94 +47477,90 @@
      "url": "https://legge.psych.umn.edu/sites/legge.psych.umn.edu/files/2020-08/Legge%20et%20al%202013%20Indoor%20Navigation%20by%20People%20with%20Visual%20Impairment%20Using%20a%20Digital%20Sign%20System.PDF"
     },
     {
-     "label": "Wei et al. (2025), Buildings, full text (CC BY 3.0)",
-     "url": "https://www.mdpi.com/2075-5309/15/10/1583/htm"
+     "label": "Blokland, van Loef, van der Stoep, Postma and Overvliet (2025), Brain Sciences 16(1): 13, full text",
+     "url": "https://doi.org/10.3390/brainsci16010013"
+    },
+    {
+     "label": "Schumann and Zohny (2025), PLOS One 20: e0332733, CC BY",
+     "url": "https://doi.org/10.1371/journal.pone.0332733"
+    },
+    {
+     "label": "Wilson, Irvine, Alexander and Mengoni (2026), J Appl Res Intellect Disabil 39: e70195, CC BY 4.0",
+     "url": "https://doi.org/10.1111/jar.70195"
     }
    ],
    "other": [
     {
-     "label": "Rijksmuseum: Landschap met wegwijzer, RP-P-1880-A-3942",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Landschap-met-wegwijzer--f6ee6f52c2edb2765144aa4a4bb1763b"
+     "label": "Stichting Eindhoven Toegankelijk, news, Oct 20, 2026 (Dutch)",
+     "url": "https://www.eindhoventoegankelijk.nl/nieuws/ontwerpen-voor-iedereen-ontmoet-eindhoven-toegankelijk-op-de-dutch-design-week"
     },
     {
-     "label": "Rijksmuseum: Plattegrond van Amsterdam (blad linksboven), KOG-AA-3-1-4-4",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Plattegrond+van+Amsterdam+(blad+linksboven)--9d4d83bc78fc97e3637ddfac96ca1238"
-    },
-    {
-     "label": "Rijksmuseum: Scharnierbril van Willem Credo, BK-NM-864-A",
-     "url": "https://www.rijksmuseum.nl/en/collection/BK-NM-864-A"
-    },
-    {
-     "label": "Centraal Museum: Bril, 32011",
-     "url": "https://centraalmuseum.nl/en/collection/32011-bril"
-    },
-    {
-     "label": "Centraal Museum: Bril, 17102",
-     "url": "https://centraalmuseum.nl/en/collection/17102-bril"
+     "label": "Stichting Eindhoven Toegankelijk, home page (Dutch)",
+     "url": "https://www.eindhoventoegankelijk.nl/"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "R.A.L. baron van Isendoorn à Blois after Steven Goblé, Landschap met wegwijzer (Landscape with signpost), etching, 1796 to 1856, RP-P-1880-A-3942",
-     "credit": "R.A.L. van Isendoorn à Blois, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Landschap-met-wegwijzer--f6ee6f52c2edb2765144aa4a4bb1763b",
+     "what": "Illustration made for this post (not data): access as an adjustment added afterwards, or as a quality of good physical, social and digital design (the foundation's words, DDW listing)",
+     "credit": "DDW 2026 listing, Stichting Eindhoven Toegankelijk",
+     "url": "https://ddw.nl/en/programme/participation-without-limits-design-for-all",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Participation without limits / Design for all, Eindhoven Accessible Foundation, a stand built with temporary accessibility solutions (DDW listing)",
-     "credit": "DDW 2026 listing",
+     "what": "Illustration made for this post (not data): the stand built with temporary access solutions, to be usable and welcoming from the very beginning (DDW listing)",
+     "credit": "DDW 2026 listing, Stichting Eindhoven Toegankelijk",
      "url": "https://ddw.nl/en/programme/participation-without-limits-design-for-all",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Carol M. Highsmith, Wheelchair ramp at the Minneapolis Federal Building, Minnesota, photograph, October 2012, LC-DIG-highsm-18562: a ramp built into the landscape, with its access sign",
-     "credit": "Carol M. Highsmith, Library of Congress",
-     "url": "https://www.loc.gov/item/2013634159/",
+     "what": "Illustration made for this post (not data): the places the experts by experience assess (DDW listing)",
+     "credit": "DDW 2026 listing, Stichting Eindhoven Toegankelijk",
+     "url": "https://ddw.nl/en/programme/participation-without-limits-design-for-all",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Carol M. Highsmith, Wheelchair ramp, Federal Building and U.S. Courthouse, Baton Rouge, Louisiana, photograph, 2017, LC-DIG-highsm-42451: a public building's access route, the kind of place the foundation's experts assess",
-     "credit": "Carol M. Highsmith, Library of Congress",
-     "url": "https://www.loc.gov/item/2017656660/",
+     "what": "Illustration made for this post (not data): assess, advise, return to check whether the advice was built (DDW listing)",
+     "credit": "DDW 2026 listing, Stichting Eindhoven Toegankelijk",
+     "url": "https://ddw.nl/en/programme/participation-without-limits-design-for-all",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Legge et al. (2013), Figure 6: Building Navigator explore mode floor plan",
-     "credit": "Legge, Beckmann, Tjan, Havey, Kramer, Rolkosky, Gage, Chen, Puchakayala and Rangarajan (2013), PLOS ONE 8(10): e76783, CC BY",
-     "url": "https://doi.org/10.1371/journal.pone.0076783",
+     "what": "Chart drawn to scale for this post: 11 Dutch adults with visual impairments interviewed; hearing came first for orientation (Blokland et al., 2025)",
+     "credit": "Blokland et al. (2025), Brain Sciences",
+     "url": "https://doi.org/10.3390/brainsci16010013",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Legge et al. (2013), Figure 5: tag browsing accuracy by group (chart)",
+     "what": "Legge et al. (2013), Figure 7: exploration performance, trial-by-trial times by group",
      "credit": "Legge, Beckmann, Tjan, Havey, Kramer, Rolkosky, Gage, Chen, Puchakayala and Rangarajan (2013), PLOS ONE 8(10): e76783, CC BY",
      "url": "https://doi.org/10.1371/journal.pone.0076783",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Wei et al. (2025), Figure 2: schematic of Taidong Station (not to scale)",
-     "credit": "Wei, Xu, Wu, Shen and Nie (2025), Buildings 15(10): 1583, CC BY 3.0",
-     "url": "https://www.mdpi.com/2075-5309/15/10/1583/htm",
+     "what": "Legge et al. (2013), Figure 1: schematic drawing of the Digital Sign System (DSS)",
+     "credit": "Legge, Beckmann, Tjan, Havey, Kramer, Rolkosky, Gage, Chen, Puchakayala and Rangarajan (2013), PLOS ONE 8(10): e76783, CC BY",
+     "url": "https://doi.org/10.1371/journal.pone.0076783",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Carol M. Highsmith, Red Line trains at Metro Center, a transfer station of the Washington, D.C. Metro, photograph: two platforms under one vault",
-     "credit": "Carol M. Highsmith, Library of Congress",
-     "url": "https://www.loc.gov/item/2011634363/",
+     "what": "Illustration made for this post (not data): the experts' input led to a municipal accessibility grant, the Accessibility Handbook and changes in public space (DDW listing)",
+     "credit": "DDW 2026 listing, Stichting Eindhoven Toegankelijk",
+     "url": "https://ddw.nl/en/programme/participation-without-limits-design-for-all",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Historic American Buildings Survey, Holbrook Building, 58 Sutter Street, San Francisco, photo 5: entrance lobby with a mail chute and the building directory (HABS CA-2186)",
-     "credit": "Historic American Buildings Survey, Library of Congress (cropped)",
-     "url": "https://www.loc.gov/item/ca1279/",
+     "what": "Question frame made for this post: name one barrier in your street",
+     "credit": "DDW 2026 listing, Stichting Eindhoven Toegankelijk",
+     "url": "https://ddw.nl/en/programme/participation-without-limits-design-for-all",
      "card": false
     },
     {
@@ -47453,9 +47579,9 @@
     },
     {
      "where": "Story 3",
-     "what": "Historic American Buildings Survey, Hamilton Field Hospital, Novato, California: looking east into the west side light well, showing a wheelchair ramp at left",
-     "credit": "Historic American Buildings Survey, Library of Congress",
-     "url": "https://www.loc.gov/item/ca2694/",
+     "what": "Illustration made for this post: where the stand was, Foundation We Are, B12, Torenallee 22-04, Strijp-S, during Dutch Design Week (DDW listing)",
+     "credit": "DDW 2026 listing",
+     "url": "https://ddw.nl/en/programme/participation-without-limits-design-for-all",
      "card": false
     }
    ]
@@ -53525,12 +53651,8 @@
    "date": "2028-02-19",
    "id": "CLRA12",
    "title": "Can you blind a psychedelic trial? Placebos, guesses and expectation in psychedelic research",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-collins-regulatory-clarity-vs-innovation-tension-in-emerging-drug-classes/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -54469,12 +54591,8 @@
    "date": "2028-03-25",
    "id": "CLRA11",
    "title": "Why young children end up in poison control after eating cannabis edibles, and why small bodies react differently",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/r-n-collins-compliance-review-of-cannabis-enforcement-divisions-an-audit-and-oversight-report/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -55811,12 +55929,8 @@
    "date": "2028-05-27",
    "id": "CLRA2",
    "title": "The species gap: how DNA names a plant, and what a chemistry test can't",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-collins-series-3-no-5-the-species-gap-state-testing-law-and-the-case-for-molecular-authentication-of-cannabis/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -56561,12 +56675,8 @@
    "date": "2028-07-08",
    "id": "CLRA3",
    "title": "Prediction is not proof: docking, THC and autotaxin",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-collins-series-3-no-6tiers-targets-and-the-guidance-gap-a-proposed-evidentiary-framework-for-computational-pharmacology-in-fda-botanical-drug-proceedings/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -56958,12 +57068,8 @@
    "date": "2028-07-29",
    "id": "CLRA7",
    "title": "Who gets psilocybin services, and who gets studied? Research diversity and Oregon's 2025 service data",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-collins-series-3-no-9-psychedelic-licensing-equity-what-cannabiss-experience-may-predict/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -57509,12 +57615,8 @@
    "date": "2028-08-26",
    "id": "CLRA14",
    "title": "Why does ayahuasca need two plants? The chemistry of DMT, MAO and the harmala alkaloids, and what research says about the brew's past",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/article-psychedelics-rights-setting-the-stage-author-rayven-nikkita-rn-collins/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -58439,12 +58541,8 @@
    "date": "2028-10-07",
    "id": "CLRA9",
    "title": "Do antidepressants change a psilocybin session? What studies of SSRIs and psilocybin show",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-collins-series-3-no-3-the-facilitation-relationship-toward-a-tort-framework-for-psychedelic-professional-duty-in-oregon-and-colorado/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -59058,12 +59156,8 @@
    "date": "2028-11-11",
    "id": "CLRA4",
    "title": "Drug, therapy or expectation? The brain and evidence questions behind the FDA's no on MDMA for PTSD",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-collins-series-3-no-7-federal-regulatory-standards-after-the-mdma-rejection-what-fdas-complete-response-letter-may-mean-for-the-psychedelic-pipeline/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -61945,12 +62039,8 @@
    "date": "2029-04-28",
    "id": "CLRA8",
    "title": "When a psilocybin session gets hard: what research says about difficult moments, screening and medications",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-collins-series-3-no-8-no-standard-of-care-no-medical-status-full-liability-the-facilitator-malpractice-question-oregons-framework-raises/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
@@ -63191,12 +63281,8 @@
    "date": "2029-07-07",
    "id": "CLRA13",
    "title": "Can sensors read a mind? What heart rhythm, skin conductance and facial movements can tell us during a psychedelic session",
-   "origin": {
-    "kind": "main",
-    "label": "The main source this post is built on",
-    "url": "https://cannabislaw.report/rn-williams-series-2-no-1-of-14-articles-digital-ai-and-psychedelic-convergence-what-this-means-for-regulators/"
-   },
-   "series": "Cannabis Law Report",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
