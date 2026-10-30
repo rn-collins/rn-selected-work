@@ -72,3 +72,11 @@ It checks every route for 200, resolves internal and external links, requires pe
 title/description/canonical/og:image, enforces a 400-word substance floor and a 30%
 caveat-density ceiling, and checks heading order, alt text, form labels and `lang`.
 Bot-blocked hosts (LinkedIn answers `999`) are reported and never failed.
+
+## AaN release pause (RN, Oct 30, 2026)
+
+No new Ask a Neuroscientist sources page goes live on its own until all AaN content is built and ready for
+publication, including DDW. `AAN_PAUSE` in `scripts/sync_releases.py` holds every `aan/` and `aan-f/` piece in
+`data/releases.json` that was not live on Oct 30 (`hold: true`, `"pausedOn": "2026-10-30"`, `releasedAt` kept), and
+holds any AaN piece added later the same way. The pages live on Oct 30 stay live. RN Collins pieces are not affected.
+To undo, set `AAN_PAUSE = ""` and run `python3 scripts/sync_releases.py`.
