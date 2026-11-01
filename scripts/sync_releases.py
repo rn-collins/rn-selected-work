@@ -16,6 +16,11 @@ AaN pause (RN, Oct 30, 2026): while AAN_PAUSE holds a date, every Ask a Neurosci
 not already live on that day gets hold true and "pausedOn", and keeps its releasedAt. A new AaN piece added later is
 paused the same way. Pieces live on the pause day stay live. To undo, set AAN_PAUSE = "" and rerun: every piece with
 pausedOn gets hold false back (hold true if it has no date) and loses pausedOn.
+
+RN Collins pause (RN, Oct 30, 2026; switched on Nov 1): RNC_PAUSE works the same way for every piece that is not
+AaN (tfh, ddw26, ioo, polymath, clr and the rest). Every such piece not live on Nov 1, 2026 gets hold true and
+"pausedOn": "2026-11-01" and keeps its releasedAt; a piece added later is paused the same way. To undo, set
+RNC_PAUSE = "" and rerun; the AaN switch is separate and is not touched by it.
 longFormUrl and sourcePageUrl are worked out here.
 
   python3 scripts/sync_releases.py          rewrite data/releases.json
@@ -41,6 +46,9 @@ ACCOUNTS = {
 # Paused Oct 30, 2026 by RN until all AaN content is built and ready for publication, including DDW.
 AAN_PAUSE = "2026-10-30"
 AAN_PREFIXES = ("aan/", "aan-f/")
+# Paused by RN on Oct 30, 2026 (switched on Nov 1): no RN Collins piece goes live on its own until every RN Collins
+# content package is complete. Covers every piece that is not AaN.
+RNC_PAUSE = "2026-11-01"
 ESSAY_ACCOUNTS = ["ddw26", "venues", "makers", "editions", "dda", "ddw27", "kbyg"]
 
 
@@ -70,10 +78,11 @@ def build(existing):
         old = existing.get(pid, {})
         hold = True if not date else bool(old.get("hold", False))
         paused = {}
-        if AAN_PAUSE and pid.startswith(AAN_PREFIXES):
-            live_then = pid in existing and not old.get("hold", True) and "" < old.get("releasedAt", "") <= AAN_PAUSE
+        pause = AAN_PAUSE if pid.startswith(AAN_PREFIXES) else RNC_PAUSE
+        if pause:
+            live_then = pid in existing and not old.get("hold", True) and "" < old.get("releasedAt", "") <= pause
             if old.get("pausedOn") or (not hold and not live_then):
-                hold, paused = True, {"pausedOn": old.get("pausedOn") or AAN_PAUSE}
+                hold, paused = True, {"pausedOn": old.get("pausedOn") or pause}
         elif old.get("pausedOn"):
             hold = not date
         rows.append({

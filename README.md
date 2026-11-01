@@ -80,3 +80,12 @@ publication, including DDW. `AAN_PAUSE` in `scripts/sync_releases.py` holds ever
 `data/releases.json` that was not live on Oct 30 (`hold: true`, `"pausedOn": "2026-10-30"`, `releasedAt` kept), and
 holds any AaN piece added later the same way. The pages live on Oct 30 stay live. RN Collins pieces are not affected.
 To undo, set `AAN_PAUSE = ""` and run `python3 scripts/sync_releases.py`.
+
+## RN Collins release pause (RN, Oct 30, 2026)
+
+No RN Collins page goes live on its own until every RN Collins content package is complete. `RNC_PAUSE` in
+`scripts/sync_releases.py` holds every piece that is not AaN (tfh, ddw26, ioo, polymath, clr, film, makers, museum and
+the rest) that was not live on Nov 1, 2026 (`hold: true`, `"pausedOn": "2026-11-01"`, `releasedAt` kept), and holds any
+such piece added later the same way. The 864 RN Collins pages live on Nov 1 stay live; 366 are held. The daily
+`/api/release-day` cron only refreshes pages, so it cannot open a held piece. AaN pieces are not affected.
+To undo, set `RNC_PAUSE = ""` and run `python3 scripts/sync_releases.py`, which restores every paused entry exactly.
