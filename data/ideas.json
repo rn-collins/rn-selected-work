@@ -798,6 +798,30 @@
     "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-56-problem"
   },
   {
+    "id": "hawaiian-technology-modern-music",
+    "title": "The Hawaiian Technology Inside the Sound of Modern Music",
+    "category": "Culture + fieldwork",
+    "stage": "Published essay",
+    "question": "How did Hawaiian steel-guitar playing become part of modern music technology, and why do familiar invention stories so often leave its musicians out?",
+    "expression": "A published Tech From Here essay connecting a musical technique with the instruments, teaching systems and businesses that carried it beyond Hawaiʻi. It follows Joseph Kekuku and other Hawaiian players through touring, recordings and instruction, then examines louder instruments, magnetic pickups, electric lap steels and pedal steel. The essay traces connections with blues, country and other musical traditions, asking how performers, instrument makers, patents and record marketing shape who receives credit. Its central subject is the movement of knowledge through people and institutions, as well as through hardware.",
+    "boundary": "Published on Polymath; the current publisher record and complete article text were reviewed. The essay acknowledges conflicting accounts of the technique’s first discovery. This portfolio summary does not independently establish invention priority, every historical attribution or the article’s quantitative claims. Source images and derivative media have not been cleared here. The full essay stays on its existing publication; its inclusion does not imply a completed multimedia package.",
+    "held": false,
+    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Related narrower drafts were compared separately; publication does not establish independent claim or media-rights clearance.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-hawaiian-technology-inside-the-sound-of-modern-music"
+  },
+  {
+    "id": "hawaiian-newspapers-searchable-world",
+    "title": "Hawaiʻi Built a Searchable World Before Search Engines",
+    "category": "Culture + fieldwork",
+    "stage": "Published essay",
+    "question": "What does it take to turn surviving Hawaiian-language newspapers into an archive that people can actually find, read and use?",
+    "expression": "A published Tech From Here essay about Hawaiian newspapers as a record of political argument, everyday life, family history and environmental events. It distinguishes the original print network and early manual indexes from later digitization, transcription and database projects. The article follows the work behind Hoʻolaupaʻi, Ulukau, Papakilo and He Aupuni Palapala, explaining why photographing a page is different from making its words searchable and understandable. It discusses damaged print, changing spelling and the limits of optical character recognition, then uses genealogy and historical storm research to illustrate what access can make possible. A recurring argument is that fluent readers, translators and archivists remain essential to the technology.",
+    "boundary": "Published on Polymath; the current publisher record and complete text were reviewed. RN’s work is the essay, not the archives, databases or preservation programmes it describes. The search-engine comparison is an organizing analogy, not a claim that a modern search service existed in the nineteenth century. Historical, legal, language-use and collection-size claims have not been independently rechecked here. The article’s linked HTW edition and accompanying media are separate review tasks, not a newly verified complete package. Related to The Two Marks Your Computer Had to Learn, but focused on newspaper recovery and access rather than character encoding and input.",
+    "held": false,
+    "provenance": "Existing editorial catalogue and estate-audit handoff reconciled with current publisher metadata and complete article text on November 3, 2026. Source claims, edition equality and media rights remain separate from publication verification.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/hawai-i-built-a-searchable-world-before-search-engines"
+  },
+  {
     "id": "ai-and-your-work",
     "title": "AI & Your Work",
     "category": "Learning",
