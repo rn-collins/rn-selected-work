@@ -84,7 +84,7 @@ export const categories: { id: CategoryId; title: string; blurb: string }[] = [
     id: "tools",
     title: "Decision tools and workbenches",
     blurb:
-      "Browser-local instruments for working through one decision. Nothing is transmitted, nothing needs an account, and each one states the judgement it cannot make for you.",
+      "Tools for working through decisions, from browser-local workbenches to account-gated or self-hosted systems. Read each record for its access, data-handling and judgment boundaries.",
   },
   {
     id: "education",
@@ -102,7 +102,7 @@ export const categories: { id: CategoryId; title: string; blurb: string }[] = [
     id: "records",
     title: "Field investigations and published records",
     blurb:
-      "Reader-facing editorial systems with the evidence, revisions and rights records kept attached to the published work.",
+      "Field investigations, research modules and editorial systems at different stages, including published editions and held drafts. Each record distinguishes the work from its publication status.",
   },
   {
     id: "practice",
@@ -822,16 +822,16 @@ export const buildNotes: BuildNote[] = [
     repo: "tech-from-here-mjbizcon",
     title: "Tech From Here: MJBizCon",
     category: "records",
-    status: "Project record · research complete, nothing published",
+    status: "Paused · research and draft packages; no pieces released",
     statusKind: "paused",
     problem:
       "Cannabis coverage reports the politics and the money. The machinery that actually governs the plant — the tag on every plant, the laboratory test, the state tracking interface, the rules written around them — is where the decisions get made, and it is barely described.",
     does:
-      "Holds the research corpus behind an investigation into how Nevada regulates cannabis as a technical system: 92 source records, a fourteen-part story architecture, and the production material each part would need. The archive is searchable, and every draft carries the readiness state it was left in.",
+      "Separates RN’s research and draft packages from a public gallery that displays only released pieces. The release record checked on November 3, 2026 contains six held entries and no posting dates. The public gallery has no released pieces; it is not a searchable research archive.",
     builtOn:
-      "Public records and published sources, kept in a repository that separates research from anything approved for release.",
+      "A static gallery builder reads a release record and pause control. Research archive files are excluded from the generated site. This output boundary does not make files in a public repository confidential.",
     limits:
-      "Nothing here has been published or scheduled. Inclusion in the record is not editorial approval, rights clearance or a claim that any draft is finished.",
+      "The inspected release record establishes no released pieces through this gallery. Research completeness, scientific and legal review, media rights and package readiness remain unverified. Repository and site availability do not establish an accepted commission or editorial approval.",
   },
   {
     repo: "color-vision-field-guide",

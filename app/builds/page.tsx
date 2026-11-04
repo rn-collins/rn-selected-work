@@ -18,7 +18,7 @@ export const revalidate = 3600;
 export const metadata: Metadata = {
   title: "Build index",
   description:
-    "Every reachable build in the estate, generated from the GitHub and Vercel APIs rather than kept by hand: what each one addresses, what it does, what it runs on, and its honest status.",
+    "A dated public selection of RN Collins’s tools, prototypes, proposals and research builds, with project descriptions and recorded status.",
   alternates: { canonical: "/builds" },
 };
 
@@ -26,6 +26,7 @@ const generated = new Date(inventoryGeneratedAt).toLocaleDateString("en-GB", {
   day: "numeric",
   month: "long",
   year: "numeric",
+  timeZone: "UTC",
 });
 
 export default function BuildIndexPage() {
@@ -34,16 +35,15 @@ export default function BuildIndexPage() {
       <header className="canonicalSubhero shell">
         <p className="eyebrow">Build index · {builds.length} builds · generated {generated}</p>
         <h1>
-          Everything that is
+          Explore the builds,
           <br />
-          <em>actually running.</em>
+          <em>and where they stand.</em>
         </h1>
         <p>
-          This page is generated. A script asks GitHub what repositories exist and Vercel what is
-          deployed, cross-references the two, checks that each production URL answers, and writes the
-          result to a data file the page renders from. The previous version of this index was a list
-          kept by hand, and a list kept by hand drifts: it had settled at 32 entries while the estate
-          held more than twice that.
+          This public selection brings together tools, research resources, prototypes and proposals.
+          The inventory snapshot dates to {generated}; the descriptions are curated separately.
+          A reachable page can be a prototype, a signpost or a paused project. It does not establish
+          that the full product works, that its research is complete or that it was commissioned.
         </p>
       </header>
 <DiscoveryBrowser items={discoveryItems().filter(item => ["Build"].includes(item.kind))} title="Find a tool or working system" />
@@ -52,24 +52,22 @@ export default function BuildIndexPage() {
         <div className="canonicalSplit">
           <p className="eyebrow">How to read it</p>
           <div>
-            <h2 id="method">Status is the part worth trusting.</h2>
+            <h2 id="method">Read the status with its limits.</h2>
             <p className="bigcopy">
               Several of these are retired prototypes. Several are paused with their back ends
               switched off. One is a research preview with a waitlist and no released platform. Each
               says so in its own words rather than being flattened into a uniform present tense.
             </p>
             <p>
-              Where a build reports its own health — the monitors publish their last successful sweep
-              and a staleness flag — the status line here repeats what the build says about itself,
-              including when that is &ldquo;overdue&rdquo;. Where a build is thin, it is described as
-              thin. Nothing here is written from a meta description.
+              Read each status as a recorded description, not a live health check. Availability,
+              background collection and publication readiness need their own dated verification.
+              The wider work register also includes writing, concepts and private work beyond this index.
             </p>
             <p className="indexProvenance">
               Generated {generated} from {inventoryCounts.repositories} repositories and{" "}
-              {inventoryCounts.vercelProjects} Vercel projects. {inventoryCounts.published} builds
-              answered with content and are listed below. {inventoryCounts.excluded} were held back —
+              {inventoryCounts.vercelProjects} Vercel projects. {builds.length} entries are displayed below. {inventoryCounts.excluded} were held back —
               client engagements, private workspaces, internal APIs, duplicate deployments and test
-              projects. Regenerate with <code>node scripts/regenerate-builds.mjs</code>.
+              projects. These are snapshot counts, not a current census or a count of completed projects.
             </p>
           </div>
         </div>
@@ -141,7 +139,7 @@ export default function BuildIndexPage() {
                     {build.linkHeld && <p className="indexHeld">{build.linkHeld}</p>}
                     <div className="indexActions">
                       <Link href={`/builds/${build.repo}`}>
-                        See it running <span aria-hidden="true">→</span>
+                        Read the build record <span aria-hidden="true">→</span>
                       </Link>
                       {!build.linkHeld && (
                         <a href={build.live} target="_blank" rel="noreferrer">
@@ -173,8 +171,8 @@ export default function BuildIndexPage() {
           <div>
             <h2 id="held-back">What is deliberately not here.</h2>
             <p className="bigcopy">
-              A complete index is only honest if it says where it stops. These deployments exist and
-              are kept off the index on purpose.
+              This public selection has limits. The snapshot records the following exclusions;
+              it does not establish their current deployment state.
             </p>
             <dl className="indexExcluded">
               {excludedFromIndex.map((entry) => (

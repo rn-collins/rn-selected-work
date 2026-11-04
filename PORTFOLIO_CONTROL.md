@@ -141,3 +141,43 @@ Every build must include: problem/context; what RN noticed; research; concept; w
 - [ ] To turn indexing on (RN's packages post after October 17, 2026): change `export const ESSAYS_INDEXABLE = false;` to `true` in `lib/essays-config.ts`, commit and deploy. The pages become indexable and `/essays`, each account index and every essay join `sitemap.xml`. To turn it off again, set it back to `false`.
 - [x] Journal of Biophilic Design: RN's five articles (Issues 17, 18, 20, 21, 22) as small PDFs at `public/journal/<slug>.pdf`, with an index at `/journal` and a landing page at `/journal/<slug>` (title, issue and date as printed, byline as printed, the PDF, the text version at `/writing/journal-of-biophilic-design/<slug>`, links to RN Selected Work and The Polymath). Each PDF holds only RN's article and its references (3 to 11 pages, 0.8 to 4.2 MB), cut from the full issue by `scripts/extract_journal_pages.py` with page size and content unchanged; the issue's document info is not carried over. The full issues are never hosted.
 - [x] The journal pages follow the same flag: while `ESSAYS_INDEXABLE` is `false` they carry `noindex`, the PDFs get an `X-Robots-Tag: noindex` header (`next.config.ts` reads the same constant), and none is in `sitemap.xml`. Setting it to `true` lifts all three.
+
+
+## Work register reconciliation — November 3, 2026 (Hawaiʻi)
+
+Current source baseline: PR #40, `f89e3659400bf694f4b11f22f1a109fd81758f33`.
+This section records a bounded correction batch, not completion of the estate audit.
+
+### Existing homes and counts
+
+- `/work`: 77 individual build cards, seven categories, six primary cases. Rendered production DOM rechecked in this session; category counts and navigation to `/builds` confirmed. At a 1363px desktop viewport, document scroll width was 1348px. Mobile inspection remains pending.
+- `data/builds.json`: October 10 inventory snapshot, 127 repositories / 159 Vercel projects. Do not replace these with newer audit totals without regenerating and verifying the actual inventory.
+- `data/ideas.json`: 102 concept records, overlapping the existing build records; not 102 additional completed works. The MJBizCon work is represented here under `cannabis-as-a-technical-system`.
+- Open draft PR #38 adds two concepts to that existing catalog. Do not duplicate or overwrite its work; it is not merged. PR #25 retains its separate DDW review condition.
+- Published writing uses `lib/publication-archive.ts` and `lib/journal-articles.ts`. This batch does not certify their completeness or refresh their publication evidence.
+- The comprehensive private register is not equivalent to any of these public projections. Continue the existing audit and existing registry identities; no replacement full register was created here.
+
+### Implemented correction scope
+
+1. `/builds` now calls itself a dated public selection. Removed the promise that every entry is currently running, the automatic live-health implication, and “See it running” links for held or paused records.
+2. The shared build-record component dates URL evidence and distinguishes it from curated project status. A successful response does not prove completion, research approval, background-service health or adoption.
+3. Tool category copy no longer promises every tool is browser-local and account-free; the same category contains gated and self-hosted systems. Editorial category copy now includes held drafts and research modules.
+4. MJBizCon build note and its existing concept record agree: paused research/draft work, six held release entries, no released pieces through the gallery. Removed unverified research-complete/searchable-public-archive wording. Existing destination stays separate; no release records or holds were changed.
+5. Internal `lastDeployed` field renamed `repositoryPushedAt`, and `verifiedStatus` renamed `inventoryHttpStatus`: the upstream fields are GitHub push time and a dated HTTP observation, not deployment evidence.
+
+### MJBizCon source evidence
+
+Directly read current `scripts/build.mjs`, `scripts/releases.mjs`, `data/releases.json`, and `data/release-pause.json` in `rn-collins/tech-from-here-mjbizcon`.
+Git blob SHAs respectively: `615398c96987860b3cfea4c5312296f350dcab2a`, `71134aee347dd5ef27e1c606b78e1e26414b2fc1`, `2f0aebc73c75d8a98749db2a3e9202efd32e0eeb`, `deb5ca6cc7d018006661928027b1c6e88e1273e6`.
+All six entries are held with blank posting dates; pause is on with an empty live list. Builder excludes archive files from site output. That is not repository confidentiality or full research review. No scientific/legal conclusion was newly validated here.
+
+### Next source-backed corrections
+
+- NSAG: parent record says fifteen prototypes are retired and not part of the current site; module records say they are live there. Verify each destination and distinguish historical deployment from current module before resolving.
+- Claude for Small Business and Keiki Robotics: primary case-study statuses say release-blocked, while build notes say live. Reconcile exact scope and approval evidence; reachability cannot settle authorization or collaboration claims.
+- Netherlands: confirm the claimed 48 published investigations against current release records and the separate DDW destination. Do not equate a draft corpus with publication.
+- Missing private/internal projects from the newest audit batch require permission-aware representation decisions, not automatic public cards. Preserve identities and all release holds.
+- Read the two pending concepts in PR #38 and finish its checks without duplicating them.
+- Continue discovery across Polymath, Aloha AI, research, writing and proposals. Full estate and work-register completeness remain open.
+
+No design direction, imagery, client disclosure, underlying content release, or site consolidation is part of this batch.

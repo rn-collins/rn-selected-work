@@ -522,10 +522,10 @@
     "category": "Culture + fieldwork",
     "stage": "Paused",
     "question": "Cannabis coverage reports the politics and the money. The machinery that actually governs the plant — the tag on every plant, the laboratory test, the state tracking interface, the rules written around them — is where the decisions get made, and it is barely described.",
-    "expression": "Holds the research corpus behind an investigation into how Nevada regulates cannabis as a technical system: 92 source records, a fourteen-part story architecture, and the production material each part would need. The archive is searchable, and every draft carries the readiness state it was left in.",
-    "boundary": "Nothing here has been published or scheduled. Inclusion in the record is not editorial approval, rights clearance or a claim that any draft is finished.",
+    "expression": "Separates the author’s research and draft packages from a public gallery that displays only released pieces. The release record checked on November 3, 2026 contains six held entries and no posting dates. The public gallery has no released pieces; it is not a searchable research archive.",
+    "boundary": "The inspected release record establishes no released pieces through this gallery. Research completeness, scientific and legal review, media rights and package readiness remain unverified. Repository and site availability do not establish an accepted commission or editorial approval.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; release controls and gallery builder rechecked November 3, 2026. Research corpus review remains incomplete."
   },
   {
     "id": "color-vision-field-guide",
