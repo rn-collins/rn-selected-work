@@ -610,10 +610,10 @@
     "category": "Institutions",
     "stage": "Documented build",
     "question": "Governance advice about human-facing systems is usually written as policy and handed over, with no account of how it becomes a decision anyone has to make on a Tuesday.",
-    "expression": "Presents evidence-led governance modules and human-supervised institutional advisory work, and is the current home of the work that the fifteen retired M-series prototypes were the first attempt at.",
-    "boundary": "The current site is the maintained surface. The fifteen numbered prototype modules listed further down this index are retired and are not part of it.",
+    "expression": "Publishes fifteen module scope pages, proposed governance dimensions and an operations matrix. The matrix distinguishes readable research material from paused assessment collection and human-supervised advisory delivery.",
+    "boundary": "The standalone module deployments are retired; the hub retains their scope pages. Assessment collection is paused. Readable pages do not establish validated instruments, automated reports, accreditation or completed advisory engagements.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; module scope and operations-matrix status rechecked November 3, 2026. Scientific evidence and advisory outcomes were not revalidated."
   },
   {
     "id": "evidence-studio",
@@ -688,9 +688,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is trauma-informed legal space.",
     "expression": "A documented research module examining trauma-informed legal space, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "ai-legal-navigation",
@@ -699,9 +699,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is ai legal navigation.",
     "expression": "A documented research module examining ai legal navigation, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "psychedelic-harm-reduction",
@@ -710,9 +710,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is psychedelic harm reduction.",
     "expression": "A documented research module examining psychedelic harm reduction, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "cannabis-public-health-infrastructure",
@@ -721,9 +721,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is cannabis public health infrastructure.",
     "expression": "A documented research module examining cannabis public health infrastructure, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "biophilic-civic-infrastructure",
@@ -732,9 +732,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is biophilic civic infrastructure.",
     "expression": "A documented research module examining biophilic civic infrastructure, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "ethical-civic-sponsorship",
@@ -743,9 +743,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is ethical civic sponsorship.",
     "expression": "A documented research module examining ethical civic sponsorship, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "conscious-cities",
@@ -754,9 +754,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is conscious cities.",
     "expression": "A documented research module examining conscious cities, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "burnout-recovery-infrastructure",
@@ -765,9 +765,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is burnout recovery infrastructure.",
     "expression": "A documented research module examining burnout recovery infrastructure, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "cannabis-healthcare-visibility",
@@ -776,9 +776,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is cannabis healthcare visibility.",
     "expression": "A documented research module examining cannabis healthcare visibility, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "healthcare-built-environment",
@@ -787,9 +787,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is healthcare built environment.",
     "expression": "A documented research module examining healthcare built environment, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "medical-technology-and-evidence-standards",
@@ -798,9 +798,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is medical technology and evidence standards.",
     "expression": "A documented research module examining medical technology and evidence standards, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "nervous-system-aware-education-systems",
@@ -809,9 +809,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is nervous-system-aware education systems.",
     "expression": "A documented research module examining nervous-system-aware education systems, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "traditional-and-complementary-medicine-governance",
@@ -820,9 +820,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is traditional and complementary medicine governance.",
     "expression": "A documented research module examining traditional and complementary medicine governance, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "space-governance-and-interplanetary-jurisdiction",
@@ -831,9 +831,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is space governance and interplanetary jurisdiction.",
     "expression": "A documented research module examining space governance and interplanetary jurisdiction, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "isolation-confinement-and-extreme-environment-governance",
@@ -842,9 +842,9 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is isolation, confinement and extreme environment governance.",
     "expression": "A documented research module examining isolation, confinement and extreme environment governance, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "Part of a related fifteen-module research series. The hub retains public scope pages; assessment collection is paused and standalone deployments are retired. Proposed dimensions are not validated scores, audits, accreditations or certifications.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; scope-page status and operations matrix checked November 3, 2026. This is an availability review, not full scientific validation."
   },
   {
     "id": "the-moving-studio",

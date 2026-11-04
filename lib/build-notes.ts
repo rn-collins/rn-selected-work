@@ -944,15 +944,15 @@ export const buildNotes: BuildNote[] = [
     repo: "nsag-site",
     title: "Neurocognitive Systems Advisory Group",
     category: "practice",
-    status: "Live · advisory site; the fifteen prototype modules are retired",
+    status: "Public module scopes · assessment collection paused",
     statusKind: "live",
     problem:
       "Governance advice about human-facing systems is usually written as policy and handed over, with no account of how it becomes a decision anyone has to make on a Tuesday.",
     does:
-      "Presents evidence-led governance modules and human-supervised institutional advisory work, and is the current home of the work that the fifteen retired M-series prototypes were the first attempt at.",
+      "Publishes fifteen module scope pages, proposed governance dimensions and an operations matrix. The matrix distinguishes readable research material from paused assessment collection and human-supervised advisory delivery.",
     builtOn: "A static site on Vercel, with earlier full versions archived in the repository rather than deleted.",
     limits:
-      "The current site is the maintained surface. The fifteen numbered prototype modules listed further down this index are retired and are not part of it.",
+      "The standalone module deployments are retired; the hub retains their scope pages. Assessment collection is paused. Readable pages do not establish validated instruments, automated reports, accreditation or completed advisory engagements.",
   },
   {
     repo: "creator-brand-evidence",
@@ -1044,8 +1044,8 @@ export const buildNotes: BuildNote[] = [
  *
  * Each was first published as its own deployment; those standalone deployments were
  * retired on 15 August 2026 and the hostnames now serve a signpost so links already
- * published against them keep resolving. The modules themselves are current and live on
- * the NSAG site. This table used to carry a generic governance taxonomy — "Risk &
+ * published against them keep resolving. The module scope pages remain readable on
+ * the NSAG site; assessment collection is paused. This table used to carry a generic governance taxonomy — "Risk &
  * Compliance", "Vendor Assurance" — which matched none of them.
  */
 const nsagModules: [string, string, string][] = [
@@ -1072,15 +1072,15 @@ for (const [repo, code, subject] of nsagModules) {
     repo,
     title: `NSAG ${code} — ${subject}`,
     category: "records",
-    status: "Live on the NSAG site · this address is a signpost",
+    status: "Public module scope · assessment collection paused",
     statusKind: "live",
     problem: `One of fifteen modules setting out the evidence base for a single institutional design problem. This one is ${subject.toLowerCase()}.`,
     does:
-      `States the evidence base for the problem, the six governance dimensions the module assesses, and what it does and does not establish. The module is published and free to read at nsag-site.vercel.app/${slug}.`,
+      `States the evidence base for the problem, the six governance dimensions the module assesses, and what it does and does not establish. The scope is available at nsag-site.vercel.app/${slug}; assessment collection is paused.`,
     builtOn:
       "Fifteen separate deployments originally, one per module, which meant scope, evidence and release status had to be maintained in fifteen places. They were consolidated onto the NSAG site on 15 August 2026.",
     limits:
-      `This hostname is not the module. It serves a signpost so that links published against the old standalone deployment keep resolving rather than 404ing. The module itself is current at nsag-site.vercel.app/${slug}.`,
+      `This hostname is not the module. It serves a signpost so that links published against the old standalone deployment keep resolving rather than 404ing. The hub publishes the scope at nsag-site.vercel.app/${slug}, not an active assessment service. These proposed dimensions are not validated institutional scores, audits, accreditations or certifications.`,
   });
 }
 

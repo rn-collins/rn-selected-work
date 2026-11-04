@@ -181,3 +181,38 @@ All six entries are held with blank posting dates; pause is on with an empty liv
 - Continue discovery across Polymath, Aloha AI, research, writing and proposals. Full estate and work-register completeness remain open.
 
 No design direction, imagery, client disclosure, underlying content release, or site consolidation is part of this batch.
+
+
+## NSAG status reconciliation and hosted preview — November 3, 2026 (Hawaiʻi)
+
+Continues PR #41; preserves PR #38 and #25. The first PR41 head `ef3b51de1ddcff60ab8f852bd84bc12d56ff61c8` is deployed to its Vercel preview, not merged to production. Browser inspection confirmed the corrected MJBizCon record, its separate empty public-gallery iframe, and the revised work gallery (77 cards, seven categories, no desktop horizontal overflow at 1363px). A screenshot was inspected. No mobile viewport API was available in this session; mobile acceptance remains open.
+
+### Resolved discrepancy
+
+The NSAG parent build record incorrectly said the fifteen modules were absent from the hub. Read `vercel.json`: deployed output is `public`, not the root-level legacy `index.html`. Read the operations matrix and inspect status/limitation sections of all fifteen `public/mN.html` files. The matrix says collection is paused for all fifteen; module pages describe educational prototypes and explicitly disavow validated institutional scores, audits, accreditation and certification. M14/M15 use different paused-interaction wording from M1–M13. The M1 legacy standalone index explicitly records retirement and points to the hub.
+
+All fifteen module URLs and the operations-matrix URL returned 200, without redirects, and their complete response bytes match the corresponding inspected Git blobs below. This is route/content identity verification and targeted status review, not full scientific, legal, security or interaction review. No forms were submitted; no operational service or advisory outcome is certified.
+
+Updated the parent note, fifteen generated module notes, corresponding sixteen existing concept records and CONCEPT_GALLERY.md. Preserved 77 build cards and 102 concepts; these are related records, not new builds or inventions. Preserved all links, preview configuration, release holds and exclusions.
+
+| Public route | Matching Git blob SHA |
+| --- | --- |
+| https://nsag-site.vercel.app/assessment-status | `41d1db857c58f54151f6b28fc33d742d4055a5bb` |
+| https://nsag-site.vercel.app/m1 | `36ecf9f7c7b244d07db2ebacb357455e0e049294` |
+| https://nsag-site.vercel.app/m2 | `3e32d8bb7acecd0d96cdcb8ffde5e520250237d4` |
+| https://nsag-site.vercel.app/m3 | `02a6185f65e6ed694a7affb44e3d1dc67b80deff` |
+| https://nsag-site.vercel.app/m4 | `d91a1be4f08649213b19e60b85aa2c8de13722ab` |
+| https://nsag-site.vercel.app/m5 | `6dff37124660548a78cef79366a37114cca96313` |
+| https://nsag-site.vercel.app/m6 | `229d6c0cad4586c4603a77ebc1692043e00b11e3` |
+| https://nsag-site.vercel.app/m7 | `6c85fa27b432ce40e0cc8faec93e21b9d6ab6cac` |
+| https://nsag-site.vercel.app/m8 | `65fed7a5c49ef23286ae3f77c041489e090e3a66` |
+| https://nsag-site.vercel.app/m9 | `1dd63f61e67fc0f899490889e516f9fd856c973a` |
+| https://nsag-site.vercel.app/m10 | `d120baabd106775dd93adc878f7b5e1af7e3effa` |
+| https://nsag-site.vercel.app/m11 | `4902359fb65d5999eb9cfd7fbf8778347429ecca` |
+| https://nsag-site.vercel.app/m12 | `7ca24810bb301b0ca8153f15be6c84a8696f16b8` |
+| https://nsag-site.vercel.app/m13 | `f2fe29efb3d5219301f55aa7982a05d1122ed622` |
+| https://nsag-site.vercel.app/m14 | `328f922e970882953ee73685c726fa25a18bb4ee` |
+| https://nsag-site.vercel.app/m15 | `e9fd875bf0dd8e9ca857ec8872c8ac397c738c30` |
+
+
+Next: verify the updated PR41 preview, retain its production-unmerged state until the existing merge boundary is resolved, then reconcile the Claude for Small Business and Keiki case-study/card release-status conflicts from approval evidence. Netherlands publication-count review, PR38 validation, private-register coverage and mobile acceptance remain open. Do not rerun unchanged NSAG byte checks unless source or deployment changes.
