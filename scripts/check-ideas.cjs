@@ -11,7 +11,7 @@ for (const idea of ideas) {
 for (const idea of ideas) {
  for (const key of ['publicationUrl', 'appendixUrl']) {
   if (idea[key] === undefined) continue;
-  assert.equal(idea.stage, 'Published essay', `${idea.id}: publication link requires published status`);
+  assert.ok(idea.workType === 'Writing' && idea.workStatus === 'Published' && ['Published essay', 'Published essay · draft derivatives'].includes(idea.stage), `${idea.id}: publication link requires published writing`);
   assert.match(idea[key], /^https:\/\/polymath-rn-collins\.beehiiv\.com\/p\/[a-z0-9-]+$/, `${idea.id}: only verified public article routes, no draft/query/auth URLs`);
  }
  if (idea.appendixUrl !== undefined) {
@@ -44,3 +44,11 @@ for(const idea of ideas){
 console.log('Work taxonomy and collection relationships passed.');
 
 for(const idea of ideas) assert.equal(idea.releaseHeld,idea.held || idea.stage==='Release-held concept',`${idea.id}: release hold lost`);
+
+for(const idea of ideas){
+ if(idea.workType==='Writing' && idea.workStatus==='Published') assert.ok(idea.publicationUrl, `${idea.id}: published writing needs a verified reading link`);
+ if(idea.holdScope!==undefined){
+  assert.equal(idea.holdScope,'derivatives');
+  assert.ok(idea.held && idea.releaseHeld && idea.publicationUrl && idea.workStatus==='Published', `${idea.id}: derivative-only hold needs a linked published work and retained hold`);
+ }
+}

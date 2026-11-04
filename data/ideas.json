@@ -925,7 +925,9 @@
     "provenance": "Existing editorial catalog P181 reconciled with the current public Polymath essay November 3, 2026. Complete earlier launch-package text reviewed. The public essay and unfinished derivatives are represented as one related work.",
     "workType": "Writing",
     "workStatus": "Published",
-    "releaseHeld": true
+    "releaseHeld": true,
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/most-of-the-cias-lsd-came-from-eli-lilly",
+    "holdScope": "derivatives"
   },
   {
     "id": "recognition-before-credentials",
