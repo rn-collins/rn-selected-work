@@ -345,3 +345,16 @@ Audit continuation033 has advanced the formerly blocked work index to 18/3,043 r
 Validation for this batch: full 1,053-page production build, TypeScript, Ideas identity/content/privacy checks and whitespace checks passed. All three description fields for all 115 entries were verified in generated Ideas output; the generated contact page contains the LinkedIn preference and established profile URL, without the old Instagram priority claim. Entry IDs/order and privacy-held flags are unchanged. Hosted acceptance is recorded in PR41 after deployment. This is editorial and rendering verification, not complete source fact-checking or project completion.
 
 Contact follow-through: the older `/connect` page also contained an Instagram-first button and priority claim. Updated both to the same existing LinkedIn profile and preference, preserving its other content. The social accounts themselves remain available.
+
+
+## Published-writing intake — November 3, 2026 Hawaiʻi
+
+Continued the existing editorial catalogue and continuation033 handoff. Read current publisher metadata and complete text for two Formation Notes essays, their overlapping draft, and four handed-off essays. Six published/web/free records name RN Collins; the alternate Recognition text remains draft. No newsletter-send claim, draft publication or replacement. The published Recognition version contains a fuller personal reflection and career connection; the draft is a shorter alternate treatment of the same presentation and method. It remains one work in this gallery.
+
+Added six public-safe summaries with established Polymath reading links. The papaya, Hawaiian characters and half-hour essays relate to the existing HTW programme. Their current Polymath text is the edition reviewed here; the audit’s separate HTW source/HTTP evidence is attributed, not repeated, and edition equality is unverified. Web retrieval was unavailable for the four handoff URLs; current publisher metadata and full non-subscriber text provided the verification route. The 56% current version retains its differences from the older package. Scientific/legal/cultural/statistical claims, images, rights and complete multimedia acceptance are not independently cleared.
+
+121 gallery records / 77 build cards. Privacy-held flags on existing works remain unchanged. LinkedIn preference and all prior description improvements preserved. Optional public-article links use a restricted field with validation; no private draft URL, source file or recipient is shipped. Existing catalogue remains the source register; no duplicate inventory or scheduled task. PR38 stays separate.
+
+Next: follow the existing catalogue’s remaining individual-writing queue, beginning with The Hawaiian Technology Inside the Sound of Modern Music, whose source review was partial in continuation033; assess family-writing privacy separately. Audit index remains 18/3,043, next item18, unless its owner advances it. Keep production and source release holds.
+
+Batch checks: full 1,053-page build, TypeScript, 121-record identity/content/privacy checks and whitespace checks passed. All six new titles, complete description fields and publication URLs are present in generated output; all 115 prior records remain byte-equivalent as parsed objects. Hosted dialog/link and responsive checks are recorded in PR41 after deployment.

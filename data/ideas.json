@@ -726,6 +726,78 @@
     "provenance": "Existing editorial catalog P181 reconciled with the current public Polymath essay November 3, 2026. Complete earlier launch-package text reviewed. The public essay and unfinished derivatives are represented as one related work."
   },
   {
+    "id": "recognition-before-credentials",
+    "title": "The Recognition Came Before the Credentials",
+    "category": "Culture + fieldwork",
+    "stage": "Published essay",
+    "question": "How did RN recognize a way of thinking across disciplines before advanced credentials gave it a formal name?",
+    "expression": "A personal essay in Polymath’s Formation Notes series. It begins with an undergraduate psychopharmacology presentation at Penn and reflects on how a subject spanning biology, culture, history and law helped RN recognize an intellectual direction. The essay distinguishes useful research boundaries from the belief that serious work must stay inside one discipline. It connects that experience with later study, teaching, research and writing without claiming that one presentation caused a career.",
+    "boundary": "Published autobiographical reflection, not a study of professional identity or a general claim about how expertise develops. An overlapping unpublished revision is retained with the same work; it is not a third essay in this batch. The published text remains the reader destination, and no draft replacement or release is implied.",
+    "held": false,
+    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-recognition-came-before-the-credentials"
+  },
+  {
+    "id": "knowledge-is-not-finished",
+    "title": "Knowledge Is Not Finished When I Understand It",
+    "category": "Learning",
+    "stage": "Published essay",
+    "question": "What responsibilities come with making scientific knowledge understandable to people outside the field?",
+    "expression": "A personal essay in Polymath’s Formation Notes series about communication as part of intellectual work. Using psychoactive-plant science as its recurring example, it examines what can be lost when evidence moves between papers, teaching, clinical conversations, regulation and public stories. RN’s stated approach is to explain what is known, inferred, disputed or unknown while preserving context and respecting the audience. The essay articulates a working philosophy rather than presenting a communication experiment.",
+    "boundary": "Published essay, distinct from the related account of recognizing an interdisciplinary identity. The full text and current web-publication state were checked. The autobiographical account is not independent credential verification, and the essay does not establish measured learning, clinical effects or the effectiveness of a tested teaching programme.",
+    "held": false,
+    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/knowledge-is-not-finished-when-i-understand-it"
+  },
+  {
+    "id": "papaya-rescue-system",
+    "title": "The Papaya Was Engineered. So Was the Rescue System.",
+    "category": "Culture + fieldwork",
+    "stage": "Published essay",
+    "question": "What does a technological rescue require beyond the invention itself?",
+    "expression": "A published investigation of Rainbow papaya that follows plant research into breeding, field trials, regulatory review, intellectual-property licensing, seed distribution, grower decisions and export markets. The essay asks how these connected systems shaped adoption and why virus resistance alone cannot explain the industry’s later condition. It also identifies perspectives still needed for a fuller history, including growers and communities. This is individual writing related to the Hawaiʻi Tech Week research programme, not another technology build.",
+    "boundary": "The current Polymath essay was read and its publication verified. The audit separately records an HTW story edition; exact equality between editions is not established here. Historical, scientific, legal and causal claims still require source-level review. Related carousel and motion materials remain drafts with separate permissions and release decisions.",
+    "held": false,
+    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-papaya-was-engineered-so-was-the-rescue-system"
+  },
+  {
+    "id": "two-marks-computer",
+    "title": "The Two Marks Your Computer Had to Learn",
+    "category": "Culture + fieldwork",
+    "stage": "Published essay",
+    "question": "What has to happen for a language’s written characters to work across fonts, keyboards, databases and public systems?",
+    "expression": "A published investigation of Hawaiian writing and computing, centered on the ʻokina and kahakō. It follows character workarounds, Unicode, keyboard support, font gaps, search, screen readers, geographic records and government writing requirements. The essay distinguishes characters that look alike from characters software treats alike, and considers differences between spelling practices rather than assuming every text should be normalized the same way. It connects language stewardship with the practical decisions inside technical infrastructure.",
+    "boundary": "Current Polymath article text and publication checked; a related HTW edition is recorded by the existing audit. This review does not verify every historical date, current software behavior, legal interpretation or cultural claim. Images and related social or video derivatives are not cleared by the article’s publication, and the full work remains on its existing writing site.",
+    "held": false,
+    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-two-marks-your-computer-had-to-learn"
+  },
+  {
+    "id": "hawaii-half-hour",
+    "title": "Hawaiʻi Once Ran on a Half-Hour the Continent Forgot",
+    "category": "Culture + fieldwork",
+    "stage": "Published essay",
+    "question": "What does Hawaiʻi’s former half-hour time offset reveal about the rules hidden inside an everyday clock?",
+    "expression": "A published historical essay connecting longitude and local time with government orders, plantation schedules, wartime changes, territorial and federal law, radio signals and software time-zone records. It uses changes in Hawaiʻi’s time standard to examine coordination: a rule becomes useful only when institutions and people apply it. The essay also asks how archives and software can preserve the meaning of old timestamps when today’s time rules differ from those in force when a record was made.",
+    "boundary": "Current Polymath text and published status checked. The audit also records an HTW story edition; the two have not been established as identical. The essay contains acknowledged archival and implementation gaps. This is authored historical interpretation, not a new legal opinion, independently validated time database or release approval for related media drafts.",
+    "held": false,
+    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/hawai-i-once-ran-on-a-half-hour-the-continent-forgot"
+  },
+  {
+    "id": "the-56-percent-problem",
+    "title": "The 56% Problem",
+    "category": "Research",
+    "stage": "Published essay",
+    "question": "What can a widely repeated survey percentage tell us, and what changes when its question, denominator and limitations disappear?",
+    "expression": "A published, document-based essay examining a Hawaiʻi medical-cannabis survey and how its information-source statistic is repeated. It distinguishes overlapping response choices from exclusive groups, reported reliance from information quality or health outcomes, and an opt-in sample from a statewide estimate. The essay then compares relevant rules, official summaries, training information and related research, recording where public documents leave questions unanswered. Its contribution is a close reading of evidence and the claims built around it.",
+    "boundary": "The current web essay and full text were checked; no newsletter send is inferred. This newer article is not treated as identical to the earlier draft package recorded by the audit. Legal, medical and statistical claims require independent review before reliance. It is educational writing, not individual advice, and publication does not establish a finished or cleared multimedia package.",
+    "held": false,
+    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-56-problem"
+  },
+  {
     "id": "ai-and-your-work",
     "title": "AI & Your Work",
     "category": "Learning",

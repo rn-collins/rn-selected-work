@@ -7,7 +7,13 @@ for (const idea of ideas) {
  assert.match(idea.id,/^[a-z0-9-]+$/);
  assert.equal(typeof idea.held,'boolean');
 }
-const publicText=JSON.stringify(ideas);
+// Public reading links are allowed only in a dedicated field, never in prose or private references.
+for (const idea of ideas) {
+ if (idea.publicationUrl === undefined) continue;
+ assert.equal(idea.stage, 'Published essay', `${idea.id}: publication link requires published status`);
+ assert.match(idea.publicationUrl, /^https:\/\/polymath-rn-collins\.beehiiv\.com\/p\/[a-z0-9-]+$/, `${idea.id}: only verified public article routes, no draft/query/auth URLs`);
+}
+const publicText=JSON.stringify(ideas.map(({publicationUrl, ...record})=>record));
 assert.doesNotMatch(publicText,/InBody|Edge City|Pelsung|Gelephu|Lyft|Suzie Reider|Hystelica|Blest-Hopley|Yuriy Blokhin|Homecoming|Real Chemistry|Ericka McKenna|Laure Carli|Von Wooding|Helen Fan|Moonmax|Gordon Glenister|Joon Silverstein|Coachtopia|VanderVolpi|Frantz Ward|Vicente|Parabola|Buechler|Burgermeister|libfile_|file_0000|https?:\/\//i,'Recipient/private source must not leak into gallery data');
 const exhibitionSource=fs.readFileSync('lib/ideas.ts','utf8');
 const features=[...exhibitionSource.matchAll(/\{id:'([^']+)'/g)].map(m=>m[1]);
