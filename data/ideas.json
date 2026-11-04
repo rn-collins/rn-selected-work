@@ -704,6 +704,28 @@
     "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
   },
   {
+    "id": "why-men-are-going-to-the-jungle",
+    "title": "Why Men Are Going to the Jungle Instead of Therapy",
+    "category": "Culture + fieldwork",
+    "stage": "Essay draft",
+    "question": "What might the retreat economy reveal about masculinity, emotional life, testimony and the institutions people turn to for help?",
+    "expression": "A long-form essay draft examining public narratives around ayahuasca retreats, the commercial systems surrounding them, scientific explanations, regulatory questions and accounts of harm. The recovered manuscript includes seven sections and a resource list. The later corpus registry places the pilot within High Culture; the surviving manuscript still carries an older Unsettled introduction.",
+    "boundary": "Full manuscript text reviewed for work-register purposes, not fact-checked or cleared for publication. Quotation locators remain unresolved in the source, and scientific, therapeutic, legal, market and cultural claims require primary-source review. Testimony and animal findings must not be presented as proof of human treatment effects. No finished visual package or public release verified.",
+    "held": true,
+    "provenance": "Recovered essay manuscript and existing canonical corpus classification; complete extracted manuscript text read November 3, 2026. Older branding remains a reconciliation issue, not a second work."
+  },
+  {
+    "id": "cia-lilly-archival-investigation",
+    "title": "CIA–Lilly Archival Investigation",
+    "category": "Research",
+    "stage": "Published essay · draft derivatives",
+    "question": "How can an archival investigation distinguish a documented relationship from claims that surviving records do not establish?",
+    "expression": "An archival essay published on Polymath, indexed in the existing editorial catalog, examining agency records, patent material, chemistry papers and a hearing record while separating documented relationships from unresolved claims. A related earlier launch package contains social copy, a ten-slide carousel script, a long-video script and five short scripts; these are derivatives of the same investigation.",
+    "boundary": "The public essay was located and opened; this verifies publication, not every historical claim or media right. The earlier derivative package still contains canonical-link and recording placeholders. Finished carousels, recorded videos and cleared derivative imagery were not verified; the derivative artifacts remain held. Full article fact-checking and source-version comparison remain open.",
+    "held": true,
+    "provenance": "Existing editorial catalog P181 reconciled with the current public Polymath essay November 3, 2026. Complete earlier launch-package text reviewed. The public essay and unfinished derivatives are represented as one related work."
+  },
+  {
     "id": "ai-and-your-work",
     "title": "AI & Your Work",
     "category": "Learning",
