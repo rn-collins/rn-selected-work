@@ -744,6 +744,22 @@
     "releaseHeld": false
   },
   {
+    "id": "your-career-has-a-supply-chain",
+    "title": "Your Career Has a Supply Chain",
+    "category": "Institutions",
+    "stage": "Published essay",
+    "question": "What does a person’s work depend on, and what could continue if a platform, employer, client or other essential supplier disappeared?",
+    "expression": "The second Institutions of One essay examines four functions supplied by other people and organizations: discovery, relationships, revenue and continuity. It connects audience access, payment arrangements, rights, records and operating knowledge with the practical ability to keep working. Four public creator-business cases distinguish moving between distributors from controlling distribution, multiple formats from multiple suppliers, and business expansion from reduced dependence. The essay offers four questions for examining a dependency: can it be identified, replaced, negotiated and survived if lost? Its central argument is that independence depends on understanding and managing relationships, rather than trying to own everything.",
+    "boundary": "Published explanatory writing, not a validated resilience assessment or individualized career, legal or financial advice. Current publisher metadata and all 25,903 characters of the available text were reviewed. The edition relies partly on company announcements and representations, which do not establish private contracts, ownership shares, bargaining power or financial performance. Its statistical, legal, tax and platform-policy references were not independently rechecked in this portfolio review. Image captions were read, but image content and reuse rights were not verified. The essay links an Ownership Platform edition; equality between editions remains unverified.",
+    "held": false,
+    "provenance": "Current publisher metadata and complete essay text reviewed November 4, 2026. Edition 002 within Institutions of One; one individual published work, not a new application or completed derivative package.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/002-your-career-has-a-supply-chain",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false,
+    "parentId": "institutions-of-one"
+  },
+  {
     "id": "hawaii-tech-week-2026-field-kit",
     "title": "Hawaii Tech Week 2026 Field Kit",
     "category": "Culture + fieldwork",
@@ -827,6 +843,22 @@
     "workType": "Series",
     "workStatus": "Published",
     "releaseHeld": false
+  },
+  {
+    "id": "who-made-this-so-hard",
+    "title": "Who Made This So Hard?",
+    "category": "Law + governance",
+    "stage": "Published essay",
+    "question": "When a person misses a legal requirement, how can we distinguish what they did from the conditions and decisions that made participation difficult?",
+    "expression": "A Law Happens Somewhere essay that starts with a rejected document upload and asks what a record of ‘failure to submit’ leaves unexplained. It maps the encounter outward through organizational practice, legal authority, structural conditions and consequences over time. Eight overlapping views examine rules, staffing, resources, timing, communication, technology, physical settings and interpersonal treatment. For each demand, the proposed record identifies who created it, what participation requires, who should supply those resources and who actually supplies them. The essay preserves competing explanations and distinguishes observation, participant reports, documentary evidence and inference. Its practical contribution is a method for investigating an encounter before choosing a redesign: the appropriate response might be a clearer form, human assistance, changed policy or removal of the demand.",
+    "boundary": "Published writing within RN’s developing Salutogenic Legal Design framework, not a tested diagnostic instrument, completed field study or demonstrated intervention. Current publisher metadata and all 24,625 characters of the available text were reviewed. The portal, renewal, notice and hearing scenes are explicitly composites, not reported cases involving a named person or agency. An independent justice review asks whether redesign would support participation or make an unjust demand easier to enforce; institutional responsibility is investigated rather than presumed. This portfolio review does not independently verify cited legal or research claims, inspect the photographs and diagram, or clear their reuse rights. Educational inquiry, not legal advice.",
+    "held": false,
+    "provenance": "Current publisher metadata and complete essay text reviewed November 4, 2026. Individual writing in Law Happens Somewhere, within Nervous System Aware Governance; no new publication or derivative release.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/who-made-this-so-hard",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false,
+    "parentId": "law-happens-somewhere"
   },
   {
     "id": "herbal-histories",
