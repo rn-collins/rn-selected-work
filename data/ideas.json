@@ -8,7 +8,10 @@
     "expression": "A selected register of United States startup legal issues, with an official source and source type for each record. Founders can filter by business profile and product exposure, move records through unreviewed, watching, ask counsel and closed states, save their review, and export it as JSON. The purpose is to turn a reading list into a manageable review process.",
     "boundary": "Deliberately selected rather than comprehensive, and educational issue spotting only. It is not legal advice, creates no attorney-client relationship, and the register does not attempt to cover every exposure a company may have.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "dea-scheduling-monitor",
@@ -19,7 +22,10 @@
     "expression": "The documented monitor collects Drug Enforcement Administration documents from the Federal Register over a rolling 180-day window. It separates final rules, proposals open for comment, quotas and temporary orders from registrations and general notices. Its views use the same underlying document set, and a source-health panel reports refresh status.",
     "boundary": "This is document discovery, not legal interpretation. Classification does not establish how a document applies to a substance, registrant or programme. Collection dates and source health must be checked before treating the feed as current.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "nsag-lead-intelligence",
@@ -30,7 +36,10 @@
     "expression": "An internal dashboard designed to combine module enquiries, filter them by module and organisation tier, show summary totals, and export records as CSV. It belongs to the advisory practice’s administrative work rather than its public research collection.",
     "boundary": "The dashboard and enquiry data are private and access-restricted. Assessment collection is paused across the related programme; this description does not establish an active intake service, current enquiry volume or a completed privacy and security audit.",
     "held": true,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": true
   },
   {
     "id": "ai-governance-tracker",
@@ -41,7 +50,10 @@
     "expression": "The documented collector groups search results into FTC enforcement, state and federal legislation, bar ethics, ABA guidance and EU AI Act coverage. It is configured for Monday sweeps and exposes a dashboard and JSON feed. Collection-health fields report the last sweep, record age, failed searches, newest item and a stale flag after two missed cycles.",
     "boundary": "Search results include both primary documents and secondary reporting. Collection is not verification or legal analysis. The schedule describes the implementation; it does not certify that the latest scheduled run succeeded.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "legal-ai-guidance-monitor",
@@ -52,7 +64,10 @@
     "expression": "A source register separates reviewed authorities from newly discovered candidates. The recorded review covered ABA Formal Opinion 512, four state or city bar opinions, two Middle District of Florida standing orders and one Ninth Circuit sanctions opinion. Each record identifies jurisdiction, authority type, review date and official source. A separate discovery process can add candidates without automatically treating them as verified.",
     "boundary": "The existing portfolio record dates the eight-authority review to August 17, 2026 and reports a stale discovery sweep last completed August 10. Those are historical checks, not assurance of current legal coverage. Authorities require renewed review before reliance; this is not legal advice.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "psych-ops-source-watch",
@@ -63,7 +78,10 @@
     "expression": "A documented weekly source monitor covers six official endpoints, including Oregon and Colorado programme sources. It screens discovered links against a source policy and reports category status, healthy or failed sources, and the age of the last successful sweep. Its purpose is to build a review queue that a person can inspect.",
     "boundary": "A screened link is still an unreviewed lead. A registered endpoint does not prove a new rule was issued or that a recent sweep succeeded. The monitor does not interpret law or verify clinical claims.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "platform-moderation-evidence-lab",
@@ -74,7 +92,10 @@
     "expression": "A source-linked register separates each claim from what its source supports, its limits and its review date. It distinguishes individual Oversight Board reversals, regulatory inquiries, platform statements and advocacy allegations. Visitors can keep review states in their own browser.",
     "boundary": "An individual reversal does not establish a platform-wide pattern, motive or legal violation. The collection covers selected public records, and visitor priority flags are review choices rather than findings.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "culture-intelligence-monitor",
@@ -85,7 +106,10 @@
     "expression": "An exploratory prototype places cultural moments alongside style and spending signals. It adds an AI-governance risk score to make the proposed interpretation and its limitations visible together. The intended use is to frame research questions for brand and campaign teams.",
     "boundary": "The consumer-behaviour interpretations are hypotheses. Neither demand predictions nor the risk score have been validated, and the prototype does not establish campaign results.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Prototype",
+    "releaseHeld": false
   },
   {
     "id": "drug-market-transition-evidence-lab",
@@ -96,7 +120,10 @@
     "expression": "A research tool for organizing source-linked evidence across six dimensions of a policy transition. It lets readers compare what is documented in one area with gaps in others, including questions about health, crime and revenue. The contribution is a structured evidence record rather than a new empirical study.",
     "boundary": "It organises published evidence. It does not generate findings, and an absence of evidence in a dimension is recorded as an absence rather than as a null result.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "entheogen-atlas",
@@ -107,7 +134,10 @@
     "expression": "An atlas bringing together archaeology, neuroscience, legal history, accounts of subjective experience and religious practice. It organizes historical claims by the strength and type of supporting evidence, with a separate evidence register and an explanation of its classification method. Contested ancient-use claims are kept distinct from claims supported by chemical analysis.",
     "boundary": "The atlas is a documented research build. Its historical and scientific claims have not received a complete independent review in this gallery audit. No universal earliest-use date, clinical benefit or endorsement of use is established here.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "microdosing-knowledge-atlas",
@@ -118,7 +148,10 @@
     "expression": "The recorded catalogue contains 132 entries dated from 1968 to 2026. It offers search, an archive explorer, an annotation aid and link-status labels so unavailable references remain visible. These dates describe the catalogue’s coverage, not a claim that all entries concern microdosing.",
     "boundary": "A catalogue of references, not a reproduction of the works or an authorised archive. Link checks describe access at a recorded time; they do not verify the source’s scientific claims or guarantee that a link still works.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "the-psychonaut-bookworm",
@@ -129,7 +162,10 @@
     "expression": "A research and learning library with 460 distinct draft and study objects, including 227 long-form drafts. Its 54 mini-essays are already included in that total. A Research Desk indexes 360 objects and provides a browser-local reading queue; related source exports represent the same build.",
     "boundary": "Public availability is not external publication, peer review or licensing. Quote cards and four other object types remain withheld; rights labels and source counts do not establish completed review. Full content and rights review remains open.",
     "held": false,
-    "provenance": "Existing portfolio record reconciled with the public library and audit continuation032 on November 3, 2026; no new project or release inferred."
+    "provenance": "Existing portfolio record reconciled with the public library and audit continuation032 on November 3, 2026; no new project or release inferred.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "the-psychedelic-law-library",
@@ -140,7 +176,10 @@
     "expression": "The documented library contains 143 plain-language articles on state law, facilitator requirements and business questions. Articles carry sources, with a shared source index and an article-by-article manifest. The library is intended as an explanatory layer between a reader’s question and the underlying authority.",
     "boundary": "Article count is not proof of current legal accuracy. Sources, effective dates and applicability need checking before reliance. The writing is educational, does not replace the controlling law, and is not legal advice.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "destigmatization-toolkit",
@@ -151,7 +190,10 @@
     "expression": "An educational toolkit with six audience paths covering pharmacology, law and policy. The existing build record identifies 222 references and a verification record intended to make citations traceable. Each path changes the context in which the material is explained.",
     "boundary": "A documented educational build, not evidence that stigma changed or that every reference is current and accurate. Clinical, legal and cultural claims need source-level review. It offers no treatment recommendation or permission to reuse third-party material.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "psychedelic-operations-directory",
@@ -162,7 +204,10 @@
     "expression": "The newer portfolio record describes 178 listings, category filters, comparison, CSV export, correction flags and a browser-only due-diligence workspace. The workspace organizes questions about entity standing, licensure, insurance, conflicts, privacy, references and commercial terms, and exports an evidence packet. A companion source watch provides unreviewed leads.",
     "boundary": "The listing count comes from the recorded v6 review, not a fresh live census. Evidence tiers indicate public field presence only. Inclusion does not verify licensure, quality, safety, financial stability or suitability; those require direct checking.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "the-encoding-effect",
@@ -173,7 +218,10 @@
     "expression": "An interactive research note presenting a hypothesis about screen media and self-relevance. An attached evidence ledger lets readers examine the sources and limits behind the argument. The note makes the distinction between an interpretation and an empirical finding explicit.",
     "boundary": "A hypothesis with an evidence ledger. It is not a finding, and it reports no original study.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Prototype",
+    "releaseHeld": false
   },
   {
     "id": "ai-build-cost-workbench",
@@ -184,7 +232,10 @@
     "expression": "Walks six stages — project brief, editable labour architecture across eight workstreams, model and API workloads, infrastructure, one-time and recurring costs, named uncertainty drivers — and returns cost composition, sensitivity drivers, build and monthly ranges, and a first-year total. Scenarios save locally, share by URL, print to PDF, and export as CSV and JSON. The model-price catalogue is dated and editable rather than hidden behind a project-type selector.",
     "boundary": "Outputs are the user's own planning scenarios. They are not quotes, and they are not independently validated market benchmarks.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "source-integrity-workbench",
@@ -195,7 +246,10 @@
     "expression": "Turns claims and citations into a review ledger across five stages: review brief, claim ledger, source register, claim-level findings, and disposition. It tracks claim type, materiality, retrievability, source type, support, contradiction, currency, attribution, conflicts and reviewer responsibility separately, rather than inferring validity from the presence of a citation marker. Outputs a release packet as Markdown, CSV, JSON or print.",
     "boundary": "The score measures documentation completeness, not truth and not source authentication. Legal, clinical, scientific and regulatory conclusions still need the appropriate qualified reviewer.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "one-person-firm-os",
@@ -206,7 +260,10 @@
     "expression": "A planning workbench with six parts: an assessment of current capability and friction; workflow and tool inventories; defined roles and limits for AI; a weekly review plan; a prioritized 30-day implementation sequence; and five reusable data structures. It includes examples, local browser storage and Markdown, JSON, CSV and print exports.",
     "boundary": "A planning tool, not a certification and not an autonomous operating system.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "gapi-agent-governance-workbench",
@@ -217,7 +274,10 @@
     "expression": "A browser-based workbench covering an AI system inventory, risk triage, controls, evaluations, incidents and human oversight. It gathers the user’s entries into an exportable evidence pack. The purpose is to support a review conversation and preserve its documentation.",
     "boundary": "The working record stays in the browser. Completing it does not test an agent, verify the supplied evidence, certify compliance or provide a legal assessment.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "sport-athlete-governance-workbench",
@@ -228,7 +288,10 @@
     "expression": "A structured review of scheduling, recovery, safeguarding, environment, athlete voice and escalation. It produces an action register and a 90-day plan with responsibility assigned to people, including a route for response and review outside the immediate decision-maker.",
     "boundary": "A tool for identifying issues and planning follow-up. It does not establish that a programme is safe, provide an independent safeguarding audit, or make clinical or legal determinations.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "narch-spatial-evidence-workbench",
@@ -239,7 +302,10 @@
     "expression": "A documented workbench for recording spatial observations, developing design hypotheses, considering accessibility, prioritizing changes and planning measurements after occupation. The aim is to connect proposed environmental changes with evidence that could support or challenge them.",
     "boundary": "Paused. The work structures observation and follow-up; it does not certify accessibility, code compliance or health effects. Proposed measurements and design hypotheses are not validated outcomes.",
     "held": true,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Paused",
+    "releaseHeld": true
   },
   {
     "id": "women-s-neuro-health-evidence-navigator",
@@ -250,7 +316,10 @@
     "expression": "A documented browser-based tool for organizing a person’s question, relevant evidence and topics to raise at an appointment. It produces a prepared set of discussion questions while keeping the working information in the browser.",
     "boundary": "Paused. This is evidence orientation and appointment preparation, not a diagnosis, treatment recommendation or substitute for clinical care. It does not resolve an individual medication or substance-use decision.",
     "held": true,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Paused",
+    "releaseHeld": true
   },
   {
     "id": "ai-use-decision-lab",
@@ -261,7 +330,10 @@
     "expression": "A structured decision tool covering the child’s context, the task, the role of AI, cognitive work it may replace, adult involvement, possible consequences and safeguards for data and people. Its reasoning is visible. The output identifies capacities to protect, questions for a vendor or school, and signals to monitor.",
     "boundary": "It does not diagnose children, certify products, determine legal compliance, or claim that long-term neurological effects are settled.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "campaign-governance-issue-spotter",
@@ -272,7 +344,10 @@
     "expression": "A browser-based checklist that connects campaign questions to official sources. It helps a team identify issues requiring further review and records the limits of the checklist itself. Work stays in the visitor’s browser.",
     "boundary": "A documented issue-spotting tool. Completing the checklist does not verify the campaign’s claims, clear rights, establish compliance or authorize publication.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "creator-rights-issue-spotter",
@@ -283,7 +358,10 @@
     "expression": "A seven-question tool that identifies issues involving creator rights, AI use, disclosure, likeness, music, jurisdiction and platform rules. Its output directs the creator toward further review rather than issuing permission to publish.",
     "boundary": "Educational issue-spotting. It does not inspect underlying agreements, verify ownership or consent, clear music or likeness rights, or provide a jurisdiction-specific legal answer.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "the-third-asset",
@@ -294,7 +372,10 @@
     "expression": "A browser-based workbench for recording synthetic-media decisions: where material came from, what rights apply, what needs disclosure and how incidents would be handled. It connects creator-rights and evidence questions with an advance response plan.",
     "boundary": "A governance planning tool. Its records do not authenticate media, establish ownership, provide legal clearance or prove that the response plan has been tested.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "behavioral-intelligence-layer",
@@ -305,7 +386,10 @@
     "expression": "A small, single-screen prototype that turns an attention signal into a proposed consumer-behaviour hypothesis. It places a stated use limit alongside the interpretation so a reader can see what the idea does and does not claim.",
     "boundary": "This is a single-screen prototype of roughly 130 words. It is listed as one, not as a product. The hypotheses are untested.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Prototype",
+    "releaseHeld": false
   },
   {
     "id": "cannabis-healthcare-conversation-questionnaire-sandbox",
@@ -316,7 +400,10 @@
     "expression": "A browser-only demonstration of linking pre- and post-questionnaire records through a pseudonymous identifier. The prototype makes that linkage visible for inspection. It explores record design, not the effectiveness of a healthcare intervention.",
     "boundary": "Explicitly unvalidated. It does not measure effectiveness, knowledge gain, behaviour change or clinical outcomes, and no instrument in it has been normed.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Prototype",
+    "releaseHeld": false
   },
   {
     "id": "nervous-system-studio",
@@ -327,7 +414,10 @@
     "expression": "A research preview built around a short sensory profile and a repeating observation process. A person records the environment, starting state, experience and optional product context. Accumulated entries are intended to suggest associations and hypotheses for later testing.",
     "boundary": "In development, with a preview and a documented waitlist concept rather than a released platform. It is not a medical device or diagnostic tool, and it does not establish clinical effects or that the intake path is currently operating.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "In development",
+    "releaseHeld": false
   },
   {
     "id": "zero-frontier",
@@ -338,7 +428,10 @@
     "expression": "A free AI-learning guide covering history, concepts, techniques, uses, tools, playbooks, templates and further reading. The existing portfolio record identifies twelve routes, 237 resources and a timeline with 17 turning points. It requires no account and stores optional reading progress in the browser.",
     "boundary": "A documented educational site. Resource counts and verification labels describe the recorded edition; they do not establish that every link, product description or claim remains current. No qualification or accreditation is conferred.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "regac-regulatory-academy",
@@ -349,7 +442,10 @@
     "expression": "An interactive regulatory-literacy lab covering authority types, jurisdiction, currentness, comparison between regulatory systems and escalation. The exercises focus on how to investigate a question and document the next step.",
     "boundary": "Educational practice, not legal advice, a compliance assessment or a jurisdiction-specific answer. A completed exercise does not establish professional competence or an accredited qualification.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "myelin-learning-lab",
@@ -360,7 +456,10 @@
     "expression": "A free, non-credit learning site with applied courses on verification, claims and citations, preparing data, and human oversight. It also contains field briefs, practical tools and resumable learning progress. The focus is on reviewing work, not merely generating it.",
     "boundary": "Non-credit educational material. It provides no certification, accreditation or continuing-education credit. Course availability does not establish that learners completed it or that its effectiveness has been measured.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "set-for-life",
@@ -371,7 +470,10 @@
     "expression": "A browser-private relationship-building lab with target mapping, source notes, route selection, next-action dates, a message builder, seven outreach states and response metrics. It supports CSV export, JSON backup and import, and local-data deletion. The newer v2 record replaces the older paid-course presentation.",
     "boundary": "A working planning lab, not an automated LinkedIn outreach service. Unreleased curriculum remains a roadmap. RN’s historical results are self-reported, not typical outcomes or promises of replies, connections or employment.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "keiki-robotics",
@@ -382,7 +484,10 @@
     "expression": "An independent static guide concept explaining competitive robotics, possible starting points, costs to investigate, common questions and local examples. It organizes the material around a family’s first decisions rather than assuming prior experience.",
     "boundary": "Independent static family-resource concept; release-blocked. No commission, authorization, endorsement or official relationship with Oʻahu A.I. or Island Robotics is established. Availability does not establish current program guidance or a maintained enrollment pathway.",
     "held": false,
-    "provenance": "Existing portfolio case and audit continuation031 handoff reconciled November 3, 2026; no new release approval."
+    "provenance": "Existing portfolio case and audit continuation031 handoff reconciled November 3, 2026; no new release approval.",
+    "workType": "Application",
+    "workStatus": "Concept",
+    "releaseHeld": true
   },
   {
     "id": "so-you-have-an-invention-first-steps",
@@ -393,7 +498,10 @@
     "expression": "An introductory guide explaining what a patent is, four patentability questions, early research steps, free searching and common misconceptions about disclosure. It also points readers toward Hawaiʻi assistance resources.",
     "boundary": "General educational material, not legal advice or an attorney-client relationship. Patentability, disclosure consequences, deadlines and the availability of local assistance require current, situation-specific review.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "ai-for-small-business",
@@ -404,7 +512,10 @@
     "expression": "An independent static guide concept introducing AI tools and three proposed starter workflows: a cash-and-invoices reset, a month-end close and a morning brief. It discusses possible connections, safety and costs. These are instructional scenarios, not implemented business integrations.",
     "boundary": "Independent product-translation concept; release-blocked. Not affiliated with, endorsed by, or produced for Anthropic. This generic static guide does not establish client tailoring, review, delivery or use. Suggested workflows are not implemented integrations; product and security guidance requires current official-source review before reuse.",
     "held": false,
-    "provenance": "Existing portfolio case and audit continuation031 handoff reconciled November 3, 2026; no new release approval."
+    "provenance": "Existing portfolio case and audit continuation031 handoff reconciled November 3, 2026; no new release approval.",
+    "workType": "Application",
+    "workStatus": "Concept",
+    "releaseHeld": true
   },
   {
     "id": "ai-is-a-piece-of-cake",
@@ -415,7 +526,10 @@
     "expression": "A prelaunch programme concept with four professional audience paths. Each path is intended to connect AI use with the responsibilities and decisions of that profession. The website outlines the programme rather than establishing completed instruction.",
     "boundary": "Prelaunch. Checkout is closed and personal-data inquiry collection is disabled, so nothing on the site can be purchased or signed up for yet.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "In development",
+    "releaseHeld": false
   },
   {
     "id": "rn-collins-curriculum-learning-systems",
@@ -426,7 +540,10 @@
     "expression": "A curriculum-licensing website presenting two programme directions: a B.S. in AI and Machine Learning and a B.S. in Cybersecurity and Critical Infrastructure Protection. It also describes a route for commissioned curriculum development.",
     "boundary": "The website is documented; complete curricula, teaching materials, assessment design, institutional approval, accreditation, delivery readiness and actual licensing have not been verified in this review. Its programme descriptions must not be read as proof of completed or approved degrees.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "aloha-build-club",
@@ -437,7 +554,10 @@
     "expression": "A landing page for a proposed daily co-working room where participants would work alongside one another. The concept applies body doubling: having others present while each person works on their own task. The recorded implementation includes an enquiry path.",
     "boundary": "A documented website does not establish that sessions occurred, that the advertised schedule is current, or that participants shipped projects. Attendance, outcomes and the current enquiry service have not been verified here.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "the-distributed-law-school",
@@ -448,7 +568,10 @@
     "expression": "An independently maintained hub for the FlexJD community, with a newsletter, guide, filterable opportunity tracker and seven awareness campaigns. Its supporting processes include a source-verification policy, corrections, privacy rules, freshness controls, automated link checks and secret scanning. These features are intended to make the resource maintainable alongside coursework.",
     "boundary": "Student-led community infrastructure, not an official statement, publication or record of Northeastern University or its School of Law. Requirements, policies, deadlines and contacts must be checked with the original source.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "clerking",
@@ -459,7 +582,10 @@
     "expression": "A public educational prototype describing supervised legal workflows and reusable work formats. It explores how work can be organized around supervision and review rather than presenting an active placement marketplace.",
     "boundary": "Paused. Matching, applications, payments, analytics and inquiry APIs are all inactive, so nothing on the site can currently be applied to or purchased.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Paused",
+    "releaseHeld": false
   },
   {
     "id": "agent-os",
@@ -470,7 +596,10 @@
     "expression": "A documented agent architecture for examining public or permissioned content, identifying claims and disclosure questions, and routing findings to a person for sign-off. The recorded Disclosure and Claims endpoint classifies claims and flags possible paid-content and disclosure issues. The wider design includes evidence storage, retrieval, workflows and dashboards.",
     "boundary": "Automated classifications are review prompts, not legal findings or verified truth. A hosted endpoint is only one component; the broader system requires its self-hosted dependencies. Current endpoint operation and complete end-to-end performance are not established by this gallery review.",
     "held": true,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": true
   },
   {
     "id": "future-professional-profiles",
@@ -481,7 +610,10 @@
     "expression": "Concept profiles connecting a researched professional position, supporting material and a proposed publishing approach. The work explores how evidence might inform a public profile and its editorial direction.",
     "boundary": "Uncommissioned concept work. The subjects did not agree to these profiles, and the concepts do not represent their actual plans or an approved relationship.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Design",
+    "workStatus": "Prototype",
+    "releaseHeld": false
   },
   {
     "id": "ask-a-neuroscientist",
@@ -492,7 +624,10 @@
     "expression": "Connects animated cards to reader pages with explanations, sources and links to original articles. The public home, archive and search index listed one reader piece on November 3, 2026. The wider editorial programme is not a count of published companion pages.",
     "boundary": "Education, not medical or legal advice. Fat Nugs Magazine publication and companion-site release are separate. The deployed build predates current release controls; those controls and the question workflow are not verified live end to end. Scientific claims, media, rights and security have not received a complete review.",
     "held": false,
-    "provenance": "Existing portfolio record; public index and route reconciliation November 3, 2026. Release controls remain distinct from observed deployment state."
+    "provenance": "Existing portfolio record; public index and route reconciliation November 3, 2026. Release controls remain distinct from observed deployment state.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "the-dressed-nervous-system",
@@ -503,7 +638,10 @@
     "expression": "An interactive exhibition with seven rooms examining questions about clothing, including pressure, texture, memory, rhythm, role and social signals. Its 50 claim records identify what was measured, the source, the recorded evidence status and the limits of the conclusion.",
     "boundary": "A documented evidence exhibition, not an original experiment or proof of a general clothing effect. Some records concern narrow or disputed findings. The source’s classifications are not a substitute for checking the studies and later research.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "institutions-of-one-fashion",
@@ -514,7 +652,11 @@
     "expression": "An exhibition of 44 evidence-mapped dossiers organized into four rooms: Build, Carry, Control and Continue. It asks how work becomes recognizable, how it travels, who controls its name and assets, and what happens through absence, sale, succession or death. Fashion is used to examine these structural questions.",
     "boundary": "A selected exhibition rather than a representative industry survey. Its dossiers support inquiry into ownership and continuity; they do not establish a universal model or replace case-specific source and rights review.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "parentId": "institutions-of-one",
+    "releaseHeld": false
   },
   {
     "id": "cannabis-as-a-technical-system",
@@ -525,7 +667,10 @@
     "expression": "Separates the author’s research and draft packages from a public gallery that displays only released pieces. The release record checked on November 3, 2026 contains six held entries and no posting dates. The public gallery has no released pieces; it is not a searchable research archive.",
     "boundary": "The inspected release record establishes no released pieces through this gallery. Research completeness, scientific and legal review, media rights and package readiness remain unverified. Repository and site availability do not establish an accepted commission or editorial approval.",
     "held": false,
-    "provenance": "Existing portfolio record; release controls and gallery builder rechecked November 3, 2026. Research corpus review remains incomplete."
+    "provenance": "Existing portfolio record; release controls and gallery builder rechecked November 3, 2026. Research corpus review remains incomplete.",
+    "workType": "Application",
+    "workStatus": "Paused",
+    "releaseHeld": false
   },
   {
     "id": "color-vision-field-guide",
@@ -536,7 +681,10 @@
     "expression": "A family-oriented guide beginning with an eye appointment and explaining colour-vision plates, common red–green differences, inheritance, population estimates and practical questions for school and home. It connects a personal starting point to educational material.",
     "boundary": "The guide is not a screening test or diagnosis. Screens affect colour presentation, population estimates do not describe an individual, and the family’s genotype is not established. Clinical and genetic explanations require appropriate source review.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "signal-seam",
@@ -547,7 +695,10 @@
     "expression": "An evidence-led exhibition about London Fashion Week, organized around entry, staging, image-making, distribution, casting, wholesale and archives. Each of the seven areas carries three claim records. The interface distinguishes supported statements from uncertainty.",
     "boundary": "Edition 01 covers London. The proposed seven-city collection has not been delivered as a whole. The exhibition is a documented research presentation, not proof that every claim or media right has been independently cleared.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "tech-from-here-amsterdam-eindhoven",
@@ -558,7 +709,10 @@
     "expression": "Presents a searchable, city-filterable atlas whose public catalog lists 48 investigation records from the Netherlands 2026 event work. The atlas is a separate destination from the DDW package gallery.",
     "boundary": "This count describes the atlas, not all Netherlands or DDW work, social publication, or completion of scientific, rights and security review. Private rights and production records remain private; separate package release holds remain in force.",
     "held": false,
-    "provenance": "Existing portfolio record; public-catalog count verified by audit continuation031, November 3, 2026. Individual investigation claims and package readiness were not newly reviewed."
+    "provenance": "Existing portfolio record; public-catalog count verified by audit continuation031, November 3, 2026. Individual investigation claims and package readiness were not newly reviewed.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "institutions-of-one-public-reader",
@@ -569,7 +723,11 @@
     "expression": "A public reader with four recorded canonical editions, including The $2,000 Video, The Person Inside the Asset and The Asset’s Afterlife. Five interactive evidence experiences and a public Source Desk connect reading with supporting material. It is a publication component of Institutions of One.",
     "boundary": "The public reader and the wider research practice are related parts of the same programme. The recorded publication count does not establish full source or rights clearance; private review records and participant information are not public material.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "parentId": "institutions-of-one",
+    "releaseHeld": false
   },
   {
     "id": "institutions-of-one",
@@ -580,7 +738,10 @@
     "expression": "An independent research practice with an Observatory, proposed Ownership Index, Portfolio Professional research, Question Lab and applied-inquiry pathways. It investigates how individual work can become recognizable, portable, owned and durable. The Ownership Platform is one implementation within that larger programme.",
     "boundary": "The Ownership Index and the Portfolio Professional instrument are candidate instruments. Neither is validated, normed or activated, and the programme's own gates say so. Participant data and research operations stay private.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "hawaii-tech-week-2026-field-kit",
@@ -591,7 +752,10 @@
     "expression": "Presents event photographs and video organised by day and venue, alongside an account of the content-production system. A release-gated static builder controls post examples; the public release index was empty on November 3, 2026.",
     "boundary": "Independent event-media work sample. Availability does not verify attendee consent, media rights, quote accuracy or completed platform packages. Held posts remain separate from public event media; search-engine exclusion is not access control.",
     "held": false,
-    "provenance": "Existing portfolio record reconciled with audit continuation031, inspected builder and public release index, November 3, 2026. No full audiovisual or rights review claimed."
+    "provenance": "Existing portfolio record reconciled with audit continuation031, inspected builder and public release index, November 3, 2026. No full audiovisual or rights review claimed.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "the-nervous-system-in-the-room",
@@ -602,7 +766,11 @@
     "expression": "An independent Ask a Neuroscientist series concept about light, sound, materials, spatial choice and individual sensory experience. The proposed pilot, A Green Room Is Not Necessarily a Calming Room, would combine a map of sensory conditions with repeated observation. It would distinguish measurements, design interpretations, hypotheses and personal accounts. Eight features are outlined as one programme.",
     "boundary": "Blueprint and proposed pilot, not a completed article, field study, interactive feature or published season. Documentary capture, permissions, claim review, finished assets and owner-final release remain open. No external commission, accepted collaboration or universal calming effect is claimed. Full AaN production belongs on its separate site.",
     "held": true,
-    "provenance": "Independent editorial charter and pilot blueprint dated September 7, 2026; complete extracted text reviewed November 3, 2026. Related to AaN and the existing biophilic research module, but a distinct editorial development."
+    "provenance": "Independent editorial charter and pilot blueprint dated September 7, 2026; complete extracted text reviewed November 3, 2026. Related to AaN and the existing biophilic research module, but a distinct editorial development.",
+    "workType": "Series",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist",
+    "releaseHeld": true
   },
   {
     "id": "salutogenic-legal-design",
@@ -613,7 +781,10 @@
     "expression": "A research manuscript connecting salutogenic design—design concerned with conditions that support health—with human-centered legal design, environmental psychology and public-health systems. It treats legal rules and physical settings as a connected problem and sets out an interdisciplinary literature-review plan. It relates to the legal-space and built-environment modules, rather than adding another validated assessment.",
     "boundary": "Research framework draft, not a completed or awarded dissertation, peer-reviewed publication, validated intervention or implemented public-health reform. The source's novelty and scientific claims are not adopted as established facts. Opening problem statement and literature-plan sections reviewed; the full manuscript, citations and visual presentation have not been verified.",
     "held": false,
-    "provenance": "Recovered 46-page research manuscript; opening extracted-text sections reviewed November 3, 2026. Related source-file versions are consolidated into this single concept."
+    "provenance": "Recovered 46-page research manuscript; opening extracted-text sections reviewed November 3, 2026. Related source-file versions are consolidated into this single concept.",
+    "workType": "Framework",
+    "workStatus": "Draft",
+    "releaseHeld": false
   },
   {
     "id": "anatomy-of-everything",
@@ -624,7 +795,10 @@
     "expression": "A recurring science-writing concept that starts with a recognizable scene, identifies the relevant bodily structure, explains a mechanism and considers variation between people. It is documented as an editorial property distinct from Ask a Neuroscientist. The intended approach keeps direct observation separate from scientific explanation and inference.",
     "boundary": "Registry-defined editorial concept; individual episodes, visual assets and publication history have not been verified in this recovery pass. No diagnosis, clinical advice or unsupported anatomical inference.",
     "held": false,
-    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build.",
+    "workType": "Series",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "high-culture",
@@ -635,7 +809,10 @@
     "expression": "A Polymath editorial concept examining psychoactive substances through science, law, history and culture. A piece would begin with an object or practice, then investigate the evidence, institutions and power relations around it. Herbal Histories is a related series; the retreat-economy essay is catalogued separately as a draft within this area.",
     "boundary": "This is the documented franchise scope, not a count of published articles or a general luxury-culture brand. Individual manuscripts and releases remain to be reconciled. No therapeutic promise, product endorsement or permission to reuse partner work is implied.",
     "held": false,
-    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build.",
+    "workType": "Series",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "law-happens-somewhere",
@@ -646,7 +823,10 @@
     "expression": "A proposed series within Polymath’s Unsettled department about how people encounter law in actual settings. It connects legal authority and the stage of a procedure with places, interfaces, access conditions and bodily experience. The aim is to explain how a rule is encountered, alongside what it says.",
     "boundary": "Series architecture is documented; finished manuscripts, a completed season and publication are not established by this source. Individual legal claims require jurisdiction, date and authority review. Educational inquiry, not legal advice.",
     "held": false,
-    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build.",
+    "workType": "Series",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "herbal-histories",
@@ -657,7 +837,10 @@
     "expression": "A Polymath historical series investigating claims about psychoactive plants through statutes, newspapers, manuscripts and other records. Its method compares the original wording with later retellings, identifies translation choices and separates direct evidence from inference. The broader cultural-activation framework connects plant knowledge with communities, trade, research and regulation. The Windbreak Decree provides a published example: a document-based investigation of Dutch cannabis-law history and the stories told about its origins. Imagine This Same Vice Squad offers a second published example, reading newspaper coverage of Louis Armstrong alongside reporting on unequal enforcement and separating the article’s interpretation from the newspaper’s own statements.",
     "boundary": "The series has verified published writing, so it is more than a proposal. This review confirms three essays’ current publication and complete texts; it does not certify the full twenty-five-issue scope described in the series introduction, every translation, or a complete multimedia collection. Traditional use is not clinical evidence. Historical and legal claims, cultural authority and reuse rights still require work-level review.",
     "held": false,
-    "provenance": "September 2026 Cultural Activation registry reconciled with current publisher metadata and the complete published Windbreak Decree, Imagine This Same Vice Squad and Added to Chapter essays, plus the latter’s supporting appendix on November 3, 2026. Series publication evidence supersedes the earlier concept-only description."
+    "provenance": "September 2026 Cultural Activation registry reconciled with current publisher metadata and the complete published Windbreak Decree, Imagine This Same Vice Squad and Added to Chapter essays, plus the latter’s supporting appendix on November 3, 2026. Series publication evidence supersedes the earlier concept-only description.",
+    "workType": "Series",
+    "workStatus": "Published",
+    "releaseHeld": false
   },
   {
     "id": "the-strange-history-of-now",
@@ -668,7 +851,10 @@
     "expression": "A proposed historical investigation series within Polymath’s Hidden Wiring department. Each piece would start with something familiar in the present, trace its origins and turning points through archival records, then explain the consequences still visible. System Anatomy is a related series focused on current operation rather than historical development.",
     "boundary": "Documented series concept, not verified completion or publication of its individual investigations. Historical and causal claims need primary records and room for alternative explanations; an archival aesthetic is not evidence.",
     "held": false,
-    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build.",
+    "workType": "Series",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "system-anatomy",
@@ -679,7 +865,10 @@
     "expression": "A proposed series within Polymath’s Hidden Wiring department. Articles and explanatory tools would map a system’s parts, participants, relationships, permissions and consequences. Each relationship would need supporting evidence or an explicit inference label. It complements The Strange History of Now by examining how a system operates today.",
     "boundary": "Series architecture, not a tested simulation or completed set of articles. Related to The Strange History of Now but focused on current operation. Visual complexity does not validate a model; individual sources and outputs remain unverified.",
     "held": false,
-    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build.",
+    "workType": "Series",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "polymath-cultural-activation-system",
@@ -690,7 +879,10 @@
     "expression": "A workbook-based framework for managing editorial work and adapting it for different audiences. It connects a work register, publication and series identities, evidence and approval checks, audience approaches and an experiment log. It distinguishes an original work from its formats and channel variants, so adaptations point back to the same source. Proposed experiments compare changes against an unchanged reference version.",
     "boundary": "The workbook documents the framework, not a tested automation service or evidence of successful campaigns. Formula behavior, measured outcomes and current release states were not validated here. Source holds and owner approval remain separate from concept inclusion.",
     "held": false,
-    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build.",
+    "workType": "Framework",
+    "workStatus": "Documented",
+    "releaseHeld": false
   },
   {
     "id": "familiar-rewritten",
@@ -701,7 +893,10 @@
     "expression": "A communication method within the Polymath Cultural Activation framework. It uses the structure of a familiar format—such as a route, receipt or permission process—to introduce an unfamiliar idea. One meaningful function changes, and evidence explains why that change matters. Platform versions retain the same argument; the method does not require copying a brand’s interface.",
     "boundary": "A documented communication method, not a separate publication, finished design collection or experimentally validated effect. Proposed visual mappings are concepts rather than produced assets. Rights, accessibility, semantic fit and source evidence remain work-specific requirements.",
     "held": false,
-    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build.",
+    "workType": "Framework",
+    "workStatus": "Documented",
+    "releaseHeld": false
   },
   {
     "id": "why-men-are-going-to-the-jungle",
@@ -712,7 +907,11 @@
     "expression": "A seven-section essay draft about public narratives surrounding ayahuasca retreats. It examines masculinity, emotional life, retreat businesses, scientific explanations, regulation and accounts of harm, with a resource list. The later register places it within High Culture; an older introduction uses Unsettled. These are versions of one work, not separate essays.",
     "boundary": "Full manuscript text reviewed for work-register purposes, not fact-checked or cleared for publication. Quotation locators remain unresolved in the source, and scientific, therapeutic, legal, market and cultural claims require primary-source review. Testimony and animal findings must not be presented as proof of human treatment effects. No finished visual package or public release verified.",
     "held": true,
-    "provenance": "Recovered essay manuscript and existing canonical corpus classification; complete extracted manuscript text read November 3, 2026. Older branding remains a reconciliation issue, not a second work."
+    "provenance": "Recovered essay manuscript and existing canonical corpus classification; complete extracted manuscript text read November 3, 2026. Older branding remains a reconciliation issue, not a second work.",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "high-culture",
+    "releaseHeld": true
   },
   {
     "id": "cia-lilly-archival-investigation",
@@ -723,7 +922,10 @@
     "expression": "A published Polymath essay investigating the historical relationship between the CIA, Eli Lilly and LSD through agency records, patent material, chemistry papers and a hearing record. The work asks what those sources establish and what remains unresolved. An earlier launch package contains social copy, a ten-slide carousel script, a long-video script and five short-video scripts for the same investigation.",
     "boundary": "The public essay was located and opened; this verifies publication, not every historical claim or media right. The earlier derivative package still contains canonical-link and recording placeholders. Finished carousels, recorded videos and cleared derivative imagery were not verified; the derivative artifacts remain held. Full article fact-checking and source-version comparison remain open.",
     "held": true,
-    "provenance": "Existing editorial catalog P181 reconciled with the current public Polymath essay November 3, 2026. Complete earlier launch-package text reviewed. The public essay and unfinished derivatives are represented as one related work."
+    "provenance": "Existing editorial catalog P181 reconciled with the current public Polymath essay November 3, 2026. Complete earlier launch-package text reviewed. The public essay and unfinished derivatives are represented as one related work.",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": true
   },
   {
     "id": "recognition-before-credentials",
@@ -735,7 +937,10 @@
     "boundary": "Published autobiographical reflection, not a study of professional identity or a general claim about how expertise develops. An overlapping unpublished revision is retained with the same work; it is not a third essay in this batch. The published text remains the reader destination, and no draft replacement or release is implied.",
     "held": false,
     "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
-    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-recognition-came-before-the-credentials"
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-recognition-came-before-the-credentials",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false
   },
   {
     "id": "knowledge-is-not-finished",
@@ -747,7 +952,10 @@
     "boundary": "Published essay, distinct from the related account of recognizing an interdisciplinary identity. The full text and current web-publication state were checked. The autobiographical account is not independent credential verification, and the essay does not establish measured learning, clinical effects or the effectiveness of a tested teaching programme.",
     "held": false,
     "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
-    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/knowledge-is-not-finished-when-i-understand-it"
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/knowledge-is-not-finished-when-i-understand-it",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false
   },
   {
     "id": "papaya-rescue-system",
@@ -759,7 +967,10 @@
     "boundary": "The current Polymath essay was read and its publication verified. The audit separately records an HTW story edition; exact equality between editions is not established here. Historical, scientific, legal and causal claims still require source-level review. Related carousel and motion materials remain drafts with separate permissions and release decisions.",
     "held": false,
     "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
-    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-papaya-was-engineered-so-was-the-rescue-system"
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-papaya-was-engineered-so-was-the-rescue-system",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false
   },
   {
     "id": "two-marks-computer",
@@ -771,7 +982,10 @@
     "boundary": "Current Polymath article text and publication checked; a related HTW edition is recorded by the existing audit. This review does not verify every historical date, current software behavior, legal interpretation or cultural claim. Images and related social or video derivatives are not cleared by the article’s publication, and the full work remains on its existing writing site.",
     "held": false,
     "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
-    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-two-marks-your-computer-had-to-learn"
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-two-marks-your-computer-had-to-learn",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false
   },
   {
     "id": "hawaii-half-hour",
@@ -783,7 +997,10 @@
     "boundary": "Current Polymath text and published status checked. The audit also records an HTW story edition; the two have not been established as identical. The essay contains acknowledged archival and implementation gaps. This is authored historical interpretation, not a new legal opinion, independently validated time database or release approval for related media drafts.",
     "held": false,
     "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
-    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/hawai-i-once-ran-on-a-half-hour-the-continent-forgot"
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/hawai-i-once-ran-on-a-half-hour-the-continent-forgot",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false
   },
   {
     "id": "the-56-percent-problem",
@@ -795,7 +1012,10 @@
     "boundary": "The current web essay and full text were checked; no newsletter send is inferred. This newer article is not treated as identical to the earlier draft package recorded by the audit. Legal, medical and statistical claims require independent review before reliance. It is educational writing, not individual advice, and publication does not establish a finished or cleared multimedia package.",
     "held": false,
     "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Publication verified; source claims and media rights not independently cleared.",
-    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-56-problem"
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-56-problem",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false
   },
   {
     "id": "hawaiian-technology-modern-music",
@@ -807,7 +1027,10 @@
     "boundary": "Published on Polymath; the current publisher record and complete article text were reviewed. The essay acknowledges conflicting accounts of the technique’s first discovery. This portfolio summary does not independently establish invention priority, every historical attribution or the article’s quantitative claims. Source images and derivative media have not been cleared here. The full essay stays on its existing publication; its inclusion does not imply a completed multimedia package.",
     "held": false,
     "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Related narrower drafts were compared separately; publication does not establish independent claim or media-rights clearance.",
-    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-hawaiian-technology-inside-the-sound-of-modern-music"
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-hawaiian-technology-inside-the-sound-of-modern-music",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false
   },
   {
     "id": "hawaiian-newspapers-searchable-world",
@@ -819,7 +1042,10 @@
     "boundary": "Published on Polymath; the current publisher record and complete text were reviewed. RN’s work is the essay, not the archives, databases or preservation programmes it describes. The search-engine comparison is an organizing analogy, not a claim that a modern search service existed in the nineteenth century. Historical, legal, language-use and collection-size claims have not been independently rechecked here. The article’s linked HTW edition and accompanying media are separate review tasks, not a newly verified complete package. Related to The Two Marks Your Computer Had to Learn, but focused on newspaper recovery and access rather than character encoding and input.",
     "held": false,
     "provenance": "Existing editorial catalogue and estate-audit handoff reconciled with current publisher metadata and complete article text on November 3, 2026. Source claims, edition equality and media rights remain separate from publication verification.",
-    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/hawai-i-built-a-searchable-world-before-search-engines"
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/hawai-i-built-a-searchable-world-before-search-engines",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false
   },
   {
     "id": "the-windbreak-decree",
@@ -831,7 +1057,11 @@
     "boundary": "The current publisher record and complete essay were reviewed; this is published historical research, not guidance on present-day Dutch law. The article reports that the original 1958 decree was not located and that commission recommendations were examined through contemporary newspapers rather than the reports themselves. Its connection between the test case and later legislative reasoning is explicitly inferential. Its inability to establish a first coffeeshop is limited to the records searched. This portfolio review has not independently checked the quotations, translations, legal conclusions or image licences, and does not establish a completed multimedia package.",
     "held": false,
     "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Related to the existing Herbal Histories series; one published essay, not a new software build or a verified complete series.",
-    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-windbreak-decree"
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-windbreak-decree",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "parentId": "herbal-histories",
+    "releaseHeld": false
   },
   {
     "id": "imagine-this-same-vice-squad",
@@ -843,7 +1073,11 @@
     "boundary": "The current publisher record and complete text, including both appendices, were reviewed. The relationship drawn between adjacent columns is RN’s interpretation, not an explicit statement of the newspaper’s editorial intention or proof of police motive. Missing names and details are gaps in the consulted sources, not proof that no other evidence survives. The essay reports that the court file, relevant downtown daily coverage, Armstrong’s later writings and the period statute’s full text were not reached. This portfolio review has not independently inspected the newspaper images, checked the transcriptions or historical/legal conclusions, or cleared media rights. Publication does not establish a finished multimedia package.",
     "held": false,
     "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. A second individually reviewed Herbal Histories essay; the complete series and underlying claims remain separate review tasks.",
-    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/imagine-this-same-vice-squad"
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/imagine-this-same-vice-squad",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "parentId": "herbal-histories",
+    "releaseHeld": false
   },
   {
     "id": "added-to-chapter",
@@ -856,7 +1090,11 @@
     "held": false,
     "provenance": "Existing editorial catalogue’s essay–appendix relationship confirmed against current publisher metadata and both complete texts on November 3, 2026. One investigation with a supporting publication; source limitations and internal chronology issue retained.",
     "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/added-to-chapter",
-    "appendixUrl": "https://polymath-rn-collins.beehiiv.com/p/added-to-chapter-appendices"
+    "appendixUrl": "https://polymath-rn-collins.beehiiv.com/p/added-to-chapter-appendices",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "parentId": "herbal-histories",
+    "releaseHeld": false
   },
   {
     "id": "ai-and-your-work",
@@ -867,7 +1105,10 @@
     "expression": "A prepared Aloha AI teaching programme with four stages: Define, Examine, Decide and Build. Its Opportunity Map asks about recurring friction, inputs, human judgment, risk and value. A fictional studio example demonstrates how to choose a limited next step. The teaching distinguishes automation from process redesign and keeps consequential decisions with people.",
     "boundary": "Prepared curriculum and delivery script, not evidence of a class delivered, an accepted event booking, active registration, accredited training or client outcomes. The demonstration is fictional. Slide design, delivery, linked resources and cited factual claims have not received complete verification in this portfolio review.",
     "held": false,
-    "provenance": "Recovered Aloha AI teaching materials, August 2026; content sections reviewed for portfolio description November 3, 2026. Related to the existing Aloha AI practice, not a new software build."
+    "provenance": "Recovered Aloha AI teaching materials, August 2026; content sections reviewed for portfolio description November 3, 2026. Related to the existing Aloha AI practice, not a new software build.",
+    "workType": "Framework",
+    "workStatus": "Draft",
+    "releaseHeld": false
   },
   {
     "id": "aloha-ai",
@@ -878,7 +1119,10 @@
     "expression": "A practice platform with service descriptions, learning resources, a twelve-issue Decision Desk and a citation verifier. Four browser-based decision aids support the proposed process: an Opportunity Studio for mapping work; a decision record for alternatives and uncertainty; a vendor comparison using required conditions and weighted criteria; and a pilot plan covering baseline, measures, ownership, affected people and stopping or rollback conditions. The separate AI & Your Work curriculum explains a related teaching method.",
     "boundary": "The platform documents services and demonstrates tools; it does not prove completed engagements or successful pilots. The Opportunity Studio is a prototype whose answers stay in the browser. Individual routes and availability can differ; a complete current service and deployment audit remains open. No professional advice, compliance certification or permission to deploy is supplied.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "neurocognitive-systems-advisory-group",
@@ -889,7 +1133,10 @@
     "expression": "The Neurocognitive Systems Advisory Group (NSAG) hub publishes fifteen research-module scope pages, proposed review dimensions and an operations matrix. Topics span legal systems, health, civic environments, education and extreme environments. The matrix distinguishes readable research material, paused assessment collection and human-supervised advisory work.",
     "boundary": "The standalone module deployments are retired; the hub retains their scope pages. Assessment collection is paused. Readable pages do not establish validated instruments, automated reports, accreditation or completed advisory engagements.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and operations-matrix status rechecked November 3, 2026. Scientific evidence and advisory outcomes were not revalidated."
+    "provenance": "Existing portfolio record; module scope and operations-matrix status rechecked November 3, 2026. Scientific evidence and advisory outcomes were not revalidated.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "evidence-studio",
@@ -900,7 +1147,10 @@
     "expression": "A documented strategy method for brands, creators and affiliate work in fields such as health, wellness, cannabis, education and AI. It assigns evidence and confidence levels to recommendations and includes disclosure and human review in the process. The intended output is a recommendation whose basis and limits can be inspected.",
     "boundary": "A method and public practice description, not proof of client adoption or campaign outcomes. Its use of endorsement guidance does not establish legal compliance; particular claims and disclosures require their own review.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Framework",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "cross-border-expansion-intelligence",
@@ -911,7 +1161,10 @@
     "expression": "A documented intelligence build organizing selected US, UK, German and Polish legal or regulatory signals. Records carry proposed business-impact and likelihood scores, with flags for outside counsel. The existing record lists 27 signals, 18 marked for attorney confirmation.",
     "boundary": "A research and prioritization aid, not a legal opinion. The scores are planning judgments. No commission, adoption, attorney review or current cross-border coverage is established by this description.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "bring-me-the-question",
@@ -922,7 +1175,10 @@
     "expression": "A single-page introduction to RN’s working approach. It invites a person to describe the question or situation and explains how a conversation could develop into a defined engagement.",
     "boundary": "A documented practice page, not an automated diagnostic or evidence of a completed engagement. Scope, responsibility and deliverables would still need agreement.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "rn-builds",
@@ -933,7 +1189,10 @@
     "expression": "A separate build-registry site intended to show what has been implemented and what limits remain. Selected Works provides the broader portfolio context, while RN Builds serves as an evidence-oriented index of related implementations.",
     "boundary": "The sites deliberately overlap; the same build is not a second completed project. A registry listing or reachable site does not establish current functionality, release approval or a complete operational audit.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Application",
+    "workStatus": "Documented build",
+    "releaseHeld": false
   },
   {
     "id": "the-sovereign-stack",
@@ -944,7 +1203,10 @@
     "expression": "An independently prepared governance proposal with an example decision process, a maintained system record, a limited pilot pathway and an optional learning component. It identifies questions a community-authorized process would need to resolve before technical choices could be treated as legitimate.",
     "boundary": "An independently prepared working proposal. It is not the recipient's product, policy, endorsement, approved protocol or community consent, and the substantive values and permissions would be theirs to define, not the author's.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "inflection-radar",
@@ -955,7 +1217,10 @@
     "expression": "A proposed interactive research workspace using public sources. It sets out a timeline, research scope, account portfolio and review process for a limited pilot. The intended contribution is an inspectable record of evidence, timing, uncertainty and possible business relevance.",
     "boundary": "Proposed scope, not pilot results. It was not commissioned, authorised, reviewed, approved, endorsed or adopted by the organisation it addresses.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; catalogued October 2026.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "trauma-informed-legal-space",
@@ -966,7 +1231,11 @@
     "expression": "M1 examines legal spaces and procedures. Its six proposed review areas are physical conditions, plain-language procedures, interpretation and translation, staff conduct and training, accommodations, and feedback or accountability. It is intended to frame questions for courts, legal aid and related institutions.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "ai-legal-navigation",
@@ -977,7 +1246,11 @@
     "expression": "M2 concerns AI used in legal decision-making, including risk assessment. Its proposed review covers tool transparency, demographic bias, human oversight and override, explanations for affected people, error correction, and community participation in governance.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "psychedelic-harm-reduction",
@@ -988,7 +1261,11 @@
     "expression": "M3 sets out proposed review areas for participant screening, preparation and informed consent, physical and interpersonal conditions, facilitator training and scope, adverse-event response, and integration support. It organizes governance questions rather than offering a treatment protocol.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "cannabis-public-health-infrastructure",
@@ -999,7 +1276,11 @@
     "expression": "M4 examines cannabis-related public-health infrastructure. Its proposed review covers screening, provider training, electronic health records, conditions for safe disclosure, legal review and quality-improvement measures. It concerns system design and overlaps with M9’s more focused documentation inquiry.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "biophilic-civic-infrastructure",
@@ -1010,7 +1291,11 @@
     "expression": "M5 examines biophilic design: how natural features and access to nature are incorporated into built environments. Its proposed review covers physical standards, outdoor access, building assessment, community green space, nature-based programming and equitable access.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "ethical-civic-sponsorship",
@@ -1021,7 +1306,11 @@
     "expression": "M6 examines sponsorship decisions through six proposed areas: an ethics policy, mission alignment, exclusion criteria, transparency, conflicts of interest and independent review or accountability. The purpose is to make the acceptance and oversight of sponsorship explainable.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "conscious-cities",
@@ -1032,7 +1321,11 @@
     "expression": "M7 examines urban environments through proposed review of mental-health impacts, green space, noise and other environmental stressors, housing quality, community involvement and equity. It broadens the nature-access focus of M5 to several interacting city systems.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "burnout-recovery-infrastructure",
@@ -1043,7 +1336,11 @@
     "expression": "M8 proposes reviewing workload, autonomy, reward and recognition, community and social support, fairness, and alignment between stated values and work. The module focuses on organisational decisions rather than placing the entire responsibility for recovery on individuals.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "cannabis-healthcare-visibility",
@@ -1054,7 +1351,11 @@
     "expression": "M9 focuses on documentation and clinical visibility. Its proposed review covers screening, staff training, structured electronic-record fields, disclosure conditions, legal review and integration with quality improvement. It overlaps with M4; the two are related modules, not independent validated instruments.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "healthcare-built-environment",
@@ -1065,7 +1366,11 @@
     "expression": "M10 proposes examining environmental evidence, acoustics, lighting, single-patient rooms, navigation through a facility and access to natural features. It organizes questions for design and facilities review; it does not establish a clinical effect for a particular building.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "medical-technology-and-evidence-standards",
@@ -1076,7 +1381,11 @@
     "expression": "M11 focuses on medical technology and clinical AI. Its proposed review covers an inventory of tools, independent evidence evaluation, demographic impacts, human oversight and override, patient disclosure, and monitoring or suspension after adoption.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "nervous-system-aware-education-systems",
@@ -1087,7 +1396,11 @@
     "expression": "M12 proposes reviewing physical conditions, psychological safety, individual flexibility, transitions and schedules, trauma awareness and quality assessment. It connects institutional choices with questions about learning experience without treating those questions as established neurological outcomes.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "traditional-and-complementary-medicine-governance",
@@ -1098,7 +1411,11 @@
     "expression": "M13 proposes reviewing different forms of evidence, cultural authority and intellectual property, practitioner credentials, patient safety, regulatory requirements and coordination with conventional care. It treats community agreement and care decisions as distinct responsibilities.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "space-governance-and-interplanetary-jurisdiction",
@@ -1109,7 +1426,11 @@
     "expression": "M14 proposes review across applicable law, crew autonomy, clinical decisions, social governance, commercial and institutional accountability, and support after a mission. It applies the wider governance inquiry to off-Earth operations without claiming that existing space law is absent.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "isolation-confinement-and-extreme-environment-governance",
@@ -1120,7 +1441,11 @@
     "expression": "M15 examines isolation and confinement in settings such as space missions, polar stations, submarines and residential institutions. Its proposed review covers environmental stressors, psychological safety, social relationships, autonomy, work-rest timing, and exit or emergency response.",
     "boundary": "One of fifteen related NSAG research modules. The hub preserves its scope page; assessment collection is paused and the standalone deployment is retired. These are proposed review areas, not a validated score, audit, accreditation or certification. Source claims and practical effectiveness remain subject to review.",
     "held": false,
-    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research."
+    "provenance": "Existing portfolio record; module scope and proposed dimensions checked against the NSAG source pages on November 3, 2026. This is not validation of the cited research.",
+    "workType": "Research",
+    "workStatus": "Documented",
+    "parentId": "neurocognitive-systems-advisory-group",
+    "releaseHeld": false
   },
   {
     "id": "the-moving-studio",
@@ -1131,7 +1456,10 @@
     "expression": "A proposed interview studio operated during a journey. Invited guests would discuss capabilities and working lives that a job title may not capture while travelling between engagements. With agreed recording and publication permissions, the conversations would become films, field notes and research material within Institutions of One.",
     "boundary": "A proposed activation, not a delivered event or a confirmed partnership. Production depends on feasibility, participant consent, rights, safety, insurance and funding.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "creator-architecture-review",
@@ -1142,7 +1470,10 @@
     "expression": "A proposed guided review for creators, combining an assessment, a map of their working practice and a decision session. It would examine work, relationships and assets: what can move between platforms, what the creator controls, and what can continue during absence or change.",
     "boundary": "A proposed diagnostic and limited pilot. No completed client review, validated assessment, proven commercial model or guaranteed continuity is established.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "policy-to-public-knowledge",
@@ -1153,7 +1484,10 @@
     "expression": "A staged proposal connecting policy evaluation, a working policy laboratory, comparison across systems and public explanation. One source record would support detailed reports, short briefs, explainers and public-comment tools, with each format adapted to the reader’s decision and time.",
     "boundary": "A staged proposal. Later stages require separate validation, scope and approval; no single score substitutes for legal or community judgment.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "legal-reform-memory",
@@ -1164,7 +1498,10 @@
     "expression": "A proposed research record that preserves the method behind legal-reform work: source lists, definitions, coding choices, contradictory findings and observations during implementation. Later researchers could inspect how conclusions were reached and identify what can be reused or needs reconsideration.",
     "boundary": "A proposed, limited review and continuity system. No implemented archive or institutional adoption is claimed, and the proposal does not establish that a particular institution lacks these capabilities.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "verification-observatory",
@@ -1175,7 +1512,10 @@
     "expression": "A proposal for an ongoing legal-AI evaluation programme. It would maintain test datasets, measure results and explain failure patterns. A proposed benchmark would span statutes, regulations, guidance and scientific or regulatory evidence, rather than treating all source types as equivalent.",
     "boundary": "A proposal to extend evaluation practice. No completed benchmark or measured performance is claimed.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "governable-automation",
@@ -1186,7 +1526,10 @@
     "expression": "A proposed workflow system for legal intake, triage, contracting, review and evidence. Each version of a workflow would carry its owner, risks, controls, permissions and approval history. A limited pilot would test how that record supports review as the workflow changes.",
     "boundary": "A bounded workflow pilot was proposed. Integration, controls and enterprise assurance were not delivered by this proposal.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "frontier-neuropsychiatry-intelligence",
@@ -1197,7 +1540,10 @@
     "expression": "A proposed research programme combining a scientific and market landscape, a model for assessing commercial readiness, a prioritized account list and research dossiers. It would connect evidence about emerging work with possible business-development needs while making uncertainty visible.",
     "boundary": "Research and internal enablement were proposed. Commercial opportunity is a hypothesis, not a promised result.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "evidence-to-experience",
@@ -1208,7 +1554,10 @@
     "expression": "A proposed demonstration using primary sources and a claim ledger to create materials for different readers. Review decisions would be recorded, and the resulting versions compared for accuracy, completeness and consistency. The intended output is a tested translation process, not simply more formats.",
     "boundary": "A proposed design sprint and test. No clinical effect, tool performance or successful pilot is asserted.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "follow-the-fact",
@@ -1219,7 +1568,10 @@
     "expression": "A proposed public tool for tracing a claim from original reporting through retrieval, citation and an AI-generated answer. A reader could inspect what changed, where context was lost or categories were confused, and return to the original source. It is the first proposed test within Public Agency Lab.",
     "boundary": "A feasibility proposal and product question. It does not establish an implemented publisher partnership or a working attribution service.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "public-agency-lab",
@@ -1230,7 +1582,10 @@
     "expression": "A proposed research and prototyping programme combining media literacy, AI literacy, accessibility and people’s ability to question information systems. Follow the Fact would be its first limited test: tracing an AI-mediated claim back to reporting and source context.",
     "boundary": "An institutional proposal related to Follow the Fact. It is not a separately established organisation, completed research programme or demonstrated improvement in public understanding.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "care-trust-infrastructure",
@@ -1241,7 +1596,10 @@
     "expression": "A proposed system for psychedelic-care workflows that records assessment limits, human review, permitted data uses, referral decisions and longer-term outcomes. It treats evidence, equity and trust as responsibilities to define and examine in a pilot, rather than as qualities established by a score.",
     "boundary": "A proposed architecture and pilot. Clinical validity, reimbursement and regulatory status remain unestablished; the gallery offers no screening or medical advice.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "research-to-practice",
@@ -1252,7 +1610,10 @@
     "expression": "A proposed research organisation and working process connecting science attentive to sex differences with practice attentive to gender. It would set research priorities, review claims, develop partnerships and translate findings into practitioner education. One flagship priority would provide a limited test of the approach.",
     "boundary": "A proposed research-to-practice institution and bounded pilot, not a clinical service or evidence of treatment efficacy.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "human-intelligence-os",
@@ -1263,7 +1624,10 @@
     "expression": "A proposed shared research record for a brand. It would connect cultural observation, identity research, creative experiments, evidence about material reuse and circularity, and responsible AI use. Creative, product, sustainability and leadership teams could examine the same evidence and decision history rather than maintain isolated accounts.",
     "boundary": "A strategic proposal. The research system and pilot require validation; no brand adoption or commercial outcome is claimed.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "entertainment-trust-layer",
@@ -1274,7 +1638,10 @@
     "expression": "A proposed working system connecting lessons from production with rights, source histories, market research, partner expectations and creator education. It would preserve knowledge from one production for later decisions while making permissions and responsibility explicit.",
     "boundary": "A proposed founding engagement. Existing films, underlying intellectual property and other creators’ work are not claimed as RN’s.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "author-intelligence-system",
@@ -1285,7 +1652,10 @@
     "expression": "A proposed system linking an author’s manuscript work with research, publication planning, audience learning, multimedia, speaking and education. Work would begin in limited phases, with later activities activated only when their inputs and permissions were ready. The aim is to make useful knowledge from one book available to the next.",
     "boundary": "RN conceived the proposed system. The author’s underlying manuscript, ideas and existing intellectual property remain the author’s; no publication or commercial result is claimed.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "experiment-to-institution",
@@ -1296,7 +1666,10 @@
     "expression": "A proposed evidence and knowledge system for a public legal-AI experiment. It would preserve workflows, failures, evaluations, practitioner observations and research so that later training, advisory work or products could be assessed against a record of what actually happened.",
     "boundary": "A proposed research and knowledge-system contribution. The original experiment and its creator’s frameworks are not RN’s work.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "human-capacity-institute",
@@ -1307,7 +1680,10 @@
     "expression": "A proposed place-based institute joining applied research, policy support, workforce development and implementation. An initial feasibility study would examine public value, the appropriate institutional home, governance and funding. The study would precede any decision to create the institute.",
     "boundary": "A founding proposal and feasibility pathway, not an established institute. An existing institution, nontechnical intervention or no new structure could be the appropriate result.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "regulatory-change-to-action",
@@ -1318,7 +1694,10 @@
     "expression": "A proposed system that takes a regulatory development through source review, version tracking, economic evidence, implications for different teams and recorded approval. A limited pilot would produce an internal brief and an approved subsequent output from the same evidence record.",
     "boundary": "A bounded pilot proposal using public, synthetic or specifically authorized information. Attorney and specialist review remains necessary.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "people-first-ai-governance",
@@ -1329,7 +1708,10 @@
     "expression": "A proposed working system for regulated small businesses. It would connect applicable authority with specific AI uses, affected people, controls, evidence, education and changes over time. A defined review process would help legal and technical contributors translate requirements into everyday decisions.",
     "boundary": "A proposed offering. It is not a legal opinion, compliance certification or claim of implementation.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "partner-pathway",
@@ -1340,7 +1722,10 @@
     "expression": "A proposed pilot following one or two opportunities from initial understanding through classification, assignment, decision, handoff and later learning. Planned outputs include an intake form, a map of decision authority and a record of what was decided and why.",
     "boundary": "A pilot proposal that preserves existing institutional authority. It does not claim the pathway has been adopted.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "creator-rights-editorial",
@@ -1351,7 +1736,10 @@
     "expression": "A proposed plain-language editorial collaboration about recurring creator intellectual-property questions. RN’s contribution would combine research, writing and production, with optional practitioner review agreed separately. The format is intended to help readers identify questions about ownership and use before seeking specific advice.",
     "boundary": "A collaboration proposal. Practitioner participation, review and credit require express agreement; no affiliation is implied.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "capability-and-choice",
@@ -1362,7 +1750,10 @@
     "expression": "A proposed participant-controlled research process within Institutions of One. It would examine how disclosure of a capability relates to opportunity, recognition, compensation and possible harm. Having a capability, choosing to reveal it and permitting others to use that information would remain separate decisions.",
     "boundary": "Part of the Institutions of One research proposal. No universal score, automatic ranking or manager-facing employment database is claimed.",
     "held": false,
-    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "private-proposal-studio",
@@ -1373,7 +1764,10 @@
     "expression": "A reusable prototype for presenting an approved proposal version to its intended reader. The design separates content presentation, document generation, recipient access and release checks, with revocable access as a requirement. The recovered record includes local tests using synthetic rather than real recipient data.",
     "boundary": "Recovered prototype with locally tested synthetic records. The archived record leaves live deployment and authorization certification pending; this entry does not claim a deployed or independently audited security product.",
     "held": true,
-    "provenance": "Recovered implementation archive and accompanying documentation; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered implementation archive and accompanying documentation; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Application",
+    "workStatus": "Prototype",
+    "releaseHeld": true
   },
   {
     "id": "fieldwork-that-outlasts-the-trip",
@@ -1384,7 +1778,10 @@
     "expression": "A proposed field-research process covering preparation, the trip and follow-up. It combines source-linked briefing, interviews and visual records with agreed consent, daily notes distinguishing observation from interpretation, a rights-aware archive, and follow-up after 30 and 90 days. Reported features, films and decision briefs would use the same evidence base.",
     "boundary": "A proposed contribution and production model, not a delivered expedition or confirmed engagement. Scope, local priorities, consent, cultural authority, editorial independence and publication rights would be agreed with participants and partners.",
     "held": false,
-    "provenance": "Recovered authored contribution note and proposal website source; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered authored contribution note and proposal website source; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Proposal",
+    "workStatus": "Concept",
+    "releaseHeld": false
   },
   {
     "id": "the-body-data-story",
@@ -1395,6 +1792,9 @@
     "expression": "A proposed creative partnership using audience research, example content, distribution planning and measurement to explain a health-data service. The surviving visual studies start with people and their questions. They document a creative direction; the full research and production plan has not been recovered.",
     "boundary": "Recovered visual proposal studies, not a delivered campaign or a claim of ownership of any measurement technology. The complete underlying research and production scope have not been recovered; no health or commercial outcome is asserted.",
     "held": false,
-    "provenance": "Recovered visual proposal studies and their extracted text; catalogued October 2026. Catalogue date is not a first-conception date."
+    "provenance": "Recovered visual proposal studies and their extracted text; catalogued October 2026. Catalogue date is not a first-conception date.",
+    "workType": "Design",
+    "workStatus": "Draft",
+    "releaseHeld": false
   }
 ]
