@@ -271,7 +271,7 @@
  },
  "nsag-site.vercel.app": {
   "captured": "2026-10-09",
-  "embed": true,
+  "embed": false,
   "image": "/previews/nsag-site.jpg"
  },
  "opfos-firm.vercel.app": {

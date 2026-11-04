@@ -631,13 +631,14 @@ export const buildNotes: BuildNote[] = [
     repo: "keiki-robotics-oahu-ai",
     title: "Getting Your Keiki Into Competitive Robotics",
     category: "education",
-    status: "Live · built with Oʻahu A.I. for Hawaiʻi Tech Week 2026",
-    statusKind: "live",
+    status: "Independent static family-resource concept · release-blocked",
+    statusKind: "prototype",
     problem:
       "Competitive robotics has real on-ramps in Hawaiʻi, and no plain guide to them. The practical consequence is that the families who find their way in are disproportionately the ones who already knew someone inside, which turns a programme meant to widen access into one that quietly narrows it. The missing artefact is small: a page answering the questions a parent actually has, in the order they have them.",
     does:
       "Explains what competitive robotics actually means before asking a family to commit to it, then covers how to start, roughly what it costs, where to look on Oʻahu, and — the section most guides skip — what families commonly get wrong on the way in. It closes with local examples rather than mainland ones.",
-    builtOn: "A static single-page site with an installable web manifest, served from Vercel.",
+    builtOn: "A static single-page guide served from Vercel.",
+    limits: "Independently initiated static family resource. No commission, authorization, endorsement or official relationship with Oʻahu A.I. or Island Robotics is established by this record. Event timing, program guidance and privacy/accessibility boundaries require review before reuse; this is not a maintained team finder or enrollment pathway.",
     caseStudy: "keiki-robotics",
   },
   {
@@ -658,14 +659,14 @@ export const buildNotes: BuildNote[] = [
     repo: "claude-smb-buechler",
     title: "Claude for Small Business — Your First Workflow",
     category: "education",
-    status: "Live · independent quick-start",
-    statusKind: "live",
+    status: "Independent product-translation concept · release-blocked",
+    statusKind: "prototype",
     problem:
       "Small business owners are told AI will help and handed a blank prompt box. For someone with payroll to run on Friday, an open-ended assistant is not an opportunity, it is one more thing to work out. The gap is not enthusiasm; it is a first workflow concrete enough to finish in an afternoon and useful enough to repeat the following week.",
     does:
       "Says what the tool actually is before recommending anything, names the systems it connects to, then walks three starter workflows an owner can pick from on the day: a Monday cash-and-invoices reset, a month close, and a morning brief. It ends where most quick-starts begin — what to connect first, and a short, unglamorous section on safety and cost.",
-    builtOn: "A static single-page site with an installable web manifest, served from Vercel.",
-    limits: "Independent. Not affiliated with, endorsed by, or produced for Anthropic.",
+    builtOn: "A static single-page guide served from Vercel.",
+    limits: "Independent. Not affiliated with, endorsed by, or produced for Anthropic. The current generic guide does not establish Buechler Pacific tailoring, review, approval, delivery or use. Product and security guidance requires current official-source review before reuse. Suggested workflows are not implemented integrations; the PDF control opens browser print.",
     caseStudy: "buechler-pacific",
   },
   {
@@ -867,16 +868,16 @@ export const buildNotes: BuildNote[] = [
     repo: "tech-from-here-amsterdam-eindhoven",
     title: "Tech From Here: Amsterdam + Eindhoven",
     category: "records",
-    status: "Live · 48 published investigations",
+    status: "Public atlas · 48 listed investigations",
     statusKind: "live",
     problem:
       "Event coverage produces a lot of claims and very little that can be checked afterwards, because the evidence stays in the reporter's notes and the notes are never published.",
     does:
-      "Publishes a searchable, city-filterable atlas of 48 source-backed investigations from the Netherlands 2026 event work. Each package opens as a public investigation page carrying its evidence, its limitations, its visual and its source links.",
+      "Presents a searchable, city-filterable atlas whose public catalog lists 48 investigation records from the Netherlands 2026 event work. The atlas is a separate destination from the DDW package gallery.",
     builtOn:
       "A production system that publishes the public atlas while keeping documentary media, rights records, internal source notes and human-QA evidence access-controlled. Public release does not convert an unresolved internal approval into a verified fact.",
     limits:
-      "The public atlas covers the Amsterdam and Eindhoven corpus only. Private rights and production records remain private.",
+      "This count describes the atlas, not all Netherlands or DDW work, social publication, or completion of scientific, rights and security review. Private rights and production records remain private; separate package release holds remain in force.",
   },
   {
     repo: "institutions-of-one-reader",

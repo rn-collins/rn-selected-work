@@ -380,9 +380,9 @@
     "stage": "Documented build",
     "question": "Competitive robotics has real on-ramps in Hawaiʻi, and no plain guide to them. The practical consequence is that the families who find their way in are disproportionately the ones who already knew someone inside, which turns a programme meant to widen access into one that quietly narrows it. The missing artefact is small: a page answering the questions a parent actually has, in the order they have them.",
     "expression": "Explains what competitive robotics actually means before asking a family to commit to it, then covers how to start, roughly what it costs, where to look on Oʻahu, and — the section most guides skip — what families commonly get wrong on the way in. It closes with local examples rather than mainland ones.",
-    "boundary": "Development and availability are described in the underlying portfolio record.",
+    "boundary": "Independent static family-resource concept; release-blocked. No commission, authorization, endorsement or official relationship with Oʻahu A.I. or Island Robotics is established. Availability does not establish current program guidance or a maintained enrollment pathway.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio case and audit continuation031 handoff reconciled November 3, 2026; no new release approval."
   },
   {
     "id": "so-you-have-an-invention-first-steps",
@@ -555,10 +555,10 @@
     "category": "Culture + fieldwork",
     "stage": "Documented build",
     "question": "Event coverage produces a lot of claims and very little that can be checked afterwards, because the evidence stays in the reporter's notes and the notes are never published.",
-    "expression": "Publishes a searchable, city-filterable atlas of 48 source-backed investigations from the Netherlands 2026 event work. Each package opens as a public investigation page carrying its evidence, its limitations, its visual and its source links.",
-    "boundary": "The public atlas covers the Amsterdam and Eindhoven corpus only. Private rights and production records remain private.",
+    "expression": "Presents a searchable, city-filterable atlas whose public catalog lists 48 investigation records from the Netherlands 2026 event work. The atlas is a separate destination from the DDW package gallery.",
+    "boundary": "This count describes the atlas, not all Netherlands or DDW work, social publication, or completion of scientific, rights and security review. Private rights and production records remain private; separate package release holds remain in force.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; public-catalog count verified by audit continuation031, November 3, 2026. Individual investigation claims and package readiness were not newly reviewed."
   },
   {
     "id": "institutions-of-one-public-reader",

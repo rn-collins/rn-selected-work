@@ -216,3 +216,17 @@ Updated the parent note, fifteen generated module notes, corresponding sixteen e
 
 
 Next: verify the updated PR41 preview, retain its production-unmerged state until the existing merge boundary is resolved, then reconcile the Claude for Small Business and Keiki case-study/card release-status conflicts from approval evidence. Netherlands publication-count review, PR38 validation, private-register coverage and mobile acceptance remain open. Do not rerun unchanged NSAG byte checks unless source or deployment changes.
+
+## Continuation031 integration — November 3, 2026 (Hawaiʻi)
+
+Read PR41 at `780b0f7137049f35140be665f0556a8095fc1063`, its current comments, and the existing GitHub Estate Audit automation before editing. The automation supplied [continuation031 source/status handoff](https://github.com/rn-collins/rn-selected-work/pull/41#issuecomment-6621322245). This batch integrates that handoff; it does not repeat the underlying source audit or invent approval evidence.
+
+- Claude-small-business: build status now matches the existing release-blocked independent product-translation case. The record distinguishes suggested workflows from implemented integrations, print from a downloadable PDF, and public availability from Buechler tailoring/review/delivery/use. Current official product/security review remains required before reuse.
+- Keiki: removed unsupported “built with Oʻahu A.I.” and live status. The build and existing concept boundary now match the independent, release-blocked family-resource case. No new commission, authorization, endorsement or relationship is asserted. Removed installability claims from both scoped build descriptions; a manifest is not evidence of installability.
+- Netherlands atlas: status says 48 listed investigations. The count is the public-catalog count verified in continuation031, not 48 completed DDW packages or social releases. The atlas build and existing concept now retain the separate DDW destination and scientific/rights/security review limitations. Individual investigation bodies were not newly reviewed here.
+
+Existing images, destination links, primary case studies, holds, exclusions and counts are preserved. No design changes, new imagery, private-source publication or changes to the separate DDW/AAN/AI-build sites. PR38 and PR25 remain outside this change.
+
+Verification for this integration is recorded in PR41 after the checks run. Earlier NSAG route-byte checks remain valid as historical observations and were not repeated. Latest-head hosted browser acceptance and mobile inspection remain separate checks; a READY deployment is not browser acceptance. Next: finish hosted desktop/mobile acceptance, validate PR38's two pending concepts, and continue the private full register from continuation031. Do not restart the completed status reconciliation.
+
+Hosted follow-up at head `780b0f7`: browser confirmed the corrected NSAG scope/paused status. At 390×844, `/work` retained 77 card links with document width 390px (no horizontal overflow); the opening viewport was visually inspected, not every card. NSAG embedding refused to connect, so this batch switches only that host to the existing October 9 dated screenshot fallback after inspecting its image. Direct destination remains available. This does not certify the old screenshot as current.
