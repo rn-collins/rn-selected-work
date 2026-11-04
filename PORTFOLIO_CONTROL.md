@@ -230,3 +230,14 @@ Existing images, destination links, primary case studies, holds, exclusions and 
 Verification for this integration is recorded in PR41 after the checks run. Earlier NSAG route-byte checks remain valid as historical observations and were not repeated. Latest-head hosted browser acceptance and mobile inspection remain separate checks; a READY deployment is not browser acceptance. Next: finish hosted desktop/mobile acceptance, validate PR38's two pending concepts, and continue the private full register from continuation031. Do not restart the completed status reconciliation.
 
 Hosted follow-up at head `780b0f7`: browser confirmed the corrected NSAG scope/paused status. At 390×844, `/work` retained 77 card links with document width 390px (no horizontal overflow); the opening viewport was visually inspected, not every card. NSAG embedding refused to connect, so this batch switches only that host to the existing October 9 dated screenshot fallback after inspecting its image. Direct destination remains available. This does not certify the old screenshot as current.
+
+
+## HTW release-boundary correction — November 3, 2026 (Hawaiʻi)
+
+Continued current PR41 at8277baa and current PR38 atc5b0c7f, preserving concurrent work. Read canonical audit continuation031 version32. Its HTW source/rendered-output review supersedes the older no-build-step and visible-post wording. Independently read the current builder and rechecked the public https://htw-field-kit.vercel.app/released.json response:200, released empty. No private release rows, client identities, approval records or media were copied into this public ledger.
+
+Updated the existing HTW build, its linked detailed public-build record, and concept descriptions: public event media is distinct from held post examples; a release-gated static builder exists; availability does not certify consent, quote accuracy, rights or finished content packages. No media was newly reviewed or released, no underlying HTW source changed, and no counts were added to the portfolio.
+
+PR38 source-review follow-up: full extracted text of the18-page product blueprint and12-page legal-AI strategic proposal was read. The bounded summaries accurately describe proposed architecture and proposed educational research. This is complete textual coverage of those two documents, not layout/media acceptance, citation verification, adoption evidence or proof of implementation. Private recipient details and source locations remain outside public records. PR38's existing description retains this scope.
+
+Next: validate this HTW copy in its hosted preview; retain the source/preview distinction and all release holds. Remaining full estate audit is129partial/zero complete/nine first reviews at continuation031, not a completed register. AaN's release/deployment discrepancy remains an investigation item; do not expose private release detail or claim source holds are live without deployment evidence.

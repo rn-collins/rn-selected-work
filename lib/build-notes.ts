@@ -912,16 +912,16 @@ export const buildNotes: BuildNote[] = [
     repo: "htw-field-kit",
     title: "Hawaii Tech Week 2026 Field Kit",
     category: "records",
-    status: "Live · event coverage and content-system sample",
+    status: "Public event-media sample · post releases held",
     statusKind: "live",
     problem:
       "A week of an event produces far more frames and footage than anyone can post, and most of it is never chosen, checked, or connected to what it shows. The usual outcome is a few lucky highlights or a folder nobody can search.",
     does:
-      "Shows the best of one week (Aug 31 to Sept 4, 2026) on a single page: 180 photos from an iPhone and a Nikon and 30 Nikon video clips, ten of them with sound, sorted by day and venue, filterable by space or people, with a lightbox. Each day also shows one real post twice, in a plain template and in a concept look drawn from that venue, and the page explains the content system behind it: every frame logged, quotes checked against transcripts, and each person on camera recorded with what they agreed to.",
+      "Presents event photographs and video organised by day and venue, alongside an account of the content-production system. A separate release gate controls post examples; the public release index was empty when checked on November 3, 2026.",
     builtOn:
-      "One static HTML page with its photos and video. No build step, no tracking, no account. Hosted on Vercel.",
+      "A Node-based static-site builder selects eligible post blocks by release date and hold status, then copies only local assets referenced by the rendered page. Hosted on Vercel.",
     limits:
-      "Event documentation and a work sample, not an official Hawaii Tech Week, venue, or sponsor page, and the looks are concept looks rather than any venue's branding. The review system it describes is private, so the page's own counts (1,273 stills and 247 videos logged, 208 drafted posts) cannot be verified from the page. It is set to be skipped by search engines because it shows attendees.",
+      "An independent event-media work sample, not an official Hawaiʻi Tech Week, venue or sponsor publication. Public media availability does not verify attendee consent, rights clearance, quote accuracy or completion of the wider content packages. Media and production counts have not been fully reconciled. Search-engine exclusion is not access control; held posts remain separate from the public event media.",
     caseStudy: "hawaii-tech-week-field-kit",
   },
   // ----------------------------------------------------------------- practice
