@@ -1883,5 +1883,35 @@
     "workStatus": "Published",
     "parentId": "herbal-histories",
     "releaseHeld": false
+  },
+  {
+    "id": "source-provenance-governance",
+    "title": "Why Source Provenance Is Governance Infrastructure",
+    "category": "Law + governance",
+    "stage": "Published essay",
+    "question": "How can an institution explain which evidence shaped a decision and find every affected use when that evidence changes?",
+    "expression": "RN’s published essay for people who design, review or rely on institutional evidence records. Article six of Uncertainty Has an Owner, within Nervous System Aware Governance, begins with a hypothetical agency denial based on an AI summary whose citations conceal changes to the underlying evidence. RN distinguishes a source link from the longer record of how material was captured, changed, interpreted, reviewed and used. Her Provenance Spine connects eight steps: origin, capture, transformation, claim, review, decision, use and correction. A fourteen-field Decision Lineage Record turns that argument into a proposed working record, covering source versions and fragments, access restrictions, conflicting evidence, review authority, reasons for a decision, later reuse and responsibility for corrections. The essay compares citation, authentication, chain of custody, records management and data lineage; examines AI-assisted transformations; and offers an eight-question audit and a practical exercise tracing a claim backward to its source and forward to its consequences. Its minimum-sufficient-lineage principle asks for enough documentation to explain and repair consequential decisions while limiting collection, access and retention of sensitive information.",
+    "boundary": "The essay is published; its proposed methods are not adopted standards, legal tests, empirically validated instruments or a demonstrated institutional deployment. Provenance records a claim’s history rather than proving it true. The agency scenario is hypothetical. The published text still calls for specialist review and testing the fourteen-field record on a public or owned workflow; this review found no evidence that those requirements were completed. Current publisher metadata and the complete article text, including captions and disclosure sections, were reviewed for this description. Cited legal, scientific and technical claims, source images, licensing assertions and practical effectiveness were not independently verified. This entry represents the essay, not completion of the twelve-article series or permission to disclose restricted evidence.",
+    "held": false,
+    "provenance": "Current publisher record and complete published text reviewed November 4, 2026; reconciled with the existing editorial catalogue. RN Collins is the credited author. Full writing remains at its Polymath destination.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/why-source-provenance-is-governance-infrastructure",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false
+  },
+  {
+    "id": "institutions-automate-confusion",
+    "title": "Why Institutions Automate Existing Confusion",
+    "category": "Law + governance",
+    "stage": "Published essay",
+    "question": "Which unresolved institutional decisions become defaults, thresholds and handoffs when a process is automated?",
+    "expression": "RN’s published essay for policy, legal, operational and technical teams preparing to automate consequential work. Article two of Uncertainty Has an Owner, within Nervous System Aware Governance, argues that making a process executable can conceal decisions the institution has never settled. RN develops an ambiguity inheritance principle: software carries forward unresolved definitions, evidence rules, exceptions and decision rights unless someone deliberately addresses them. Five registers organize the inquiry around categories, evidence, rules, handoffs and authority. The essay examines Australia’s Robodebt inquiry and U.S. Medicaid and SNAP oversight reports alongside a general institutional scenario, distinguishing the documented cases from RN’s proposed analysis. Its pre-automation audit pairs each register with a controlling question, required evidence and a stop condition. Teams are asked to resolve, preserve, bound or escalate each material ambiguity, or refuse automation where necessary, and record who owns the choice and what could reopen it. An accompanying workflow exercise maps exceptions, transfer points and powers to decide, override, correct or pause. The argument allows for automation’s benefits while separating consistent execution from a justified decision.",
+    "boundary": "Current publisher metadata confirms RN Collins as author and the essay as published, web-accessible and free. Its complete text, including captions, references and evidence-status section, was reviewed for this description. The ambiguity inheritance principle, five registers, five dispositions and audit are RN’s proposed analytical framework, not adopted legal standards, validated assessment instruments or evidence of a completed implementation. The article’s Robodebt analysis is specific to that Australian inquiry; its U.S. oversight examples do not establish that all automated benefits systems are unlawful or that automation necessarily worsens decisions. This portfolio review did not independently verify the reports, legal interpretations, statistics, quotations, image rights or effectiveness of the method. Related production-package and scheduled derivative records are not additional completed works or release approval. Full writing remains on Polymath; no protected workflow information is disclosed.",
+    "held": false,
+    "provenance": "Current publisher record and complete published text reviewed November 4, 2026; reconciled with the existing editorial catalogue and related private package pointer. No source publication or derivative approval change.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/why-institutions-automate-existing-confusion",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "releaseHeld": false
   }
 ]
