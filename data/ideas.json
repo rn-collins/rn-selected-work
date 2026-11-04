@@ -489,10 +489,10 @@
     "category": "Learning",
     "stage": "Documented build",
     "question": "A post about what a plant does to the brain has room for a claim and almost nothing else: not the receptor it acts on, not the interaction that makes it dangerous with a prescription, not the law where the reader lives. The link under the post used to lead to the same words again, animated, and nothing more.",
-    "expression": "Gives every card in the series a page a reader can use: the animated card, then the mechanism explained, the warning, the sources, and where to go next. Covers the plants place by place from Hawaiʻi and Alaska to Peru, Gabon and Yemen, the receptor families they act on, a glossary, a policy timeline, myths checked against mechanisms, and the everyday questions about sleep, memory and grief. Readers can send a question, and answered ones are published back.",
-    "boundary": "Education, not medical or legal advice. Each page states what its evidence does not establish, and the law as of the date on the page. The series began at Fat Nugs Magazine.",
+    "expression": "Connects animated cards to reader pages with explanations, sources and links to original articles. The public home, archive and search index listed one reader piece on November 3, 2026. The wider editorial programme is not a count of published companion pages.",
+    "boundary": "Education, not medical or legal advice. Fat Nugs Magazine publication and companion-site release are separate. The deployed build predates current release controls; those controls and the question workflow are not verified live end to end. Scientific claims, media, rights and security have not received a complete review.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record; public index and route reconciliation November 3, 2026. Release controls remain distinct from observed deployment state."
   },
   {
     "id": "the-dressed-nervous-system",

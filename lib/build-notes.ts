@@ -778,16 +778,16 @@ export const buildNotes: BuildNote[] = [
     repo: "rn-ask-a-neuroscientist",
     title: "Ask a Neuroscientist",
     category: "education",
-    status: "Live · 88 sourced pages, series publishing from October 2026",
+    status: "Public companion · one indexed reader page verified",
     statusKind: "live",
     problem:
       "A post about what a plant does to the brain has room for a claim and almost nothing else: not the receptor it acts on, not the interaction that makes it dangerous with a prescription, not the law where the reader lives. The link under the post used to lead to the same words again, animated, and nothing more.",
     does:
-      "Gives every card in the series a page a reader can use: the animated card, then the mechanism explained, the warning, the sources, and where to go next. Covers the plants place by place from Hawaiʻi and Alaska to Peru, Gabon and Yemen, the receptor families they act on, a glossary, a policy timeline, myths checked against mechanisms, and the everyday questions about sleep, memory and grief. Readers can send a question, and answered ones are published back.",
+      "Connects an animated card to a reader page with an explanation, sources and a link to the original article. On November 3, 2026, the public home, archive and search index listed one reader piece: what a cannabis certificate of analysis does not measure. The wider series is an editorial programme, not a count of published companion pages.",
     builtOn:
-      "A static build that keeps each post card as the hero of its page and assembles the reader layer, indexes, search and link previews around it. Questions post to the site's own store, so no email address sits on the page.",
+      "A Python static-site builder selects pieces by release date and hold status, then assembles reader pages, indexes, search and link previews. The site also includes a question interface; submission, storage privacy and answer publication have not been verified end to end in this review.",
     limits:
-      "Education, not medical or legal advice. Each page states what its evidence does not establish, and the law as of the date on the page. The series began at Fat Nugs Magazine.",
+      "Education, not medical or legal advice. The series began at Fat Nugs Magazine; publication there is separate from release on this companion site. The deployed build predates the current release controls, so those controls are not verified live. This dated route check is not a full scientific, media, rights or security review.",
   },
   {
     repo: "ask-a-neuroscientist-fashion",
