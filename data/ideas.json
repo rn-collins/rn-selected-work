@@ -402,9 +402,9 @@
     "stage": "Documented build",
     "question": "Small business owners are told AI will help and handed a blank prompt box. For someone with payroll to run on Friday, an open-ended assistant is not an opportunity, it is one more thing to work out. The gap is not enthusiasm; it is a first workflow concrete enough to finish in an afternoon and useful enough to repeat the following week.",
     "expression": "Says what the tool actually is before recommending anything, names the systems it connects to, then walks three starter workflows an owner can pick from on the day: a Monday cash-and-invoices reset, a month close, and a morning brief. It ends where most quick-starts begin — what to connect first, and a short, unglamorous section on safety and cost.",
-    "boundary": "Independent. Not affiliated with, endorsed by, or produced for Anthropic.",
+    "boundary": "Independent product-translation concept; release-blocked. Not affiliated with, endorsed by, or produced for Anthropic. This generic static guide does not establish client tailoring, review, delivery or use. Suggested workflows are not implemented integrations; product and security guidance requires current official-source review before reuse.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio case and audit continuation031 handoff reconciled November 3, 2026; no new release approval."
   },
   {
     "id": "ai-is-a-piece-of-cake",
