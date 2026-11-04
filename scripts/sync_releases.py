@@ -11,6 +11,16 @@ carries the same id and is released with it.
 releasedAt is the posting date in the piece's sources data (data/sources-*.json, data/aan-sources.json),
 read as a Hawaii date. An undated piece gets releasedAt "" and hold true, and stays hidden.
 hold, postUrls and galleryUrl are kept from the existing file, so they can be set by hand.
+
+AaN pause (RN, Oct 30, 2026): while AAN_PAUSE holds a date, every Ask a Neuroscientist piece (aan/, aan-f/) that was
+not already live on that day gets hold true and "pausedOn", and keeps its releasedAt. A new AaN piece added later is
+paused the same way. Pieces live on the pause day stay live. To undo, set AAN_PAUSE = "" and rerun: every piece with
+pausedOn gets hold false back (hold true if it has no date) and loses pausedOn.
+
+RN Collins pause (RN, Oct 30, 2026; switched on Nov 1): RNC_PAUSE works the same way for every piece that is not
+AaN (tfh, ddw26, ioo, polymath, clr and the rest). Every such piece not live on Nov 1, 2026 gets hold true and
+"pausedOn": "2026-11-01" and keeps its releasedAt; a piece added later is paused the same way. To undo, set
+RNC_PAUSE = "" and rerun; the AaN switch is separate and is not touched by it.
 longFormUrl and sourcePageUrl are worked out here.
 
   python3 scripts/sync_releases.py          rewrite data/releases.json
@@ -33,6 +43,12 @@ ACCOUNTS = {
     "museum": ["museum"], "film": ["film"], "kbyg": ["kbyg"], "jbd": ["jbd"],
     "aan-f": ["aan-f"], "ioo-fashion": ["ioo-fashion"], "psychonaut-bookworm": ["psychonaut-bookworm"],
 }
+# Paused Oct 30, 2026 by RN until all AaN content is built and ready for publication, including DDW.
+AAN_PAUSE = "2026-10-30"
+AAN_PREFIXES = ("aan/", "aan-f/")
+# Paused by RN on Oct 30, 2026 (switched on Nov 1): no RN Collins piece goes live on its own until every RN Collins
+# content package is complete. Covers every piece that is not AaN.
+RNC_PAUSE = "2026-11-01"
 ESSAY_ACCOUNTS = ["ddw26", "venues", "makers", "editions", "dda", "ddw27", "kbyg"]
 
 
@@ -60,10 +76,20 @@ def build(existing):
 
     def add(pid, date, origin, page):
         old = existing.get(pid, {})
+        hold = True if not date else bool(old.get("hold", False))
+        paused = {}
+        pause = AAN_PAUSE if pid.startswith(AAN_PREFIXES) else RNC_PAUSE
+        if pause:
+            live_then = pid in existing and not old.get("hold", True) and "" < old.get("releasedAt", "") <= pause
+            if old.get("pausedOn") or (not hold and not live_then):
+                hold, paused = True, {"pausedOn": old.get("pausedOn") or pause}
+        elif old.get("pausedOn"):
+            hold = not date
         rows.append({
             "id": pid,
             "releasedAt": date or "",
-            "hold": True if not date else bool(old.get("hold", False)),
+            "hold": hold,
+            **paused,
             "postUrls": old.get("postUrls", {}),
             "longFormUrl": long_form(origin, essays.get(pid)),
             "sourcePageUrl": f"{BASE}{page}",
@@ -76,7 +102,7 @@ def build(existing):
         for f in files:
             for p in posts(f"sources-{f}.json"):
                 add(f"{acct}/{p['slug']}", p["date"], p.get("origin"), f"/sources/{acct}/{p['slug']}")
-    for p in posts("sources-tfh.json"):
+    for p in posts("sources-tfh.json") + posts("sources-tfh-rnc.json"):
         add(f"tfh/{p['slug']}", p["date"], p.get("origin"), f"/sources/tfh/{p['slug']}")
 
     ids = [r["id"] for r in rows]

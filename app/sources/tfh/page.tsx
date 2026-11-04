@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../../components/canonical-page";
-import { tfhPostedSoFar } from "../../../lib/tfh-sources";
+import { isBeyond, tfhPostedSoFar } from "../../../lib/tfh-sources";
 import styles from "../sources.module.css";
 
 export const revalidate = 3600;
@@ -33,7 +33,7 @@ export default function TfhIndex() {
           {posts.map((p) => (
             <li key={p.slug}>
               <Link href={`/sources/tfh/${p.slug}`}>{p.title}</Link>
-              <span className={styles.host}>Dutch Design Week 2026</span>
+              <span className={styles.host}>{isBeyond(p) ? "Beyond Dutch Design Week" : "Dutch Design Week 2026"}</span>
             </li>
           ))}
         </ul>
