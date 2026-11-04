@@ -655,9 +655,9 @@
     "stage": "Series with published writing",
     "question": "What happens when a familiar story about a psychoactive plant is checked against the documents it is supposed to rest on?",
     "expression": "A Polymath historical series investigating claims about psychoactive plants through statutes, newspapers, manuscripts and other records. Its method compares the original wording with later retellings, identifies translation choices and separates direct evidence from inference. The broader cultural-activation framework connects plant knowledge with communities, trade, research and regulation. The Windbreak Decree provides a published example: a document-based investigation of Dutch cannabis-law history and the stories told about its origins. Imagine This Same Vice Squad offers a second published example, reading newspaper coverage of Louis Armstrong alongside reporting on unequal enforcement and separating the article’s interpretation from the newspaper’s own statements.",
-    "boundary": "The series has verified published writing, so it is more than a proposal. This review confirms two essays’ current publication and complete texts; it does not certify the full twenty-five-issue scope described in that essay, every translation, or a complete multimedia collection. Traditional use is not clinical evidence. Historical and legal claims, cultural authority and reuse rights still require work-level review.",
+    "boundary": "The series has verified published writing, so it is more than a proposal. This review confirms three essays’ current publication and complete texts; it does not certify the full twenty-five-issue scope described in the series introduction, every translation, or a complete multimedia collection. Traditional use is not clinical evidence. Historical and legal claims, cultural authority and reuse rights still require work-level review.",
     "held": false,
-    "provenance": "September 2026 Cultural Activation registry reconciled with current publisher metadata and the complete published Windbreak Decree and Imagine This Same Vice Squad essays on November 3, 2026. Series publication evidence supersedes the earlier concept-only description."
+    "provenance": "September 2026 Cultural Activation registry reconciled with current publisher metadata and the complete published Windbreak Decree, Imagine This Same Vice Squad and Added to Chapter essays, plus the latter’s supporting appendix on November 3, 2026. Series publication evidence supersedes the earlier concept-only description."
   },
   {
     "id": "the-strange-history-of-now",
@@ -844,6 +844,19 @@
     "held": false,
     "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. A second individually reviewed Herbal Histories essay; the complete series and underlying claims remain separate review tasks.",
     "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/imagine-this-same-vice-squad"
+  },
+  {
+    "id": "added-to-chapter",
+    "title": "Added to Chapter",
+    "category": "Law + governance",
+    "stage": "Published essay",
+    "question": "What can the wording, compilation history and enforcement records of a San Francisco opium ordinance establish about the familiar story of America’s first drug law?",
+    "expression": "A published Herbal Histories essay comparing a municipal code’s dated credit line with later accounts of when an opium ordinance began. It distinguishes the date a provision entered a compiled chapter from the possibility of an earlier enactment, and compares restrictions on trade with restrictions on premises and visitors. The essay reads enforcement tables alongside other municipal measures, examining how apparently general legal language operated within an anti-Chinese political campaign. Its separately published supporting appendix supplies a chronology and a twenty-six-item claim ledger. Together they distinguish documents, attributed reports, interpretation and unresolved questions; the appendix supports the same investigation rather than constituting a second portfolio work.",
+    "boundary": "Both current publication records and complete texts were reviewed. The essay and appendix leave the original proceedings and relevant daily press unexamined, so the codification date does not prove that no earlier ordinance existed. Their enforcement counts concern charges, not necessarily distinct people, and do not establish ancestry. A chronology inconsistency remains in both: an 1881 account is described as seven years into the ordinance’s life despite the central 1878 dating argument. This review does not resolve that discrepancy or independently verify the underlying documents, transcriptions, comparative legal claims, diagram or media rights. The complete texts remain on Polymath; no finished multimedia package is inferred.",
+    "held": false,
+    "provenance": "Existing editorial catalogue’s essay–appendix relationship confirmed against current publisher metadata and both complete texts on November 3, 2026. One investigation with a supporting publication; source limitations and internal chronology issue retained.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/added-to-chapter",
+    "appendixUrl": "https://polymath-rn-collins.beehiiv.com/p/added-to-chapter-appendices"
   },
   {
     "id": "ai-and-your-work",
