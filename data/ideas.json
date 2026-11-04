@@ -652,12 +652,12 @@
     "id": "herbal-histories",
     "title": "Herbal Histories",
     "category": "Culture + fieldwork",
-    "stage": "Series concept",
-    "question": "How do plants and the knowledge surrounding them move through families, trade, science, law and culture?",
-    "expression": "A proposed historical series within High Culture. It follows plants and associated knowledge through families, communities, trade, research and regulation. The planned method identifies the plant, traces who holds or transmits the knowledge, and uses archives to distinguish inherited practice from later interpretation.",
-    "boundary": "The series is documented; this recovery does not establish that its underlying package is finished or published. Traditional use is not clinical evidence. Cultural authority, plant identification, sources and reuse rights require work-level verification.",
+    "stage": "Series with published writing",
+    "question": "What happens when a familiar story about a psychoactive plant is checked against the documents it is supposed to rest on?",
+    "expression": "A Polymath historical series investigating claims about psychoactive plants through statutes, newspapers, manuscripts and other records. Its method compares the original wording with later retellings, identifies translation choices and separates direct evidence from inference. The broader cultural-activation framework connects plant knowledge with communities, trade, research and regulation. The Windbreak Decree provides a published example: a document-based investigation of Dutch cannabis-law history and the stories told about its origins.",
+    "boundary": "The series has verified published writing, so it is more than a proposal. This review confirms one essay’s current publication and complete text; it does not certify the full twenty-five-issue scope described in that essay, every translation, or a complete multimedia collection. Traditional use is not clinical evidence. Historical and legal claims, cultural authority and reuse rights still require work-level review.",
     "held": false,
-    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+    "provenance": "September 2026 Cultural Activation registry reconciled with current publisher metadata and the complete published Windbreak Decree essay on November 3, 2026. Series publication evidence supersedes the earlier concept-only description."
   },
   {
     "id": "the-strange-history-of-now",
@@ -820,6 +820,18 @@
     "held": false,
     "provenance": "Existing editorial catalogue and estate-audit handoff reconciled with current publisher metadata and complete article text on November 3, 2026. Source claims, edition equality and media rights remain separate from publication verification.",
     "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/hawai-i-built-a-searchable-world-before-search-engines"
+  },
+  {
+    "id": "the-windbreak-decree",
+    "title": "The Windbreak Decree",
+    "category": "Law + governance",
+    "stage": "Published essay",
+    "question": "How did Dutch cannabis law, court challenges and enforcement policy develop, and which parts of the familiar origin story can the surviving documents actually support?",
+    "expression": "A published Herbal Histories investigation built around Kees Hoekert’s cannabis test case and his use of an agricultural exemption. The essay compares contemporary Dutch newspaper reporting, statutory definitions and parliamentary debate. It keeps the court proceedings, changes to the law and prosecutors’ decisions about enforcement separate, then examines competing accounts of early cannabis coffeeshops. Dutch passages appear with translations identified as the author’s own. An evidence-status section explains which documents were consulted, where reporting substitutes for an original record, and where a connection remains an inference.",
+    "boundary": "The current publisher record and complete essay were reviewed; this is published historical research, not guidance on present-day Dutch law. The article reports that the original 1958 decree was not located and that commission recommendations were examined through contemporary newspapers rather than the reports themselves. Its connection between the test case and later legislative reasoning is explicitly inferential. Its inability to establish a first coffeeshop is limited to the records searched. This portfolio review has not independently checked the quotations, translations, legal conclusions or image licences, and does not establish a completed multimedia package.",
+    "held": false,
+    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Related to the existing Herbal Histories series; one published essay, not a new software build or a verified complete series.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-windbreak-decree"
   },
   {
     "id": "ai-and-your-work",
