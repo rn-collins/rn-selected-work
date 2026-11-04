@@ -866,10 +866,10 @@
     "category": "Culture + fieldwork",
     "stage": "Series with published writing",
     "question": "What happens when a familiar story about a psychoactive plant is checked against the documents it is supposed to rest on?",
-    "expression": "A Polymath historical series investigating claims about psychoactive plants through statutes, newspapers, manuscripts and other records. Its method compares the original wording with later retellings, identifies translation choices and separates direct evidence from inference. The broader cultural-activation framework connects plant knowledge with communities, trade, research and regulation. The Windbreak Decree provides a published example: a document-based investigation of Dutch cannabis-law history and the stories told about its origins. Imagine This Same Vice Squad offers a second published example, reading newspaper coverage of Louis Armstrong alongside reporting on unequal enforcement and separating the article’s interpretation from the newspaper’s own statements.",
-    "boundary": "The series has verified published writing, so it is more than a proposal. This review confirms three essays’ current publication and complete texts; it does not certify the full twenty-five-issue scope described in the series introduction, every translation, or a complete multimedia collection. Traditional use is not clinical evidence. Historical and legal claims, cultural authority and reuse rights still require work-level review.",
+    "expression": "A Polymath historical series investigating claims about psychoactive plants through statutes, newspapers, manuscripts and other records. Its method compares the original wording with later retellings, identifies translation choices and separates direct evidence from inference. The broader cultural-activation framework connects plant knowledge with communities, trade, research and regulation. The Windbreak Decree provides a published example: a document-based investigation of Dutch cannabis-law history and the stories told about its origins. Imagine This Same Vice Squad offers a second published example, reading newspaper coverage of Louis Armstrong alongside reporting on unequal enforcement and separating the article’s interpretation from the newspaper’s own statements. Added to Chapter examines a San Francisco opium ordinance and its supporting claim ledger. A Hundred Pounds an Acre follows Trinidad’s cultivation, prohibition and licensing rules while keeping colonial testimony and missing records visible.",
+    "boundary": "The series has verified published writing, so it is more than a proposal. This review confirms four essays’ current publication and complete texts; it does not certify the full twenty-five-issue scope described in the series introduction, every translation, or a complete multimedia collection. Traditional use is not clinical evidence. Historical and legal claims, cultural authority and reuse rights still require work-level review.",
     "held": false,
-    "provenance": "September 2026 Cultural Activation registry reconciled with current publisher metadata and the complete published Windbreak Decree, Imagine This Same Vice Squad and Added to Chapter essays, plus the latter’s supporting appendix on November 3, 2026. Series publication evidence supersedes the earlier concept-only description.",
+    "provenance": "September 2026 Cultural Activation registry reconciled with current publisher metadata and the complete Windbreak Decree, Imagine This Same Vice Squad, Added to Chapter and A Hundred Pounds an Acre essays, including their reviewed supporting material, by November 4, 2026. Series publication evidence supersedes the earlier concept-only description; whole-series coverage remains incomplete.",
     "workType": "Series",
     "workStatus": "Published",
     "releaseHeld": false
@@ -1866,6 +1866,22 @@
     "provenance": "Recovered visual proposal studies and their extracted text; catalogued October 2026. Catalogue date is not a first-conception date.",
     "workType": "Design",
     "workStatus": "Draft",
+    "releaseHeld": false
+  },
+  {
+    "id": "a-hundred-pounds-an-acre",
+    "title": "A Hundred Pounds an Acre",
+    "category": "Law + governance",
+    "stage": "Published essay",
+    "question": "What do the surviving records show about Trinidad’s ganja laws, and how did the rules distinguish growing the plant from buying and selling it?",
+    "expression": "RN Collins’s published Herbal Histories essay examines a frequently repeated account of Trinidad’s drug laws through colonial reports, ordinance tables, consolidated legislation, guidebooks and customs records. For readers interested in how plant histories and legal claims are constructed, it follows a reported cultivation fee, a later prohibition and a licensed trade through seven sections. RN compares the dates of events with the dates of the records describing them, explains the difference between repealing a law and creating exceptions to it, and examines officials’ accounts of labour and trade without treating those accounts as the labourers’ own testimony. An evidence-status section, an embedded chronology and a twenty-five-item claim ledger separate documentary findings, attributed reports, interpretations and unanswered questions. These appendices support this one investigation; the complete essay remains on Polymath.",
+    "boundary": "Current publisher metadata identifies RN Collins as author and the essay as published, web-accessible and free; its complete text was reviewed for this description. The article does not establish that the 1885 measure was caused by the 1884 San Fernando killings. It reports that the enacted text of the 1885 ordinance, the original 1894 wording, relevant council debates and licence or prosecution series were not recovered. Its account of a later legal exception relies on a consolidated edition, and the proposed connection to Bengal remains an interpretation rather than documented legislative intent. Colonial claims about drug effects are attributed beliefs, not clinical evidence; the absence of growers’ voices is limited to the records consulted. This portfolio review has not independently verified the historical or legal claims, quotations, translations, diagrams, scan permissions or other media rights, and does not establish a completed multimedia package.",
+    "held": false,
+    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and the complete published essay, including both embedded appendices, on November 4, 2026. One writing record under Herbal Histories; no separate appendix work or new build.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/a-hundred-pounds-an-acre",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "parentId": "herbal-histories",
     "releaseHeld": false
   }
 ]
