@@ -28,3 +28,14 @@ Not certified exhaustive. Several recovered proposal versions describe the same 
 ## Recovery destination
 
 `/ideas` holds recovered concepts, proposals, research, drafts and unfinished work with accurate stages; prior publication or completion is not an inclusion requirement. Confidential material and release holds remain protected. See PORTFOLIO_CONTROL.md for the current intake decisions.
+
+
+## Description and contact standard — November 3, 2026 Hawaiʻi
+
+RN requires descriptions that are complete, detailed, precise and easy to understand. Explain the purpose and intended reader, the actual contents or proposed method, and the established state and limits. Use concrete language, define specialist terms, preserve useful detail and remove repetition. Do not lengthen copy with invented features, outcomes or generic assurances. Unknown evidence stays explicit. Distinguish research, drafts, designed assets, prototypes, tested functions and published work; availability alone proves none of the others.
+
+LinkedIn is RN’s preferred contact channel for enquiries, collaborations and introductions. Use the existing LinkedIn account in `data/social-links.json`; do not describe Instagram as the preferred or quickest contact route. Other social accounts remain publication destinations.
+
+All 115 descriptions received an editorial review in this batch; every record changed. Fifteen module summaries now describe their individual proposed review areas, checked against the NSAG source pages at fafd916a74131cbac127330da9ec8effdc0f5fe1. Source claims were not independently validated. Set for Life and the operations directory were reconciled with the newer existing public-build records. Unverified claims of curriculum delivery readiness and active co-working sessions were removed. Keiki Robotics and AI for Small Business now show Release-held concept, consistent with their existing boundaries. No entries added or removed; 77 build cards unchanged.
+
+Validation for this batch: full 1,053-page production build, TypeScript, Ideas identity/content/privacy checks and whitespace checks passed. All three description fields for all 115 entries were verified in generated Ideas output; the generated contact page contains the LinkedIn preference and established profile URL, without the old Instagram priority claim. Entry IDs/order and privacy-held flags are unchanged. Hosted acceptance is recorded in PR41 after deployment. This is editorial and rendering verification, not complete source fact-checking or project completion.

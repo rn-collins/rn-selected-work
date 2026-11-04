@@ -13,3 +13,7 @@ Every AI that works in this repo, Claude, ChatGPT or any other, ends every commi
 - Example: `Made-with: Claude (Anthropic) · Claude Code (cloud, claude.ai/code) · account: FNM account · chat: "Ask a Neuroscientist studio" · https://claude.ai/code/session_0163VSitu2DhFt9TLCw68gxE`
 
 A check in `.github/workflows/made-with.yml` marks any commit without the line with a red X. The shared rules for every chat are on the message board: `aan-studio/handoff/BOARD.md`, branch `aan-studio-backup-2026-10-06` of rn-collins/rn-content-second-brain.
+
+## Ideas descriptions and preferred contact (RN, November 3, 2026)
+
+For Ideas gallery copy, follow the description and contact standard in `CONCEPT_GALLERY.md`: explain each work thoroughly in plain language, distinguish proposed from delivered and verified work, and preserve confidential material and release holds. Prefer LinkedIn for contact, using the existing account in `data/social-links.json`. Do not promote Instagram as RN’s preferred or quickest contact channel.
