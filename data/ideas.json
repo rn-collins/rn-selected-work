@@ -616,6 +616,94 @@
     "provenance": "Recovered 46-page research manuscript; opening extracted-text sections reviewed November 3, 2026. Related source-file versions are consolidated into this single concept."
   },
   {
+    "id": "anatomy-of-everything",
+    "title": "Anatomy of Everything",
+    "category": "Learning",
+    "stage": "Editorial concept",
+    "question": "What anatomy is hiding inside an everyday moment?",
+    "expression": "A recurring science-explanation concept that moves from a recognizable scene to a bodily structure, mechanism, variation and human stakes. It is documented as a distinct franchise alongside Ask a Neuroscientist, with exact anatomy and a clear separation between observation and inference.",
+    "boundary": "Registry-defined editorial concept; individual episodes, visual assets and publication history have not been verified in this recovery pass. No diagnosis, clinical advice or unsupported anatomical inference.",
+    "held": false,
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+  },
+  {
+    "id": "high-culture",
+    "title": "High Culture",
+    "category": "Culture + fieldwork",
+    "stage": "Editorial concept",
+    "question": "What do psychoactive substances reveal about culture, institutions and power?",
+    "expression": "A Polymath franchise concept examining psychoactive substances through science, law, history and cultural interpretation. Its proposed structure begins with an object or practice, then follows evidence into the systems and power relations around it. Herbal Histories is a related bounded series.",
+    "boundary": "This is the documented franchise scope, not a count of published articles or a general luxury-culture brand. Individual manuscripts and releases remain to be reconciled. No therapeutic promise, product endorsement or permission to reuse partner work is implied.",
+    "held": false,
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+  },
+  {
+    "id": "law-happens-somewhere",
+    "title": "Law Happens Somewhere",
+    "category": "Law + governance",
+    "stage": "Series concept",
+    "question": "How is law experienced through bodies, interfaces, places and procedures?",
+    "expression": "A bounded series concept within Polymath's Unsettled department. It connects legal authority and procedural posture to the concrete settings where people encounter rules, access, institutions and constraints, rather than treating doctrine as detached from place.",
+    "boundary": "Series architecture is documented; finished manuscripts, a completed season and publication are not established by this source. Individual legal claims require jurisdiction, date and authority review. Educational inquiry, not legal advice.",
+    "held": false,
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+  },
+  {
+    "id": "herbal-histories",
+    "title": "Herbal Histories",
+    "category": "Culture + fieldwork",
+    "stage": "Series concept",
+    "question": "How do plants and the knowledge surrounding them move through families, trade, science, law and culture?",
+    "expression": "A bounded historical series within High Culture and the wider Polymath programme. The concept follows botanical identity, knowledge lineage, community authority, movement and scientific change, using archival context to distinguish inherited practice from later interpretations.",
+    "boundary": "The series is documented; this recovery does not establish that its underlying package is finished or published. Traditional use is not clinical evidence. Cultural authority, plant identification, sources and reuse rights require work-level verification.",
+    "held": false,
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+  },
+  {
+    "id": "the-strange-history-of-now",
+    "title": "The Strange History of Now",
+    "category": "Culture + fieldwork",
+    "stage": "Series concept",
+    "question": "How did an ordinary feature of the present become normal?",
+    "expression": "A historical investigation series within Polymath's Hidden Wiring department. Its structure starts with a present-day puzzle, follows archives through origins and turning points, and returns to the consequences visible now. It is distinct from System Anatomy's focus on how a current system operates.",
+    "boundary": "Documented series concept, not verified completion or publication of its individual investigations. Historical and causal claims need primary records and room for alternative explanations; an archival aesthetic is not evidence.",
+    "held": false,
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+  },
+  {
+    "id": "system-anatomy",
+    "title": "System Anatomy",
+    "category": "Systems",
+    "stage": "Series concept",
+    "question": "What actors, rules and transfers make a present-day system behave as it does?",
+    "expression": "A Polymath Hidden Wiring series concept for explaining current systems through their parts, relationships, permissions and consequences. Proposed articles and tools use system maps or cutaways to make structure legible, with each relationship supported or explicitly labelled as inference.",
+    "boundary": "Series architecture, not a tested simulation or completed set of articles. Related to The Strange History of Now but focused on current operation. Visual complexity does not validate a model; individual sources and outputs remain unverified.",
+    "held": false,
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+  },
+  {
+    "id": "polymath-cultural-activation-system",
+    "title": "Polymath Cultural Activation System",
+    "category": "Systems",
+    "stage": "Documented framework",
+    "question": "How can one substantive work reach different readers without losing its identity, evidence or destination?",
+    "expression": "A workbook-based editorial operating framework connecting work registration, inherited identity, integrity gates, audience entry points and an experiment ledger. It distinguishes publications, series, methods, formats and channels; variants are intended to return to one canonical work and be judged against a stable control.",
+    "boundary": "The workbook documents the framework, not a tested automation service or evidence of successful campaigns. Formula behavior, measured outcomes and current release states were not validated here. Source holds and owner approval remain separate from concept inclusion.",
+    "held": false,
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+  },
+  {
+    "id": "familiar-rewritten",
+    "title": "Familiar, Rewritten",
+    "category": "Systems",
+    "stage": "Documented method",
+    "question": "Can a recognizable everyday format help a reader understand an unfamiliar idea?",
+    "expression": "A method within the Polymath Cultural Activation framework: retain a familiar system's recognizable structure, change one meaningful function, and resolve the surprise through real evidence. It proposes borrowing category behaviors such as routes, receipts or permissions without copying a branded interface. Different platform versions retain the same underlying argument.",
+    "boundary": "A documented communication method, not a separate publication, finished design collection or experimentally validated effect. Proposed visual mappings are concepts rather than produced assets. Rights, accessibility, semantic fit and source evidence remain work-specific requirements.",
+    "held": false,
+    "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build."
+  },
+  {
     "id": "ai-and-your-work",
     "title": "AI & Your Work",
     "category": "Learning",

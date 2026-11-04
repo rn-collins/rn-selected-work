@@ -308,3 +308,16 @@ RN clarified that the existing `/ideas` gallery is the destination for recovered
 Added two missing related works: `the-nervous-system-in-the-room` (held editorial blueprint; one eight-feature programme, not eight completed works) and `salutogenic-legal-design` (research framework draft). Compared them with existing AaN, biophilic, legal-space and healthcare modules and PR38's two separate additions. The editorial blueprint's complete extracted text was reviewed; the research manuscript's opening problem statement and literature-plan sections were reviewed, not all 46 pages or citations. No source documents, prospective partner names or private source identifiers are included. An explicitly non-public research kit is excluded and retained in private continuation notes.
 
 105 concept records now; 77 build cards unchanged. PR38 would add two further concepts if integrated. No completed manuscript, published season, partnership, fieldwork or validated intervention is inferred. Next recover additional source-backed concepts from the existing source audit, including the cultural-activation material; maintain the blocked large-index checkpoint separately.
+
+
+## Cultural Activation source recovery — November 3, 2026 Hawaiʻi
+
+Continued the existing September registry from its saved checkpoint. Reviewed relevant Object Audit, Identity Registry, Generator Rules, Sources & Decisions, Research Territories and project-summary rows. This is a bounded extracted-content review, not acceptance of all workbook formulas, mapped designs, citations or current release claims.
+
+Added eight previously absent concepts: Anatomy of Everything; High Culture; Law Happens Somewhere; Herbal Histories; The Strange History of Now; System Anatomy; Polymath Cultural Activation System; and Familiar, Rewritten. The six editorial properties remain concepts, the workbook and its nested communication method remain documented frameworks. A registry row supports a conceptual description, not proof of a completed season, tested tool, incorporated institute or government commission.
+
+A further institutional candidate was excluded after its primary brief proved confidential and distinguished RN's proposed contribution from an existing statutory concept. No recipient, source document or private proposal content is shipped.
+
+Existing AaN, Institutions of One, fashion, Tech From Here and build records are related work, not duplicate additions. Editorial rooms, channels, internal formats, per-platform variants and the many visual-map rows were not multiplied into separate projects. Source release holds and private operational details are retained. No images or designed assets were produced or changed.
+
+113 concepts / 77 build cards; PR38's two distinct additions remain separate. Next follow the existing registry's primary source pointers to the underlying editorial corpus and institutional proposal, reconciling individual works and current stages rather than accepting historical registry labels as publication evidence. Large work-index recovery remains at items[2].
