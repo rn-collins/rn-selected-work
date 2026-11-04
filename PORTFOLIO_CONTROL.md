@@ -376,3 +376,12 @@ Read current publisher metadata and complete49,863-character text of The Windbre
 The summary preserves the distinction between a test case, statutory changes and prosecution policy. It retains the source’s missing original1958decree, newspaper-mediated commission reports, inferred legislative connection and corpus-bounded coffeeshop finding. No current legal advice, independent quotation/translation verification or image-rights acceptance is supplied. No source article, imagery or unpublished partner work is republished.
 
 124records/77builds; only Herbal Histories changed among the prior123records. All held flags retained; LinkedIn preferred. Current audit034 remains30/3043next30; next scheduled run was recorded in progress when checked, with no new completed result yet. Preserve concurrent work, PR38/PR25 and production holds. Next individual-writing lead: Imagine This Same Vice Squad, from the existing catalogue; verify current state and full text before inclusion. Checks and hosted acceptance follow in PR41.
+
+
+## Vice Squad writing recovery — November 3, 2026 Hawaiʻi
+
+Read current publisher metadata and complete40,578-character text of Imagine This Same Vice Squad, including chronology and24-item claim ledger; matched catalogue v32. Published/web/free/RN author. Added one distinct essay with its canonical Polymath URL and updated Herbal Histories to reflect two individually reviewed essays. The series’s full25-issue scope remains unverified.
+
+Description preserves the distinction between the author’s interpretation of adjacent newspaper columns and the paper’s explicit statements, and between missing evidence in the consulted corpus and universal nonexistence. The source’s unreached court record, relevant daily coverage, later writings and period statutory text remain limits. This review did not inspect newspaper images, independently verify transcriptions/legal conclusions or clear media rights. No derivative-package completion, source publication or private disclosure claimed.
+
+125records/77builds. Only Herbal Histories changed among prior124; held flags and LinkedIn preference retained. Existing audit034 was latest completed result when checked; subsequent run recorded in progress, not assumed complete. No duplicate register/task, production merge or change to PR38/PR25. Next existing catalogue lead: Added to Chapter; inspect its full text and companion154 relationship before deciding whether it is a distinct addition. Validation and hosted receipt in PR41.

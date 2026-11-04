@@ -654,10 +654,10 @@
     "category": "Culture + fieldwork",
     "stage": "Series with published writing",
     "question": "What happens when a familiar story about a psychoactive plant is checked against the documents it is supposed to rest on?",
-    "expression": "A Polymath historical series investigating claims about psychoactive plants through statutes, newspapers, manuscripts and other records. Its method compares the original wording with later retellings, identifies translation choices and separates direct evidence from inference. The broader cultural-activation framework connects plant knowledge with communities, trade, research and regulation. The Windbreak Decree provides a published example: a document-based investigation of Dutch cannabis-law history and the stories told about its origins.",
-    "boundary": "The series has verified published writing, so it is more than a proposal. This review confirms one essay’s current publication and complete text; it does not certify the full twenty-five-issue scope described in that essay, every translation, or a complete multimedia collection. Traditional use is not clinical evidence. Historical and legal claims, cultural authority and reuse rights still require work-level review.",
+    "expression": "A Polymath historical series investigating claims about psychoactive plants through statutes, newspapers, manuscripts and other records. Its method compares the original wording with later retellings, identifies translation choices and separates direct evidence from inference. The broader cultural-activation framework connects plant knowledge with communities, trade, research and regulation. The Windbreak Decree provides a published example: a document-based investigation of Dutch cannabis-law history and the stories told about its origins. Imagine This Same Vice Squad offers a second published example, reading newspaper coverage of Louis Armstrong alongside reporting on unequal enforcement and separating the article’s interpretation from the newspaper’s own statements.",
+    "boundary": "The series has verified published writing, so it is more than a proposal. This review confirms two essays’ current publication and complete texts; it does not certify the full twenty-five-issue scope described in that essay, every translation, or a complete multimedia collection. Traditional use is not clinical evidence. Historical and legal claims, cultural authority and reuse rights still require work-level review.",
     "held": false,
-    "provenance": "September 2026 Cultural Activation registry reconciled with current publisher metadata and the complete published Windbreak Decree essay on November 3, 2026. Series publication evidence supersedes the earlier concept-only description."
+    "provenance": "September 2026 Cultural Activation registry reconciled with current publisher metadata and the complete published Windbreak Decree and Imagine This Same Vice Squad essays on November 3, 2026. Series publication evidence supersedes the earlier concept-only description."
   },
   {
     "id": "the-strange-history-of-now",
@@ -832,6 +832,18 @@
     "held": false,
     "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. Related to the existing Herbal Histories series; one published essay, not a new software build or a verified complete series.",
     "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-windbreak-decree"
+  },
+  {
+    "id": "imagine-this-same-vice-squad",
+    "title": "Imagine This Same Vice Squad",
+    "category": "Law + governance",
+    "stage": "Published essay",
+    "question": "What does contemporary Black newspaper coverage reveal about Louis Armstrong’s cannabis prosecution, unequal enforcement and the limits of the story later retellings preserve?",
+    "expression": "A published Herbal Histories essay closely reading two March 1931 California Eagle front pages and a later Associated Negro Press report. It distinguishes Armstrong’s reported sentence and parole from an arrest narrative that the consulted newspaper does not establish. The essay examines headline placement, adjacent reporting on raids against Black-owned nightclubs, the vocabulary used to explain cannabis, and the social notes that record Armstrong’s working life beyond the prosecution. A chronology and twenty-four-item claim ledger separate reported events, the author’s interpretations, unsupported retellings and unresolved questions. Its broader argument concerns how police and court reporting shape which parts of a person’s life enter the archive.",
+    "boundary": "The current publisher record and complete text, including both appendices, were reviewed. The relationship drawn between adjacent columns is RN’s interpretation, not an explicit statement of the newspaper’s editorial intention or proof of police motive. Missing names and details are gaps in the consulted sources, not proof that no other evidence survives. The essay reports that the court file, relevant downtown daily coverage, Armstrong’s later writings and the period statute’s full text were not reached. This portfolio review has not independently inspected the newspaper images, checked the transcriptions or historical/legal conclusions, or cleared media rights. Publication does not establish a finished multimedia package.",
+    "held": false,
+    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. A second individually reviewed Herbal Histories essay; the complete series and underlying claims remain separate review tasks.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/imagine-this-same-vice-squad"
   },
   {
     "id": "ai-and-your-work",
