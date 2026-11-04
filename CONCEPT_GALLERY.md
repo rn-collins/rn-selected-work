@@ -76,3 +76,20 @@ Compared all181existingeditorialcataloguev33 records with gallery canonical arti
 Added the complete-text-reviewed opening essays for Institutions of One and Law Happens Somewhere, each linked to its existing parent. Corrected Law Happens Somewhere from concept-only to Series with published writing, with the current text’s Nervous System Aware Governance identity. Updated Salutogenic Legal Design to reflect the published essay’s retirement of the earlier triad and its separate participation inquiries and justice review; its research status remains Draft, not validated. No original source, image or held derivative was published.
 
 128records / 15Writingentries (14Published,1Draft),12featuredworks,77buildcards. Next extend coverage within the newly opened series and across zero-direct-link series using current publisher state and complete texts; retain A Hundred Pounds an Acre in the existing queue. Canonical destinations beyond Polymath require their own verification.
+
+## Entry-level organization and completeness — November 4, 2026
+
+Use one record for a distinct work, with its main output determining Type and its evidenced development state determining Status. Subject answers what it concerns. These are independent dimensions: a published essay about a prototype is Writing / Published; it does not turn the prototype into a tested product. A series with published writing need not have a completed season. Release restrictions remain separate from development and publication status.
+
+Connect individual works to their documented series or programme through parentId. Do not infer parentage merely from a shared topic. Keep an appendix, revision, script, carousel or video adaptation attached to its underlying work unless source review establishes a separately authored, distinct work that merits its own record. A collection entry provides context, not coverage credit for every work inside it. Preserve separate DDW, AaN and AI-build destinations.
+
+Each description must make the following understandable across its existing question, expression and boundary fields:
+- **Purpose and audience:** the concrete question, problem or experience, and whom the work is for when the source establishes that.
+- **Contents and approach:** what a reader or user actually finds, how the argument or method works, and the important components. Define specialist terms needed to understand it.
+- **Contribution:** what this particular work explains, proposes or makes possible, beyond its general subject.
+- **State and evidence:** what exists, what was reviewed or tested, and what remains proposed, provisional, incomplete or held. Separate an author's argument from an independently established result.
+- **Relationships and destination:** how it belongs to a series or programme, what supporting material is attached, and the verified reading or working destination where public access is permitted.
+
+Write connected, specific prose; do not impose a word count or repeat every heading in the description. Completeness is relative to the recovered evidence, not permission to invent missing detail. State a material gap instead of filling it with generic promises. Do not embed confidential evidence, recipient identities or private operations in public copy. Reading an entire source supports a description review, not independent fact-checking, media acceptance or rights clearance.
+
+In this pass, five explicit relationships already present in reviewed descriptions are now navigable: The Moving Studio and Capability & Choice → Institutions of One; AI & Your Work → Aloha AI; Familiar, Rewritten → Polymath Cultural Activation System; Follow the Fact → Public Agency Lab. This changes organization only: no new work, completed output, publication or permission is claimed. Counts remain 128 records, 15 individual Writing entries, 12 featured exhibits and 77 build cards. The earlier 115-description review is a dated checkpoint, not proof that every subsequent source or artifact is comprehensively verified.

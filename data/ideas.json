@@ -896,7 +896,8 @@
     "provenance": "Recovered from the September 2026 Polymath Cultural Activation registry; relevant taxonomy, identity and method rows reviewed November 3, 2026. This records the documented concept, not a new publication or build.",
     "workType": "Framework",
     "workStatus": "Documented",
-    "releaseHeld": false
+    "releaseHeld": false,
+    "parentId": "polymath-cultural-activation-system"
   },
   {
     "id": "why-men-are-going-to-the-jungle",
@@ -1142,7 +1143,8 @@
     "provenance": "Recovered Aloha AI teaching materials, August 2026; content sections reviewed for portfolio description November 3, 2026. Related to the existing Aloha AI practice, not a new software build.",
     "workType": "Framework",
     "workStatus": "Draft",
-    "releaseHeld": false
+    "releaseHeld": false,
+    "parentId": "aloha-ai"
   },
   {
     "id": "aloha-ai",
@@ -1493,7 +1495,8 @@
     "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
     "workType": "Proposal",
     "workStatus": "Concept",
-    "releaseHeld": false
+    "releaseHeld": false,
+    "parentId": "institutions-of-one"
   },
   {
     "id": "creator-architecture-review",
@@ -1605,7 +1608,8 @@
     "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
     "workType": "Proposal",
     "workStatus": "Concept",
-    "releaseHeld": false
+    "releaseHeld": false,
+    "parentId": "public-agency-lab"
   },
   {
     "id": "public-agency-lab",
@@ -1787,7 +1791,8 @@
     "provenance": "Recovered authored proposal; catalogued October 2026. Catalogue date is not a first-conception date.",
     "workType": "Proposal",
     "workStatus": "Concept",
-    "releaseHeld": false
+    "releaseHeld": false,
+    "parentId": "institutions-of-one"
   },
   {
     "id": "private-proposal-studio",
