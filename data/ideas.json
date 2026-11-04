@@ -594,6 +594,17 @@
     "provenance": "Existing portfolio record reconciled with audit continuation031, inspected builder and public release index, November 3, 2026. No full audiovisual or rights review claimed."
   },
   {
+    "id": "ai-and-your-work",
+    "title": "AI & Your Work",
+    "category": "Learning",
+    "stage": "Curriculum draft",
+    "question": "How can someone decide whether recurring work needs automation, process redesign, human judgment or more investigation before choosing an AI tool?",
+    "expression": "A prepared Aloha AI teaching programme organized around Define, Examine, Decide and Build. Its Opportunity Map examines friction, inputs, judgment, risk and value; a fictional studio example shows how to choose a bounded next step while keeping consequential decisions with people. It separates general teaching from individualized application.",
+    "boundary": "Prepared curriculum and delivery script, not evidence of a class delivered, an accepted event booking, active registration, accredited training or client outcomes. The demonstration is fictional. Slide design, delivery, linked resources and cited factual claims have not received complete verification in this portfolio review.",
+    "held": false,
+    "provenance": "Recovered Aloha AI teaching materials, August 2026; content sections reviewed for portfolio description November 3, 2026. Related to the existing Aloha AI practice, not a new software build."
+  },
+  {
     "id": "aloha-ai",
     "title": "Aloha AI",
     "category": "Institutions",

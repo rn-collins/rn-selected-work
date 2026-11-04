@@ -284,3 +284,18 @@ Substantive public correction: Bookworm's live home has460unique `/item/` links 
 Missing-work discovery: continuation032 recovered an existing3043-ID work index with source labels idea/scheduled/built and no posted marks. These labels do not establish completion or publication. Direct GitHub content retrieval of its7MBblob returned empty content in this session, so no additional record bodies are claimed reviewed and no blanket import was attempted. Resume its existing items[2] checkpoint through the canonical audit's recovery route. Keep primary evidence, permissions and source identity attached to existing IDs; do not create a competing inventory.
 
 Next portfolio work: resume evidence-backed individual work-index reconciliation, prioritizing public writing/research and approved proposals missing from Selected Works. AaN deployment repair stays in the existing source-audit queue; it does not displace this full-register goal. Preserve PR38's two concept additions, PR25's review hold, privacy exclusions and separate DDW/AaN/AI-build destinations. No new schedule, merge or production change.
+
+## Missing-work intake — Aloha AI curriculum — November 3, 2026 Hawaiʻi
+
+This batch adds authored teaching work, not another build-status correction. The3043-ID work-index checkpoint remains at items[2]: contents/base64 returned empty, raw route rejected oversized content, and Git blob retrieval closed transport. No index-body advancement is claimed. Continued with accessible Aloha AI/Polymath materials rather than treating that blocker as a completed inventory.
+
+| Candidate / related material | Decision | Evidence scope |
+| --- | --- | --- |
+| AI & Your Work teaching programme | Add `ai-and-your-work` to existing concept gallery as Curriculum draft | Prepared teaching text: four-stage method, five-part Opportunity Map, fictional demonstration and teaching/application boundary |
+| Earlier masterclass deck variants | Same programme; no separate entries | Search metadata identifies related versions; neither all-slide visual QA nor delivery is inferred |
+| Aloha AI commercial architecture dossier | Already represented by existing Aloha AI practice; no new build | Governing architecture describes the same practice and explicit implementation/availability decisions |
+| Owner-only delivery operations and commercial details | Keep out of public entry | Public summary excludes presenter/producer notes, operational checklists, pricing, internal file identifiers and full source documents |
+
+The curriculum record is a high-level description of RN's own prepared work. It does not claim a delivered Hawaiʻi Tech Week event, active booking, accreditation, client result or complete package. Source review here is extracted text for the described sections; slide visuals, animations, full citations and delivery have not been verified. A fictional example remains explicitly fictional. No images generated, no source deck republished, no changes to Aloha AI's separate site.
+
+Added a relationship sentence to the existing Aloha AI case. PR41 now103concepts/77build cards; PR38's two distinct concepts would bring the combined catalogue to105, not105completed projects. Preserve its work and test merge compatibility. Next continue missing-work intake from accessible primary materials and the existing items[2]recovery checkpoint; keep source delivery/publication/permission evidence separate from source status labels.
