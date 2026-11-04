@@ -4,7 +4,7 @@ New route: `/ideas`. Integrated with homepage navigation, portfolio navigation, 
 
 ## Content
 
-103 catalogue entries: 77 curated portfolio records (including 15 related research modules), 23 proposal concepts, one recovered implementation prototype, one creative study and one prepared curriculum. Twelve featured concepts. This is a recovered edition, not a certified inventory of every idea RN has conceived. Related concepts and modules are not counted as distinct inventions. The catalogue date is not a first-conception date.
+105 catalogue entries: 77 curated portfolio records (including 15 related research modules), 23 proposal concepts, one recovered implementation prototype, one creative study, one prepared curriculum, one editorial blueprint and one research framework draft. Twelve featured concepts. This is a recovered edition, not a certified inventory of every idea RN has conceived. Related concepts and modules are not counted as distinct inventions. The catalogue date is not a first-conception date.
 
 Public fields omit proposal recipient names, correspondence, commercial terms and private source identifiers. No full proposal documents are shipped. Record-level limits preserve proposed versus delivered status and distinguish RN's proposed contribution from other people's existing intellectual property. Existing release holds are retained. The fifteen related module records distinguish public scope pages from paused assessment collection and retired standalone deployments. This status reconciliation does not validate their scientific claims or assessment instruments.
 
@@ -24,3 +24,7 @@ Lazy-loaded Three.js engine with a server-rendered sculptural fallback. The artw
 ## Remaining inventory work
 
 Not certified exhaustive. Several recovered proposal versions describe the same concept; these are consolidated. The private proposal-factory archive documentation, expedition contribution note and website source, and two health-data creative proposal images have now been reviewed and consolidated into three entries. The creative-study entry is limited to the surviving visual proposal text; its full underlying research was not recovered. The legal-capacity employment proposal has not been recast as an original product. Other concepts may exist under filenames that do not include “proposal.”
+
+## Recovery destination
+
+`/ideas` holds recovered concepts, proposals, research, drafts and unfinished work with accurate stages; prior publication or completion is not an inclusion requirement. Confidential material and release holds remain protected. See PORTFOLIO_CONTROL.md for the current intake decisions.

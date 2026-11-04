@@ -1131,5 +1131,27 @@
     "boundary": "Recovered visual proposal studies, not a delivered campaign or a claim of ownership of any measurement technology. The complete underlying research and production scope have not been recovered; no health or commercial outcome is asserted.",
     "held": false,
     "provenance": "Recovered visual proposal studies and their extracted text; catalogued October 2026. Catalogue date is not a first-conception date."
+  },
+  {
+    "id": "the-nervous-system-in-the-room",
+    "title": "The Nervous System in the Room",
+    "category": "Research",
+    "stage": "Editorial blueprint",
+    "question": "What does a room ask of the people inside it, beyond what a beautiful photograph can show?",
+    "expression": "An independent Ask a Neuroscientist editorial series concept examining light, sound, materials, spatial choice and individual sensory experience. Its proposed pilot, A Green Room Is Not Necessarily a Calming Room, pairs a sensory field map with repeat observation and separates measured findings, design inference, hypotheses and personal accounts. An eight-feature season is outlined as one related programme.",
+    "boundary": "Blueprint and proposed pilot, not a completed article, field study, interactive feature or published season. Documentary capture, permissions, claim review, finished assets and owner-final release remain open. No external commission, accepted collaboration or universal calming effect is claimed. Full AaN production belongs on its separate site.",
+    "held": true,
+    "provenance": "Independent editorial charter and pilot blueprint dated September 7, 2026; complete extracted text reviewed November 3, 2026. Related to AaN and the existing biophilic research module, but a distinct editorial development."
+  },
+  {
+    "id": "salutogenic-legal-design",
+    "title": "Salutogenic Legal Design",
+    "category": "Research",
+    "stage": "Research framework draft",
+    "question": "How might legal procedures and physical environments be designed together around comprehensibility, agency and conditions that support well-being?",
+    "expression": "A research manuscript proposing a bridge between salutogenic design, human-centered legal design, environmental psychology and public-health systems. It frames spatial and regulatory conditions as a connected design problem and develops an interdisciplinary literature-review plan. Related to the legal-space and built-environment research modules, rather than an additional validated assessment.",
+    "boundary": "Research framework draft, not a completed or awarded dissertation, peer-reviewed publication, validated intervention or implemented public-health reform. The source's novelty and scientific claims are not adopted as established facts. Opening problem statement and literature-plan sections reviewed; the full manuscript, citations and visual presentation have not been verified.",
+    "held": false,
+    "provenance": "Recovered 46-page research manuscript; opening extracted-text sections reviewed November 3, 2026. Related source-file versions are consolidated into this single concept."
   }
 ]
