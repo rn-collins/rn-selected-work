@@ -289,16 +289,16 @@ export const buildNotes: BuildNote[] = [
     repo: "psychonaut-bookworm",
     title: "The Psychonaut Bookworm",
     category: "atlases",
-    status: "Live · 454 published objects drawn from a 1,664-record ledger",
+    status: "Public library · 460 draft and study objects",
     statusKind: "live",
     problem:
       "A reading list in a contested field is a set of assertions about what is worth reading, usually made without showing where anything came from or whether the rights to use it were ever checked.",
     does:
-      "Publishes 454 editorial objects — quote cards, then-and-now comparisons, flashcards, mini-essays, educational modules, character profiles, passage spotlights, companion reading lists, a scientific annotation layer, source packs — each drawn from a 1,664-record provenance ledger with per-item source visibility and rights-review notes. A research desk lets a reader hold a saved query across a session.",
+      "Presents 460 distinct editorial and study objects, including 227 long-form drafts, evidence comparisons, flashcards, reading lists and source packs. The 54 mini-essays are a view onto those drafts, not additional objects. A Research Desk indexes 360 objects and offers a browser-local reading queue.",
     builtOn:
-      "A static site with a committed provenance directory and a governance page, served from Vercel.",
+      "A Python-built static library with per-item pages, a provenance ledger and a public governance page. The public source edition and an earlier export belong to this same build; they are not additional portfolio projects.",
     limits:
-      "The published set is a subset of the ledger by design; items without settled rights review stay unpublished. It indexes and annotates literature, it does not reproduce it.",
+      "The live page and its 460 unique item links were checked November 3, 2026. These are drafts and study material, not 460 externally published articles or completed projects. Quote cards and four other object types remain withheld. Source counts, internal editorial states and rights labels are not proof of citation accuracy, licensing or completed review. Full content and rights review remains open.",
     caseStudy: "psychonaut-bookworm",
   },
   {

@@ -126,10 +126,10 @@
     "category": "Research",
     "stage": "Documented build",
     "question": "A reading list in a contested field is a set of assertions about what is worth reading, usually made without showing where anything came from or whether the rights to use it were ever checked.",
-    "expression": "Publishes 454 editorial objects — quote cards, then-and-now comparisons, flashcards, mini-essays, educational modules, character profiles, passage spotlights, companion reading lists, a scientific annotation layer, source packs — each drawn from a 1,664-record provenance ledger with per-item source visibility and rights-review notes. A research desk lets a reader hold a saved query across a session.",
-    "boundary": "The published set is a subset of the ledger by design; items without settled rights review stay unpublished. It indexes and annotates literature, it does not reproduce it.",
+    "expression": "A research and learning library with 460 distinct draft and study objects, including 227 long-form drafts. Its 54 mini-essays are already included in that total. A Research Desk indexes 360 objects and provides a browser-local reading queue; related source exports represent the same build.",
+    "boundary": "Public availability is not external publication, peer review or licensing. Quote cards and four other object types remain withheld; rights labels and source counts do not establish completed review. Full content and rights review remains open.",
     "held": false,
-    "provenance": "Existing portfolio record; catalogued October 2026."
+    "provenance": "Existing portfolio record reconciled with the public library and audit continuation032 on November 3, 2026; no new project or release inferred."
   },
   {
     "id": "the-psychedelic-law-library",

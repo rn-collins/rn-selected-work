@@ -263,3 +263,24 @@ Reproduction: recovered the unchanged builder (Git blob e7f9c1d1202611611fd173a0
 - Current builder blob is identical. Current release records still allow the same eight as of November3. The daily-rebuild workflow's schedule is explicitly commented out for RN's pause, although push-to-main and manual dispatch can still deploy. Neither trigger was invoked. The workflow comments/README still describe daily publishing; those descriptions do not override the actual paused schedule.
 
 Conclusion: the one-reader live index is reproduced by the October17 snapshot. Do not treat the seven absent routes as permission to publish them. A blind rebuild today would expand public output despite the instruction to pause new releases. Before a production repair, reconcile those seven release records against the actual pre-pause live set in the private source record, preserve the paused schedule, and inspect a non-production build's route diff. No underlying source, release records, public export or production deployment changed here. Existing portfolio wording remains accurate; PR41/PR38 remain unmerged. Full audit coverage remains129partial/zero complete/nine awaiting first review.
+
+## Full-register return and continuation032 gallery reconciliation — November 3, 2026 Hawaiʻi
+
+Read canonical audit version33/continuation032 and its public-safe handoff https://github.com/rn-collins/rn-selected-work/pull/41#issuecomment-6622165108 before changes. All138 members of the recovered accessible census now have a bounded first inspection; zero are fully audited. Historical census membership remains unresolved. This does not make77gallery cards or102overlapping concepts a complete work register.
+
+Disposition of the nine newly inspected repository rows (private identities and source paths remain in the audit):
+
+| Existing audit group | Rows | Gallery decision |
+| --- | ---: | --- |
+| Private operational scheduling | 1 | Excluded; no public-work permission established |
+| Empty collaboration post scaffolds | 2 | No new cards; agreement/delivery claims unresolved |
+| Related Bookworm source/export editions | 2 | Reconcile existing Bookworm entry; do not count editions as new builds |
+| AaN card and fashion public exports | 2 | Link existing logical builds; no new work count or rights clearance |
+| Private content export / work index | 1 | Register evidence only; inspect individual sources and permissions before inclusion |
+| Protected field archive | 1 | Excluded; preserve separate destination and access controls |
+
+Substantive public correction: Bookworm's live home has460unique `/item/` links and reports227drafts; the54mini-essays overlap those drafts, and Research Desk reports360indexed objects. Updated build note, existing concept and linked case from obsolete454/221counts, removed the unsupported rights-safe excerpt description, and explained the related export editions. Public source README says1204other ledger records withheld; no unseen record or full source/rights acceptance is inferred. Native460-record checks/build are attributed to continuation032, not rerun. Browser inspected public overview and unique item-link count; full460object content/interaction review was not performed.
+
+Missing-work discovery: continuation032 recovered an existing3043-ID work index with source labels idea/scheduled/built and no posted marks. These labels do not establish completion or publication. Direct GitHub content retrieval of its7MBblob returned empty content in this session, so no additional record bodies are claimed reviewed and no blanket import was attempted. Resume its existing items[2] checkpoint through the canonical audit's recovery route. Keep primary evidence, permissions and source identity attached to existing IDs; do not create a competing inventory.
+
+Next portfolio work: resume evidence-backed individual work-index reconciliation, prioritizing public writing/research and approved proposals missing from Selected Works. AaN deployment repair stays in the existing source-audit queue; it does not displace this full-register goal. Preserve PR38's two concept additions, PR25's review hold, privacy exclusions and separate DDW/AaN/AI-build destinations. No new schedule, merge or production change.
