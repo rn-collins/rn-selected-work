@@ -2020,5 +2020,35 @@
     "workType": "Writing",
     "workStatus": "Draft",
     "parentId": "ask-a-neuroscientist"
+  },
+  {
+    "id": "how-a-nose-reads-a-smell",
+    "title": "How a Nose Reads a Smell: Odorant Receptors",
+    "category": "Learning",
+    "question": "How does the nose distinguish smells, and what can one receptor structure reveal about a much larger sensory system?",
+    "expression": "RN’s prepared Ask a Neuroscientist essay explains smell for readers curious about everyday perception and neuroscience. It follows the discovery of a large family of receptor genes, the idea that smells activate combinations of receptors, and a 2023 study showing one human receptor bound to a molecule associated with cheese. RN connects that history with later work cataloguing intact receptor genes, broken copies and differences between people. The manuscript distinguishes mouse and human counts, explains why estimates vary, and separates a gene catalogue from evidence about which molecules a receptor detects. RN’s contribution is documentary research and explanatory writing; she did not perform the genetic, imaging or cell experiments.",
+    "boundary": "A prepared Fat Nugs Magazine column draft, not a verified publication or finished media package. The account of the 1999 coding study comes through Nobel summaries rather than a direct reading of that paper. Estimates of distinguishable smells differ across the cited sources. The structural study concerns one receptor in its active form; changes were tested in laboratory cells, and the proposed activation model is explicitly speculative. Gene counts and small tissue samples do not establish how every person experiences smell. No independent scientific, quotation, image or reuse-rights clearance is claimed by this portfolio review. Related upload and manuscript records are one work.",
+    "provenance": "Complete manuscript review retained at the unchanged source revision and reconciled with the current Ask a Neuroscientist owner register. The owner identifies a Fat Nugs Magazine draft; current portfolio and Polymath title checks found no matching entry. No manuscript body or unreviewed media is reproduced.",
+    "stage": "Essay draft",
+    "held": true,
+    "releaseHeld": true,
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist"
+  },
+  {
+    "id": "why-does-time-fly-when-youre-having-fun",
+    "title": "Why Does Time Fly When You're Having Fun?",
+    "category": "Learning",
+    "question": "Why can an experience feel short while it happens and long in memory, and how does that differ from the feeling that time is passing quickly?",
+    "expression": "RN’s prepared Ask a Neuroscientist essay explains three experiences that everyday language often mixes together: estimating duration while expecting to judge it, estimating duration afterward, and reporting how fast time seems to pass. For readers interested in attention, emotion and memory, RN compares attention-based timing models, a review of 117 experiments, a small daily-life study, accounts of motivation, a lockdown survey and a free-fall experiment. The manuscript follows how mental workload, remembered changes, mood and fear can lead to different answers depending on the question and study design. RN’s role is documentary research and explanatory writing, translating the distinctions and study limits without claiming to have conducted the research.",
+    "boundary": "A prepared Fat Nugs Magazine column draft, not a verified publication, validated timing model or completed media package. The daily-life study involved 27 adults; the lockdown survey relied on volunteers and remembered ratings of earlier life, so neither establishes causation. The unavailable 2012 motivation paper is represented through a later review. Short laboratory tasks do not establish how weeks or holidays are experienced, and the cited holiday demonstration lacks a reported sample size in the account used. The free-fall result distinguishes recalled duration from digit-reading performance; its proposed brain explanation was speculative. Planned dates differ between the manuscript and current owner record. Scientific claims, quotations, imagery and reuse rights have not been independently cleared in this portfolio review. Upload and manuscript versions remain one work.",
+    "provenance": "Complete manuscript review retained at the unchanged source revision and reconciled with the current Ask a Neuroscientist owner record. Draft status is established; differing planned dates do not establish publication. No full source text or unreviewed media is reproduced.",
+    "stage": "Essay draft",
+    "held": true,
+    "releaseHeld": true,
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist"
   }
 ]
