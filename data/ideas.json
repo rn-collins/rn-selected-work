@@ -1913,5 +1913,20 @@
     "workType": "Writing",
     "workStatus": "Published",
     "releaseHeld": false
+  },
+  {
+    "id": "human-review-authority-context-time",
+    "title": "Why Human Review Requires Authority, Context, and Time",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "stage": "Published essay",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/why-human-review-requires-authority-context-and-time",
+    "question": "What must an institution give a human reviewer so they can change a consequential decision rather than merely approve it?",
+    "expression": "RN’s published essay for people designing, supervising or challenging AI-assisted institutional decisions. Article one of Uncertainty Has an Owner, within Nervous System Aware Governance, introduces her ACT test: authority to change what happens next, context to understand the evidence and governing rule, and protected time to investigate before preventable harm. A composite review scenario shows how one-click approvals, burdensome overrides and speed targets can make formal oversight ineffective. RN distinguishes decision authority, process authority and system authority; explains why useful context is different from indiscriminate disclosure; and proposes risk-sensitive queues, escalation routes and correction records. A comparison table identifies practical evidence and warning signs for each condition. A closing exercise asks readers to trace a public workflow, including affected-person input and what happens after an error is found. The essay draws bounded comparisons with AI governance, medical-device human factors, aviation safety and health-care reliability while keeping their different legal settings explicit.",
+    "boundary": "Current publisher metadata identifies RN Collins as author and the essay as published, web-accessible and free. The complete current text, including captions, references and evidence-status section, was reviewed for this description. ACT and its three authority layers are RN’s proposed analytical framework, not adopted legal standards, validated assessment instruments or evidence of a completed implementation. The opening is a composite scenario, not a report about a named institution. EU AI Act references remain limited by the law’s scope and timetable; medical-device, aviation and health-care comparisons do not establish rules for every institutional workflow. This review did not independently verify legal or scientific claims, source editions, quotations, images, rights or practical effectiveness. The older related carousel is archived; historical approval does not approve a successor or revised text. Full writing remains on Polymath, and the exercise excludes protected personal, client and institutional information.",
+    "provenance": "Current publisher record and complete published text reviewed November 4, 2026; metadata reconfirmed November 5 UTC. Reconciled with the existing editorial catalogue and archived derivative record. RN Collins is the credited author; full writing remains on Polymath.",
+    "category": "Law + governance",
+    "held": false,
+    "releaseHeld": false
   }
 ]
