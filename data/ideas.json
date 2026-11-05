@@ -1990,5 +1990,35 @@
     "workStatus": "Draft",
     "parentId": "ask-a-neuroscientist",
     "releaseHeld": true
+  },
+  {
+    "id": "does-seasonal-food-taste-better",
+    "title": "Does Seasonal Food Taste Better? Attention, Expectation and the Table",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "question": "How might attention and expectation change a meal, and what would establish whether seasonal food itself tastes better?",
+    "expression": "RN’s prepared Ask a Neuroscientist essay uses Nature at the Table, a plant-based lunch created by Studio Daniëlle Ooms for Dutch Design Week 2025, to examine how eating is shaped by attention, memory and expectation. For readers interested in food, design and neuroscience, RN connects the documented event with three research accounts: a review of attention and food intake, an early brain-imaging study of wine-price expectations, and a later experiment comparing price-cued and blind wine ratings. The manuscript explains the shared table, local vegetables and tableware made with restaurant waste, crediting the makers and partners. RN’s contribution is documentary research and explanatory writing; she did not design the lunch or conduct the studies.",
+    "boundary": "A prepared column draft, not a verified magazine publication, field report or finished media package. The event account comes from its listing; no attendance or visitor-outcome study is established. The first two research accounts rely on abstracts. The later experiment analysed 30 of 54 recruits and its brain findings did not survive its strictest whole-brain statistical correction. None of these studies tests this lunch, seasonal vegetables or whether seasonal food tastes better. The connection is the essay’s question, not a demonstrated result. Primary scientific claims, quotations, images and reuse rights have not been independently cleared in this portfolio review. Related manuscript and upload records remain one work.",
+    "provenance": "Complete manuscript reviewed and reconciled with the current Ask a Neuroscientist owner register, which identifies a Fat Nugs Magazine draft. Current Polymath inventory and portfolio title checks found no matching entry; that bounded comparison does not establish publication elsewhere.",
+    "held": true,
+    "releaseHeld": true,
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist"
+  },
+  {
+    "id": "can-a-bowl-of-soup-make-you-feel-less-alone",
+    "title": "Can a Bowl of Soup Make You Feel Less Alone?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "question": "What does research on shared meals and comfort food actually show about belonging, and how far can it explain a designed soup-table experience?",
+    "expression": "RN’s prepared Ask a Neuroscientist essay examines Re-charge #3, HuisKamerCollab’s Dutch Design Week installation inviting visitors to sit at a long table, share soup and slow down. For readers interested in social connection, food and design, it describes the makers’ table, soundscape, film, material staging and graphics through the event listing. RN then compares a UK survey of 2,000 adults with two small undergraduate experiments on comfort food and thoughts of relationships. The writing explains why an association between eating together and reported wellbeing does not establish causation, and why an effect found among people with particular food or attachment associations cannot automatically be applied to everyone. RN’s role is documentary research and explanatory writing, not installation design or conducting the studies.",
+    "boundary": "A prepared essay draft, not a verified magazine publication, observed installation evaluation or completed media package. The manuscript’s event description is listing-based. Its survey cannot establish that shared meals cause greater connection; the experiments involved 111 and 110 undergraduates and tested different tasks. One involved consuming soup already regarded as comfort food; the other involved writing about comfort food after a relationship threat. Neither tests this installation, eating soup with strangers, overstimulation or the sound and smell of its setting. Visitor behaviour and outcomes remain open questions. The current owner date and manuscript date differ, and neither establishes publication. Scientific claims, quotations, imagery and reuse rights have not been independently cleared in this portfolio review. Upload and manuscript records remain one work.",
+    "provenance": "Complete current manuscript and current Ask a Neuroscientist long-form owner record reviewed. The owner identifies a Fat Nugs Magazine draft. Related source versions are consolidated without reproducing the manuscript or unreviewed media.",
+    "held": true,
+    "releaseHeld": true,
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist"
   }
 ]
