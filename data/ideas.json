@@ -1960,5 +1960,35 @@
     "parentId": "herbal-histories",
     "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/suggested-but-not-proven",
     "provenance": "Existing article-intake catalogue reconciled with current publisher metadata and the complete eight-section essay and evidence-status section on November 4, 2026 Hawaiʻi. The explicit body-series introduction supports Herbal Histories; the additional Unsettled tag is not counted as another work."
+  },
+  {
+    "id": "who-is-a-playground-built-for",
+    "title": "Who Is a Playground Built For? Huis, a Play Space on Wheels",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "question": "How can a play space include children with different mobility and sensory needs, and what evidence would show whether its design helps?",
+    "expression": "RN’s prepared Ask a Neuroscientist essay examines Huis, a mobile play installation by Studio Kars en Boom with RAUM. Written for readers interested in childhood, disability and public-space design, it brings together the makers’ accounts of working with children and research on accessible play, sensory experiences and children’s choices. RN’s contribution is documentary research and explanatory writing about the installation. The manuscript distinguishes reviews of existing studies from a local playground-accessibility audit, school-based research and a small handheld-device experiment. An added section traces the earlier Straatscherm project and asks what observation and children’s own accounts could reveal about places to rest within a play space.",
+    "boundary": "A prepared essay draft, not a verified publication, completed multimedia package or installation designed by RN. The manuscript reports no outcome study of Huis. Findings from school sensory rooms or handheld devices do not establish effects in a playground, and the proposed evaluation has not been conducted. Cited papers, quotations, images, legal claims and reuse rights have not been independently cleared in this portfolio review. The draft and its related upload materials remain one work; source publication and media release remain with the existing editorial owner.",
+    "held": true,
+    "provenance": "Complete revised manuscript reviewed for work-register purposes; current long-form owner register identifies Ask a Neuroscientist and a Polymath draft. The October 28 manuscript update and current owner record supersede an older outlet/date label. No matching title found in the current Polymath post inventory.",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist",
+    "releaseHeld": true
+  },
+  {
+    "id": "could-you-read-a-curtain-with-your-fingertips",
+    "title": "Could You Read a Curtain With Your Fingertips?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "question": "What can research on touch and learning tell us about reading a code embedded in a textile?",
+    "expression": "RN’s prepared Ask a Neuroscientist essay uses Svenja Bremen’s Tactile Notation as a starting point for explaining how people perceive fine detail through touch and learn tactile reading. The designer’s translucent silk curtains carry flocked and wooden marks in her own notation system. For readers interested in design and neuroscience, RN brings the exhibition listing into conversation with research on fingertip receptors, tactile acuity and Braille training. The manuscript separates functional brain-imaging findings from a later structural study of the same learners, discusses a small stimulation experiment, and follows what happened when some learners were retested after training ended. RN’s contribution is documentary research and explanatory writing; she did not design the textile or conduct these studies.",
+    "boundary": "A prepared essay draft assigned to the existing Ask a Neuroscientist editorial owner, not a verified magazine publication or finished media package. The manuscript explicitly says the work was neither seen nor touched for the piece. Its intended readers, encoded content, mark dimensions and usability remain unknown; the listing does not establish that it uses Braille or was made for blind readers. Braille research supplies context, not evidence that this particular textile works. The cited papers, quotations, imagery and reuse rights have not been independently cleared in this portfolio review. Related upload and manuscript records remain one work.",
+    "held": true,
+    "provenance": "Complete current manuscript and current long-form owner record reviewed for work-register purposes. The source is a Fat Nugs Magazine column draft; conflicting planned dates remain unresolved and neither establishes publication. No source document or unreviewed media is reproduced.",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist",
+    "releaseHeld": true
   }
 ]
