@@ -2215,5 +2215,20 @@
     "expression": "RN’s prepared Ask a Neuroscientist column explains the everyday experience of feeling irritable before eating. For general readers, it connects interoception with a 21-day study of self-reported hunger and mood, laboratory work on emotional context, disputed glucose and self-control explanations, and mouse research on feeding circuits and territorial aggression. The manuscript describes study designs, separates associations from explanations, distinguishes statistical models and identifies where findings cannot transfer across species. RN’s evidenced role is research synthesis and explanatory writing, rather than conducting these experiments.",
     "boundary": "The current AaN owner record and manuscript identify a Fat Nugs draft planned for March 8, 2027; no publication URL is recorded. It remains held. The field study used a modest, mostly female Central European sample and self-ratings, with no glucose or hormone measures; it does not establish the mechanism. The manuscript discusses the earlier laboratory studies through the field paper’s account because their original text was not openly available. Mouse territorial aggression is not human irritability, and disputed self-control findings do not establish a dietary or medical explanation. Scientific claims, numerical interpretations, quotations and rights have not been independently cleared. The upload and manuscript are one work, not separate published outputs.",
     "provenance": "Complete current manuscript and current owner row reviewed. The summary describes the draft’s approach and limitations; it is not independent scientific review. No source manuscript, media, health advice or draft reading link is reproduced."
+  },
+  {
+    "id": "can-a-surface-calm-you-down",
+    "title": "Can a Surface Calm You Down? On Touch and the Skin's Caress Fibres",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist",
+    "held": true,
+    "releaseHeld": true,
+    "question": "What can touch research explain about the feelings a surface evokes, and where does the evidence stop?",
+    "expression": "RN’s prepared Ask a Neuroscientist column uses the 2025 On Touch workshop by Jonathan Radetz and Babette Wiezorek as a starting point for explaining sensory experience. For readers interested in neuroscience and design, it compares experimenter-applied brush strokes, fingertip exploration of materials and touch following social exclusion. The manuscript describes the methods, sample sizes and measured outcomes, then asks how far those findings can inform a workshop about tactile objects. RN’s role is documentary research, synthesis and explanatory writing; the workshop belongs to its credited designers, and the account is drawn from listings rather than an established visit.",
+    "boundary": "The current AaN owner record and manuscript identify a Fat Nugs draft planned for March 10, 2027, with no publication URL. It remains held. The studies described here do not test the workshop’s objects. Pleasantness, heart-rate slowing and reduced feelings of exclusion are different outcomes; they do not establish that handling a surface produces calm. The manuscript itself explains that heart-rate slowing may reflect an orienting response, then calls it a link to bodily calm near the conclusion; that inconsistency needs editorial resolution. Its palm-fibre statement is attributed to older research and has not been independently checked against later evidence. Small samples, experimenter-applied touch and a women-only exclusion study limit generalization. Scientific claims, quotations, images and rights are not independently cleared. The upload and manuscript are one work.",
+    "provenance": "Complete current manuscript and owner row reviewed. This is a separate design-linked essay from the existing gentle-stroke draft, despite shared touch research. Exhibition details remain attributed to 2025 listings; attendance and measured installation outcomes are not established. No source manuscript or draft reading link is reproduced."
   }
 ]
