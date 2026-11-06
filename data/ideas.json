@@ -2200,5 +2200,20 @@
     "expression": "RN’s prepared Ask a Neuroscientist column uses the 2025 Dutch Design Week archive account of HuisKamerCollab’s Re-charge #2 to explore quiet, attentive listening and brain research. It introduces the credited collective’s hanging quilts, soundscape, objects and speakers, then explains a mouse experiment on auditory exposure, a review of traffic noise and mental health, and a conceptual proposal about built environments. For readers interested in neuroscience and sensory design, RN connects these different forms of evidence while explaining why they cannot establish the installation’s effects. RN’s role is documentary research, synthesis and explanatory writing; the room and its components are the makers’ work, and attendance is not established.",
     "boundary": "The current AaN owner record identifies a Fat Nugs draft planned for March 1, 2027, with no publication URL. It remains held. The 40-mouse experiment counted cells rather than testing memory or mood, and it does not show that quiet rooms grow neurons in humans. Human traffic-noise associations are not evidence that a brief visit improves brain health. The manuscript uses only the noise review’s abstract and selected opening material from the built-environment review; the latter is a proposal, not an installation experiment, and its position on adult human neurogenesis was not compared with other work. None of the studies tests this room. Scientific claims, quotations, images and rights are not independently cleared. The upload and manuscript are one work; this 2025 listening room is distinct from Re-charge #3.",
     "provenance": "Complete current manuscript and current owner row reviewed. Exhibition details are attributed to the 2025 archive listing; the account does not establish a visit or measured outcomes. Source-access limits are retained. No source manuscript, unreviewed media or draft reading link is reproduced."
+  },
+  {
+    "id": "is-hangry-real",
+    "title": "Is \"Hangry\" Real? What Hunger Does to Mood",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist",
+    "held": true,
+    "releaseHeld": true,
+    "question": "How does hunger relate to anger and irritability, and how well do the familiar explanations fit the evidence?",
+    "expression": "RN’s prepared Ask a Neuroscientist column explains the everyday experience of feeling irritable before eating. For general readers, it connects interoception with a 21-day study of self-reported hunger and mood, laboratory work on emotional context, disputed glucose and self-control explanations, and mouse research on feeding circuits and territorial aggression. The manuscript describes study designs, separates associations from explanations, distinguishes statistical models and identifies where findings cannot transfer across species. RN’s evidenced role is research synthesis and explanatory writing, rather than conducting these experiments.",
+    "boundary": "The current AaN owner record and manuscript identify a Fat Nugs draft planned for March 8, 2027; no publication URL is recorded. It remains held. The field study used a modest, mostly female Central European sample and self-ratings, with no glucose or hormone measures; it does not establish the mechanism. The manuscript discusses the earlier laboratory studies through the field paper’s account because their original text was not openly available. Mouse territorial aggression is not human irritability, and disputed self-control findings do not establish a dietary or medical explanation. Scientific claims, numerical interpretations, quotations and rights have not been independently cleared. The upload and manuscript are one work, not separate published outputs.",
+    "provenance": "Complete current manuscript and current owner row reviewed. The summary describes the draft’s approach and limitations; it is not independent scientific review. No source manuscript, media, health advice or draft reading link is reproduced."
   }
 ]
