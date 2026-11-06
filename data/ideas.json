@@ -2125,5 +2125,35 @@
     "expression": "RN’s prepared Polymath science essay examines the period after a psychedelic experience for readers trying to distinguish research findings from broad claims about brain change. RN compares animal studies of social learning and neuronal structure, a survey of people reporting lasting difficulties, definitions of integration and a review of how treatment and safety outcomes are measured. The essay organizes findings by species, study design and what was actually observed. RN’s contribution is documentary research and explanatory writing, not conducting the studies or providing treatment. It was prepared as a science companion to RN’s separate duty-of-care essay, connecting a question about responsibility with the limits of the available evidence.",
     "boundary": "The current owner register identifies an unpublished Polymath draft without a publication URL. The manuscript leaves the decision to publish it or use it only for video with RN. The companion essay’s current text and publication status have not been verified in this review. Mouse findings do not establish a human learning window; the manuscript relies on a news release for one study’s durations, and another study’s month-long observation involved only four mice. The human survey recruited people who already reported difficulties, so it cannot estimate prevalence or establish causation. The assessment review did not formally appraise study quality, may include overlapping trials and excluded ketamine-based work; only specified sections informed the manuscript. None of these sources tests whether aftercare is effective. Scientific claims, quotations, the cited Oregon rule, images and reuse rights have not been independently verified here. Upload, manuscript and planned video derivatives remain one work.",
     "provenance": "Complete current manuscript read and reconciled with the current Ask a Neuroscientist long-form owner register. Both identify a Polymath draft planned for January 26, 2027; a planned date does not establish publication. No source manuscript or unreviewed media is reproduced."
+  },
+  {
+    "id": "phone-without-noticing",
+    "title": "How Often Do You Pick Up Your Phone Without Noticing?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist",
+    "held": true,
+    "releaseHeld": true,
+    "question": "What can research tell us about unnoticed phone checks and attempts to change social-media habits?",
+    "expression": "RN’s prepared Ask a Neuroscientist essay uses Uitgescrolled, Noortje van Velzen’s social-media repair café, to examine the gap between how people remember using phones and what usage logs record. Written for readers interested in attention and everyday media habits, it follows the exhibition’s four steps: noticing habits, weighing benefits and costs, choosing a challenge and continuing the discussion at home. RN compares a small phone-logging study, a short randomized digital-media restriction trial, a meta-analysis and research on posting habits, attention, body comparison and family discussion. The output is an explanatory manuscript linking a design question to the different questions each study can answer. RN researched and wrote the essay; she did not design the exhibition or conduct the cited studies.",
+    "boundary": "Unpublished Fat Nugs Magazine draft in the current owner register, without a publication URL. Exhibition details are attributed to listings, not a verified visit. No study reviewed in the manuscript tested the repair café, its self-chosen challenges or its products. The logging study was small; the restriction trial was brief and relied on self-reported outcomes; the meta-analysis reports adherence and baseline limitations. The posting model measured behavior rather than dopamine or other brain chemistry. Phone-presence evidence is contested, image-exposure findings are short-term and much of the family research is correlational. These source-described findings and quotations have not received independent scientific, image or rights verification in this review. Upload and manuscript remain one work.",
+    "provenance": "Complete current 11,955-character manuscript and current AaN owner row reviewed. Both identify a Fat Nugs draft planned for February 3, 2027; a planned date does not establish publication. No source manuscript or unreviewed media is reproduced."
+  },
+  {
+    "id": "moving-ball-without-seeing",
+    "title": "How Do You Track a Moving Ball Without Seeing It?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist",
+    "held": true,
+    "releaseHeld": true,
+    "question": "How do hearing, head movement, training and the social setting shape participation in ball sports without sight?",
+    "expression": "RN’s prepared Ask a Neuroscientist essay starts with Visioball, described in the Fontys Dutch Design Week listings as a ball for visually impaired children. For readers interested in accessible design and perception, RN compares research on blind footballers trapping a sounding ball, laboratory sound localization and visually impaired students’ experiences of physical education. The manuscript separates a possible sensory mechanism from the wider question of inclusion, and briefly examines climate-image and restorative-room research alongside other Fontys exhibits. RN’s contribution is documentary research and explanatory writing that identifies what designers would still need to demonstrate. She did not create Visioball, test its mechanism or conduct the cited research.",
+    "boundary": "Unpublished Fat Nugs Magazine draft with no current publication URL. The owner register plans February 5, 2027, while the manuscript says February 3; that discrepancy remains unresolved. The listings do not establish how Visioball signals its position, so the essay does not assume it uses sound. The ball-trapping study compared six experienced players with six sighted non-athletes, leaving training and visual status confounded. Sound-localization results depend on the task and do not establish that blind people universally hear better. The physical-education interviews concern a selected small group and cannot estimate how common exclusion is or prove an equipment solution. Climate-image associations do not establish behavior change, and the restorative-room study lacked a control group. None tested the featured ball or exhibition. Scientific claims, quotations, accessibility outcomes, images and reuse rights remain independently unverified. Upload and manuscript are one work.",
+    "provenance": "Complete current 12,177-character manuscript, including its October 28 revision and references, read alongside the current AaN long-form owner record. Draft and date differences are retained; no publication or attendance is inferred and no manuscript or unreviewed media is reproduced."
   }
 ]
