@@ -2050,5 +2050,35 @@
     "workType": "Writing",
     "workStatus": "Draft",
     "parentId": "ask-a-neuroscientist"
+  },
+  {
+    "title": "Who Designs the Route From GP to Hospital and Back?",
+    "question": "Who designs the handovers between a GP, hospital and other care services, and what evidence shows that those routes help patients?",
+    "expression": "RN’s prepared Ask a Neuroscientist essay uses a Dutch Design Week programme listing to examine how care routes are designed. For readers navigating health services, it explains Metro Mapping, compares evidence about structured pathways inside hospitals with the less-tested idea of regional routes, and examines referral quality and co-design research. RN’s contribution is documentary research and explanatory writing, connecting programme descriptions with published research while distinguishing a method’s intentions from measured outcomes. The manuscript expressly does not rely on attendance, and RN did not design the hospital’s care pathways or conduct the studies.",
+    "boundary": "A Fat Nugs Magazine column draft, not a verified publication, delivered hospital project or completed media package. The Cochrane discussion relies on its abstract and plain-language summary, not the full review. Evidence about pathways inside hospitals does not establish that regional routes or Metro Mapping improve outcomes. Observational referral evidence and maternal-health co-design research address different questions. The manuscript’s closing attribution of regional testing plans needs correction against the cited methodology paper; the shared method name does not establish organisational identity. The current owner record and manuscript agree on a planned date; an older indexed version carries a different date, and none proves publication. No independent scientific, medical, quotation, image or reuse-rights review has been completed here. Related upload and manuscript records should remain one work.",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "parentId": "ask-a-neuroscientist",
+    "id": "who-designs-the-care-route",
+    "category": "Learning",
+    "releaseHeld": true,
+    "provenance": "Complete manuscript review retained at its unchanged source revision and reconciled with the current Ask a Neuroscientist long-form owner register. The owner identifies a Fat Nugs Magazine draft. Related upload, manuscript and older outlet versions remain one work. No source manuscript or unreviewed media is reproduced."
+  },
+  {
+    "title": "Art That Watches Back: Attention, Agency and an Artwork That Forgets",
+    "question": "What can research on attention and agency tell us about an artwork that responds to visitors and says it retains no record of them?",
+    "expression": "RN’s prepared Polymath essay examines Lightwall, a responsive light installation, through documentary research and explanatory writing. For readers interested in art, technology and perception, it connects the makers’ descriptions with research on agency, museum change blindness, human–robot interaction, watching-eye cues and nature videos. It separates the movement-responsive Eindhoven version from the earlier talking California installation and explains where each study stops. RN’s contribution is the essay and its research synthesis; the installation, software and underlying studies are other people’s work.",
+    "boundary": "An unpublished essay draft in the inspected owner register, revised from an earlier Fat Nugs version; the versions are one work, not two publications. The current manuscript and owner record agree on Polymath and a planned January 8, 2027 date. None of the cited studies tested Lightwall. The no-cloud/no-retention statements are attributed maker claims, not an independently tested privacy guarantee. Findings about nature videos do not establish restoration from this installation, and the small all-male robot study does not establish how all visitors respond. No attendance, measured audience outcomes, independent scientific review, native-media inspection or image/reuse-rights approval is established by this reading.",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "parentId": "ask-a-neuroscientist",
+    "id": "lightwall-art-that-watches-back",
+    "category": "Learning",
+    "releaseHeld": true,
+    "provenance": "Complete manuscript review retained at its unchanged source revision and reconciled with the current Ask a Neuroscientist long-form owner register. The owner identifies a Polymath draft. Related upload, manuscript and older outlet versions remain one work. No source manuscript or unreviewed media is reproduced."
   }
 ]
