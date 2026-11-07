@@ -1,5 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import socialLinks from "../../data/social-links.json";
+
+const linkedIn = socialLinks.rn.accounts.find(account => account.id === "linkedin")!;
 import { SocialRow } from "../../components/social-row";
 import { CanonicalPage } from "../../components/canonical-page";
 
@@ -78,18 +81,20 @@ export default function Page() {
         <div className="canonicalSplit">
           <p className="eyebrow">How to reach me</p>
           <div>
-            <h2>Message me where I post.</h2>
-            <p className="dmLine">DMs are open on Instagram at @rn_collins.</p>
+            <h2>Contact me on LinkedIn.</h2>
+            <p className="dmLine">
+              <a href={linkedIn.url} target="_blank" rel="noreferrer">Message RN on LinkedIn ↗</a>
+            </p>
             <p>
-              Instagram is the quickest route. LinkedIn works for networking and brief
-              introductions. A problem description does not survive a message box well, so
-              it is worth the extra minute to say what keeps happening, who it affects, and
-              what has already been tried.
+              LinkedIn is my preferred contact channel for project enquiries, collaborations
+              and introductions. Tell me what is happening, who it affects and what you
+              have already tried. If you are writing about an idea in the gallery, include
+              its title or concept link.
             </p>
             <SocialRow set="rn" />
             <p>
               If you would rather see the work before writing, the{" "}
-              <Link href="/builds">build index</Link> lists everything currently running,
+              <Link href="/builds">build index</Link> describes the documented builds,
               with an honest status on each, and <Link href="/practice">the practice page</Link>{" "}
               sets out the method those builds came out of.
             </p>

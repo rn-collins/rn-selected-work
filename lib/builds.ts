@@ -36,8 +36,8 @@ export type Build = BuildNote & {
   live: string;
   repoUrl: string | null;
   sourceVisibility: string;
-  lastDeployed: string | null;
-  verifiedStatus: number | string;
+  repositoryPushedAt: string | null;
+  inventoryHttpStatus: number | string;
 };
 
 const excludedRepos = new Set(exclusions.exclusions.map((entry) => entry.repo));
@@ -52,8 +52,8 @@ export const builds: Build[] = records
       live: record.live,
       repoUrl: publicSourceLink(record.repoUrl, record.live) ?? null,
       sourceVisibility: record.visibility,
-      lastDeployed: record.pushedAt,
-      verifiedStatus: record.httpStatus,
+      repositoryPushedAt: record.pushedAt,
+      inventoryHttpStatus: record.httpStatus,
     } satisfies Build;
   })
   .filter((build): build is Build => build !== null);

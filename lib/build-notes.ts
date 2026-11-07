@@ -84,7 +84,7 @@ export const categories: { id: CategoryId; title: string; blurb: string }[] = [
     id: "tools",
     title: "Decision tools and workbenches",
     blurb:
-      "Browser-local instruments for working through one decision. Nothing is transmitted, nothing needs an account, and each one states the judgement it cannot make for you.",
+      "Tools for working through decisions, from browser-local workbenches to account-gated or self-hosted systems. Read each record for its access, data-handling and judgment boundaries.",
   },
   {
     id: "education",
@@ -102,7 +102,7 @@ export const categories: { id: CategoryId; title: string; blurb: string }[] = [
     id: "records",
     title: "Field investigations and published records",
     blurb:
-      "Reader-facing editorial systems with the evidence, revisions and rights records kept attached to the published work.",
+      "Field investigations, research modules and editorial systems at different stages, including published editions and held drafts. Each record distinguishes the work from its publication status.",
   },
   {
     id: "practice",
@@ -289,16 +289,16 @@ export const buildNotes: BuildNote[] = [
     repo: "psychonaut-bookworm",
     title: "The Psychonaut Bookworm",
     category: "atlases",
-    status: "Live · 454 published objects drawn from a 1,664-record ledger",
+    status: "Public library · 460 draft and study objects",
     statusKind: "live",
     problem:
       "A reading list in a contested field is a set of assertions about what is worth reading, usually made without showing where anything came from or whether the rights to use it were ever checked.",
     does:
-      "Publishes 454 editorial objects — quote cards, then-and-now comparisons, flashcards, mini-essays, educational modules, character profiles, passage spotlights, companion reading lists, a scientific annotation layer, source packs — each drawn from a 1,664-record provenance ledger with per-item source visibility and rights-review notes. A research desk lets a reader hold a saved query across a session.",
+      "Presents 460 distinct editorial and study objects, including 227 long-form drafts, evidence comparisons, flashcards, reading lists and source packs. The 54 mini-essays are a view onto those drafts, not additional objects. A Research Desk indexes 360 objects and offers a browser-local reading queue.",
     builtOn:
-      "A static site with a committed provenance directory and a governance page, served from Vercel.",
+      "A Python-built static library with per-item pages, a provenance ledger and a public governance page. The public source edition and an earlier export belong to this same build; they are not additional portfolio projects.",
     limits:
-      "The published set is a subset of the ledger by design; items without settled rights review stay unpublished. It indexes and annotates literature, it does not reproduce it.",
+      "The live page and its 460 unique item links were checked November 3, 2026. These are drafts and study material, not 460 externally published articles or completed projects. Quote cards and four other object types remain withheld. Source counts, internal editorial states and rights labels are not proof of citation accuracy, licensing or completed review. Full content and rights review remains open.",
     caseStudy: "psychonaut-bookworm",
   },
   {
@@ -631,13 +631,14 @@ export const buildNotes: BuildNote[] = [
     repo: "keiki-robotics-oahu-ai",
     title: "Getting Your Keiki Into Competitive Robotics",
     category: "education",
-    status: "Live · built with Oʻahu A.I. for Hawaiʻi Tech Week 2026",
-    statusKind: "live",
+    status: "Independent static family-resource concept · release-blocked",
+    statusKind: "prototype",
     problem:
       "Competitive robotics has real on-ramps in Hawaiʻi, and no plain guide to them. The practical consequence is that the families who find their way in are disproportionately the ones who already knew someone inside, which turns a programme meant to widen access into one that quietly narrows it. The missing artefact is small: a page answering the questions a parent actually has, in the order they have them.",
     does:
       "Explains what competitive robotics actually means before asking a family to commit to it, then covers how to start, roughly what it costs, where to look on Oʻahu, and — the section most guides skip — what families commonly get wrong on the way in. It closes with local examples rather than mainland ones.",
-    builtOn: "A static single-page site with an installable web manifest, served from Vercel.",
+    builtOn: "A static single-page guide served from Vercel.",
+    limits: "Independently initiated static family resource. No commission, authorization, endorsement or official relationship with Oʻahu A.I. or Island Robotics is established by this record. Event timing, program guidance and privacy/accessibility boundaries require review before reuse; this is not a maintained team finder or enrollment pathway.",
     caseStudy: "keiki-robotics",
   },
   {
@@ -658,14 +659,14 @@ export const buildNotes: BuildNote[] = [
     repo: "claude-smb-buechler",
     title: "Claude for Small Business — Your First Workflow",
     category: "education",
-    status: "Live · independent quick-start",
-    statusKind: "live",
+    status: "Independent product-translation concept · release-blocked",
+    statusKind: "prototype",
     problem:
       "Small business owners are told AI will help and handed a blank prompt box. For someone with payroll to run on Friday, an open-ended assistant is not an opportunity, it is one more thing to work out. The gap is not enthusiasm; it is a first workflow concrete enough to finish in an afternoon and useful enough to repeat the following week.",
     does:
       "Says what the tool actually is before recommending anything, names the systems it connects to, then walks three starter workflows an owner can pick from on the day: a Monday cash-and-invoices reset, a month close, and a morning brief. It ends where most quick-starts begin — what to connect first, and a short, unglamorous section on safety and cost.",
-    builtOn: "A static single-page site with an installable web manifest, served from Vercel.",
-    limits: "Independent. Not affiliated with, endorsed by, or produced for Anthropic.",
+    builtOn: "A static single-page guide served from Vercel.",
+    limits: "Independent. Not affiliated with, endorsed by, or produced for Anthropic. The current generic guide does not establish Buechler Pacific tailoring, review, approval, delivery or use. Product and security guidance requires current official-source review before reuse. Suggested workflows are not implemented integrations; the PDF control opens browser print.",
     caseStudy: "buechler-pacific",
   },
   {
@@ -777,16 +778,16 @@ export const buildNotes: BuildNote[] = [
     repo: "rn-ask-a-neuroscientist",
     title: "Ask a Neuroscientist",
     category: "education",
-    status: "Live · 88 sourced pages, series publishing from October 2026",
+    status: "Public companion · one indexed reader page verified",
     statusKind: "live",
     problem:
       "A post about what a plant does to the brain has room for a claim and almost nothing else: not the receptor it acts on, not the interaction that makes it dangerous with a prescription, not the law where the reader lives. The link under the post used to lead to the same words again, animated, and nothing more.",
     does:
-      "Gives every card in the series a page a reader can use: the animated card, then the mechanism explained, the warning, the sources, and where to go next. Covers the plants place by place from Hawaiʻi and Alaska to Peru, Gabon and Yemen, the receptor families they act on, a glossary, a policy timeline, myths checked against mechanisms, and the everyday questions about sleep, memory and grief. Readers can send a question, and answered ones are published back.",
+      "Connects an animated card to a reader page with an explanation, sources and a link to the original article. On November 3, 2026, the public home, archive and search index listed one reader piece: what a cannabis certificate of analysis does not measure. The wider series is an editorial programme, not a count of published companion pages.",
     builtOn:
-      "A static build that keeps each post card as the hero of its page and assembles the reader layer, indexes, search and link previews around it. Questions post to the site's own store, so no email address sits on the page.",
+      "A Python static-site builder selects pieces by release date and hold status, then assembles reader pages, indexes, search and link previews. The site also includes a question interface; submission, storage privacy and answer publication have not been verified end to end in this review.",
     limits:
-      "Education, not medical or legal advice. Each page states what its evidence does not establish, and the law as of the date on the page. The series began at Fat Nugs Magazine.",
+      "Education, not medical or legal advice. The series began at Fat Nugs Magazine; publication there is separate from release on this companion site. The deployed build predates the current release controls, so those controls are not verified live. This dated route check is not a full scientific, media, rights or security review.",
   },
   {
     repo: "ask-a-neuroscientist-fashion",
@@ -822,16 +823,16 @@ export const buildNotes: BuildNote[] = [
     repo: "tech-from-here-mjbizcon",
     title: "Tech From Here: MJBizCon",
     category: "records",
-    status: "Project record · research complete, nothing published",
+    status: "Paused · research and draft packages; no pieces released",
     statusKind: "paused",
     problem:
       "Cannabis coverage reports the politics and the money. The machinery that actually governs the plant — the tag on every plant, the laboratory test, the state tracking interface, the rules written around them — is where the decisions get made, and it is barely described.",
     does:
-      "Holds the research corpus behind an investigation into how Nevada regulates cannabis as a technical system: 92 source records, a fourteen-part story architecture, and the production material each part would need. The archive is searchable, and every draft carries the readiness state it was left in.",
+      "Separates RN’s research and draft packages from a public gallery that displays only released pieces. The release record checked on November 3, 2026 contains six held entries and no posting dates. The public gallery has no released pieces; it is not a searchable research archive.",
     builtOn:
-      "Public records and published sources, kept in a repository that separates research from anything approved for release.",
+      "A static gallery builder reads a release record and pause control. Research archive files are excluded from the generated site. This output boundary does not make files in a public repository confidential.",
     limits:
-      "Nothing here has been published or scheduled. Inclusion in the record is not editorial approval, rights clearance or a claim that any draft is finished.",
+      "The inspected release record establishes no released pieces through this gallery. Research completeness, scientific and legal review, media rights and package readiness remain unverified. Repository and site availability do not establish an accepted commission or editorial approval.",
   },
   {
     repo: "color-vision-field-guide",
@@ -867,16 +868,16 @@ export const buildNotes: BuildNote[] = [
     repo: "tech-from-here-amsterdam-eindhoven",
     title: "Tech From Here: Amsterdam + Eindhoven",
     category: "records",
-    status: "Live · 48 published investigations",
+    status: "Public atlas · 48 listed investigations",
     statusKind: "live",
     problem:
       "Event coverage produces a lot of claims and very little that can be checked afterwards, because the evidence stays in the reporter's notes and the notes are never published.",
     does:
-      "Publishes a searchable, city-filterable atlas of 48 source-backed investigations from the Netherlands 2026 event work. Each package opens as a public investigation page carrying its evidence, its limitations, its visual and its source links.",
+      "Presents a searchable, city-filterable atlas whose public catalog lists 48 investigation records from the Netherlands 2026 event work. The atlas is a separate destination from the DDW package gallery.",
     builtOn:
       "A production system that publishes the public atlas while keeping documentary media, rights records, internal source notes and human-QA evidence access-controlled. Public release does not convert an unresolved internal approval into a verified fact.",
     limits:
-      "The public atlas covers the Amsterdam and Eindhoven corpus only. Private rights and production records remain private.",
+      "This count describes the atlas, not all Netherlands or DDW work, social publication, or completion of scientific, rights and security review. Private rights and production records remain private; separate package release holds remain in force.",
   },
   {
     repo: "institutions-of-one-reader",
@@ -911,16 +912,16 @@ export const buildNotes: BuildNote[] = [
     repo: "htw-field-kit",
     title: "Hawaii Tech Week 2026 Field Kit",
     category: "records",
-    status: "Live · event coverage and content-system sample",
+    status: "Public event-media sample · post releases held",
     statusKind: "live",
     problem:
       "A week of an event produces far more frames and footage than anyone can post, and most of it is never chosen, checked, or connected to what it shows. The usual outcome is a few lucky highlights or a folder nobody can search.",
     does:
-      "Shows the best of one week (Aug 31 to Sept 4, 2026) on a single page: 180 photos from an iPhone and a Nikon and 30 Nikon video clips, ten of them with sound, sorted by day and venue, filterable by space or people, with a lightbox. Each day also shows one real post twice, in a plain template and in a concept look drawn from that venue, and the page explains the content system behind it: every frame logged, quotes checked against transcripts, and each person on camera recorded with what they agreed to.",
+      "Presents event photographs and video organised by day and venue, alongside an account of the content-production system. A separate release gate controls post examples; the public release index was empty when checked on November 3, 2026.",
     builtOn:
-      "One static HTML page with its photos and video. No build step, no tracking, no account. Hosted on Vercel.",
+      "A Node-based static-site builder selects eligible post blocks by release date and hold status, then copies only local assets referenced by the rendered page. Hosted on Vercel.",
     limits:
-      "Event documentation and a work sample, not an official Hawaii Tech Week, venue, or sponsor page, and the looks are concept looks rather than any venue's branding. The review system it describes is private, so the page's own counts (1,273 stills and 247 videos logged, 208 drafted posts) cannot be verified from the page. It is set to be skipped by search engines because it shows attendees.",
+      "An independent event-media work sample, not an official Hawaiʻi Tech Week, venue or sponsor publication. Public media availability does not verify attendee consent, rights clearance, quote accuracy or completion of the wider content packages. Media and production counts have not been fully reconciled. Search-engine exclusion is not access control; held posts remain separate from the public event media.",
     caseStudy: "hawaii-tech-week-field-kit",
   },
   // ----------------------------------------------------------------- practice
@@ -944,15 +945,15 @@ export const buildNotes: BuildNote[] = [
     repo: "nsag-site",
     title: "Neurocognitive Systems Advisory Group",
     category: "practice",
-    status: "Live · advisory site; the fifteen prototype modules are retired",
+    status: "Public module scopes · assessment collection paused",
     statusKind: "live",
     problem:
       "Governance advice about human-facing systems is usually written as policy and handed over, with no account of how it becomes a decision anyone has to make on a Tuesday.",
     does:
-      "Presents evidence-led governance modules and human-supervised institutional advisory work, and is the current home of the work that the fifteen retired M-series prototypes were the first attempt at.",
+      "Publishes fifteen module scope pages, proposed governance dimensions and an operations matrix. The matrix distinguishes readable research material from paused assessment collection and human-supervised advisory delivery.",
     builtOn: "A static site on Vercel, with earlier full versions archived in the repository rather than deleted.",
     limits:
-      "The current site is the maintained surface. The fifteen numbered prototype modules listed further down this index are retired and are not part of it.",
+      "The standalone module deployments are retired; the hub retains their scope pages. Assessment collection is paused. Readable pages do not establish validated instruments, automated reports, accreditation or completed advisory engagements.",
   },
   {
     repo: "creator-brand-evidence",
@@ -1044,8 +1045,8 @@ export const buildNotes: BuildNote[] = [
  *
  * Each was first published as its own deployment; those standalone deployments were
  * retired on 15 August 2026 and the hostnames now serve a signpost so links already
- * published against them keep resolving. The modules themselves are current and live on
- * the NSAG site. This table used to carry a generic governance taxonomy — "Risk &
+ * published against them keep resolving. The module scope pages remain readable on
+ * the NSAG site; assessment collection is paused. This table used to carry a generic governance taxonomy — "Risk &
  * Compliance", "Vendor Assurance" — which matched none of them.
  */
 const nsagModules: [string, string, string][] = [
@@ -1072,15 +1073,15 @@ for (const [repo, code, subject] of nsagModules) {
     repo,
     title: `NSAG ${code} — ${subject}`,
     category: "records",
-    status: "Live on the NSAG site · this address is a signpost",
+    status: "Public module scope · assessment collection paused",
     statusKind: "live",
     problem: `One of fifteen modules setting out the evidence base for a single institutional design problem. This one is ${subject.toLowerCase()}.`,
     does:
-      `States the evidence base for the problem, the six governance dimensions the module assesses, and what it does and does not establish. The module is published and free to read at nsag-site.vercel.app/${slug}.`,
+      `States the evidence base for the problem, the six governance dimensions the module assesses, and what it does and does not establish. The scope is available at nsag-site.vercel.app/${slug}; assessment collection is paused.`,
     builtOn:
       "Fifteen separate deployments originally, one per module, which meant scope, evidence and release status had to be maintained in fifteen places. They were consolidated onto the NSAG site on 15 August 2026.",
     limits:
-      `This hostname is not the module. It serves a signpost so that links published against the old standalone deployment keep resolving rather than 404ing. The module itself is current at nsag-site.vercel.app/${slug}.`,
+      `This hostname is not the module. It serves a signpost so that links published against the old standalone deployment keep resolving rather than 404ing. The hub publishes the scope at nsag-site.vercel.app/${slug}, not an active assessment service. These proposed dimensions are not validated institutional scores, audits, accreditations or certifications.`,
   });
 }
 

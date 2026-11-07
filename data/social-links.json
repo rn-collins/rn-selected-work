@@ -3,6 +3,11 @@
   "name": "RN Collins",
   "accounts": [
    {
+    "id": "linkedin",
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/rn-collins"
+   },
+   {
     "id": "instagram",
     "label": "Instagram",
     "url": "https://www.instagram.com/rn_collins/"
@@ -31,11 +36,6 @@
     "id": "x",
     "label": "X",
     "url": "https://x.com/renaissancex2m3"
-   },
-   {
-    "id": "linkedin",
-    "label": "LinkedIn",
-    "url": "https://www.linkedin.com/in/rn-collins"
    },
    {
     "id": "website",

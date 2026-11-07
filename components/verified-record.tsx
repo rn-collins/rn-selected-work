@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { statusLabels, type Build } from "../lib/builds";
+import { inventoryGeneratedAt, statusLabels, type Build } from "../lib/builds";
 
 /**
  * The verified build record, rendered from lib/build-notes.ts — the same
@@ -10,8 +10,8 @@ export function VerifiedRecord({ build }: { build: Build }) {
   return (
     <section className="verifiedRecord" aria-labelledby="verified-record">
       <div className="verifiedRecordHead">
-        <p className="eyebrow">Verified build record</p>
-        <h2 id="verified-record">What is actually running, and what it is not.</h2>
+        <p className="eyebrow">Build record</p>
+        <h2 id="verified-record">What this build does, and where it stands.</h2>
         <p className={`indexStatus indexStatus--${build.statusKind}`}>
           <span className="indexStatusTag">{statusLabels[build.statusKind]}</span>
           {build.status}
@@ -38,10 +38,11 @@ export function VerifiedRecord({ build }: { build: Build }) {
           </p>
         )}
         <p className="verifiedRecordProvenance">
-          This record is generated from the same inventory as the{" "}
-          <Link href={`/builds#${build.category}`}>complete build index</Link>: the
-          production URL was checked at the last regeneration, and the status line above
-          repeats what the build reports about itself rather than restating an intention.
+          The URL and its recorded response come from the{" "}
+          <Link href={`/builds#${build.category}`}>public build inventory</Link>, dated{" "}
+          {new Intl.DateTimeFormat("en-US", { month: "long", day: "numeric", year: "numeric", timeZone: "UTC" }).format(new Date(inventoryGeneratedAt))}.
+          {" "}Descriptions and project status are curated separately. A responding URL is not proof
+          of a completed product, current background services, research approval or client adoption.
         </p>
       </div>
     </section>
