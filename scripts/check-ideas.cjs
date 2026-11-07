@@ -52,6 +52,9 @@ for(const idea of ideas) assert.equal(idea.releaseHeld,idea.held || idea.stage==
 
 for(const idea of ideas){
  if(idea.workType==='Writing' && idea.workStatus==='Published') assert.ok(idea.publicationUrl, `${idea.id}: published writing needs a verified reading link`);
+ if(idea.releaseHeld && (idea.publicationUrl || idea.appendixUrl)) {
+  assert.equal(idea.holdScope,'derivatives', `${idea.id}: a fully held work cannot expose a reading link`);
+ }
  if(idea.holdScope!==undefined){
   assert.equal(idea.holdScope,'derivatives');
   assert.ok(idea.held && idea.releaseHeld && idea.publicationUrl && idea.workStatus==='Published', `${idea.id}: derivative-only hold needs a linked published work and retained hold`);
