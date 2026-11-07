@@ -14,7 +14,13 @@ for (const idea of ideas) {
  for (const key of ['publicationUrl', 'appendixUrl']) {
   if (idea[key] === undefined) continue;
   assert.ok(idea.workType === 'Writing' && idea.workStatus === 'Published' && ['Published essay', 'Published essay · draft derivatives'].includes(idea.stage), `${idea.id}: publication link requires published writing`);
-  assert.match(idea[key], /^https:\/\/polymath-rn-collins\.beehiiv\.com\/p\/[a-z0-9-]+$/, `${idea.id}: only verified public article routes, no draft/query/auth URLs`);
+  const journalBase = 'https://rn-selected-work.vercel.app/writing/journal-of-biophilic-design/';
+  if (key === 'publicationUrl' && idea[key] === journalBase + idea.id) {
+   const article = JSON.parse(fs.readFileSync(`data/journal/${idea.id}.json`, 'utf8'));
+   assert.ok(article.slug === idea.id && article.title === idea.title && article.author === 'RN Collins' && article.sections?.length, `${idea.id}: journal article identity mismatch`);
+  } else {
+   assert.match(idea[key], /^https:\/\/polymath-rn-collins\.beehiiv\.com\/p\/[a-z0-9-]+$/, `${idea.id}: only verified public article routes, no draft/query/auth URLs`);
+  }
   const previous = readingOwners.get(idea[key]);
   assert.ok(!previous || previous === idea.id, `${idea.id}: reading URL already belongs to ${previous}`);
   readingOwners.set(idea[key], idea.id);
