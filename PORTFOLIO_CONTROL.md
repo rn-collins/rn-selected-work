@@ -747,3 +747,7 @@ The package build rejects restoration of the three withdrawn paths and byte-iden
 ## Continuation085 — Dutch Design Week essays
 
 204 → 208 Ideas entries; four held essays, no exhibits or versions counted separately. Current Farming Future Foundations manuscript supersedes the older roadside-grass title. RN identifies Building TX but no title panel in the photo. JOYN planning dates conflict. All four owner records drafted, without release URLs. Selected Works owns gallery review; AaN retains releases. Source cursor 943→960, next compare Eat It! and its essay (948/949); next index row 960. Prior Added to Chapter appendix disposition and historical local-build limitation stand. [Verification](https://github.com/rn-collins/rn-selected-work/pull/41#issuecomment-6709434150).
+
+## Continuation086 — food choices, motion, land and pain
+
+208 → 214 entries, six held AaN essays (two intended for Polymath, four for Fat Nugs). No exhibit, card, pitch or older edition counted separately. Flax, sponge city and pain drafts disagree with their owner-register planning dates. No release links. Earlier Added to Chapter appendix remains one work and historical local build not recertified. Selected Works owns integration review, AaN retains source release. Index cursor 960→978; next compare Biodesign Warehouse and RN’s fungus-panel article at 960/961. [Verification](https://github.com/rn-collins/rn-selected-work/pull/41#issuecomment-6710289088).
