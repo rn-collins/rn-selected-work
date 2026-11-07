@@ -9173,6 +9173,10 @@
     {
      "label": "Mentha × piperita sheets US 3454732 and US 3030767, GBIF records 1843547983 and 1843575295",
      "url": "https://www.gbif.org/occurrence/1843547983"
+    },
+    {
+     "label": "iNaturalist observations 95532938 (Dan Fitzgerald) and 46123633 (Miranda Kohout), Mentha x piperita, research grade, photos CC0",
+     "url": "https://www.inaturalist.org/observations/95532938"
     }
    ],
    "images": [
@@ -9185,9 +9189,9 @@
     },
     {
      "where": "Slide 2",
-     "what": "RCSB PDB 6NR2 (assembly-1): Cryo-EM structure of the TRPM8 ion channel in complex with the menthol analog WS-12 and PI(4,5)P2 (Ficedula albicollis)",
-     "credit": "RCSB PDB (RCSB.org), PDB ID 6NR2; Yin et al. (2019), Science 363. CC BY 4.0",
-     "url": "https://www.rcsb.org/structure/6NR2",
+     "what": "From the Nobel Assembly's 2021 background on the 2002 discovery",
+     "credit": "Text: Nobel Assembly at Karolinska Institutet (2021), Scientific Background, advanced information",
+     "url": "https://www.nobelprize.org/prizes/medicine/2021/advanced-information/",
      "card": false
     },
     {
@@ -9199,37 +9203,30 @@
     },
     {
      "where": "Slide 4",
-     "what": "Chart drawn to scale for this post: mild cold sensing starts around 28°C; people can notice a 0.5°C change in skin temperature",
-     "credit": "Nobel Assembly (2021), advanced information",
+     "what": "From the Nobel background on how fine cold sensing is",
+     "credit": "Text: Nobel Assembly at Karolinska Institutet (2021), Scientific Background, advanced information",
      "url": "https://www.nobelprize.org/prizes/medicine/2021/advanced-information/",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "RCSB PDB 6NR3 (assembly-1): Cryo-EM structure of the TRPM8 ion channel in complex with high occupancy icilin, PI(4,5)P2, and calcium",
-     "credit": "RCSB PDB (RCSB.org), PDB ID 6NR3; Yin et al. (2019), Science 363. CC BY 4.0",
-     "url": "https://www.rcsb.org/structure/6NR3",
+     "what": "From the Nobel background on mice without the gene",
+     "credit": "Text: Nobel Assembly at Karolinska Institutet (2021), Scientific Background, advanced information",
+     "url": "https://www.nobelprize.org/prizes/medicine/2021/advanced-information/",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "RCSB chemical component KXS (WS-12, a menthol analog), unlabeled 2D drawing, from entry 6NR2",
-     "credit": "RCSB PDB (RCSB.org), ligand KXS in PDB ID 6NR2; Yin et al. (2019), Science 363. CC BY 4.0",
+     "what": "RCSB PDB 6NR2 (assembly-1): Cryo-EM structure of the TRPM8 ion channel in complex with the menthol analog WS-12 and PI(4,5)P2 (Ficedula albicollis)",
+     "credit": "RCSB PDB (RCSB.org), PDB ID 6NR2; Yin et al. (2019), Science 363. CC BY 4.0",
      "url": "https://www.rcsb.org/structure/6NR2",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): in the cornea, TRPM8 neurons sense cold and also act as humidity detectors; their ongoing firing drives basal tearing",
-     "credit": "Pertusa, Solorza and Madrid (2023), Frontiers in Pharmacology 14",
-     "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1213337/full",
-     "card": false
-    },
-    {
-     "where": "Slide 8",
-     "what": "Hans Simon Holtzbecker, Mentha pulegium and Mentha cervina (mints), gouache on parchment, 1649 to 1659, from the Gottorf florilegium, KKSgb2950/62 (National Gallery of Denmark)",
-     "credit": "Hans Simon Holtzbecker, National Gallery of Denmark (public domain)",
-     "url": "https://open.smk.dk/artwork/image/KKSgb2950/62",
+     "what": "From the 2023 review on the eye",
+     "credit": "Text: Pertusa, Solorza and Madrid (2023), Frontiers in Pharmacology 14:1213337, CC BY 4.0",
+     "url": "https://doi.org/10.3389/fphar.2023.1213337",
      "card": false
     },
     {
@@ -9241,16 +9238,16 @@
     },
     {
      "where": "Story 2",
-     "what": "Diagram made for this post: menthol and cool temperatures both open TRPM8",
-     "credit": "Pertusa et al. (2023), Frontiers in Pharmacology; Nobel Assembly (2021), advanced information",
+     "what": "From the 2023 review's abstract",
+     "credit": "Text: Pertusa, Solorza and Madrid (2023), Frontiers in Pharmacology 14:1213337, CC BY 4.0",
      "url": "https://doi.org/10.3389/fphar.2023.1213337",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): TRPM8 neurons on the eye's surface detect cold and humidity, and their ongoing firing stimulates basal tears",
-     "credit": "Pertusa, Solorza and Madrid (2023), Frontiers in Pharmacology 14",
-     "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1213337/full",
+     "what": "Where the membrane lipid binds",
+     "credit": "Pertusa, Solorza and Madrid (2023), Front Pharmacol, Fig. 3, CC BY 4.0",
+     "url": "https://doi.org/10.3389/fphar.2023.1213337",
      "card": false
     }
    ]
@@ -9273,85 +9270,78 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Unknown maker, A dissertation on the natural history and medicinal effects of the secale cornutum, or ergot / By Oliver Prescott",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/n2j3qas6",
+     "what": "Chart of Fuentes et al. (2020), reporting the 2012 meta-analysis of six trials: odds ratio 1.96, 95% confidence interval 1.36 to 2.84, against no difference at 1",
+     "credit": "Chart: AaN, from Fuentes et al. (2020) data",
+     "url": "https://doi.org/10.3389/fpsyt.2019.00943",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Unknown maker, Claviceps purpurea (Fr.) Tul, herbarium specimen, BOTANYXLXX0298703 (Naturalis Biodiversity Center)",
-     "credit": "Naturalis Biodiversity Center via Europeana (CC0)",
-     "url": "https://www.europeana.eu/item/1389/BOTANYXLXX0298703",
+     "what": "Ergot on a grass head in the Highlands, photo Alan Inman",
+     "credit": "Photo: Alan Inman, iNaturalist (CC0)",
+     "url": "https://www.inaturalist.org/observations/386280971",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post: LSD and alcoholism research: 1938, Hofmann first makes LSD while developing ergot drugs; 1960s, most randomized trials test alcoholism treatment; 2012, a meta-analysis pools six trials; 2020, a review calls for new trials, from Fuentes et al. (2020)",
-     "credit": "Fuentes et al. (2020), Frontiers in Psychiatry 10:943",
+     "what": "From the 2020 review's results",
+     "credit": "Text: Fuentes et al. (2020), Frontiers in Psychiatry 10:943, CC BY 4.0",
      "url": "https://doi.org/10.3389/fpsyt.2019.00943",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "A scale drawn for this post: the pooled odds ratio of 1.96, with its 95% confidence interval of 1.36 to 2.84 and no difference at 1 (Fuentes et al., 2020, reporting Krebs and Johansen, 2012)",
-     "credit": "Fuentes et al. (2020), Frontiers in Psychiatry 10:943",
+     "what": "The pooled result as the 2020 review reports it",
+     "credit": "Text: Fuentes et al. (2020), Frontiers in Psychiatry 10:943, CC BY 4.0",
      "url": "https://doi.org/10.3389/fpsyt.2019.00943",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Diagram made for this post: a single LSD session was comparable in effectiveness to the daily intake of naltrexone, acamprosate or disulfiram (Fuentes et al., 2020, reporting Krebs and Johansen, 2012)",
-     "credit": "Fuentes et al. (2020), Frontiers in Psychiatry 10:943",
+     "what": "The comparison with daily medicines",
+     "credit": "Text: Fuentes et al. (2020), Frontiers in Psychiatry 10:943, CC BY 4.0",
      "url": "https://doi.org/10.3389/fpsyt.2019.00943",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Diagram made for this post: pooled, six trials gave an odds ratio of 1.96 against comparison treatments; one by one, several trials found every group improved with no difference, and one gain was mostly gone by 6 months (Fuentes et al., 2020)",
-     "credit": "Fuentes et al. (2020), Frontiers in Psychiatry 10:943",
+     "what": "One of the single trials",
+     "credit": "Text: Fuentes et al. (2020), Frontiers in Psychiatry 10:943, CC BY 4.0",
      "url": "https://doi.org/10.3389/fpsyt.2019.00943",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Diagram made for this post: in one trial the LSD group did better at 2 months; the difference was mostly gone by 6 months, apart from two work items (Fuentes et al., 2020)",
-     "credit": "Fuentes et al. (2020), Frontiers in Psychiatry 10:943",
+     "what": "The trial whose early edge faded",
+     "credit": "Text: Fuentes et al. (2020), Frontiers in Psychiatry 10:943, CC BY 4.0",
      "url": "https://doi.org/10.3389/fpsyt.2019.00943",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Diagram made for this post: the evidence to date is strongest for alcoholism; new studies under modern standards are needed (Fuentes et al., 2020)",
-     "credit": "Fuentes et al. (2020), Frontiers in Psychiatry 10:943",
-     "url": "https://doi.org/10.3389/fpsyt.2019.00943",
-     "card": false
-    },
-    {
-     "where": "Slide 9",
-     "what": "Question frame made for this post: should old trials guide new ones?",
-     "credit": "Fuentes et al. (2020), Frontiers in Psychiatry 10:943",
+     "what": "From the 2020 review's conclusion",
+     "credit": "Text: Fuentes et al. (2020), Frontiers in Psychiatry 10:943, CC BY 4.0",
      "url": "https://doi.org/10.3389/fpsyt.2019.00943",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Number card made for this post: in the 1960s, most randomized trials of LSD in psychiatry tested it in alcoholism treatment (Fuentes et al. (2020), Frontiers in Psychiatry 10:943)",
-     "credit": "Fuentes et al. (2020), Frontiers in Psychiatry 10:943",
+     "what": "The opening of the 2020 review",
+     "credit": "Text: Fuentes et al. (2020), Frontiers in Psychiatry 10:943, CC BY 4.0",
      "url": "https://doi.org/10.3389/fpsyt.2019.00943",
-     "card": true
+     "card": false
     },
     {
      "where": "Story 2",
-     "what": "Number card made for this post: showed the superiority of LSD over placebo in the treatment of alcoholism with an odds ratio (OR) of 1.96 (Fuentes et al. (2020), Frontiers in Psychiatry 10:943)",
-     "credit": "Fuentes et al. (2020), Frontiers in Psychiatry 10:943",
+     "what": "Another single trial, with a positive result",
+     "credit": "Text: Fuentes et al. (2020), Frontiers in Psychiatry 10:943, CC BY 4.0",
      "url": "https://doi.org/10.3389/fpsyt.2019.00943",
-     "card": true
+     "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): pooled, then one by one, six trials pooled gave an odds ratio of 1.96; one by one, several found no difference between groups (Fuentes et al. 2020)",
-     "credit": "Fuentes et al. (2020), Frontiers in Psychiatry 10:943",
+     "what": "A third trial and its caveat",
+     "credit": "Text: Fuentes et al. (2020), Frontiers in Psychiatry 10:943, CC BY 4.0",
      "url": "https://doi.org/10.3389/fpsyt.2019.00943",
      "card": false
     }
@@ -81808,6 +81798,99 @@
      "what": "Number chart made for this post: the year digoxin was isolated, drawn in code by Claude, persona Case-numeral clerk (170)",
      "credit": "Khandelwal et al. (2024), Cureus 16(3):e56755",
      "url": "https://doi.org/10.7759/cureus.56755",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "mar-18-dcc02",
+   "date": "2027-03-18",
+   "time": "09:00 HST",
+   "id": "DCC02",
+   "title": "Tumors that slowed in mice, and why that isn't a cure",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Caffarel, M. M., Andradas, C., Mira, E., Pérez-Gómez, E., Cerutti, C., Moreno-Bueno, G., Flores, J. M., García-Real, I., Palacios, J., Mañes, S., Guzmán, M., & Sánchez, C. (2010). Cannabinoids reduce ErbB2-driven breast cancer progression through Akt inhibition. Molecular Cancer, 9, 196 (full text read Nov 7, 2026, Europe PMC PMC2917429, CC BY 2.0, licence also checked on the publisher's page; PubMed 20649976)",
+     "url": "https://doi.org/10.1186/1476-4598-9-196"
+    },
+    {
+     "label": "Sun, D., Gao, W., Hu, H., & Zhou, S. (2022). Why 90% of clinical drug development fails and how to improve it? Acta Pharmaceutica Sinica B, 12(7), 3049-3062 (full text opened Nov 7, 2026, Europe PMC PMC9293739, CC BY-NC-ND 4.0: facts only, in our own words; PubMed 35865092)",
+     "url": "https://doi.org/10.1016/j.apsb.2022.02.002"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Caffarel et al. (2010) Fig. 3, panel B images only: active caspase-3-positive cells (red) in MMTV-neu mouse breast tumors, vehicle (Veh), THC and JWH-133, nuclei blue (cropped from the CC BY figure; no other change)",
+     "credit": "Caffarel et al. (2010), Molecular Cancer, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.1186/1476-4598-9-196",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Caffarel et al. (2010) Fig. 2, panel A only: volume time-course of the first tumor in each MMTV-neu mouse, vehicle, THC and JWH-133 groups, with a photo of a tumor per group (cropped from the CC BY figure; no other change)",
+     "credit": "Caffarel et al. (2010), Molecular Cancer, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1186/1476-4598-9-196",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Caffarel et al. (2010) Fig. 3, panel A images only: Ki67-positive dividing cells (red) in MMTV-neu mouse breast tumors, vehicle (Veh), THC and JWH-133, nuclei blue (cropped from the CC BY figure; no other change)",
+     "credit": "Caffarel et al. (2010), Molecular Cancer, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.1186/1476-4598-9-196",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Caffarel et al. (2010) Fig. 3, panel C images only: CD31-positive blood vessel cells (green) in MMTV-neu mouse breast tumors, vehicle (Veh), THC and JWH-133, nuclei blue (cropped from the CC BY figure; no other change)",
+     "credit": "Caffarel et al. (2010), Molecular Cancer, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.1186/1476-4598-9-196",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Caffarel et al. (2010) Fig. 4, panel B only: percentage of MMTV-neu mice with lung metastases, macroscopic and microscopic lesions, vehicle, THC and JWH-133 (cropped from the CC BY figure; no other change)",
+     "credit": "Caffarel et al. (2010), Molecular Cancer, cropped from Fig. 4, CC BY",
+     "url": "https://doi.org/10.1186/1476-4598-9-196",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Tissue-cassette slide labeller: share of MMTV-neu mice with four or more tumors at day 90, by group",
+     "credit": "Chart: AaN, from Caffarel et al. (2010) data",
+     "url": "https://doi.org/10.1186/1476-4598-9-196",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Reading of the study design made for this post, drawn in code by Claude, persona Tissue-cassette slide labeller: mice per group, one tumor each injected, and no patients treated",
+     "credit": "Chart: AaN, from Caffarel et al. (2010) data",
+     "url": "https://doi.org/10.1186/1476-4598-9-196",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Caffarel et al. (2010), Molecular Cancer",
+     "url": "https://doi.org/10.1186/1476-4598-9-196",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Caffarel et al. (2010), Molecular Cancer",
+     "url": "https://doi.org/10.1186/1476-4598-9-196",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Tissue-cassette slide labeller: average days until a second tumor appeared in MMTV-neu mice, by group",
+     "credit": "Chart: AaN, from Caffarel et al. (2010) data",
+     "url": "https://doi.org/10.1186/1476-4598-9-196",
      "card": false
     }
    ]
