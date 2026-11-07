@@ -83015,6 +83015,299 @@
    ]
   },
   {
+   "slug": "apr-24-nyc02",
+   "date": "2027-04-24",
+   "time": "09:00 HST",
+   "id": "NYC02",
+   "title": "How the brain reads a subway map",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Lloyd, P. B., Rodgers, P., & Roberts, M. J. (2018). Metro map colour-coding: Effect on usability in route tracing. In P. Chapman et al. (Eds.), Diagrams 2018, LNAI 10871 (pp. 411-428). Springer (author's corrected copy on the University of Kent repository, kar.kent.ac.uk/66595; no open licence stated, facts only; read in full Nov 7, 2026)",
+     "url": "https://doi.org/10.1007/978-3-319-91376-6_38"
+    },
+    {
+     "label": "Roberts, M. J., Gray, H., & Lesnik, J. (2017). Preference versus performance: Investigating the dissociation between objective measures and subjective ratings of usability for schematic metro maps and intuitive theories of design. International Journal of Human-Computer Studies, 98, 109-128 (author's accepted manuscript on the University of Essex repository, repository.essex.ac.uk/17237; facts only; read in full Nov 7, 2026)",
+     "url": "https://doi.org/10.1016/j.ijhcs.2016.06.003"
+    }
+   ],
+   "other": [
+    {
+     "label": "Library of Congress, Geography and Map Division: Routes of the Interborough Rapid Transit Company (1924), Map and guide of the elevated railroads of New York City (Manhattan Railway, c1881), Hammond's subway system map of New York City ([1921?]); public domain; records read Nov 7, 2026",
+     "url": "https://www.loc.gov/item/2007630432/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Routes of the Interborough Rapid Transit Company, 1924 map (Library of Congress), cropped to Manhattan, Brooklyn and Queens above its key",
+     "credit": "Map: Interborough Rapid Transit Company, 1924, Library of Congress, Geography and Map Division (public domain)",
+     "url": "https://www.loc.gov/item/2007630432/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Map and guide of the elevated railroads of New York City, Manhattan Railway official guide, c1881 (Library of Congress), cropped to the map band from the Battery to Harlem",
+     "credit": "Map: Manhattan Railway, 1881, Library of Congress, Geography and Map Division (public domain)",
+     "url": "https://www.loc.gov/item/98688705/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Key of the 1924 IRT routes map (Library of Congress): subway and elevated divisions, local and express station rings",
+     "credit": "Map: Interborough Rapid Transit Company, 1924, Library of Congress, Geography and Map Division (public domain)",
+     "url": "https://www.loc.gov/item/2007630432/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Hammond's subway system map of New York City, 1921 (Library of Congress), cropped to Lower Manhattan with the trunk lines in colour",
+     "credit": "Map: C. S. Hammond & Co., 1921, Library of Congress, Geography and Map Division (public domain)",
+     "url": "https://www.loc.gov/item/2013589728/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post: correct answers by colour scheme, 17 route-tracing tasks",
+     "credit": "Lloyd, Rodgers & Roberts (2018), Diagrams 2018",
+     "url": "https://doi.org/10.1007/978-3-319-91376-6_38",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post: correct answers at two hazards, routes that swap places and a route that branches",
+     "credit": "Lloyd, Rodgers & Roberts (2018), Diagrams 2018",
+     "url": "https://doi.org/10.1007/978-3-319-91376-6_38",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Bar chart drawn to scale made for this post: seconds to plan one Paris journey, official against curved map",
+     "credit": "Roberts, Gray & Lesnik (2017), IJHCS",
+     "url": "https://doi.org/10.1016/j.ijhcs.2016.06.003",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Roberts Gray Lesnik 2017",
+     "url": "https://doi.org/10.1016/j.ijhcs.2016.06.003",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Roberts Gray Lesnik 2017",
+     "url": "https://doi.org/10.1016/j.ijhcs.2016.06.003",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Number chart made for this post: 1907, the first colour-coded metro lines",
+     "credit": "Lloyd, Rodgers & Roberts (2018), Diagrams 2018",
+     "url": "https://doi.org/10.1007/978-3-319-91376-6_38",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "apr-27-nyc03",
+   "date": "2027-04-27",
+   "time": "09:00 HST",
+   "id": "NYC03",
+   "title": "Central Park's starlings: from 160 birds to the murmuration",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Goodenough, A. E., Little, N., Carpenter, W. S., & Hart, A. G. (2017). Birds of a feather flock together: Insights into starling murmuration behaviour revealed using citizen science. PLOS ONE, 12(6), e0179277 (full text read Nov 7, 2026, Europe PMC PMC5476259, CC BY)",
+     "url": "https://doi.org/10.1371/journal.pone.0179277"
+    },
+    {
+     "label": "Storms, R. F., Carere, C., Zoratto, F., & Hemelrijk, C. K. (2019). Complex patterns of collective escape in starling flocks under predation. Behavioral Ecology and Sociobiology, 73(1), 10 (full text read Nov 7, 2026, Europe PMC PMC6404399, CC BY; supplementary material not read)",
+     "url": "https://doi.org/10.1007/s00265-018-2609-0"
+    }
+   ],
+   "other": [
+    {
+     "label": "Cooke, M. T. (1928). The spread of the European starling in North America (to 1928) (Circular No. 40). U.S. Department of Agriculture (US government work, public domain; Internet Archive item spreadofeuropean40cook from the National Agricultural Library; read in full Nov 7, 2026)",
+     "url": "https://archive.org/details/spreadofeuropean40cook"
+    },
+    {
+     "label": "iNaturalist observations 193505891, 117297130, 273460455, 152797862 and 334263822 (Sturnus vulgaris in Central Park) and 256673952 (a murmuration, RSPB Fowlmere, England), photos CC0 or CC BY (records read Nov 7, 2026)",
+     "url": "https://www.inaturalist.org/observations/193505891"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A European starling in white-speckled winter plumage on a park bench, iNaturalist observation 193505891 by Kai Murphy, Central Park, New York, Dec 9, 2023",
+     "credit": "Photo: Kai Murphy, iNaturalist (CC BY)",
+     "url": "https://www.inaturalist.org/observations/193505891",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Cooke (1928), Fig. 1: breeding range of the European starling in eastern North America, two-year steps to 1926, with an inset of the New York region from 1896",
+     "credit": "Map: Cooke (1928), USDA Circular 40, Fig. 1 (public domain)",
+     "url": "https://archive.org/details/spreadofeuropean40cook",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Plumages of starlings, colour figure in Cooke (1928), painted by E. R. Kalmbach in 1919: adult male and female in spring, young in juvenal plumage, adults in fall",
+     "credit": "Painting: E. R. Kalmbach (1919), in Cooke (1928), USDA Circular 40 (public domain)",
+     "url": "https://archive.org/details/spreadofeuropean40cook",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A European starling murmuration at dusk, iNaturalist observation 256673952 by gwynmwilliams, RSPB Fowlmere, Cambridgeshire, England, Dec 29, 2024",
+     "credit": "Photo: gwynmwilliams, iNaturalist (CC BY)",
+     "url": "https://www.inaturalist.org/observations/256673952",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Chart made for this post: what went with bigger murmurations, predators and temperature",
+     "credit": "Goodenough et al. (2017), PLOS ONE",
+     "url": "https://doi.org/10.1371/journal.pone.0179277",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Storms et al. (2019), Fig. 1a: three video stills of a wave event, one dark pulse moving to the right through a starling flock under falcon attack in Rome, the authors' own footage",
+     "credit": "Storms et al. (2019), Behavioral Ecology and Sociobiology, cropped from Fig. 1a, CC BY",
+     "url": "https://doi.org/10.1007/s00265-018-2609-0",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Bar chart drawn to scale made for this post: where 175 falcon attacks came from",
+     "credit": "Storms et al. (2019), Behavioral Ecology and Sociobiology",
+     "url": "https://doi.org/10.1007/s00265-018-2609-0",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A European starling in glossy purple and green breeding plumage, its yellow bill open, in the grass, iNaturalist observation 117297130 by Dario Taraborelli, Central Park, New York, May 14, 2022",
+     "credit": "Photo: Dario Taraborelli, iNaturalist (CC0)",
+     "url": "https://www.inaturalist.org/observations/117297130",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Cooke 1928 USDA Circular 40",
+     "url": "https://archive.org/details/spreadofeuropean40cook",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Goodenough et al 2017 PLOS ONE",
+     "url": "https://doi.org/10.1371/journal.pone.0179277",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Number chart made for this post: 49 miles an hour",
+     "credit": "Cooke (1928), USDA Circular 40",
+     "url": "https://archive.org/details/spreadofeuropean40cook",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "may-01-cons01",
+   "date": "2027-05-01",
+   "time": "09:00 HST",
+   "id": "CONS01",
+   "title": "Two theories of consciousness, tested head to head",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Cogitate Consortium, Ferrante, O., Gorska-Klimowska, U., Henin, S., Hirschhorn, R., Khalaf, A., Lepauvre, A., Liu, L., Richter, D., Vidal, Y., Bonacchi, N., Brown, T., Sripad, P., Armendariz, M., Bendtz, K., Ghafari, T., Hetenyi, D., Jeschke, J., Kozma, C.,... Melloni, L. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. Nature, 642(8066), 133-142 (full text read Nov 7, 2026, Europe PMC PMC12137136, CC BY 4.0)",
+     "url": "https://doi.org/10.1038/s41586-025-08888-1"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Cogitate Consortium et al. (2025) Fig. 3, panel d, top right pair only: cross-temporal representational similarity of face against object in posterior and prefrontal regions, task-irrelevant trials (cropped from the CC BY figure; no other change)",
+     "credit": "Cogitate Consortium et al. (2025), Nature, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.1038/s41586-025-08888-1",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Pass-or-fail ledger clerk: participants recorded with each method",
+     "credit": "Chart: AaN, from Cogitate Consortium et al. (2025), Nature data",
+     "url": "https://doi.org/10.1038/s41586-025-08888-1",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Cogitate Consortium et al. (2025) Fig. 2, panel b only: intracranial cross-task temporal generalization of face-object decoding for the three durations, posterior (top) and prefrontal (bottom) regions (cropped from the CC BY figure; the letter of the neighbouring panel c is masked white; no other change)",
+     "credit": "Cogitate Consortium et al. (2025), Nature, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1038/s41586-025-08888-1",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Cogitate Consortium et al. (2025) Fig. 2, panel f only: intracranial decoding of face orientation over time in posterior (top) and prefrontal (bottom) regions, chance 33% (cropped from the CC BY figure; no other change)",
+     "credit": "Cogitate Consortium et al. (2025), Nature, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1038/s41586-025-08888-1",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Cogitate Consortium et al. (2025) Fig. 3, panel c only: prefrontal high-gamma responses by stimulus duration, onset-responsive electrodes (n = 99) and the single onset-offset electrode, with raster plots (cropped from the CC BY figure; no other change)",
+     "credit": "Cogitate Consortium et al. (2025), Nature, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.1038/s41586-025-08888-1",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Cogitate Consortium et al. (2025) Fig. 4, panel a only: intracranial dynamic functional connectivity of face- and object-selective electrodes with V1/V2 (top) and prefrontal (bottom) regions (cropped from the CC BY figure; no other change)",
+     "credit": "Cogitate Consortium et al. (2025), Nature, cropped from Fig. 4, CC BY",
+     "url": "https://doi.org/10.1038/s41586-025-08888-1",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Pass-or-fail ledger clerk: electrodes matching each theory's timing prediction",
+     "credit": "Chart: AaN, from Cogitate Consortium et al. (2025), Nature data",
+     "url": "https://doi.org/10.1038/s41586-025-08888-1",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Cogitate Consortium et al. (2025), Nature",
+     "url": "https://doi.org/10.1038/s41586-025-08888-1",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Cogitate Consortium et al. (2025), Nature",
+     "url": "https://doi.org/10.1038/s41586-025-08888-1",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Reading of a measured value made for this post, drawn in code by Claude, persona Pass-or-fail ledger clerk: stimulus durations",
+     "credit": "Chart: AaN, from Cogitate Consortium et al. (2025), Nature data",
+     "url": "https://doi.org/10.1038/s41586-025-08888-1",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "jun-14-smk01",
    "date": "2027-06-14",
    "time": "09:00 HST",

@@ -752,6 +752,21 @@
    "releasedAt": "2027-04-20",
    "hold": false
   },
+  "apr-24-nyc02": {
+   "path": "/posts/apr-24-nyc02/",
+   "releasedAt": "2027-04-24",
+   "hold": false
+  },
+  "apr-27-nyc03": {
+   "path": "/posts/apr-27-nyc03/",
+   "releasedAt": "2027-04-27",
+   "hold": false
+  },
+  "may-01-cons01": {
+   "path": "/posts/may-01-cons01/",
+   "releasedAt": "2027-05-01",
+   "hold": false
+  },
   "jun-14-smk01": {
    "path": "/posts/jun-14-smk01/",
    "releasedAt": "2027-06-14",
