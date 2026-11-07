@@ -6090,16 +6090,16 @@
     },
     {
      "where": "Slide 7",
-     "what": "Crop of the same press photo to the installation's own sign: 'Hier mag je spelen op jouw manier",
-     "credit": "Photo: @neeltjekleijn, DDW press kit (Huis, programme 1419)",
-     "url": "https://app-api.ddw.nl/programme/1419/press-kit.zip",
+     "what": "Huis's own sign at DDW, photo Nick Bookelaar / Dutch Design Week",
+     "credit": "Photo: Nick Bookelaar / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55601674053",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Crop of the press photo: the orange stairs, the coloured roof and the cord pegboard of Huis",
-     "credit": "Photo: @neeltjekleijn, DDW press kit (Huis, programme 1419)",
-     "url": "https://app-api.ddw.nl/programme/1419/press-kit.zip",
+     "what": "Huis on the Nieuwe Emmasingel, photo Nick Bookelaar / Dutch Design Week",
+     "credit": "Photo: Nick Bookelaar / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55601674053",
      "card": false
     },
     {
@@ -14295,86 +14295,86 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Try-it frame made for this post: tap the table beside a glass of water and watch the ripples fade",
-     "credit": "DDW 2026 listing, The Ripple",
-     "url": "https://ddw.nl/en/programme/the-ripple",
+     "what": "The Ripple at Kazerne, photo Ruud Balk / Dutch Design Week",
+     "credit": "Photo: Ruud Balk / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55576735633",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Information frame made for this post: the venue, E31 Kazerne Design Lab, Paradijslaan 8, open daily 11:00 to 18:00 during DDW 2026, per the DDW listing",
-     "credit": "DDW 2026 listing, The Ripple",
-     "url": "https://ddw.nl/en/programme/the-ripple",
+     "what": "One lamp of The Ripple, photo Ruud Balk / Dutch Design Week",
+     "credit": "Photo: Ruud Balk / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55576735633",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Diagram made for this post: the parts were replaceable and recyclable, and the aim was a slower pace for visitors, per the DDW listing",
-     "credit": "DDW 2026 listing, The Ripple",
-     "url": "https://ddw.nl/en/programme/the-ripple",
+     "what": "From the DDW 2026 listing",
+     "credit": "Text: DDW 2026 listing, The Ripple",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/the-ripple",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Dot chart drawn to scale for this post: the 40 lamps of the first Ripple, a 2025 apartment entrance in Amsterdam",
-     "credit": "Studio Koen Steger, Ripple project page",
+     "what": "From the studio's Ripple page",
+     "credit": "Text: Studio Koen Steger, Ripple project page",
      "url": "https://studiokoensteger.com/project/ripple",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post: line drawing of a dome lit by shifting colour, after the Hypnagogia project page; not the real work",
-     "credit": "Studio Koen Steger, Hypnagogia project page",
+     "what": "From the studio's Hypnagogia page",
+     "credit": "Text: Studio Koen Steger, Hypnagogia project page",
      "url": "https://studiokoensteger.com/project/hypnagogia",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post: the theta target and the studio's alpha hunch, with no EEG reported",
-     "credit": "Studio Koen Steger, Hypnagogia project page",
+     "what": "From the studio's Hypnagogia page, on the alpha hunch",
+     "credit": "Text: Studio Koen Steger, Hypnagogia project page",
      "url": "https://studiokoensteger.com/project/hypnagogia",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post: who took part, what light they saw and what happened after a short dose in Iskra-Golec et al. (2017)",
-     "credit": "Iskra-Golec, Golonka, Wyczesany, Smith, Siemiginowska and Wątroba (2017), Advances in Cognitive Psychology 13: 241",
+     "what": "Chart of Iskra-Golec et al. (2017) Tables 3 and 4: mean EEG power after 30 minutes of white or blue light, midday alpha1 47.19 and 46.76 (p = .045), evening theta 47.49 and 47.07 (p = .050), 30 men",
+     "credit": "Chart: AaN, from Iskra-Golec et al. (2017) data",
      "url": "https://doi.org/10.5709/acp-0224-0",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Dot chart drawn to scale for this post: 33 students analysed and 7 removed in Zhai et al. (2025)",
-     "credit": "Zhai, Cao, Li, Gong, Guo and Zhang (2025), Buildings 15(13): 2310",
-     "url": "https://www.mdpi.com/2075-5309/15/13/2310",
+     "what": "From the abstract of Zhai and colleagues' 2025 study",
+     "credit": "Text: Zhai et al. (2025), Buildings (CC BY)",
+     "url": "https://doi.org/10.3390/buildings15132310",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Question frame made for this post: next time you pass water, notice whether moving or still water slowed you down",
-     "credit": "Zhai, Cao, Li, Gong, Guo and Zhang (2025), Buildings 15(13): 2310",
-     "url": "https://www.mdpi.com/2075-5309/15/13/2310",
+     "what": "Zhai et al. (2025) Figure 6: perceived restoration scores for flowing, falling, spraying and stagnant (still) water videos, silent and with sound; still water highest in both",
+     "credit": "Zhai et al. (2025), Buildings 15:2310, Fig. 6 (CC BY)",
+     "url": "https://doi.org/10.3390/buildings15132310",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Poll frame made for this post: moving light or still light?",
-     "credit": "Zhai, Cao, Li, Gong, Guo and Zhang (2025), Buildings 15(13): 2310",
-     "url": "https://www.mdpi.com/2075-5309/15/13/2310",
+     "what": "The centre of one Ripple lamp, photo Ruud Balk / Dutch Design Week",
+     "credit": "Photo: Ruud Balk / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55576735633",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Question frame made for this post: what do you look at to slow down?",
-     "credit": "Zhai, Cao, Li, Gong, Guo and Zhang (2025), Buildings 15(13): 2310",
+     "what": "From the results of Zhai and colleagues' study",
+     "credit": "Text: Zhai et al. (2025), Buildings (CC BY)",
      "url": "https://doi.org/10.3390/buildings15132310",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Information frame made for this post from the DDW listing: Studio Koen Steger x Atelier Hendriksen, E31 Kazerne, Eindhoven",
-     "credit": "DDW 2026 listing, The Ripple",
-     "url": "https://ddw.nl/en/programme/the-ripple",
+     "what": "The venue in the DDW 2026 listing",
+     "credit": "Text: DDW 2026 listing, The Ripple",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/the-ripple",
      "card": false
     }
    ]
@@ -20954,9 +20954,9 @@
     },
     {
      "where": "Slide 2",
-     "what": "Diagram made for this post: the work at a glance, a design foundation with partners from health, homes and government, in a greenhouse at Strijp-S (Dutch Design Week listing)",
-     "credit": "Dutch Design Week listing for Designing Society; Heijmans news on G3",
-     "url": "https://www.dutchdesignweek.nl/",
+     "what": "The Designing Society intro wall, photo Max Kneefel / Dutch Design Week",
+     "credit": "Photo: Max Kneefel / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55619294543",
      "card": false
     },
     {
@@ -21024,9 +21024,9 @@
     },
     {
      "where": "Story 3",
-     "what": "Diagram made for this post from the Dutch Design Week listing: Designing Society at B24 Ketelhuisplein Greenhouse, Strijp-S, Eindhoven, shown Oct 17 to 25, 2026",
-     "credit": "Dutch Design Week listing for Designing Society; Heijmans news on G3",
-     "url": "https://www.dutchdesignweek.nl/",
+     "what": "Inside the B24 Ketelhuisplein greenhouse, photo Max Kneefel / Dutch Design Week",
+     "credit": "Photo: Max Kneefel / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55618140212",
      "card": false
     }
    ]
@@ -24070,9 +24070,9 @@
     },
     {
      "where": "Slide 7",
-     "what": "Diagram made for this post: the work counted, 1 maker (Benedikt Trojer), 1 host (German Design Council), 9 days (Oct 18 to 26, 2025) (DDW 2025 archive listing)",
-     "credit": "DDW 2025 archive listing, Next, Now, Then",
-     "url": "https://ddw.nl/en/programme/archive/2025/next-now-then",
+     "what": "The Next, Now, Then banner at Area 51, photo Max Kneefel / Dutch Design Week",
+     "credit": "Photo: Max Kneefel / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54900678382",
      "card": false
     },
     {
@@ -41913,9 +41913,9 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Stereograph: flax stacks curing in fields near Kortrijk, Belgian linen centre, 1904 (RP-F-F12387)",
-     "credit": "Anonymous / Underwood and Underwood, 1904. Rijksmuseum, public domain",
-     "url": "https://id.rijksmuseum.nl/200347444",
+     "what": "Back to the Flax at Kazerne, photo Ruud Balk / Dutch Design Week",
+     "credit": "Photo: Ruud Balk / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55576789664",
      "card": false
     },
     {
@@ -41955,9 +41955,9 @@
     },
     {
      "where": "Slide 7",
-     "what": "Print: two workers kneeling, pulling a rope tight around a post (RP-P-1937-647)",
-     "credit": "Johannes Josephus Aarts, 1881 to 1934. Rijksmuseum, public domain",
-     "url": "https://id.rijksmuseum.nl/200278645",
+     "what": "The knots of Back to the Flax, photo Ruud Balk / Dutch Design Week",
+     "credit": "Photo: Ruud Balk / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55576789664",
      "card": false
     },
     {
@@ -44354,23 +44354,23 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Anonymous, Zonnewijzer: iron sundial (lead dragon finial catalogued separately, stone base missing), c. 1699 to 1749, BK-16973",
-     "credit": "Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/BK-16973",
+     "what": "The Van Abbemuseum's clock tower, photo Anwyn Howarth / Dutch Design Week",
+     "credit": "Photo: Anwyn Howarth / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55603414313",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Museum as Sundial, Van Abbemuseum, Eindhoven, conceived by director Defne Ayas, Dutch Design Week, Oct 17 to 25, 2026 (DDW listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/museum-as-sundial",
-     "card": true
+     "what": "EDHV's work in Museum as Sundial, photo Anwyn Howarth / Dutch Design Week",
+     "credit": "Photo: Anwyn Howarth / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55603487014",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Anonymous, A house with a sundial on its facade, Niederbronn (Bas-Rhin), France, photograph, 1903 (dated 21 July 1903 on the print), RP-F-2010-94-27",
-     "credit": "Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-F-2010-94-27",
+     "what": "The Van Abbemuseum's 1936 facade, photo Anwyn Howarth / Dutch Design Week",
+     "credit": "Photo: Anwyn Howarth / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55603414313",
      "card": false
     },
     {
@@ -79280,6 +79280,112 @@
    ]
   },
   {
+   "slug": "feb-03-pdaw02",
+   "date": "2027-02-03",
+   "time": "09:00 HST",
+   "id": "PDAW02",
+   "title": "Feedback from your own breath: what biofeedback research shows, and how sure it is",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://psychedelics.design/winners-gallery-2026"
+   },
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Pizzoli, S. F. M., Marzorati, C., Gatti, D., Monzani, D., Mazzocco, K., & Pravettoni, G. (2021). A meta-analysis on heart rate variability biofeedback and depressive symptoms. Scientific Reports, 11, 6650 (full text read Nov 7, 2026, Europe PMC PMC7988005, CC BY 4.0)",
+     "url": "https://doi.org/10.1038/s41598-021-86149-7"
+    },
+    {
+     "label": "Goessl, V. C., Curtiss, J. E., & Hofmann, S. G. (2017). The effect of heart rate variability biofeedback training on stress and anxiety: A meta-analysis. Psychological Medicine, 47(15), 2578-2586 (full text read Nov 7, 2026, author manuscript in OpenBU, hdl.handle.net/2144/26911; facts only, no figures)",
+     "url": "https://doi.org/10.1017/S0033291717001003"
+    },
+    {
+     "label": "Lehrer, P. M., & Gevirtz, R. (2014). Heart rate variability biofeedback: How and why does it work? Frontiers in Psychology, 5, 756 (full text read Nov 7, 2026, Europe PMC PMC4104929, CC BY)",
+     "url": "https://doi.org/10.3389/fpsyg.2014.00756"
+    }
+   ],
+   "other": [
+    {
+     "label": "SoundSelf (n.d.). SoundSelf, home page and Our Research page (public pages read Nov 7, 2026)",
+     "url": "https://soundself.com/pages/our-research"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Text crop of the official Psychedelics Design Awards 2026 winners gallery page: the Products & Services entry for SoundSelf, 'SoundSelf uses optic neurostimulation and generative sound to dissolve the boundary between self and experience' (words only, no image from the page)",
+     "credit": "Text: Psychedelics Design, Winners Gallery 2026 page",
+     "url": "https://psychedelics.design/winners-gallery-2026",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Text crop of SoundSelf's research page, 'Research Foundation': the company's own caveat that findings from related interventions do not, by themselves, establish the effectiveness of SoundSelf (words only)",
+     "credit": "Text: SoundSelf, Our Research page",
+     "url": "https://soundself.com/pages/our-research",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Range chart made for this post, drawn in code by Claude, persona Breath-wave pacer: usual breathing rates against the rate that gives the biggest heart-rate wave, breaths per minute",
+     "credit": "Chart: AaN, from Lehrer & Gevirtz (2014) data",
+     "url": "https://doi.org/10.3389/fpsyg.2014.00756",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Heart rate variability (SDNN, milliseconds) across four training sessions for a biofeedback group and a relaxation comparison group (labelled PMR in the figure)",
+     "credit": "Lehrer & Gevirtz (2014), Frontiers in Psychology, Fig. 3, CC BY",
+     "url": "https://doi.org/10.3389/fpsyg.2014.00756",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Interval chart made for this post, drawn in code by Claude, persona Breath-wave pacer: the pooled effect on depressive symptoms (Hedges' g 0.38) with its 95% confidence interval and prediction interval",
+     "credit": "Chart: AaN, from Pizzoli et al. (2021) data",
+     "url": "https://doi.org/10.1038/s41598-021-86149-7",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Risk of bias table, the column headings and the first 7 of the 14 trials: each marked high risk (red cross) for blinding of participants and personnel; question marks for unreported randomisation",
+     "credit": "Pizzoli et al. (2021), Scientific Reports, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1038/s41598-021-86149-7",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Breath-wave pacer: Hedges' g for anxiety against control, anxiety before and after, and depression against control",
+     "credit": "Chart: AaN, from Goessl et al. (2017) and Pizzoli et al. (2021) data",
+     "url": "https://doi.org/10.1017/S0033291717001003",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Pizzoli et al. (2021), Scientific Reports",
+     "url": "https://doi.org/10.1038/s41598-021-86149-7",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Pizzoli et al. (2021), Scientific Reports",
+     "url": "https://doi.org/10.1038/s41598-021-86149-7",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Effect size against year of publication for the trials: newer trials reported larger effects",
+     "credit": "Pizzoli et al. (2021), Scientific Reports, Fig. 5, CC BY",
+     "url": "https://doi.org/10.1038/s41598-021-86149-7",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "feb-04-pdb01",
    "date": "2027-02-04",
    "time": "09:00 HST",
@@ -80946,6 +81052,104 @@
    ]
   },
   {
+   "slug": "feb-23-wotw04",
+   "date": "2027-02-23",
+   "time": "09:00 HST",
+   "id": "WOTW04",
+   "title": "Word of the week: reuptake",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Yang, D., & Gouaux, E. (2021). Illumination of serotonin transporter mechanism and role of the allosteric site. Science Advances, 7(49), eabl3857 (full text read Nov 7, 2026, Europe PMC PMC8635421, CC BY 4.0). Structures: RCSB PDB 7LIA, 7MGW and 7LI9 (entry records read Nov 7, 2026; coordinates CC0 1.0)",
+     "url": "https://doi.org/10.1126/sciadv.abl3857"
+    },
+    {
+     "label": "Wang, K. H., Penmatsa, A., & Gouaux, E. (2015). Neurotransmitter and psychostimulant recognition by the dopamine transporter. Nature, 521, 322-327. Structure: RCSB PDB entry 4XP1, Drosophila dopamine transporter bound to dopamine, X-ray, 2.89 angstroms (entry record read Nov 7, 2026; coordinates CC0 1.0; the paper was not read, so only the deposited entry's own facts are used)",
+     "url": "https://www.rcsb.org/structure/4XP1"
+    },
+    {
+     "label": "RCSB Protein Data Bank. (2026). Usage policies (read Nov 6, 2026)",
+     "url": "https://www.rcsb.org/pages/usage-policy"
+    }
+   ],
+   "other": [
+    {
+     "label": "National Cancer Institute. (n.d.). Serotonin-norepinephrine reuptake inhibitor. In NCI Dictionary of Cancer Terms (entry read Nov 7, 2026 through the NCI glossary API; public domain US government text; used for the pronunciation of reuptake only)",
+     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/serotonin-norepinephrine-reuptake-inhibitor"
+    },
+    {
+     "label": "UniProt Consortium. (2026). Sodium-dependent serotonin transporter, human (UniProtKB P31645) (entry read Nov 7, 2026; CC BY 4.0)",
+     "url": "https://www.uniprot.org/uniprotkb/P31645/entry"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Serotonin transporter holding serotonin (RCSB PDB 7LIA, Yang & Gouaux, 2021): the human transporter as a dark red ribbon, with two serotonin molecules as blue spheres; the antibody fragment of the deposited complex is left out of this view; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 7LIA (Yang & Gouaux, 2021), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb7lia/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "One chain of 630 amino acids (RCSB PDB 7LIA, Yang & Gouaux, 2021): the serotonin transporter chain coloured from its start (blue) to its end (red), so the coils that cross the membrane can be followed, serotonin in black; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 7LIA (Yang & Gouaux, 2021), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb7lia/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Serotonin in the transporter's central site (RCSB PDB 7LIA, Yang & Gouaux, 2021): close-up with serotonin as blue balls and sticks, the amino acids within 4 angstroms as dark red sticks, two sodium ions violet and one chloride ion green; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 7LIA (Yang & Gouaux, 2021), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb7lia/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Helix TM1a swinging open (RCSB PDB 7MGW and 7LI9, Yang & Gouaux, 2021): the occluded and inward-open structures laid over each other by 538 C-alpha atoms, pale grey; TM1a pink in the inward-open structure and grey in the occluded one, serotonin blue; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 7LI9 (Yang & Gouaux, 2021), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb7li9/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Fruit fly dopamine transporter holding dopamine (RCSB PDB 4XP1, Wang et al., 2015): the transporter as a brown ribbon, with dopamine as amber spheres in its centre; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 4XP1 (Wang et al., 2015), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb4xp1/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Yang & Gouaux (2021), Figure 1, cropped: panels B and C: cryo-EM maps of the serotonin transporter (purple) holding serotonin, with the 15B8 antibody fragment (blue), open to the outside (B) and occluded (C), between lines marking out and in (Science Advances)",
+     "credit": "Yang & Gouaux (2021), Science Advances, cropped from Fig. 1 (CC BY 4.0)",
+     "url": "https://doi.org/10.1126/sciadv.abl3857",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "UniProt P31645",
+     "url": "https://www.uniprot.org/uniprotkb/P31645/entry",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "UniProt P31645",
+     "url": "https://www.uniprot.org/uniprotkb/P31645/entry",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Inward-open serotonin transporter as a solid surface (RCSB PDB 7LI9, Yang & Gouaux, 2021): the transporter in the shape that lets serotonin go into the cell, drawn as a solid dark red surface; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 7LI9 (Yang & Gouaux, 2021), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb7li9/pdb",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "feb-26-psav01",
    "date": "2027-02-26",
    "time": "09:00 HST",
@@ -81231,6 +81435,124 @@
    ]
   },
   {
+   "slug": "mar-02-wotw06",
+   "date": "2027-03-02",
+   "time": "09:00 HST",
+   "id": "WOTW06",
+   "title": "Word of the week: neurotransmitter",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Watanabe, S., Liu, Q., Davis, M. W., Hollopeter, G., Thomas, N., Jorgensen, N. B., & Jorgensen, E. M. (2013). Ultrafast endocytosis at Caenorhabditis elegans neuromuscular junctions. eLife, 2, e00723 (full text read Nov 7, 2026, Europe PMC PMC3762212, CC BY 3.0)",
+     "url": "https://doi.org/10.7554/eLife.00723"
+    },
+    {
+     "label": "Vuckovic, Z., Wang, J., Pham, V., et al. (2023). Pharmacological hallmarks of allostery at the M4 muscarinic receptor elucidated through structure and dynamics. eLife, 12, e83477 (full text read Nov 7, 2026, Europe PMC PMC10229135, CC BY 4.0). Structure: RCSB PDB 7TRS, human M4 receptor with Gi1 and acetylcholine, electron microscopy, 2.8 angstroms (entry record read; coordinates CC0 1.0)",
+     "url": "https://doi.org/10.7554/eLife.83477"
+    },
+    {
+     "label": "Li, A., Pike, A. C. W., Webster, R., et al. (2025). Structures of the human adult muscle-type nicotinic receptor in resting and desensitized states. Cell Reports. Structure: RCSB PDB 9GU3, human adult muscle receptor in a desensitised state in a nanodisc with acetylcholine, electron microscopy, 2.64 angstroms (entry record read Nov 7, 2026; coordinates CC0 1.0; the paper's full text did not load for the reader, so only the deposited entry's own facts are used)",
+     "url": "https://www.rcsb.org/structure/9GU3"
+    },
+    {
+     "label": "Ma, Q., Ma, K., Dong, Y., et al. (2025). Binding mechanism and antagonism of the vesicular acetylcholine transporter VAChT. Nature Structural & Molecular Biology. Structure: RCSB PDB 8XTW, human VAChT with acetylcholine, electron microscopy, 3.3 angstroms (entry record read Nov 7, 2026; coordinates CC0 1.0; the paper was not read, so only the deposited entry's own facts are used)",
+     "url": "https://www.rcsb.org/structure/8XTW"
+    },
+    {
+     "label": "RCSB Protein Data Bank. (2026). Usage policies (read Nov 6, 2026)",
+     "url": "https://www.rcsb.org/pages/usage-policy"
+    }
+   ],
+   "other": [
+    {
+     "label": "National Cancer Institute. (n.d.). Neurotransmitter. In NCI Dictionary of Cancer Terms (entry read Nov 7, 2026 through the NCI glossary API, with its pronunciation, NOOR-oh-tranz-MIH-ter; public domain US government text)",
+     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/neurotransmitter"
+    },
+    {
+     "label": "National Cancer Institute. (n.d.). Acetylcholine. In NCI Dictionary of Cancer Terms (entry read Nov 7, 2026 through the NCI glossary API)",
+     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/acetylcholine"
+    },
+    {
+     "label": "UniProt Consortium. (2026). Vesicular acetylcholine transporter, human (UniProtKB Q16572) (entry read Nov 7, 2026; CC BY 4.0)",
+     "url": "https://www.uniprot.org/uniprotkb/Q16572/entry"
+    },
+    {
+     "label": "UniProt Consortium. (2026). Muscarinic acetylcholine receptor M4, human (UniProtKB P08173) (entry read Nov 7, 2026; CC BY 4.0)",
+     "url": "https://www.uniprot.org/uniprotkb/P08173/entry"
+    },
+    {
+     "label": "UniProt Consortium. (2026). Acetylcholine receptor subunit alpha, human (UniProtKB P02708) (entry read Nov 7, 2026; CC BY 4.0)",
+     "url": "https://www.uniprot.org/uniprotkb/P02708/entry"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Muscle acetylcholine receptor holding acetylcholine (RCSB PDB 9GU3, Li et al., 2025): the five chains of the human adult receptor as indigo and blue ribbons standing around the channel, acetylcholine as gold spheres in its binding sites; the antibody fragments of the deposited complex are left out; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 9GU3 (Li et al., 2025), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb9gu3/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Acetylcholine as it sits in the M4 receptor (RCSB PDB 7TRS, Vuckovic et al., 2023): the molecule alone, in the shape it holds inside the receptor, as balls and sticks; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 7TRS (Vuckovic et al., 2023), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb7trs/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Watanabe et al. (2013), Figure 2, cropped: panel A: electron micrograph of a C. elegans acetylcholine neuromuscular junction frozen 20 ms after a light flash, the dense projection shaded red and a fusing vesicle marked by an arrow; 50 nm scale bar (eLife)",
+     "credit": "Watanabe et al. (2013), eLife, cropped from Fig. 2 (CC BY 3.0)",
+     "url": "https://doi.org/10.7554/eLife.00723",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "M4 receptor holding acetylcholine with its G protein (RCSB PDB 7TRS, Vuckovic et al., 2023): the receptor as an indigo ribbon, acetylcholine gold, and the Gi1 protein's alpha (gold), beta (pale blue) and gamma (slate) parts below; the scFv16 fragment is left out; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 7TRS (Vuckovic et al., 2023), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb7trs/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Muscle receptor seen from outside the cell (RCSB PDB 9GU3, Li et al., 2025): looking down the channel at the ring of five chains, acetylcholine gold in its binding sites; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 9GU3 (Li et al., 2025), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb9gu3/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Watanabe et al. (2013), Figure 1, cropped: panel A: current recorded from a worm's muscle after an electrical pulse (left) and after a blue light flash to acetylcholine neurons (right), with the 20 ms and 50 ms freeze times marked; scale 200 pA and 50 ms (eLife)",
+     "credit": "Watanabe et al. (2013), eLife, cropped from Fig. 1 (CC BY 3.0)",
+     "url": "https://doi.org/10.7554/eLife.00723",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Watanabe et al. (2013), eLife",
+     "url": "https://doi.org/10.7554/eLife.00723",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "RCSB PDB 9GU3 (Li et al., 2025)",
+     "url": "https://doi.org/10.2210/pdb9gu3/pdb",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Watanabe et al. (2013), Figure 2, cropped: panel C: electron micrograph of a vesicle fusing with the membrane at a worm's acetylcholine synapse 20 ms after a flash, arrow on the fusing vesicle; 50 nm scale bar (eLife)",
+     "credit": "Watanabe et al. (2013), eLife, cropped from Fig. 2 (CC BY 3.0)",
+     "url": "https://doi.org/10.7554/eLife.00723",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "mar-06-rom01",
    "date": "2027-03-06",
    "time": "09:00 HST",
@@ -81509,6 +81831,92 @@
      "what": "Chart made for this post: the age range of the cases, drawn in code by Claude, persona Trunk-angle goniometer (98, draft)",
      "credit": "Pitton Rissardo et al. (2024), Geriatrics 9(4):100",
      "url": "https://doi.org/10.3390/geriatrics9040100",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "mar-09-wotw07",
+   "date": "2027-03-09",
+   "time": "09:00 HST",
+   "id": "WOTW07",
+   "title": "Word of the week: synapse",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Peukes, J., Lovatt, C., Leistner, C., Boulanger, J., Morado, D. R., Fuller, M. J. G., Kukulski, W., Zhu, F., Komiyama, N. H., Briggs, J. A. G., Grant, S. G. N., & Frank, R. A. W. (2025). The molecular infrastructure of glutamatergic synapses in the mammalian forebrain. eLife, 13, RP100335 (full text read Nov 7, 2026, Europe PMC PMC12463394, CC BY 4.0)",
+     "url": "https://doi.org/10.7554/eLife.100335"
+    }
+   ],
+   "other": [
+    {
+     "label": "National Cancer Institute. (n.d.). Synapse. In NCI Dictionary of Cancer Terms (entry read Nov 7, 2026 through the NCI glossary API, with its pronunciation, SIH-naps; public domain US government text)",
+     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/synapse"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Peukes et al. (2025), Figure 1, cropped: panel C: a tomographic slice of a Psd95-tagged mouse glutamate synapse, the sending side (PreSM) full of synaptic vesicles and the receiving side (PoSM) across a narrow gap, with arrows naming a mitochondrion, microtubule, vesicle and actin (eLife)",
+     "credit": "Peukes et al. (2025), eLife, cropped from Fig. 1 (CC BY 4.0)",
+     "url": "https://doi.org/10.7554/eLife.100335",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Peukes et al. (2025), Figure 1, cropped: panel D: 3D segmentation of the same kind of synapse, synaptic vesicles pale blue in the sending side, mitochondrion purple, receiving membrane green with gold actin filaments (eLife)",
+     "credit": "Peukes et al. (2025), eLife, cropped from Fig. 1 (CC BY 4.0)",
+     "url": "https://doi.org/10.7554/eLife.100335",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Peukes et al. (2025), Figure 4, cropped: panel A: the distribution of cleft heights, the distance across the gap, for all synapses, peaking near 33 nm; inset schematic of the measurement (eLife)",
+     "credit": "Peukes et al. (2025), eLife, cropped from Fig. 4 (CC BY 4.0)",
+     "url": "https://doi.org/10.7554/eLife.100335",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Peukes et al. (2025), Figure 4, cropped: panel B, lower images: tomogram close-ups of ionotropic glutamate receptors shaded magenta, from the side on the receiving membrane and from above in a cluster; 20 nm scale bars (eLife)",
+     "credit": "Peukes et al. (2025), eLife, cropped from Fig. 4 (CC BY 4.0)",
+     "url": "https://doi.org/10.7554/eLife.100335",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Peukes et al. (2025), Figure 2, cropped: panel C: a tomographic slice through a thin frozen section of mouse brain tissue, the sending membrane (PreSM, blue label) and receiving membrane (PoSM, green label) side by side across the gap (eLife)",
+     "credit": "Peukes et al. (2025), eLife, cropped from Fig. 2 (CC BY 4.0)",
+     "url": "https://doi.org/10.7554/eLife.100335",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Peukes et al. (2025), Figure 1, cropped: panel B: a frozen grid square seen by fluorescence (green Psd95-GFP spots) and by electron microscopy, merged, with one synapse enlarged (eLife)",
+     "credit": "Peukes et al. (2025), eLife, cropped from Fig. 1 (CC BY 4.0)",
+     "url": "https://doi.org/10.7554/eLife.100335",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Peukes et al. (2025), eLife",
+     "url": "https://doi.org/10.7554/eLife.100335",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Peukes et al. (2025), eLife",
+     "url": "https://doi.org/10.7554/eLife.100335",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Peukes et al. (2025), Figure 3, cropped: panel C, upper image: tomogram slice with many round vesicles on the sending side and the PreSM and PoSM labels at the gap, a polyhedral vesicle shaded orange (eLife)",
+     "credit": "Peukes et al. (2025), eLife, cropped from Fig. 3 (CC BY 4.0)",
+     "url": "https://doi.org/10.7554/eLife.100335",
      "card": false
     }
    ]
@@ -81802,6 +82210,113 @@
      "what": "Number chart made for this post: the year digoxin was isolated, drawn in code by Claude, persona Case-numeral clerk (170)",
      "credit": "Khandelwal et al. (2024), Cureus 16(3):e56755",
      "url": "https://doi.org/10.7759/cureus.56755",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "mar-16-wotw05",
+   "date": "2027-03-16",
+   "time": "09:00 HST",
+   "id": "WOTW05",
+   "title": "Word of the week: MAO inhibitor",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Son, S.-Y., Ma, J., Kondou, Y., Yoshimura, M., Yamashita, E., & Tsukihara, T. (2008). Structure of human monoamine oxidase A at 2.2-Å resolution: The control of opening the entry for substrates/inhibitors. PNAS, 105(15), 5739-5744 (full text read Nov 7, 2026, PMC2311356, free to read, no open licence: facts only, no figure reproduced). Structure: RCSB PDB 2Z5X, human MAO-A with harmine, X-ray, 2.2 angstroms (entry record read; coordinates CC0 1.0)",
+     "url": "https://doi.org/10.1073/pnas.0710626105"
+    },
+    {
+     "label": "Egger, K., Aicher, H. D., Cumming, P., & Scheidegger, M. (2024). Neurobiological research on N,N-dimethyltryptamine (DMT) and its potentiation by monoamine oxidase (MAO) inhibition: from ayahuasca to synthetic combinations of DMT and MAO inhibitors. Cellular and Molecular Life Sciences, 81, 395 (full text read Nov 7, 2026, Europe PMC PMC11387584, CC BY 4.0); a source of the glossary entry",
+     "url": "https://doi.org/10.1007/s00018-024-05353-6"
+    },
+    {
+     "label": "RCSB Protein Data Bank. (2026). Usage policies (read Nov 6, 2026)",
+     "url": "https://www.rcsb.org/pages/usage-policy"
+    }
+   ],
+   "other": [
+    {
+     "label": "National Cancer Institute. (n.d.). Monoamine oxidase inhibitor. In NCI Dictionary of Cancer Terms (entry read Nov 7, 2026 through the NCI glossary API, with its pronunciation, MAH-noh-uh-MEEN OK-sih-days in-HIH-bih-ter; public domain US government text)",
+     "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/monoamine-oxidase-inhibitor"
+    },
+    {
+     "label": "UniProt Consortium. (2026). Amine oxidase [flavin-containing] A, human (UniProtKB P21397) (entry read Nov 7, 2026; CC BY 4.0)",
+     "url": "https://www.uniprot.org/uniprotkb/P21397/entry"
+    },
+    {
+     "label": "UniProt Consortium. (2026). Amine oxidase [flavin-containing] B, human (UniProtKB P27338) (entry read Nov 7, 2026; CC BY 4.0)",
+     "url": "https://www.uniprot.org/uniprotkb/P27338/entry"
+    },
+    {
+     "label": "Rockefeller, A. (2023). Banisteriopsis caapi, Pastaza, Ecuador. iNaturalist observation 153012947 (research grade; photo CC BY 4.0, record read Nov 7, 2026); also observation 262198918 (2025, Parroquia Tarqui, Ecuador) and Loria, A. (2023), observation 160967233 (Costa Rica)",
+     "url": "https://www.inaturalist.org/observations/153012947"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Human MAO-A holding harmine (RCSB PDB 2Z5X, Son et al., 2008): the enzyme as a dark brown ribbon with its anchor helix below, harmine as violet spheres and FAD as yellow sticks inside; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 2Z5X (Son et al., 2008), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb2z5x/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "MAO-A's membrane anchor helix (RCSB PDB 2Z5X, Son et al., 2008): the enzyme in pale grey with its single C-terminal helix, residues 497 to 524, in pink, FAD yellow; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 2Z5X (Son et al., 2008), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb2z5x/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The FAD of MAO-A and its surroundings (RCSB PDB 2Z5X, Son et al., 2008): close-up with FAD as yellow balls and sticks and the amino acids within 3.6 angstroms as dark brown sticks; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 2Z5X (Son et al., 2008), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb2z5x/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Harmine in MAO-A's cavity (RCSB PDB 2Z5X, Son et al., 2008): close-up with harmine as violet balls and sticks, the amino acids within 4 angstroms as dark brown sticks and FAD in yellow beside it; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 2Z5X (Son et al., 2008), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb2z5x/pdb",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Banisteriopsis caapi up close, photo Alan Rockefeller",
+     "credit": "Photo: Alan Rockefeller, iNaturalist observation 153012947 (CC BY 4.0)",
+     "url": "https://www.inaturalist.org/observations/153012947",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Harmine and FAD as measured in the crystal (RCSB PDB 2Z5X, Son et al., 2008): the two molecules alone, harmine violet and FAD yellow, as balls and sticks in their deposited positions; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 2Z5X (Son et al., 2008), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb2z5x/pdb",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "UniProt P21397",
+     "url": "https://www.uniprot.org/uniprotkb/P21397/entry",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "RCSB PDB 2Z5X (Son et al., 2008)",
+     "url": "https://doi.org/10.2210/pdb2z5x/pdb",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "MAO-A as a see-through tan surface (RCSB PDB 2Z5X, Son et al., 2008): the enzyme seen from another side, harmine violet inside; rendered for this post from the deposited coordinates",
+     "credit": "RCSB PDB 2Z5X (Son et al., 2008), rendered for this post (CC0)",
+     "url": "https://doi.org/10.2210/pdb2z5x/pdb",
      "card": false
     }
    ]
@@ -82301,6 +82816,135 @@
      "what": "Number chart made for this post: a red mangrove propagule's length, 7 to 15 inches",
      "credit": "Medina Irizarry & Andreu (2023), UF/IFAS EDIS FOR389",
      "url": "https://doi.org/10.32473/edis-FR460-2023",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "mar-30-mshe01",
+   "date": "2027-03-30",
+   "time": "09:00 HST",
+   "id": "MSHE01",
+   "title": "\"Mushroom\" gummies and chocolates: what lab tests and poison centers found",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "resources": "If someone may be overdosing, call 911 (US) or your local emergency number.",
+   "research": [
+    {
+     "label": "Rumph JT, Winquist A, Troeschel AN, et al. (2026), Severe illness associated with eating mushroom-containing chocolate products, United States, January to October 2024, MMWR Morb Mortal Wkly Rep 75(13):179-184, doi 10.15585/mmwr.mm7513a2 (full text read Nov 7, 2026, Europe PMC PMC13065088; public domain, MMWR series; PubMed 41955162)",
+     "url": "https://doi.org/10.15585/mmwr.mm7513a2"
+    },
+    {
+     "label": "Walker HL, Roland M, Dudley S, et al. (2025), Notes from the field: severe health outcomes linked to consumption of mushroom-based psychoactive microdosing products, Arizona, June to October 2024, MMWR Morb Mortal Wkly Rep 74(1):14-16, doi 10.15585/mmwr.mm7401a3 (full text read Nov 7, 2026, Europe PMC PMC11709130; public domain, CC0 per PMC; PubMed 39773926)",
+     "url": "https://doi.org/10.15585/mmwr.mm7401a3"
+    },
+    {
+     "label": "Michienzi A, Hamlin J, Farah R, Bazydlo L (2024), Notes from the field: Schedule I substances identified in nootropic gummies containing Amanita muscaria or other mushrooms, Charlottesville, Virginia, 2023 to 2024, MMWR Morb Mortal Wkly Rep 73(28):628-630, doi 10.15585/mmwr.mm7328a3 (full text read Nov 7, 2026, Europe PMC PMC11262824; public domain, CC0 per PMC; PubMed 39024197)",
+     "url": "https://doi.org/10.15585/mmwr.mm7328a3"
+    },
+    {
+     "label": "van Breemen RB, Simchuk D, Fritzsche B, Huson D, Kuzdzal SA, Ferguson J (2025), Active constituents of psilocybin mushroom edibles, JAMA Netw Open 8(9):e2531345, doi 10.1001/jamanetworkopen.2025.31345 (full text read Nov 7, 2026, Europe PMC PMC12426793, CC BY; PubMed 40932719)",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2025.31345"
+    }
+   ],
+   "other": [
+    {
+     "label": "U.S. Food and Drug Administration (2024a), Investigation of illnesses: Diamond Shruumz-brand chocolate bars, cones, & gummies (June 2024), content current as of Nov 15, 2024 (full page read Nov 7, 2026, fda.gov; public domain, FDA Website Policies)",
+     "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024"
+    },
+    {
+     "label": "U.S. Food and Drug Administration (2024b, December 18), FDA alerts industry and consumers about the use of Amanita muscaria or its constituents in food, HFP constituent update (full page read Nov 7, 2026, fda.gov; public domain)",
+     "url": "https://www.fda.gov/food/hfp-constituent-updates/fda-alerts-industry-and-consumers-about-use-amanita-muscaria-or-its-constituents-food"
+    },
+    {
+     "label": "America's Poison Centers (2024, September 26 update), U.S. poison centers are receiving calls potentially associated with consuming Diamond Shruumz brand chocolate bars, cones, and gummies resulting in severe illness (full page read Nov 7, 2026, poisoncenters.org; all rights reserved, facts only, no image)",
+     "url": "https://poisoncenters.org/news-alerts/13371275"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "FDA investigation page, subtitle warning: text crop of the FDA web page's own words, 'Do not eat, sell, or serve any flavor of Diamond Shruumz-Brand Products.' (the page's subtitle)",
+     "credit": "FDA (2024a), Investigation of illnesses: Diamond Shruumz-brand chocolate bars, cones, & gummies, fda.gov, text crop, public domain",
+     "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Chart drawn to scale for this post, drawn in code by Claude, persona Bench-sheet sample logger (120): illnesses counted at each FDA update, Jun 7 to Oct 31, 2024, the page's own as-of dates and totals",
+     "credit": "Chart: AaN, from FDA (2024a) investigation page data",
+     "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "FDA investigation page, case definition: text crop of the FDA web page's own words, the case definition clause, 'Illness with moderate or major clinical effects, or death, occurring in a person who ate any Diamond Shruumz product (chocolate bars, cones, gummies or other) or another chocolate product marketed as containing mushrooms' (footnote to Case Counts; the date range that ends the sentence is not in the crop)",
+     "credit": "FDA (2024a), Investigation of illnesses: Diamond Shruumz-brand chocolate bars, cones, & gummies, fda.gov, text crop, public domain",
+     "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bar chart drawn to scale for this post, drawn in code by Claude, persona Bench-sheet sample logger (120): FDA's 54 samples, the number in which each compound was found",
+     "credit": "Chart: AaN, from FDA (2024a) sample results data",
+     "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "FDA investigation page, muscimol in Sample Results: text crop of the FDA web page's own words, 'Muscimol does not appear in all products and cannot explain all the symptoms reported by ill people who consumed the Diamond Shruumz-brand products.' (Sample Results)",
+     "credit": "FDA (2024a), Investigation of illnesses: Diamond Shruumz-brand chocolate bars, cones, & gummies, fda.gov, text crop, public domain",
+     "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale for this post, drawn in code by Claude, persona Bench-sheet sample logger (120): outcomes among cases with information, from Table 1",
+     "credit": "Chart: AaN, from Rumph et al. (2026), MMWR, Table 1 data",
+     "url": "https://doi.org/10.15585/mmwr.mm7513a2",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Bar chart drawn to scale for this post, drawn in code by Claude, persona Bench-sheet sample logger (120): other shop products tested by researchers, each bar the share of its own set",
+     "credit": "Chart: AaN, from Michienzi et al. (2024), MMWR, and van Breemen et al. (2025), JAMA Netw Open data",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2025.31345",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Fly agaric, Amanita muscaria, the fungus, iNaturalist observation 99522582 by rouk1_mal1, Saint-Laurent-de-Terregatte, France, Oct 27, 2021: a red cap with white warts on a white stem, growing in grass and needles",
+     "credit": "rouk1_mal1, iNaturalist observation 99522582 (CC0)",
+     "url": "https://www.inaturalist.org/observations/99522582",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "FDA investigation page, Poison Help Line advice: text crop of the FDA web page's own words, the Recommendation box sentence on contacting a healthcare provider or the Poison Help Line",
+     "credit": "FDA (2024a), Investigation of illnesses: Diamond Shruumz-brand chocolate bars, cones, & gummies, fda.gov, text crop, public domain",
+     "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "FDA (2024a), investigation page",
+     "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "FDA (2024a), sample results",
+     "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "FDA investigation page, children and teenagers: text crop of the FDA web page's own words, the Recommendation sentence that these products may appeal to children and teenagers",
+     "credit": "FDA (2024a), Investigation of illnesses: Diamond Shruumz-brand chocolate bars, cones, & gummies, fda.gov, text crop, public domain",
+     "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024",
      "card": false
     }
    ]
@@ -83005,6 +83649,111 @@
      "what": "Slime mould spore cases",
      "credit": "ragbird, iNaturalist (CC0)",
      "url": "https://www.inaturalist.org/observations/388536598",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "apr-16-pdaw01",
+   "date": "2027-04-16",
+   "time": "09:00 HST",
+   "id": "PDAW01",
+   "title": "A mushroom at the keyboard: what a fungus's electrical signal is, and what it is not",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://psychedelics.design/winners-gallery-2026"
+   },
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Adamatzky, A. (2022). Language of fungi derived from their electrical spiking activity. Royal Society Open Science, 9(4), 211926 (full text read Nov 7, 2026, Europe PMC PMC8984380, CC BY 4.0)",
+     "url": "https://doi.org/10.1098/rsos.211926"
+    },
+    {
+     "label": "Fukasawa, Y., Akai, D., Takehi, T., & Osada, Y. (2024). Electrical integrity and week-long oscillation in fungal mycelia. Scientific Reports, 14, 15601 (full text read Nov 7, 2026, Europe PMC PMC11227530, CC BY 4.0)",
+     "url": "https://doi.org/10.1038/s41598-024-66223-6"
+    },
+    {
+     "label": "Buffi, M., Kelliher, J. M., Robinson, A. J., Gonzalez, D., Cailleau, G., Macalindong, J. A., Frau, E., Schintke, S., Chain, P. S. G., Stanley, C. E., Künzler, M., Bindschedler, S., & Junier, P. (2025). Electrical signaling in fungi: Past and present challenges. FEMS Microbiology Reviews, 49, fuaf009 (full text read Nov 7, 2026, Europe PMC PMC11995700, CC BY-NC-ND 4.0, facts only, no figures)",
+     "url": "https://doi.org/10.1093/femsre/fuaf009"
+    }
+   ],
+   "other": [
+    {
+     "label": "Bionic and the Wires (n.d.). Bionic and the Wires, artists' website (public page read Nov 7, 2026)",
+     "url": "https://bionicandthewires.com/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Text crop of the official Psychedelics Design Awards 2026 winners gallery page: the Audio & Music entry for Bionic and the Wires, 'Connecting bionic arms to mushrooms and plants so they can be creative', Jon Ross (words only, no image from the page)",
+     "credit": "Text: Psychedelics Design, Winners Gallery 2026 page",
+     "url": "https://psychedelics.design/winners-gallery-2026",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Text crop of the Bionic and the Wires website: 'Bionic and the Wires use bionic arms to enable mushrooms and plants to create music and visual art' and the next two sentences (words only, the site's photograph left out)",
+     "credit": "Text: Bionic and the Wires, bionicandthewires.com",
+     "url": "https://bionicandthewires.com/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Needle electrode pairs in three fungi: caterpillar fungus on its substrate block, split gill fungus fruiting bodies on a twig, and enoki mycelium through a container lid",
+     "credit": "Adamatzky (2022), Royal Society Open Science, Fig. 1, CC BY",
+     "url": "https://doi.org/10.1098/rsos.211926",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Needle-pair spike logger: average minutes between spikes in four fungus species",
+     "credit": "Chart: AaN, from Adamatzky (2022) data",
+     "url": "https://doi.org/10.1098/rsos.211926",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Voltage traces from the three dishes of the wood decay fungus Pholiota brunnescens with a pine bait block, days 1 to 104, with the channel legend",
+     "credit": "Fukasawa et al. (2024), Scientific Reports, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1038/s41598-024-66223-6",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Petri dish fitted with needle electrodes and coloured leads",
+     "credit": "Fukasawa et al. (2024), Scientific Reports, cropped from Fig. 1, CC BY",
+     "url": "https://doi.org/10.1038/s41598-024-66223-6",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Range chart on a log scale made for this post, drawn in code by Claude, persona Needle-pair spike logger: the frequency band of fungal signals against the band a neuron recording chip is built for",
+     "credit": "Chart: AaN, from Buffi et al. (2025) data",
+     "url": "https://doi.org/10.1093/femsre/fuaf009",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Fukasawa et al. (2024), Scientific Reports",
+     "url": "https://doi.org/10.1038/s41598-024-66223-6",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Adamatzky (2022), Royal Society Open Science",
+     "url": "https://doi.org/10.1098/rsos.211926",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Recorded voltage of split gill fungus (Schizophyllum commune) fruiting bodies, five channels",
+     "credit": "Adamatzky (2022), Royal Society Open Science, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.1098/rsos.211926",
      "card": false
     }
    ]
