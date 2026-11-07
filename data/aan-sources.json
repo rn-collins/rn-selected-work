@@ -2180,10 +2180,6 @@
     {
      "label": "Mishori, R., Otubu, A., and Jones, A. A. (2011). The dangers of colon cleansing. Journal of Family Practice, 60(8), 454-457 (mirrored full text read Oct 27, 2026; PubMed 21814639)",
      "url": "https://community.the-hospitalist.org/content/dangers-colon-cleansing"
-    },
-    {
-     "label": "RN Collins (2026). Recording of the Colonic Cleansing Clinic's maker speaking to the press group, Oct 18, 2026 (PH-9EB80C41, transcript in ddw/fnm-exhaustive/transcripts)",
-     "url": "https://github.com/rn-collins/rn-content-second-brain/blob/aan-studio-backup-2026-10-06/aan-studio/ddw/fnm-exhaustive/transcripts/PH-9EB80C41.txt"
     }
    ],
    "images": [
@@ -8872,87 +8868,73 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post: two hands each holding a soft object, joined by a dotted signal line; not the artefacts' shapes",
-     "credit": "Drawing made for this post after the maker's Vimeo description",
-     "url": "https://vimeo.com/1200985109",
+     "what": "Sensations between bodies, photo Line Rumhult",
+     "credit": "Line Rumhult, DDW 2026 press kit (Felt Connection)",
+     "url": "https://app-api.ddw.nl/programme/2060/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Illustration made for this post: two people paired through soft artefacts, the network made felt",
-     "credit": "Line Rumhult (2026), Felt Connection, Vimeo description",
-     "url": "https://vimeo.com/1200985109",
+     "what": "The second piece in Sensations between bodies, photo Line Rumhult",
+     "credit": "Line Rumhult, DDW 2026 press kit (Felt Connection)",
+     "url": "https://app-api.ddw.nl/programme/2060/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post: the four ways the listing says the pieces answer the hand, sorted into force and skin",
-     "credit": "Dutch Design Week (2026), Felt Connection listing",
-     "url": "https://app-api.ddw.nl/en/programme/felt-connection-sensation-carried-between-bodies-1",
+     "what": "From the DDW 2026 press kit for the work",
+     "credit": "Text: DDW 2026 press kit, Felt Connection (Line Rumhult)",
+     "url": "https://app-api.ddw.nl/programme/2060/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post: in a lab study with voice coil actuators, slow stroking was read as more positive and faster gestures as more negative",
-     "credit": "Zhu, Feng and Culbertson (2022), Frontiers in Computer Science 4",
+     "what": "Zhu and colleagues' valence result for stroking",
+     "credit": "Zhu, Feng and Culbertson (2022), cropped from Fig. 4, CC BY 4.0",
      "url": "https://doi.org/10.3389/fcomp.2022.826637",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post, schematic with no measured values: C-tactile firing peaks at slow stroking near 3 cm/s and is higher at skin temperature (32 C) than cool (18 C)",
-     "credit": "Ackerley et al. (2014), Journal of Neuroscience 34(8)",
-     "url": "https://doi.org/10.1523/JNEUROSCI.2847-13.2014",
+     "what": "From the discussion of Zhu and colleagues' 2022 study",
+     "credit": "Text: Zhu, Feng and Culbertson (2022), Frontiers in Computer Science 4:826637, CC BY 4.0",
+     "url": "https://doi.org/10.3389/fcomp.2022.826637",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post: C-tactile fibres were recorded in hairy forearm skin; a palm holding an object was not tested",
-     "credit": "Ackerley et al. (2014), Journal of Neuroscience 34(8)",
-     "url": "https://doi.org/10.1523/JNEUROSCI.2847-13.2014",
-     "card": false
-    },
-    {
-     "where": "Slide 7",
-     "what": "Chart drawn to scale for this post: 89 affective haptic device prototypes, 44 mediated social touch, 37 symbolic, 8 awareness",
-     "credit": "Ipakchian Askari, Haans and IJsselsteijn (2022), Frontiers in Computer Science 4",
+     "what": "From Ipakchian Askari and colleagues' 2022 review",
+     "credit": "Text: Ipakchian Askari, Haans and IJsselsteijn (2022), Frontiers in Computer Science 4:795772, CC BY 4.0",
      "url": "https://doi.org/10.3389/fcomp.2022.795772",
      "card": false
     },
     {
-     "where": "Slide 8",
-     "what": "Illustration made for this post: a hand lifting a soft rounded object, slow wave lines above it; not one of the artefacts",
-     "credit": "Drawing made for this post after the DDW 2026 listing",
-     "url": "https://app-api.ddw.nl/en/programme/felt-connection-sensation-carried-between-bodies-1",
-     "card": false
-    },
-    {
-     "where": "Slide 9",
-     "what": "Illustration made for this post: touch up close, skin to skin, or from afar, object to object, for the closing question",
-     "credit": "Line Rumhult (2026), Felt Connection, Vimeo description",
-     "url": "https://vimeo.com/1200985109",
+     "where": "Slide 7",
+     "what": "From the DDW 2026 press kit, the encounter",
+     "credit": "Text: DDW 2026 press kit, Felt Connection (Line Rumhult)",
+     "url": "https://app-api.ddw.nl/programme/2060/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Type card made for this post from the maker's Vimeo description",
-     "credit": "Line Rumhult (2026), Vimeo",
-     "url": "https://vimeo.com/1200985109",
-     "card": true
+     "what": "Material explorations, photo Line Rumhult",
+     "credit": "Line Rumhult, DDW 2026 press kit (Felt Connection)",
+     "url": "https://app-api.ddw.nl/programme/2060/press-kit.zip",
+     "card": false
     },
     {
      "where": "Story 2",
-     "what": "Chart drawn to scale for this post: five cohabiting couples in a study of touch at a distance",
-     "credit": "Héron et al. (2024), Frontiers in Psychology 15",
+     "what": "From the method of Heron and colleagues' 2024 study of touch at a distance",
+     "credit": "Text: Heron et al. (2024), Frontiers in Psychology 15:1497289, CC BY 4.0",
      "url": "https://doi.org/10.3389/fpsyg.2024.1497289",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Type card made for this post from Zhu et al. (2022) and Ackerley et al. (2014)",
-     "credit": "Zhu et al. (2022); Ackerley et al. (2014)",
+     "what": "Zhu and colleagues on the pleasant range",
+     "credit": "Text: Zhu, Feng and Culbertson (2022), Frontiers in Computer Science 4:826637, CC BY 4.0",
      "url": "https://doi.org/10.3389/fcomp.2022.826637",
-     "card": true
+     "card": false
     }
    ]
   },
@@ -8994,84 +8976,74 @@
     {
      "label": "Rotter et al. (2012), Evaluation & the Health Professions, abstract (Erasmus University record) [full read before posting]",
      "url": "https://pure.eur.nl/en/publications/the-effects-of-clinical-pathways-on-professional-practice-patient/"
+    },
+    {
+     "label": "DDW 2026, Mission Days page (app-api.ddw.nl archive), opened Nov 7, 2026",
+     "url": "https://ddw.nl/en/programme/mission-days-2026"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (not data): a patient's route from GP to hospital and back, or on to other care groups in the region",
-     "credit": "DDW 2026 listing, Collaborative care",
-     "url": "https://ddw.nl/en/programme/collaborative-care-design-regional-care-pathways",
+     "what": "The hypertension care-path map from Catharina's workshop photo",
+     "credit": "Catharina Ziekenhuis Eindhoven, DDW 2026 press kit (Collaborative care)",
+     "url": "https://app-api.ddw.nl/programme/2604/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Number card made for this post: Natlab, Oct 22, a Mission Day on how design can make care better (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-health-wellbeing",
-     "card": true
+     "what": "From DDW's 2026 Mission Days page, the Health and wellbeing day",
+     "credit": "Text: DDW 2026, Mission Days page",
+     "url": "https://app-api.ddw.nl/en/programme/mission-days-2026",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Text card made for this post: Catharina, Hospital's design team on care pathways across a region (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/collaborative-care-design-regional-care-pathways",
-     "card": true
+     "what": "From the DDW listing for Catharina Hospital's session",
+     "credit": "Text: DDW 2026 listing, Collaborative care (Catharina Ziekenhuis Eindhoven)",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/collaborative-care-design-regional-care-pathways",
+     "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post (not data): Metro Mapping's layers: experience, the metro line of treatment and decision moments, information, companions, context",
-     "credit": "Stiggelbout et al. (2023), BMJ Evidence-Based Medicine",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10579511",
+     "what": "From Stiggelbout and colleagues' 2023 paper on the method",
+     "credit": "Text: Stiggelbout et al. (2023), BMJ Evidence-Based Medicine 28(5), CC BY-NC 4.0",
+     "url": "https://doi.org/10.1136/bmjebm-2022-112168",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Chart drawn to scale for this post: in 11 randomized trials, in-hospital complications were 10% with care pathways and 17% with usual care",
-     "credit": "Rotter et al. (2025), Cochrane Database of Systematic Reviews, CD006632.pub3",
-     "url": "https://researchnow.flinders.edu.au/en/publications/clinical-pathways-for-secondary-care-and-the-effects-on-professio/",
+     "what": "From the 2025 Cochrane review abstract, complications",
+     "credit": "Text: Rotter et al. (2025), Cochrane review abstract (Flinders University research portal)",
+     "url": "https://doi.org/10.1002/14651858.CD006632.pub3",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post (not data): pathways likely cut hospital stays by about one day; effects on deaths, readmissions and costs were uncertain; risk of bias was high",
-     "credit": "Rotter et al. (2025), Cochrane Database of Systematic Reviews",
-     "url": "https://researchnow.flinders.edu.au/en/publications/clinical-pathways-for-secondary-care-and-the-effects-on-professio/",
-     "card": false
-    },
-    {
-     "where": "Slide 7",
-     "what": "Illustration made for this post (not data): the Cochrane review covers pathways inside hospitals, not regional routes; the Metro Mapping paper reports no patient outcomes yet",
-     "credit": "Rotter et al. (2025); Stiggelbout et al. (2023)",
-     "url": "https://researchnow.flinders.edu.au/en/publications/clinical-pathways-for-secondary-care-and-the-effects-on-professio/",
-     "card": false
-    },
-    {
-     "where": "Slide 8",
-     "what": "Illustration made for this post (not data): trace your last referral: where it started, where it went, where it broke down",
-     "credit": "DDW 2026 listing, Collaborative care",
-     "url": "https://ddw.nl/en/programme/collaborative-care-design-regional-care-pathways",
+     "what": "From the 2025 Cochrane review abstract, hospital stays",
+     "credit": "Text: Rotter et al. (2025), Cochrane review abstract (Flinders University research portal)",
+     "url": "https://doi.org/10.1002/14651858.CD006632.pub3",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): Mission Day Health & Wellbeing, Oct 22 at Natlab, with a Catharina Hospital session on regional care pathways",
-     "credit": "DDW 2026 listings",
-     "url": "https://ddw.nl/en/programme/mission-days-2026/mission-day-health-wellbeing",
+     "what": "From DDW's 2026 Mission Days page on the health day",
+     "credit": "Text: DDW 2026, Mission Days page",
+     "url": "https://app-api.ddw.nl/en/programme/mission-days-2026",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Chart drawn to scale for this post: 10 in 100 with care pathways against 17 in 100 with usual care had in-hospital complications",
-     "credit": "Rotter et al. (2025), Cochrane Database of Systematic Reviews",
-     "url": "https://researchnow.flinders.edu.au/en/publications/clinical-pathways-for-secondary-care-and-the-effects-on-professio/",
+     "what": "Chart of Rotter et al. (2025): odds of an in-hospital complication 0.57 with a care pathway, 95% interval 0.41 to 0.80, 11 trials",
+     "credit": "Chart: AaN, from Rotter et al. (2025) data",
+     "url": "https://doi.org/10.1002/14651858.CD006632.pub3",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): Catharina Hospital's collaborative care session: hospitals, GPs and other care groups linked in one regional pathway",
-     "credit": "DDW 2026 listing, Collaborative care",
-     "url": "https://ddw.nl/en/programme/collaborative-care-design-regional-care-pathways",
+     "what": "From the DDW listing for Catharina Hospital's session",
+     "credit": "Text: DDW 2026 listing, Collaborative care (Catharina Ziekenhuis Eindhoven)",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/collaborative-care-design-regional-care-pathways",
      "card": false
     }
    ]
@@ -9122,79 +9094,65 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post: line drawing of a hand-cut white paper pattern with a prism splitting a beam of light, after the DDW and Emit Light descriptions",
-     "credit": "Drawing made for this post after the DDW 2026 listing",
-     "url": "https://app-api.ddw.nl/en/programme/lightwall-1",
+     "what": "Lightwall responding to a visitor's presence, photo Chelsea Loren",
+     "credit": "Chelsea Loren, DDW 2026 press kit (Lightwall)",
+     "url": "https://app-api.ddw.nl/programme/2258/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Illustration made for this post: a visitor moves, locally run AI on a custom motherboard responds, motorised prisms and beam splitters move the light",
-     "credit": "Dutch Design Week (2026), programme page",
-     "url": "https://app-api.ddw.nl/en/programme/lightwall-1",
+     "what": "Lightwall's kinetic prism and paper, photo Rita Sus",
+     "credit": "Rita Sus, DDW 2026 press kit (Lightwall)",
+     "url": "https://app-api.ddw.nl/programme/2258/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post: where the work computes (in the room) and what it keeps (nothing, per Emit Light)",
-     "credit": "Emit Light (2026), Lightwall page",
-     "url": "https://www.emit-light.com/lightwall",
-     "card": false
-    },
-    {
-     "where": "Slide 4",
-     "what": "Illustration made for this post: the sense of agency, a voluntary action, sensed evidence of an effect, the feeling that the effect is mine",
-     "credit": "Cornelio et al. (2022), Frontiers in Neuroscience",
+     "what": "From Cornelio and colleagues' 2022 review of agency",
+     "credit": "Text: Cornelio et al. (2022), Frontiers in Neuroscience 16:949138, CC BY 4.0",
      "url": "https://doi.org/10.3389/fnins.2022.949138",
      "card": false
     },
     {
-     "where": "Slide 5",
+     "where": "Slide 4",
      "what": "Attwood et al. (2018), Figure 3: levels of change blindness in real-world and on-screen viewing for each of 12 pairs of museum artefacts and the overall mean (chart)",
      "credit": "Attwood, Kennard, Harris, Humphreys and Antoniades (2018), Frontiers in Psychology, Figure 3 (CC BY)",
      "url": "https://doi.org/10.3389/fpsyg.2018.00151",
      "card": false
     },
     {
-     "where": "Slide 6",
+     "where": "Slide 5",
      "what": "Attwood et al. (2018), Figure 4: change blindness for each pair of artefacts, real-world and on-screen combined, and the overall mean (chart)",
      "credit": "Attwood, Kennard, Harris, Humphreys and Antoniades (2018), Frontiers in Psychology, Figure 4 (CC BY)",
      "url": "https://doi.org/10.3389/fpsyg.2018.00151",
      "card": false
     },
     {
-     "where": "Slide 7",
-     "what": "Illustration made for this post: the four partners in order of human-likeness, computer, functional robot, humanoid robot, human; activity in social brain areas rose along this order",
-     "credit": "Krach et al. (2008), PLoS ONE",
+     "where": "Slide 6",
+     "what": "From the abstract of Krach and colleagues' 2008 study",
+     "credit": "Text: Krach et al. (2008), PLoS ONE 3(7):e2597, CC BY 4.0",
      "url": "https://doi.org/10.1371/journal.pone.0002597",
      "card": false
     },
     {
-     "where": "Slide 8",
-     "what": "Text card made for this post: remember or forget? Lightwall by Rita Sus (Emit Light), DDW 2026",
-     "credit": "Emit Light (2026), Lightwall page",
-     "url": "https://www.emit-light.com/lightwall",
-     "card": true
-    },
-    {
      "where": "Story 1",
-     "what": "Text card made for this post: \"Talk to the wall.\", the first Lightwall in Escondido, 2026 (OC Register)",
-     "credit": "Orange County Register (2026), Feb 10",
-     "url": "https://www.ocregister.com/2026/02/10/csuf-collaboration-uses-ai-to-help-visitors-get-personal-with-art-installation/",
-     "card": true
+     "what": "The DDW 2026 press kit on the first version",
+     "credit": "Text: DDW 2026 press kit, Lightwall (Rita Sus, Emit Light)",
+     "url": "https://app-api.ddw.nl/programme/2258/press-kit.zip",
+     "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post: the California version talked and listened; the DDW version reacts to movement",
-     "credit": "OC Register (2026); DDW (2026)",
-     "url": "https://app-api.ddw.nl/en/programme/lightwall-1",
+     "what": "Lightwall's prism up close, photo Rita Sus",
+     "credit": "Rita Sus, DDW 2026 press kit (Lightwall)",
+     "url": "https://app-api.ddw.nl/programme/2258/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Timeline made for this post: Lightwall at Art House United Cowboys, Kleine Berg 62, 17 to 25 October 2026, 11:00 to 18:00",
-     "credit": "Dutch Design Week (2026), programme page",
-     "url": "https://app-api.ddw.nl/en/programme/lightwall-1",
+     "what": "The venue on the archived DDW listing for Lightwall",
+     "credit": "Text: DDW 2026 listing, Lightwall",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/lightwall-1",
      "card": false
     }
    ]
@@ -76044,6 +76002,104 @@
      "what": "Illustration made for this post, drawn in code by Claude, persona Letter-board menu setter (draft): a poll prompt with schematic menu-board rows, not data",
      "credit": "Mertens et al. (2022), PNAS",
      "url": "https://doi.org/10.1073/pnas.2107346118",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "dec-30-mjbp2702",
+   "date": "2026-12-30",
+   "time": "09:00 HST",
+   "id": "MJBP2702",
+   "title": "2027 in four dates: how Virginia's cannabis market opens, step by step",
+   "origin": null,
+   "series": "Cannabis Science",
+   "research": [
+    {
+     "label": "Drug Enforcement Administration. (2026). Schedules of controlled substances: Rescheduling of marijuana [Notice of hearing]. Federal Register, 91(81), 22777-22778 (govinfo.gov PDF read in full Nov 7, 2026; public domain); Federal Register API search of DEA marijuana documents to Nov 5, 2026",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08177.pdf"
+    },
+    {
+     "label": "Pub. L. No. 119-37, div. B, § 781 (2025) and Pub. L. No. 119-103, §§ 106, 2019 (2026) (govinfo.gov PDFs; sections read in full Nov 7, 2026; public domain); Internal Revenue Service (n.d.), Cannabis industry page (read Nov 7, 2026)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/pdf/PLAW-119publ103.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Virginia Acts of Assembly. (2026). 2026 Special Session I, Chapter 1 (House Bill 30), Part 4, Item 4-14, Effective date and additional enactments (enacted text read in full on budget.lis.virginia.gov, Nov 7, 2026: section 4-14.00 and the cannabis enactments 12 to 34; statutory text)",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/"
+    },
+    {
+     "label": "Centers for Medicare & Medicaid Services. (2026, March 20). Substance Access Beneficiary Engagement Incentive (cms.gov program page and the April 1, 2026 press release, read in full Nov 7, 2026; checked to confirm and drop a candidate date)",
+     "url": "https://www.cms.gov/priorities/innovation/substance-access-beneficiary-engagement-incentive"
+    },
+    {
+     "label": "Supreme Court of the United States. (2026). Docket No. 26-343, Peridot Tree WA, Inc., et al. v. Washington State Liquor and Cannabis Board, et al. (docket read Nov 7, 2026)",
+     "url": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-343.html"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Virginia Acts of Assembly (2026), Item 4-14, enactment 17: text crop of the enacted text, prior to July 1, 2027, no licensee may engage in the retail sale of marijuana, with the medical dispensing exception",
+     "credit": "Virginia Acts of Assembly (2026), 2026 Sp. Sess. I, ch. 1, Item 4-14, enactment 17, text crop",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Virginia Acts of Assembly (2026), Item 4-14, enactments 18 and 20: text crop of the enacted text, a seed-to-sale tracking system by February 1, 2027 and regulations to implement the act by February 1, 2027",
+     "credit": "Virginia Acts of Assembly (2026), 2026 Sp. Sess. I, ch. 1, Item 4-14, enactments 18 and 20, text crop",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Virginia Acts of Assembly (2026), Item 4-14, enactment 15: text crop of the enacted text, may begin accepting license applications on and after February 1, 2027 and issuing licenses on and after May 1, 2027",
+     "credit": "Virginia Acts of Assembly (2026), 2026 Sp. Sess. I, ch. 1, Item 4-14, enactment 15, text crop",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Virginia Acts of Assembly (2026), Item 4-14, enactment 16: text crop of the enacted text, on or before May 1, 2027: up to 100 microbusiness licenses; no more than 10 cultivation and 10 processing licenses for hemp growers or processors",
+     "credit": "Virginia Acts of Assembly (2026), 2026 Sp. Sess. I, ch. 1, Item 4-14, enactment 16, text crop",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Virginia Acts of Assembly (2026), Item 4-14, enactment 16, last sentence: text crop of the enacted text, at least 55 additional licenses on or before July 1, 2027",
+     "credit": "Virginia Acts of Assembly (2026), 2026 Sp. Sess. I, ch. 1, Item 4-14, enactment 16, last sentence, text crop",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Virginia Acts of Assembly (2026), Item 4-14, enactment 34: text crop of the enacted text, a joint commission report on a Commonwealth-operated testing facility by November 1, 2027",
+     "credit": "Virginia Acts of Assembly (2026), 2026 Sp. Sess. I, ch. 1, Item 4-14, enactment 34, text crop",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Virginia Acts of Assembly (2026), 2026 Special Session I, Chapter 1 (HB30), Item 4-14",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Virginia Acts of Assembly (2026), 2026 Special Session I, Chapter 1 (HB30), Item 4-14",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Illustration made for this post, drawn in code by Claude, persona Session-law slip paster (draft): a poll prompt with schematic pasted slips, not data",
+     "credit": "Virginia Acts of Assembly (2026), 2026 Special Session I, Chapter 1 (HB30), Item 4-14",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
      "card": false
     }
    ]
