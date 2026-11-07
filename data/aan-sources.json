@@ -8705,100 +8705,85 @@
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
-     "label": "Picking, D., Younger, N., Mitchell, S., & Delgoda, R. (2011). The prevalence of herbal medicine home use and concomitant use with pharmaceutical medicines in Jamaica. Journal of Ethnopharmacology, 137(1), 305-311. doi:10.1016/j.jep.2011.05.025",
-     "url": "https://mona-uwi.academia.edu/DavidPicking"
-    },
-    {
-     "label": "Jepsen, J. (2021). Prevalence and Perceptions of Herbal Medicine Use in Eastern Jamaica. Wright State University, CORE Scholar (student scholarship paper; advisor T. Herchline).",
-     "url": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76"
+     "label": "Clement, Y. N., Williams, A. F., Khan, K., Bernard, T., Bhola, S., Fortuné, M., Medupe, O., Nagee, K., & Seaforth, C. E. (2005). A gap between acceptance and knowledge of herbal remedies by physicians: The need for educational intervention. BMC Complementary and Alternative Medicine, 5, 20. https://doi.org/10.1186/1472-6882-5-20 (CC BY 2.0; read in full Nov 7, 2026, PMC open-access text and PDF, PMC1310610)",
+     "url": "https://doi.org/10.1186/1472-6882-5-20"
     }
    ],
    "other": [
     {
-     "label": "Clement, Y. N., Williams, A. F., Khan, K., et al. (2005). A gap between acceptance and knowledge of herbal remedies by physicians: the need for educational intervention. BMC Complementary and Alternative Medicine, 5, 20.",
-     "url": "https://pesquisa.bvsalud.org/portal/resource/en/med-17423"
-    },
-    {
-     "label": "TRAMIL bibliography record for Picking et al. (2011).",
-     "url": "https://tramil.net/bibcite/reference/51"
+     "label": "iNaturalist observations 125446238 (Quentin Groom, 2022, Montserrat, Cymbopogon citratus, cultivated) and 195517350 (Sinaloa Silvestre, 2024, Mexico, Aloe vera, research grade), photos CC0",
+     "url": "https://www.inaturalist.org/observations/125446238"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Text card made for this post: RN Collins's line, 'She had a garden, and her garden was her medicine cabinet.' (The Polymath, 2026); big type 'A garden'",
-     "credit": "RN Collins, Her Garden Was Her Medicine Cabinet, The Polymath (2026)",
+     "what": "The opening of RN's Polymath essay",
+     "credit": "Text: RN Collins, Her Garden Was Her Medicine Cabinet, The Polymath (2026)",
      "url": "https://polymath-rn-collins.beehiiv.com/p/her-garden-was-her-medicine-cabinet",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Diagram made for this post: 407 adults selected at random, 372 took part (Picking et al., 2011)",
-     "credit": "Picking et al. (2011), J Ethnopharmacol 137(1):305-311",
-     "url": "https://doi.org/10.1016/j.jep.2011.05.025",
+     "what": "From RN's essay on the research record",
+     "credit": "Text: RN Collins, Her Garden Was Her Medicine Cabinet, The Polymath (2026)",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/her-garden-was-her-medicine-cabinet",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Bar chart drawn to scale from Picking et al. (2011): breathing problems 77.8%, stomach and gut 53.3%, tonics 29.6% of herb users",
-     "credit": "Picking et al. (2011), J Ethnopharmacol 137(1):305-311",
-     "url": "https://doi.org/10.1016/j.jep.2011.05.025",
-     "card": false
-    },
-    {
-     "where": "Slide 4",
-     "what": "Dot chart drawn to scale from Picking et al. (2011): 72 herb users also took pharmacy medicines; the doctor knew in 14",
-     "credit": "Picking et al. (2011), J Ethnopharmacol 137(1):305-311",
-     "url": "https://doi.org/10.1016/j.jep.2011.05.025",
-     "card": false
-    },
-    {
-     "where": "Slide 5",
-     "what": "Bar chart drawn to scale from Jepsen (2021): 63% used herbs, about 62% said their provider did not know",
-     "credit": "Jepsen (2021), Wright State University, CORE Scholar",
-     "url": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76",
-     "card": false
-    },
-    {
-     "where": "Slide 6",
-     "what": "Hyptis verticillata Jacq. (now Condea verticillata), pressed plant on a herbarium sheet, US National Herbarium, Smithsonian Institution (US 3389460, barcode 00732493), collected Sep 28, 1996 at Vega Baja, Puerto Rico (F. Axelrod and L. Perez 9928, Flora of Puerto Rico); the plant of the 2013 review, shown as botany",
-     "credit": "Hyptis verticillata Jacq., US National Herbarium, Smithsonian Institution (CC0)",
-     "url": "https://www.gbif.org/occurrence/1320171259",
-     "card": false
-    },
-    {
-     "where": "Slide 7",
-     "what": "Dot chart drawn to scale from Clement et al. (2005): 192 hospital doctors in Trinidad, 29 could name one herb-drug interaction",
-     "credit": "Clement et al. (2005), BMC Complement Altern Med 5:20",
+     "what": "From the abstract of the 2005 Trinidad survey",
+     "credit": "Text: Clement et al. (2005), BMC Complement Altern Med 5:20, CC BY 2.0",
      "url": "https://doi.org/10.1186/1472-6882-5-20",
      "card": false
     },
     {
-     "where": "Slide 8",
-     "what": "Diagram made for this post: interview, identify plants, preserve voucher specimens, in RN's words",
-     "credit": "RN Collins, Her Garden Was Her Medicine Cabinet, The Polymath (2026)",
+     "where": "Slide 4",
+     "what": "Chart of Clement et al. (2005): 78 of 192 doctors (40.6%) had used herbs, and 60 of those 78 (76.9%) were satisfied with the outcome",
+     "credit": "Chart: AaN, from Clement et al. (2005) data",
+     "url": "https://doi.org/10.1186/1472-6882-5-20",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Lemongrass in Montserrat, photo Quentin Groom",
+     "credit": "Photo: Quentin Groom, iNaturalist (CC0)",
+     "url": "https://www.inaturalist.org/observations/125446238",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "From the abstract of the 2005 survey on interactions",
+     "credit": "Text: Clement et al. (2005), BMC Complement Altern Med 5:20, CC BY 2.0",
+     "url": "https://doi.org/10.1186/1472-6882-5-20",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "From RN's essay on what a record needs",
+     "credit": "Text: RN Collins, Her Garden Was Her Medicine Cabinet, The Polymath (2026)",
      "url": "https://polymath-rn-collins.beehiiv.com/p/her-garden-was-her-medicine-cabinet",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Quiz frame made for this post: what share of Jamaican adults had used herbs in the past year? The answer is left open",
-     "credit": "Picking et al. (2011), J Ethnopharmacol 137(1):305-311",
-     "url": "https://doi.org/10.1016/j.jep.2011.05.025",
+     "what": "Three lines from RN's essay",
+     "credit": "Text: RN Collins, Her Garden Was Her Medicine Cabinet, The Polymath (2026)",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/her-garden-was-her-medicine-cabinet",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Bar to scale from Picking et al. (2011): doctors knew in 14 of 72 cases (19.4%)",
-     "credit": "Picking et al. (2011), J Ethnopharmacol 137(1):305-311",
-     "url": "https://doi.org/10.1016/j.jep.2011.05.025",
+     "what": "Chart of Clement et al. (2005): 96 of 192 doctors (50%) could name two Caribbean herbs and their uses; 29 (15.1%) could name one herb-drug interaction",
+     "credit": "Chart: AaN, from Clement et al. (2005) data",
+     "url": "https://doi.org/10.1186/1472-6882-5-20",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Diagram made for this post: a survey records use, a trial tests whether a remedy works",
-     "credit": "Picking, Delgoda, Boulogne and Mitchell (2013), J Ethnopharmacol",
-     "url": "https://doi.org/10.1016/j.jep.2013.01.039",
+     "what": "From the 2005 results on resources at work",
+     "credit": "Text: Clement et al. (2005), BMC Complement Altern Med 5:20, CC BY 2.0",
+     "url": "https://doi.org/10.1186/1472-6882-5-20",
      "card": false
     }
    ]
@@ -81530,6 +81515,99 @@
      "what": "Chart made for this post: the age range of the cases, drawn in code by Claude, persona Trunk-angle goniometer (98, draft)",
      "credit": "Pitton Rissardo et al. (2024), Geriatrics 9(4):100",
      "url": "https://doi.org/10.3390/geriatrics9040100",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "mar-11-dcc01",
+   "date": "2027-03-11",
+   "time": "09:00 HST",
+   "id": "DCC01",
+   "title": "What a dying cancer cell looks like, and why it isn't a cure",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Olivas-Aguirre, M., Torres-López, L., Valle-Reyes, J. S., Hernández-Cruz, A., Pottosin, I., & Dobrovinskaya, O. (2019). Cannabidiol directly targets mitochondria and disturbs calcium homeostasis in acute lymphoblastic leukemia. Cell Death & Disease, 10(10), 779 (full text read Nov 7, 2026, Europe PMC PMC6791884, CC BY 4.0; PubMed 31611561)",
+     "url": "https://doi.org/10.1038/s41419-019-2024-0"
+    },
+    {
+     "label": "Sun, D., Gao, W., Hu, H., & Zhou, S. (2022). Why 90% of clinical drug development fails and how to improve it? Acta Pharmaceutica Sinica B, 12(7), 3049-3062 (full text opened Nov 7, 2026, Europe PMC PMC9293739, CC BY-NC-ND 4.0: facts only, in our own words; PubMed 35865092)",
+     "url": "https://doi.org/10.1016/j.apsb.2022.02.002"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Olivas-Aguirre et al. (2019) Fig. 2, panel D only: high-resolution transmission electron micrograph of a Jurkat leukemia cell fixed 2 h after CBD, swollen mitochondria (M) and autophagic vacuoles (AV), 2 micrometre scale bar (cropped from the CC BY figure; no other change)",
+     "credit": "Olivas-Aguirre et al. (2019), Cell Death & Disease, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1038/s41419-019-2024-0",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Olivas-Aguirre et al. (2019) Fig. 2, panel C only: high-resolution transmission electron micrograph of an untreated Jurkat leukemia cell (control), mitochondria (M) with cristae, Golgi apparatus (GA), endoplasmic reticulum (ER), 2 micrometre scale bar (cropped from the CC BY figure; no other change)",
+     "credit": "Olivas-Aguirre et al. (2019), Cell Death & Disease, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1038/s41419-019-2024-0",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Olivas-Aguirre et al. (2019) Fig. 2, row B panel b only: transmission electron micrograph of a whole CBD-treated Jurkat leukemia cell, vacuoles, autophagic vacuoles (AV) and swollen mitochondria (M) around the nucleus (N), 5 micrometre scale bar (cropped from the CC BY figure; no other change)",
+     "credit": "Olivas-Aguirre et al. (2019), Cell Death & Disease, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1038/s41419-019-2024-0",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Olivas-Aguirre et al. (2019) Fig. 2, row B panel a only: low-magnification transmission electron micrograph of CBD-treated Jurkat leukemia cells, autophagic bodies (ABd), arrow on condensed chromatin inside one, 10 micrometre scale bar (cropped from the CC BY figure; no other change)",
+     "credit": "Olivas-Aguirre et al. (2019), Cell Death & Disease, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1038/s41419-019-2024-0",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Olivas-Aguirre et al. (2019) Fig. 4, panel E, first three cells only: brightfield (top) and confocal (bottom) images of CBD-treated Jurkat leukemia cells, cytochrome c spread through the cell, 1 h after CBD (cropped from the CC BY figure; no other change)",
+     "credit": "Olivas-Aguirre et al. (2019), Cell Death & Disease, cropped from Fig. 4, CC BY",
+     "url": "https://doi.org/10.1038/s41419-019-2024-0",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Olivas-Aguirre et al. (2019) Fig. 1, panel D only: cell viability by resazurin metabolic assay after CBD in non-cancerous cells, mouse OP9 bone marrow cell line and resting and activated human CD4 T cells (cropped from the CC BY figure; no other change)",
+     "credit": "Olivas-Aguirre et al. (2019), Cell Death & Disease, cropped from Fig. 1, CC BY",
+     "url": "https://doi.org/10.1038/s41419-019-2024-0",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Reading of the study design made for this post, drawn in code by Claude, persona Copper-grid section reader: ten cancer cell lines tested in dishes, and no mice or patients given CBD",
+     "credit": "Chart: AaN, from Olivas-Aguirre et al. (2019) data",
+     "url": "https://doi.org/10.1038/s41419-019-2024-0",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Olivas-Aguirre et al. (2019), Cell Death & Disease",
+     "url": "https://doi.org/10.1038/s41419-019-2024-0",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Olivas-Aguirre et al. (2019), Cell Death & Disease",
+     "url": "https://doi.org/10.1038/s41419-019-2024-0",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Copper-grid section reader: share of Jurkat cells still intact at 6 hours, untreated against the highest amount of CBD tested, one representative run",
+     "credit": "Chart: AaN, from Olivas-Aguirre et al. (2019) data",
+     "url": "https://doi.org/10.1038/s41419-019-2024-0",
      "card": false
     }
    ]
