@@ -2712,5 +2712,50 @@
     "expression": "RN wrote this Ask a Neuroscientist draft around a pressure-chamber experiment. Twelve participants provided usable ratings: suppressing bubble formation did not eliminate the bite of carbonated water. In a separate experiment, passing air bubbles over the tongue could strengthen the sensation. RN sets those human observations beside mouse studies of carbonic anhydrase 4 in sour-sensing taste cells. The comparison separates a chemical taste signal, irritation and the physical effect of bubbles.",
     "boundary": "This is a draft intended for Fat Nugs Magazine. Neither the manuscript nor its receptor card has a verified public release here. The human experiments measured reported sensation; they did not identify a human receptor or test hydration. The mouse findings do not settle what causes every part of the human experience.",
     "provenance": "The revised manuscript, cited experiments, owner register and corresponding receptor-card entry were compared. The group sizes and distinction between bubble formation and perceived bite come from the experimental designs described in the draft."
+  },
+  {
+    "id": "two-sales-a-re-recording-and-a-buyback",
+    "title": "Two Sales, a Re-recording and a Buyback",
+    "category": "Law + governance",
+    "stage": "Editorial package · release held",
+    "parentId": "institutions-of-one",
+    "workType": "Writing",
+    "workStatus": "Documented",
+    "held": true,
+    "releaseHeld": true,
+    "question": "What changes hands when a label sells an artist’s master recordings? If the artist records the songs again, which recording does a listener or licensee pay to use?",
+    "expression": "RN developed this Institutions of One case for creators weighing the long-term consequences of selling rights. The social copy and eight-slide narrative follow Taylor Swift’s original recordings through the acquisition of Big Machine, the subsequent sale to Shamrock and Swift’s announcement that she had bought the originals back. RN distinguishes ownership of a particular recording from the separate rights in the song. She uses the Taylor’s Version releases to explain why making a new master gives a creator another recording to license without transferring ownership of the old one.",
+    "boundary": "This is a prepared editorial package, not a published Reader essay. The package remains held, has no assigned essay edition and has no verified public social post. The buyback price was not officially disclosed. No recording, slide image or video is offered here.",
+    "provenance": "The complete platform case copy, eight slide texts, edition map and release records were compared. The case describes RN’s editorial analysis of a public transaction, not participation in the deal or a review of the contracts."
+  },
+  {
+    "id": "google-reader-export-and-rebuild",
+    "title": "Google Reader Shut Down: Export and Rebuild",
+    "category": "Culture + fieldwork",
+    "stage": "Editorial package · release held",
+    "parentId": "institutions-of-one",
+    "workType": "Writing",
+    "workStatus": "Documented",
+    "held": true,
+    "releaseHeld": true,
+    "question": "If the platform that supports your business disappeared, what could you export, and what would still have to be rebuilt?",
+    "expression": "RN developed this Institutions of One case for independent publishers and small teams that rely on another company’s software. The copy and eight-slide narrative follow two different exits from Google Reader. Subscribers could export a list of feeds through Google Takeout; that list did not contain the infrastructure Feedly needed to keep serving its readers. RN traces Feedly’s move to its own backend and asks readers to test whether their own exported data can actually be opened and used somewhere else.",
+    "boundary": "This is a prepared, release-held editorial package with no assigned Reader essay edition or verified public social post. RN documented Feedly’s migration; she did not build its backend. The package’s images and planned media are not available here.",
+    "provenance": "The Reader’s complete case copy, eight slide texts and release records were compared. Google’s March 2013 shutdown announcement confirms the deadline and Takeout option. No independent asset clearance or inspection of a finished video is claimed."
+  },
+  {
+    "id": "why-does-a-fever-make-you-shiver",
+    "title": "Why Does a Fever Make You Shiver? EP3 and the Brain’s Thermostat",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "question": "Why might you reach for a blanket while your temperature is rising? Is choosing warmth the same response as generating heat by shivering?",
+    "expression": "RN wrote this Ask a Neuroscientist draft for readers puzzled by the feeling of cold during a fever. She compares mouse experiments that measured temperature after an immune challenge with rat experiments that allowed animals to choose between warmer and cooler surfaces. She explains how the prostaglandin E2 signal and its EP3 receptor figure in both lines of research, and why choosing a warm surface measures something different from producing heat inside the body.",
+    "boundary": "The Fat Nugs manuscript and its receptor card remain held. The rat warmth-choice study did not directly measure shivering or what a person feels during chills. The draft offers neither a human diagnosis nor fever-treatment advice. No public manuscript or media release is verified.",
+    "provenance": "The revised manuscript, its references, the paired card record and the AaN draft register were compared. The rat study was checked for its warmth-seeking outcome. No clinical or full scientific clearance is claimed."
   }
 ]
