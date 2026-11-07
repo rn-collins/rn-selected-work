@@ -1104,17 +1104,18 @@
     "id": "imagine-this-same-vice-squad",
     "title": "Imagine This Same Vice Squad",
     "category": "Law + governance",
-    "stage": "Published essay",
+    "stage": "Published essay · draft derivatives",
     "question": "What does contemporary Black newspaper coverage reveal about Louis Armstrong’s cannabis prosecution, unequal enforcement and the limits of the story later retellings preserve?",
-    "expression": "A published Herbal Histories essay closely reading two March 1931 California Eagle front pages and a later Associated Negro Press report. It distinguishes Armstrong’s reported sentence and parole from an arrest narrative that the consulted newspaper does not establish. The essay examines headline placement, adjacent reporting on raids against Black-owned nightclubs, the vocabulary used to explain cannabis, and the social notes that record Armstrong’s working life beyond the prosecution. A chronology and twenty-four-item claim ledger separate reported events, the author’s interpretations, unsupported retellings and unresolved questions. Its broader argument concerns how police and court reporting shape which parts of a person’s life enter the archive.",
-    "boundary": "The current publisher record and complete text, including both appendices, were reviewed. The relationship drawn between adjacent columns is RN’s interpretation, not an explicit statement of the newspaper’s editorial intention or proof of police motive. Missing names and details are gaps in the consulted sources, not proof that no other evidence survives. The essay reports that the court file, relevant downtown daily coverage, Armstrong’s later writings and the period statute’s full text were not reached. This portfolio review has not independently inspected the newspaper images, checked the transcriptions or historical/legal conclusions, or cleared media rights. Publication does not establish a finished multimedia package.",
-    "held": false,
-    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. A second individually reviewed Herbal Histories essay; the complete series and underlying claims remain separate review tasks.",
+    "expression": "A published Herbal Histories essay closely reading two March 1931 California Eagle front pages and a later Associated Negro Press report. It distinguishes Armstrong’s reported sentence and parole from an arrest narrative that the consulted newspaper does not establish. The essay examines headline placement, adjacent reporting on raids against Black-owned nightclubs, the vocabulary used to explain cannabis, and the social notes that record Armstrong’s working life beyond the prosecution. A chronology and twenty-four-item claim ledger separate reported events, the author’s interpretations, unsupported retellings and unresolved questions. Its broader argument concerns how police and court reporting shape which parts of a person’s life enter the archive. In a later draft companion, RN puts the newspaper account beside historical military reports from the Panama Canal Zone. She distinguishes what police and journalists recorded from what military investigators set out to measure.",
+    "boundary": "The current publisher record and complete text, including both appendices, were reviewed. The relationship drawn between adjacent columns is RN’s interpretation, not an explicit statement of the newspaper’s editorial intention or proof of police motive. Missing names and details are gaps in the consulted sources, not proof that no other evidence survives. The essay reports that the court file, relevant downtown daily coverage, Armstrong’s later writings and the period statute’s full text were not reached. This portfolio review has not independently inspected the newspaper images, checked the transcriptions or historical/legal conclusions, or cleared media rights. Publication does not establish a finished multimedia package. The companion draws on later summaries rather than the original military reports. Those accounts disagree on the number of soldiers studied; they do not establish a general finding about cannabis or show that the Los Angeles authorities knew of the studies. The draft remains held for RN’s decision on publication or video use.",
+    "held": true,
+    "provenance": "Existing editorial catalogue reconciled with current publisher metadata and complete article text on November 3, 2026. A second individually reviewed Herbal Histories essay; the complete series and underlying claims remain separate review tasks. The complete later companion and its current AaN owner record were checked November 6, 2026. It is supporting material for this essay, not another released article.",
     "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/imagine-this-same-vice-squad",
     "workType": "Writing",
     "workStatus": "Published",
     "parentId": "herbal-histories",
-    "releaseHeld": false
+    "releaseHeld": true,
+    "holdScope": "derivatives"
   },
   {
     "id": "added-to-chapter",
@@ -2490,5 +2491,35 @@
     "held": true,
     "releaseHeld": true,
     "parentId": "ask-a-neuroscientist"
+  },
+  {
+    "id": "patreon-escape-route",
+    "title": "Patreon: One Person’s Escape Route, Another’s Infrastructure",
+    "category": "Culture + fieldwork",
+    "stage": "Editorial package · release held",
+    "parentId": "institutions-of-one",
+    "workType": "Writing",
+    "workStatus": "Documented",
+    "held": true,
+    "releaseHeld": true,
+    "question": "When creators move from advertising to paid membership, which dependencies disappear, and which ones move to the new platform?",
+    "expression": "RN’s Institutions of One case uses musician Jack Conte’s move from relying on video advertising to building Patreon with Sam Yam. It asks independent creators to look beyond the first payment: who controls discovery, the payment system, platform rules and continued access to supporters? RN developed the editorial case as social copy and an eight-part slide narrative. It closes with four questions a creator can apply to a platform choice: what becomes visible, what can be replaced, what can be negotiated, and what would survive if the platform disappeared.",
+    "boundary": "This is prepared Cycle 01 editorial work, with no verified published essay or social post for the package. It belongs to the Institutions of One programme; the Reader’s edition map does not assign it to a specific essay. The Reader’s release pause and the Selected Works hold both keep the package from public linking. The recorded editorial review does not release the slides, images or planned reel. Image references differ between the two records, and no rendered media or reuse rights were verified.",
+    "provenance": "The complete case copy and all eight slide-text records were compared with the programme’s edition map and both sites’ release records. Platform versions and slides are parts of this one package; no separate reading or download link is supplied."
+  },
+  {
+    "id": "the-flow-sensor",
+    "title": "The Flow Sensor: How PIEZO1 Lets Your Body Feel Its Own Blood",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "question": "How can a cell detect the push of flowing blood, and how do scientists test what that sensor does?",
+    "expression": "RN’s Ask a Neuroscientist column explains PIEZO1, a channel that lets ions cross a cell membrane in response to force. For readers curious about how the body senses motion, she follows the evidence from cells responding to a mechanical poke to mouse blood vessels developing under flow. She compares experiments on red-cell hydration with human genetic studies and a structure of the channel. A section on malaria distinguishes three different questions: what happened in an engineered mouse, how parasites grew in donated blood, and whether people carrying a common variant had less severe disease. RN’s role is research synthesis and explanatory writing, not conducting the experiments.",
+    "boundary": "The editorial owner lists a held Fat Nugs draft with no publication URL. The mouse malaria experiment used a different mutation from the common human variant. The manuscript’s account of human malaria evidence needs updating: a study in Gabon reported an association with lower odds of severe disease, while a larger Ghanaian study did not reproduce a strong protective effect. The studies used different comparison groups and do not establish an individual’s risk. One vascular paper was unavailable to the writer, and the column supplies no diagnosis or screening guidance. The receptor card and manuscript represent one work; no media or rights approval is recorded here.",
+    "provenance": "The complete manuscript, including eight references, was compared with the current AaN owner record. Two primary human studies were checked for the malaria comparison. That check does not verify every cited mechanism or approve the held draft."
   }
 ]
