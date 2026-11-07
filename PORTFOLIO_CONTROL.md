@@ -751,3 +751,7 @@ The package build rejects restoration of the three withdrawn paths and byte-iden
 ## Continuation086 — food choices, motion, land and pain
 
 208 → 214 entries, six held AaN essays (two intended for Polymath, four for Fat Nugs). No exhibit, card, pitch or older edition counted separately. Flax, sponge city and pain drafts disagree with their owner-register planning dates. No release links. Earlier Added to Chapter appendix remains one work and historical local build not recertified. Selected Works owns integration review, AaN retains source release. Index cursor 960→978; next compare Biodesign Warehouse and RN’s fungus-panel article at 960/961. [Verification](https://github.com/rn-collins/rn-selected-work/pull/41#issuecomment-6710289088).
+
+## Continuation087 — microbial goods, materials and perception
+
+214 → 220 entries. The current Polymath warehouse essay replaces the earlier wall-panel title in the index, not a second work. Five further Fat Nugs drafts include a cone-opsin essay with its receptor card. Time and bedding dates conflict. No source/media linked. Earlier Added to Chapter hosted closure and one-work appendix disposition retained; interrupted local build not recertified. Integration review: Selected Works. Releases: AaN and destination owners. Index 978→995; next resolve Schedule III manuscript against the current publisher and review status at 967/968, then the Han hemp companion at 974/975. [Verification](https://github.com/rn-collins/rn-selected-work/pull/41#issuecomment-6711027306).
