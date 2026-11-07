@@ -7,12 +7,17 @@ for (const idea of ideas) {
  assert.match(idea.id,/^[a-z0-9-]+$/);
  assert.equal(typeof idea.held,'boolean');
 }
+// A supporting publication belongs to its parent; a second entry must not count it as another work.
+const readingOwners = new Map();
 // Public reading links are allowed only in a dedicated field, never in prose or private references.
 for (const idea of ideas) {
  for (const key of ['publicationUrl', 'appendixUrl']) {
   if (idea[key] === undefined) continue;
   assert.ok(idea.workType === 'Writing' && idea.workStatus === 'Published' && ['Published essay', 'Published essay · draft derivatives'].includes(idea.stage), `${idea.id}: publication link requires published writing`);
   assert.match(idea[key], /^https:\/\/polymath-rn-collins\.beehiiv\.com\/p\/[a-z0-9-]+$/, `${idea.id}: only verified public article routes, no draft/query/auth URLs`);
+  const previous = readingOwners.get(idea[key]);
+  assert.ok(!previous || previous === idea.id, `${idea.id}: reading URL already belongs to ${previous}`);
+  readingOwners.set(idea[key], idea.id);
  }
  if (idea.appendixUrl !== undefined) {
   assert.ok(idea.publicationUrl, `${idea.id}: appendix requires its parent essay link`);
