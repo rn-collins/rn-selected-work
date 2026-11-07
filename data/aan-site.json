@@ -1,0 +1,573 @@
+{
+ "note": "Written by rn-ask-a-neuroscientist scripts/import_posts.py; do not edit by hand. Each AaN page with the date it goes live (Pacific/Honolulu) and its hold; cards only once they are out. lib/aan-site.ts links a page only once it is live.",
+ "base": "https://askaneuroscientist.vercel.app",
+ "posts": {
+  "nov-13-pb03": {
+   "path": "/posts/nov-13-pb03/",
+   "releasedAt": "2026-11-13",
+   "hold": false
+  },
+  "nov-13-pdft01": {
+   "path": "/posts/nov-13-pdft01/",
+   "releasedAt": "2026-11-13",
+   "hold": false
+  },
+  "nov-14-ht07": {
+   "path": "/posts/nov-14-ht07/",
+   "releasedAt": "2026-11-14",
+   "hold": false
+  },
+  "nov-14-pds01": {
+   "path": "/posts/nov-14-pds01/",
+   "releasedAt": "2026-11-14",
+   "hold": false
+  },
+  "apr-05": {
+   "path": "/posts/apr-05/",
+   "releasedAt": "2026-11-15",
+   "hold": false
+  },
+  "nov-28": {
+   "path": "/posts/nov-28/",
+   "releasedAt": "2026-11-17",
+   "hold": false
+  },
+  "dec-30": {
+   "path": "/posts/dec-30/",
+   "releasedAt": "2026-11-18",
+   "hold": false
+  },
+  "nov-18-pda01": {
+   "path": "/posts/nov-18-pda01/",
+   "releasedAt": "2026-11-18",
+   "hold": false
+  },
+  "nov-07": {
+   "path": "/posts/nov-07/",
+   "releasedAt": "2026-11-19",
+   "hold": false
+  },
+  "nov-19-pdm01": {
+   "path": "/posts/nov-19-pdm01/",
+   "releasedAt": "2026-11-19",
+   "hold": false
+  },
+  "nov-20": {
+   "path": "/posts/nov-20/",
+   "releasedAt": "2026-11-20",
+   "hold": false
+  },
+  "nov-21": {
+   "path": "/posts/nov-21/",
+   "releasedAt": "2026-11-21",
+   "hold": false
+  },
+  "nov-21-pdk01": {
+   "path": "/posts/nov-21-pdk01/",
+   "releasedAt": "2026-11-21",
+   "hold": false
+  },
+  "nov-23-my27": {
+   "path": "/posts/nov-23-my27/",
+   "releasedAt": "2026-11-23",
+   "hold": false
+  },
+  "nov-23-pds02": {
+   "path": "/posts/nov-23-pds02/",
+   "releasedAt": "2026-11-23",
+   "hold": false
+  },
+  "dec-22-2027": {
+   "path": "/posts/dec-22-2027/",
+   "releasedAt": "2026-11-24",
+   "hold": false
+  },
+  "nov-24-pdv01": {
+   "path": "/posts/nov-24-pdv01/",
+   "releasedAt": "2026-11-24",
+   "hold": false
+  },
+  "dec-11-2027": {
+   "path": "/posts/dec-11-2027/",
+   "releasedAt": "2026-11-25",
+   "hold": false
+  },
+  "nov-25-pdfr01": {
+   "path": "/posts/nov-25-pdfr01/",
+   "releasedAt": "2026-11-25",
+   "hold": false
+  },
+  "nov-26": {
+   "path": "/posts/nov-26/",
+   "releasedAt": "2026-11-26",
+   "hold": false
+  },
+  "nov-26-pdl01": {
+   "path": "/posts/nov-26-pdl01/",
+   "releasedAt": "2026-11-26",
+   "hold": false
+  },
+  "nov-27-pdn01": {
+   "path": "/posts/nov-27-pdn01/",
+   "releasedAt": "2026-11-27",
+   "hold": false
+  },
+  "nov-27-ra89": {
+   "path": "/posts/nov-27-ra89/",
+   "releasedAt": "2026-11-27",
+   "hold": false
+  },
+  "nov-28-mjbex14": {
+   "path": "/posts/nov-28-mjbex14/",
+   "releasedAt": "2026-11-28",
+   "hold": false
+  },
+  "jul-10": {
+   "path": "/posts/jul-10/",
+   "releasedAt": "2026-11-28",
+   "hold": false
+  },
+  "nov-29": {
+   "path": "/posts/nov-29/",
+   "releasedAt": "2026-11-29",
+   "hold": false
+  },
+  "nov-30": {
+   "path": "/posts/nov-30/",
+   "releasedAt": "2026-11-30",
+   "hold": false
+  },
+  "dec-01": {
+   "path": "/posts/dec-01/",
+   "releasedAt": "2026-12-01",
+   "hold": false
+  },
+  "dec-01-mjbyb06": {
+   "path": "/posts/dec-01-mjbyb06/",
+   "releasedAt": "2026-12-01",
+   "hold": false
+  },
+  "dec-02": {
+   "path": "/posts/dec-02/",
+   "releasedAt": "2026-12-02",
+   "hold": false
+  },
+  "dec-02-mjbyb07": {
+   "path": "/posts/dec-02-mjbyb07/",
+   "releasedAt": "2026-12-02",
+   "hold": false
+  },
+  "dec-03": {
+   "path": "/posts/dec-03/",
+   "releasedAt": "2026-12-03",
+   "hold": false
+  },
+  "dec-04": {
+   "path": "/posts/dec-04/",
+   "releasedAt": "2026-12-04",
+   "hold": false
+  },
+  "dec-05": {
+   "path": "/posts/dec-05/",
+   "releasedAt": "2026-12-05",
+   "hold": false
+  },
+  "jan-03-2028": {
+   "path": "/posts/jan-03-2028/",
+   "releasedAt": "2026-12-06",
+   "hold": false
+  },
+  "dec-06-mjbyb08": {
+   "path": "/posts/dec-06-mjbyb08/",
+   "releasedAt": "2026-12-06",
+   "hold": false
+  },
+  "feb-19-2028": {
+   "path": "/posts/feb-19-2028/",
+   "releasedAt": "2026-12-07",
+   "hold": false
+  },
+  "dec-08": {
+   "path": "/posts/dec-08/",
+   "releasedAt": "2026-12-08",
+   "hold": false
+  },
+  "dec-08-mjbyb03": {
+   "path": "/posts/dec-08-mjbyb03/",
+   "releasedAt": "2026-12-08",
+   "hold": false
+  },
+  "nov-13": {
+   "path": "/posts/nov-13/",
+   "releasedAt": "2026-12-09",
+   "hold": false
+  },
+  "dec-09-mjbyb05": {
+   "path": "/posts/dec-09-mjbyb05/",
+   "releasedAt": "2026-12-09",
+   "hold": false
+  },
+  "dec-10": {
+   "path": "/posts/dec-10/",
+   "releasedAt": "2026-12-10",
+   "hold": false
+  },
+  "dec-10-mjbyb01": {
+   "path": "/posts/dec-10-mjbyb01/",
+   "releasedAt": "2026-12-10",
+   "hold": false
+  },
+  "nov-15": {
+   "path": "/posts/nov-15/",
+   "releasedAt": "2026-12-11",
+   "hold": false
+  },
+  "dec-11-mjbyb02": {
+   "path": "/posts/dec-11-mjbyb02/",
+   "releasedAt": "2026-12-11",
+   "hold": false
+  },
+  "dec-12-mjbyb04": {
+   "path": "/posts/dec-12-mjbyb04/",
+   "releasedAt": "2026-12-12",
+   "hold": false
+  },
+  "nov-19": {
+   "path": "/posts/nov-19/",
+   "releasedAt": "2026-12-12",
+   "hold": false
+  },
+  "jan-28": {
+   "path": "/posts/jan-28/",
+   "releasedAt": "2026-12-13",
+   "hold": false
+  },
+  "dec-13-mjbyb10": {
+   "path": "/posts/dec-13-mjbyb10/",
+   "releasedAt": "2026-12-13",
+   "hold": false
+  },
+  "dec-14": {
+   "path": "/posts/dec-14/",
+   "releasedAt": "2026-12-14",
+   "hold": false
+  },
+  "dec-14-mjbyb11": {
+   "path": "/posts/dec-14-mjbyb11/",
+   "releasedAt": "2026-12-14",
+   "hold": false
+  },
+  "dec-15": {
+   "path": "/posts/dec-15/",
+   "releasedAt": "2026-12-15",
+   "hold": false
+  },
+  "dec-15-mjbyb12": {
+   "path": "/posts/dec-15-mjbyb12/",
+   "releasedAt": "2026-12-15",
+   "hold": false
+  },
+  "nov-25": {
+   "path": "/posts/nov-25/",
+   "releasedAt": "2026-12-16",
+   "hold": false
+  },
+  "apr-16": {
+   "path": "/posts/apr-16/",
+   "releasedAt": "2026-12-17",
+   "hold": false
+  },
+  "dec-17-mjbsest05": {
+   "path": "/posts/dec-17-mjbsest05/",
+   "releasedAt": "2026-12-17",
+   "hold": false
+  },
+  "dec-18": {
+   "path": "/posts/dec-18/",
+   "releasedAt": "2026-12-18",
+   "hold": false
+  },
+  "dec-19": {
+   "path": "/posts/dec-19/",
+   "releasedAt": "2026-12-19",
+   "hold": false
+  },
+  "dec-19-mjbyb14": {
+   "path": "/posts/dec-19-mjbyb14/",
+   "releasedAt": "2026-12-19",
+   "hold": false
+  },
+  "dec-20": {
+   "path": "/posts/dec-20/",
+   "releasedAt": "2026-12-20",
+   "hold": false
+  },
+  "dec-20-mjbpp02": {
+   "path": "/posts/dec-20-mjbpp02/",
+   "releasedAt": "2026-12-20",
+   "hold": false
+  },
+  "feb-18-2028": {
+   "path": "/posts/feb-18-2028/",
+   "releasedAt": "2026-12-21",
+   "hold": false
+  },
+  "dec-22-kb37": {
+   "path": "/posts/dec-22-kb37/",
+   "releasedAt": "2026-12-22",
+   "hold": false
+  },
+  "dec-22-mjbcat02n": {
+   "path": "/posts/dec-22-mjbcat02n/",
+   "releasedAt": "2026-12-22",
+   "hold": false
+  },
+  "dec-25-2027": {
+   "path": "/posts/dec-25-2027/",
+   "releasedAt": "2026-12-23",
+   "hold": false
+  },
+  "dec-24": {
+   "path": "/posts/dec-24/",
+   "releasedAt": "2026-12-24",
+   "hold": false
+  },
+  "dec-24-pdn02": {
+   "path": "/posts/dec-24-pdn02/",
+   "releasedAt": "2026-12-24",
+   "hold": false
+  },
+  "dec-25": {
+   "path": "/posts/dec-25/",
+   "releasedAt": "2026-12-25",
+   "hold": false
+  },
+  "dec-25-mjbpp01": {
+   "path": "/posts/dec-25-mjbpp01/",
+   "releasedAt": "2026-12-25",
+   "hold": false
+  },
+  "dec-26-mjbcat05n": {
+   "path": "/posts/dec-26-mjbcat05n/",
+   "releasedAt": "2026-12-26",
+   "hold": false
+  },
+  "dec-26": {
+   "path": "/posts/dec-26/",
+   "releasedAt": "2026-12-26",
+   "hold": false
+  },
+  "dec-27": {
+   "path": "/posts/dec-27/",
+   "releasedAt": "2026-12-27",
+   "hold": false
+  },
+  "dec-06": {
+   "path": "/posts/dec-06/",
+   "releasedAt": "2026-12-28",
+   "hold": false
+  },
+  "dec-31-pdh01": {
+   "path": "/posts/dec-31-pdh01/",
+   "releasedAt": "2026-12-31",
+   "hold": false
+  },
+  "jan-01-mjbpp03": {
+   "path": "/posts/jan-01-mjbpp03/",
+   "releasedAt": "2027-01-01",
+   "hold": false
+  },
+  "jan-02-bswh01": {
+   "path": "/posts/jan-02-bswh01/",
+   "releasedAt": "2027-01-02",
+   "hold": false
+  },
+  "jan-03-bswc01": {
+   "path": "/posts/jan-03-bswc01/",
+   "releasedAt": "2027-01-03",
+   "hold": false
+  },
+  "jan-04-bsws01": {
+   "path": "/posts/jan-04-bsws01/",
+   "releasedAt": "2027-01-04",
+   "hold": false
+  },
+  "jan-05-pds03": {
+   "path": "/posts/jan-05-pds03/",
+   "releasedAt": "2027-01-05",
+   "hold": false
+  },
+  "jan-06-rqa01": {
+   "path": "/posts/jan-06-rqa01/",
+   "releasedAt": "2027-01-06",
+   "hold": false
+  },
+  "jan-07-pdv02": {
+   "path": "/posts/jan-07-pdv02/",
+   "releasedAt": "2027-01-07",
+   "hold": false
+  },
+  "jan-12-pdc01": {
+   "path": "/posts/jan-12-pdc01/",
+   "releasedAt": "2027-01-12",
+   "hold": false
+  },
+  "jan-14-pda02": {
+   "path": "/posts/jan-14-pda02/",
+   "releasedAt": "2027-01-14",
+   "hold": false
+  },
+  "jan-19-pdh02": {
+   "path": "/posts/jan-19-pdh02/",
+   "releasedAt": "2027-01-19",
+   "hold": false
+  },
+  "jan-21-pdh03": {
+   "path": "/posts/jan-21-pdh03/",
+   "releasedAt": "2027-01-21",
+   "hold": false
+  },
+  "jan-24-pdv03": {
+   "path": "/posts/jan-24-pdv03/",
+   "releasedAt": "2027-01-24",
+   "hold": false
+  },
+  "jan-26-wotw01": {
+   "path": "/posts/jan-26-wotw01/",
+   "releasedAt": "2027-01-26",
+   "hold": false
+  },
+  "jan-28-pdc02": {
+   "path": "/posts/jan-28-pdc02/",
+   "releasedAt": "2027-01-28",
+   "hold": false
+  },
+  "jan-31-pdm02": {
+   "path": "/posts/jan-31-pdm02/",
+   "releasedAt": "2027-01-31",
+   "hold": false
+  },
+  "feb-02-wotw02": {
+   "path": "/posts/feb-02-wotw02/",
+   "releasedAt": "2027-02-02",
+   "hold": false
+  },
+  "feb-04-pdb01": {
+   "path": "/posts/feb-04-pdb01/",
+   "releasedAt": "2027-02-04",
+   "hold": false
+  },
+  "feb-07-pdcb01": {
+   "path": "/posts/feb-07-pdcb01/",
+   "releasedAt": "2027-02-07",
+   "hold": false
+  },
+  "feb-09-wotw03": {
+   "path": "/posts/feb-09-wotw03/",
+   "releasedAt": "2027-02-09",
+   "hold": false
+  },
+  "feb-11-pdsy01": {
+   "path": "/posts/feb-11-pdsy01/",
+   "releasedAt": "2027-02-11",
+   "hold": false
+  },
+  "feb-14-pdt01": {
+   "path": "/posts/feb-14-pdt01/",
+   "releasedAt": "2027-02-14",
+   "hold": false
+  },
+  "feb-16-pdse01": {
+   "path": "/posts/feb-16-pdse01/",
+   "releasedAt": "2027-02-16",
+   "hold": false
+  },
+  "feb-21-pdps01": {
+   "path": "/posts/feb-21-pdps01/",
+   "releasedAt": "2027-02-21",
+   "hold": false
+  }
+ },
+ "cards": {
+  "fatnugs/fn-19": [
+   {
+    "title": "Supporters, and no champion",
+    "path": "/champions/",
+    "releasedAt": "2026-10-18",
+    "hold": false
+   }
+  ],
+  "fatnugs/fn-01": [
+   {
+    "title": "What a cannabis certificate of analysis does not measure",
+    "path": "/coa/",
+    "releasedAt": "2026-10-05",
+    "hold": false
+   }
+  ],
+  "fatnugs/fn-22": [
+   {
+    "title": "Three days at the Hawaiʻi Cannabis Expo",
+    "path": "/expo/",
+    "releasedAt": "2026-10-18",
+    "hold": false
+   }
+  ],
+  "fatnugs/fn-11": [
+   {
+    "title": "Measuring Hawaii's cannabis market",
+    "path": "/market-data/",
+    "releasedAt": "2026-10-18",
+    "hold": false
+   }
+  ],
+  "fatnugs/fn-14": [
+   {
+    "title": "Hawaii's fifteen-year gap between legal and available",
+    "path": "/paradise-limbo/",
+    "releasedAt": "2026-10-18",
+    "hold": false
+   }
+  ],
+  "fatnugs/fn-16": [
+   {
+    "title": "The mutual-aid economy around cannabis",
+    "path": "/peoples-movement/",
+    "releasedAt": "2026-10-18",
+    "hold": false
+   }
+  ],
+  "fatnugs/fn-07": [
+   {
+    "title": "Hawaiʻi's seed-to-sale tracking system",
+    "path": "/seed-to-sale/",
+    "releasedAt": "2026-10-18",
+    "hold": false
+   }
+  ],
+  "fatnugs/fn-21": [
+   {
+    "title": "Cannabis on contested ground above Waimanalo",
+    "path": "/sovereign-ground/",
+    "releasedAt": "2026-10-18",
+    "hold": false
+   }
+  ]
+ },
+ "pages": [
+  {
+   "key": "reader-qa",
+   "title": "Reader Q&A",
+   "path": "/reader-qa/",
+   "releasedAt": "2027-01-06",
+   "hold": true
+  },
+  {
+   "key": "glossary",
+   "title": "Glossary, A to Z",
+   "path": "/terms/",
+   "releasedAt": "",
+   "hold": true
+  }
+ ]
+}

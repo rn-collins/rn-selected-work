@@ -73,6 +73,16 @@ title/description/canonical/og:image, enforces a 400-word substance floor and a 
 caveat-density ceiling, and checks heading order, alt text, form labels and `lang`.
 Bot-blocked hosts (LinkedIn answers `999`) are reported and never failed.
 
+## Links to the Ask a Neuroscientist site (Nov 7, 2026)
+
+Each AaN sources page links to the same post on the AaN site (askaneuroscientist.vercel.app/posts/<slug>/, the
+carousel as a scroll page) and to the AaN home; the Fat Nugs sources pages link to their AaN cards; /sources lists
+the AaN site's reader pages (Reader Q&A, A to Z glossary) once they are live; the footer links the AaN site; and
+/work/ask-a-neuroscientist is the project page the AaN site's footer points to (brand guide T7). The links come from
+`data/aan-site.json`, written by `scripts/import_posts.py` in rn-ask-a-neuroscientist (do not edit by hand), read by
+`lib/aan-site.ts`, which links a page only once its date has come in Hawaii and it is not held. Cards that open
+later are not named in that file, because this repository is public and the AaN card calendar is not.
+
 ## AaN release pause (RN, Oct 30, 2026; lifted by RN Nov 7, 2026)
 
 RN paused every not-yet-live Ask a Neuroscientist sources page on Oct 30 and lifted the pause on Nov 7, 2026 so

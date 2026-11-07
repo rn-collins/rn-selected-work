@@ -7,6 +7,7 @@ import { PortfolioBlock, PortfolioLine } from "../../../../components/source-por
 import { PieceLinks } from "../../../../components/piece-links";
 import { POLYMATH_SUBSCRIBE, essay, essayPath } from "../../../../lib/essays";
 import { pieceId } from "../../../../lib/releases";
+import { aanSiteLinks } from "../../../../lib/aan-site";
 import { imageSourceLink } from "../../../../lib/image-source-link";
 import { sourceLinkTargets } from "../../../../lib/source-link-targets";
 import { account, accounts, entryCount, host, listed, releasedPost, type SourceLink } from "../../../../lib/sources";
@@ -141,6 +142,7 @@ export default async function SourcePage({ params }: Params) {
         <PieceLinks
           id={pieceId(slug, p.slug)}
           longForm={essayHref ? { href: essayHref, label: `The essay: ${e!.title}` } : undefined}
+          more={slug === "fatnugs" ? aanSiteLinks(`fatnugs/${p.slug}`) : undefined}
           index={{ href: `/sources/${slug}`, title: `${a.name}: all posts and their sources` }}
           prev={ref(order[at - 1])}
           next={ref(at >= 0 ? order[at + 1] : undefined)}

@@ -7,8 +7,10 @@ type Ref = { href: string; title: string };
 // The link set every released piece carries (data/releases.json): its post or posts, its sources page, its
 // long-form, its gallery page, then the index and the previous and next released pieces. Links with no address
 // yet are left out.
-export function PieceLinks({ id, sources, longForm, index, prev, next }: {
+export function PieceLinks({ id, sources, longForm, more, index, prev, next }: {
   id: string; sources?: string; longForm?: { href: string; label: string };
+  // Further links, such as the piece's pages on the Ask a Neuroscientist site (lib/aan-site.ts).
+  more?: { href: string; label: string }[];
   index: Ref; prev?: Ref; next?: Ref;
 }) {
   const r = release(id);
@@ -18,6 +20,7 @@ export function PieceLinks({ id, sources, longForm, index, prev, next }: {
     ...(sources ? [{ href: sources, label: "Sources and image credits", external: false }] : []),
     ...(longForm ? [{ ...longForm, external: /^https?:/.test(longForm.href) }] : []),
     ...(r?.galleryUrl ? [{ href: r.galleryUrl, label: "This piece in the gallery", external: true }] : []),
+    ...(more ?? []).map((l) => ({ ...l, external: /^https?:/.test(l.href) })),
   ];
   return (
     <nav className={styles.box} aria-label="This piece and the pieces around it">

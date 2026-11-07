@@ -6,6 +6,7 @@ import { CanonicalPage } from "../../components/canonical-page";
 import { longDate, postedSoFar } from "../../lib/aan-sources";
 import { accounts } from "../../lib/sources";
 import styles from "./sources.module.css";
+import { aanReaderPages, aanSiteBase } from "../../lib/aan-site";
 
 // Rechecked hourly, and refreshed by the daily cron (app/api/release-day), so each post appears on its release day.
 export const revalidate = 3600;
@@ -45,6 +46,15 @@ export default function SourcesIndex() {
             ))}
           </ul>
         )}
+        <section className={styles.block} aria-labelledby="on-aan">
+          <h2 id="on-aan">On the Ask a Neuroscientist site</h2>
+          <ul className={styles.index}>
+            <li><a href={`${aanSiteBase}/`}>Ask a Neuroscientist</a></li>
+            {aanReaderPages().map((l) => (
+              <li key={l.href}><a href={l.href}>{l.label}</a></li>
+            ))}
+          </ul>
+        </section>
         <section className={styles.block} aria-labelledby="more-sources">
           <h2 id="more-sources">Sources for RN Collins&apos; other posts</h2>
           <ul className={styles.index}>
