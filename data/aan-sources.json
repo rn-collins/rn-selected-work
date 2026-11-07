@@ -75992,6 +75992,102 @@
    ]
   },
   {
+   "slug": "dec-30-eamn01",
+   "date": "2026-12-30",
+   "time": "09:00 HST",
+   "id": "EAMN01",
+   "title": "Eco-Amnesia: the insects we lost, and the memories that shrink with them",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/archive/2025/eco-amnesia-op-zoek-naar-verloren-perspectieven"
+   },
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Hallmann, C. A., Sorg, M., Jongejans, E., Siepel, H., Hofland, N., Schwan, H., Stenmans, W., Müller, A., Sumser, H., Hörren, T., Goulson, D., & de Kroon, H. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. PLOS ONE, 12(10), e0185809 (full text read Nov 7, 2026, Europe PMC PMC5646769, CC BY 4.0)",
+     "url": "https://doi.org/10.1371/journal.pone.0185809"
+    },
+    {
+     "label": "Soga, M., & Gaston, K. J. (2024). Global synthesis indicates widespread occurrence of shifting baseline syndrome. BioScience, 74(10), 686-694 (full text read Nov 7, 2026, Europe PMC PMC11494512, CC BY 4.0; a systematic review)",
+     "url": "https://doi.org/10.1093/biosci/biae068"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Eco-Amnesia wall at Vitalis Berckelhof, photo Almicheal Fraay / Dutch Design Week, the whole display",
+     "credit": "Photo: Almicheal Fraay / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54901767418/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "One memory card from the sessions, photo Almicheal Fraay / Dutch Design Week, detail of a card",
+     "credit": "Photo: Almicheal Fraay / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54900664727/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "From the DDW press kit for Eco-Amnesia",
+     "credit": "Dutch Design Week (2025), DDW press kit text, Eco-Amnesia, nojoke studio",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/eco-amnesia-op-zoek-naar-verloren-perspectieven",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A Malaise trap in a German reserve",
+     "credit": "Hallmann et al. (2017), PLOS ONE, cropped from Fig. 1, CC BY",
+     "url": "https://doi.org/10.1371/journal.pone.0185809",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Flying insect biomass by year",
+     "credit": "Hallmann et al. (2017), PLOS ONE, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1371/journal.pone.0185809",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Malaise-trap sample keeper: of 77 perception measures, how many found older people with the higher environmental baseline, how many younger, and how many unclear",
+     "credit": "Chart: AaN, from Soga & Gaston (2024) data",
+     "url": "https://doi.org/10.1093/biosci/biae068",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Question cards at the exhibition, photo Almicheal Fraay / Dutch Design Week, detail of the cards",
+     "credit": "Photo: Almicheal Fraay / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54901788594/",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Hallmann et al. (2017), PLOS ONE",
+     "url": "https://doi.org/10.1371/journal.pone.0185809",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Hallmann et al. (2017), PLOS ONE",
+     "url": "https://doi.org/10.1371/journal.pone.0185809",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "The exhibition's introduction panel, photo Almicheal Fraay / Dutch Design Week, the title panel",
+     "credit": "Photo: Almicheal Fraay / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54900664757/",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "dec-31-pdh01",
    "date": "2026-12-31",
    "time": "09:00 HST",
