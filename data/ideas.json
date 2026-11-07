@@ -2553,5 +2553,35 @@
     "expression": "RN’s Herbal Histories essay tests that claim for readers who have seen it attributed to Avicenna. She compares what his entries say about hemp seed and its uses with Ibn al-Bayṭār’s account of a practice he personally witnessed. She then follows the observation through legal arguments, conflicting origin stories and nineteenth-century French translations. An evidence note and a claim-by-claim appendix show which conclusions rest on text RN consulted, which depend on later writers, and where a source was unavailable. A narrower AaN companion draft considers two explanations for the botanist’s words: recent cultivation, or simply the limits of his travels.",
     "boundary": "The Polymath published the essay under RN Collins’s byline. RN distinguishes a local observation from a claim about an entire region’s medical practice. She consulted Avicenna in Arabic, but read Ibn al-Bayṭār’s passage through French renderings; the Arabic wording and part of the proposed link to juristic argument remain unresolved. The embedded appendix is part of this essay. The separate companion remains a draft, with no reading or media link.",
     "provenance": "Publisher metadata, the article text including its evidence notes and claim ledger, and the AaN companion manuscript were compared. Historical interpretation and translations are attributed to RN; manuscript images, translations and reuse permissions were not independently verified."
+  },
+  {
+    "id": "why-does-music-give-you-chills",
+    "title": "Why Does Music Give You Chills?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "question": "Why can one listener feel a shiver as a song builds while another hears the same passage and feels none?",
+    "expression": "RN wrote this Ask a Neuroscientist column for listeners curious about a familiar physical response. She follows what researchers actually measured: musicians chose passages that reliably gave them chills, other listeners heard the same music as a neutral comparison, and participants marked the moment a chill arrived. RN compares changes in breathing and heart rate with scans taken during anticipation and peak pleasure. She also considers listeners who rarely feel chills and explains why studies that recruit people for their strong responses cannot tell us how common those responses are.",
+    "boundary": "The manuscript is a draft intended for Fat Nugs Magazine. Its revised text drops the prevalence estimate in the earlier companion card. The brain scans provide indirect evidence from small, selected groups. A later experiment used six different audiovisual clips, so a change across clips cannot be attributed to repetition of one song. No published article or finished media was verified.",
+    "provenance": "The complete revised manuscript and the AaN draft record were compared with the Brain and Body card. They describe one package. The six-clip study was checked against its published abstract; the other studies and media rights have not all been independently reviewed."
+  },
+  {
+    "id": "born-without-pain",
+    "title": "Born Without Pain: Nav1.7, the Channel Some People Lack",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "question": "What can families born without the usual warning of pain tell us about how a nerve passes a signal onward?",
+    "expression": "RN developed this Ask a Neuroscientist essay for readers of the receptor-card series. She starts with family studies that linked an inability to feel pain to changes in SCN9A, the gene for the Nav1.7 sodium channel. She then separates three observations that are easy to confuse: a nerve responds to a stimulus, the signal reaches the next cell, and a person experiences pain. The draft compares human reports of pain and smell with experiments in mice and laboratory cells. It also explains why changes that increase channel activity can tell a different story from changes that disable it.",
+    "boundary": "This is a draft intended for Fat Nugs Magazine. The human observations and mouse experiments answer different questions. The small human follow-up did not produce the same response in every participant, and loss of the channel from birth does not establish what blocking it in an adult would do. The essay offers neither a diagnosis nor a treatment recommendation. No published article, finished card design or reusable image was verified.",
+    "provenance": "The complete manuscript and the AaN owner record were matched to the Nav1.7 companion card. The 2021 paper’s abstract and human-test figure description were checked for the distinction between species and measurements. This does not clear every citation, image or clinical claim."
   }
 ]
