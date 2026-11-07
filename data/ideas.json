@@ -2789,5 +2789,51 @@
     "expression": "RN wrote this Ask a Neuroscientist draft for readers who have heard oxytocin called the love hormone. She distinguishes a study of the human receptor’s structure from experiments that measured partner preference in prairie voles. She compares drug-blocking studies with a genetic experiment and a published challenge to what the mutations removed. For the human evidence she follows an early trust-game result into a registered replication: the main test did not find the expected increase in trust.",
     "boundary": "The manuscript is a held Fat Nugs Magazine draft, paired with its receptor card. Bonding in the tested voles does not establish that oxytocin has no role in attachment, and a laboratory trust game is not a measure of love. No public manuscript, treatment recommendation or independent scientific clearance is offered.",
     "provenance": "The complete draft and its references were compared with the AaN register and paired card record. The registered human replication was checked for its main result. The draft reports the disagreement about the vole experiment without resolving it."
+  },
+  {
+    "id": "the-pool-noodle-test",
+    "title": "The Pool Noodle Test",
+    "category": "Learning",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "stage": "Published essay · draft derivatives",
+    "held": true,
+    "releaseHeld": true,
+    "holdScope": "derivatives",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-pool-noodle-test",
+    "question": "How do you notice a change in yourself when the clearest sign is a reaction you expected but did not have?",
+    "expression": "In this Formation Notes essay, RN recounts a brief sting that amused her instead of making her angry. She describes the sensation, the reaction she expected and what she noticed in its absence. For readers trying to recognize growth in ordinary moments, she offers a way of paying attention: staying calm need not mean that nothing hurt, and it need not mean hiding an emotion that was there all along.",
+    "boundary": "The Polymath published the personal essay. RN presents one observation about her own response, not a parenting intervention or evidence of a particular brain mechanism. A later AaN manuscript considers laboratory research on pain and emotion. It remains an unpublished companion and has no reading link here.",
+    "provenance": "The public article and current publisher record were compared with the separately registered AaN draft. The research belongs to that companion; the original essay does not cite those studies."
+  },
+  {
+    "id": "why-do-you-get-goosebumps",
+    "title": "Why Do You Get Goosebumps? The Alpha-1 Adrenergic Receptor",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "question": "When cold makes a hair stand up, what actually moves? Is that brief movement the same thing as growing a new hair?",
+    "expression": "RN wrote this Ask a Neuroscientist draft for readers curious about a familiar skin reflex. She traces the contraction of the tiny muscle beside a hair follicle, then follows a different signal that sympathetic nerves send to hair-follicle stem cells in mice. The distinction matters: the draft discusses alpha-1 receptors on the muscle and a beta-2 receptor in the mouse stem-cell experiment. RN compares those findings with recordings of human goosebumps and a small anatomical study of human skin.",
+    "boundary": "The Fat Nugs Magazine manuscript and its accompanying receptor card are held. Recording a goosebump in a person does not establish the hair-growth mechanism found in mice. The draft does not identify a particular alpha-1 subtype on the human muscle or offer hair-loss treatment advice.",
+    "provenance": "The complete AaN manuscript and its draft register were compared with the paired receptor-card record and the primary mouse study. The card and manuscript describe one editorial package."
+  },
+  {
+    "id": "why-does-sugar-taste-sweet",
+    "title": "Why Does Sugar Taste Sweet? TAS1R2 and TAS1R3",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "question": "How can two proteins work together to detect sweetness, and what can a receptor image tell us about what an animal or person actually tastes?",
+    "expression": "RN compares three kinds of evidence in this Ask a Neuroscientist draft: images of a two-part receptor bound to sweeteners, a disrupted receptor gene in cats, and a human study in which participants ranked sucrose solutions. She explains how researchers locate a binding pocket, why a genetic finding is different from a taste test, and why the human variants studied account for only part of the variation between people.",
+    "boundary": "The Fat Nugs Magazine manuscript and receptor card remain held. The structures discussed show artificial sweeteners rather than table sugar bound to the receptor. They do not establish how sweet a person would find a substance, and the manuscript makes no dietary recommendation.",
+    "provenance": "The revised AaN manuscript, owner register and related card were compared. The receptor study was checked for the molecules and constructs actually imaged. Some earlier experiments are reported through later literature in RN’s draft."
   }
 ]
