@@ -8640,80 +8640,73 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (not data): feeling you understand and being able to explain are different tests",
-     "credit": "Fisher and Keil (2015), Cognitive Science",
-     "url": "https://cogdevlab.yale.edu/sites/default/files/files/Fisher2015.pdf",
+     "what": "From RN's Polymath essay of Sept 24, 2026",
+     "credit": "Text: RN Collins, The Polymath (Sept 24, 2026)",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/knowledge-is-not-finished-when-i-understand-it",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Illustration made for this post (not data): people rated how well they could explain a topic, wrote a full explanation, then rated again; ratings dropped",
-     "credit": "Fisher and Keil (2015), Cognitive Science",
-     "url": "https://cogdevlab.yale.edu/sites/default/files/files/Fisher2015.pdf",
+     "what": "From the abstract of Fisher and Keil's 2015 paper",
+     "credit": "Text: Fisher and Keil (2015), Cognitive Science, authors' PDF (Yale)",
+     "url": "https://doi.org/10.1111/cogs.12280",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (not data): graduates explaining topics from their own college major showed the same drop; expertise did not protect",
-     "credit": "Fisher and Keil (2015), Cognitive Science",
-     "url": "https://cogdevlab.yale.edu/sites/default/files/files/Fisher2015.pdf",
+     "what": "Chart of Fisher and Keil (2015), Experiment 2: graduates rated their ability to explain own-major topics 4.93 before writing an explanation and 3.97 after, on a 1 to 7 scale",
+     "credit": "Chart: AaN, from Fisher and Keil (2015) data",
+     "url": "https://doi.org/10.1111/cogs.12280",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post (not data): details learned once are forgotten, yet the topic still feels familiar, so people miss how much is gone",
-     "credit": "Fisher and Keil (2015), Cognitive Science",
-     "url": "https://cogdevlab.yale.edu/sites/default/files/files/Fisher2015.pdf",
+     "what": "From the 2015 abstract, the explanation",
+     "credit": "Text: Fisher and Keil (2015), Cognitive Science, authors' PDF (Yale)",
+     "url": "https://doi.org/10.1111/cogs.12280",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): after reading a text, students made a teaching video without notes, took a recall test, read a script aloud, or did a filler task",
-     "credit": "Kobayashi (2022), Frontiers in Psychology 13, on Koh et al. (2018)",
-     "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.842668/full",
+     "what": "From Kobayashi's 2022 review of the 2018 study",
+     "credit": "Text: Kobayashi (2022), Frontiers in Psychology 13:842668, CC BY 4.0",
+     "url": "https://doi.org/10.3389/fpsyg.2022.842668",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post (not data): the teaching video and recall groups understood more, about equally; the team credits retrieval; a 2022 review says it is open",
-     "credit": "Kobayashi (2022), Frontiers in Psychology 13, on Koh et al. (2018)",
-     "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.842668/full",
+     "what": "Chart of the effect sizes Kobayashi (2022) reports for Koh et al. (2018): video over script d 0.57, recall over script d 0.65, video versus recall d 0.10",
+     "credit": "Chart: AaN, from Kobayashi (2022) data",
+     "url": "https://doi.org/10.3389/fpsyg.2022.842668",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Sumner et al. 2014, BMJ, Figure 2: exaggeration in news was more common when the press release exaggerated",
-     "credit": "Sumner et al. (2014), BMJ 349:g7015, Figure 2 (CC BY 4.0)",
+     "what": "Sumner and colleagues' 2014 Advice result",
+     "credit": "Sumner et al. (2014), BMJ 349:g7015, cropped from Fig. 2, CC BY 4.0",
      "url": "https://doi.org/10.1136/bmj.g7015",
      "card": false
     },
     {
-     "where": "Slide 8",
-     "what": "Illustration made for this post (not data): limits: online and student samples; the press release study shows links, not causes",
-     "credit": "Fisher and Keil (2015); Koh et al. (2018); Sumner et al. (2014)",
-     "url": "https://cogdevlab.yale.edu/sites/default/files/files/Fisher2015.pdf",
-     "card": false
-    },
-    {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): the explanation test as a quiz: rate, explain, rate again, up or down?",
-     "credit": "Fisher and Keil (2015), Cognitive Science (method)",
-     "url": "https://cogdevlab.yale.edu/sites/default/files/files/Fisher2015.pdf",
+     "what": "From the 2015 method of Experiment 2",
+     "credit": "Text: Fisher and Keil (2015), Cognitive Science, authors' PDF (Yale)",
+     "url": "https://doi.org/10.1111/cogs.12280",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (not data): a teaching video without notes and a recall test gave about the same gain; the team credits retrieval",
-     "credit": "Kobayashi (2022), Frontiers in Psychology 13, on Koh et al. (2018)",
-     "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.842668/full",
+     "what": "The 2022 review on how settled it is",
+     "credit": "Text: Kobayashi (2022), Frontiers in Psychology 13:842668, CC BY 4.0",
+     "url": "https://doi.org/10.3389/fpsyg.2022.842668",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Text card made for this post: Known, inferred, and disputed or unknown: show all three (RN Collins, The Polymath (2026))",
-     "credit": "RN Collins, The Polymath (2026)",
+     "what": "From RN's Polymath essay, her working rule",
+     "credit": "Text: RN Collins, The Polymath (Sept 24, 2026)",
      "url": "https://polymath-rn-collins.beehiiv.com/p/knowledge-is-not-finished-when-i-understand-it",
-     "card": true
+     "card": false
     }
    ]
   },
@@ -74273,6 +74266,96 @@
      "what": "Unknown maker, Machinery Hall looking from east, 1 photograph : print on card mount and mount 9 x 18 cm (stereograph format), 1892, LOT 11538 [item] (Library of Congress)",
      "credit": "Library of Congress, Prints and Photographs Division (no known restrictions)",
      "url": "https://www.loc.gov/item/2023640196/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "nov-30-mjbpre02",
+   "date": "2026-11-30",
+   "time": "09:00 HST",
+   "id": "MJBPRE02",
+   "title": "What is MJBizCon? The 2026 floor by the numbers",
+   "origin": null,
+   "series": "Cannabis Science",
+   "research": [
+    {
+     "label": "Drug Enforcement Administration. (2026). Schedules of controlled substances: Rescheduling of Food and Drug Administration approved products containing marijuana from schedule I to schedule III; corresponding change to permit requirements. Federal Register, 91(81), 22714-22723 (AG Order No. 6754-2026; govinfo.gov PDF read in full Nov 7, 2026; public domain)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08176.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "MJBizCon. (2026). 2026 MJBizCon exhibitor list [Online directory] (official directory, compiled into fatnugs/mjbizcon-2026/exhibitors.csv on Oct 27, 2026, one row per booth listing; categories are our own one-category sort; facts only; the live list was rechecked Nov 7, 2026: 461 booth links and the Dec 2 to 4 expo days in its meeting planner)",
+     "url": "https://mjbiz.a2zinc.net/MJBIZCON2026/public/eventmap.aspx"
+    },
+    {
+     "label": "Seedless Media. (n.d.). MJBizCon 2026: The insider guide for cannabis pros (third-party guide; read in full Nov 7, 2026, 1,578 words; facts only; the organiser's own pages refuse automated requests)",
+     "url": "https://seedless.media/mjbizcon-2026-insider-guide-cannabis-pr/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Chart drawn to scale for this post in code by Claude, persona Show-directory compositor (draft), Chart: AaN, from MJBizCon 2026 directory data (our count, Oct 27, 2026): booth listings, companies and exhibiting companies",
+     "credit": "MJBizCon 2026 exhibitor directory (our count, Oct 27, 2026)",
+     "url": "https://mjbiz.a2zinc.net/MJBIZCON2026/public/eventmap.aspx",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Chart drawn to scale for this post in code by Claude, persona Show-directory compositor (draft), Chart: AaN, from Seedless Media (n.d.) data: show days and opening hours",
+     "credit": "Seedless Media (n.d.), MJBizCon 2026 insider guide",
+     "url": "https://seedless.media/mjbizcon-2026-insider-guide-cannabis-pr/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Chart drawn to scale for this post in code by Claude, persona Show-directory compositor (draft), Chart: AaN, from MJBizCon 2026 directory data (our count, Oct 27, 2026): the three largest groups of booth listings",
+     "credit": "MJBizCon 2026 exhibitor directory (our count, Oct 27, 2026)",
+     "url": "https://mjbiz.a2zinc.net/MJBIZCON2026/public/eventmap.aspx",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Chart drawn to scale for this post in code by Claude, persona Show-directory compositor (draft), Chart: AaN, from MJBizCon 2026 directory data (our count, Oct 27, 2026): lab testing, medical and research, impairment testing",
+     "credit": "MJBizCon 2026 exhibitor directory (our count, Oct 27, 2026)",
+     "url": "https://mjbiz.a2zinc.net/MJBIZCON2026/public/eventmap.aspx",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Drug Enforcement Administration (2026), Federal Register 91 FR 22714 to 22715: text crop of the order's own lines on its scope (an FDA-approved drug product or a state-issued license to manufacture, distribute and/or dispense marijuana for medical purposes) and its DATES line, Effective April 28, 2026",
+     "credit": "Drug Enforcement Administration (2026), Federal Register 91 FR 22714, text crop (public domain)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08176.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Drug Enforcement Administration (2026), Federal Register 91 FR 22719: text crop of the order's own sentence that any form of marijuana other than in an FDA-approved drug product or marijuana subject to a state medical marijuana license remains a schedule I controlled substance",
+     "credit": "Drug Enforcement Administration (2026), Federal Register 91 FR 22719, text crop (public domain)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08176.pdf",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "MJBizCon 2026 exhibitor directory (our count, Oct 27, 2026)",
+     "url": "https://mjbiz.a2zinc.net/MJBIZCON2026/public/eventmap.aspx",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "MJBizCon 2026 exhibitor directory (our count, Oct 27, 2026)",
+     "url": "https://mjbiz.a2zinc.net/MJBIZCON2026/public/eventmap.aspx",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Illustration made for this post, drawn in code by Claude, persona Show-directory compositor (draft): a poll prompt with schematic listing lines, not data",
+     "credit": "MJBizCon 2026 exhibitor directory (our count, Oct 27, 2026)",
+     "url": "https://mjbiz.a2zinc.net/MJBIZCON2026/public/eventmap.aspx",
      "card": false
     }
    ]
