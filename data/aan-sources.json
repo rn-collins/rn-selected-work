@@ -4,7 +4,7 @@
  "posts": [
   {
    "slug": "jul-26",
-   "date": "2026-10-26",
+   "date": "2026-11-15",
    "id": "API082",
    "title": "Does naming a feeling change it? What affect labeling research shows",
    "origin": null,
@@ -122,11 +122,12 @@
      "url": "https://wellcomecollection.org/works/zynajtfz",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "jul-25-api068",
-   "date": "2026-10-27",
+   "date": "2026-11-16",
    "id": "API068",
    "title": "Are sports norms built on men's data? Sex differences in training and performance research",
    "origin": null,
@@ -244,11 +245,12 @@
      "url": "https://wellcomecollection.org/works/cer4jesv",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "sep-05",
-   "date": "2026-10-28",
+   "date": "2026-11-17",
    "id": "CV14",
    "title": "John Dalton described his own color vision in 1794, and asked for his eye to be examined",
    "origin": null,
@@ -350,11 +352,12 @@
      "url": "https://wellcomecollection.org/works/raa3pega",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "oct-29-ns01",
-   "date": "2026-10-29",
+   "date": "2026-11-20",
    "id": "NS01",
    "title": "Why does the same evening lamp affect some people far more than others? Melatonin and a 50-fold range",
    "origin": null,
@@ -452,11 +455,12 @@
      "url": "https://www.metmuseum.org/art/collection/search/202395",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "oct-30-ni04",
-   "date": "2026-10-30",
+   "date": "2026-11-22",
    "id": "NI04",
    "title": "Is a brighter room a calmer room? Morning light, sleep and what the evidence can support",
    "origin": null,
@@ -566,11 +570,12 @@
      "url": "https://www.metmuseum.org/art/collection/search/199390",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "jul-03",
-   "date": "2026-10-31",
+   "date": "2026-12-05",
    "id": "RC17",
    "title": "Receptor cards: MT1 and MT2, how your brain hears the night signal",
    "origin": null,
@@ -718,11 +723,12 @@
      "url": "https://www.rcsb.org/structure/6ME5",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "nov-01",
-   "date": "2026-11-01",
+   "date": "2026-11-29",
    "id": "111",
    "title": "Illuminated Overgrowth: Duckweed Biocomposites",
    "origin": {
@@ -837,11 +843,12 @@
      "url": "https://ddw.nl/en/programme/illuminated-overgrowth",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "nov-02-ns03",
-   "date": "2026-11-02",
+   "date": "2026-12-28",
    "id": "NS03",
    "title": "Does keeping regular sleep times matter more than sleep length? What 61,000 activity trackers showed",
    "origin": null,
@@ -943,11 +950,12 @@
      "url": "https://www.metmuseum.org/art/collection/search/8149",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "nov-03-ns37",
-   "date": "2026-11-03",
+   "date": "2026-12-03",
    "id": "NS37",
    "title": "Is it the blue light or the scrolling? What screen studies show about sleep",
    "origin": null,
@@ -1049,11 +1057,12 @@
      "url": "https://www.loc.gov/item/2013647232/",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "nov-04-kb55",
-   "date": "2026-11-04",
+   "date": "2026-12-04",
    "id": "KB55",
    "title": "How a plant seals a cut: callus, suberin and walls",
    "origin": null,
@@ -1166,11 +1175,12 @@
      "url": "https://www.metmuseum.org/art/collection/search/306321",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "nov-05",
-   "date": "2026-11-05",
+   "date": "2027-02-25",
    "id": "NL01",
    "title": "First follow-up report on the Dutch closed coffeeshop chain experiment",
    "origin": {
@@ -1297,11 +1307,12 @@
      "url": "https://www.rijksmuseum.nl/en/collection/object/Plattegrond-van-de-Vesting-Hellevoetsluis--baef298cdf2cb38185879a7f6c4b6fe5",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "oct-31",
-   "date": "2026-11-06",
+   "date": "2026-12-07",
    "id": "47",
    "title": "Overload",
    "origin": {
@@ -1435,11 +1446,12 @@
      "url": "https://doi.org/10.3758/s13421-025-01711-2",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "nov-18",
-   "date": "2026-11-07",
+   "date": "2027-02-28",
    "id": "EB01",
    "title": "Does a trip scramble your brain? The entropic brain debate",
    "origin": {
@@ -1561,11 +1573,12 @@
      "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3f82/3909994/98a0d7ce2046/fnhum-08-00020-g0005.jpg",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "nov-08",
-   "date": "2026-11-08",
+   "date": "2026-12-16",
    "id": "89",
    "title": "Ways of Seeing",
    "origin": {
@@ -1700,11 +1713,12 @@
      "url": "https://ncscolour.com/pages/dutch-design-week-2026",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "may-30-2028",
-   "date": "2026-11-09",
+   "date": "2027-03-04",
    "id": "CLRA5",
    "title": "Why does fear stick in PTSD? Brain imaging, extinction and a psilocybin safety trial in PTSD",
    "origin": null,
@@ -1827,11 +1841,12 @@
      "url": "https://news.va.gov/press-room/va-funds-first-study-on-psychedelic-assisted-therapy-for-veterans/",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "nov-10",
-   "date": "2026-11-10",
+   "date": "2026-12-18",
    "id": "46",
    "title": "IK ZIE JE",
    "origin": {
@@ -1953,11 +1968,12 @@
      "url": "https://app-api.ddw.nl/en/programme/ik-zie-je",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "nov-03",
-   "date": "2026-11-11",
+   "date": "2026-12-21",
    "id": "23",
    "title": "Electric Grand: Walk inside a Piano",
    "origin": {
@@ -2115,11 +2131,12 @@
      "url": "https://doi.org/10.1371/journal.pone.0059815",
      "card": false
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "nov-04",
-   "date": "2026-11-12",
+   "date": "2026-12-23",
    "id": "08",
    "title": "Colonic Cleansing Clinic",
    "origin": {
@@ -2254,7 +2271,8 @@
      "url": "https://doi.org/10.1371/journal.pone.0328215",
      "card": true
     }
-   ]
+   ],
+   "time": "09:00 HST"
   },
   {
    "slug": "nov-13-pb03",
@@ -7793,7 +7811,7 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "From Block, Hancock and Zakay's 2010 abstract",
+     "what": "From the 2010 meta-analysis by Block and colleagues",
      "credit": "Text: Block, Hancock and Zakay (2010), Acta Psychologica 134:330-343 (authors' copy; quoted)",
      "url": "https://www.montana.edu/rblock/documents/papers/BlockHancockZakay2010.pdf",
      "card": false
@@ -7814,7 +7832,7 @@
     },
     {
      "where": "Slide 4",
-     "what": "From Block, Hancock and Zakay's 2010 abstract",
+     "what": "From the 2010 meta-analysis by Block and colleagues",
      "credit": "Text: Block, Hancock and Zakay (2010), Acta Psychologica 134:330-343 (authors' copy; quoted)",
      "url": "https://www.montana.edu/rblock/documents/papers/BlockHancockZakay2010.pdf",
      "card": false
@@ -7856,7 +7874,7 @@
     },
     {
      "where": "Story 2",
-     "what": "The title of Block, Hancock and Zakay's 2010 review, the source for the in-the-moment and looking-back pattern: 'How cognitive load affects duration judgments: A meta-analytic review'",
+     "what": "The 2010 meta-analysis title, by Block and colleagues",
      "credit": "Text: Block, Hancock and Zakay (2010), Acta Psychologica 134:330-343 (authors' copy; quoted)",
      "url": "https://www.montana.edu/rblock/documents/papers/BlockHancockZakay2010.pdf",
      "card": false

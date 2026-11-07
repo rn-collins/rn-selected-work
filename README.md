@@ -82,13 +82,10 @@ that each page goes live on its own post date. `AAN_PAUSE` in `scripts/sync_rele
 Hawaii) open each page on its day. The first pages after the lift are Fri Nov 13, 2026 (both the 12:00 and the 9:00 HST
 lanes). To pause again, set `AAN_PAUSE` to a date and rerun `python3 scripts/sync_releases.py`.
 
-Thirteen 12:00-lane posts of Oct 31 to Nov 12, 2026 never went out and post late in the 9:00 lane
-(`late_from` rows of `calendar/slot2.json` in rn-content-second-brain), but `data/aan-sources.json` still carries their
-old dates. They are kept at `hold: true` by hand so they do not go live early: `aan/jul-03` (RC17, Dec 5), `nov-01`
-(111, Nov 29), `nov-02-ns03` (NS03, Dec 28), `nov-03-ns37` (NS37, Dec 3), `nov-04-kb55` (KB55, Dec 4), `nov-05`
-(NL01, Feb 25, 2027), `oct-31` (47, Dec 7), `nov-18` (EB01, Feb 28, 2027), `nov-08` (89, Dec 16), `may-30-2028`
-(CLRA5, Mar 4, 2027), `nov-10` (46, Dec 18), `nov-03` (23, Dec 21), `nov-04` (08, Dec 23). Set each one's `hold` to
-false on its real post day, or once the export carries the real date. RN Collins pieces are not affected.
+Late posts (12:00-lane posts of Oct 26 to Nov 12, 2026 that never went out and post late in the 9:00 lane, the
+`late_from` rows of `calendar/slot2.json` in rn-content-second-brain) keep their printed address, and since Nov 7 the
+export (`renders/sources_export.py`) dates them by their real 9:00 posting day, so each opens on that day with no hand
+hold. RN Collins pieces are not affected.
 
 ## RN Collins release pause (RN, Oct 30, 2026)
 
