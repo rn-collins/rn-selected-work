@@ -743,3 +743,7 @@ The package build rejects restoration of the three withdrawn paths and byte-iden
 ## Continuation084 — three AaN teaching manuscripts
 
 201 → 204 entries. Each held manuscript is one work with its companion card. The chili manuscript and card have conflicting planning dates; neither is evidence of publication. No draft or media links. Earlier Added to Chapter essay/appendix remains one work with the prior hosted verification; its interrupted local build is not recertified. Selected Works owns review integration; AaN owns source release. Metadata cursor 925→943, then compare the Harvest of Dreams exhibit and RN’s distinct essay at 925/926. [Verification receipt](https://github.com/rn-collins/rn-selected-work/pull/41#issuecomment-6708662386).
+
+## Continuation085 — Dutch Design Week essays
+
+204 → 208 Ideas entries; four held essays, no exhibits or versions counted separately. Current Farming Future Foundations manuscript supersedes the older roadside-grass title. RN identifies Building TX but no title panel in the photo. JOYN planning dates conflict. All four owner records drafted, without release URLs. Selected Works owns gallery review; AaN retains releases. Source cursor 943→960, next compare Eat It! and its essay (948/949); next index row 960. Prior Added to Chapter appendix disposition and historical local-build limitation stand. [Verification](https://github.com/rn-collins/rn-selected-work/pull/41#issuecomment-6709434150).
