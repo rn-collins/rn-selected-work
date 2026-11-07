@@ -2382,5 +2382,35 @@
     "workStatus": "Published",
     "parentId": "high-culture",
     "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/a-meal-on-mushrooms"
+  },
+  {
+    "id": "what-if-air-could-do-the-job-of-a-mold",
+    "title": "What If Air Could Do the Job of a Mold? What the Flax",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist",
+    "held": true,
+    "releaseHeld": true,
+    "question": "What can exhibition listings and engineering research establish about shaping plant fibres without a conventional mold?",
+    "expression": "RN’s prepared Ask a Neuroscientist column examines Benedikt Trojer’s What the Flax project through the Dutch Design Week archive and the designer’s institutional profile. For readers interested in materials, agriculture and design, it connects the described sewn and inflated flax composites with a history of fibre flax and a separate engineering study of robot-wound flax and timber. RN explains the difference between inflation and winding, compares an exhibition account with a research paper and an industry release, and follows the questions each leaves open about strength, resin, recycling and farming. RN’s evidenced role is documentary research, synthesis and explanatory writing; the installation and structural experiments belong to their credited designers and researchers.",
+    "boundary": "The current AaN owner record and complete manuscript identify a Fat Nugs draft planned for May 13, 2027, with no publication URL. It remains held. The installation account comes from listings and a profile; attendance, material testing and economic outcomes are not established. The separate pavilion study uses winding rather than inflation and cannot establish the performance of Trojer’s objects. The manuscript reports a partly bio-based resin, unresolved recycling and no full-scale structural test; a simplified weight comparison is not a product-performance guarantee. The related upload excerpt retains a claim about avoiding non-recyclable binders that the current longform does not establish. Primary papers, quotations, numerical comparisons, images and reuse rights have not been independently verified in this portfolio review. Related upload and manuscript records are one work, and source publication and media release remain with the existing editorial owner.",
+    "provenance": "Complete current manuscript, including its six-source bibliography, and the corresponding AaN owner row reviewed November 6, 2026. The related upload received excerpt and metadata comparison only. No private manuscript link, finished-media claim or publication permission is supplied."
+  },
+  {
+    "id": "melanopsin-and-the-body-clock",
+    "title": "The Eye Cells That Do Not See: Melanopsin and the Body Clock",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist",
+    "held": true,
+    "releaseHeld": true,
+    "question": "How do researchers separate the eye’s role in setting the body clock from its role in seeing?",
+    "expression": "RN’s prepared Ask a Neuroscientist column introduces melanopsin, a light-sensitive protein in some retinal ganglion cells, for general readers curious about perception and daily rhythms. The manuscript follows accounts of rat experiments, mouse studies and a small human study, then compares them with later reviews discussing brightness perception and the difficulty of isolating one light-sensing pathway. RN explains differences between animal and human evidence, identifies where original papers were unavailable and distinguishes a university news release from a full research article or review. RN’s evidenced role is research synthesis and explanatory writing; she did not conduct the experiments. The draft and its related receptor-card package form one recovered work.",
+    "boundary": "The current AaN owner record and complete manuscript identify a Fat Nugs draft planned for May 15, 2027, with no publication URL. It remains held. Several early experiments are described through news releases and reviews because the source says the original papers were unavailable. The human account involves two people tested on different measures and retains uncertainty about residual rods and cones; it cannot establish universal effects. The title and opening say these cells do not serve seeing, while later sections discuss brightness awareness and visual processing. That internal inconsistency needs editorial resolution, as does the breadth of the closing claim about thin human evidence. Scientific claims, study interpretations, quotations, images and rights have not been independently cleared in this portfolio review. The piece supplies no light, sleep or screen regimen, and no completed video or published article is claimed.",
+    "provenance": "Complete current manuscript, including its eight-source bibliography, and the corresponding AaN owner row reviewed November 6, 2026. The related upload received excerpt and metadata review only; it is not counted as another essay. Source publication and media decisions remain with the existing AaN editorial owner."
   }
 ]
