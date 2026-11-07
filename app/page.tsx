@@ -254,31 +254,6 @@ export default function Home() {
                 </a>
               </div>
             </article>
-            <article>
-              <h3>Aloha Intelligence Institute</h3>
-              <p>
-                An independently developed institutional-design proposal
-                examining how a Hawaiʻi-focused AI institute could move from
-                legislative concept toward a defined mandate, governance model,
-                stakeholder process, and implementable launch.
-              </p>
-              <div className="actionrow">
-                <Link href="/advisory/aloha-intelligence-institute">
-                  Read case study →
-                </Link>
-                <a
-                  href="/documents/aloha-intelligence-institute-decision-brief.pdf"
-                  download
-                >
-                  Download brief ↓
-                </a>
-              </div>
-              <small>
-                Prepared for consideration by Senator Stanley Chang's office.
-                Not commissioned by or produced on behalf of the State of
-                Hawaiʻi.
-              </small>
-            </article>
           </div>
         </div>
       </section>
