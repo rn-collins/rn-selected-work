@@ -2460,5 +2460,35 @@
     "expression": "RN’s Herbal Histories essay follows a claim about discovery back to the pages of a German pharmacology journal. For readers of science and history, she distinguishes the year of the Leipzig experiments from the later issue in which the paper appeared. She translates passages, reconstructs a sequence of comparisons, and traces earlier human reports and the routes by which cactus material and knowledge reached the laboratory. Her annotated ledger shows what Heffter recorded, including uncertainty and missing dates. The essay separates isolating a compound from discovering a plant or practice, and a single observer’s account from a controlled experiment. A narrower draft companion compares that historical evidence with a modern clinical trial and a receptor structure; neither can reconstruct what Heffter experienced.",
     "boundary": "The Polymath published this essay under RN Collins’s byline. Its source gives two dates for the first experiment, June 5 and July 6; the companion uses June 5 without retaining the conflict. Earlier research and Indigenous knowledge reach parts of the account through intermediaries. The proposed link between ceremonial practice and the experimental design is an interpretation, and the Sertürner comparison rests on a tertiary account. The essay’s narrow priority claim is bounded by the records consulted. Historical quotations, translations, image permissions and broader scientific claims have not been independently cleared. The companion remains an unpublished draft with no public link; its possible separate publication or use in a video is undecided.",
     "provenance": "Current publisher metadata, the complete essay with captions and evidence notes, the complete Leipzig companion, and the AaN owner record were reviewed November 6, 2026. Limited checks of the cited trial abstract and deposited receptor structure do not verify the historical narrative or clear the derivative for release."
+  },
+  {
+    "id": "the-museum-a-cigar-built",
+    "title": "The Museum a Cigar Built: Eindhoven’s Tobacco Past and Nicotine’s Receptors",
+    "question": "What can a museum’s founding records tell us about Eindhoven’s cigar trade, and what can receptor research tell us about nicotine?",
+    "expression": "RN’s Ask a Neuroscientist draft puts two histories side by side for readers interested in Eindhoven, public art and neuroscience. It traces tobacco work through a local history sheet and the museum’s own account of its founder. It then explains how nicotine interacts with receptors that normally respond to acetylcholine, comparing a molecular structure, mouse research and a reanalysis of human brain scans. RN’s contribution is documentary research, translation and explanatory writing. She distinguishes what each source measures: residents counted by a local historian, financial support recorded by a museum, and receptor signals measured in research participants.",
+    "boundary": "The AaN owner record identifies a held Fat Nugs draft with no publication URL. The tobacco-worker estimate comes from one secondary source and uses all residents as its denominator. The museum account identifies its funder but does not establish which income paid for the building. The manuscript finds no documented supply link between the pictured plantations and Eindhoven factories. The human study concerns people who stopped smoking cigarettes, not cigar use or a tested treatment; the groups differed in age. No comparative product, clinical or image-rights claim is made here.",
+    "provenance": "Complete revised manuscript and seven references compared with the editorial owner record. Its November 2026 working date differs from the May 2027 planning date in that register. Neither date verifies publication.",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist"
+  },
+  {
+    "id": "make-something-from-food",
+    "title": "Make Something From Food: Do We Like What We Make?",
+    "question": "Does making food change how much people like it, and what would it take to show that at a design festival?",
+    "expression": "RN’s draft column introduces Sofia Yotova’s Hidden Potential of Food playground through its programme listings. Yotova designed the installation; RN did not visit it. For readers interested in food and design, RN compares experiments about objects people build, a self-prepared milkshake and vegetable snacks children fashioned into peacocks. She also examines a review of food photography and research on acceptance of unfamiliar foods. Her contribution is comparing the tasks, participants and outcomes across studies and asking which findings could reasonably carry over to visitors making something out of edible materials.",
+    "boundary": "The AaN owner register identifies a held Fat Nugs draft with no reading URL. The current manuscript does not assume visitors photographed or ate what they made: its account says that wording disappeared from the programme listing. Several early studies were available to the writer only through another paper. The conclusion mentions healthy versus unhealthy food in women without tracing that comparison in the preceding evidence; it needs editorial review. None of the studies tested the installation or showed that food play changes acceptance of unfamiliar foods.",
+    "provenance": "Complete current manuscript and eight references compared with the AaN owner record. Its revised title supersedes the index title for this description. The older working date and June 2027 planning date are not publication dates; the related upload is part of the same work.",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist"
   }
 ]
