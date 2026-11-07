@@ -48,7 +48,7 @@ AAN_PAUSE = ""
 AAN_PREFIXES = ("aan/", "aan-f/")
 # Paused by RN on Oct 30, 2026 (switched on Nov 1): no RN Collins piece goes live on its own until every RN Collins
 # content package is complete. Covers every piece that is not AaN.
-RNC_PAUSE = "2026-11-01"
+RNC_PAUSE = ""  # lifted by RN, Nov 7, 2026: each RN Collins page goes live on its post date
 ESSAY_ACCOUNTS = ["ddw26", "venues", "makers", "editions", "dda", "ddw27", "kbyg"]
 
 

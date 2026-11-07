@@ -97,11 +97,10 @@ Late posts (12:00-lane posts of Oct 26 to Nov 12, 2026 that never went out and p
 export (`renders/sources_export.py`) dates them by their real 9:00 posting day, so each opens on that day with no hand
 hold. RN Collins pieces are not affected.
 
-## RN Collins release pause (RN, Oct 30, 2026)
+## RN Collins release pause (RN, Oct 30, 2026; lifted by RN, Nov 7, 2026)
 
-No RN Collins page goes live on its own until every RN Collins content package is complete. `RNC_PAUSE` in
-`scripts/sync_releases.py` holds every piece that is not AaN (tfh, ddw26, ioo, polymath, clr, film, makers, museum and
-the rest) that was not live on Nov 1, 2026 (`hold: true`, `"pausedOn": "2026-11-01"`, `releasedAt` kept), and holds any
-such piece added later the same way. The 864 RN Collins pages live on Nov 1 stay live; 366 are held. The daily
-`/api/release-day` cron only refreshes pages, so it cannot open a held piece. AaN pieces are not affected.
-To undo, set `RNC_PAUSE = ""` and run `python3 scripts/sync_releases.py`, which restores every paused entry exactly.
+RN lifted the pause on Nov 7, 2026 ("yes to both"): `RNC_PAUSE = ""`, so each RN Collins page goes live on its own post
+date (`releasedAt`, Hawaii date) and undated pieces stay hidden. Eleven pieces whose dates fell during the pause
+(Nov 2 to 7) are kept at `hold: true` by hand so they do not open today without a fresh date: film/fc-01, fc-02, fc-03,
+fc-04, fc-15, fc-22, htw/c14-03, ioo/c01-p02, ioo/c01-p06, museum/mus-eip-01, polymath/pm-rnc-07. RN Collins re-dates
+them (or sets `hold` false if they were posted). AaN pieces are not affected.
