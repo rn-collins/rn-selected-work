@@ -3,6 +3,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { SocialRow } from "../../components/social-row";
 import { builds } from "../../lib/builds";
+import socialLinks from "../../data/social-links.json";
+
+const linkedIn = socialLinks.rn.accounts.find(account => account.id === "linkedin")!;
 
 export const metadata: Metadata = {
   alternates: { canonical: "/connect" },
@@ -28,11 +31,10 @@ export default function ConnectPage() {
           <p className="connectRoles">Neuroscientist · Fractional Law Clerk · AI Technologist</p>
           <p className="connectPositioning">I work across—and in between—science, law, technology, culture, and institutions. I connect the dots, reveal the gaps, and build what is missing.</p>
           <div className="connectActions" aria-label="Contact options">
-            <a className="button" href="https://www.instagram.com/rn_collins/" target="_blank" rel="noreferrer">Instagram DM ↗</a>
-            <a className="button secondary" href="https://www.linkedin.com/in/rn-collins" target="_blank" rel="noreferrer">LinkedIn ↗</a>
+            <a className="button" href={linkedIn.url} target="_blank" rel="noreferrer">Contact RN on LinkedIn ↗</a>
             <a className="button secondary" href="/rn-collins.vcf" download>Save contact</a>
           </div>
-          <p className="dmLine">DMs are open on Instagram at @rn_collins.</p>
+          <p className="dmLine">LinkedIn is my preferred contact channel.</p>
           <SocialRow set="rn" />
         </div>
       </header>
@@ -89,7 +91,7 @@ export default function ConnectPage() {
           <div>
             <h2>A message with the situation rather than the brief.</h2>
             <p>
-              Instagram is the quickest route; LinkedIn is fine for an introduction. What
+              Contact me on LinkedIn for project enquiries, collaborations and introductions. What
               helps most in a first message is the situation itself — what keeps happening,
               who it affects, why it matters now, and what has already been tried. A brief
               is a hypothesis about the problem, and it is worth checking before anyone
