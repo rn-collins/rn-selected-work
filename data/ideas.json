@@ -2975,5 +2975,50 @@
     "expression": "RN compares the visual, tactile, acoustic and olfactory qualities of wood with findings from studies of stress and attention. She moves from classrooms, healthcare settings and civic interiors to questions that material specifications have to answer: where the timber came from, how it will be maintained and what happens to it at the end of its use. She separates the sensory argument from the carbon-storage argument.",
     "boundary": "This is a published journal article, not a material test RN conducted. The studies reviewed do not establish a universal physiological benefit from wood. Carbon claims depend on sourcing and use, and some numerical claims in the derivative package still need verification. The later social package remains a draft and is not linked here.",
     "provenance": "Journal of Biophilic Design, issue 22 (Wood). RN is the credited author. The article text on Selected Works matches the text used in the later companion package. Its carousel specification and reel script do not establish that either was produced or published."
+  },
+  {
+    "id": "why-does-a-mosquito-bite-itch",
+    "title": "Why Does a Mosquito Bite Itch?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "question": "Why can a tiny bite demand so much attention, and what do researchers actually measure when they say scratching brings relief?",
+    "expression": "RN wrote this Ask a Neuroscientist essay for readers curious about an everyday skin reaction. She follows the proposed routes from mosquito saliva to an itch signal, then compares three kinds of evidence: mice scratching after an experimental stimulus, recordings from spinal neurons in monkeys, and people describing their own bites. The comparison shows why a change in a neuron’s activity and a person’s report of relief answer different questions.",
+    "boundary": "Drafted for the Fat Nugs Magazine column. The monkey experiment used histamine, not mosquito bites; it cannot establish how much relief scratching gives a person. The draft and its receptor card remain held.",
+    "provenance": "The full AaN manuscript identifies its intended column. The companion card record covers the same question; the two are counted together."
+  },
+  {
+    "id": "why-does-stress-make-your-heart-pound",
+    "title": "Why Does Stress Make Your Heart Pound?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "question": "Your heart can start pounding as soon as you stand to speak. Is that the same response researchers measure when they take a cortisol sample later?",
+    "expression": "For this Ask a Neuroscientist essay, RN traces the question from Walter Cannon’s animal experiments to mock interviews and mental arithmetic in human stress studies. She explains what Cannon measured using a strip of intestinal muscle, why that was not a recording of a heartbeat, and how researchers use different measurements for the fast nerve response and the slower hormone response. She then asks what a study following workers over years can say about job strain.",
+    "boundary": "Drafted for Fat Nugs Magazine. The job-strain study reports an association across groups; it cannot establish what caused an individual’s heart disease. The manuscript flags a remaining full-paper check in its immunity section. The draft and its Brain and Body card remain held.",
+    "provenance": "The full AaN manuscript identifies its intended column. The companion card record covers the same question; the two are counted together."
+  },
+  {
+    "id": "why-does-chili-feel-hot",
+    "title": "Why Does Chili Feel Hot?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "question": "What makes a pepper feel hot even when the food is cool? And why would the same pepper produce a different response in another animal?",
+    "expression": "RN wrote this Ask a Neuroscientist essay about TRPV1, a channel that can respond to both capsaicin and heat. She walks readers through the experiment that made previously unresponsive cells respond to capsaicin, then compares structural studies with observations in chickens, mice and tree shrews. The tree-shrew example lets her separate sensitivity to the chemical in chili from sensitivity to heat itself.",
+    "boundary": "Drafted for Fat Nugs Magazine. The essay distinguishes animal and cell experiments from human preferences, and treats the suggested evolutionary explanation as a hypothesis. The manuscript and its receptor card remain held; their planning dates differ and do not establish a release.",
+    "provenance": "The full AaN manuscript identifies its intended column. The companion card record covers the same question; the two are counted together."
   }
 ]

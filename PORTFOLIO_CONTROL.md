@@ -739,3 +739,7 @@ The package build rejects restoration of the three withdrawn paths and byte-iden
 ## Continuation083 — Journal of Biophilic Design
 
 196 → 201 Ideas entries. Five published articles from issues 17, 18, 20, 21 and 22 now link to their existing full-text reading pages. Each later social package uses the corresponding article; across all five, 289 section texts match in order after whitespace normalization. Package status is draft pending RN review; no carousel, reel or companion is newly released. All prior entries unchanged; prior Added to Chapter reconciliation stands, as do the privacy holds. PR38/25 untouched. Index metadata 912→925; next compare the itch card/manuscript pair at 918/919. Selected Works owns integration review; package owner retains derivative review. [Verification receipt](https://github.com/rn-collins/rn-selected-work/pull/41#issuecomment-6707902535).
+
+## Continuation084 — three AaN teaching manuscripts
+
+201 → 204 entries. Each held manuscript is one work with its companion card. The chili manuscript and card have conflicting planning dates; neither is evidence of publication. No draft or media links. Earlier Added to Chapter essay/appendix remains one work with the prior hosted verification; its interrupted local build is not recertified. Selected Works owns review integration; AaN owns source release. Metadata cursor 925→943, then compare the Harvest of Dreams exhibit and RN’s distinct essay at 925/926. [Verification receipt](https://github.com/rn-collins/rn-selected-work/pull/41#issuecomment-6708662386).
