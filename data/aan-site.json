@@ -367,6 +367,11 @@
    "releasedAt": "2026-12-28",
    "hold": false
   },
+  "dec-29": {
+   "path": "/posts/dec-29/",
+   "releasedAt": "2026-12-29",
+   "hold": false
+  },
   "dec-31-pdh01": {
    "path": "/posts/dec-31-pdh01/",
    "releasedAt": "2026-12-31",
@@ -559,15 +564,15 @@
    "key": "reader-qa",
    "title": "Reader Q&A",
    "path": "/reader-qa/",
-   "releasedAt": "2027-01-06",
-   "hold": true
+   "releasedAt": "2026-11-13",
+   "hold": false
   },
   {
    "key": "glossary",
    "title": "Glossary, A to Z",
    "path": "/terms/",
-   "releasedAt": "",
-   "hold": true
+   "releasedAt": "2026-11-13",
+   "hold": false
   }
  ]
 }
