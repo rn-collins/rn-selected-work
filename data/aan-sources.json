@@ -9392,66 +9392,66 @@
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Ozturkkan Menda, RELISH: wearable glass and ceramic pieces for eating (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/relish",
-     "card": true
+     "what": "RELISH pieces on the table, photo courtesy of Jasmin Ozturkkan Menda / Dutch Design Week press kit",
+     "credit": "Photo: courtesy of Jasmin Ozturkkan Menda / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/programme/2348/press-kit.zip",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (not data): wearable objects that change eating gestures such as holding, dipping and licking through touch and movement",
-     "credit": "DDW 2026 listing, RELISH",
-     "url": "https://ddw.nl/en/programme/relish",
+     "what": "From the DDW 2026 listing for the work",
+     "credit": "Text: DDW 2026 listing, RELISH",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/relish",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Diagram made for this post (not data): in the lab study, yoghurt eaten from a lighter spoon was rated denser and more expensive than from a heavier spoon (Harrar and Spence, 2013, the first figure)",
-     "credit": "Harrar and Spence (2013), Flavour 2:21",
-     "url": "https://doi.org/10.1186/2044-7248-2-21",
+     "what": "From the 2013 study's abstract",
+     "credit": "Text: Harrar and Spence (2013), Flavour 2:21, CC BY 2.0",
+     "url": "https://ora.ox.ac.uk/objects/uuid:df57b075-204d-4edb-8eb8-52390ea8f8a3",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): 121 diners liked food more with heavy banquet cutlery than with light canteen cutlery; diners chose their own seats",
-     "credit": "Michel, Velasco and Spence (2015), Flavour 4:26",
-     "url": "https://flavourjournal.biomedcentral.com/track/pdf/10.1186/s13411-015-0036-y",
+     "what": "Chart of Michel et al. (2015): 121 diners rated liking of the same food 5.7 with heavy banquet cutlery and 5.1 with light canteen cutlery",
+     "credit": "Chart: AaN, from Michel et al. (2015) data",
+     "url": "https://doi.org/10.1186/s13411-015-0036-y",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post (not data): a rough cup made experts rate coffee more acidic; amateurs rated it sweeter from a smooth cup; the cups also differed in weight",
-     "credit": "Carvalho, Moksunova and Spence (2019)",
+     "what": "Chart of Carvalho et al. (2019): the smooth porcelain cup weighed 173.0 g and the rough ceramic cup 142.1 g",
+     "credit": "Chart: AaN, from Carvalho et al. (2019) data",
      "url": "https://ora.ox.ac.uk/objects/uuid%3A517c3980-7e53-462b-a6f0-a92d6131142f/files/m82a82373a69c00fbb51e8be69563fcec",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): the eating gestures RELISH plays with: hold, dip, lick",
-     "credit": "DDW 2026 listing, RELISH",
-     "url": "https://ddw.nl/en/programme/relish",
+     "what": "From the 2013 study's conclusions",
+     "credit": "Text: Harrar and Spence (2013), Flavour 2:21, CC BY 2.0",
+     "url": "https://ora.ox.ac.uk/objects/uuid:df57b075-204d-4edb-8eb8-52390ea8f8a3",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): RELISH: glass and ceramic worn while eating, and new gestures for eating",
-     "credit": "DDW 2026 listing, RELISH",
-     "url": "https://ddw.nl/en/programme/relish",
+     "what": "RELISH pieces in use, photo courtesy of Jasmin Ozturkkan Menda / Dutch Design Week press kit",
+     "credit": "Photo: courtesy of Jasmin Ozturkkan Menda / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/programme/2348/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (not data): food was liked more with heavy banquet cutlery than with light canteen cutlery",
-     "credit": "Michel, Velasco and Spence (2015), Flavour 4:26",
-     "url": "https://flavourjournal.biomedcentral.com/track/pdf/10.1186/s13411-015-0036-y",
+     "what": "From the DDW 2026 listing on what RELISH looks at",
+     "credit": "Text: DDW 2026 listing, RELISH",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/relish",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Text card made for this post: Young Graduates, HUB, Eindhoven: RELISH by Jasmin Ozturkkan Menda (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/relish",
-     "card": true
+     "what": "RELISH dipping bowls up close, photo courtesy of Jasmin Ozturkkan Menda / Dutch Design Week press kit",
+     "credit": "Photo: courtesy of Jasmin Ozturkkan Menda / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/programme/2348/press-kit.zip",
+     "card": false
     }
    ]
   },
@@ -9501,14 +9501,18 @@
     {
      "label": "Plain Writing Act of 2010, Public Law 111-274, 124 Stat. 2861 (Oct 13, 2010). govinfo.gov.",
      "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ274/html/PLAW-111publ274.htm"
+    },
+    {
+     "label": "Plain Writing Act of 2010, Public Law 111-274, official GovInfo PDF (read in full Nov 7, 2026; public domain)",
+     "url": "https://www.govinfo.gov/link/plaw/111/public/274?link-type=pdf"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Question frame made for this post: what does stress do to the brain that has to read a notice about benefits, housing or a court date?",
-     "credit": "Shields, Sazma, McCullough and Yonelinas (2017), Psychological Bulletin",
-     "url": "https://doi.org/10.1037/bul0000100",
+     "what": "From RN's essay on the letters people receive",
+     "credit": "Text: RN Collins, Why Legal and Public Systems Must Be Designed for Nervous Systems, The Polymath (2026)",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/why-legal-and-public-systems-must-be-designed-for-nervous-systems",
      "card": false
     },
     {
@@ -9527,22 +9531,22 @@
     },
     {
      "where": "Slide 4",
-     "what": "Diagram made for this post: in mall experiments, a hard money problem such as a $1,500 car repair lowered test scores for lower income shoppers and made no difference for wealthier shoppers (Mani et al., 2013)",
-     "credit": "Mani, Mullainathan, Shafir and Zhao (2013), Science 341:976-980",
-     "url": "https://doi.org/10.1126/science.1238041",
+     "what": "How a 2021 paper describes the mall study",
+     "credit": "Text: Jun et al. (2021), Cogn Res Princ Implic 6:41, CC BY 4.0",
+     "url": "https://doi.org/10.1186/s41235-021-00303-3",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Diagram made for this post from Mani et al. (2013): the same 464 sugarcane farmers in India, tested before harvest (cash short, weaker scores) and after (cash eased, stronger scores)",
-     "credit": "Mani, Mullainathan, Shafir and Zhao (2013), Science 341:976-980",
+     "what": "Chart of Mani et al. (2013): 464 sugarcane farmers' mean Raven's matrices score was 4.35 before harvest and 5.45 after",
+     "credit": "Chart: AaN, from Mani et al. (2013) data",
      "url": "https://doi.org/10.1126/science.1238041",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Diagram made for this post (not data): in Kalia et al. (2018), Study 1 (131 students), a 3 minute ice water hand test was followed by a card-sorting task whose rule switches; men made more repeat errors (the third figure; the sham was room-temperature water)",
-     "credit": "Kalia et al. (2018), Frontiers in Psychology 9:2084",
+     "what": "From the 2018 study's abstract",
+     "credit": "Text: Kalia et al. (2018), Frontiers in Psychology 9:2084, CC BY 4.0",
      "url": "https://doi.org/10.3389/fpsyg.2018.02084",
      "card": false
     },
@@ -9555,30 +9559,30 @@
     },
     {
      "where": "Slide 8",
-     "what": "Diagram made for this post: documents covered by the Plain Writing Act of 2010 (needed for a benefit, a service or filing taxes; letters, forms, notices; not regulations) and the plain writing requirement",
-     "credit": "Plain Writing Act of 2010, Public Law 111-274",
-     "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ274/html/PLAW-111publ274.htm",
+     "what": "Section 4(b) of the 2010 law",
+     "credit": "Text: Public Law 111-274, Plain Writing Act of 2010 (GovInfo PDF), public domain",
+     "url": "https://www.govinfo.gov/link/plaw/111/public/274?link-type=pdf",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Question frame made for this post: does stress right before recall help or hurt memory? (Shields et al., 2017.)",
-     "credit": "Shields, Sazma, McCullough and Yonelinas (2017), Psychological Bulletin",
-     "url": "https://doi.org/10.1037/bul0000100",
+     "what": "A line from RN's essay",
+     "credit": "Text: RN Collins, Why Legal and Public Systems Must Be Designed for Nervous Systems, The Polymath (2026)",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/why-legal-and-public-systems-must-be-designed-for-nervous-systems",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Diagram made for this post: a hard $1,500 car repair problem lowered test scores for lower income shoppers, with no drop for wealthier shoppers (Mani et al., 2013)",
-     "credit": "Mani, Mullainathan, Shafir and Zhao (2013), Science 341:976-980",
-     "url": "https://doi.org/10.1126/science.1238041",
+     "what": "The mall study's result as a 2021 paper reports it",
+     "credit": "Text: Jun et al. (2021), Cogn Res Princ Implic 6:41, CC BY 4.0",
+     "url": "https://doi.org/10.1186/s41235-021-00303-3",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Timeline made for this post: the Plain Writing Act enacted Oct 13, 2010, in force for new or substantially revised covered documents a year later, with no judicial review",
-     "credit": "Plain Writing Act of 2010, Public Law 111-274",
-     "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ274/html/PLAW-111publ274.htm",
+     "what": "The 2010 law's first page",
+     "credit": "Text: Public Law 111-274, Plain Writing Act of 2010 (GovInfo PDF), public domain",
+     "url": "https://www.govinfo.gov/link/plaw/111/public/274?link-type=pdf",
      "card": false
     }
    ]
@@ -83469,6 +83473,297 @@
    ]
   },
   {
+   "slug": "may-06-ufpl01",
+   "date": "2027-05-06",
+   "time": "09:00 HST",
+   "id": "UFPL01",
+   "title": "Unfair Play: can a neighbourhood show up in the brain?",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/archive/2025/unfair-play"
+   },
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Powell, W. R., Buckingham, W. R., Larson, J. L., Vilen, L., Yu, M., Salamat, M. S., Bendlin, B. B., Rissman, R. A., & Kind, A. J. H. (2020). Association of neighborhood-level disadvantage with Alzheimer disease neuropathology. JAMA Network Open, 3(6), e207559 (full text read Nov 7, 2026, Europe PMC PMC7290421, CC BY; cross-sectional)",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.7559"
+    },
+    {
+     "label": "Hackman, D. A., Betancourt, L. M., Brodsky, N. L., Hurt, H., & Farah, M. J. (2012). Neighborhood disadvantage and adolescent stress reactivity. Frontiers in Human Neuroscience, 6, 277 (full text read Nov 7, 2026, Europe PMC PMC3469875, CC BY)",
+     "url": "https://doi.org/10.3389/fnhum.2012.00277"
+    }
+   ],
+   "other": [
+    {
+     "label": "Dutch Design Week. (2025). Umbra Pavilion [Press kit 145, aerial photo by Ronald Smits showing the Unfair Play hall]. Retrieved Nov 7, 2026",
+     "url": "https://ddw.nl/en/programme/archive/2025/umbra-pavilion"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Unfair Play hall on Ketelhuisplein, photo Ronald Smits / Dutch Design Week press kit, aerial view of the hall",
+     "credit": "Photo: Ronald Smits / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/umbra-pavilion",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Unfair Play's list of health factors, image George&Harrison / Dutch Design Week press kit, detail of the factor list",
+     "credit": "Image: George&Harrison / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/unfair-play",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Where the brain donors lived",
+     "credit": "Powell et al. (2020), JAMA Network Open, Fig. 1, CC BY",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.7559",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Census-block board setter: adjusted odds ratios for Alzheimer disease neuropathology, 1.08 per decile of neighbourhood disadvantage and 2.18 for the most disadvantaged decile",
+     "credit": "Chart: AaN, from Powell et al. (2020) data",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.7559",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Census-block board setter: share of people within 100 miles of a US brain bank who live in the poorest fifth of neighbourhoods (13%) and the wealthiest fifth (30%)",
+     "credit": "Chart: AaN, from Powell et al. (2020) data",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.7559",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Cortisol in the stress test",
+     "credit": "Hackman et al. (2012), Frontiers in Human Neuroscience, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.3389/fnhum.2012.00277",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The DDW press kit's closing sentence for Unfair Play",
+     "credit": "Dutch Design Week (2025), DDW press kit text, Unfair Play, Eindhoven municipality",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/unfair-play",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Powell et al. (2020), JAMA Network Open",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.7559",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Powell et al. (2020), JAMA Network Open",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.7559",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Unfair Play's place and dates, image George&Harrison / Dutch Design Week press kit, detail of the place and dates",
+     "credit": "Image: George&Harrison / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/unfair-play",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "may-08-leaf01",
+   "date": "2027-05-08",
+   "time": "09:00 HST",
+   "id": "LEAF01",
+   "title": "LEAFE: a handrail that leads to the garden, and why dementia makes a corridor hard to read",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/archive/2025/leafe-a-guide-to-the-outside"
+   },
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "van Buuren, L., Derks, D., Mohammadi, M., & Colenbrander, B. (2025). Wayfinding behavioral patterns of seniors with dementia: Two exploratory case studies. Frontiers in Dementia, 4, 1524425 (full text read Nov 7, 2026, Europe PMC PMC11931140, CC BY 4.0)",
+     "url": "https://doi.org/10.3389/frdem.2025.1524425"
+    },
+    {
+     "label": "van Buuren, L. P. G., & Mohammadi, M. (2022). Dementia-friendly design: A set of design criteria and design typologies supporting wayfinding. HERD, 15(1), 150-172 (full text read Nov 7, 2026, Europe PMC PMC8725382, CC BY 4.0)",
+     "url": "https://doi.org/10.1177/19375867211043546"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "LEAFE at Dutch Design Week, photo Sarah Jansen / Dutch Design Week press kit, the whole stand",
+     "credit": "Photo: Sarah Jansen / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/leafe-a-guide-to-the-outside",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "LEAFE's concept art, image Tim van der Kooi / Dutch Design Week press kit, the whole drawing",
+     "credit": "Image: Tim van der Kooi / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/leafe-a-guide-to-the-outside",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A Dutch nursing home corridor. van Buuren et al. (2025), Figure 2, right: the straight corridor of the second home, with armchairs, handrail, green door frames and windows",
+     "credit": "van Buuren et al. (2025), Frontiers in Dementia, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.3389/frdem.2025.1524425",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Where wayfinding happened. van Buuren et al. (2025), Figure 8, case study 2: looking around, verbal cues and stops plotted on the visibility analysis of the floor plan, with decision points circled",
+     "credit": "van Buuren et al. (2025), Frontiers in Dementia, cropped from Fig. 8, CC BY",
+     "url": "https://doi.org/10.3389/frdem.2025.1524425",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Handrail-grain wayfinder: share of 'looking at' observations in the second home by what was looked at: windows 29%, spaces 27%, corridors 17%, signs 16%",
+     "credit": "Chart: AaN, from van Buuren et al. (2025) data",
+     "url": "https://doi.org/10.3389/frdem.2025.1524425",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Handrail-grain wayfinder: the longest route from a bedroom to the living room across 14 Dutch care home floor plans, 8 m at the shortest and 43 m at the longest",
+     "credit": "Chart: AaN, from van Buuren & Mohammadi (2022) data",
+     "url": "https://doi.org/10.1177/19375867211043546",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "LEAFE's rail and light, photo Sarah Jansen / Dutch Design Week press kit, detail of the rail",
+     "credit": "Photo: Sarah Jansen / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/leafe-a-guide-to-the-outside",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "van Buuren et al. (2025), Frontiers in Dementia",
+     "url": "https://doi.org/10.3389/frdem.2025.1524425",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "van Buuren & Mohammadi (2022), HERD",
+     "url": "https://doi.org/10.1177/19375867211043546",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "LEAFE's garden end, image Tim van der Kooi / Dutch Design Week press kit, detail of the trees",
+     "credit": "Image: Tim van der Kooi / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/leafe-a-guide-to-the-outside",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "may-10-refd01",
+   "date": "2027-05-10",
+   "time": "09:00 HST",
+   "id": "REFD01",
+   "title": "Reflecting Diverseness: 8,800 mirror flowers, and how the brain sees how many",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/archive/2025/reflecting-diverseness"
+   },
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Paul, J. M., van Ackooij, M., ten Cate, T. C., & Harvey, B. M. (2022). Numerosity tuning in human association cortices and local image contrast representations in early visual cortex. Nature Communications, 13, 1340 (full text read Nov 7, 2026, Europe PMC PMC8924234, CC BY 4.0)",
+     "url": "https://doi.org/10.1038/s41467-022-29030-z"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Reflecting Diverseness meadow, photo Mandy Liebregts / Dutch Design Week press kit, the field of flowers",
+     "credit": "Photo: Mandy Liebregts / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/reflecting-diverseness",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Making the flowers, photo Mandy Liebregts / Dutch Design Week press kit, the workbench",
+     "credit": "Photo: Mandy Liebregts / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/reflecting-diverseness",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "The dot displays",
+     "credit": "Paul et al. (2022), Nature Communications, cropped from Fig. 1, CC BY",
+     "url": "https://doi.org/10.1038/s41467-022-29030-z",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Where tuned responses sit",
+     "credit": "Paul et al. (2022), Nature Communications, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1038/s41467-022-29030-z",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Dot size barely matters",
+     "credit": "Paul et al. (2022), Nature Communications, cropped from Fig. 4, CC BY",
+     "url": "https://doi.org/10.1038/s41467-022-29030-z",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Crowding lowers the signal",
+     "credit": "Paul et al. (2022), Nature Communications, cropped from Fig. 4, CC BY",
+     "url": "https://doi.org/10.1038/s41467-022-29030-z",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The meadow at eye level, photo Mandy Liebregts / Dutch Design Week press kit, low view across the field",
+     "credit": "Photo: Mandy Liebregts / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/reflecting-diverseness",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Dutch Design Week (2025), Reflecting Diverseness listing",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/reflecting-diverseness",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Paul et al. (2022), Nature Communications",
+     "url": "https://doi.org/10.1038/s41467-022-29030-z",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "A box of finished flowers, photo Mandy Liebregts / Dutch Design Week press kit, the box held out",
+     "credit": "Photo: Mandy Liebregts / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/reflecting-diverseness",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "jun-14-smk01",
    "date": "2027-06-14",
    "time": "09:00 HST",
@@ -83553,6 +83848,110 @@
      "what": "Reading of a measured value made for this post, drawn in code by Claude, persona Smoke-plume density grader: length of one game",
      "credit": "Chart: AaN, from Cleland et al. (2022), EHP data",
      "url": "https://doi.org/10.1289/EHP10498",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "jun-21-umbr01",
+   "date": "2027-06-21",
+   "time": "09:00 HST",
+   "id": "UMBR01",
+   "title": "Umbra Pavilion: shade for a hot city, and why a hot night costs sleep",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/archive/2025/umbra-pavilion"
+   },
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Harding, E. C., Franks, N. P., & Wisden, W. (2019). The temperature dependence of sleep. Frontiers in Neuroscience, 13, 336 (full text read Nov 7, 2026, Europe PMC PMC6491889, CC BY; a narrative review)",
+     "url": "https://doi.org/10.3389/fnins.2019.00336"
+    },
+    {
+     "label": "Lechat, B., Toson, B., Scott, H., Nguyen, D. P., Kaambwa, B., Reynolds, A. C., Manners, J., Adams, R. J., Pepin, J.-L., Bailly, S., Phillips, A. J. K., Escourrou, P., Catcheside, P., & Eckert, D. J. (2026). How do we sleep while our beds are burning? High ambient temperatures are associated with substantial sleep loss. Sleep, 49(7), zsaf323 (full text read Nov 7, 2026, Europe PMC PMC13357511, CC BY 4.0)",
+     "url": "https://doi.org/10.1093/sleep/zsaf323"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Umbra Pavilion on Ketelhuisplein, photo Ronald Smits / Dutch Design Week press kit, the whole canopy",
+     "credit": "Photo: Ronald Smits / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/umbra-pavilion",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The heliotex canopy seen from below, photo Ronald Smits / Dutch Design Week press kit, detail of the textile",
+     "credit": "Photo: Ronald Smits / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/umbra-pavilion",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "From the DDW press kit for the Umbra Pavilion",
+     "credit": "Dutch Design Week (2025), DDW press kit text, Umbra Pavilion, Studio Pauline van Dongen and Tentech",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/umbra-pavilion",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "From the 2019 review by Harding, Franks and Wisden",
+     "credit": "Harding, Franks & Wisden (2019), Frontiers in Neuroscience, text crop, CC BY",
+     "url": "https://doi.org/10.3389/fnins.2019.00336",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A mouse's daily temperature cycle",
+     "credit": "Harding, Franks & Wisden (2019), Frontiers in Neuroscience, cropped from Fig. 1B, CC BY",
+     "url": "https://doi.org/10.3389/fnins.2019.00336",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Solar-strip canopy weaver: the room temperature of about 19 to 21 °C and the skin temperature under the covers of 31 to 35 °C that the review reports for good sleep",
+     "credit": "Chart: AaN, from Harding, Franks & Wisden (2019) data",
+     "url": "https://doi.org/10.3389/fnins.2019.00336",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Sleep minutes against outdoor temperature",
+     "credit": "Lechat et al. (2026), Sleep, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1093/sleep/zsaf323",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Solar-strip canopy weaver: minutes of sleep lost at the hottest temperatures, 11.1 in the study's highest-income third of countries and 28.4 in the lowest-income third (under-mattress users)",
+     "credit": "Chart: AaN, from Lechat et al. (2026) data",
+     "url": "https://doi.org/10.1093/sleep/zsaf323",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Harding, Franks & Wisden (2019), Frontiers in Neuroscience",
+     "url": "https://doi.org/10.3389/fnins.2019.00336",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Lechat et al. (2026), Sleep",
+     "url": "https://doi.org/10.1093/sleep/zsaf323",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "The pavilion from above, photo Ronald Smits / Dutch Design Week press kit, aerial detail",
+     "credit": "Photo: Ronald Smits / Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2025/umbra-pavilion",
      "card": false
     }
    ]

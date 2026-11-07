@@ -777,9 +777,29 @@
    "releasedAt": "2027-05-01",
    "hold": false
   },
+  "may-06-ufpl01": {
+   "path": "/posts/may-06-ufpl01/",
+   "releasedAt": "2027-05-06",
+   "hold": false
+  },
+  "may-08-leaf01": {
+   "path": "/posts/may-08-leaf01/",
+   "releasedAt": "2027-05-08",
+   "hold": false
+  },
+  "may-10-refd01": {
+   "path": "/posts/may-10-refd01/",
+   "releasedAt": "2027-05-10",
+   "hold": false
+  },
   "jun-14-smk01": {
    "path": "/posts/jun-14-smk01/",
    "releasedAt": "2027-06-14",
+   "hold": false
+  },
+  "jun-21-umbr01": {
+   "path": "/posts/jun-21-umbr01/",
+   "releasedAt": "2027-06-21",
    "hold": false
   }
  },
