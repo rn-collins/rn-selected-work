@@ -43,8 +43,8 @@ ACCOUNTS = {
     "museum": ["museum"], "film": ["film"], "kbyg": ["kbyg"], "jbd": ["jbd"],
     "aan-f": ["aan-f"], "ioo-fashion": ["ioo-fashion"], "psychonaut-bookworm": ["psychonaut-bookworm"],
 }
-# Paused Oct 30, 2026 by RN until all AaN content is built and ready for publication, including DDW.
-AAN_PAUSE = "2026-10-30"
+# Paused Oct 30, 2026 by RN until all AaN content is built; lifted by RN Nov 7, 2026 so each page goes live on its post date.
+AAN_PAUSE = ""
 AAN_PREFIXES = ("aan/", "aan-f/")
 # Paused by RN on Oct 30, 2026 (switched on Nov 1): no RN Collins piece goes live on its own until every RN Collins
 # content package is complete. Covers every piece that is not AaN.
