@@ -2412,5 +2412,35 @@
     "expression": "RN’s prepared Ask a Neuroscientist column introduces melanopsin, a light-sensitive protein in some retinal ganglion cells, for general readers curious about perception and daily rhythms. The manuscript follows accounts of rat experiments, mouse studies and a small human study, then compares them with later reviews discussing brightness perception and the difficulty of isolating one light-sensing pathway. RN explains differences between animal and human evidence, identifies where original papers were unavailable and distinguishes a university news release from a full research article or review. RN’s evidenced role is research synthesis and explanatory writing; she did not conduct the experiments. The draft and its related receptor-card package form one recovered work.",
     "boundary": "The current AaN owner record and complete manuscript identify a Fat Nugs draft planned for May 15, 2027, with no publication URL. It remains held. Several early experiments are described through news releases and reviews because the source says the original papers were unavailable. The human account involves two people tested on different measures and retains uncertainty about residual rods and cones; it cannot establish universal effects. The title and opening say these cells do not serve seeing, while later sections discuss brightness awareness and visual processing. That internal inconsistency needs editorial resolution, as does the breadth of the closing claim about thin human evidence. Scientific claims, study interpretations, quotations, images and rights have not been independently cleared in this portfolio review. The piece supplies no light, sleep or screen regimen, and no completed video or published article is claimed.",
     "provenance": "Complete current manuscript, including its eight-source bibliography, and the corresponding AaN owner row reviewed November 6, 2026. The related upload received excerpt and metadata review only; it is not counted as another essay. Source publication and media decisions remain with the existing AaN editorial owner."
+  },
+  {
+    "id": "why-does-broth-taste-savoury",
+    "title": "Why Does Broth Taste Savoury? TAS1R1, TAS1R3 and Umami",
+    "category": "Learning",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "held": true,
+    "releaseHeld": true,
+    "question": "How did researchers go from naming the savoury taste of broth to testing how the tongue detects it?",
+    "expression": "RN’s Ask a Neuroscientist column starts with dashi: what gave kelp broth a taste distinct from sweet, sour, salty or bitter? For readers curious about food and sensory science, RN traces early work on glutamate, then compares experiments on two proteins that work together as a taste receptor. The draft explains why a researcher might study an engineered cell, a mouse, part of a fish receptor or a person tasting a solution, and what each experiment can tell us. It also examines genetic variation across species and a taste-threshold study in 254 young Japanese volunteers. RN’s contribution is research synthesis and explanatory writing; the experiments are the cited researchers’ work.",
+    "boundary": "The AaN owner register identifies a Fat Nugs Magazine draft planned for May 22, 2027, with no published reading link. The manuscript distinguishes a model of how a second molecule strengthens the receptor response from a directly observed human receptor structure. Its failure to locate such a structure is a limit of its search. A disrupted gene sequence does not prove what a seal or sea lion can taste, and results in one group of volunteers do not establish a threshold for everyone. The text makes no health claim about glutamate. Study interpretations, quotations and rights have not received independent review here. The manuscript and related receptor-card upload remain one held work.",
+    "provenance": "Complete current manuscript and six-source bibliography read against the AaN owner register. The upload was compared by metadata and excerpt only. No article, script or private artifact is released through this description."
+  },
+  {
+    "id": "the-tug-behind-every-sound",
+    "title": "The Tug Behind Every Sound: Hair Cells, Tip Links and TMC1",
+    "category": "Learning",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "held": true,
+    "releaseHeld": true,
+    "question": "How do researchers work out which parts of the inner ear turn movement into an electrical signal?",
+    "expression": "RN’s Ask a Neuroscientist draft follows a faint sound from the bending of tiny bristles on an inner-ear cell to the opening of a channel. For general readers, it explains why three different kinds of evidence matter: inherited hearing loss in families helped identify a gene, experiments in mice tested what happens when that gene or a related one is missing, and imaging in worms revealed the arrangement of a protein complex. RN uses the contrast between normal-looking newborn mouse cells and their missing electrical response to explain why appearance alone cannot establish function. This is explanatory writing based on published research; RN did not conduct the experiments or produce the molecular images.",
+    "boundary": "The AaN owner register lists a Fat Nugs Magazine draft planned for May 29, 2027, with no publication URL. The manuscript attributes the original human genetics finding through a later paper because the original was unavailable to the writer. Restoring a current in mouse tissue does not, by itself, identify the channel pore. The structure described in the essay came from worms, not human inner-ear cells, and the cited researchers qualify the pore identification as probable. The draft supplies no diagnosis, treatment or device guidance. Its related receptor card is part of this work; scientific statements, quotations and media permissions have not been independently cleared.",
+    "provenance": "The complete manuscript, including its October 31 revision note and nine bibliography entries, was compared with the current AaN owner row. Upload metadata and excerpt were inspected; no finished media, released article or public draft link was verified."
   }
 ]
