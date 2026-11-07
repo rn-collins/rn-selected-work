@@ -382,11 +382,6 @@
    "releasedAt": "2026-12-29",
    "hold": false
   },
-  "dec-30-mjbp2702": {
-   "path": "/posts/dec-30-mjbp2702/",
-   "releasedAt": "2026-12-30",
-   "hold": false
-  },
   "dec-30-ns06": {
    "path": "/posts/dec-30-ns06/",
    "releasedAt": "2026-12-30",
@@ -710,6 +705,36 @@
   "mar-31-ccf02": {
    "path": "/posts/mar-31-ccf02/",
    "releasedAt": "2027-03-31",
+   "hold": false
+  },
+  "apr-03-ccf03": {
+   "path": "/posts/apr-03-ccf03/",
+   "releasedAt": "2027-04-03",
+   "hold": false
+  },
+  "apr-07-ccf04": {
+   "path": "/posts/apr-07-ccf04/",
+   "releasedAt": "2027-04-07",
+   "hold": false
+  },
+  "apr-10-nyc01": {
+   "path": "/posts/apr-10-nyc01/",
+   "releasedAt": "2027-04-10",
+   "hold": false
+  },
+  "apr-17-asl01": {
+   "path": "/posts/apr-17-asl01/",
+   "releasedAt": "2027-04-17",
+   "hold": false
+  },
+  "apr-20-coch01": {
+   "path": "/posts/apr-20-coch01/",
+   "releasedAt": "2027-04-20",
+   "hold": false
+  },
+  "jun-14-smk01": {
+   "path": "/posts/jun-14-smk01/",
+   "releasedAt": "2027-06-14",
    "hold": false
   }
  },
