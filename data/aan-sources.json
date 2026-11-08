@@ -868,86 +868,86 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Joseph Paulet, Traveling clock with alarm and calendar, Case and dial: silver and partially gilded and backplate of movement: brass and silver partially gilded and steel, ca. 1700 to 1710, 64.101.868 (The Metropolitan Museum of Art)",
-     "credit": "Joseph Paulet, The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/203676",
+     "what": "The title of Windred and colleagues' 2024 study, from its graphical abstract",
+     "credit": "Windred et al. (2024), cropped from the Graphical Abstract, CC BY 4.0",
+     "url": "https://doi.org/10.1093/sleep/zsad253",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Unknown maker, alarm clock Junghans, 1925 (Narva Museum)",
-     "credit": "Narva Museum (public domain)",
-     "url": "https://www.europeana.eu/item/401/item_BWZJ5XFA6UZYSZQ7CKCJ23H762HUX7FI",
+     "what": "From the abstract of Windred and colleagues' study",
+     "credit": "Text: Windred et al. (2024), Sleep 47(1):zsad253, CC BY 4.0",
+     "url": "https://doi.org/10.1093/sleep/zsad253",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Windred et al. (2024), Sleep 47(1):zsad253: over 10 million hours of accelerometer data from 60,977 UK adults turned into a sleep regularity score",
-     "credit": "Windred et al. (2024), Sleep 47(1):zsad253, illustration drawn for this post",
+     "what": "The methods box of the graphical abstract",
+     "credit": "Windred et al. (2024), cropped from the Graphical Abstract, CC BY 4.0",
      "url": "https://doi.org/10.1093/sleep/zsad253",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Chart drawn to scale for this post from Windred et al. (2024), Sleep 47(1):zsad253: of 60,977 participants followed for 6.3 years on average, 1,859 died",
-     "credit": "Windred et al. (2024), Sleep 47(1):zsad253, chart drawn for this post",
+     "what": "The follow-up as the abstract reports it",
+     "credit": "Text: Windred et al. (2024), Sleep 47(1):zsad253, CC BY 4.0",
      "url": "https://doi.org/10.1093/sleep/zsad253",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Number card made for this post: 20% to 48% lower risk of dying from any cause for more regular sleepers than the least regular (Windred et al. (2024), Sleep)",
-     "credit": "Windred et al. (2024), Sleep",
+     "what": "The main result in the abstract",
+     "credit": "Text: Windred et al. (2024), Sleep 47(1):zsad253, CC BY 4.0",
      "url": "https://doi.org/10.1093/sleep/zsad253",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Unknown maker, alarm clock Kienzle, 1925 (Narva Museum)",
-     "credit": "Narva Museum (public domain)",
-     "url": "https://www.europeana.eu/item/401/item_BQJRSCSX6X7D5BC55QNCFQ3YOMIXOR6B",
+     "what": "Survival by regularity and by sleep length",
+     "credit": "Windred et al. (2024), Fig. 1, CC BY 4.0",
+     "url": "https://doi.org/10.1093/sleep/zsad253",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Type card made for this post: a prospective cohort adjusted for age, sex, ethnicity, sociodemographic, lifestyle and health factors; it shows association (Windred et al. (2024), Sleep 47(1):zsad253)",
-     "credit": "Windred et al. (2024), Sleep 47(1):zsad253",
+     "what": "The authors' own limit, from their discussion",
+     "credit": "Text: Windred et al. (2024), Sleep 47(1):zsad253, CC BY 4.0",
      "url": "https://doi.org/10.1093/sleep/zsad253",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Chart drawn to scale for this post from Phillips et al. (2017), Scientific Reports: average dim light melatonin onset at 21:32 in the 12 most regular and 00:08 in the 12 most irregular of 61 students",
-     "credit": "Phillips et al. (2017), Scientific Reports, chart drawn for this post",
+     "what": "Melatonin onset in the two groups of students",
+     "credit": "Phillips et al. (2017), cropped from Fig. 3A, CC BY 4.0",
      "url": "https://doi.org/10.1038/s41598-017-03171-4",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Alphonse Legros, Landscape: Sunrise, drypoint, c. 1857 to 1911, 1945.311 (Cleveland Museum of Art)",
-     "credit": "Alphonse Legros, The Cleveland Museum of Art (CC0)",
-     "url": "https://clevelandart.org/art/1945.311",
+     "what": "The study's closing line",
+     "credit": "Text: Windred et al. (2024), Sleep 47(1):zsad253, CC BY 4.0",
+     "url": "https://doi.org/10.1093/sleep/zsad253",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Knut Borg, Konsum, bedroom interior., Photo (Örebro County Museum)",
-     "credit": "Knut Borg, Örebro County Museum (public domain)",
-     "url": "https://www.europeana.eu/item/916121/S_OLM_photo_OLM_91_102_1886",
+     "what": "Thirty days of sleep diaries from regular sleepers",
+     "credit": "Phillips et al. (2017), cropped from Fig. 1D-E, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s41598-017-03171-4",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Windred et al. (2024), Sleep 47(1):zsad253: sleep regularity was a stronger predictor of all-cause mortality than sleep duration",
-     "credit": "Windred et al. (2024), Sleep 47(1):zsad253, illustration drawn for this post",
+     "what": "Survival by sleep length alone",
+     "credit": "Windred et al. (2024), cropped from Fig. 1B, CC BY 4.0",
      "url": "https://doi.org/10.1093/sleep/zsad253",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Jacob Diehl, Tall Clock, Walnut and pine, ca. 1800, 1976.279 (The Metropolitan Museum of Art)",
-     "credit": "Jacob Diehl, The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/8149",
+     "what": "Thirty days of sleep diaries from irregular sleepers",
+     "credit": "Phillips et al. (2017), cropped from Fig. 1B-C, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s41598-017-03171-4",
      "card": false
     }
    ],
@@ -2213,30 +2213,30 @@
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post: the four search terms of the 2011 literature search on colon cleansing (Mishori et al., 2011)",
-     "credit": "Mishori, Otubu and Jones (2011), J Fam Pract 60(8), diagram drawn for this post",
+     "what": "From the 2011 review by Mishori and colleagues",
+     "credit": "Text: Mishori, Otubu and Jones (2011), The dangers of colon cleansing, J Fam Pract 60(8):454-457 (MDedge)",
      "url": "https://community.the-hospitalist.org/content/dangers-colon-cleansing",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post: harms reported after colon cleansing, by body system (Mishori et al., 2011)",
-     "credit": "Mishori, Otubu and Jones (2011), J Fam Pract 60(8), diagram drawn for this post",
+     "what": "From the same review on harms",
+     "credit": "Text: Mishori, Otubu and Jones (2011), The dangers of colon cleansing, J Fam Pract 60(8):454-457 (MDedge)",
      "url": "https://community.the-hospitalist.org/content/dangers-colon-cleansing",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post: lumen bacteria steady, mucus-layer bacteria dip in the first 12 hours after bowel cleansing and return by 24 hours (Yilmaz et al., 2026); schematic, no data values",
-     "credit": "Yilmaz et al. (2026), Gut Microbes, illustration drawn for this post",
+     "what": "Yilmaz and colleagues' biopsy result after bowel prep",
+     "credit": "Yilmaz et al. (2026), cropped from Fig. 4b, CC BY 4.0",
      "url": "https://doi.org/10.1080/19490976.2026.2635866",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "RN Collins, Gut-shaped form and red cross under a grey sky, maker at its side, photograph, 18 October 2026",
-     "credit": "Photo: RN Collins",
-     "url": "",
+     "what": "From the abstract of Foster and colleagues' 2025 scoping review",
+     "credit": "Text: Foster et al. (2025), PLOS ONE 20(8):e0328215, CC BY 4.0",
+     "url": "https://doi.org/10.1371/journal.pone.0328215",
      "card": false
     },
     {
@@ -2262,10 +2262,10 @@
     },
     {
      "where": "Story 3",
-     "what": "Number card made for this post: 68 publications in a scoping review of art in healthcare settings (Foster et al., 2025)",
-     "credit": "Foster et al. (2025), PLOS ONE",
+     "what": "From the results of Foster and colleagues' review",
+     "credit": "Text: Foster et al. (2025), PLOS ONE 20(8):e0328215, CC BY 4.0",
      "url": "https://doi.org/10.1371/journal.pone.0328215",
-     "card": true
+     "card": false
     }
    ],
    "time": "09:00 HST"
@@ -75972,6 +75972,207 @@
    ]
   },
   {
+   "slug": "dec-27-pdkt01",
+   "date": "2026-12-27",
+   "time": "09:00 HST",
+   "id": "PDKT01",
+   "title": "The Kalahari truffle, the 'lightning bird's eggs': a desert food and its biology",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Trappe, J. M., Claridge, A. W., Arora, D., & Smit, W. A. (2008). Desert truffles of the African Kalahari: Ecology, ethnomycology, and taxonomy. Economic Botany, 62(3), 521-529 (full text read Nov 8, 2026 from the copy RN's Mac downloaded through her library's JSTOR access and saved to aan-studio/sources/pd26-day2/; © 2008 The New York Botanical Garden Press, rights reserved: facts, short attributed quotes and one short quoted text crop only; no figure or photograph reproduced)",
+     "url": "https://doi.org/10.1007/s12231-008-9027-6"
+    },
+    {
+     "label": "Thomas, P. W., Elkhateeb, W. A., & Daba, G. (2019). Truffle and truffle-like fungi from continental Africa. Acta Mycologica, 54(2), 1132 (full text read Nov 8, 2026 from the University of Stirling repository PDF; CC BY 4.0)",
+     "url": "https://doi.org/10.5586/am.1132"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Text crop of Thomas et al. (2019), the sentence on the lightning bird: the link with rainfall is displayed in Khoisan oral mythology, where Kalahari truffles are known as eggs of the lightning bird because they appear so close after thunderstorms (the sentence's citation is not shown) (page 5)",
+     "credit": "Thomas et al. (2019), Acta Mycologica, text crop, CC BY 4.0",
+     "url": "https://doi.org/10.5586/am.1132",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Davide Puddu, Terfezia arenaria, desert truffle, observed 2018-04-13, Italy, photograph, 2018-04-13, observation 11185490, photo 15848201 (iNaturalist). a Mediterranean desert truffle of the genus Terfezia, the genus the Kalahari truffle was once filed in, an iNaturalist observation",
+     "credit": "Davide Puddu, iNaturalist observation 11185490 (CC BY 4.0)",
+     "url": "https://www.inaturalist.org/observations/11185490",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "dune_ninja, Citrullus amarus (Fodder Melon), observed 2025-09-04, Namibia, photograph, 2025-09-04, observation 313114857, photo 565389685 (iNaturalist). tsamma, the wild Kalahari melon whose root DNA matched the Kalahari truffle (named Citrullus lanatus in the paper's sources), an iNaturalist observation",
+     "credit": "dune_ninja, iNaturalist observation 313114857 (CC0)",
+     "url": "https://www.inaturalist.org/observations/313114857",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "dune_ninja, Terminalia sericea (silver terminalia), observed 2023-02-21, Namibia, photograph, 2023-02-21, observation 151837369, photo 262034259 (iNaturalist). silver terminalia (Terminalia sericea), one of the Kalahari shrubs whose roots showed Hartig nets beside the truffle, an iNaturalist observation",
+     "credit": "dune_ninja, iNaturalist observation 151837369 (CC0)",
+     "url": "https://www.inaturalist.org/observations/151837369",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale for this post, drawn in code by Claude, persona Rain-gauge rule setter: yearly rainfall, driest of seven southern Kalahari stations 156 mm and wettest 362 mm (Leistner, 1967, as reported), and the minimum of about 180 mm for desert truffles in Kuwait (Awamah and Alsheikh, 1979, as reported)",
+     "credit": "Chart: Ask a Neuroscientist, from Trappe et al. (2008) data",
+     "url": "https://doi.org/10.1007/s12231-008-9027-6",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Text crop of Trappe et al. (2008), the passage on native names: mahupu (in Botswana, presumably Setswana), omatumbula (in Bantu and Oshidonga), hawan or haban (in Khoe and Khoekhoegowab) and a Nama name, with their sources (page 524)",
+     "credit": "Trappe et al. (2008), Economic Botany, text crop (quoted; all rights reserved)",
+     "url": "https://doi.org/10.1007/s12231-008-9027-6",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Bernard DUPONT, Parahyaena brunnea (Brown Hyaena), observed 2011-11-06, South Africa, photograph, 2011-11-06, observation 69149515, photo 112142715 (iNaturalist). brown hyena, the animal seen digging up and eating 21 Kalahari truffles, an iNaturalist observation",
+     "credit": "Bernard DUPONT, iNaturalist observation 69149515 (CC BY 4.0)",
+     "url": "https://www.inaturalist.org/observations/69149515",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Peter Archdale, Suricata suricatta suricatta (Southern African Meerkat), observed 2017-03-20, South Africa, photograph, 2017-03-20, observation 8251850, photo 10943972 (iNaturalist). meerkats, one of the animals reported eating Kalahari truffles, an iNaturalist observation",
+     "credit": "Peter Archdale, iNaturalist observation 8251850 (CC BY 4.0)",
+     "url": "https://www.inaturalist.org/observations/8251850",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Text crop of Thomas et al. (2019), the sentence on the host plant: although many host plants have been suggested, the primary host plant of this species is currently unknown, although Kagan-Zur et al. have presented compelling evidence for an association with wild watermelon plants (Citrullus vulgaris) (page 5)",
+     "credit": "Thomas et al. (2019), Acta Mycologica, text crop, CC BY 4.0",
+     "url": "https://doi.org/10.5586/am.1132",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Trappe et al. (2008), Economic Botany",
+     "url": "https://doi.org/10.1007/s12231-008-9027-6",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Trappe et al. (2008), Economic Botany",
+     "url": "https://doi.org/10.1007/s12231-008-9027-6",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "dune_ninja, Rhigozum trichotomum (Trithorn), observed 2024-11-28, Namibia, photograph, 2024-11-28, observation 255161450, photo 457208035 (iNaturalist). trithorn (Rhigozum trichotomum), a Kalahari shrub whose roots showed Hartig nets beside the truffle, an iNaturalist observation",
+     "credit": "dune_ninja, iNaturalist observation 255161450 (CC0)",
+     "url": "https://www.inaturalist.org/observations/255161450",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "dec-29-ddwbs07",
+   "date": "2026-12-29",
+   "time": "09:00 HST",
+   "id": "DDWBS07",
+   "title": "Decomposing Values: urushi lacquer on unwanted things, and how the sap sets",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/archive/2026/decomposing-values-through-urushi-lacquer"
+   },
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Yang, J., Chen, N., Zhu, J., Cai, J., Deng, J., Pan, F., Gao, L., Jiang, Z., & Shen, F. (2020). Polymerization mechanism of natural lacquer sap with special phase structure. Scientific Reports, 10, 12867 (full text read Nov 8, 2026, Europe PMC PMC7393129, CC BY 4.0)",
+     "url": "https://doi.org/10.1038/s41598-020-69823-0"
+    },
+    {
+     "label": "Liu, W., Liu, X., & Lv, J. (2023). Comparative study on UV degradation of black Chinese lacquers with different additives. Materials, 16(16), 5607 (full text read Nov 8, 2026, Europe PMC PMC10456897, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/ma16165607"
+    }
+   ],
+   "other": [
+    {
+     "label": "twofold. (2026). Home, About, Story-01 and Story-02 [Studio web pages]. Retrieved Nov 8, 2026",
+     "url": "https://www.twofold.work/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "DDW press kit photo of a vintage blue and white dish half-coated in urushi",
+     "credit": "Kazuki Maejima (DDW press kit, Dutch Design Week)",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/decomposing-values-through-urushi-lacquer",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "DDW press kit photo of lacquered objects among tree roots",
+     "credit": "Kazuki Maejima (DDW press kit, Dutch Design Week)",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/decomposing-values-through-urushi-lacquer",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Lacquer tree trunk with pale ridged bark, photo Clive Freedman",
+     "credit": "Clive Freedman, iNaturalist observation 395471119 (CC BY 4.0)",
+     "url": "https://www.inaturalist.org/observations/395471119",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Yang et al. (2020), Figure 1a: light micrograph of raw lacquer sap, water droplets in urushiol at 1,000 times",
+     "credit": "Yang et al. (2020), Scientific Reports, cropped from Fig. 1, CC BY",
+     "url": "https://doi.org/10.1038/s41598-020-69823-0",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Urushi coat layerer: hours for lacquer sap to set hard at 30 °C and 80% humidity, fresh, stored four years, and stored with fresh enzyme added",
+     "credit": "Chart: Ask a Neuroscientist, from Yang et al. (2020) data, Table 1",
+     "url": "https://doi.org/10.1038/s41598-020-69823-0",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Liu et al. (2023), Figure 3a and 3b: black lacquer with 1% carbon black before and after 35 days of UV, electron micrographs",
+     "credit": "Liu et al. (2023), Materials, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.3390/ma16165607",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Yang et al. (2020), Scientific Reports",
+     "url": "https://doi.org/10.1038/s41598-020-69823-0",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Yang et al. (2020), Scientific Reports",
+     "url": "https://doi.org/10.1038/s41598-020-69823-0",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Garden label of the lacquer tree, photo Clive Freedman",
+     "credit": "Clive Freedman, iNaturalist observation 395471119 (CC BY 4.0)",
+     "url": "https://www.inaturalist.org/observations/395471119",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "dec-30-eamn01",
    "date": "2026-12-30",
    "time": "09:00 HST",
@@ -85467,6 +85668,121 @@
    ]
   },
   {
+   "slug": "apr-09-pdrk01",
+   "date": "2027-04-09",
+   "time": "09:00 HST",
+   "id": "PDRK01",
+   "title": "An ice-free Arctic this decade? What the IPCC says, and how people read 'likely'",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "IPCC. (2021). Summary for policymakers. In V. Masson-Delmotte et al. (Eds.), Climate change 2021: The physical science basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (pp. 3 to 32). Cambridge University Press (full text read Nov 8, 2026, the PDF from ipcc.ch, all 32 pages; IPCC licence: short excerpts quoted with the source acknowledged, non-commercial, no derivatives; four unaltered text crops, no figure)",
+     "url": "https://doi.org/10.1017/9781009157896.001"
+    },
+    {
+     "label": "Fetterer, F., Knowles, K., Meier, W. N., Savoie, M., Windnagel, A. K., & Stafford, T. (2025). Sea Ice Index (G02135, Version 4) [Data set]. National Snow and Ice Data Center (September monthly file N_09_extent_v4.0.csv, area column, downloaded Nov 8, 2026 from noaadata.apps.nsidc.org; condition of use: cite the data set)",
+     "url": "https://doi.org/10.7265/a98x-0f50"
+    },
+    {
+     "label": "Wintle, B. C., Fraser, H., Wills, B. C., Nicholson, A. E., & Fidler, F. (2019). Verbal probabilities: Very likely to be somewhat more confusing than numbers. PLOS ONE, 14(4), e0213522 (full text read Nov 8, 2026, Europe PMC PMC6469752, CC BY 4.0; PubMed 30995242; PMC open-access PDF and the publisher's original figure files)",
+     "url": "https://doi.org/10.1371/journal.pone.0213522"
+    }
+   ],
+   "other": [
+    {
+     "label": "NASA Scientific Visualization Studio. (2012). September Arctic minimum Arctic sea ice 2012 [Visualization], visualizations by Cindy Starr; and (2026). Arctic sea ice minimum 2026 [Visualization], visualizations by Trent L. Schindler (pages and help page read Nov 8, 2026; public domain unless otherwise noted)",
+     "url": "https://svs.gsfc.nasa.gov/3998"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "NASA Scientific Visualization Studio still: the Arctic from space at the 2026 sea ice minimum, September 12, 2026, 4.60 million km2 extent printed on the image, with the 1981 to 2010 average minimum as a yellow line (SVS 5677, visualization by Trent L. Schindler, data JAXA AMSR2)",
+     "credit": "NASA's Scientific Visualization Studio, Arctic sea ice minimum 2026",
+     "url": "https://svs.gsfc.nasa.gov/5677",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Text crop of the IPCC Summary for Policymakers, B.2.5: The Arctic is likely to be practically sea ice-free in September at least once before 2050 under the five illustrative scenarios considered in this report, with more frequent occurrences for higher warming levels (page 16)",
+     "credit": "IPCC (2021), Summary for Policymakers, text crop (quoted; all rights reserved), B.2.5",
+     "url": "https://doi.org/10.1017/9781009157896.001",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Text crop of the IPCC Summary for Policymakers, footnote 31: Monthly average sea ice area of less than 1 million km2, which is about 15% of the average September sea ice area observed in 1979 to 1988 (page 16)",
+     "credit": "IPCC (2021), Summary for Policymakers, text crop (quoted; all rights reserved), footnote 31",
+     "url": "https://doi.org/10.1017/9781009157896.001",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Line chart drawn to scale made for this post, drawn in code by Claude, persona Likelihood-scale bracketer: September Arctic sea ice area, million km2, every year 1979 to 2026 (4.58 in 1979, lowest 2.41 in 2012, 3.12 in 2026), from the NSIDC Sea Ice Index monthly file, with the IPCC's 1 million km2 'practically ice-free' threshold as a dashed reference line",
+     "credit": "Chart: Ask a Neuroscientist, from NSIDC data",
+     "url": "https://doi.org/10.7265/a98x-0f50",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Text crop of the IPCC Summary for Policymakers, footnote 4: the likelihood terms, virtually certain 99 to 100% probability, very likely 90 to 100%, likely 66 to 100%, about as likely as not 33 to 66%, unlikely 0 to 33%, very unlikely 0 to 10%, exceptionally unlikely 0 to 1% (page 4)",
+     "credit": "IPCC (2021), Summary for Policymakers, text crop (quoted; all rights reserved), footnote 4",
+     "url": "https://doi.org/10.1017/9781009157896.001",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Text crop of Wintle et al. (2019), on the IPCC's overlapping categories: it is unclear if the range for a given expression should span to the adjoining category or to the extremes of the probability scale (page 2)",
+     "credit": "Wintle et al. (2019), PLOS ONE, text crop, CC BY 4.0",
+     "url": "https://doi.org/10.1371/journal.pone.0213522",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Likelihood-scale bracketer: average best guess for 'likely', 54 in an earlier survey on IPCC sentences (Budescu et al., 2012, as reported), 73 (in context) and 75 (context-free) among 924 readers, from the Discussion of Wintle et al. (2019)",
+     "credit": "Chart: Ask a Neuroscientist, from Wintle et al. (2019) data",
+     "url": "https://doi.org/10.1371/journal.pone.0213522",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Figure panel cropped from Wintle et al. (2019), Fig. 4, the 'Likely' panel: percentage overlap of readers' ranges with the official range in four formats (table, tooltip, brackets, control), means with 95% intervals, highest for brackets",
+     "credit": "Wintle et al. (2019), PLOS ONE, cropped from Fig. 4, CC BY 4.0",
+     "url": "https://doi.org/10.1371/journal.pone.0213522",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Text crop of Wintle et al. (2019), the conclusion: variability and potential biases in interpreting verbal probabilities can only effectively be reduced if numerical translations are highly visible alongside verbal expressions in reports (page 15)",
+     "credit": "Wintle et al. (2019), PLOS ONE, text crop, CC BY 4.0",
+     "url": "https://doi.org/10.1371/journal.pone.0213522",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "IPCC (2021), Summary for Policymakers, footnote 4",
+     "url": "https://doi.org/10.1017/9781009157896.001",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "IPCC (2021), Summary for Policymakers, B.2.5",
+     "url": "https://doi.org/10.1017/9781009157896.001",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "NASA photograph of small patches of summer sea ice in the Chukchi Sea, seen from the U.S. Coast Guard Cutter Healy at the end of the 2011 ICESCAPE mission (NASA image library record GSFC_20171208_Archive_e001711, photo by Kathryn Hansen)",
+     "credit": "NASA/Kathryn Hansen, Sea Ice in the Chukchi Sea (2011)",
+     "url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001711",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "apr-10-nyc01",
    "date": "2027-04-10",
    "time": "09:00 HST",
@@ -86638,6 +86954,101 @@
    ]
   },
   {
+   "slug": "apr-22-hibs01",
+   "date": "2027-04-22",
+   "time": "09:00 HST",
+   "id": "HIBS01",
+   "title": "Local Boiz Hawaiian Mix Tea: māmaki, and what the leaf research shows",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://hawaiicannabisexpo.com/exhibitor-archive/local-boiz-hawaiian-mix-tea/"
+   },
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Koher, G., Khan, A., Suarez-vega, G., Meesakul, P., Bacani, A.-J., Kohno, T., Zhu, X., Kim, K. H., Cao, S., & Jia, Z. (2023). A comprehensive insight into māmaki (Pipturus albidus): Its ethnomedicinal heritage, human health research, and phytochemical properties. Plants, 12(16), 2924 (full text read Nov 8, 2026, Europe PMC PMC10459036, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/plants12162924"
+    },
+    {
+     "label": "Meesakul, P., Shea, T., Wu, X., Kuroki, Y., Wada, A., & Cao, S. (2025). Evaluation of proliferative activity of Hawaiian plants on PC-12 and Neuro-2a cells and their effect on the TPH and TH genes. Pharmaceuticals, 18(9), 1403 (full text read Nov 8, 2026, Europe PMC PMC12472671, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/ph18091403"
+    }
+   ],
+   "other": [
+    {
+     "label": "Local Boiz Tea. (2026). Brewing guide and Our Story [Web pages]. Retrieved Nov 8, 2026",
+     "url": "https://www.localboiztea.com/howtouse"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Expo listing text for Local Boiz Hawaiian Mix Tea",
+     "credit": "Hawaii Cannabis Expo exhibitor listing, Local Boiz Hawaiian Mix Tea (quoted; all rights reserved)",
+     "url": "https://hawaiicannabisexpo.com/exhibitor-archive/local-boiz-hawaiian-mix-tea/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Māmaki branch with red stalks and toothed leaves",
+     "credit": "Lexi Amico / iNaturalist (CC BY 4.0)",
+     "url": "https://www.inaturalist.org/observations/226798651",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Kamehameha butterfly caterpillar on a leaf underside",
+     "credit": "Kevin Faccenda / iNaturalist (CC BY 4.0)",
+     "url": "https://www.inaturalist.org/observations/95510601",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Three-vein leaf tracer: catechin, rutin and chlorogenic acid in fresh purple and green māmaki leaves, mg per g",
+     "credit": "Chart: Ask a Neuroscientist, from Kartika et al. (2007) data as reported in Koher et al. (2023)",
+     "url": "https://doi.org/10.3390/plants12162924",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Three-vein leaf tracer: total antioxidant activity of māmaki tea from three leaf varieties, mg ascorbic acid equivalent per g",
+     "credit": "Chart: Ask a Neuroscientist, from Kartika et al. (2007) data as reported in Koher et al. (2023)",
+     "url": "https://doi.org/10.3390/plants12162924",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Meesakul et al. (2025), Figure 2b: relative TPH expression in Neuro-2A cells for five plant extracts against control, M19 is māmaki",
+     "credit": "Meesakul et al. (2025), Pharmaceuticals, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.3390/ph18091403",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Type card made for this post",
+     "credit": "Koher et al. (2023), Plants",
+     "url": "https://doi.org/10.3390/plants12162924",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Kartika et al. (2007), as reviewed by Koher et al. (2023), Plants",
+     "url": "https://doi.org/10.3390/plants12162924",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Pale hairy underside of a māmaki leaf held in a hand",
+     "credit": "Tara Severns / iNaturalist (CC BY 4.0)",
+     "url": "https://www.inaturalist.org/observations/296136715",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "apr-23-pdoc01",
    "date": "2027-04-23",
    "time": "09:00 HST",
@@ -86842,6 +87253,198 @@
    ]
   },
   {
+   "slug": "apr-25-mdpd01",
+   "date": "2027-04-25",
+   "time": "09:00 HST",
+   "id": "MDPD01",
+   "title": "A mental disorder and later physical disease and dementia: what 30 years of records show",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Richmond-Rakerd, L. S., D'Souza, S., Milne, B. J., Caspi, A., & Moffitt, T. E. (2021). Longitudinal associations of mental disorders with physical diseases and mortality among 2.3 million New Zealand citizens. JAMA Network Open, 4(1), e2033448 (full text read Nov 8, 2026, Europe PMC PMC7807295, CC BY; PubMed 33439264)",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.33448"
+    },
+    {
+     "label": "Richmond-Rakerd, L. S., D'Souza, S., Milne, B. J., Caspi, A., & Moffitt, T. E. (2022). Longitudinal associations of mental disorders with dementia: 30-year analysis of 1.7 million New Zealand citizens. JAMA Psychiatry, 79(4), 333 (full text read Nov 8, 2026, PMC page PMC8851362, CC BY; PubMed 35171209)",
+     "url": "https://doi.org/10.1001/jamapsychiatry.2021.4377"
+    },
+    {
+     "label": "Wertz, J., Caspi, A., Ambler, A., et al. (2021). Association of history of psychopathology with accelerated aging at midlife. JAMA Psychiatry, 78(5), 530; corrected 78(5), 569 (full text read Nov 8, 2026, Europe PMC PMC7890535, CC BY; PubMed 33595619)",
+     "url": "https://doi.org/10.1001/jamapsychiatry.2020.4626"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Richmond-Rakerd et al. (2022), JAMA Psychiatry Fig. 1, panel A only: percentage of people diagnosed with dementia, with and without a mental disorder history, total population, men and women (cropped from the CC BY 4.0 figure; no other change)",
+     "credit": "Richmond-Rakerd et al. (2022), JAMA Psychiatry, cropped from Fig. 1, CC BY",
+     "url": "https://doi.org/10.1001/jamapsychiatry.2021.4377",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Record-linkage card filer: people admitted for a physical disease and for a mental disorder, of 2,349,897",
+     "credit": "Chart: Ask a Neuroscientist, from Richmond-Rakerd et al. (2021), JAMA Network Open data",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.33448",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Record-linkage card filer: 31.9% of people with a mental disorder also had a chronic physical disease, against 20.0% of everyone",
+     "credit": "Chart: Ask a Neuroscientist, from Richmond-Rakerd et al. (2021), JAMA Network Open data",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.33448",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Richmond-Rakerd et al. (2021), JAMA Network Open Fig. 3, panel C only: cumulative probability of death over 30 years for people with both conditions, a physical disease only, a mental disorder only, or no condition (cropped from the CC BY 4.0 figure; no other change)",
+     "credit": "Richmond-Rakerd et al. (2021), JAMA Network Open, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.33448",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Richmond-Rakerd et al. (2022), JAMA Psychiatry Fig. 2, panel A only: men: relative risk of later dementia for a mental disorder and for a physical disease, total and by birth decade (cropped from the CC BY 4.0 figure; no other change)",
+     "credit": "Richmond-Rakerd et al. (2022), JAMA Psychiatry, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1001/jamapsychiatry.2021.4377",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Record-linkage card filer: standardized estimates at 45 for pace of aging, cognitive, balance and hearing difficulties",
+     "credit": "Chart: Ask a Neuroscientist, from Wertz et al. (2021), JAMA Psychiatry data",
+     "url": "https://doi.org/10.1001/jamapsychiatry.2020.4626",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Record-linkage card filer: mean time to a dementia diagnosis, 8.56 against 14.17 years",
+     "credit": "Chart: Ask a Neuroscientist, from Richmond-Rakerd et al. (2022), JAMA Psychiatry data",
+     "url": "https://doi.org/10.1001/jamapsychiatry.2021.4377",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Richmond-Rakerd et al. (2021), JAMA Network Open",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.33448",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Richmond-Rakerd et al. (2021), JAMA Network Open",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.33448",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Reading of a measured value made for this post, drawn in code by Claude, persona Record-linkage card filer: 12.2% higher lifetime health care costs per person",
+     "credit": "Chart: Ask a Neuroscientist, from Richmond-Rakerd et al. (2021), JAMA Network Open data",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2020.33448",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "apr-26-ddwbs08",
+   "date": "2027-04-26",
+   "time": "09:00 HST",
+   "id": "DDWBS08",
+   "title": "If Soil Could Speak: a neighbourhood with wet feet, and what helps soil drink",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/archive/2026/if-soil-could-speak-als-de-bodem-kan-praten"
+   },
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Islam, M. M., McLaughlin, R. A., & Heitman, J. L. (2026). A potential stormwater management intervention: Compost incorporation improves infiltration rate and associated soil hydro-physical properties. PLOS ONE, 21(8), e0355866 (full text read Nov 8, 2026, Europe PMC PMC13475814, CC BY 4.0)",
+     "url": "https://doi.org/10.1371/journal.pone.0355866"
+    },
+    {
+     "label": "Gatto, M. R., Li, A., Martino, E., & Bentley, R. (2026). The effect of damp housing on psychological distress: does respiratory health matter? American Journal of Epidemiology, 195(5) (full text read Nov 8, 2026, Europe PMC PMC13149003, CC BY 4.0)",
+     "url": "https://doi.org/10.1093/aje/kwag042"
+    }
+   ],
+   "other": [
+    {
+     "label": "Muzus. (2026). Bodem voor de buurt: Klimaatadaptatie in Tuindorp Oostzaan [Project page]. Retrieved Nov 8, 2026",
+     "url": "https://muzus.nl/projecten/bodemvoordebuurt/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "DDW press kit photo of a waterlogged green under a tree in Tuindorp Oostzaan",
+     "credit": "Muzus (DDW press kit, Dutch Design Week)",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/if-soil-could-speak-als-de-bodem-kan-praten",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "DDW press kit photo of a paved front garden in Tuindorp Oostzaan",
+     "credit": "Muzus (DDW press kit, Dutch Design Week)",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/if-soil-could-speak-als-de-bodem-kan-praten",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "DDW press kit photo of potted plants with an orange sign reading Weg met die tegels",
+     "credit": "Muzus (DDW press kit, Dutch Design Week)",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/if-soil-could-speak-als-de-bodem-kan-praten",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Islam et al. (2026), Figure 1: soil and compost columns on a wooden rack, with a timer and drained water in cups",
+     "credit": "Islam et al. (2026), PLOS ONE, Fig. 1, CC BY",
+     "url": "https://doi.org/10.1371/journal.pone.0355866",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Soil-column timer: infiltration rate after six months as a multiple of the no-compost columns, at 15, 30 and 50% compost",
+     "credit": "Chart: Ask a Neuroscientist, from Islam et al. (2026) data",
+     "url": "https://doi.org/10.1371/journal.pone.0355866",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Interval chart made for this post, drawn in code by Claude, persona Soil-column timer: odds ratios and 95% intervals for psychological distress in damp years, by lung condition",
+     "credit": "Chart: Ask a Neuroscientist, from Gatto et al. (2026) data, Table 2",
+     "url": "https://doi.org/10.1093/aje/kwag042",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Islam et al. (2026), PLOS ONE",
+     "url": "https://doi.org/10.1371/journal.pone.0355866",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Gatto et al. (2026), American Journal of Epidemiology",
+     "url": "https://doi.org/10.1093/aje/kwag042",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Islam et al. (2026), Figure 4A: water held at field capacity at each compost rate, in both soils",
+     "credit": "Islam et al. (2026), PLOS ONE, cropped from Fig. 4, CC BY",
+     "url": "https://doi.org/10.1371/journal.pone.0355866",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "apr-27-nyc03",
    "date": "2027-04-27",
    "time": "09:00 HST",
@@ -86950,6 +87553,207 @@
    ]
   },
   {
+   "slug": "apr-29-hibs02",
+   "date": "2027-04-29",
+   "time": "09:00 HST",
+   "id": "HIBS02",
+   "title": "Puʻuwai Paʻiai Desserts: kalo, and why it is cooked before it is eaten",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://hawaiicannabisexpo.com/exhibitor-archive/puuwai-paiai/"
+   },
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Paull, R. E., Zerpa-Catanho, D., Chen, N. J., Uruu, G., Wai, C. M. J., & Kantar, M. (2022). Taro raphide-associated proteins: Allergens and crystal growth. Plant Direct, 6(9), e443 (full text read Nov 8, 2026, Europe PMC PMC9440338, CC BY 4.0)",
+     "url": "https://doi.org/10.1002/pld3.443"
+    },
+    {
+     "label": "Zi, H., Chen, R., Jia, N., Ma, Y., Zhao, C., Chen, Z., & Zhang, J. (2024). Impact of cooking duration on calcium oxalate needle-like crystals in plants: A case study of vegetable taro flowers in Yunnan. Foods, 13(23), 3730 (full text read Nov 8, 2026, Europe PMC PMC11640078, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/foods13233730"
+    },
+    {
+     "label": "Foster, S. C., Cheung, C., Tipton, L., Baker, J. D., Keahi-Wood, K. K., & Perrault Uptmor, K. A. (2025). Volatile organic compound profiling of commercial poi products in fresh and aged states using comprehensive two-dimensional gas chromatography. ACS Omega, 10(20), 20754 (full text read Nov 8, 2026, Europe PMC PMC12120601, CC BY 4.0)",
+     "url": "https://doi.org/10.1021/acsomega.5c01820"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Expo listing text for Puʻuwai Paʻiai Desserts",
+     "credit": "Hawaii Cannabis Expo exhibitor listing, Puʻuwai Paʻiai Desserts (quoted; all rights reserved)",
+     "url": "https://hawaiicannabisexpo.com/exhibitor-archive/puuwai-paiai/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Taro leaf broad and heart shaped on leaf litter",
+     "credit": "florawhite / iNaturalist (CC BY 4.0)",
+     "url": "https://www.inaturalist.org/observations/150893962",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Zi et al. (2024), Figure 3: needle crystals in fresh taro flower tissue at 100x zoom",
+     "credit": "Zi et al. (2024), Foods, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.3390/foods13233730",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Raphide needle counter: average needle length and count in one 100x field of taro flower, fresh and after 30, 60 and 120 minutes of steaming",
+     "credit": "Chart: Ask a Neuroscientist, from Zi et al. (2024) data",
+     "url": "https://doi.org/10.3390/foods13233730",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Paull et al. (2022), Figure 6: hazelnut allergen test strips dipped in leaf extract of a low acrid and a highly acrid taro variety and water",
+     "credit": "Paull et al. (2022), Plant Direct, Fig. 6, CC BY",
+     "url": "https://doi.org/10.1002/pld3.443",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Raphide needle counter: aroma compounds found in three commercial pois, in all three brands, and in every fresh and aged sample",
+     "credit": "Chart: Ask a Neuroscientist, from Foster et al. (2025) data",
+     "url": "https://doi.org/10.1021/acsomega.5c01820",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Type card made for this post",
+     "credit": "Paull et al. (2022), Plant Direct",
+     "url": "https://doi.org/10.1002/pld3.443",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Zi et al. (2024), Foods",
+     "url": "https://doi.org/10.3390/foods13233730",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Taro leaf stalks rising from the base of the plant",
+     "credit": "florawhite / iNaturalist, leaf stalks (CC BY 4.0)",
+     "url": "https://www.inaturalist.org/observations/150893962",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "apr-30-pdst01",
+   "date": "2027-04-30",
+   "time": "09:00 HST",
+   "id": "PDST01",
+   "title": "Does a strain name tell you what is in a mushroom? What lab tests show",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Sharchaton, A., Parsha, S., Azerrad, S. P., Dekel, Y., Rabah, N., Páleníček, T., & Kurzbaum, E. (2026). Surprising variability in tryptamine profiles of Psilocybe cubensis fruiting bodies: Inter- and intra-strain differences across 14 strains cultivated under controlled conditions. Journal of Fungi, 12(7), 486 (full text read Nov 8, 2026, Europe PMC PMC13412672, CC BY 4.0; PubMed 42506248; PMC open-access PDF used for Fig. 1 and the text crops; supplement not used)",
+     "url": "https://doi.org/10.3390/jof12070486"
+    },
+    {
+     "label": "Kurzbaum, E., Páleníček, T., Shrchaton, A., Azerrad, S., & Dekel, Y. (2025). Exploring Psilocybe cubensis strains: Cultivation techniques, psychoactive compounds, genetics and research gaps. Journal of Fungi, 11(2), 99 (full text read Nov 8, 2026, Europe PMC PMC11856550, CC BY 4.0; PubMed 39997393; two Fig. 1 photo panels)",
+     "url": "https://doi.org/10.3390/jof11020099"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Figure 1 of Sharchaton et al. (2026): photographs of the fruiting bodies of the 14 Psilocybe cubensis strains in the study, panels A to N, each grown in its own chamber under identical conditions (photos by the authors)",
+     "credit": "Sharchaton et al. (2026), Journal of Fungi, Fig. 1, CC BY 4.0",
+     "url": "https://doi.org/10.3390/jof12070486",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Text crop of Sharchaton et al. (2026), the sentence on species identity: strong molecular evidence that all investigated strains belong to the same species, P. cubensis (page 8)",
+     "credit": "Sharchaton et al. (2026), Journal of Fungi, text crop, CC BY 4.0",
+     "url": "https://doi.org/10.3390/jof12070486",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Chromatogram peak tracer: total tryptamines relative to the lowest of the 14 strains, lowest 1, middle 2.9 times, highest 7.9 times, worked from Table 1; no amounts, no strain names",
+     "credit": "Chart: Ask a Neuroscientist, from Sharchaton et al. (2026) data",
+     "url": "https://doi.org/10.3390/jof12070486",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Text crop of Sharchaton et al. (2026), the sentence on how the compounds relate: no consistent relationship among the compounds; high levels of one did not predict the others (page 6)",
+     "credit": "Sharchaton et al. (2026), Journal of Fungi, text crop, CC BY 4.0",
+     "url": "https://doi.org/10.3390/jof12070486",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Chromatogram peak tracer: coefficient of variation of psilocybin among five mushrooms of one strain, least varied 12.8% and most varied 23.4% of six strains, from Table 2; no strain names",
+     "credit": "Chart: Ask a Neuroscientist, from Sharchaton et al. (2026) data",
+     "url": "https://doi.org/10.3390/jof12070486",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Text crop of Sharchaton et al. (2026), the methods sentence on strain identity: with no comprehensive genetic reference database for these strains, identity was checked by appearance (page 3)",
+     "credit": "Sharchaton et al. (2026), Journal of Fungi, text crop, CC BY 4.0",
+     "url": "https://doi.org/10.3390/jof12070486",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Text crop of Sharchaton et al. (2026), the sentence on earlier studies: previous studies are inconsistent because of differences in growing, drying, extraction and instruments, making comparison difficult (page 8)",
+     "credit": "Sharchaton et al. (2026), Journal of Fungi, text crop, CC BY 4.0",
+     "url": "https://doi.org/10.3390/jof12070486",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Photograph panel cropped from Kurzbaum et al. (2025), Fig. 1, panel d: a cluster of long-stemmed, pale-capped fruiting bodies of one strain; Psilocybe cubensis fruiting bodies grown in the authors' laboratory (photo by the authors)",
+     "credit": "Kurzbaum et al. (2025), Journal of Fungi, cropped from Fig. 1d, CC BY 4.0",
+     "url": "https://doi.org/10.3390/jof11020099",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Text crop of Sharchaton et al. (2026), the conclusion sentence: species identification alone cannot reliably predict the psychoactive compound content (page 10)",
+     "credit": "Sharchaton et al. (2026), Journal of Fungi, text crop, CC BY 4.0",
+     "url": "https://doi.org/10.3390/jof12070486",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Sharchaton et al. (2026), Journal of Fungi",
+     "url": "https://doi.org/10.3390/jof12070486",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Sharchaton et al. (2026), Journal of Fungi",
+     "url": "https://doi.org/10.3390/jof12070486",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Number frame made for this post, drawn in code by Claude, persona Chromatogram peak tracer: the 6 tryptamines measured in every strain",
+     "credit": "Chart: Ask a Neuroscientist, from Sharchaton et al. (2026) data",
+     "url": "https://doi.org/10.3390/jof12070486",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "may-01-cons01",
    "date": "2027-05-01",
    "time": "09:00 HST",
@@ -87033,6 +87837,198 @@
      "what": "Reading of a measured value made for this post, drawn in code by Claude, persona Pass-or-fail ledger clerk: stimulus durations",
      "credit": "Chart: AaN, from Cogitate Consortium et al. (2025), Nature data",
      "url": "https://doi.org/10.1038/s41586-025-08888-1",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "may-02-pdaw08",
+   "date": "2027-05-02",
+   "time": "09:00 HST",
+   "id": "PDAW08",
+   "title": "A thriller's CIA program: what the 1977 Senate record says about MKULTRA",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://www.psychedelics.design/award-winners/winner26-lindsay-kent"
+   },
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "US Senate. (1977). Project MKULTRA, the CIA's program of research in behavioral modification: Joint hearing before the Select Committee on Intelligence and the Subcommittee on Health and Scientific Research of the Committee on Human Resources, 95th Cong., 1st sess. (August 3, 1977). US Government Printing Office (public domain; full record, 173 PDF pages, read Nov 8, 2026 from the copy RN saved, the same file as the Senate Intelligence Committee's own PDF)",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Psychedelics Design 2026, Day 2 awards session, Nov 7, 2026: Lindsay Kent's award video, RN's cleaned transcript (fatnugs-pd26-materials/granola/2026-11-07_day2_transcript.txt, read Nov 8, 2026; machine-made; the awards are not in RN's recordings)",
+     "url": "https://psychedelics.design/winners-gallery-2026"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Text crop of the organiser's winner page heading: 'Winner Storytelling', 'My Twin the Murderer', 'Lindsay Kent (aka The Hallucinarrator)' (words only; no cover, no portrait)",
+     "credit": "Text: Psychedelics Design, My Twin the Murderer winner page",
+     "url": "https://www.psychedelics.design/award-winners/winner26-lindsay-kent",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "The title page of the printed hearing record, uncut: 'Project MKULTRA, the CIA's Program of Research in Behavioral Modification', joint hearing before the Select Committee on Intelligence and the Subcommittee on Health and Scientific Research of the Committee on Human Resources, United States Senate, 95th Congress, first session, August 3, 1977 (record, title page; PDF p. 2)",
+     "credit": "Text: US Senate, Project MKULTRA hearing, 1977",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Admiral Turner's prepared statement as printed: 'The recovered documents fall roughly into three categories: First, there are 149 MKULTRA subprojects, many of which appear to have some connection with research into behavioral modification, drug acquisition and testing or administering drugs surreptitiously.' (record p. 5; PDF p. 9)",
+     "credit": "Text: US Senate, Project MKULTRA hearing, 1977",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Records-box tally clerk: the CIA's 1977 count of its drug and alcohol subprojects, 17 probably without human testing, 14 with volunteers, 19 probably with volunteers (some may have been unwitting), 6 with unwitting subjects (record p. 6)",
+     "credit": "Chart: AaN, from the 1977 Senate MKULTRA hearing record",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Senator Kennedy's opening statement as printed: 'The Central Intelligence Agency drugged American citizens without their knowledge or consent",
+     "credit": "Text: US Senate, Project MKULTRA hearing, 1977",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Senator Kennedy's question as printed, reading from CIA documents: '... at least with the signature of your principal agent out there, that, \"called to the operation, midnight, and climax.\" ... Do you draw any kind of conclusion about what might have been going on out there in these safe houses?' and Admiral Turner's answer 'No, sir.' (record p. 48; PDF p. 52)",
+     "credit": "Text: US Senate, Project MKULTRA hearing, 1977",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The exchange as printed: Senator Kennedy asks how many people were recruited; Admiral Turner: 'No idea.' ... 'either there were no records kept of the actual numbers and types of people tested or they were destroyed.' (record p. 38; PDF p. 42)",
+     "credit": "Text: US Senate, Project MKULTRA hearing, 1977",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Text crop of the organiser's winner page description: '... only to uncover a chilling truth: Ben and their father were part of a CIA mind control program, and now a former test subject ... is using Evelyn's corrupted formula to unleash chaos on the city.' (words only)",
+     "credit": "Text: Psychedelics Design, My Twin the Murderer winner page",
+     "url": "https://www.psychedelics.design/award-winners/winner26-lindsay-kent",
+     "card": false
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "US Senate, Project MKULTRA hearing, 1977",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Admiral Turner's prepared statement as printed, heading 1 of the 149 subprojects: 'Research into the effects of behavioral drugs and/or alcohol: 17 subprojects probably not involving human testing; 14 ... definitely involving tests on human volunteers; 19 ... probably including tests on human volunteers ...; 6 subprojects involving tests on unwitting subjects.' (record p. 6; PDF p. 10)",
+     "credit": "Text: US Senate, Project MKULTRA hearing, 1977",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "may-03-ddwbs09",
+   "date": "2027-05-03",
+   "time": "09:00 HST",
+   "id": "DDWBS09",
+   "title": "Water Purifier: a filter without plastic, and what fired clay removes",
+   "origin": {
+    "kind": "listing",
+    "label": "See the work on the Dutch Design Week programme",
+    "url": "https://ddw.nl/en/programme/archive/2026/water-purifier"
+   },
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Solomon, A., Abebe, A. M., Terfasa, T. T., Ganesh, T., Hone, F. G., Tegegne, N. A., & Tesfamariam, B. B. (2023). Optimization of preparation parameters of ceramic pot water filters for potential application of microbial and fluoride removal from groundwater. Heliyon, 9(2), e13261 (full text read Nov 8, 2026, Europe PMC PMC9918763, CC BY 4.0)",
+     "url": "https://doi.org/10.1016/j.heliyon.2023.e13261"
+    },
+    {
+     "label": "Rao, G., Wells, E., Reynolds, C., Yoo, R., Kowalsky, E., DeFrance, J., Linden, K., & Brown, J. (2025). Systematic review of the microbiological performance of household water treatment technologies. Environmental Science & Technology, 59(41) (full text read Nov 8, 2026, Europe PMC PMC12550818, CC BY 3.0 IGO)",
+     "url": "https://doi.org/10.1021/acs.est.4c03494"
+    },
+    {
+     "label": "Zarate-Bermudez, M., Casillas, G., Hils, J., Yeh, M., & Carroll, Y. (2025). Human exposures to micro- and nanoplastics in water and data needed to understand potential health effects: A state-of-the-science review. Microplastics, 4(3), 60 (author manuscript read Nov 8, 2026, Europe PMC PMC13055644, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/microplastics4030060"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "DDW press kit photo of the three Water Purifiers on steel planters",
+     "credit": "Brian Bogyeom Kim (DDW press kit, Dutch Design Week)",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/water-purifier",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "DDW press kit photo of a chrome tap and two filter cartridges on a dark block",
+     "credit": "Brian Bogyeom Kim (DDW press kit, Dutch Design Week)",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/water-purifier",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Fired-clay drip counter: coliform bacteria per 100 mL of groundwater before and after eight small clay pot filters",
+     "credit": "Chart: Ask a Neuroscientist, from Solomon et al. (2023) data, Table 4",
+     "url": "https://doi.org/10.1016/j.heliyon.2023.e13261",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Solomon et al. (2023), Figure 5c: discharge rate of eight clay pot filters over five measured cycles",
+     "credit": "Solomon et al. (2023), Heliyon, cropped from Fig. 5, CC BY",
+     "url": "https://doi.org/10.1016/j.heliyon.2023.e13261",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Fired-clay drip counter: mean log removal of bacteria by ceramic filters in the lab and in typical use",
+     "credit": "Chart: Ask a Neuroscientist, from Rao et al. (2025) data, Table 1",
+     "url": "https://doi.org/10.1021/acs.est.4c03494",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Fired-clay drip counter: mean log removal by plain ceramic filters for bacteria, protozoa and viruses, across the reviewed studies",
+     "credit": "Chart: Ask a Neuroscientist, from Rao et al. (2025) data, Table 1",
+     "url": "https://doi.org/10.1021/acs.est.4c03494",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Rao et al. (2025), Environmental Science & Technology",
+     "url": "https://doi.org/10.1021/acs.est.4c03494",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Rao et al. (2025), Environmental Science & Technology",
+     "url": "https://doi.org/10.1021/acs.est.4c03494",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Solomon et al. (2023), Figure 5a: filtration rate for two sieve sizes of clay and additive",
+     "credit": "Solomon et al. (2023), Heliyon, cropped from Fig. 5, CC BY",
+     "url": "https://doi.org/10.1016/j.heliyon.2023.e13261",
      "card": false
     }
    ]
@@ -87127,6 +88123,99 @@
      "what": "Wagstyl et al. (2020), Figure 4, cropped: layer IV thickness maps, von Economo above and BigBrain below, with the abrupt change at the V1 to V2 border (PLOS Biology)",
      "credit": "Wagstyl et al. (2020), PLOS Biology, cropped from Fig. 4 (CC BY 4.0)",
      "url": "https://doi.org/10.1371/journal.pbio.3000678",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "may-05-clim01",
+   "date": "2027-05-05",
+   "time": "09:00 HST",
+   "id": "CLIM01",
+   "title": "Climate worry in young people: how it ranks beside loneliness and money worries",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Ogunbode, C. A., Player, L., Lu, S., Park, M. S.-A., & Doran, R. (2025). Climate anxiety in perspective: A look at dominant stressors in youth mental health and sleep. Annals of the New York Academy of Sciences, 1552(1), 249-262 (full text read Nov 8, 2026, PMC open-access text PMC12576874, CC BY 4.0; PubMed 40952991)",
+     "url": "https://doi.org/10.1111/nyas.70057"
+    },
+    {
+     "label": "Rodney-Wolf, K., Eisenschmidt, P., & Schmitz, J. (2026). Scoping review: Climate change-related anxiety and worry in children, adolescents, and young adults. European Child & Adolescent Psychiatry, 35(8), 2405-2444 (full text read Nov 8, 2026, PMC open-access text PMC13652895, CC BY 4.0; PubMed 42397399)",
+     "url": "https://doi.org/10.1007/s00787-026-03026-2"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Rank-tab sorter: moderate or severe climate anxiety in the two UK samples",
+     "credit": "Chart: Ask a Neuroscientist, from Ogunbode et al. (2025), Annals of the New York Academy of Sciences data",
+     "url": "https://doi.org/10.1111/nyas.70057",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Rank-tab sorter: about 60% very or extremely worried or anxious, 10-country youth survey, as the review reports",
+     "credit": "Chart: Ask a Neuroscientist, from Rodney-Wolf et al. (2026), European Child & Adolescent Psychiatry data (as the review reports)",
+     "url": "https://doi.org/10.1007/s00787-026-03026-2",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Rank-tab sorter: average climate anxiety score, 1.40 of 5, in both samples",
+     "credit": "Chart: Ask a Neuroscientist, from Ogunbode et al. (2025), Annals of the New York Academy of Sciences data",
+     "url": "https://doi.org/10.1111/nyas.70057",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Rank-tab sorter: partial correlations of climate anxiety with poorer mental health and insomnia, general sample",
+     "credit": "Chart: Ask a Neuroscientist, from Ogunbode et al. (2025), Annals of the New York Academy of Sciences data",
+     "url": "https://doi.org/10.1111/nyas.70057",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Rank-tab sorter: share of mental health differences explained by six stressors, general sample",
+     "credit": "Chart: Ask a Neuroscientist, from Ogunbode et al. (2025), Annals of the New York Academy of Sciences data",
+     "url": "https://doi.org/10.1111/nyas.70057",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Rank-tab sorter: share of insomnia differences explained by five stressors, students",
+     "credit": "Chart: Ask a Neuroscientist, from Ogunbode et al. (2025), Annals of the New York Academy of Sciences data",
+     "url": "https://doi.org/10.1111/nyas.70057",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Rank-tab sorter: severe climate anxiety, 0.3% and 0.2%",
+     "credit": "Chart: Ask a Neuroscientist, from Ogunbode et al. (2025), Annals of the New York Academy of Sciences data",
+     "url": "https://doi.org/10.1111/nyas.70057",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Ogunbode et al. (2025), Annals of the New York Academy of Sciences",
+     "url": "https://doi.org/10.1111/nyas.70057",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Rodney-Wolf et al. (2026), European Child & Adolescent Psychiatry",
+     "url": "https://doi.org/10.1007/s00787-026-03026-2",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Rank-tab sorter: 2024 UK poll: health service 85%, cost of living 84%, climate change 57%",
+     "credit": "Chart: Ask a Neuroscientist, from Ogunbode et al. (2025), Annals of the New York Academy of Sciences data",
+     "url": "https://doi.org/10.1111/nyas.70057",
      "card": false
     }
    ]
@@ -87229,6 +88318,108 @@
      "what": "Unfair Play's place and dates, image George&Harrison / Dutch Design Week press kit, detail of the place and dates",
      "credit": "Image: George&Harrison / Dutch Design Week press kit",
      "url": "https://app-api.ddw.nl/en/programme/archive/2025/unfair-play",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "may-07-hibs03",
+   "date": "2027-05-07",
+   "time": "09:00 HST",
+   "id": "HIBS03",
+   "title": "Streetfelt Tattoo + Aerosol: where tattoo ink goes in the body",
+   "origin": {
+    "kind": "main",
+    "label": "The main source this post is built on",
+    "url": "https://hawaiicannabisexpo.com/exhibitor-archive/streetfelt-tattoo-aerosol/"
+   },
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Schreiver, I., Hesse, B., Seim, C., Castillo-Michel, H., Villanova, J., Laux, P., Dreiack, N., Penning, R., Tucoulou, R., Cotte, M., & Luch, A. (2017). Synchrotron-based ν-XRF mapping and μ-FTIR microscopy enable to look into the fate and effects of tattoo pigments in human skin. Scientific Reports, 7, 11395 (full text read Nov 8, 2026, Europe PMC PMC5595966, CC BY 4.0)",
+     "url": "https://doi.org/10.1038/s41598-017-11721-z"
+    },
+    {
+     "label": "Schreiver, I., Hesse, B., Seim, C., Castillo-Michel, H., Anklamm, L., Villanova, J., Dreiack, N., Lagrange, A., Penning, R., De Cuyper, C., Tucoulou, R., Bäumler, W., Cotte, M., & Luch, A. (2019). Distribution of nickel and chromium containing particles from tattoo needle wear in humans and its possible impact on allergic reactions. Particle and Fibre Toxicology, 16, 33 (full text read Nov 8, 2026, Europe PMC PMC6710876, CC BY 4.0)",
+     "url": "https://doi.org/10.1186/s12989-019-0317-1"
+    },
+    {
+     "label": "Kochs, S., Schiewe, S., Foerster, M., Hillmann, K., Blankenstein, C., Meinke, M. C., Kugler, J., Kocovic, D., Luch, A., Blume-Peytavi, U., & Schreiver, I. (2025). Tat_BioV: Tattoo ink exposure and biokinetics of selected tracers in a short-term clinical study of 24 subjects. Archives of Toxicology, 99(4), 1341 (full text read Nov 8, 2026, Europe PMC PMC11968518, CC BY 4.0)",
+     "url": "https://doi.org/10.1007/s00204-025-03959-8"
+    },
+    {
+     "label": "Clemmensen, S. B., Mengel-From, J., Kaprio, J., Frederiksen, H., & von Bornemann Hjelmborg, J. (2025). Tattoo ink exposure is associated with lymphoma and skin cancers: A Danish study of twins. BMC Public Health, 25, 170 (full text read Nov 8, 2026, Europe PMC PMC11736920, CC BY 4.0)",
+     "url": "https://doi.org/10.1186/s12889-025-21413-3"
+    },
+    {
+     "label": "Hering, H., Zoschke, C., Kühn, M., Gadicherla, A. K., Weindl, G., Luch, A., & Schreiver, I. (2020). TatS: A novel in vitro tattooed human skin model for improved pigment toxicology research. Archives of Toxicology, 94(7), 2423 (abstract and figure captions read Nov 8, 2026, Europe PMC PMC7367916, CC BY 4.0)",
+     "url": "https://doi.org/10.1007/s00204-020-02825-z"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Expo listing text for Streetfelt Tattoo + Aerosol",
+     "credit": "Hawaii Cannabis Expo exhibitor listing, Streetfelt Tattoo + Aerosol (quoted; all rights reserved)",
+     "url": "https://hawaiicannabisexpo.com/exhibitor-archive/streetfelt-tattoo-aerosol/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Schreiver et al. (2017), Figure 1: drawing of tattoo particles moving from skin to a lymph node, drawn by the authors",
+     "credit": "Schreiver et al. (2017), Scientific Reports, Fig. 1, CC BY",
+     "url": "https://doi.org/10.1038/s41598-017-11721-z",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Schreiver et al. (2017), Figure 3a to c: microscope and X-ray fluorescence maps of tattooed skin and lymph node sections",
+     "credit": "Schreiver et al. (2017), Scientific Reports, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.1038/s41598-017-11721-z",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Schreiver et al. (2019), Figure 2c: electron micrographs of tattoo needles unused and after carbon black and titanium dioxide ink",
+     "credit": "Schreiver et al. (2019), Particle and Fibre Toxicology, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1186/s12989-019-0317-1",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Needle-wear tracer: ink per tattoo session applied and reaching the body, mean and 75th percentile, in grams",
+     "credit": "Chart: Ask a Neuroscientist, from Kochs et al. (2025) data, Table 2",
+     "url": "https://doi.org/10.1007/s00204-025-03959-8",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Hazard ratio chart drawn to scale made for this post, drawn in code by Claude, persona Needle-wear tracer: skin cancer and lymphoma with tattoos larger than a palm, and the twin-matched comparison, with 95% intervals",
+     "credit": "Chart: Ask a Neuroscientist, from Clemmensen et al. (2025) data",
+     "url": "https://doi.org/10.1186/s12889-025-21413-3",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Type card made for this post",
+     "credit": "Schreiver et al. (2017), Scientific Reports",
+     "url": "https://doi.org/10.1038/s41598-017-11721-z",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Kochs et al. (2025), Archives of Toxicology",
+     "url": "https://doi.org/10.1007/s00204-025-03959-8",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Hering et al. (2020), Figure 2: stained sections of lab-grown skin with and without tattoo pigments",
+     "credit": "Hering et al. (2020), Archives of Toxicology, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1007/s00204-020-02825-z",
      "card": false
     }
    ]
@@ -87518,6 +88709,104 @@
    ]
   },
   {
+   "slug": "may-12-sola01",
+   "date": "2027-05-12",
+   "time": "09:00 HST",
+   "id": "SOLA01",
+   "title": "Solastalgia: distress when your home place changes, and what German mine villages reported",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "disclaimer": "Education, not medical advice.",
+   "research": [
+    {
+     "label": "Krüger, T., Kraus, T., & Kaifie, A. (2022). A changing home: A cross-sectional study on environmental degradation, resettlement and psychological distress in a Western German coal-mining region. International Journal of Environmental Research and Public Health, 19(12), 7143 (full text read Nov 8, 2026, PMC open-access text PMC9223024, CC BY 4.0; PubMed 35742391)",
+     "url": "https://doi.org/10.3390/ijerph19127143"
+    },
+    {
+     "label": "Vela Sandquist, A., Biele, L., Ehlert, U., & Fischer, S. (2025). Is solastalgia associated with mental health problems? A scoping review. BMJ Mental Health, 28(1), e301639 (full text read Nov 8, 2026, Europe PMC PMC12336470, CC BY-NC 4.0: facts only; PubMed 40763988)",
+     "url": "https://doi.org/10.1136/bmjment-2025-301639"
+    }
+   ],
+   "other": [
+    {
+     "label": "NASA Earth Observatory (2022). Hambach coal mine. Astronaut photograph ISS067-E-15588, taken April 17, 2022, ISS Crew Earth Observations Facility and the Earth Science and Remote Sensing Unit, NASA Johnson Space Center (public domain)",
+     "url": "https://science.nasa.gov/earth/earth-observatory/hambach-coal-mine-150294"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Astronaut photograph of the Hambach surface mine, North Rhine-Westphalia, Germany, one of the two open-pit lignite mines in the study, taken from the International Space Station on April 17, 2022 (ISS067-E-15588), cropped to the pit and its surrounding villages",
+     "credit": "NASA Earth Observatory, astronaut photograph ISS067-E-15588 (public domain)",
+     "url": "https://science.nasa.gov/earth/earth-observatory/hambach-coal-mine-150294",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Pit-terrace contour liner: 620 respondents by village group",
+     "credit": "Chart: Ask a Neuroscientist, from Krüger et al. (2022), International Journal of Environmental Research and Public Health data",
+     "url": "https://doi.org/10.3390/ijerph19127143",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Krüger et al. (2022) Fig. 2, whole figure: frequency of observed environmental hazards (dust, mine noise, traffic, vibration, night light, resettlement noise) in villages facing resettlement (CC BY 4.0 figure; no change)",
+     "credit": "Krüger et al. (2022), IJERPH, Fig. 2, CC BY",
+     "url": "https://doi.org/10.3390/ijerph19127143",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Pit-terrace contour liner: solastalgia scores by village group",
+     "credit": "Chart: Ask a Neuroscientist, from Krüger et al. (2022), International Journal of Environmental Research and Public Health data",
+     "url": "https://doi.org/10.3390/ijerph19127143",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Pit-terrace contour liner: at least moderate anxiety symptoms by village group",
+     "credit": "Chart: Ask a Neuroscientist, from Krüger et al. (2022), International Journal of Environmental Research and Public Health data",
+     "url": "https://doi.org/10.3390/ijerph19127143",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Pit-terrace contour liner: lowest and highest correlations of solastalgia with three symptom scales",
+     "credit": "Chart: Ask a Neuroscientist, from Krüger et al. (2022), International Journal of Environmental Research and Public Health data",
+     "url": "https://doi.org/10.3390/ijerph19127143",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Pit-terrace contour liner: correlations between solastalgia and depression in three studies, as the review reports",
+     "credit": "Chart: Ask a Neuroscientist, from Vela Sandquist et al. (2025), BMJ Mental Health data",
+     "url": "https://doi.org/10.1136/bmjment-2025-301639",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Krüger et al. (2022), IJERPH",
+     "url": "https://doi.org/10.3390/ijerph19127143",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Krüger et al. (2022), IJERPH",
+     "url": "https://doi.org/10.3390/ijerph19127143",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Pit-terrace contour liner: after resettlement: living conditions improved 53.8%, mentally exhausted 33%",
+     "credit": "Chart: Ask a Neuroscientist, from Krüger et al. (2022), International Journal of Environmental Research and Public Health data",
+     "url": "https://doi.org/10.3390/ijerph19127143",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "may-18-wotw12",
    "date": "2027-05-18",
    "time": "09:00 HST",
@@ -87612,6 +88901,95 @@
      "what": "Douaud et al. (2022), Extended Data figure 6, cropped: ratio of brain to intracranial volume, change with age for controls and cases (Nature)",
      "credit": "Douaud et al. (2022), Nature, cropped from Extended Data figure 6 (CC BY 4.0)",
      "url": "https://doi.org/10.1038/s41586-022-04569-5",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "may-19-runm01",
+   "date": "2027-05-19",
+   "time": "09:00 HST",
+   "id": "RUNM01",
+   "title": "Running and new neurons in mice: from the 1999 study to a 2026 test",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "van Praag, H., Christie, B. R., Sejnowski, T. J., & Gage, F. H. (1999). Running enhances neurogenesis, learning, and long-term potentiation in mice. Proceedings of the National Academy of Sciences, 96(23), 13427-13431 (full text read Nov 8, 2026, PMC PMC23964, publisher open copy, © 1999 National Academy of Sciences: facts only; PubMed 10557337)",
+     "url": "https://doi.org/10.1073/pnas.96.23.13427"
+    },
+    {
+     "label": "Klausch, M., Schepers, J., von Bohlen und Halbach, V., & von Bohlen und Halbach, O. (2026). BDNF haploinsufficiency limits voluntary exercise-induced adult hippocampal neurogenesis. Biology, 15(17), 1536 (full text read Nov 8, 2026, PMC open-access text PMC13564571, CC BY 4.0; PubMed 42737967)",
+     "url": "https://doi.org/10.3390/biology15171536"
+    },
+    {
+     "label": "Alonso, M., Petit, A.-C., & Lledo, P.-M. (2024). The impact of adult neurogenesis on affective functions: Of mice and men. Molecular Psychiatry, 29(8), 2527-2542 (full text read Nov 8, 2026, PMC open-access text PMC11412911, CC BY 4.0; PubMed 38499657)",
+     "url": "https://doi.org/10.1038/s41380-024-02504-w"
+    }
+   ],
+   "other": [],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Klausch et al. (2026) Fig. 4, panel c only: doublecortin staining (red) of young neurons in the dentate gyrus of a runner mouse, cell nuclei in blue, scale bar 100 micrometres (cropped from the CC BY 4.0 figure; no other change)",
+     "credit": "Klausch et al. (2026), Biology, cropped from Fig. 4, CC BY",
+     "url": "https://doi.org/10.3390/biology15171536",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Klausch et al. (2026) Fig. 4, panel a only: doublecortin staining (red) in the dentate gyrus of a non-runner mouse, cell nuclei in blue, scale bar 100 micrometres (cropped from the CC BY 4.0 figure; no other change)",
+     "credit": "Klausch et al. (2026), Biology, cropped from Fig. 4, CC BY",
+     "url": "https://doi.org/10.3390/biology15171536",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Wheel-count logger: surviving labelled new cells, runners and controls, 1999",
+     "credit": "Chart: Ask a Neuroscientist, from van Praag et al. (1999), PNAS data (mice)",
+     "url": "https://doi.org/10.1073/pnas.96.23.13427",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Wheel-count logger: share of new cells that were neurons, 1999",
+     "credit": "Chart: Ask a Neuroscientist, from van Praag et al. (1999), PNAS data (mice)",
+     "url": "https://doi.org/10.1073/pnas.96.23.13427",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Klausch et al. (2026) Fig. 4, panel e only: box plot of doublecortin-positive neuron numbers in non-runners and runners with normal (+/+) or halved (+/-) BDNF (cropped from the CC BY 4.0 figure; no other change)",
+     "credit": "Klausch et al. (2026), Biology, cropped from Fig. 4, CC BY",
+     "url": "https://doi.org/10.3390/biology15171536",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Wheel-count logger: runner to non-runner ratios in 1999 and 2026",
+     "credit": "Chart: Ask a Neuroscientist, from van Praag et al. (1999), PNAS and Klausch et al. (2026), Biology data (mice)",
+     "url": "https://doi.org/10.3390/biology15171536",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "van Praag et al. (1999), PNAS",
+     "url": "https://doi.org/10.1073/pnas.96.23.13427",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Klausch et al. (2026), Biology",
+     "url": "https://doi.org/10.3390/biology15171536",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Reading of a measured value made for this post, drawn in code by Claude, persona Wheel-count logger: three weeks of free access to a wheel, 2026",
+     "credit": "Chart: Ask a Neuroscientist, from Klausch et al. (2026), Biology data (mice)",
+     "url": "https://doi.org/10.3390/biology15171536",
      "card": false
     }
    ]

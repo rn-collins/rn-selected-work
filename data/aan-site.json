@@ -372,9 +372,19 @@
    "releasedAt": "2026-12-27",
    "hold": false
   },
+  "dec-27-pdkt01": {
+   "path": "/posts/dec-27-pdkt01/",
+   "releasedAt": "2026-12-27",
+   "hold": false
+  },
   "dec-06": {
    "path": "/posts/dec-06/",
    "releasedAt": "2026-12-28",
+   "hold": false
+  },
+  "dec-29-ddwbs07": {
+   "path": "/posts/dec-29-ddwbs07/",
+   "releasedAt": "2026-12-29",
    "hold": false
   },
   "dec-29": {
@@ -877,6 +887,11 @@
    "releasedAt": "2027-04-08",
    "hold": false
   },
+  "apr-09-pdrk01": {
+   "path": "/posts/apr-09-pdrk01/",
+   "releasedAt": "2027-04-09",
+   "hold": false
+  },
   "apr-10-nyc01": {
    "path": "/posts/apr-10-nyc01/",
    "releasedAt": "2027-04-10",
@@ -942,6 +957,11 @@
    "releasedAt": "2027-04-21",
    "hold": false
   },
+  "apr-22-hibs01": {
+   "path": "/posts/apr-22-hibs01/",
+   "releasedAt": "2027-04-22",
+   "hold": false
+  },
   "apr-23-pdoc01": {
    "path": "/posts/apr-23-pdoc01/",
    "releasedAt": "2027-04-23",
@@ -952,9 +972,29 @@
    "releasedAt": "2027-04-24",
    "hold": false
   },
+  "apr-25-mdpd01": {
+   "path": "/posts/apr-25-mdpd01/",
+   "releasedAt": "2027-04-25",
+   "hold": false
+  },
+  "apr-26-ddwbs08": {
+   "path": "/posts/apr-26-ddwbs08/",
+   "releasedAt": "2027-04-26",
+   "hold": false
+  },
   "apr-27-nyc03": {
    "path": "/posts/apr-27-nyc03/",
    "releasedAt": "2027-04-27",
+   "hold": false
+  },
+  "apr-29-hibs02": {
+   "path": "/posts/apr-29-hibs02/",
+   "releasedAt": "2027-04-29",
+   "hold": false
+  },
+  "apr-30-pdst01": {
+   "path": "/posts/apr-30-pdst01/",
+   "releasedAt": "2027-04-30",
    "hold": false
   },
   "may-01-cons01": {
@@ -962,14 +1002,34 @@
    "releasedAt": "2027-05-01",
    "hold": false
   },
+  "may-02-pdaw08": {
+   "path": "/posts/may-02-pdaw08/",
+   "releasedAt": "2027-05-02",
+   "hold": false
+  },
+  "may-03-ddwbs09": {
+   "path": "/posts/may-03-ddwbs09/",
+   "releasedAt": "2027-05-03",
+   "hold": false
+  },
   "may-04-wotw10": {
    "path": "/posts/may-04-wotw10/",
    "releasedAt": "2027-05-04",
    "hold": false
   },
+  "may-05-clim01": {
+   "path": "/posts/may-05-clim01/",
+   "releasedAt": "2027-05-05",
+   "hold": false
+  },
   "may-06-ufpl01": {
    "path": "/posts/may-06-ufpl01/",
    "releasedAt": "2027-05-06",
+   "hold": false
+  },
+  "may-07-hibs03": {
+   "path": "/posts/may-07-hibs03/",
+   "releasedAt": "2027-05-07",
    "hold": false
   },
   "may-08-leaf01": {
@@ -987,6 +1047,11 @@
    "releasedAt": "2027-05-11",
    "hold": false
   },
+  "may-12-sola01": {
+   "path": "/posts/may-12-sola01/",
+   "releasedAt": "2027-05-12",
+   "hold": false
+  },
   "may-13": {
    "path": "/posts/may-13/",
    "releasedAt": "2027-05-13",
@@ -995,6 +1060,11 @@
   "may-18-wotw12": {
    "path": "/posts/may-18-wotw12/",
    "releasedAt": "2027-05-18",
+   "hold": false
+  },
+  "may-19-runm01": {
+   "path": "/posts/may-19-runm01/",
+   "releasedAt": "2027-05-19",
    "hold": false
   },
   "jun-14-smk01": {
