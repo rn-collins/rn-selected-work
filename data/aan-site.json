@@ -632,6 +632,16 @@
    "releasedAt": "2027-02-16",
    "hold": false
   },
+  "feb-17-pdgn01": {
+   "path": "/posts/feb-17-pdgn01/",
+   "releasedAt": "2027-02-17",
+   "hold": false
+  },
+  "feb-18-lean01": {
+   "path": "/posts/feb-18-lean01/",
+   "releasedAt": "2027-02-18",
+   "hold": false
+  },
   "feb-19-psaa03": {
    "path": "/posts/feb-19-psaa03/",
    "releasedAt": "2027-02-19",
@@ -640,6 +650,11 @@
   "feb-20-psaa05": {
    "path": "/posts/feb-20-psaa05/",
    "releasedAt": "2027-02-20",
+   "hold": false
+  },
+  "feb-10": {
+   "path": "/posts/feb-10/",
+   "releasedAt": "2027-02-21",
    "hold": false
   },
   "feb-21-pdps01": {
@@ -655,6 +670,11 @@
   "feb-23-wotw04": {
    "path": "/posts/feb-23-wotw04/",
    "releasedAt": "2027-02-23",
+   "hold": false
+  },
+  "feb-24-pdaw03": {
+   "path": "/posts/feb-24-pdaw03/",
+   "releasedAt": "2027-02-24",
    "hold": false
   },
   "feb-26-psav01": {
@@ -677,6 +697,16 @@
    "releasedAt": "2027-03-02",
    "hold": false
   },
+  "mar-03-pdaw04": {
+   "path": "/posts/mar-03-pdaw04/",
+   "releasedAt": "2027-03-03",
+   "hold": false
+  },
+  "mar-05-pdsc04": {
+   "path": "/posts/mar-05-pdsc04/",
+   "releasedAt": "2027-03-05",
+   "hold": false
+  },
   "mar-06-rom01": {
    "path": "/posts/mar-06-rom01/",
    "releasedAt": "2027-03-06",
@@ -697,14 +727,29 @@
    "releasedAt": "2027-03-09",
    "hold": false
   },
+  "mar-10-pdaw05": {
+   "path": "/posts/mar-10-pdaw05/",
+   "releasedAt": "2027-03-10",
+   "hold": false
+  },
   "mar-11-dcc01": {
    "path": "/posts/mar-11-dcc01/",
    "releasedAt": "2027-03-11",
    "hold": false
   },
+  "mar-12-rqa05": {
+   "path": "/posts/mar-12-rqa05/",
+   "releasedAt": "2027-03-12",
+   "hold": false
+  },
   "mar-13-rom03": {
    "path": "/posts/mar-13-rom03/",
    "releasedAt": "2027-03-13",
+   "hold": false
+  },
+  "mar-14-pdsc03": {
+   "path": "/posts/mar-14-pdsc03/",
+   "releasedAt": "2027-03-14",
    "hold": false
   },
   "mar-15-psao05": {
@@ -717,9 +762,19 @@
    "releasedAt": "2027-03-16",
    "hold": false
   },
+  "mar-17-pdaw06": {
+   "path": "/posts/mar-17-pdaw06/",
+   "releasedAt": "2027-03-17",
+   "hold": false
+  },
   "mar-18-dcc02": {
    "path": "/posts/mar-18-dcc02/",
    "releasedAt": "2027-03-18",
+   "hold": false
+  },
+  "mar-19-rqa06": {
+   "path": "/posts/mar-19-rqa06/",
+   "releasedAt": "2027-03-19",
    "hold": false
   },
   "mar-20-rom04": {
@@ -727,9 +782,34 @@
    "releasedAt": "2027-03-20",
    "hold": false
   },
+  "mar-21-pdsc01": {
+   "path": "/posts/mar-21-pdsc01/",
+   "releasedAt": "2027-03-21",
+   "hold": false
+  },
   "mar-22-ukb01": {
    "path": "/posts/mar-22-ukb01/",
    "releasedAt": "2027-03-22",
+   "hold": false
+  },
+  "mar-23-wotw08": {
+   "path": "/posts/mar-23-wotw08/",
+   "releasedAt": "2027-03-23",
+   "hold": false
+  },
+  "mar-24-pdaw07": {
+   "path": "/posts/mar-24-pdaw07/",
+   "releasedAt": "2027-03-24",
+   "hold": false
+  },
+  "mar-25-pdtm01": {
+   "path": "/posts/mar-25-pdtm01/",
+   "releasedAt": "2027-03-25",
+   "hold": false
+  },
+  "mar-26-rqa07": {
+   "path": "/posts/mar-26-rqa07/",
+   "releasedAt": "2027-03-26",
    "hold": false
   },
   "mar-27-arch01": {
@@ -737,13 +817,18 @@
    "releasedAt": "2027-03-27",
    "hold": false
   },
+  "mar-28-pdsc02": {
+   "path": "/posts/mar-28-pdsc02/",
+   "releasedAt": "2027-03-28",
+   "hold": false
+  },
   "mar-29-ccf01": {
    "path": "/posts/mar-29-ccf01/",
    "releasedAt": "2027-03-29",
    "hold": false
   },
-  "mar-30-mshe01": {
-   "path": "/posts/mar-30-mshe01/",
+  "mar-30-wotw09": {
+   "path": "/posts/mar-30-wotw09/",
    "releasedAt": "2027-03-30",
    "hold": false
   },
@@ -752,9 +837,34 @@
    "releasedAt": "2027-03-31",
    "hold": false
   },
+  "apr-01-mshe01": {
+   "path": "/posts/apr-01-mshe01/",
+   "releasedAt": "2027-04-01",
+   "hold": false
+  },
+  "apr-02-rqa08": {
+   "path": "/posts/apr-02-rqa08/",
+   "releasedAt": "2027-04-02",
+   "hold": false
+  },
   "apr-03-ccf03": {
    "path": "/posts/apr-03-ccf03/",
    "releasedAt": "2027-04-03",
+   "hold": false
+  },
+  "apr-04-pdsc05": {
+   "path": "/posts/apr-04-pdsc05/",
+   "releasedAt": "2027-04-04",
+   "hold": false
+  },
+  "apr-05-ddwbs04": {
+   "path": "/posts/apr-05-ddwbs04/",
+   "releasedAt": "2027-04-05",
+   "hold": false
+  },
+  "apr-06-echo01": {
+   "path": "/posts/apr-06-echo01/",
+   "releasedAt": "2027-04-06",
    "hold": false
   },
   "apr-07-ccf04": {
@@ -762,9 +872,24 @@
    "releasedAt": "2027-04-07",
    "hold": false
   },
+  "apr-08-pdam01": {
+   "path": "/posts/apr-08-pdam01/",
+   "releasedAt": "2027-04-08",
+   "hold": false
+  },
   "apr-10-nyc01": {
    "path": "/posts/apr-10-nyc01/",
    "releasedAt": "2027-04-10",
+   "hold": false
+  },
+  "apr-11-pdsc06": {
+   "path": "/posts/apr-11-pdsc06/",
+   "releasedAt": "2027-04-11",
+   "hold": false
+  },
+  "apr-12-ddwbs05": {
+   "path": "/posts/apr-12-ddwbs05/",
+   "releasedAt": "2027-04-12",
    "hold": false
   },
   "apr-13-mwb01": {
@@ -787,14 +912,39 @@
    "releasedAt": "2027-04-16",
    "hold": false
   },
+  "apr-17": {
+   "path": "/posts/apr-17/",
+   "releasedAt": "2027-04-17",
+   "hold": false
+  },
   "apr-17-asl01": {
    "path": "/posts/apr-17-asl01/",
    "releasedAt": "2027-04-17",
    "hold": false
   },
+  "apr-18-pdvr01": {
+   "path": "/posts/apr-18-pdvr01/",
+   "releasedAt": "2027-04-18",
+   "hold": false
+  },
+  "apr-19-ddwbs06": {
+   "path": "/posts/apr-19-ddwbs06/",
+   "releasedAt": "2027-04-19",
+   "hold": false
+  },
   "apr-20-coch01": {
    "path": "/posts/apr-20-coch01/",
    "releasedAt": "2027-04-20",
+   "hold": false
+  },
+  "apr-21-pdmf01": {
+   "path": "/posts/apr-21-pdmf01/",
+   "releasedAt": "2027-04-21",
+   "hold": false
+  },
+  "apr-23-pdoc01": {
+   "path": "/posts/apr-23-pdoc01/",
+   "releasedAt": "2027-04-23",
    "hold": false
   },
   "apr-24-nyc02": {
@@ -812,6 +962,11 @@
    "releasedAt": "2027-05-01",
    "hold": false
   },
+  "may-04-wotw10": {
+   "path": "/posts/may-04-wotw10/",
+   "releasedAt": "2027-05-04",
+   "hold": false
+  },
   "may-06-ufpl01": {
    "path": "/posts/may-06-ufpl01/",
    "releasedAt": "2027-05-06",
@@ -827,6 +982,21 @@
    "releasedAt": "2027-05-10",
    "hold": false
   },
+  "may-11-wotw11": {
+   "path": "/posts/may-11-wotw11/",
+   "releasedAt": "2027-05-11",
+   "hold": false
+  },
+  "may-13": {
+   "path": "/posts/may-13/",
+   "releasedAt": "2027-05-13",
+   "hold": false
+  },
+  "may-18-wotw12": {
+   "path": "/posts/may-18-wotw12/",
+   "releasedAt": "2027-05-18",
+   "hold": false
+  },
   "jun-14-smk01": {
    "path": "/posts/jun-14-smk01/",
    "releasedAt": "2027-06-14",
@@ -835,6 +1005,16 @@
   "jun-21-umbr01": {
    "path": "/posts/jun-21-umbr01/",
    "releasedAt": "2027-06-21",
+   "hold": false
+  },
+  "oct-18-2027": {
+   "path": "/posts/oct-18-2027/",
+   "releasedAt": "2027-10-18",
+   "hold": false
+  },
+  "nov-08-2027": {
+   "path": "/posts/nov-08-2027/",
+   "releasedAt": "2027-11-08",
    "hold": false
   }
  },
