@@ -8705,6 +8705,10 @@
    "disclaimer": "Education, not medical advice.",
    "research": [
     {
+     "label": "Jepsen, J. (2021). Prevalence and Perceptions of Herbal Medicine Use in Eastern Jamaica. Scholarship in Medicine, Wright State University CORE Scholar, Dayton, Ohio (student final report, mentor Dr. Thomas Herchline; no licence statement on the PDF or the record, free to read). Read in full Nov 8, 2026 from the PDF RN supplied (sources/aanpm40/Jepsen-2021-herbal-medicine-eastern-jamaica.pdf).",
+     "url": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76"
+    },
+    {
      "label": "Clement, Y. N., Williams, A. F., Khan, K., Bernard, T., Bhola, S., Fortuné, M., Medupe, O., Nagee, K., & Seaforth, C. E. (2005). A gap between acceptance and knowledge of herbal remedies by physicians: The need for educational intervention. BMC Complementary and Alternative Medicine, 5, 20. https://doi.org/10.1186/1472-6882-5-20 (CC BY 2.0; read in full Nov 7, 2026, PMC open-access text and PDF, PMC1310610)",
      "url": "https://doi.org/10.1186/1472-6882-5-20"
     }
@@ -8732,34 +8736,41 @@
     },
     {
      "where": "Slide 3",
+     "what": "Chart of Jepsen (2021), Tables 3 and 8: 43 of 68 adults surveyed at eight clinics in St. Mary Parish, Jamaica (63%) had used herbs for medicinal purposes in the past year; of those 43, 21 (48.8%) said their health care provider was not aware, 13 (30.2%) said the provider was aware, and 9 did not answer",
+     "credit": "Chart: Ask a Neuroscientist, from Jepsen 2021 data",
+     "url": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
      "what": "From the abstract of the 2005 Trinidad survey",
      "credit": "Text: Clement et al. (2005), BMC Complement Altern Med 5:20, CC BY 2.0",
      "url": "https://doi.org/10.1186/1472-6882-5-20",
      "card": false
     },
     {
-     "where": "Slide 4",
+     "where": "Slide 5",
      "what": "Chart of Clement et al. (2005): 78 of 192 doctors (40.6%) had used herbs, and 60 of those 78 (76.9%) were satisfied with the outcome",
      "credit": "Chart: AaN, from Clement et al. (2005) data",
      "url": "https://doi.org/10.1186/1472-6882-5-20",
      "card": false
     },
     {
-     "where": "Slide 5",
+     "where": "Slide 6",
      "what": "Lemongrass in Montserrat, photo Quentin Groom",
      "credit": "Photo: Quentin Groom, iNaturalist (CC0)",
      "url": "https://www.inaturalist.org/observations/125446238",
      "card": false
     },
     {
-     "where": "Slide 6",
+     "where": "Slide 7",
      "what": "From the abstract of the 2005 survey on interactions",
      "credit": "Text: Clement et al. (2005), BMC Complement Altern Med 5:20, CC BY 2.0",
      "url": "https://doi.org/10.1186/1472-6882-5-20",
      "card": false
     },
     {
-     "where": "Slide 7",
+     "where": "Slide 8",
      "what": "From RN's essay on what a record needs",
      "credit": "Text: RN Collins, Her Garden Was Her Medicine Cabinet, The Polymath (2026)",
      "url": "https://polymath-rn-collins.beehiiv.com/p/her-garden-was-her-medicine-cabinet",
