@@ -3,17 +3,48 @@
  "title": "Storytelling strategist, content and experiential producer, resident neuroscientist and design technologist",
  "subtitle": "Neuroscientist, anatomist and builder turned content creator",
  "leaveOut": {
-  "rn": ["x", "website"],
-  "aan": ["x", "website"]
+  "rn": [
+   "x",
+   "website",
+   "linkedin"
+  ],
+  "aan": [
+   "x",
+   "website"
+  ]
  },
  "aan": {
-  "site": { "label": "Ask a Neuroscientist", "url": "https://askaneuroscientist.vercel.app/", "note": "How plants, places and daily life act on the brain" },
-  "sources": { "label": "Every post's sources", "url": "https://rn-selected-work.vercel.app/sources" }
+  "site": {
+   "label": "Ask a Neuroscientist",
+   "url": "https://askaneuroscientist.vercel.app/",
+   "note": "How plants, places and daily life act on the brain"
+  },
+  "sources": {
+   "label": "Every post's sources",
+   "url": "https://rn-selected-work.vercel.app/sources"
+  }
  },
  "rn": {
-  "site": { "label": "RN Selected Work", "url": "https://rn-selected-work.vercel.app/", "note": "Research, systems, builds and writing" }
+  "site": {
+   "label": "RN Selected Work",
+   "url": "https://rn-selected-work.vercel.app/",
+   "note": "Research, systems, builds and writing"
+  }
  },
- "newsletter": { "label": "The Polymath", "url": "https://polymath-rn-collins.beehiiv.com/", "note": "The newsletter for both brands. Subscribe on Beehiiv." },
- "linkedin": { "label": "RN on LinkedIn", "url": "https://www.linkedin.com/in/rn-collins", "note": "The way to get in touch" },
- "workWithMe": { "label": "Work with me", "url": "/work-with-me", "note": "Services and the DDW 2026 case study", "confirm": true }
+ "newsletter": {
+  "label": "The Polymath",
+  "url": "https://polymath-rn-collins.beehiiv.com/",
+  "note": "The newsletter for both brands. Subscribe on Beehiiv."
+ },
+ "linkedin": {
+  "label": "RN on LinkedIn",
+  "url": "https://www.linkedin.com/in/rn-collins",
+  "note": "The way to get in touch"
+ },
+ "workWithMe": {
+  "label": "Work with me",
+  "url": "/work-with-me",
+  "note": "Services and the DDW 2026 case study",
+  "confirm": true
+ }
 }
