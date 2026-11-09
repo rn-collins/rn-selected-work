@@ -1,5 +1,5 @@
 {
- "note": "The /links page (RN's business card QR code and NFC, MJBizCon Dec 1, 2026). Edit this file, not the page. Platform accounts come from data/social-links.json, minus the ids listed in 'leaveOut'. An entry with \"confirm\": true is shown only once RN confirms it (set confirm to false). No email addresses or phone numbers here.",
+ "note": "The /links page (RN's business card QR code and NFC, MJBizCon Dec 1, 2026). Edit this file, not the page. Platform accounts come from data/social-links.json, minus the ids listed in 'leaveOut'. An entry with \"confirm\": true is shown only once RN confirms it (set confirm to false). Email: the three addresses below are public by RN's decision (Nov 9, 2026), on /links and its vCard only. No phone numbers.",
  "title": "Storytelling strategist, content and experiential producer, resident neuroscientist and design technologist",
  "subtitle": "Neuroscientist, anatomist and builder turned content creator",
  "leaveOut": {
@@ -9,7 +9,6 @@
    "linkedin"
   ],
   "aan": [
-   "x",
    "website"
   ]
  },
@@ -46,5 +45,19 @@
   "url": "/work-with-me",
   "note": "Services and the DDW 2026 case study",
   "confirm": true
- }
+ },
+ "email": [
+  {
+   "label": "Psychoactive plant science media and Fat Nugs",
+   "address": "rn@fatnugsmag.com"
+  },
+  {
+   "label": "Law (RN Collins / Antithesis)",
+   "address": "rncollins@antithesis.law"
+  },
+  {
+   "label": "Academic (Northeastern)",
+   "address": "collins.ra@northeastern.edu"
+  }
+ ]
 }
