@@ -8510,7 +8510,7 @@
   {
    "id": "film/fc-05",
    "releasedAt": "2026-11-11",
-   "hold": false,
+   "hold": true,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/film/fc-05",
@@ -8609,7 +8609,7 @@
   {
    "id": "film/fc-16",
    "releasedAt": "2026-11-09",
-   "hold": false,
+   "hold": true,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/film/fc-16",
@@ -8690,7 +8690,7 @@
   {
    "id": "film/fc-25",
    "releasedAt": "2026-11-10",
-   "hold": false,
+   "hold": true,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/film/fc-25",
@@ -8717,7 +8717,7 @@
   {
    "id": "film/fc-28",
    "releasedAt": "2026-11-12",
-   "hold": false,
+   "hold": true,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/film/fc-28",
@@ -9257,7 +9257,7 @@
   {
    "id": "htw/c14-08",
    "releasedAt": "2026-11-11",
-   "hold": false,
+   "hold": true,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/htw/c14-08",
@@ -9815,7 +9815,7 @@
   {
    "id": "ioo/c01-p12",
    "releasedAt": "2026-11-09",
-   "hold": false,
+   "hold": true,
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/ioo/c01-p12",
@@ -10596,7 +10596,7 @@
   {
    "id": "kbyg/kb22",
    "releasedAt": "2026-11-10",
-   "hold": false,
+   "hold": true,
    "postUrls": {},
    "longFormUrl": "https://rn-selected-work.vercel.app/essays/kbyg/kb22",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/kbyg/kb22",
