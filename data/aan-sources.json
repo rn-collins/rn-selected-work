@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08",
+ "generated": "2026-11-09",
  "host": "rn-selected-work.vercel.app",
  "posts": [
   {
@@ -87564,6 +87564,92 @@
    ]
   },
   {
+   "slug": "apr-28-art01",
+   "date": "2027-04-28",
+   "time": "09:00 HST",
+   "id": "ART01",
+   "title": "Why does the brain draw the hand so big?",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Catani, M. (2017). A little man of some importance. Brain, 140(11), 3055-3061 (full text read Nov 8, 2026, PMC Open Access dataset PMC5841206.1, licence_code CC BY in the dataset metadata; article states CC BY 4.0; PubMed 29088352)",
+     "url": "https://doi.org/10.1093/brain/awx270"
+    }
+   ],
+   "other": [
+    {
+     "label": "The Metropolitan Museum of Art. (n.d.). Albrecht Dürer, Self-portrait, Study of a Hand and a Pillow (recto); Six Studies of Pillows (verso), 1493, pen and brown ink, 1975.1.862 (Collection API record 459214 read in full Nov 8, 2026; isPublicDomain true; Open Access, CC0)",
+     "url": "https://www.metmuseum.org/art/collection/search/459214"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Albrecht Dürer, Self-portrait, Study of a Hand and a Pillow (recto), 1493, pen and brown ink, 1975.1.862, detail: the hand (The Metropolitan Museum of Art)",
+     "credit": "The Metropolitan Museum of Art, Open Access (CC0)",
+     "url": "https://www.metmuseum.org/art/collection/search/459214",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Catani (2017), Brain, Fig. 4, panels A and B: the homunculus redrawn with the proportions of the 1937 original, and redrawn from the surface area of the maps",
+     "credit": "Catani (2017), Brain, cropped from Fig. 4, CC BY",
+     "url": "https://doi.org/10.1093/brain/awx270",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Catani (2017), Brain, Fig. 2, panel C: count of motor stimulations for each body part, with every stimulation point on the brain outline, from Penfield and Boldrey (1937)",
+     "credit": "Catani (2017), Brain, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.1093/brain/awx270",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Catani (2017), Brain, Fig. 4, panels C and D: the homunculus redrawn from the vertical length of each map and from the number of stimulation points",
+     "credit": "Catani (2017), Brain, cropped from Fig. 4, CC BY",
+     "url": "https://doi.org/10.1093/brain/awx270",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Brown-ink study sheet: three counts of motor stimulations for the mouth and lips in the 1937 paper (21, 64, more than 100), as Catani (2017) reports them",
+     "credit": "Chart: Ask a Neuroscientist, from Catani (2017) data",
+     "url": "https://doi.org/10.1093/brain/awx270",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Catani (2017), Brain, Fig. 3, panel A: heat map of how many body parts overlap on the somatosensory cortex, from one to four or more",
+     "credit": "Catani (2017), Brain, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.1093/brain/awx270",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Catani (2017), Brain",
+     "url": "https://doi.org/10.1093/brain/awx270",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Catani (2017), Brain",
+     "url": "https://doi.org/10.1093/brain/awx270",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Catani (2017), Brain, Fig. 3, panel B: the overlapping body parts drawn as small icons along the central sulcus, with three enlarged insets",
+     "credit": "Catani (2017), Brain, cropped from Fig. 3, CC BY",
+     "url": "https://doi.org/10.1093/brain/awx270",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "apr-29-hibs02",
    "date": "2027-04-29",
    "time": "09:00 HST",
@@ -88533,6 +88619,107 @@
    ]
   },
   {
+   "slug": "may-09-art02",
+   "date": "2027-05-09",
+   "time": "09:00 HST",
+   "id": "ART02",
+   "title": "What passes through the holes in Leonardo's skull?",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Sugano, G. T., Pauris, C. C., Silva, Y. B. e, Pandini, F. E., Palermo, R. B. S., Buchaim, D. V., Buchaim, R. L., Chacon, E. L., Aparecida de Castro, C., Pagani, B. T., & da Cunha, M. R. (2022). Topographic and morphometric study of the foramen spinosum of the skull and its clinical correlation. Medicina, 58(12), 1740 (full text read Nov 8, 2026, Europe PMC XML and PMC Open Access dataset PMC9785582.1, license_code CC BY; article states CC BY 4.0; PubMed 36556942)",
+     "url": "https://doi.org/10.3390/medicina58121740"
+    },
+    {
+     "label": "Bhattarai, R., Panthi, S., Yadav, G. K., Bhandari, S., Acharya, R., Sharma, A., Shah, P. K., Koirala, S., Bhattarai, M., Gupta, M. K., & Khanal, B. (2023). Morphometric analysis of foramen ovale, foramen spinosum, and foramen rotundum of human skull using computed tomography scan: A cross-sectional study. Annals of Medicine and Surgery, 85(5), 1731-1736 (full text read Nov 8, 2026, Europe PMC XML and PMC Open Access dataset PMC10205317.1, license_code CC BY; article states CC BY 4.0; PubMed 37228912)",
+     "url": "https://doi.org/10.1097/MS9.0000000000000609"
+    },
+    {
+     "label": "Dzierżanowski, J., Krakowiak, M., Stelmach, J., Haczyk, N., & Zieliński, P. (2026). Leonardo di ser Piero da Vinci: A bridge between ancient and post-Galenic anatomy based on studies of the ventricular system of the brain. Frontiers in Neuroanatomy, 20, 1899378 (full text read Nov 8, 2026, PMC13490159; PMC Open Access dataset PMC13490159.1, license_code CC BY; article states CC BY)",
+     "url": "https://doi.org/10.3389/fnana.2026.1899378"
+    }
+   ],
+   "other": [
+    {
+     "label": "The Metropolitan Museum of Art. (n.d.). Wenceslaus Hollar, after Leonardo da Vinci, Sectioned skull in profile to left with the left side of the cranium removed, 1651, etching, only state, 17.50.18-103 (Collection API record 360714 read in full Nov 8, 2026; isPublicDomain true; Open Access, CC0)",
+     "url": "https://www.metmuseum.org/art/collection/search/360714"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Wenceslaus Hollar after Leonardo da Vinci, Sectioned skull in profile to left with the left side of the cranium removed, 1651, etching, 17.50.18-103 (The Metropolitan Museum of Art)",
+     "credit": "The Metropolitan Museum of Art, Open Access (CC0)",
+     "url": "https://www.metmuseum.org/art/collection/search/360714",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Sugano et al. (2022), Medicina, Fig. 1: the middle cranial fossa, a close photograph of the foramen ovale and foramen spinosum, and a dissection with the mandibular nerve and middle meningeal artery crossing them (the 1251 px image embedded in the article PDF of the same dataset record, md5 matching the metadata, because the dataset JPEG is 798 px)",
+     "credit": "Sugano et al. (2022), Medicina, Fig. 1, CC BY",
+     "url": "https://doi.org/10.3390/medicina58121740",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Sugano et al. (2022), Medicina, Fig. 2, left panel: inferior view of a dried skull with the foramen ovale, foramen spinosum and spine of the sphenoid marked",
+     "credit": "Sugano et al. (2022), Medicina, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.3390/medicina58121740",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Sugano et al. (2022), Medicina, Fig. 2, right panels: close views of the foramen ovale and foramen spinosum with the distance between them and the spinosum's width marked for measurement",
+     "credit": "Sugano et al. (2022), Medicina, cropped from Fig. 2, CC BY",
+     "url": "https://doi.org/10.3390/medicina58121740",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Chart drawn to scale made for this post, drawn in code by Claude, persona Three-bite etcher: the foramen ovale, rotundum and spinosum as ellipses of their mean CT length and width in 96 adults, areas 22.80, 4.58 and 3.69 square mm, as Bhattarai et al. (2023) report",
+     "credit": "Chart: Ask a Neuroscientist, from Bhattarai et al. (2023) data",
+     "url": "https://doi.org/10.1097/MS9.0000000000000609",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Sugano et al. (2022), Medicina, Fig. 6: four shapes of the foramen spinosum in dried skulls, oval, round, drop and irregular",
+     "credit": "Sugano et al. (2022), Medicina, Fig. 6, CC BY",
+     "url": "https://doi.org/10.3390/medicina58121740",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Sugano et al. (2022), Medicina, Fig. 7: a divided foramen spinosum and two duplicated ones",
+     "credit": "Sugano et al. (2022), Medicina, Fig. 7, CC BY",
+     "url": "https://doi.org/10.3390/medicina58121740",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Sugano et al. (2022), Medicina",
+     "url": "https://doi.org/10.3390/medicina58121740",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Bhattarai et al. (2023), Annals of Medicine and Surgery",
+     "url": "https://doi.org/10.1097/MS9.0000000000000609",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Sugano et al. (2022), Medicina, Fig. 5, left panel: a skull with the foramen spinosum beside the lateral lamina of the pterygoid process",
+     "credit": "Sugano et al. (2022), Medicina, cropped from Fig. 5, CC BY",
+     "url": "https://doi.org/10.3390/medicina58121740",
+     "card": false
+    }
+   ]
+  },
+  {
    "slug": "may-10-refd01",
    "date": "2027-05-10",
    "time": "09:00 HST",
@@ -88813,6 +89000,104 @@
      "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Pit-terrace contour liner: after resettlement: living conditions improved 53.8%, mentally exhausted 33%",
      "credit": "Chart: Ask a Neuroscientist, from Krüger et al. (2022), International Journal of Environmental Research and Public Health data",
      "url": "https://doi.org/10.3390/ijerph19127143",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "may-13-art03",
+   "date": "2027-05-13",
+   "time": "09:00 HST",
+   "id": "ART03",
+   "title": "Why did old anatomy count seven brain nerves, not twelve?",
+   "origin": null,
+   "series": "Ask a Neuroscientist",
+   "research": [
+    {
+     "label": "Benninger, B., & McNeil, J. (2010). Transitional nerve: A new and original classification of a peripheral nerve supported by the nature of the accessory nerve (CN XI). Neurology Research International, 2010, 476018 (full text read Nov 8, 2026, Europe PMC XML and PMC Open Access dataset PMC3026986.1, license_code CC BY, text md5 matches; article states CC BY 3.0)",
+     "url": "https://doi.org/10.1155/2010/476018"
+    },
+    {
+     "label": "Parent, A. (2019). Berengario da Carpi and the renaissance of brain anatomy. Frontiers in Neuroanatomy, 13, 11 (full text read Nov 8, 2026, PMC Open Access dataset PMC6381050.1, license_code CC BY, text md5 matches; article states CC BY 4.0)",
+     "url": "https://doi.org/10.3389/fnana.2019.00011"
+    },
+    {
+     "label": "Stoyanov, G. S., & Matev, B. K. (2018). Samuel Thomas von Sömmerring's contributions on the cranial nerves and vomeronasal organ. Cureus, 10(6), e2859 (full text read Nov 8, 2026, Europe PMC XML, then PMC Open Access dataset text PMC6107037.1 after a later Europe PMC request answered 500; license_code CC BY, text md5 matches; article states Creative Commons Attribution License)",
+     "url": "https://doi.org/10.7759/cureus.2859"
+    },
+    {
+     "label": "Gautron, L. (2026). Pictorial history of the early microscopic study of vagal sensory neurons. eNeuro, 13(8), ENEURO.0143-26.2026 (full text read Nov 8, 2026, PMC Open Access dataset PMC13485462.1, license_code CC BY, text and figure md5 match; article states CC BY 4.0)",
+     "url": "https://doi.org/10.1523/ENEURO.0143-26.2026"
+    }
+   ],
+   "other": [
+    {
+     "label": "Rijksmuseum. (n.d.). Anatomische studie van de ruggenwervel en zenuwen, anonymous, Low Countries, 1630 to 1649, RP-T-1989-285; Anatomische studie van de nieren en blaas, RP-T-1989-286; Skelet, RP-T-1989-256; and the records of RP-T-1989-258 to 289 (record pages and Linked Art data read Nov 8, 2026; Public Domain Mark 1.0)",
+     "url": "https://www.rijksmuseum.nl/en/collection/object/Anatomische-studie-van-de-ruggenwervel-en-zenuwen--46ea9d89e3153011db64598d5095aaed"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Anonymous draftsman of the Low Countries, Anatomical study of the spine and nerves (Anatomische studie van de ruggenwervel en zenuwen), 1630 to 1649, pen in brown and black ink on brown prepared paper, RP-T-1989-285 (Rijksmuseum)",
+     "credit": "Rijksmuseum, Amsterdam (public domain)",
+     "url": "https://www.rijksmuseum.nl/en/collection/object/Anatomische-studie-van-de-ruggenwervel-en-zenuwen--46ea9d89e3153011db64598d5095aaed",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Anonymous draftsman of the Low Countries, Anatomical study of the kidneys and bladder (Anatomische studie van de nieren en blaas), 1630 to 1649, pen in brown ink on brown prepared paper, RP-T-1989-286, detail: the kidneys and the note fig 20. lib. 8 (Rijksmuseum)",
+     "credit": "Rijksmuseum, Amsterdam (public domain)",
+     "url": "https://www.rijksmuseum.nl/en/collection/object/Anatomische-studie-van-de-nieren-en-blaas--d29ccd81e81b93d919bd1997ea13a5fc",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Chart drawn in code for this post by Claude, persona Folder copyist: Galen's seven pairs of brain nerves, each row holding today's nerve numbers as boxes (1, 2, 1, 1, 2, 3 and 1), with nerves I and VI marked not counted, from Parent (2019) and Benninger and McNeil (2010)",
+     "credit": "Chart: Ask a Neuroscientist, from Parent (2019) and Benninger & McNeil (2010) data",
+     "url": "https://doi.org/10.3389/fnana.2019.00011",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Gautron (2026), eNeuro, Fig. 1, panel A: Thomas Willis's 1664 drawing of the human peripheral nervous system, the nerves of the chest down to the heart",
+     "credit": "Gautron (2026), eNeuro, cropped from Fig. 1, CC BY",
+     "url": "https://doi.org/10.1523/ENEURO.0143-26.2026",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Gautron (2026), eNeuro, Fig. 1, panel B: zoomed detail of Willis's 1664 drawing, the vagus nerve labelled E and the ganglionic plexus labelled H, with the author's blue arrow",
+     "credit": "Gautron (2026), eNeuro, cropped from Fig. 1, CC BY",
+     "url": "https://doi.org/10.1523/ENEURO.0143-26.2026",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Folder copyist: pairs of brain nerves counted by Galen (7), Vesalius in 1543 (7), Willis in 1664 (9 or 10, both shown) and Soemmerring in 1778 (12)",
+     "credit": "Chart: Ask a Neuroscientist, from Benninger & McNeil (2010), Parent (2019) and Stoyanov & Matev (2018) data",
+     "url": "https://doi.org/10.1155/2010/476018",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Benninger & McNeil (2010), Neurology Research International",
+     "url": "https://doi.org/10.1155/2010/476018",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Stoyanov & Matev (2018), Cureus",
+     "url": "https://doi.org/10.7759/cureus.2859",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Folder copyist: drawings marked 'lib' in folder RP-T-1989-256 to 289 by number, lib 5: 2, lib 6: 2, lib 7: 3, lib 8: 10, counted from the Rijksmuseum records",
+     "credit": "Chart: Ask a Neuroscientist, from Rijksmuseum records RP-T-1989-273 to 289",
+     "url": "https://www.rijksmuseum.nl/en/collection/object/Anatomische-studie-van-de-ruggenwervel-en-zenuwen--46ea9d89e3153011db64598d5095aaed",
      "card": false
     }
    ]
