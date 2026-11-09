@@ -63,6 +63,7 @@ export default function LinksPage() {
         <p className={styles.name}>RN Collins</p>
         <h1 className={styles.title}>{hub.title}</h1>
         <p className={styles.subtitle}>{hub.subtitle}</p>
+        <a className={styles.save} href="/rn-collins-card.vcf" download="RN-Collins.vcf">Save my contact</a>
       </header>
 
       <section aria-labelledby="aan">

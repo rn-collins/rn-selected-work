@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Collins;RN;;;
+FN:RN Collins
+TITLE:Neuroscientist, anatomist and builder turned content creator
+URL;TYPE=WORK:https://rn-selected-work.vercel.app/links
+URL;TYPE=HOME:https://rn-selected-work.vercel.app/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/rn-collins
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/rn-collins
+NOTE:Links: rn-selected-work.vercel.app/links
+END:VCARD

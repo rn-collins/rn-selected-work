@@ -18,6 +18,18 @@
 .name { margin: 0 0 .35rem; font-weight: 700; font-size: 1.05rem; letter-spacing: .01em; }
 .title { margin: 0; font-size: 1.32rem; line-height: 1.25; font-weight: 650; }
 .subtitle { margin: .5rem 0 0; color: var(--muted); }
+.save {
+  display: inline-block;
+  margin-top: 1rem;
+  min-height: 2.75rem;
+  padding: .7rem 1.1rem;
+  border-radius: .7rem;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 650;
+  text-decoration: none;
+}
+.save:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
 .page section { margin-top: 1.6rem; }
 .page h2 {
   margin: 0 0 .6rem;
@@ -56,4 +68,5 @@
 .foot { margin-top: 2.25rem; font-size: .85rem; color: var(--muted); }
 @media (prefers-color-scheme: dark) {
   .page { --ink: #eef0ec; --muted: #b6bdb6; --paper: #141816; --card: #1c211e; --line: #39413b; --accent: #7cc4b8; }
+  .save { color: #141816; }
 }
