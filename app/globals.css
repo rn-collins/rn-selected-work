@@ -102,3 +102,6 @@ a.button{color:var(--paper);background:var(--ink)}
 @media(max-width:800px){.portfolioBar>.shell{display:block}.portfolioBar>.shell>div{gap:5px 18px;margin-top:10px}.pathways{grid-template-columns:1fr}.discoveryHeading{display:block}.discoveryResults{grid-template-columns:1fr}.discoveryHeading h2{font-size:32px}.portfolioNext>div{flex-direction:column;gap:18px}}
 
 .curatedSelection>h2{font:400 42px/1.1 "Bodoni Moda",Georgia,serif}.curatedSelection>.pathways{margin-top:25px}
+
+/* Draft lines on /work-with-me that wait for RN (removed before publishing). */
+.draftCheck { background: #fff1b8; outline: 1px dashed #b08900; padding: 0 .2em; }
