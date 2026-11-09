@@ -8482,7 +8482,7 @@
   },
   {
    "id": "film/fc-02",
-   "releasedAt": "2026-11-28",
+   "releasedAt": "2026-12-25",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -8491,7 +8491,7 @@
   },
   {
    "id": "film/fc-03",
-   "releasedAt": "2026-11-30",
+   "releasedAt": "2026-12-29",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -8500,7 +8500,7 @@
   },
   {
    "id": "film/fc-04",
-   "releasedAt": "2026-12-03",
+   "releasedAt": "2027-01-11",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -8509,7 +8509,7 @@
   },
   {
    "id": "film/fc-05",
-   "releasedAt": "2026-12-08",
+   "releasedAt": "2027-01-19",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -8599,7 +8599,7 @@
   },
   {
    "id": "film/fc-15",
-   "releasedAt": "2026-12-01",
+   "releasedAt": "2027-01-07",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -8608,7 +8608,7 @@
   },
   {
    "id": "film/fc-16",
-   "releasedAt": "2026-12-06",
+   "releasedAt": "2027-01-14",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -8662,7 +8662,7 @@
   },
   {
    "id": "film/fc-22",
-   "releasedAt": "2026-11-26",
+   "releasedAt": "2026-12-24",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -8689,7 +8689,7 @@
   },
   {
    "id": "film/fc-25",
-   "releasedAt": "2026-12-07",
+   "releasedAt": "2027-01-18",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -8716,7 +8716,7 @@
   },
   {
    "id": "film/fc-28",
-   "releasedAt": "2026-12-11",
+   "releasedAt": "2027-01-21",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -9211,7 +9211,7 @@
   },
   {
    "id": "htw/c14-03",
-   "releasedAt": "2026-11-27",
+   "releasedAt": "2027-01-05",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -9724,7 +9724,7 @@
   },
   {
    "id": "ioo/c01-p02",
-   "releasedAt": "2026-11-25",
+   "releasedAt": "2027-02-15",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -9760,7 +9760,7 @@
   },
   {
    "id": "ioo/c01-p06",
-   "releasedAt": "2026-12-02",
+   "releasedAt": "2027-02-22",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -9814,7 +9814,7 @@
   },
   {
    "id": "ioo/c01-p12",
-   "releasedAt": "2026-12-09",
+   "releasedAt": "2027-03-01",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "",
@@ -11720,7 +11720,7 @@
   },
   {
    "id": "polymath/pm-rnc-07",
-   "releasedAt": "2026-11-29",
+   "releasedAt": "2027-02-08",
    "hold": false,
    "postUrls": {},
    "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/why-source-provenance-is-governance-infrastructure",
