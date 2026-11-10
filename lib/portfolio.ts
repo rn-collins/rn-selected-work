@@ -31,7 +31,7 @@ export const projects: Project[] = [
     thesis:
       "How can independent work travel, compound, and endure beyond a role, employer, platform, or title?",
     summary:
-      "An independent research and applied-research practice studying the conditions that allow one person's work, capability, relationships, evidence, and intellectual assets to become portable, cumulative, and institutionally legible. Its Ownership Platform is one technical implementation of that larger inquiry.",
+      "A research practice for creators and independent professionals whose work does not fit an employer, a title, or a platform. The live link opens the public research site, including an Observatory of 41 careers and two five-minute pilot assessments. The pilots are not validated scales. They do not diagnose, rank, or measure a person's worth.",
     tags: ["Research architecture", "Evidence governance", "Assessment design"],
     noticed:
       "Independent professionals are routinely assessed through institutional proxies—employer, title, credential, network—even as they create valuable work across multiple systems. Their capability, relationships, and intellectual assets are difficult to see as a coherent whole.",
@@ -82,7 +82,7 @@ export const projects: Project[] = [
     thesis:
       "Turn a fast-moving legal and scientific field into operational intelligence.",
     summary:
-      "A public monitor of six official source endpoints for psychedelic regulation. The 9 November 2026 sweep kept 16 candidates and rejected 68 as noise, and the page reports its own collection health.",
+      "A public monitor for researchers, operators, and policy teams who need official psychedelic-regulation sources kept apart from press and advocacy. The live link opens that monitor. The 9 November 2026 sweep kept 16 candidates and rejected 68 as noise. Screened candidates stay unreviewed. This is not legal advice.",
     tags: ["Data architecture", "Field monitoring", "Decision support"],
     noticed:
       "The psychedelic field moves across law, clinical research, state programs, professional education, organizations, funding, and public claims. Conventional news feeds preserve documents but not the relationships needed for decisions.",
@@ -108,7 +108,7 @@ export const projects: Project[] = [
     thesis:
       "How could a small business understand a complex AI product without mistaking a static guide for a working integration?",
     summary:
-      "A generic, plain-English Claude product guide. Its repository history preserves an independently initiated Buechler concept lineage, but the current public artifact contains no Buechler Pacific or Hawaiʻi-specific content and does not evidence a relationship, tailoring, review, approval, delivery, or use.",
+      "A plain-English guide for a small business that needs to understand Claude before anyone connects it to the work. The live link opens a static page. It does not run a workflow, connect a system, or record a client engagement. The release stays blocked.",
     tags: ["Organizational research", "Workflow design", "AI translation"],
     noticed:
       "Small-business AI guidance often begins with features rather than work: which recurring burden matters, what information may be used, where approval belongs, and what a first low-risk workflow should accomplish.",
@@ -135,7 +135,7 @@ export const projects: Project[] = [
     thesis:
       "Design an emerging-technology resource around Hawaiʻi's children, families, educators, and actual pathways into robotics.",
     summary:
-      "A Hawaiʻi-grounded static family guide created around a publicly announced robotics event. It was independently initiated and does not evidence commission, authorization, review, endorsement, or an official relationship with Oʻahu A.I. or Island Robotics.",
+      "A Hawaiʻi-grounded static family guide created around a publicly announced robotics event. It was independently initiated and does not evidence commission, authorization, review, endorsement, or an official relationship with Oʻahu A.I. or Island Robotics. The live link opens that page. The release stays blocked, so it is a concept and not an official event handout.",
     tags: ["Learning experience", "Audience design", "Hawaiʻi context"],
     noticed:
       "An exciting robotics showcase does not automatically tell a child or parent what the activity involves, which program fits their age, what it costs, or where a Hawaiʻi family can begin after the event.",
@@ -162,7 +162,7 @@ export const projects: Project[] = [
     thesis:
       "Help a young inventor understand the next decision before asking them to become an IP expert.",
     summary:
-      "A plain-English static first-steps guide to patents for young inventors and their families, written by RN for people attending the Patent Your Invention panel at Hawaiʻi Tech Week 2026.",
+      "A plain-English static first-steps guide to patents for young inventors and their families, written by RN for people attending the Patent Your Invention panel at Hawaiʻi Tech Week 2026. It does not file an application, give legal advice, or create an attorney-client relationship. The live link opens that guide.",
     tags: ["Legal service design", "Public education", "Guided intake"],
     noticed:
       "A child can leave an invention event inspired but still not know the difference between patent, trademark, copyright, and trade secret—or that public disclosure can affect rights before a family ever speaks with counsel.",

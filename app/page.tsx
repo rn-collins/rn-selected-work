@@ -203,27 +203,26 @@ export default function Home() {
             <article>
               <h3>Neurocognitive Systems Advisory Group</h3>
               <p>
-                RN's research-led institutional-design practice and the home of
-                Nervous-System-Aware Governance: an original framework for
-                identifying, documenting, measuring, and governing how
-                institutional policies, technologies, procedures, language,
-                environments, and power structures shape human cognitive and
-                physiological conditions.
+                A research framework for institutions that need to see how policy,
+                technology, procedure, language, environment, and power shape
+                thinking and the body. The public site publishes fifteen module
+                scopes. Assessment collection is paused on all fifteen. Those
+                pages do not collect answers, calculate findings, or send reports.
               </p>
               <Link href="/work/neurocognitive-systems-advisory-group">
-                Explore NSAG's framework and systems →
+                Read the NSAG case study →
               </Link>
               <small>
-                NSAG is an original body of work with its own framework, evidence base,
-                assessments, intelligence products, education, advisory practice,
-                and applied implementations.
+                The link stays on this site. Human advisory work is separate from
+                the public pages. Other parts of NSAG are switched off, and the
+                site says which.
               </small>
             </article>
             <article>
               <h3>Applied governance systems</h3>
               <p>
-                NSAG’s institutional work is not one website. It extends into
-                governance infrastructure, assessments, neuroarchitecture,
+                NSAG’s institutional work is not one website. The links below
+                open the record for each build: governance tools, neuroarchitecture,
                 sport, women’s health, developing brains, health education,
                 creator rights, and applied nervous-system design.
               </p>
@@ -241,17 +240,21 @@ export default function Home() {
                 )}
               </div>
               <small>
-                These {institutionalBuilds.length} builds are cross-listed here because they
-                operationalize institutional or governance questions; each keeps its primary
-                home in the generated build index.
+                These {institutionalBuilds.length} builds are listed here because each one
+                carries an institutional or governance question. The link opens that
+                build’s record on this site. The record says what it refuses, and a
+                held public link is not offered.
               </small>
             </article>
             <article>
               <h3>Inflection Radar</h3>
               <p>
-                An interactive public-source decision room translating
-                organizational research into an explorable proposal, executive
-                brief, report, and meeting instrument.
+                An independent proposal for reviewers deciding whether to
+                authorize a governed public-source pilot. The decision room,
+                brief, report, and deck are the proposal. They were not
+                commissioned, and they do not report pilot results. Open
+                decision room leaves this site for that proposal. The case
+                study link stays here.
               </p>
               <div className="actionrow">
                 <Link href="/work/inflection-radar">Read case study →</Link>
