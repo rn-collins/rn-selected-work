@@ -4,9 +4,9 @@
   "source": "vercel project ls",
   "counts": {
     "projects": 166,
-    "shipped": 49,
+    "shipped": 50,
     "studio": 13,
-    "hold": 104,
+    "hold": 103,
     "cut": 20
   },
   "projects": [
@@ -723,12 +723,12 @@
     },
     {
       "name": "tech-from-here-netherlands-field-kit",
-      "url": "https://tech-from-here-netherlands-field-ki.vercel.app",
-      "shelf": "hold",
-      "public": false,
+      "url": "https://tech-from-here-netherlands-field-ki.vercel.app/gallery",
+      "shelf": "shipped",
+      "public": true,
       "canonical": "tech-from-here-netherlands-field-kit",
       "cut": false,
-      "reason": "Stays deployed while its production build is repaired. Not a public card and not part of the probe cut."
+      "reason": "Public gallery only. No content package is released. Owner pages and downloads stay off this index."
     },
     {
       "name": "test-invalid-do-not-use",

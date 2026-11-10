@@ -919,6 +919,20 @@ export const buildNotes: BuildNote[] = [
   },
 
   {
+    repo: "tech-from-here-netherlands-field-kit",
+    title: "Tech From Here: Dutch Design Week gallery",
+    category: "records",
+    status: "Live · gallery open, no packages released",
+    statusKind: "live",
+    problem:
+      "A field trip produces essays, research, and pictures on different clocks, and a download package is a later decision than the page a reader can already open.",
+    does:
+      "Opens the Dutch Design Week gallery. The entrance is public. A story appears there when it is released, with image descriptions, credits, and sources. The essay collection and the research collection stay behind the owner sign-in, and nothing is offered as a download from this card.",
+    builtOn: "A Next.js gallery on Vercel. The owner workspace is a separate sign-in.",
+    limits:
+      "No content package is released. The gallery currently shows the entrance and the visiting notes. It is not the private field desk.",
+  },
+  {
     repo: "htw-field-kit",
     title: "Hawaii Tech Week 2026 Field Kit",
     category: "records",

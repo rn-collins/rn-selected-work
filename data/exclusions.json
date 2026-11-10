@@ -258,11 +258,6 @@
       "reason": "Private owner workspace behind a passphrase gate."
     },
     {
-      "repo": "tech-from-here-netherlands-field-kit",
-      "reason": "Private owner field kit for the Netherlands editions.",
-      "silent": true
-    },
-    {
       "repo": "test-invalid-do-not-use",
       "reason": "Deliberately invalid deployment, kept to prove the gate rejects it.",
       "silent": true
