@@ -25,7 +25,7 @@ export default function ConnectPage() {
         <div className="connectIdentity">
           <p className="eyebrow">Connect with RN</p>
           <h1>RN <em>Collins</em></h1>
-          <p className="connectRoles">Neuroscientist · Fractional Law Clerk · AI Technologist</p>
+          <p className="connectRoles">Neuroscientist, knowledge content creator, and builder. Chair of FlexJD Interests, Student Bar Association, Northeastern University School of Law, Class of 2029.</p>
           <p className="connectPositioning">I work across—and in between—science, law, technology, culture, and institutions. I connect the dots, reveal the gaps, and build what is missing.</p>
           <div className="connectActions" aria-label="Contact options">
             <a className="button" href="https://www.instagram.com/rn_collins/" target="_blank" rel="noreferrer">Instagram DM ↗</a>
@@ -41,7 +41,7 @@ export default function ConnectPage() {
         <div className="shell">
           <p><strong>University of Pennsylvania</strong><span>B.A. Psychology</span></p>
           <p><strong>Boston University</strong><span>M.S. Anatomy &amp; Neurobiology</span></p>
-          <p><strong>Northeastern Law</strong><span>J.D. Candidate, Class of 2029</span></p>
+          <p><strong>Northeastern Law</strong><span>Chair of FlexJD Interests, Student Bar Association, Class of 2029</span></p>
         </div>
       </section>
 

@@ -33,6 +33,11 @@ export default function DutchDesignWeekIndex() {
           ? "Each essay appears here on the day its post goes up."
           : <>{essays.length} essays · {releasedWords().toLocaleString("en-US")} words · by RN Collins</>}
       </p>
+      <p>
+        The image gallery is open and has no released works.{" "}
+        <a href="https://tech-from-here-netherlands-field-ki.vercel.app/gallery">Open the gallery</a>.
+        Essays published on this site are listed here. The field kit’s essay and research collections stay behind owner sign-in, with their downloads, and are not linked.
+      </p>
       {families().map((family) => {
         const group = essaysByFamily(family);
         return (

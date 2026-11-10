@@ -27,7 +27,7 @@ const modules = [
   "Isolation, Confinement, and Extreme-Environment Governance",
 ].map((title, index) => ({
   title,
-  href: `https://nsag-m${index + 1}.vercel.app/`,
+  href: `https://nsag-site.vercel.app/m${index + 1}`,
 }));
 
 const surfaces = [
@@ -92,7 +92,7 @@ export default function NSAGCaseStudy() {
       </section>
 
       <section className="writing shell">
-        <div className="sectionhead"><p className="eyebrow">Fifteen governance domains</p><p>One framework, tested across different institutional conditions.</p></div>
+        <div className="sectionhead"><p className="eyebrow">Fifteen governance domains</p><p>Each link opens the current module on the NSAG site. The old standalone addresses stay online as signposts.</p></div>
         <div className="miniarticles">
           {modules.map((module, index) => (
             <article key={module.title}>

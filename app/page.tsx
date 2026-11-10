@@ -4,15 +4,19 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { SocialIcons } from "../components/social-icons";
 import { projects, writing } from "../lib/portfolio";
-import { builds, institutionalBuilds, populatedCategories } from "../lib/builds";
+import { institutionalBuilds, populatedCategories, shelfCounts, shippedBuilds, studioBuilds } from "../lib/builds";
 import { journalArticles, journalName } from "../lib/journal-articles";
 import { publicationArchive, publicationCounts } from "../lib/publication-archive";
 
+const homeDescription =
+  "Questions too messy for a single discipline — research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.";
+
 export const metadata: Metadata = {
-  title: "RN Selected Work",
-  description:
-    "Questions too messy for a single discipline — research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.",
+  title: { absolute: "RN Selected Work" },
+  description: homeDescription,
   alternates: { canonical: "/" },
+  openGraph: { title: "RN Selected Work", description: homeDescription, url: "/" },
+  twitter: { card: "summary_large_image", title: "RN Selected Work", description: homeDescription },
 };
 
 export default function Home() {
@@ -39,8 +43,9 @@ export default function Home() {
         </h1>
         <div className="herofoot">
           <p>
-            Researcher, systems designer, builder, neuroscientist, and law
-            student based on Oʻahu.
+            Neuroscientist, knowledge content creator, and builder. Chair of
+            FlexJD Interests, Student Bar Association, Northeastern University
+            School of Law, Class of 2029.
           </p>
           <p className="lede">
             Selected research, institutional frameworks, working systems, public resources,
@@ -145,7 +150,8 @@ export default function Home() {
         <div className="sectionhead">
           <p className="eyebrow">Complete build index</p>
           <p>
-            {builds.length} builds, generated from live data rather than kept by hand.
+            {shippedBuilds.length} shipped builds, one URL each. {studioBuilds.length} are in the studio.
+            {shelfCounts.hold} deployments are held off this site.
           </p>
         </div>
         <div className="indexSummaryIntro">

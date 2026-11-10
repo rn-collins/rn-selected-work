@@ -1,0 +1,1275 @@
+{
+  "generatedAt": "2026-11-09T20:10:34.860Z",
+  "generatedBy": "scripts/assign-shelves.mjs",
+  "source": "vercel project ls",
+  "counts": {
+    "projects": 166,
+    "shipped": 49,
+    "studio": 13,
+    "hold": 104,
+    "cut": 20
+  },
+  "projects": [
+    {
+      "name": "aan-api",
+      "url": "https://aan-api.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-api",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "aan-base64-test",
+      "url": "https://aan-base64-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-base64-test",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-deploy-schema-test",
+      "url": "https://aan-deploy-schema-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-deploy-schema-test",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-dwts-not-one-to-one-assets",
+      "url": "https://aan-dwts-not-one-to-one-assets.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-dwts-not-one-to-one-assets",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-dwts-preview",
+      "url": "https://aan-dwts-preview.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-dwts-preview",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-dwts-the-reset-assets",
+      "url": "https://aan-dwts-the-reset-assets.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-dwts-the-reset-assets",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-dwts-why-i-stopped-assets",
+      "url": "https://aan-dwts-why-i-stopped-assets.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-dwts-why-i-stopped-assets",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-growth-console",
+      "url": "https://aan-growth-console.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-growth-console",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "aan-image-proxy-direct",
+      "url": "https://aan-image-proxy-direct.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-image-proxy-direct",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-image-proxy-test",
+      "url": "https://aan-image-proxy-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-image-proxy-test",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-incremental-test",
+      "url": "https://aan-incremental-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-incremental-test",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-localfile-test",
+      "url": "https://aan-localfile-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-localfile-test",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-path-probe",
+      "url": "https://aan-path-probe.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-path-probe",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-proxy-test",
+      "url": "https://aan-proxy-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-proxy-test",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-schema-probe",
+      "url": "https://aan-schema-probe.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-schema-probe",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-source-check",
+      "url": "https://aan-source-check.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-source-check",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-x-dwts",
+      "url": "https://aan-x-dwts-release-20260921.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "aan-x-dwts-archive-20260921",
+      "url": "https://aan-x-dwts.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts-archive-20260921",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-x-dwts-audited-release",
+      "url": "https://aan-x-dwts-audited-release.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts-audited-release",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-x-dwts-exporter",
+      "url": "https://aan-x-dwts-exporter.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts-exporter",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-x-dwts-exporter-audit-test",
+      "url": "https://aan-x-dwts-exporter-audit-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts-exporter-audit-test",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-x-dwts-publishing",
+      "url": "https://aan-x-dwts-publishing.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts-publishing",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-x-dwts-renderer",
+      "url": "https://aan-x-dwts-renderer.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts-renderer",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-x-dwts-renderer-test",
+      "url": "https://aan-x-dwts-renderer-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts-renderer-test",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-x-dwts-schema-test",
+      "url": "https://aan-x-dwts-schema-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts-schema-test",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-x-dwts-studio",
+      "url": "https://aan-x-dwts-studio.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts-studio",
+      "cut": false,
+      "reason": "Scratch or duplicate deployment of another project. Not a public URL."
+    },
+    {
+      "name": "aan-x-dwts-studio-test",
+      "url": "https://aan-x-dwts-studio-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts-studio-test",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aan-x-dwts-test",
+      "url": "https://aan-x-dwts-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aan-x-dwts-test",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "aloha-ai-consulting-an6n",
+      "url": "https://aloha-ai-consulting-an6n.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aloha-ai-consulting",
+      "cut": false,
+      "reason": "Duplicate of aloha-ai-consulting. The public card uses that project's one URL."
+    },
+    {
+      "name": "aloha-ai-consulting-cert-probe",
+      "url": "https://aloha-ai-consulting-cert-probe.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "aloha-ai-consulting",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "anatomy-of-everything",
+      "url": "https://anatomy-of-everything.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "anatomy-of-everything",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "antithesis-ask-a-neuroscientist",
+      "url": "https://antithesis-ask-a-neuroscientist.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "antithesis-ask-a-neuroscientist",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "content-strategy-system",
+      "url": "https://content-strategy-system.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "content-strategy-system",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "ddw-2026-gallery",
+      "url": "https://ddw-2026-gallery.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "ddw-2026-gallery",
+      "cut": false,
+      "reason": "Deployed, with no public write-up yet, so it is not given a card."
+    },
+    {
+      "name": "deployment-format-probe",
+      "url": "https://deployment-format-probe.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "deployment-format-probe",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "field-intelligence-os",
+      "url": "https://field-intelligence-os-rn-collins.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "field-intelligence-os",
+      "cut": false,
+      "reason": "No production deployment."
+    },
+    {
+      "name": "hawaii-tech-week-gallery-recovered-preview",
+      "url": "https://hawaii-tech-week-gallery-recovered.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "hawaii-tech-week-project-record",
+      "cut": false,
+      "reason": "Duplicate of hawaii-tech-week-project-record. The public card uses that project's one URL."
+    },
+    {
+      "name": "hawaii-tech-week-project-record",
+      "url": "https://hawaii-tech-week-project-record.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "hawaii-tech-week-project-record",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "hwit-proposal-collins",
+      "url": "https://hwit-proposal-collins.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "hwit-proposal-collins",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "inspiration-hawaii-proposal",
+      "url": "https://inspiration-hawaii-proposal.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "inspiration-hawaii-proposal",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "institutions-of-one-project-record",
+      "url": "https://institutions-of-one-project-record.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "institutions-of-one-project-record",
+      "cut": false,
+      "reason": "Private reviewer studio behind an email and access-code gate. Its public half ships as institutions-of-one-reader."
+    },
+    {
+      "name": "nervous-system-in-the-room",
+      "url": "https://nervous-system-in-the-room.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nervous-system-in-the-room",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "nsag-api",
+      "url": "https://nsag-api.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-api",
+      "cut": false,
+      "reason": "Internal API for the NSAG modules. Production route returns 404."
+    },
+    {
+      "name": "nsag-m1",
+      "url": "https://nsag-m1.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m10",
+      "url": "https://nsag-m10.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m11",
+      "url": "https://nsag-m11.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m12",
+      "url": "https://nsag-m12.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m13",
+      "url": "https://nsag-m13.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m14",
+      "url": "https://nsag-m14.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m15",
+      "url": "https://nsag-m15.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m2",
+      "url": "https://nsag-m2.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m3",
+      "url": "https://nsag-m3.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m4",
+      "url": "https://nsag-m4.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m5",
+      "url": "https://nsag-m5.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m6",
+      "url": "https://nsag-m6.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m7",
+      "url": "https://nsag-m7.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m8",
+      "url": "https://nsag-m8.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "nsag-m9",
+      "url": "https://nsag-m9.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "Signpost left in place so older links resolve. The module lives on nsag-site, which is the one shipped URL."
+    },
+    {
+      "name": "ourspace-content-plan",
+      "url": "https://ourspace-content-plan.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "ourspace-content-plan",
+      "cut": false,
+      "reason": "Deployed, with no public write-up yet, so it is not given a card."
+    },
+    {
+      "name": "rn-ai-field-notes",
+      "url": "https://polymath-production.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-ai-field-notes",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "rn-api",
+      "url": "https://rn-api-eosin.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-api",
+      "cut": false,
+      "reason": "Shared serverless API. No page to read."
+    },
+    {
+      "name": "rn-build-queue",
+      "url": "https://rn-build-queue.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-build-queue",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "rn-calendars",
+      "url": "https://rn-calendars.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-calendars",
+      "cut": false,
+      "reason": "Deployed, with no public write-up yet, so it is not given a card."
+    },
+    {
+      "name": "rn-case-of-the-week",
+      "url": "https://rn-case-of-the-week.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-case-of-the-week",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "rn-content-second-brain-final-test",
+      "url": "https://rn-content-second-brain-final-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-content-second-brain",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "rn-content-second-brain-preview",
+      "url": "https://rn-content-second-brain-preview-rn-collins.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-content-second-brain",
+      "cut": true,
+      "reason": "Failing preview. It stays off the public index and is marked for removal. The Netherlands field kit is not in this cut."
+    },
+    {
+      "name": "rn-content-second-brain-site-test",
+      "url": "https://rn-content-second-brain-site-test.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-content-second-brain",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "rn-cultural-activation-system",
+      "url": "https://rn-cultural-activation-system.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-cultural-activation-system",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "rn-edge-city-bhutan-2026",
+      "url": "https://rn-edge-city-bhutan-2026.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-edge-city-bhutan-2026",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "rn-exhibit-in-progress",
+      "url": "https://rn-exhibit-in-progress.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-exhibit-in-progress",
+      "cut": false,
+      "reason": "Deployed, with no public write-up yet, so it is not given a card."
+    },
+    {
+      "name": "rn-field-app",
+      "url": "https://rn-field-app.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-field-app",
+      "cut": false,
+      "reason": "Deployment returns an empty page."
+    },
+    {
+      "name": "rn-made-in-hawaii-posts",
+      "url": "https://rn-made-in-hawaii-posts.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-made-in-hawaii-posts",
+      "cut": false,
+      "reason": "Deployed, with no public write-up yet, so it is not given a card."
+    },
+    {
+      "name": "rn-master-post-studio",
+      "url": "https://rn-master-post-studio.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-master-post-studio",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "rn-museum-motion",
+      "url": "https://rn-museum-motion.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-museum-motion",
+      "cut": false,
+      "reason": "Held and unnamed on the public site."
+    },
+    {
+      "name": "rn-recording-studio",
+      "url": "https://rn-recording-studio.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-recording-studio",
+      "cut": false,
+      "reason": "Deployed, with no public write-up yet, so it is not given a card."
+    },
+    {
+      "name": "rn-second-brain-schema-probe",
+      "url": "https://rn-second-brain-schema-probe.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-content-second-brain",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "rn-selected-work",
+      "url": "https://rn-selected-work.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-selected-work",
+      "cut": false,
+      "reason": "This site. It does not index itself."
+    },
+    {
+      "name": "rn-travel-command-center",
+      "url": "https://rn-travel-command-center.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "rn-travel-command-center",
+      "cut": false,
+      "reason": "Private operational system. The deployment is gated and serves no public content."
+    },
+    {
+      "name": "tech-from-here-field-kit",
+      "url": "https://tech-from-here-field-kit.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "tech-from-here-field-kit",
+      "cut": false,
+      "reason": "Private owner workspace behind a passphrase gate."
+    },
+    {
+      "name": "tech-from-here-netherlands-field-kit",
+      "url": "https://tech-from-here-netherlands-field-ki.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "tech-from-here-netherlands-field-kit",
+      "cut": false,
+      "reason": "Stays deployed while its production build is repaired. Not a public card and not part of the probe cut."
+    },
+    {
+      "name": "test-invalid-do-not-use",
+      "url": "https://test-invalid-do-not-use.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "test-invalid-do-not-use",
+      "cut": true,
+      "reason": "Probe or test deployment. Marked for the first cut. Not a public URL."
+    },
+    {
+      "name": "z2f-live",
+      "url": "https://z2f-live.vercel.app",
+      "shelf": "hold",
+      "public": false,
+      "canonical": "zero-to-frontier",
+      "cut": false,
+      "reason": "Duplicate of zero-to-frontier. The public card uses that project's one URL."
+    },
+    {
+      "name": "ai-budget-calc",
+      "url": "https://ai-budget-calc-red.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "ai-budget-calc",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "aloha-ai-consulting",
+      "url": "https://aloha-ai-consulting.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "aloha-ai-consulting",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "aloha-ai-governance",
+      "url": "https://aloha-ai-governance.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "aloha-ai-governance",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "aloha-build-club",
+      "url": "https://aloha-build-club.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "aloha-build-club",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "aloha-creator-rights",
+      "url": "https://aloha-creator-rights.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "aloha-creator-rights",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "aloha-dea-tracker",
+      "url": "https://aloha-dea-tracker.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "aloha-dea-tracker",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "aloha-governance-audit",
+      "url": "https://aloha-governance-audit.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "aloha-governance-audit",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "aloha-legal-ai-monitor",
+      "url": "https://aloha-legal-ai-monitor.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "aloha-legal-ai-monitor",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "aloha-suppression-sweep",
+      "url": "https://aloha-suppression-sweep.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "aloha-suppression-sweep",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "aloha-third-asset",
+      "url": "https://aloha-third-asset.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "aloha-third-asset",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "ask-a-neuroscientist-fashion",
+      "url": "https://ask-a-neuroscientist-fashion.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "ask-a-neuroscientist-fashion",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "bm-intel",
+      "url": "https://bm-intel-ivory.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "bm-intel",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "color-vision-field-guide",
+      "url": "https://color-vision-field-guide.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "color-vision-field-guide",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "creator-brand-evidence",
+      "url": "https://creator-brand-evidence.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "creator-brand-evidence",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "curriculum-licensing",
+      "url": "https://curriculum-licensing.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "curriculum-licensing",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "destig-toolkit",
+      "url": "https://destig-toolkit.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "destig-toolkit",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "entheogen-atlas",
+      "url": "https://entheogen-atlas.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "entheogen-atlas",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "fadiman-atlas",
+      "url": "https://fadiman-atlas.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "fadiman-atlas",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "flexjd-site",
+      "url": "https://flexjd-site.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "flexjd-site",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "gapi-governance",
+      "url": "https://gapi-governance.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "gapi-governance",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "htw-field-kit",
+      "url": "https://htw-field-kit.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "htw-field-kit",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "institutions-of-one-fashion",
+      "url": "https://institutions-of-one-fashion.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "institutions-of-one-fashion",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "institutions-of-one-reader",
+      "url": "https://institutions-of-one-reader.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "institutions-of-one-reader",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "kids-developing-brains",
+      "url": "https://kids-developing-brains.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "kids-developing-brains",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "law-communication-library",
+      "url": "https://law-communication-library.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "law-communication-library",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "legal-risk-monitor",
+      "url": "https://legal-risk-monitor.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "legal-risk-monitor",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "myelin-ce",
+      "url": "https://myelin-ce.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "myelin-ce",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "nsag-admin",
+      "url": "https://nsag-admin.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "nsag-admin",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "nsag-site",
+      "url": "https://nsag-site.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "nsag-site",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "opfos-firm",
+      "url": "https://opfos-firm.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "opfos-firm",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "ownership-platform",
+      "url": "https://ownership-platform.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "ownership-platform",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "patent-first-steps",
+      "url": "https://patent-first-steps.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "patent-first-steps",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "provenance-verify",
+      "url": "https://provenance-verify.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "provenance-verify",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "psych-ops-directory",
+      "url": "https://psych-ops-directory.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "psych-ops-directory",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "psychonaut-bookworm",
+      "url": "https://psychonaut-bookworm.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "psychonaut-bookworm",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "psychops-intel",
+      "url": "https://psychops-intel.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "psychops-intel",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "regac-academy",
+      "url": "https://regac-academy.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "regac-academy",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "rn-agent-os",
+      "url": "https://agentos-blue-rho.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "rn-agent-os",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "rn-ask-a-neuroscientist",
+      "url": "https://askaneuroscientist.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "rn-ask-a-neuroscientist",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "rn-bring-the-question",
+      "url": "https://rn-bring-the-question.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "rn-bring-the-question",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "rn-portfolio",
+      "url": "https://rn-portfolio-khaki.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "rn-portfolio",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "set-for-life",
+      "url": "https://set-for-life-black.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "set-for-life",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "sport-nsag",
+      "url": "https://sport-nsag.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "sport-nsag",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "tech-from-here-amsterdam-eindhoven",
+      "url": "https://tech-from-here-amsterdam-eindhoven.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "tech-from-here-amsterdam-eindhoven",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "tech-from-here-fashion-week",
+      "url": "https://tech-from-here-fashion-week.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "tech-from-here-fashion-week",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "transform-observatory",
+      "url": "https://transform-observatory.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "transform-observatory",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "zero-to-frontier",
+      "url": "https://zero-to-frontier.vercel.app",
+      "shelf": "shipped",
+      "public": true,
+      "canonical": "zero-to-frontier",
+      "cut": false,
+      "reason": "One canonical project and one production URL."
+    },
+    {
+      "name": "aiapc-site",
+      "url": "https://aiapc-site.vercel.app",
+      "shelf": "studio",
+      "public": true,
+      "canonical": "aiapc-site",
+      "cut": false,
+      "reason": "A real prototype or paused build, on its own URL, with no probe address."
+    },
+    {
+      "name": "aloha-behavioral-intelligence",
+      "url": "https://aloha-behavioral-intelligence.vercel.app",
+      "shelf": "studio",
+      "public": true,
+      "canonical": "aloha-behavioral-intelligence",
+      "cut": false,
+      "reason": "A real prototype or paused build, on its own URL, with no probe address."
+    },
+    {
+      "name": "aloha-culture-monitor",
+      "url": "https://aloha-culture-monitor.vercel.app",
+      "shelf": "studio",
+      "public": true,
+      "canonical": "aloha-culture-monitor",
+      "cut": false,
+      "reason": "A real prototype or paused build, on its own URL, with no probe address."
+    },
+    {
+      "name": "aloha-encoding-effect",
+      "url": "https://aloha-encoding-effect.vercel.app",
+      "shelf": "studio",
+      "public": true,
+      "canonical": "aloha-encoding-effect",
+      "cut": false,
+      "reason": "A real prototype or paused build, on its own URL, with no probe address."
+    },
+    {
+      "name": "clerking-site",
+      "url": "https://clerking-site.vercel.app",
+      "shelf": "studio",
+      "public": true,
+      "canonical": "clerking-site",
+      "cut": false,
+      "reason": "A real prototype or paused build, on its own URL, with no probe address."
+    },
+    {
+      "name": "future-professional-profiles",
+      "url": "https://future-professional-profiles.vercel.app",
+      "shelf": "studio",
+      "public": true,
+      "canonical": "future-professional-profiles",
+      "cut": false,
+      "reason": "A real prototype or paused build, on its own URL, with no probe address."
+    },
+    {
+      "name": "narch-advisory",
+      "url": "https://narch-advisory.vercel.app",
+      "shelf": "studio",
+      "public": true,
+      "canonical": "narch-advisory",
+      "cut": false,
+      "reason": "A real prototype or paused build, on its own URL, with no probe address."
+    },
+    {
+      "name": "nervous-system-studio",
+      "url": "https://nervous-system-studio.vercel.app",
+      "shelf": "studio",
+      "public": true,
+      "canonical": "nervous-system-studio",
+      "cut": false,
+      "reason": "A real prototype or paused build, on its own URL, with no probe address."
+    },
+    {
+      "name": "sovereign-stack",
+      "url": "https://sovereign-stack-psi.vercel.app",
+      "shelf": "studio",
+      "public": true,
+      "canonical": "sovereign-stack",
+      "cut": false,
+      "reason": "A real prototype or paused build, on its own URL, with no probe address."
+    },
+    {
+      "name": "tech-from-here-mjbizcon",
+      "url": "https://tech-from-here-mjbizcon.vercel.app",
+      "shelf": "studio",
+      "public": true,
+      "canonical": "tech-from-here-mjbizcon",
+      "cut": false,
+      "reason": "A real prototype or paused build, on its own URL, with no probe address."
+    },
+    {
+      "name": "wnh-guide",
+      "url": "https://wnh-guide.vercel.app",
+      "shelf": "studio",
+      "public": true,
+      "canonical": "wnh-guide",
+      "cut": false,
+      "reason": "A real prototype or paused build, on its own URL, with no probe address."
+    }
+  ],
+  "redaction": "Client and private-engagement project names are omitted from this public file. The counts above still include them."
+}

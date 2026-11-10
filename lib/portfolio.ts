@@ -38,13 +38,13 @@ export const projects: Project[] = [
     researched:
       "Institutions of One brings together questions of ownership, portable reputation, capability measurement, longitudinal evidence, participation ethics, and the conditions under which independent work can acquire continuity without being reduced to an employer, title, platform, or personal brand.",
     built:
-      "The practice includes an Observatory, Ownership Index, Portfolio Professional research, Question Lab, The I/1 Edit, Apply the Cases, partnership and applied-inquiry pathways, and an Ownership Platform with evidence-governed research infrastructure. This case study presents the public architecture while protecting participant and research systems still under development.",
+      "The public site includes an Observatory of 41 careers, the editions, Apply the Cases, and two five-minute pilot assessments: the Ownership Index and the Portfolio Professional assessment. Visual stories and the Source Desk live on the companion reader.",
     serves:
       "Creators, independent professionals, portfolio workers, researchers, and institutions seeking better ways to recognize work, capability, relationships, and intellectual assets that conventional organizational categories obscure.",
     demonstrates:
       "Structural problem definition, research-program architecture, ethics-aware measurement design, and the ability to turn an abstract thesis into testable infrastructure.",
     evidenceNote:
-      "The Ownership Platform is a working implementation within Institutions of One. Participant data and research operations remain private while the practice develops its evidence and participation safeguards.",
+      "The two pilot assessments are not validated psychological scales. They do not diagnose, rank, or measure human worth. The candidate-instrument protocol is still a draft, and its default activation decision is blocked.",
     live: "https://ownership-platform.vercel.app/",
   },
   {
@@ -78,24 +78,24 @@ export const projects: Project[] = [
     kind: "Research + intelligence systems",
     title: "Psychedelic Operations Intelligence",
     shortTitle: "Psychedelic Operations",
-    status: "Live source-verified monitor · sweep overdue, reported on the build",
+    status: "Live source monitor · sweep current 9 November 2026",
     thesis:
       "Turn a fast-moving legal and scientific field into operational intelligence.",
     summary:
-      "A public monitoring prototype for organizing regulatory and operational signals across psychedelic medicine and policy, with important provenance, data-shape, filtering, and source-quality limitations documented in the case study.",
+      "A public monitor of six official source endpoints for psychedelic regulation. The 9 November 2026 sweep kept 16 candidates and rejected 68 as noise, and the page reports its own collection health.",
     tags: ["Data architecture", "Field monitoring", "Decision support"],
     noticed:
       "The psychedelic field moves across law, clinical research, state programs, professional education, organizations, funding, and public claims. Conventional news feeds preserve documents but not the relationships needed for decisions.",
     researched:
       "Regulatory programs, legislation, scientific evidence, institutions, professional actors, operational signals, source provenance, update cadence, and the decisions different users need to make from the same field data.",
     built:
-      "A public dashboard over six verified official source endpoints, with a weekly sweep, a source-policy gate every candidate must clear before display, per-category sweep state, and a published collection-health block reporting how many days old the last successful sweep is. On the most recent sweep seven candidates passed the policy and forty-one were rejected as noise.",
+      "A public dashboard over six verified official source endpoints, with a weekly Monday sweep, a source-policy gate every candidate must clear before display, and a collection-health block. The 9 November 2026 sweep kept 16 candidates, rejected 68 as noise, and reported all six sources healthy.",
     serves:
       "Researchers, regulated operators, policy teams, legal professionals, educators, and organizations that need current field intelligence with source traceability.",
     demonstrates:
       "Cross-domain taxonomy, database and dashboard design, evidence provenance, monitoring logic, and decision-oriented synthesis.",
     evidenceNote:
-      "The build collects and screens; it does not verify. Screened candidates are explicitly unreviewed, and a record in the source registry means an endpoint is monitored, not that something new was published there. The last successful sweep is more than two cycles old and the site reports itself stale rather than presenting a frozen snapshot as current. This is not comprehensive monitoring, not a maintained private database, not continuously operating alerts, and not legal advice.",
+      "The build collects and screens. Screened candidates stay unreviewed. A record in the source registry means an endpoint is monitored. The last successful sweep was 9 November 2026 and the site reported the collection healthy. Not legal advice.",
     live: "https://psychops-intel.vercel.app/",
   },
   {

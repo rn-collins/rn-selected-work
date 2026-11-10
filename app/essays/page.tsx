@@ -29,7 +29,9 @@ export default function EssaysIndex() {
         <p className={styles.meta}>From <Link href="/">RN Collins, selected work</Link></p>
         <p className={styles.intro}>
           {essayCount()} long-form essays that go with RN&apos;s posts. Each one has plain-English headings, a section on what the
-          record does not show, and a numbered list of sources.
+          record does not show, and a numbered list of sources. The Dutch Design Week image gallery is open and has no released works.{" "}
+          <a href="https://tech-from-here-netherlands-field-ki.vercel.app/gallery">Open the gallery</a>.
+          The field kit&apos;s own essay and research pages stay behind owner sign-in and are not linked.
         </p>
         <ul className={styles.index}>
           {essayAccounts.map((a) => (
