@@ -2,6 +2,66 @@
  "note": "Written by rn-ask-a-neuroscientist scripts/import_posts.py; do not edit by hand. Each AaN page with the date it goes live (Pacific/Honolulu) and its hold; cards only once they are out. lib/aan-site.ts links a page only once it is live.",
  "base": "https://askaneuroscientist.vercel.app",
  "posts": {
+  "jul-03": {
+   "path": "/posts/jul-03/",
+   "releasedAt": "2026-12-05",
+   "hold": false
+  },
+  "nov-02-ns03": {
+   "path": "/posts/nov-02-ns03/",
+   "releasedAt": "2026-12-28",
+   "hold": false
+  },
+  "nov-03-ns37": {
+   "path": "/posts/nov-03-ns37/",
+   "releasedAt": "2027-02-03",
+   "hold": false
+  },
+  "nov-04-kb55": {
+   "path": "/posts/nov-04-kb55/",
+   "releasedAt": "2027-03-05",
+   "hold": false
+  },
+  "nov-05": {
+   "path": "/posts/nov-05/",
+   "releasedAt": "2027-02-25",
+   "hold": false
+  },
+  "oct-31": {
+   "path": "/posts/oct-31/",
+   "releasedAt": "2026-12-07",
+   "hold": false
+  },
+  "nov-18": {
+   "path": "/posts/nov-18/",
+   "releasedAt": "2027-02-28",
+   "hold": false
+  },
+  "nov-08": {
+   "path": "/posts/nov-08/",
+   "releasedAt": "2027-02-24",
+   "hold": false
+  },
+  "may-30-2028": {
+   "path": "/posts/may-30-2028/",
+   "releasedAt": "2027-03-04",
+   "hold": false
+  },
+  "nov-10": {
+   "path": "/posts/nov-10/",
+   "releasedAt": "2027-04-11",
+   "hold": false
+  },
+  "nov-03": {
+   "path": "/posts/nov-03/",
+   "releasedAt": "2026-12-21",
+   "hold": false
+  },
+  "nov-04": {
+   "path": "/posts/nov-04/",
+   "releasedAt": "2027-03-03",
+   "hold": false
+  },
   "nov-13-pb03": {
    "path": "/posts/nov-13-pb03/",
    "releasedAt": "2026-11-13",
@@ -70,6 +130,11 @@
   "nov-21-pdk01": {
    "path": "/posts/nov-21-pdk01/",
    "releasedAt": "2026-11-21",
+   "hold": false
+  },
+  "nov-22": {
+   "path": "/posts/nov-22/",
+   "releasedAt": "2026-11-22",
    "hold": false
   },
   "nov-23-my27": {
@@ -172,8 +237,18 @@
    "releasedAt": "2026-12-03",
    "hold": false
   },
+  "feb-03-pdaw02": {
+   "path": "/posts/feb-03-pdaw02/",
+   "releasedAt": "2026-12-03",
+   "hold": false
+  },
   "dec-04": {
    "path": "/posts/dec-04/",
+   "releasedAt": "2026-12-04",
+   "hold": false
+  },
+  "mar-05-pdsc04": {
+   "path": "/posts/mar-05-pdsc04/",
    "releasedAt": "2026-12-04",
    "hold": false
   },
@@ -282,6 +357,11 @@
    "releasedAt": "2026-12-16",
    "hold": false
   },
+  "feb-24-pdaw03": {
+   "path": "/posts/feb-24-pdaw03/",
+   "releasedAt": "2026-12-16",
+   "hold": false
+  },
   "apr-16": {
    "path": "/posts/apr-16/",
    "releasedAt": "2026-12-17",
@@ -294,6 +374,11 @@
   },
   "dec-18": {
    "path": "/posts/dec-18/",
+   "releasedAt": "2026-12-18",
+   "hold": false
+  },
+  "apr-11-pdsc06": {
+   "path": "/posts/apr-11-pdsc06/",
    "releasedAt": "2026-12-18",
    "hold": false
   },
@@ -334,6 +419,11 @@
   },
   "dec-25-2027": {
    "path": "/posts/dec-25-2027/",
+   "releasedAt": "2026-12-23",
+   "hold": false
+  },
+  "mar-03-pdaw04": {
+   "path": "/posts/mar-03-pdaw04/",
    "releasedAt": "2026-12-23",
    "hold": false
   },
@@ -452,8 +542,8 @@
    "releasedAt": "2027-01-09",
    "hold": false
   },
-  "jan-10-ngen01": {
-   "path": "/posts/jan-10-ngen01/",
+  "mar-10-pdaw05": {
+   "path": "/posts/mar-10-pdaw05/",
    "releasedAt": "2027-01-10",
    "hold": false
   },
@@ -487,8 +577,8 @@
    "releasedAt": "2027-01-16",
    "hold": false
   },
-  "jan-17-pace01": {
-   "path": "/posts/jan-17-pace01/",
+  "mar-17-pdaw06": {
+   "path": "/posts/mar-17-pdaw06/",
    "releasedAt": "2027-01-17",
    "hold": false
   },
@@ -527,8 +617,8 @@
    "releasedAt": "2027-01-24",
    "hold": false
   },
-  "jan-25-fusb01": {
-   "path": "/posts/jan-25-fusb01/",
+  "mar-24-pdaw07": {
+   "path": "/posts/mar-24-pdaw07/",
    "releasedAt": "2027-01-25",
    "hold": false
   },
@@ -570,11 +660,6 @@
   "feb-02-wotw02": {
    "path": "/posts/feb-02-wotw02/",
    "releasedAt": "2027-02-02",
-   "hold": false
-  },
-  "feb-03-pdaw02": {
-   "path": "/posts/feb-03-pdaw02/",
-   "releasedAt": "2027-02-03",
    "hold": false
   },
   "feb-04-pdb01": {
@@ -682,11 +767,6 @@
    "releasedAt": "2027-02-23",
    "hold": false
   },
-  "feb-24-pdaw03": {
-   "path": "/posts/feb-24-pdaw03/",
-   "releasedAt": "2027-02-24",
-   "hold": false
-  },
   "feb-26-psav01": {
    "path": "/posts/feb-26-psav01/",
    "releasedAt": "2027-02-26",
@@ -705,16 +785,6 @@
   "mar-02-wotw06": {
    "path": "/posts/mar-02-wotw06/",
    "releasedAt": "2027-03-02",
-   "hold": false
-  },
-  "mar-03-pdaw04": {
-   "path": "/posts/mar-03-pdaw04/",
-   "releasedAt": "2027-03-03",
-   "hold": false
-  },
-  "mar-05-pdsc04": {
-   "path": "/posts/mar-05-pdsc04/",
-   "releasedAt": "2027-03-05",
    "hold": false
   },
   "mar-06-rom01": {
@@ -737,8 +807,8 @@
    "releasedAt": "2027-03-09",
    "hold": false
   },
-  "mar-10-pdaw05": {
-   "path": "/posts/mar-10-pdaw05/",
+  "jan-10-ngen01": {
+   "path": "/posts/jan-10-ngen01/",
    "releasedAt": "2027-03-10",
    "hold": false
   },
@@ -772,8 +842,8 @@
    "releasedAt": "2027-03-16",
    "hold": false
   },
-  "mar-17-pdaw06": {
-   "path": "/posts/mar-17-pdaw06/",
+  "jan-17-pace01": {
+   "path": "/posts/jan-17-pace01/",
    "releasedAt": "2027-03-17",
    "hold": false
   },
@@ -807,8 +877,8 @@
    "releasedAt": "2027-03-23",
    "hold": false
   },
-  "mar-24-pdaw07": {
-   "path": "/posts/mar-24-pdaw07/",
+  "jan-25-fusb01": {
+   "path": "/posts/jan-25-fusb01/",
    "releasedAt": "2027-03-24",
    "hold": false
   },
@@ -895,11 +965,6 @@
   "apr-10-nyc01": {
    "path": "/posts/apr-10-nyc01/",
    "releasedAt": "2027-04-10",
-   "hold": false
-  },
-  "apr-11-pdsc06": {
-   "path": "/posts/apr-11-pdsc06/",
-   "releasedAt": "2027-04-11",
    "hold": false
   },
   "apr-12-ddwbs05": {
