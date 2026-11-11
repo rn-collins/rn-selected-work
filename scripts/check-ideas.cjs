@@ -9,6 +9,13 @@ for (const idea of ideas) {
 }
 // A supporting publication belongs to its parent; a second entry must not count it as another work.
 const readingOwners = new Map();
+// Exact publisher destinations require an individually reviewed identity; never allow an entire host.
+const verifiedPublisherArticles = {
+ 'what-youre-buying-when-you-buy-a-cannabis-seed': {
+  title: 'What You’re Really Buying When You Buy a Cannabis Seed',
+  url: 'https://www.fatnugsmag.com/what-youre-buying-when-you-buy-a-cannabis-seed/',
+ },
+};
 // Public reading links are allowed only in a dedicated field, never in prose or private references.
 for (const idea of ideas) {
  for (const key of ['publicationUrl', 'appendixUrl']) {
@@ -18,6 +25,8 @@ for (const idea of ideas) {
   if (key === 'publicationUrl' && idea[key] === journalBase + idea.id) {
    const article = JSON.parse(fs.readFileSync(`data/journal/${idea.id}.json`, 'utf8'));
    assert.ok(article.slug === idea.id && article.title === idea.title && article.author === 'RN Collins' && article.sections?.length, `${idea.id}: journal article identity mismatch`);
+  } else if (key === 'publicationUrl' && Object.hasOwn(verifiedPublisherArticles, idea.id) && idea[key] === verifiedPublisherArticles[idea.id].url) {
+   assert.equal(idea.title, verifiedPublisherArticles[idea.id].title, `${idea.id}: publisher article identity mismatch`);
   } else {
    assert.match(idea[key], /^https:\/\/polymath-rn-collins\.beehiiv\.com\/p\/[a-z0-9-]+$/, `${idea.id}: only verified public article routes, no draft/query/auth URLs`);
   }

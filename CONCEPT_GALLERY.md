@@ -163,3 +163,8 @@ Preserve the missing full2001paper and unverified controls; later excavation con
 ## Journal articles in the writing collection
 
 An existing RN-bylined Journal of Biophilic Design article may use its canonical Selected Works reading URL as publicationUrl. The validator requires the work ID, article filename, slug, title, byline and populated article record to agree. This exception is for article links only; appendix links retain the Polymath rule. Link the existing reading page, never a draft social package, raw PDF or guessed publisher URL. Count the later carousel, reel script and platform copy as derivatives unless evidence establishes a distinct work. Verify the article record, package relationship and issue before inclusion; keep the publisher’s own destination intact.
+
+
+## Individually verified external publisher links
+
+The seed-science essay may link to its exact reviewed Fat Nugs article. The validator binds that canonical HTTPS URL to the reviewed work ID and title; it does not admit other Fat Nugs paths, query strings, fragments, credentials or appendix links. Published-writing and derivative-hold checks still apply. Its unpublished companion remains supporting work in the same entry. Additional external articles require their own source and identity review before the mapping is extended. The build runs regression checks for the approved parent, unsafe URLs, draft and fully held records, wrong identity and duplicate works.
