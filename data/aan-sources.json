@@ -955,7 +955,7 @@
   },
   {
    "slug": "nov-03-ns37",
-   "date": "2026-12-03",
+   "date": "2027-02-03",
    "id": "NS37",
    "title": "Is it the blue light or the scrolling? What screen studies show about sleep",
    "origin": null,
@@ -1062,7 +1062,7 @@
   },
   {
    "slug": "nov-04-kb55",
-   "date": "2026-12-04",
+   "date": "2027-03-05",
    "id": "KB55",
    "title": "How a plant seals a cut: callus, suberin and walls",
    "origin": null,
@@ -1578,7 +1578,7 @@
   },
   {
    "slug": "nov-08",
-   "date": "2026-12-16",
+   "date": "2027-02-24",
    "id": "89",
    "title": "Ways of Seeing",
    "origin": {
@@ -1846,7 +1846,7 @@
   },
   {
    "slug": "nov-10",
-   "date": "2026-12-18",
+   "date": "2027-04-11",
    "id": "46",
    "title": "IK ZIE JE",
    "origin": {
@@ -2136,7 +2136,7 @@
   },
   {
    "slug": "nov-04",
-   "date": "2026-12-23",
+   "date": "2027-03-03",
    "id": "08",
    "title": "Colonic Cleansing Clinic",
    "origin": {
@@ -9637,80 +9637,80 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (not data): players build their own stress landscape from objects and metaphors, then look for routes to another state of mind",
-     "credit": "DDW 2026 listing, Navigating Stress",
-     "url": "https://ddw.nl/en/programme/navigating-stress-1",
+     "what": "A stress map being drawn, photo Navigating Stress / DDW press kit",
+     "credit": "Navigating Stress, DDW 2026 press kit",
+     "url": "https://app-api.ddw.nl/programme/2211/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 2",
+     "what": "The game at its stand, photo Navigating Stress / DDW press kit",
+     "credit": "Navigating Stress, DDW 2026 press kit",
+     "url": "https://app-api.ddw.nl/programme/2211/press-kit.zip",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
      "what": "RN Collins, The Mountain of Perfectionism from Navigating Stress, photograph, 2026: taken at Dutch Design Week 2026 (Sat Oct 17, 18:09), a large green mountain-shaped object with its name cut into the face, on the grass at Strijp T+R, Eindhoven, beside a blue Navigating Stress sign",
      "credit": "Photo: RN Collins",
      "url": "https://ddw.nl/en/programme/navigating-stress-1",
      "card": false
     },
     {
-     "where": "Slide 3",
-     "what": "Illustration made for this post (not data): the stops: the Lake of Expectations, the City of Never Ending Tasks, the Mountain of Perfectionism, the Clock of Valuable Time",
-     "credit": "DDW 2026 listing, Navigating Stress",
-     "url": "https://ddw.nl/en/programme/navigating-stress-1",
-     "card": false
-    },
-    {
      "where": "Slide 4",
-     "what": "Illustration made for this post (not data): making stress visible and tangible helps people find words for experiences often hard to express, the makers say",
-     "credit": "DDW 2026 listing, Navigating Stress",
-     "url": "https://ddw.nl/en/programme/navigating-stress-1",
+     "what": "From the DDW 2026 press kit for the game",
+     "credit": "Text: DDW 2026 press kit, Navigating Stress (programme 2211)",
+     "url": "https://app-api.ddw.nl/programme/2211/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): 30 adults: picking emotion words for faces came with less amygdala activity than naming each face's gender",
-     "credit": "Lieberman et al. (2007), Psychological Science 18(5)",
-     "url": "https://sites.lifesci.ucla.edu/psych-sanlab/wp-content/uploads/sites/31/2016/03/Lieberman_2007_PsychScience.pdf",
-     "card": false
-    },
-    {
-     "where": "Slide 6",
-     "what": "Burklund et al. (2014), Figure 5: amygdala reductions during affect labeling and reappraisal relative to passive observation (brain image and parameter estimates)",
-     "credit": "Burklund, Creswell, Irwin and Lieberman (2014), Frontiers in Psychology 5: 221, CC BY (cropped)",
-     "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00221/full",
-     "card": false
-    },
-    {
-     "where": "Slide 7",
-     "what": "Illustration made for this post (not data): both studies were lab tasks with faces and pictures; neither tested the game",
-     "credit": "Lieberman et al. (2007); Burklund et al. (2014)",
-     "url": "https://sites.lifesci.ucla.edu/psych-sanlab/wp-content/uploads/sites/31/2016/03/Lieberman_2007_PsychScience.pdf",
-     "card": false
-    },
-    {
-     "where": "Slide 8",
-     "what": "Burklund et al. 2014, Frontiers in Psychology, Figure 2: self-reported unpleasantness after observing, labeling and reappraising",
-     "credit": "Burklund, Creswell, Irwin and Lieberman (2014), Frontiers in Psychology 5:221, Figure 2 (CC BY)",
+     "what": "Burklund and colleagues on earlier labeling studies",
+     "credit": "Text: Burklund, Creswell, Irwin and Lieberman (2014), Frontiers in Psychology 5:221, CC BY",
      "url": "https://doi.org/10.3389/fpsyg.2014.00221",
      "card": false
     },
     {
+     "where": "Slide 6",
+     "what": "Amygdala activity in the 2014 study",
+     "credit": "Burklund, Creswell, Irwin and Lieberman (2014), Fig. 5, CC BY",
+     "url": "https://doi.org/10.3389/fpsyg.2014.00221",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The task in the 2014 study",
+     "credit": "Text: Burklund, Creswell, Irwin and Lieberman (2014), Frontiers in Psychology 5:221, CC BY",
+     "url": "https://doi.org/10.3389/fpsyg.2014.00221",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The Lake of Expectations up close, photo Navigating Stress / DDW press kit",
+     "credit": "Navigating Stress, DDW 2026 press kit",
+     "url": "https://app-api.ddw.nl/programme/2211/press-kit.zip",
+     "card": false
+    },
+    {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): a game about stress: objects and metaphors as pieces, your own stress landscape as the board",
-     "credit": "DDW 2026 listing, Navigating Stress",
-     "url": "https://ddw.nl/en/programme/navigating-stress-1",
+     "what": "The stress landscape as a large board, photo Navigating Stress / DDW press kit",
+     "credit": "Navigating Stress, DDW 2026 press kit",
+     "url": "https://app-api.ddw.nl/programme/2211/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Burklund et al. (2014), Figure 4: brain areas more active for labeling than reappraisal and the reverse",
-     "credit": "Burklund, Creswell, Irwin and Lieberman (2014), Frontiers in Psychology 5: 221, CC BY",
-     "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00221/full",
+     "what": "Unpleasantness ratings in the 2014 study",
+     "credit": "Burklund, Creswell, Irwin and Lieberman (2014), Fig. 2, CC BY",
+     "url": "https://doi.org/10.3389/fpsyg.2014.00221",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Text card made for this post: F O R M designlab, Strijp T+R, Eindhoven, Oct 17 to 25 (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/navigating-stress-1",
-     "card": true
+     "what": "The game's stop pieces in their box, photo Navigating Stress / DDW press kit",
+     "credit": "Navigating Stress, DDW 2026 press kit",
+     "url": "https://app-api.ddw.nl/programme/2211/press-kit.zip",
+     "card": false
     }
    ]
   },
@@ -9749,50 +9749,50 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (not data): an overloaded brain and soft sound-soaking panels for homes, offices and care",
-     "credit": "DDW 2026 listing, CalmReef",
-     "url": "https://app-api.ddw.nl/en/programme/calmreef-interactive-modules-for-inner-balance",
+     "what": "CalmReef hanging as a soft canopy, photo Robert Puteanu / Vienna Design Week",
+     "credit": "(c) VIENNA DESIGN WEEK / eSeL.at / Robert Puteanu, DDW 2026 press kit (CalmReef)",
+     "url": "https://app-api.ddw.nl/programme/2673/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: NIOH NIOH, a Kraków studio's sound-soaking panels for homes, offices and care (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://app-api.ddw.nl/en/programme/calmreef-interactive-modules-for-inner-balance",
-     "card": true
+     "what": "CalmReef beside a person, visualization Joanna Rudzinska and Krzysztof Nowak / NIOH NIOH. A light panel and two soft panels hang at head height (the studio's own visualization; the person is seen from behind)",
+     "credit": "Joanna Rudzińska, Krzysztof Nowak, NIOH NIOH team, DDW 2026 press kit (CalmReef visualization)",
+     "url": "https://app-api.ddw.nl/programme/2673/press-kit.zip",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (not data): three panel types: acoustic with natural sounds, light with ambient light, sensory with herbal scents, tactile cushions and airflow",
-     "credit": "DDW 2026 listing, CalmReef",
-     "url": "https://app-api.ddw.nl/en/programme/calmreef-interactive-modules-for-inner-balance",
+     "what": "The three CalmReef module types, picture Krzysztof Nowak / NIOH NIOH. An acoustic panel, a light panel and a sensory panel, as the kit captions them",
+     "credit": "Picture by Krzysztof Nowak/NIOH NIOH team, DDW 2026 press kit (CalmReef)",
+     "url": "https://app-api.ddw.nl/programme/2673/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Jost Amman after Wenzel Jamnitzer, Six polyhedra with an icosahedron as starting point (Zes veelvlakken met een icosaëder als uitgangspunt), Perspectiva corporum regularium, 1568, BI-1969-205-16",
-     "credit": "Jost Amman after Wenzel Jamnitzer, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Zes-veelvlakken-met-een-icosa%C3%ABder-als-uitgangspunt--5e6d0244d88496a8f336ca3ef6452a06",
+     "what": "Four ways the CalmReef modules join, picture Krzysztof Nowak / NIOH NIOH. A ring, a wave, a two-panel fold and a dome, each built from triangular modules",
+     "credit": "Picture by Krzysztof Nowak/NIOH NIOH team, DDW 2026 press kit (CalmReef)",
+     "url": "https://app-api.ddw.nl/programme/2673/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): made with neurodivergent teen patients from a hospital psychiatric unit in Kraków, who took part in research and workshops",
-     "credit": "DDW 2026 listing, CalmReef",
-     "url": "https://app-api.ddw.nl/en/programme/calmreef-interactive-modules-for-inner-balance",
+     "what": "From the DDW 2026 press kit on how it was made",
+     "credit": "Text: DDW 2026 press kit, CalmReef (NIOH NIOH, programme 2673)",
+     "url": "https://app-api.ddw.nl/programme/2673/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post (not data): 56 teen sensory room users on a psychiatric unit had lower distress after use than before, as a 2022 review reports",
-     "credit": "Perers, Bäckström, Johansson and Rask (2022), Psychiatric Quarterly 93(1), reporting West et al. (2017)",
+     "what": "From the 2022 review by Perers and colleagues",
+     "credit": "Text: Perers, Bäckström, Johansson and Rask (2022), Psychiatric Quarterly 93(1), CC BY 4.0",
      "url": "https://doi.org/10.1007/s11126-021-09887-x",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): an open, non-randomised study of one unit's records; seclusion rates showed no significant difference",
-     "credit": "Perers, Bäckström, Johansson and Rask (2022), Psychiatric Quarterly 93(1), reporting West et al. (2017); Baker et al. (2022), Children & Society",
+     "what": "The same review on seclusion",
+     "credit": "Text: Perers, Bäckström, Johansson and Rask (2022), Psychiatric Quarterly 93(1), CC BY 4.0",
      "url": "https://doi.org/10.1007/s11126-021-09887-x",
      "card": false
     },
@@ -9805,31 +9805,31 @@
     },
     {
      "where": "Slide 9",
-     "what": "Question frame made for this post: what would go on your calm wall? No test of CalmReef itself is reported on its listing",
-     "credit": "Dutch Design Week 2026 listing: CalmReef",
-     "url": "https://ddw.nl/en/programme/calmreef-interactive-modules-for-inner-balance",
+     "what": "A CalmReef dome from below, picture Krzysztof Nowak / NIOH NIOH. Acoustic, light and sensory panels joined into a canopy (right part of the configurations picture)",
+     "credit": "Picture by Krzysztof Nowak/NIOH NIOH team, DDW 2026 press kit (CalmReef)",
+     "url": "https://app-api.ddw.nl/programme/2673/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): CalmReef panels with ambient light, natural sound, herbal scent and tactile cushions",
-     "credit": "DDW 2026 listing, CalmReef",
-     "url": "https://app-api.ddw.nl/en/programme/calmreef-interactive-modules-for-inner-balance",
+     "what": "The CalmReef light module up close, picture Krzysztof Nowak / NIOH NIOH. A diamond panel of glowing soft lights behind a rippled cover (top part of the modules picture)",
+     "credit": "Picture by Krzysztof Nowak/NIOH NIOH team, DDW 2026 press kit (CalmReef)",
+     "url": "https://app-api.ddw.nl/programme/2673/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Alvarsson et al. (2010), Figure 1: experimental design, stress test followed by recovery periods for each sound (diagram)",
-     "credit": "Alvarsson, Wiens and Nilsson (2010), Int. J. Environ. Res. Public Health 7(3): 1036, CC BY 3.0",
-     "url": "https://www.mdpi.com/1660-4601/7/3/1036",
+     "what": "Alvarsson and colleagues' main result",
+     "credit": "Text: Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3):1036, CC BY 3.0",
+     "url": "https://doi.org/10.3390/ijerph7031036",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Text card made for this post: Schellens, Fabriek, Eindhoven: CalmReef by NIOH NIOH (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://app-api.ddw.nl/en/programme/calmreef-interactive-modules-for-inner-balance",
-     "card": true
+     "what": "A ring of CalmReef panels, picture Krzysztof Nowak / NIOH NIOH. Soft panels joined edge to edge into a closed loop (left part of the configurations picture)",
+     "credit": "Picture by Krzysztof Nowak/NIOH NIOH team, DDW 2026 press kit (CalmReef)",
+     "url": "https://app-api.ddw.nl/programme/2673/press-kit.zip",
+     "card": false
     }
    ]
   },
@@ -9876,65 +9876,65 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (not data): the room's arc: calm, then overload of voices, thoughts, images and light, then perspective and connection",
-     "credit": "DDW 2026 listing, In the Head of a Young Mind (Mark de Weijer)",
-     "url": "https://ddw.nl/en/programme/in-the-head-of-a-young-mind",
+     "what": "Every 2 minutes, photo John Reilly",
+     "credit": "John Reilly, DDW 2026 press kit (In the Head of a Young Mind; 'Every 2 minutes')",
+     "url": "https://app-api.ddw.nl/programme/2091/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Dynamo, basement, an immersive room about young minds, Eindhoven (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/in-the-head-of-a-young-mind",
-     "card": true
+     "what": "From the DDW 2026 press kit on the setting",
+     "credit": "Text: DDW 2026 press kit, In the Head of a Young Mind (Uppoo and Dynamo Eindhoven, programme 2091)",
+     "url": "https://app-api.ddw.nl/programme/2091/press-kit.zip",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (not data): the room started calm, built into overload, then shifted toward perspective, connection and support",
-     "credit": "DDW 2026 listing, In the Head of a Young Mind (Mark de Weijer)",
-     "url": "https://ddw.nl/en/programme/in-the-head-of-a-young-mind",
+     "what": "The press kit on how the room builds",
+     "credit": "Text: DDW 2026 press kit, In the Head of a Young Mind (Uppoo and Dynamo Eindhoven, programme 2091)",
+     "url": "https://app-api.ddw.nl/programme/2091/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post (not data): themes from sessions with young people in Eindhoven: stress, performance pressure, debt, loneliness, identity, not good enough",
-     "credit": "DDW 2026 listing, In the Head of a Young Mind (Mark de Weijer)",
-     "url": "https://ddw.nl/en/programme/in-the-head-of-a-young-mind",
+     "what": "The press kit on the themes",
+     "credit": "Text: DDW 2026 press kit, In the Head of a Young Mind (Uppoo and Dynamo Eindhoven, programme 2091)",
+     "url": "https://app-api.ddw.nl/programme/2091/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Chart drawn to scale for this post: among people with a mental disorder, onset before 14 in 34.6%, before 18 in 48.4%, before 25 in 62.5%",
-     "credit": "Solmi et al. (2021), Molecular Psychiatry 27",
+     "what": "From the results of Solmi and colleagues' 2021 meta-analysis",
+     "credit": "Text: Solmi et al. (2021), Molecular Psychiatry 27(1), CC BY 4.0",
      "url": "https://doi.org/10.1038/s41380-021-01161-7",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Chart drawn to scale for this post: barrier themes in 13 qualitative studies: stigma in 10, confidentiality and trust in 6, spotting symptoms in 5, self-reliance in 5",
-     "credit": "Gulliver, Griffiths and Christensen (2010), BMC Psychiatry 10:113",
+     "what": "Barrier themes in the 2010 review",
+     "credit": "Gulliver, Griffiths and Christensen (2010), cropped from Table 1, CC BY",
      "url": "https://doi.org/10.1186/1471-244X-10-113",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): made by Mark de Weijer with a team of five; hosted by Uppoo and Dynamo Eindhoven",
-     "credit": "DDW 2026 listing, In the Head of a Young Mind (Mark de Weijer)",
-     "url": "https://ddw.nl/en/programme/in-the-head-of-a-young-mind",
+     "what": "The press kit on the makers",
+     "credit": "Text: DDW 2026 press kit, In the Head of a Young Mind (Uppoo and Dynamo Eindhoven, programme 2091)",
+     "url": "https://app-api.ddw.nl/programme/2091/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Illustration made for this post (not data): pressure builds; someone helps",
-     "credit": "DDW 2026 listing, In the Head of a Young Mind (Mark de Weijer)",
-     "url": "https://ddw.nl/en/programme/in-the-head-of-a-young-mind",
+     "what": "The makers' central question in the press kit",
+     "credit": "Text: DDW 2026 press kit, In the Head of a Young Mind (Uppoo and Dynamo Eindhoven, programme 2091)",
+     "url": "https://app-api.ddw.nl/programme/2091/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): a room that moves into overload, then toward support",
-     "credit": "DDW 2026 listing, In the Head of a Young Mind (Mark de Weijer)",
-     "url": "https://ddw.nl/en/programme/in-the-head-of-a-young-mind",
+     "what": "The press kit on the turn toward support",
+     "credit": "Text: DDW 2026 press kit, In the Head of a Young Mind (Uppoo and Dynamo Eindhoven, programme 2091)",
+     "url": "https://app-api.ddw.nl/programme/2091/press-kit.zip",
      "card": false
     },
     {
@@ -9946,9 +9946,9 @@
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): Mark de Weijer and team; hosted by Uppoo and Dynamo Eindhoven; Dynamo basement",
-     "credit": "DDW 2026 listing, In the Head of a Young Mind (Mark de Weijer)",
-     "url": "https://ddw.nl/en/programme/in-the-head-of-a-young-mind",
+     "what": "The press kit on who made it",
+     "credit": "Text: DDW 2026 press kit, In the Head of a Young Mind (Uppoo and Dynamo Eindhoven, programme 2091)",
+     "url": "https://app-api.ddw.nl/programme/2091/press-kit.zip",
      "card": false
     }
    ]
@@ -9992,72 +9992,72 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (not data): how a carbon claim gets counted: the plant takes in CO2, making emits CO2, burning at end of life sends the stored carbon back",
-     "credit": "Liu et al. (2023), Sustainability 15:7070; Seile et al. (2022), Fibers 10:79",
-     "url": "https://www.mdpi.com/2071-1050/15/9/7070",
+     "what": "The CO2Balance set, photo Husarska Design / DDW press kit",
+     "credit": "Husarska Design, DDW 2026 press kit (CO2Balance)",
+     "url": "https://app-api.ddw.nl/programme/2501/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Seile et al. (2022), Figure 3: composite samples, (a) hemp/PLA and (b) flax/PLA (photograph of panels)",
-     "credit": "Seile, Spurina and Sinka (2022), Fibers 10(9): 79, CC BY",
-     "url": "https://www.mdpi.com/2079-6439/10/9/79",
+     "what": "From the DDW 2026 press kit on the collection",
+     "credit": "Text: DDW 2026 press kit, CO2Balance (Husarska Design Studio and ReHemptation, programme 2501)",
+     "url": "https://app-api.ddw.nl/programme/2501/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Chart drawn to scale for this post: 1 kg of hemp fibre stores an estimated 1.833 kg of CO2",
-     "credit": "Liu et al. (2023), Sustainability 15:7070",
-     "url": "https://www.mdpi.com/2071-1050/15/9/7070",
+     "what": "From the abstract of Liu and colleagues' 2023 study",
+     "credit": "Text: Liu et al. (2023), Sustainability 15(9):7070, CC BY 4.0",
+     "url": "https://doi.org/10.3390/su15097070",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post (not data): carbon stays stored while the product is in use; burned at end of life, it goes back into the air",
-     "credit": "Liu et al. (2023), Sustainability 15:7070",
-     "url": "https://www.mdpi.com/2071-1050/15/9/7070",
+     "what": "Liu and colleagues on how long the storage lasts",
+     "credit": "Text: Liu et al. (2023), Sustainability 15(9):7070, CC BY 4.0",
+     "url": "https://doi.org/10.3390/su15097070",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Liu et al. (2023), Figure 4: the effect of CO2 storage for three hemp products (chart)",
-     "credit": "Liu, Liu, Zhu, Sun, Zhang, Li and Wang (2023), Sustainability 15: 7070, CC BY",
-     "url": "https://www.mdpi.com/2071-1050/15/9/7070",
+     "what": "The same paper on the counting rules",
+     "credit": "Text: Liu et al. (2023), Sustainability 15(9):7070, CC BY 4.0",
+     "url": "https://doi.org/10.3390/su15097070",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Chart drawn to scale for this post: cradle to gate: hemp and PLA panel 1.7 kg CO2 eq per kg, glass fibre plastic 9.14",
-     "credit": "Seile, Spurina and Sinka (2022), Fibers 10(9):79",
-     "url": "https://www.mdpi.com/2079-6439/10/9/79",
+     "what": "From the abstract of Seile and colleagues' 2022 life-cycle study",
+     "credit": "Text: Seile, Spurina and Sinka (2022), Fibers 10(9):79, CC BY 4.0",
+     "url": "https://doi.org/10.3390/fib10090079",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): before trusting a carbon-negative label: how long the product lasts, what happens at the end, what making it emits, what is left out",
-     "credit": "Liu et al. (2023); Seile et al. (2022)",
-     "url": "https://www.mdpi.com/2071-1050/15/9/7070",
+     "what": "The CO2Balance table and chairs up close, photo Husarska Design / DDW press kit",
+     "credit": "Husarska Design, DDW 2026 press kit (CO2Balance)",
+     "url": "https://app-api.ddw.nl/programme/2501/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): CO2Balance: meeting furniture in hemp biocomposite; the makers call it carbon-negative",
-     "credit": "DDW 2026 listing, CO2Balance (Husarska Design Studio, ReHemptation)",
-     "url": "https://ddw.nl/en/programme/co2balance-co2balance-collection-by-rehemptation",
+     "what": "The CO2Balance table with three chairs, photo Husarska Design / DDW press kit",
+     "credit": "Husarska Design, DDW 2026 press kit (CO2Balance)",
+     "url": "https://app-api.ddw.nl/programme/2501/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (not data): 1 kg of hemp fibre stores about 1.833 kg of CO2; burned, that carbon goes back into the air",
-     "credit": "Liu et al. (2023), Sustainability 15:7070",
-     "url": "https://www.mdpi.com/2071-1050/15/9/7070",
+     "what": "Carbon storage over time in the 2023 study",
+     "credit": "Liu et al. (2023), Fig. 3, CC BY 4.0",
+     "url": "https://doi.org/10.3390/su15097070",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): Husarska Design Studio and ReHemptation; meeting furniture in hemp biocomposite; Klokgebouw, Strijp-S, Eindhoven",
-     "credit": "DDW 2026 listing, CO2Balance (Husarska Design Studio, ReHemptation)",
-     "url": "https://ddw.nl/en/programme/co2balance-co2balance-collection-by-rehemptation",
+     "what": "The CO2Balance acoustic screens, photo Husarska Design / DDW press kit",
+     "credit": "Husarska Design, DDW 2026 press kit (CO2Balance)",
+     "url": "https://app-api.ddw.nl/programme/2501/press-kit.zip",
      "card": false
     }
    ]
@@ -10121,43 +10121,43 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Question frame made for this post: who were psychedelic trials tested on, and can the results apply to everyone?",
-     "credit": "Grossman et al. (2025), Nature Mental Health 3(5)",
-     "url": "https://doi.org/10.1038/s44220-025-00417-3",
+     "what": "The title of Hughes and Garcia-Romeu's 2024 review, one of the post's sources: 'Ethnoracial inclusion in clinical trials of psychedelics: a systematic review'",
+     "credit": "Text: Hughes and Garcia-Romeu (2024), eClinicalMedicine 74:102711, CC BY 4.0",
+     "url": "https://doi.org/10.1016/j.eclinm.2024.102711",
      "card": false
     },
     {
      "where": "Slide 2",
      "what": "Chart drawn to scale from Grossman et al. (2025): of 49 primary psychedelic therapy trials, 12% reported participant income (6 trials) and 31% reported education (15)",
-     "credit": "Grossman et al. (2025), Nature Mental Health 3(5)",
+     "credit": "Chart: AaN, from Grossman et al. (2025) data",
      "url": "https://doi.org/10.1038/s44220-025-00417-3",
      "card": false
     },
     {
      "where": "Slide 3",
      "what": "Chart drawn to scale from Grossman et al. (2025): 93% of participants in US trials that reported education had some college, against 62% of the US population",
-     "credit": "Grossman et al. (2025), Nature Mental Health 3(5)",
+     "credit": "Chart: AaN, from Grossman et al. (2025) data",
      "url": "https://doi.org/10.1038/s44220-025-00417-3",
      "card": false
     },
     {
      "where": "Slide 4",
      "what": "Chart from Haft et al. (2025), a 2 by 2 table: in US randomized trials 82.1% of participants were White against 57.8% in the 2020 Census, and 2.7% were Black against 12.1%; 21 trials",
-     "credit": "Haft et al. (2025), Psychiatry Research 345:116359",
+     "credit": "Chart: AaN, from Haft et al. (2025) data",
      "url": "https://doi.org/10.1016/j.psychres.2025.116359",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Diagram made for this post: what people expect can shape results and may differ by background; a 2022 review warns hype can raise expectations in psychedelic trials and says studies rarely measure them (Aday et al., 2022)",
-     "credit": "Aday, Heifets, Pratscher, Bradley, Rosen and Woolley (2022), Psychopharmacology 239",
-     "url": "https://doi.org/10.1007/s00213-022-06123-7",
+     "what": "From the abstract of Aday and colleagues' preprint on trial rigor",
+     "credit": "Text: Aday et al., 'Great Expectations' preprint (PsyArXiv, 2021; published 2022 in Psychopharmacology), CC0 1.0",
+     "url": "https://doi.org/10.31234/osf.io/nrb3t",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Diagram made for this post: later papers report that a 2021 review tied past psychedelic use and older age to less intense effects; past use varies with background (Breeksema et al., 2022; Payne et al., 2025; Haft et al., 2025)",
-     "credit": "Breeksema et al. (2022), J Psychopharmacol 36, and Payne et al. (2025), Brain Behav 15, reporting Aday et al. (2021); Haft et al. (2025), Psychiatry Research 345:116359",
+     "what": "From the limitations of Breeksema and colleagues' 2022 review",
+     "credit": "Text: Breeksema et al. (2022), Journal of Psychopharmacology 36(10), CC BY-NC 4.0",
      "url": "https://doi.org/10.1177/02698811221116926",
      "card": false
     },
@@ -10171,36 +10171,36 @@
     {
      "where": "Slide 8",
      "what": "Dot chart drawn to scale from Haft et al. (2025): of 21 randomized trials, 4 checked whether results differed by group, all by sex or gender, and 17 did not",
-     "credit": "Haft et al. (2025), Psychiatry Research 345:116359",
+     "credit": "Chart: AaN, from Haft et al. (2025) data",
      "url": "https://doi.org/10.1016/j.psychres.2025.116359",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Diagram made for this post: 42 CFR 11.48 names age, sex or gender, race and ethnicity if collected, plus other baseline measures used in the primary analysis; income and education are not named",
-     "credit": "42 CFR 11.48 (eCFR)",
-     "url": "https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-11/subpart-C/section-11.48",
+     "what": "The federal rule's demographic item. 42 CFR 11.48(a)(1)(iii): 'Baseline Measure Information",
+     "credit": "Text: 42 CFR 11.48 (10-1-25 edition, govinfo.gov), US government work",
+     "url": "https://www.govinfo.gov/link/cfr/42/11?link-type=pdf&sectionnum=48&year=mostrecent",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Question frame made for this post: in US trials that reported education, what share of people had some college? (Grossman et al., 2025.)",
-     "credit": "Grossman et al. (2025), Nature Mental Health 3(5)",
-     "url": "https://doi.org/10.1038/s44220-025-00417-3",
+     "what": "The education finding in Haft and colleagues' abstract",
+     "credit": "Text: Haft et al., preprint on OSF (published 2025 in Psychiatry Research 345:116359)",
+     "url": "https://osf.io/ewyn2/",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Diagram made for this post: 82.1% of participants in US randomized trials were White and 93% in US trials that reported education had some college (Haft et al., 2025; Grossman et al., 2025)",
-     "credit": "Haft et al. (2025), Psychiatry Research 345:116359; Grossman et al. (2025), Nature Mental Health 3(5)",
-     "url": "https://doi.org/10.1016/j.psychres.2025.116359",
+     "what": "Hughes and Garcia-Romeu's main finding",
+     "credit": "Text: Hughes and Garcia-Romeu (2024), eClinicalMedicine 74:102711, CC BY 4.0",
+     "url": "https://doi.org/10.1016/j.eclinm.2024.102711",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Question frame made for this post: what should psychedelic trials report about who took part?",
-     "credit": "42 CFR 11.48 (eCFR)",
-     "url": "https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-11/subpart-C/section-11.48",
+     "what": "The federal rule on what trials must report, by its own title: '§ 11.48 What constitutes clinical trial results information?'",
+     "credit": "Text: 42 CFR 11.48 (10-1-25 edition, govinfo.gov), US government work",
+     "url": "https://www.govinfo.gov/link/cfr/42/11?link-type=pdf&sectionnum=48&year=mostrecent",
      "card": false
     }
    ]
@@ -10227,85 +10227,85 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Titovs et al. (2026), Medicina 62(1):60, Figure 1: periventricular white matter hyperintensities on FLAIR MRI, Fazekas grades 1 to 3 (an example of what the changes look like, from another study)",
-     "credit": "Titovs et al. (2026), Medicina 62(1):60 Figure 1 (CC BY 4.0)",
-     "url": "https://doi.org/10.3390/medicina62010060",
+     "what": "The first highlight of Pierce and colleagues' 2026 study",
+     "credit": "Text: Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461, CC BY-NC-ND 4.0",
+     "url": "https://doi.org/10.1002/alz.71461",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781: allostatic load is a composite measure of cumulative physiological dysregulation across multiple biological systems",
-     "credit": "Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781, illustration drawn for this post",
+     "what": "Marin-Maldonado and colleagues on how the load builds",
+     "credit": "Text: Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781, CC BY 4.0",
      "url": "https://doi.org/10.3389/fragi.2026.1863781",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781: the concept builds on McEwen and Stellar's 1993 description of the physiological burden of chronic stress and life events",
-     "credit": "Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781, illustration drawn for this post",
+     "what": "The review on where the idea comes from",
+     "credit": "Text: Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781, CC BY 4.0",
      "url": "https://doi.org/10.3389/fragi.2026.1863781",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Type card made for this post: chronic exposure to social adversity and stress accelerates the process of aging (Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781)",
-     "credit": "Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781",
+     "what": "The review's abstract on weathering",
+     "credit": "Text: Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781, CC BY 4.0",
      "url": "https://doi.org/10.3389/fragi.2026.1863781",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Chart drawn to scale for this post from Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461: 321 dots, one per participant aged 55 and over",
-     "credit": "Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461, chart drawn for this post",
+     "what": "The sample in the study's abstract",
+     "credit": "Text: Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1002/alz.71461",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461: the direction only: more racial discrimination was associated with higher white matter hyperintensity volume; not data",
-     "credit": "Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461, illustration drawn for this post",
+     "what": "The study's first result in the abstract",
+     "credit": "Text: Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1002/alz.71461",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461: the direction only: higher white matter hyperintensity volume was associated with worse objective memory; not data",
-     "credit": "Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461, illustration drawn for this post",
+     "what": "The study's second highlight",
+     "credit": "Text: Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1002/alz.71461",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Type card made for this post: These protective influences may mitigate allostatic burden (Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781)",
-     "credit": "Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781",
+     "what": "The review on buffers",
+     "credit": "Text: Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781, CC BY 4.0",
      "url": "https://doi.org/10.3389/fragi.2026.1863781",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Diagram made for this post: discrimination as a health target as well as a social one, and the question of what would reduce the load where you live (Pierce et al., 2026)",
-     "credit": "Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461",
+     "what": "The study's discussion in the abstract",
+     "credit": "Text: Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1002/alz.71461",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Question frame made for this post: can chronic stress add up in the body? Allostatic load adds up wear and tear across body systems (Marin-Maldonado et al., 2026)",
-     "credit": "Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781",
+     "what": "The review on overload",
+     "credit": "Text: Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781, CC BY 4.0",
      "url": "https://doi.org/10.3389/fragi.2026.1863781",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461: more racial discrimination was associated with higher white matter hyperintensity volume",
-     "credit": "Pierce et al. (2026), Alzheimer's and Dementia 22(5):e71461, illustration drawn for this post",
-     "url": "https://doi.org/10.1002/alz.71461",
+     "what": "The review on why weathering is not destiny",
+     "credit": "Text: Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781, CC BY 4.0",
+     "url": "https://doi.org/10.3389/fragi.2026.1863781",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Question frame made for this post: what would reduce the load where you live? Social support is one buffer a 2026 review names",
-     "credit": "Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781",
+     "what": "The review on resilience factors",
+     "credit": "Text: Marin-Maldonado et al. (2026), Frontiers in Aging 7:1863781, CC BY 4.0",
      "url": "https://doi.org/10.3389/fragi.2026.1863781",
      "card": false
     }
@@ -10460,7 +10460,7 @@
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10378921"
     },
     {
-     "label": "Ikei, Nakamura and Miyazaki (2020), Sustainability, MDPI, CC BY 3.0",
+     "label": "Ikei, Nakamura and Miyazaki (2020), Sustainability, MDPI, CC BY 4.0 (licence line of the article PDF)",
      "url": "https://www.mdpi.com/2071-1050/12/23/9898"
     }
    ],
@@ -10473,86 +10473,79 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Ikei et al. (2023), International Journal of Environmental Research and Public Health, Figure 2: the low wooden table and the cloth-covered table used in the viewing test",
-     "credit": "Ikei H, Jo H, Miyazaki Y (2023), International Journal of Environmental Research and Public Health 20, Figure 2 (CC BY 4.0)",
+     "what": "The two tables in Ikei and colleagues' 2023 study",
+     "credit": "Ikei, Jo and Miyazaki (2023), Fig. 2, CC BY 4.0",
      "url": "https://doi.org/10.3390/ijerph20146351",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Rombout Frieling lab, how daily spaces can reconnect us with our inner world (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://app-api.ddw.nl/en/programme/into-the-body",
-     "card": true
+     "what": "From the DDW 2026 press kit for Into the Body",
+     "credit": "Text: DDW 2026 press kit, Into the Body (Rombout Frieling lab)",
+     "url": "https://app-api.ddw.nl/programme/2569/press-kit.zip",
+     "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (not data): at The Body Building: architecture students' projects and a small selection of the lab's realised projects",
-     "credit": "DDW 2026 listing, Into the Body (Rombout Frieling lab)",
-     "url": "https://app-api.ddw.nl/en/programme/into-the-body",
+     "what": "The press kit on what the lab showed",
+     "credit": "Text: DDW 2026 press kit, Into the Body (Rombout Frieling lab)",
+     "url": "https://app-api.ddw.nl/programme/2569/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post (not data): Healing Homes, a collaboration with Heijmans, led to wooden Healing Huts at Strijp-S",
-     "credit": "DDW 2026 listing, Into the Body (Rombout Frieling lab)",
-     "url": "https://app-api.ddw.nl/en/programme/into-the-body",
+     "what": "The press kit on the wooden Healing Huts",
+     "credit": "Text: DDW 2026 press kit, Into the Body (Rombout Frieling lab)",
+     "url": "https://app-api.ddw.nl/programme/2569/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post (not data): The Body Building is largely bio-based: cross-laminated timber and lime hemp",
-     "credit": "DDW 2026 location page, The Body Building",
-     "url": "https://ddw.nl/en/locations/the-body-building",
+     "what": "Ikei and colleagues' heart rate variability result",
+     "credit": "Ikei, Jo and Miyazaki (2023), Fig. 5, CC BY 4.0",
+     "url": "https://doi.org/10.3390/ijerph20146351",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Ikei et al. (2023), Figure 5: change in ln(LF/HF), sympathetic nervous activity, during 90 s viewing of the wooden vs cloth-covered table (chart)",
-     "credit": "Ikei, Jo and Miyazaki (2023), IJERPH 20(14): 6351, CC BY 4.0",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10378921",
+     "what": "Ratings in the 2020 wall-image study",
+     "credit": "Ikei, Nakamura and Miyazaki (2020), cropped from Fig. 8a-b, CC BY 4.0",
+     "url": "https://doi.org/10.3390/su12239898",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Ikei et al. (2020), Figure 1: interior wall images, knotty cedar, clear cedar and gray control",
-     "credit": "Ikei, Nakamura and Miyazaki (2020), Sustainability 12(23): 9898, CC BY 3.0",
-     "url": "https://www.mdpi.com/2071-1050/12/23/9898",
+     "what": "From the discussion of the 2023 study on its limits",
+     "credit": "Text: Ikei, Jo and Miyazaki (2023), IJERPH 20(14):6351, CC BY 4.0",
+     "url": "https://doi.org/10.3390/ijerph20146351",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Illustration made for this post (not data): limits: small, short studies in young adults by one team; a table or screen images; no whole room or hut",
-     "credit": "Ikei et al. (2023), IJERPH 20; Ikei et al. (2020), Sustainability 12",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10378921",
-     "card": false
-    },
-    {
-     "where": "Slide 9",
-     "what": "Illustration made for this post (not data): look around at materials, light and objects; notice what helps your body slow down",
-     "credit": "DDW 2026 listing, Into the Body (Rombout Frieling lab)",
-     "url": "https://app-api.ddw.nl/en/programme/into-the-body",
+     "what": "The 2023 study on agreement with the earlier lab study",
+     "credit": "Text: Ikei, Jo and Miyazaki (2023), IJERPH 20(14):6351, CC BY 4.0",
+     "url": "https://doi.org/10.3390/ijerph20146351",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): Into the Body: daily spaces and the inner world",
-     "credit": "DDW 2026 listing, Into the Body (Rombout Frieling lab)",
-     "url": "https://app-api.ddw.nl/en/programme/into-the-body",
+     "what": "The motto that opens the Into the Body press kit",
+     "credit": "Text: DDW 2026 press kit, Into the Body (Rombout Frieling lab)",
+     "url": "https://app-api.ddw.nl/programme/2569/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Ikei et al. (2020), Figure 6: pre and post ln(HF), parasympathetic activity (chart)",
-     "credit": "Ikei, Nakamura and Miyazaki (2020), Sustainability 12(23): 9898, CC BY 3.0",
-     "url": "https://www.mdpi.com/2071-1050/12/23/9898",
+     "what": "The three wall images the 28 young women viewed",
+     "credit": "Ikei, Nakamura and Miyazaki (2020), Fig. 1, CC BY 4.0",
+     "url": "https://doi.org/10.3390/su12239898",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): Rombout Frieling lab; The Body Building, Eindhoven; Healing Huts at Strijp-S",
-     "credit": "DDW 2026 listing, Into the Body (Rombout Frieling lab)",
-     "url": "https://app-api.ddw.nl/en/programme/into-the-body",
+     "what": "The head of the Into the Body press kit",
+     "credit": "Text: DDW 2026 press kit, Into the Body (Rombout Frieling lab)",
+     "url": "https://app-api.ddw.nl/programme/2569/press-kit.zip",
      "card": false
     }
    ]
@@ -10584,94 +10577,91 @@
     {
      "label": "Davis, Hsieh and Lee (2015), Scientific Reports, PDF (eScholarship), CC BY 4.0",
      "url": "https://escholarship.org/content/qt9f41t141/qt9f41t141.pdf"
+    },
+    {
+     "label": "Muckli et al. (2005), PLoS Biology, printable PDF and figure files (journals.plos.org), CC BY",
+     "url": "https://doi.org/10.1371/journal.pbio.0030265"
+    },
+    {
+     "label": "Davis, Hsieh and Lee (2015), PMC4314649 open-access PDF (pmc-oa-opendata), CC BY 4.0",
+     "url": "https://doi.org/10.1038/srep07861"
     }
    ],
    "other": [
     {
      "label": "ArtEZ news: Sieger White Young Talent Award 2026",
      "url": "https://www.artez.nl/en/news/isabel-van-de-stadt-en-lina-holinski-winnen-sieger-white-young-talent-award-2026"
-    },
-    {
-     "label": "National Gallery of Art: Eadweard Muybridge, Animal Locomotion plates 579, 619 and 633",
-     "url": "https://www.nga.gov/collection/art-object-page.166983.html"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (not data): light A blinks, then light B in a different place; you see one light moving between them (short-range apparent motion)",
-     "credit": "Anderson and Anderson (1993); Muckli et al. (2005)",
-     "url": "https://faculty.uca.edu/wsmeador/ccsmi/ccsmi/classicwork/Myth%20Revisited.htm",
-     "card": false
-    },
-    {
-     "where": "Slide 2",
-     "what": "Text card made for this post: Isabel van de Stadt, kinetic light sculptures, Young Graduates HUB (DDW 2026 listing)",
-     "credit": "DDW 2026 listing",
-     "url": "https://ddw.nl/en/programme/om-gezien-te-worden-met-blote-ogen-1",
-     "card": true
-    },
-    {
-     "where": "Slide 3",
-     "what": "Auguste Edouart, The Magic Lantern, Cut paper and wash, ca. 1835, 38.145.392 (The Metropolitan Museum of Art)",
-     "credit": "Auguste Edouart, The Metropolitan Museum of Art, Bequest of Mary Martin, 1938 (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/365307",
-     "card": false
-    },
-    {
-     "where": "Slide 4",
-     "what": "Eadweard Muybridge, Plate Number 579. \"Elberon\" walking, saddled, from Animal Locomotion, 1887, collotype, NGA 2014.79.547",
-     "credit": "Eadweard Muybridge, National Gallery of Art, Washington (public domain)",
-     "url": "https://www.nga.gov/collection/art-object-page.166998.html",
-     "card": false
-    },
-    {
-     "where": "Slide 5",
-     "what": "Eadweard Muybridge, Plate Number 619. \"Middleton\" cantering, saddled, from Animal Locomotion, 1887, collotype, NGA 2014.79.586",
-     "credit": "Eadweard Muybridge, National Gallery of Art, Washington (public domain)",
-     "url": "https://www.nga.gov/collection/art-object-page.167037.html",
-     "card": false
-    },
-    {
-     "where": "Slide 6",
-     "what": "Muckli et al. (2005), PLoS Biology, Figure 3: V1 activation along the apparent-motion trace and response bars, experiment 2",
-     "credit": "Muckli L, Kohler A, Kriegeskorte N, Singer W (2005), PLoS Biology 3(8):e265, Figure 3 (CC BY 4.0)",
+     "what": "The stimulus in Muckli and colleagues' 2005 study",
+     "credit": "Muckli et al. (2005), cropped from Fig. 1A-B, CC BY",
      "url": "https://doi.org/10.1371/journal.pbio.0030265",
      "card": false
     },
     {
-     "where": "Slide 7",
-     "what": "Davis et al. (2015), Scientific Reports, Figure 1: flicker sensitivity of ten observers with the median line",
-     "credit": "Davis J, Hsieh YH, Lee HC (2015), Scientific Reports 5, Figure 1 (CC BY 4.0)",
+     "where": "Slide 2",
+     "what": "The kinetic light sculptures together, photo Isabel van de Stadt / DDW press kit",
+     "credit": "Isabel van de Stadt, DDW 2026 press kit (Om Gezien Te Worden Met Blote Ogen)",
+     "url": "https://app-api.ddw.nl/programme/2207/press-kit.zip",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Inside the zoetrope inspired machine, photo Isabel van de Stadt / DDW press kit",
+     "credit": "Isabel van de Stadt, DDW 2026 press kit (Om Gezien Te Worden Met Blote Ogen)",
+     "url": "https://app-api.ddw.nl/programme/2207/press-kit.zip",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "How Muckli and colleagues define the effect",
+     "credit": "Text: Muckli et al. (2005), PLoS Biology 3(8):e265, CC BY",
+     "url": "https://doi.org/10.1371/journal.pbio.0030265",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Muckli and colleagues' V1 result",
+     "credit": "Muckli et al. (2005), Fig. 3, CC BY",
+     "url": "https://doi.org/10.1371/journal.pbio.0030265",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Flicker sensitivity of the ten observers",
+     "credit": "Davis, Hsieh and Lee (2015), Fig. 1, CC BY 4.0",
      "url": "https://doi.org/10.1038/srep07861",
      "card": false
     },
     {
-     "where": "Slide 8",
-     "what": "Illustration made for this post (not data): on a screen, frames shown one after another; in the room, real light reflections moving slowly",
-     "credit": "DDW 2026 listing, Om Gezien Te Worden Met Blote Ogen (Isabel van de Stadt)",
-     "url": "https://ddw.nl/en/programme/om-gezien-te-worden-met-blote-ogen-1",
+     "where": "Slide 7",
+     "what": "The press kit on looking with our own eyes",
+     "credit": "Text: DDW 2026 press kit, Om Gezien Te Worden Met Blote Ogen (Isabel van de Stadt)",
+     "url": "https://app-api.ddw.nl/programme/2207/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Illustration made for this post (not data): kinetic light sculptures inspired by early image-capturing and image-displaying technology; light reflections move slowly",
-     "credit": "DDW 2026 listing, Om Gezien Te Worden Met Blote Ogen (Isabel van de Stadt)",
-     "url": "https://ddw.nl/en/programme/om-gezien-te-worden-met-blote-ogen-1",
+     "what": "Glowing tubes, one of the kinetic light sculptures, photo Isabel van de Stadt / DDW press kit",
+     "credit": "Isabel van de Stadt, DDW 2026 press kit (Om Gezien Te Worden Met Blote Ogen)",
+     "url": "https://app-api.ddw.nl/programme/2207/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (not data): 8 people, fMRI: two squares blink in turn; primary visual cortex responds along the path between them",
-     "credit": "Muckli et al. (2005), PLoS Biology 3(8)",
+     "what": "The response along the path in one volunteer",
+     "credit": "Muckli et al. (2005), cropped from Fig. 2D-E, CC BY",
      "url": "https://doi.org/10.1371/journal.pbio.0030265",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post (not data): Isabel van de Stadt; kinetic light sculptures; Young Graduates HUB, Eindhoven",
-     "credit": "DDW 2026 listing, Om Gezien Te Worden Met Blote Ogen (Isabel van de Stadt)",
-     "url": "https://ddw.nl/en/programme/om-gezien-te-worden-met-blote-ogen-1",
+     "what": "A round screen in a ring of light, one of the kinetic light sculptures, photo Isabel van de Stadt / DDW press kit",
+     "credit": "Isabel van de Stadt, DDW 2026 press kit (Om Gezien Te Worden Met Blote Ogen)",
+     "url": "https://app-api.ddw.nl/programme/2207/press-kit.zip",
      "card": false
     }
    ]
@@ -10815,85 +10805,85 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Bar drawn to scale for this post from Barrett, Davies, Zhang and Barrett (2015): classroom design explained 16% of the variation in pupils' progress across 153 classrooms; everything else, 84%",
-     "credit": "Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133",
+     "what": "From the abstract of the HEAD project's final report",
+     "credit": "Text: Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, CC BY 4.0",
      "url": "https://doi.org/10.1016/j.buildenv.2015.02.013",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Dot chart drawn to scale from Barrett et al. (2015): 153 classrooms in 27 UK primary schools, one dot each; the progress of 3,766 pupils was tracked",
-     "credit": "Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133",
+     "what": "The study's scale as the abstract gives it",
+     "credit": "Text: Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, CC BY 4.0",
      "url": "https://doi.org/10.1016/j.buildenv.2015.02.013",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Chart drawn to scale for this post from Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133: seven classroom features together explained 16% of the variation in pupils' progress over the year",
-     "credit": "Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, chart drawn for this post",
+     "what": "The 16% worked out in the results",
+     "credit": "Text: Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, CC BY 4.0",
      "url": "https://doi.org/10.1016/j.buildenv.2015.02.013",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Diagram made for this post: the seven features, light, temperature and air quality (the naturalness group) and ownership, flexibility, complexity and colour (Barrett et al., 2015)",
-     "credit": "Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133",
+     "what": "The seven named in the discussion",
+     "credit": "Text: Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, CC BY 4.0",
      "url": "https://doi.org/10.1016/j.buildenv.2015.02.013",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Chart made for this post from Barrett et al. (2015): share of the classroom design impact on learning, naturalness about 50%, individuality and stimulation about 25% each",
-     "credit": "Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, chart drawn for this post",
+     "what": "The abstract on the naturalness group",
+     "credit": "Text: Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, CC BY 4.0",
      "url": "https://doi.org/10.1016/j.buildenv.2015.02.013",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Number card made for this post: comparing the most effective and least effective classrooms, about 1.34 sub-levels of progress per subject, where two a year is expected (Barrett et al. (2015), Building and Environment)",
-     "credit": "Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133",
+     "what": "Best room against least effective, in the paper's words",
+     "credit": "Text: Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, CC BY 4.0",
      "url": "https://doi.org/10.1016/j.buildenv.2015.02.013",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (not data): a highly decorated lab classroom pulled kindergartners' attention off the lesson, as Imuta and Scarf (2014) report Fisher et al. (2014)",
-     "credit": "Imuta and Scarf (2014), Frontiers in Psychology 5:1444, reporting Fisher, Godwin and Seltman (2014), Psychological Science 25:1362-1370",
+     "what": "Imuta and Scarf's reanalysis of the decorated-room data",
+     "credit": "Imuta and Scarf (2014), Fig. 1, CC BY",
      "url": "https://doi.org/10.3389/fpsyg.2014.01444",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Illustration made for this post (not data): the same children in the same room, busy walls versus decorations removed: more focus and higher test scores with the decorations removed (Imuta and Scarf, 2014, on Fisher et al., 2014)",
-     "credit": "Imuta and Scarf (2014), Frontiers in Psychology 5:1444, reporting Fisher, Godwin and Seltman (2014), Psychological Science 25:1362-1370",
+     "what": "How the 2014 commentary reports Fisher and colleagues' result",
+     "credit": "Text: Imuta and Scarf (2014), Frontiers in Psychology 5:1444, CC BY",
      "url": "https://doi.org/10.3389/fpsyg.2014.01444",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Question frame made for this post: what would you change first in a classroom? The room matters; light, air and calm walls lead the list",
-     "credit": "Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133; Imuta and Scarf (2014), Frontiers in Psychology 5:1444, on Imuta and Scarf (2014), on Fisher et al. (2014)",
+     "what": "The discussion on what leads",
+     "credit": "Text: Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, CC BY 4.0",
      "url": "https://doi.org/10.1016/j.buildenv.2015.02.013",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Question frame made for this post: how much does the room matter for learning?",
-     "credit": "Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133",
+     "what": "The discussion on rooms within one school",
+     "credit": "Text: Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, CC BY 4.0",
      "url": "https://doi.org/10.1016/j.buildenv.2015.02.013",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133: the seven classroom features, light, temperature, air quality, ownership, flexibility, complexity and colour, with the naturalness group highlighted",
-     "credit": "Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, illustration drawn for this post",
+     "what": "How the seven were found, from the discussion",
+     "credit": "Text: Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, CC BY 4.0",
      "url": "https://doi.org/10.1016/j.buildenv.2015.02.013",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Question frame made for this post: what would you change first in a classroom?",
-     "credit": "Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133",
+     "what": "The authors on putting it into practice",
+     "credit": "Text: Barrett, Davies, Zhang and Barrett (2015), Building and Environment 89:118-133, CC BY 4.0",
      "url": "https://doi.org/10.1016/j.buildenv.2015.02.013",
      "card": false
     }
@@ -10920,87 +10910,87 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Question frame made for this post: when AI does the homework, does the learning still happen? (Bastani et al., 2025.)",
-     "credit": "Bastani et al. (2025), PNAS 122(26):e2422633122",
+     "what": "From the abstract of Bastani and colleagues' 2025 study",
+     "credit": "Text: Bastani et al. (2025), PNAS 122(26):e2422633122, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1073/pnas.2422633122",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Diagram made for this post from Bastani et al. (2025): the two outcomes measured, scores while practicing with the tutor on hand and scores on a later exam with the tutor taken away",
-     "credit": "Bastani et al. (2025), PNAS 122(26):e2422633122",
+     "what": "What the study set out to test",
+     "credit": "Text: Bastani et al. (2025), PNAS 122(26):e2422633122, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1073/pnas.2422633122",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Diagram made for this post from Bastani et al. (2025): the three groups, no AI (usual practice), a plain GPT-4 tutor that works like ChatGPT, and a hint tutor",
-     "credit": "Bastani et al. (2025), PNAS 122(26):e2422633122",
+     "what": "The size of the experiment, from the methods",
+     "credit": "Text: Bastani et al. (2025), PNAS 122(26):e2422633122, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1073/pnas.2422633122",
      "card": false
     },
     {
      "where": "Slide 4",
      "what": "Bar chart drawn to scale from Bastani et al. (2025): gain over the no-AI group while practicing, GPT Base +48% and GPT Tutor +127%",
-     "credit": "Bastani et al. (2025), PNAS 122(26):e2422633122",
+     "credit": "Chart: AaN, from Bastani et al. (2025) data",
      "url": "https://doi.org/10.1073/pnas.2422633122",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Number card made for this post: students who had used the plain tutor scored 17% lower on the exam without AI than students who never had AI (Bastani et al. (2025), PNAS 122(26):e2422633122)",
-     "credit": "Bastani et al. (2025), PNAS 122(26):e2422633122",
+     "what": "The exam result in one line",
+     "credit": "Text: Bastani et al. (2025), PNAS 122(26):e2422633122, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1073/pnas.2422633122",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Diagram made for this post from Bastani et al. (2025): inside the conversations, GPT Base users requested solutions and pasted them in; GPT Tutor users requested help and made their own attempts",
-     "credit": "Bastani et al. (2025), PNAS 122(26):e2422633122",
+     "what": "The study's reading of the chat logs",
+     "credit": "Text: Bastani et al. (2025), PNAS 122(26):e2422633122, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1073/pnas.2422633122",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Bastani et al. (2025), PNAS: students did not think copying had hurt their learning or later scores, while the exam without AI showed lower scores for the plain tutor group",
-     "credit": "Bastani et al. (2025), PNAS, illustration drawn for this post",
+     "what": "On what students believed about their learning",
+     "credit": "Text: Bastani et al. (2025), PNAS 122(26):e2422633122, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1073/pnas.2422633122",
      "card": false
     },
     {
      "where": "Slide 8",
      "what": "Bar chart drawn to scale from Karpicke and Roediger (2008): word pairs recalled a week later by college students, about 80% in the standard and tested-again conditions, 36% studied again, 33% dropped",
-     "credit": "Karpicke and Roediger (2008), Science 319(5865):966-968",
+     "credit": "Chart: AaN, from Karpicke and Roediger (2008) data",
      "url": "https://doi.org/10.1126/science.1152408",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Diagram made for this post from Bastani et al. (2025): pick the tutor style, one that gives the solution (practice up, exam down) or one that gives a hint (exam drop largely gone)",
-     "credit": "Bastani et al. (2025), PNAS 122(26):e2422633122",
+     "what": "The authors on what it means",
+     "credit": "Text: Bastani et al. (2025), PNAS 122(26):e2422633122, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1073/pnas.2422633122",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Question frame made for this post: if AI does the homework, does the learning still happen?",
-     "credit": "Bastani et al. (2025), PNAS 122(26):e2422633122",
+     "what": "The study's answer in brief",
+     "credit": "Text: Bastani et al. (2025), PNAS 122(26):e2422633122, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1073/pnas.2422633122",
      "card": false
     },
     {
      "where": "Story 2",
      "what": "Chart drawn to scale for this post from Bastani et al. (2025), PNAS 122(26):e2422633122: for the plain tutor group, practice grades rose 48% and exam scores without AI were 17% lower than for students who never had AI",
-     "credit": "Bastani et al. (2025), PNAS 122(26):e2422633122, chart drawn for this post",
+     "credit": "Chart: AaN, from Bastani et al. (2025) data",
      "url": "https://doi.org/10.1073/pnas.2422633122",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Type card made for this post for the Story question: How do you use AI so you still learn?. No image reproduced",
-     "credit": "Bastani et al. (2025), PNAS 122(26):e2422633122",
+     "what": "How the hint tutor was built",
+     "credit": "Text: Bastani et al. (2025), PNAS 122(26):e2422633122, CC BY-NC-ND 4.0",
      "url": "https://doi.org/10.1073/pnas.2422633122",
-     "card": true
+     "card": false
     }
    ]
   },
@@ -11025,85 +11015,85 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Almustanyir (2025), Healthcare 13(16):2031: color-coded materials marked by color only, or by color plus a pattern, label or high contrast",
-     "credit": "Almustanyir (2025), Healthcare 13(16):2031, illustration drawn for this post",
+     "what": "From Almustanyir's 2025 review on early signs",
+     "credit": "Text: Almustanyir (2025), Healthcare 13(16):2031, CC BY 4.0",
      "url": "https://doi.org/10.3390/healthcare13162031",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Chart drawn to scale for this post from Almustanyir (2025), Healthcare 13(16):2031: red-green differences affect up to 8% of males and 0.5% of females of Northern European descent",
-     "credit": "Almustanyir (2025), Healthcare 13(16):2031, chart drawn for this post",
+     "what": "The review's prevalence figure, from the abstract",
+     "credit": "Text: Almustanyir (2025), Healthcare 13(16):2031, CC BY 4.0",
      "url": "https://doi.org/10.3390/healthcare13162031",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Almustanyir (2025), Healthcare 13(16):2031: diagnosis is often delayed until school age or later, with many unaware until adolescence or adulthood",
-     "credit": "Almustanyir (2025), Healthcare 13(16):2031, illustration drawn for this post",
+     "what": "The abstract on late diagnosis",
+     "credit": "Text: Almustanyir (2025), Healthcare 13(16):2031, CC BY 4.0",
      "url": "https://doi.org/10.3390/healthcare13162031",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Diagram made for this post (not data): the pathway in Almustanyir (2025) the first figure, genetic or acquired colour vision deficiency, often unrecognized in early childhood, school difficulties with colour-dependent tasks, screening and diagnosis, adaptation and support",
-     "credit": "Almustanyir (2025), Healthcare 13(16):2031",
+     "what": "The review on schoolwork, first half of the sentence",
+     "credit": "Text: Almustanyir (2025), Healthcare 13(16):2031, CC BY 4.0",
      "url": "https://doi.org/10.3390/healthcare13162031",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Type card made for this post: potentially resulting in academic underachievement or misdiagnosis of learning difficulties (Almustanyir (2025), Healthcare 13(16):2031)",
-     "credit": "Almustanyir (2025), Healthcare 13(16):2031",
+     "what": "The same sentence, its second half",
+     "credit": "Text: Almustanyir (2025), Healthcare 13(16):2031, CC BY 4.0",
      "url": "https://doi.org/10.3390/healthcare13162031",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Chart drawn to scale for this post from Thomas et al. (2026), PLOS ONE 21(7):e0353847: 44 boys with a color vision difference and 44 age- and class-matched controls",
-     "credit": "Thomas et al. (2026), PLOS ONE 21(7):e0353847, chart drawn for this post",
+     "what": "From the abstract of Thomas and colleagues' 2026 study",
+     "credit": "Text: Thomas et al. (2026), PLOS ONE 21(7):e0353847, CC BY 4.0",
      "url": "https://doi.org/10.1371/journal.pone.0353847",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Thomas et al. (2026), PLOS ONE 21(7):e0353847: adolescents with a color vision difference scored higher on most parent-rated problem scales, attention problems most strongly",
-     "credit": "Thomas et al. (2026), PLOS ONE 21(7):e0353847, illustration drawn for this post",
+     "what": "Parent-rated scores in the two groups of boys",
+     "credit": "Thomas et al. (2026), Table 2, CC BY 4.0",
      "url": "https://doi.org/10.1371/journal.pone.0353847",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Diagram made for this post (not data): the four supports in Almustanyir (2025) the second figure, early screening, teacher training, inclusive materials and ongoing support",
-     "credit": "Almustanyir (2025), Healthcare 13(16):2031",
+     "what": "The review on what helps in class",
+     "credit": "Text: Almustanyir (2025), Healthcare 13(16):2031, CC BY 4.0",
      "url": "https://doi.org/10.3390/healthcare13162031",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Question frame made for this post: what color-coded thing at school would you redesign? Label it as well as coloring it",
-     "credit": "Almustanyir (2025), Healthcare 13(16):2031",
+     "what": "The review's best practice for teaching",
+     "credit": "Text: Almustanyir (2025), Healthcare 13(16):2031, CC BY 4.0",
      "url": "https://doi.org/10.3390/healthcare13162031",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Question frame made for this post: did your school use color-coded worksheets?",
-     "credit": "Almustanyir (2025), Healthcare 13(16):2031",
+     "what": "The review on when children find out",
+     "credit": "Text: Almustanyir (2025), Healthcare 13(16):2031, CC BY 4.0",
      "url": "https://doi.org/10.3390/healthcare13162031",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Almustanyir (2025), Healthcare 13(16):2031: diagnosis is often delayed until school age or later due to limited routine screening",
-     "credit": "Almustanyir (2025), Healthcare 13(16):2031, illustration drawn for this post",
+     "what": "The review on age at detection",
+     "credit": "Text: Almustanyir (2025), Healthcare 13(16):2031, CC BY 4.0",
      "url": "https://doi.org/10.3390/healthcare13162031",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Question frame made for this post: what would you redesign?",
-     "credit": "Almustanyir (2025), Healthcare 13(16):2031",
+     "what": "More of the review's best practices",
+     "credit": "Text: Almustanyir (2025), Healthcare 13(16):2031, CC BY 4.0",
      "url": "https://doi.org/10.3390/healthcare13162031",
      "card": false
     }
@@ -11298,6 +11288,10 @@
     {
      "label": "MAISON the FAUX studio site (opened in full)",
      "url": "https://www.maisonthefaux.com"
+    },
+    {
+     "label": "DDW Flickr, album 2026 | MU (72177720336137502), frames by Hanneke Wetzer and Nikola Lamburov",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/72177720336137502"
     }
    ],
    "images": [
@@ -11310,9 +11304,9 @@
     },
     {
      "where": "Slide 2",
-     "what": "RN Collins, Title wall and candle table of Everything Moist Seems Alive at MU, photograph, 2026",
-     "credit": "Photo: RN Collins",
-     "url": "",
+     "what": "The water installation at MU, photo Hanneke Wetzer / Dutch Design Week",
+     "credit": "Photo: Hanneke Wetzer / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55589291930",
      "card": false
     },
     {
@@ -11324,66 +11318,66 @@
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post: the lab protocol, two-minute speeded arithmetic, one of four sounds, recovery measured",
-     "credit": "Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3)",
+     "what": "From the abstract of the 2010 sound study",
+     "credit": "Text: Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3):1036-1046, CC BY",
      "url": "https://doi.org/10.3390/ijerph7031036",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Bar chart drawn to scale for this post from Alvarsson et al. (2010) Figure 4: fitted half-life of skin conductance recovery, 101.3 s nature sound, 111.4 low noise, 121.3 ambient noise, 159.8 high noise",
-     "credit": "Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3), Figure 4 (CC BY 3.0)",
+     "what": "Skin conductance recovery for each of the four sounds",
+     "credit": "Alvarsson et al. (2010), Fig. 4, CC BY",
      "url": "https://doi.org/10.3390/ijerph7031036",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Text card made for this post: no change in high-frequency heart rate variability (Alvarsson et al., 2010)",
-     "credit": "Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3)",
+     "what": "The heart result in the 2010 study",
+     "credit": "Text: Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3):1036-1046, CC BY",
      "url": "https://doi.org/10.3390/ijerph7031036",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Bar chart drawn to scale for this post: how much wetter the very cold 0.8 mL drop was rated, 35.5 points than neutral, 22.7 than very hot, 16.1 than cold, on a 0 to 100 scale",
-     "credit": "Valenza et al. (2025), Experimental Physiology (CC BY 4.0)",
+     "what": "Wetness ratings for the same drop at six temperatures",
+     "credit": "Valenza et al. (2025), Fig. 2, CC BY 4.0",
      "url": "https://doi.org/10.1113/EP092691",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "RN Collins, Bulbous sculpture in Everything Moist Seems Alive at MU, photograph, 2026",
-     "credit": "Photo: RN Collins",
-     "url": "",
+     "what": "The makers' own figure on the DDW listing",
+     "credit": "Text: DDW 2026 listing, Everything Moist Seems Alive",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/everything-moist-seems-alive",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Text card made for this post: the closing question",
-     "credit": "Ask a Neuroscientist",
-     "url": "https://app-api.ddw.nl/en/programme/everything-moist-seems-alive",
-     "card": true
+     "what": "Running water at the rain tank, photo Hanneke Wetzer / Dutch Design Week",
+     "credit": "Photo: Hanneke Wetzer / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55589068614",
+     "card": false
     },
     {
      "where": "Story 1",
-     "what": "Diagram made for this post: the show at a glance from the DDW pages",
-     "credit": "DDW programme and location pages",
-     "url": "https://app-api.ddw.nl/en/programme/everything-moist-seems-alive",
+     "what": "The screens and altar at MU, photo Hanneke Wetzer / Dutch Design Week",
+     "credit": "Photo: Hanneke Wetzer / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55589068819",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Text card made for this post: 40 students in the study (Alvarsson et al., 2010)",
-     "credit": "Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3)",
+     "what": "The 2010 study's sample, from its methods",
+     "credit": "Text: Alvarsson, Wiens and Nilsson (2010), IJERPH 7(3):1036-1046, CC BY",
      "url": "https://doi.org/10.3390/ijerph7031036",
-     "card": true
+     "card": false
     },
     {
      "where": "Story 3",
-     "what": "Text card made for this post: MU Hybrid Art House address (DDW location page)",
-     "credit": "DDW location page, MU Hybrid Art House",
-     "url": "https://app-api.ddw.nl/en/locations/mu-hybrid-art-house",
-     "card": true
+     "what": "The venue lines of the DDW listing",
+     "credit": "Text: DDW 2026 listing, Everything Moist Seems Alive",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/everything-moist-seems-alive",
+     "card": false
     }
    ]
   },
@@ -11430,79 +11424,79 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Question frame made for this post: what if the thing you pet could purr back?",
-     "credit": "Dutch Design Week 2026 listing: Soft Companions",
-     "url": "https://ddw.nl/en/programme/soft-companions",
+     "what": "A Soft Companion under a hand, photo Katrijn Westland / DDW press kit",
+     "credit": "Photo: Katrijn Westland, DDW press kit (Soft Companions, programme 1938)",
+     "url": "https://app-api.ddw.nl/programme/1938/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Diagram made for this post from the DDW listing: Soft Companions by Katrijn Westland, knitted creatures that breathe, move, give off warmth and light, and purr when content",
-     "credit": "Dutch Design Week 2026 listing: Soft Companions",
-     "url": "https://ddw.nl/en/programme/soft-companions",
+     "what": "Driftling, photo Kasper Heden / DDW press kit",
+     "credit": "Photo: Kasper Heden, DDW press kit (Soft Companions, programme 1938)",
+     "url": "https://app-api.ddw.nl/programme/1938/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Diagram made for this post from the DDW listing: naturally dyed knits with e-textiles, sensors, air-driven parts and soft mechanics; they invite grooming, soothing, observation and care",
-     "credit": "Dutch Design Week 2026 listing: Soft Companions",
-     "url": "https://ddw.nl/en/programme/soft-companions",
+     "what": "From the maker's press kit",
+     "credit": "Text: Katrijn Westland, Soft Companions press kit (DDW 2026, programme 1938)",
+     "url": "https://app-api.ddw.nl/programme/1938/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Diagram made for this post: before the same arithmetic stress task, 31 students had a canine visit and 30 had quiet rest; mean EDA rise 1.58 versus 7.07 (Fiocco and Hunse, 2017)",
-     "credit": "Fiocco and Hunse (2017), IJERPH 14(7):707",
+     "what": "Change in skin conductance in the 2017 trial",
+     "credit": "Fiocco and Hunse (2017), Fig. 3, CC BY",
      "url": "https://doi.org/10.3390/ijerph14070707",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Diagram made for this post (not data): in Haynes et al. (2022), 129 adults were placed in a breathing cushion, guided meditation or no-intervention condition before a maths test; the cushion breathed at 10 breaths a minute",
-     "credit": "Haynes, Lywood, Crowe, Fielding, Rossiter and Kent (2022), PLOS ONE 17(3):e0259838 (CC BY 4.0)",
+     "what": "The nine stages of the 2022 cushion experiment",
+     "credit": "Haynes et al. (2022), Fig. 4, CC BY 4.0",
      "url": "https://doi.org/10.1371/journal.pone.0259838",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Diagram made for this post (not data): in Haynes et al. (2022), anxiety before the test was lower with the breathing cushion than with no intervention and close to guided meditation; a small to medium effect",
-     "credit": "Haynes, Lywood, Crowe, Fielding, Rossiter and Kent (2022), PLOS ONE 17(3):e0259838 (CC BY 4.0)",
+     "what": "Anxiety scores in the 2022 study",
+     "credit": "Haynes et al. (2022), Fig. 5, CC BY 4.0",
      "url": "https://doi.org/10.1371/journal.pone.0259838",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Diagram made for this post (not data): one box-breathing cycle, inflate 4, hold 4, deflate 4, hold 4, as the maker describes the companion in her TEI '26 abstract (Westland, 2026)",
-     "credit": "Westland (2026), Soft Companions: A Breathing Textile Creature for Sensory Rituals of Care, TEI '26 (abstract)",
-     "url": "https://doi.org/10.1145/3731459.3786225",
+     "what": "Fondling up close, film still Celine Caly / DDW press kit",
+     "credit": "Film still: Celine Caly, DDW press kit (Soft Companions, programme 1938)",
+     "url": "https://app-api.ddw.nl/programme/1938/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Question frame made for this post: what soft thing do you reach for when you feel alone?",
-     "credit": "Dutch Design Week 2026 listing: Soft Companions",
-     "url": "https://ddw.nl/en/programme/soft-companions",
+     "what": "Why the maker made them, from her press kit",
+     "credit": "Text: Katrijn Westland, Soft Companions press kit (DDW 2026, programme 1938)",
+     "url": "https://app-api.ddw.nl/programme/1938/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Question frame made for this post: would you pet one?",
-     "credit": "Dutch Design Week 2026 listing: Soft Companions",
-     "url": "https://ddw.nl/en/programme/soft-companions",
+     "what": "Driftling's head and fringe, photo Kasper Heden / DDW press kit",
+     "credit": "Photo: Kasper Heden, DDW press kit (Soft Companions, programme 1938)",
+     "url": "https://app-api.ddw.nl/programme/1938/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Diagram made for this post: hugging a breathing cushion before a test was linked to lower anxiety, close to guided meditation (Haynes et al., 2022)",
-     "credit": "Haynes et al. (2022), PLOS ONE 17(3):e0259838",
+     "what": "The 2022 study's result, from its abstract",
+     "credit": "Text: Haynes et al. (2022), PLOS ONE 17(3):e0259838, CC BY 4.0",
      "url": "https://doi.org/10.1371/journal.pone.0259838",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Diagram made for this post from the DDW listing: Soft Companions by Katrijn Westland, Klokgebouw, Strijp-S, Eindhoven",
-     "credit": "Dutch Design Week 2026 listing: Soft Companions",
-     "url": "https://ddw.nl/en/programme/soft-companions",
+     "what": "The venue lines of the DDW listing",
+     "credit": "Text: DDW 2026 listing, Soft Companions",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/soft-companions",
      "card": false
     }
    ]
@@ -11540,79 +11534,79 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Question frame made for this post: what if the tide could play an organ?",
-     "credit": "Dutch Design Week 2026 listing: Hydraulic Harmonies",
-     "url": "https://app-api.ddw.nl/en/programme/hydraulic-harmonies-1",
+     "what": "Hydraulic Harmonies, photo Alma Rose Fensholt / DDW press kit",
+     "credit": "Photo: Alma Rose Fensholt, DDW press kit (Hydraulic Harmonies, programme 2414)",
+     "url": "https://app-api.ddw.nl/programme/2414/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Diagram made for this post from the DDW listing: Hydraulic Harmonies by Alma Rose Fensholt, a speculative tidal organ played by the movement of water, Oct 17 to 25",
-     "credit": "Dutch Design Week 2026 listing: Hydraulic Harmonies",
-     "url": "https://app-api.ddw.nl/en/programme/hydraulic-harmonies-1",
+     "what": "From the maker's press kit",
+     "credit": "Text: Alma Rose Fensholt, Hydraulic Harmonies press kit (DDW 2026, programme 2414)",
+     "url": "https://app-api.ddw.nl/programme/2414/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Diagram made for this post from the DDW listing: inspired by the ancient Hydraulis, water flows through a sound collector, compressing air and sending it through acoustical pipes",
-     "credit": "Dutch Design Week 2026 listing: Hydraulic Harmonies",
-     "url": "https://app-api.ddw.nl/en/programme/hydraulic-harmonies-1",
+     "what": "The steel pipe over its collector, photo Alma Rose Fensholt / DDW press kit",
+     "credit": "Photo: Alma Rose Fensholt, DDW press kit (Hydraulic Harmonies, programme 2414)",
+     "url": "https://app-api.ddw.nl/programme/2414/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Diagram made for this post from the DDW listing: larger pipes tested in the Biesbosch and recorded over a day, higher tones as water moved further into the pipes, lower as it receded",
-     "credit": "Dutch Design Week 2026 listing: Hydraulic Harmonies",
-     "url": "https://app-api.ddw.nl/en/programme/hydraulic-harmonies-1",
+     "what": "The Biesbosch test, from the maker's press kit",
+     "credit": "Text: Alma Rose Fensholt, Hydraulic Harmonies press kit (DDW 2026, programme 2414)",
+     "url": "https://app-api.ddw.nl/programme/2414/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Chart drawn for this post, one dot per person: 12 people in the main fMRI study, ages 21 to 28 (Norman-Haignere et al., 2013)",
-     "credit": "Norman-Haignere, Kanwisher and McDermott (2013), Journal of Neuroscience 33(50):19451-19469",
+     "what": "From the abstract of the 2013 pitch study",
+     "credit": "Text: Norman-Haignere, Kanwisher and McDermott (2013), J Neurosci 33(50):19451-19469",
      "url": "https://doi.org/10.1523/JNEUROSCI.2880-13.2013",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Diagram made for this post: pitch-sensitive regions in every participant, toward the front of the auditory cortex, driven mainly by resolved harmonics, role in pitch still to be determined (Norman-Haignere et al., 2013)",
-     "credit": "Norman-Haignere, Kanwisher and McDermott (2013), Journal of Neuroscience 33(50):19451-19469",
+     "what": "The authors' own limit in the 2013 study",
+     "credit": "Text: Norman-Haignere, Kanwisher and McDermott (2013), J Neurosci 33(50):19451-19469",
      "url": "https://doi.org/10.1523/JNEUROSCI.2880-13.2013",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Diagram made for this post (not data): in McPherson et al. (2020), 31 Tsimane' listeners and 28 Boston non-musicians both fused simple-ratio note pairs; a preference for consonant pairs showed in Boston, none was detected in the Tsimane' group",
-     "credit": "McPherson, Dolan, Durango, Ossandon, Valdes, Undurraga, Jacoby, Godoy and McDermott (2020), Nature Communications 11:2786 (CC BY 4.0)",
+     "what": "Fusion and liking for consonant and dissonant note pairs",
+     "credit": "McPherson et al. (2020), cropped from Fig. 2f-i, CC BY 4.0",
      "url": "https://doi.org/10.1038/s41467-020-16448-6",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Question frame made for this post: what sound would you want the tide to play?",
-     "credit": "Dutch Design Week 2026 listing: Hydraulic Harmonies",
-     "url": "https://app-api.ddw.nl/en/programme/hydraulic-harmonies-1",
+     "what": "The black pipes and water bottle, photo Alma Rose Fensholt / DDW press kit",
+     "credit": "Photo: Alma Rose Fensholt, DDW press kit (Hydraulic Harmonies, programme 2414)",
+     "url": "https://app-api.ddw.nl/programme/2414/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Question frame made for this post: could you hear a tide turn? A speculative organ played by moving water",
-     "credit": "Dutch Design Week 2026 listing: Hydraulic Harmonies",
-     "url": "https://app-api.ddw.nl/en/programme/hydraulic-harmonies-1",
+     "what": "The hoses on the floor, photo Alma Rose Fensholt / DDW press kit",
+     "credit": "Photo: Alma Rose Fensholt, DDW press kit (Hydraulic Harmonies, programme 2414)",
+     "url": "https://app-api.ddw.nl/programme/2414/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Diagram made for this post: in a 2013 scan study of 12 people, regions toward the front of the auditory cortex responded more to harmonic tones than to noise (Norman-Haignere et al., 2013)",
-     "credit": "Norman-Haignere, Kanwisher and McDermott (2013), Journal of Neuroscience 33(50):19451-19469",
+     "what": "The 2013 study's conclusion, from its abstract",
+     "credit": "Text: Norman-Haignere, Kanwisher and McDermott (2013), J Neurosci 33(50):19451-19469",
      "url": "https://doi.org/10.1523/JNEUROSCI.2880-13.2013",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Diagram made for this post from the DDW listing: Hydraulic Harmonies by Alma Rose Fensholt, A1 BioArt Laboratories, Strijp T+R, Eindhoven",
-     "credit": "Dutch Design Week 2026 listing: Hydraulic Harmonies",
-     "url": "https://app-api.ddw.nl/en/programme/hydraulic-harmonies-1",
+     "what": "The venue lines of the DDW listing",
+     "credit": "Text: DDW 2026 listing, Hydraulic Harmonies",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/hydraulic-harmonies-1",
      "card": false
     }
    ]
@@ -11642,85 +11636,85 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Diagram made for this post: about 10 to 30 newtons between partner dancers' hands (Sawers et al., 2017)",
-     "credit": "Sawers et al. (2017), Journal of NeuroEngineering and Rehabilitation 14:8",
+     "what": "The range of hand forces in the 2017 study",
+     "credit": "Sawers et al. (2017), cropped from Fig. 3a, CC BY 4.0",
      "url": "https://doi.org/10.1186/s12984-017-0217-2",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Diagram made for this post (not data): in Sawers et al. (2017), partner dancers stepped forward and back, one leading and one following, while the forces between their hands were measured",
-     "credit": "Sawers, Bhattacharjee, McKay, Hackney, Kemp and Ting (2017), Journal of NeuroEngineering and Rehabilitation 14:8 (CC BY 4.0)",
+     "what": "Two partners in the stepping task",
+     "credit": "Sawers et al. (2017), cropped from Fig. 2a, CC BY 4.0",
      "url": "https://doi.org/10.1186/s12984-017-0217-2",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Sawers A et al. (2017), Fig. 3: Interaction forces during the predictable and unpredictable partnered stepping task (PST). a Histograms depicting the distribution of the interaction forces observed during the predictable ( left ) and unpredictable (... (Journal of neuroengineering and rehabilitation)",
-     "credit": "Sawers A et al. (2017), Journal of neuroengineering and rehabilitation, Fig. 3 (CC BY)",
+     "what": "The force range in the 2017 study's own words",
+     "credit": "Text: Sawers et al. (2017), J NeuroEng Rehabil 14:8, CC BY 4.0",
      "url": "https://doi.org/10.1186/s12984-017-0217-2",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Chart drawn to scale for this post from Sawers et al. (2017): mean peak interaction force in the predictable stepping task, expert pairs 12.3 N, expert-novice 7.21 N, novice pairs 5.86 N",
-     "credit": "Sawers et al. (2017), Journal of NeuroEngineering and Rehabilitation 14:8",
+     "what": "Peak force by pair type in the predictable task",
+     "credit": "Sawers et al. (2017), cropped from Fig. 3b, CC BY 4.0",
      "url": "https://doi.org/10.1186/s12984-017-0217-2",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Diagram made for this post: the authors suggest small forces may communicate movement goals and act as guiding cues rather than physical assistance (Sawers et al., 2017)",
-     "credit": "Sawers et al. (2017), Journal of NeuroEngineering and Rehabilitation 14:8",
+     "what": "The authors' reading of the small forces, from their abstract",
+     "credit": "Text: Sawers et al. (2017), J NeuroEng Rehabil 14:8, CC BY 4.0",
      "url": "https://doi.org/10.1186/s12984-017-0217-2",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Number card made for this post: Both partners tracked a target better with their hands linked, the weaker and the stronger (Ganesh et al. (2014), Scientific Reports)",
-     "credit": "Ganesh et al. (2014), Scientific Reports",
+     "what": "The 2014 linked-hands result, from its abstract",
+     "credit": "Text: Ganesh et al. (2014), Scientific Reports 4:3824",
      "url": "https://doi.org/10.1038/srep03824",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Diagram made for this post: with hands linked by robot handles, both the weaker and the better partner improved, and extra sensory information alone did not explain it (Ganesh et al., 2014)",
-     "credit": "Ganesh et al. (2014), Scientific Reports 4:3824",
+     "what": "Why a real partner mattered in the 2014 study",
+     "credit": "Text: Ganesh et al. (2014), Scientific Reports 4:3824",
      "url": "https://doi.org/10.1038/srep03824",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Diagram made for this post (not data): in Takagi et al. (2019), groups of two to four with linked hands coordinated within seconds, and a model suggests each person used the pull to infer the shared goal",
-     "credit": "Takagi A et al. (2019), eLife. (CC BY)",
-     "url": "https://doi.org/10.7554/elife.41328",
+     "what": "How fast groups settled in the 2019 study",
+     "credit": "Takagi et al. (2019), cropped from Fig. 3D, CC BY 4.0",
+     "url": "https://doi.org/10.7554/eLife.41328",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Diagram made for this post: connected resistance as a channel of information (Sawers et al., 2017; Ganesh et al., 2014)",
-     "credit": "Sawers et al. (2017), Journal of NeuroEngineering and Rehabilitation 14:8",
+     "what": "The 2017 study's conclusion",
+     "credit": "Text: Sawers et al. (2017), J NeuroEng Rehabil 14:8, CC BY 4.0",
      "url": "https://doi.org/10.1186/s12984-017-0217-2",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Question frame made for this post: can you feel where a partner wants to go?",
-     "credit": "Sawers et al. (2017), Journal of NeuroEngineering and Rehabilitation 14:8",
+     "what": "Where the leader took the follower",
+     "credit": "Sawers et al. (2017), cropped from Fig. 1a, CC BY 4.0",
      "url": "https://doi.org/10.1186/s12984-017-0217-2",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Chart drawn to scale for this post from Sawers et al. (2017), Journal of NeuroEngineering and Rehabilitation 14:8: the range of interaction forces, 10 to 30 newtons, on a scale from 0 to 40",
-     "credit": "Sawers et al. (2017), Journal of NeuroEngineering and Rehabilitation 14:8, chart drawn for this post",
+     "what": "Who used larger forces in the 2017 study",
+     "credit": "Text: Sawers et al. (2017), J NeuroEng Rehabil 14:8, CC BY 4.0",
      "url": "https://doi.org/10.1186/s12984-017-0217-2",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Question frame made for this post: what do you feel first when a partner leads?",
-     "credit": "Sawers et al. (2017), Journal of NeuroEngineering and Rehabilitation 14:8",
+     "what": "Leader and follower moving together",
+     "credit": "Sawers et al. (2017), cropped from Fig. 1b, CC BY 4.0",
      "url": "https://doi.org/10.1186/s12984-017-0217-2",
      "card": false
     }
@@ -11756,84 +11750,88 @@
     {
      "label": "Sunwoo et al. (2006), Journal of Physiological Anthropology, full text (J-STAGE PDF, free access)",
      "url": "https://www.jstage.jst.go.jp/article/jpa2/25/1/25_1_7/_pdf"
+    },
+    {
+     "label": "DDW Flickr, album 2026 | Ketelhuisplein (72177720336216028), frames 55633690273 and 55632562792 by Max Kneefel",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/72177720336216028"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Question frame made for this post: can the air in a room change how your body feels?",
-     "credit": "Sunwoo et al. (2006), Journal of Physiological Anthropology 25(1):7-14",
-     "url": "https://doi.org/10.2114/jpa2.25.7",
+     "what": "Inside WETHOUSE, photo Max Kneefel / Dutch Design Week",
+     "credit": "Photo: Max Kneefel / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55632562792",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Diagram made for this post from the DDW listing: WETHOUSE by Yvonne Gu of 3h57m, a greenhouse pavilion built from wetland biomass, shown Oct 17 to 25, 2026",
-     "credit": "Dutch Design Week 2026 listing: WETHOUSE",
-     "url": "https://app-api.ddw.nl/en/programme/wethouse-growing-architecture-from-wetlands",
+     "what": "WETHOUSE on Ketelhuisplein, photo Max Kneefel / Dutch Design Week",
+     "credit": "Photo: Max Kneefel / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55633690273",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Diagram made for this post from the DDW listing: paludiculture, growing reed, cattail, sedge and willow on wet land, and the materials they can become",
-     "credit": "Dutch Design Week 2026 listing: WETHOUSE",
-     "url": "https://app-api.ddw.nl/en/programme/wethouse-growing-architecture-from-wetlands",
+     "what": "The maker's wetland-to-WETHOUSE diagram, image Yvonne Gu, 3h57m / DDW press kit",
+     "credit": "Image: Yvonne Gu / 3h57m, DDW press kit (WETHOUSE, programme 1914)",
+     "url": "https://app-api.ddw.nl/programme/1914/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Diagram made for this post from the DDW listing: the pavilion collects rainwater, holds humidity, supports plant growth, cultivates new biomass and creates habitat; roof rain irrigates wetland crops",
-     "credit": "Dutch Design Week 2026 listing: WETHOUSE",
-     "url": "https://app-api.ddw.nl/en/programme/wethouse-growing-architecture-from-wetlands",
+     "what": "From the DDW listing",
+     "credit": "Text: DDW 2026 listing, WETHOUSE",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/wethouse-growing-architecture-from-wetlands",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Chart drawn to scale for this post from Sunwoo et al. (2006): relative humidity of 10%, 30% and 50% on a 0 to 60 scale, with the dryness found at each",
-     "credit": "Sunwoo et al. (2006), Journal of Physiological Anthropology 25(1):7-14",
+     "what": "The humidity result in the 2006 study's abstract",
+     "credit": "Text: Sunwoo et al. (2006), J Physiol Anthropol 25(1):7-14",
      "url": "https://doi.org/10.2114/jpa2.25.7",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Diagram made for this post (not data): in Lee et al. (2015), after 15 minutes of repotting a plant, 24 young men felt more soothed and had lower diastolic blood pressure than after typing",
-     "credit": "Lee, Lee, Park and Miyazaki (2015), Journal of Physiological Anthropology 34:21 (CC BY 4.0)",
+     "what": "The two tasks in the 2015 study",
+     "credit": "Lee et al. (2015), cropped from Fig. 1A-B, CC BY 4.0",
      "url": "https://doi.org/10.1186/s40101-015-0060-8",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Diagram made for this post from the DDW listing: WETHOUSE by Yvonne Gu, 3h57m, at Strijp-S B5, Ketelhuisplein, Eindhoven, Oct 17 to 25, 2026",
-     "credit": "Dutch Design Week 2026 listing: WETHOUSE",
-     "url": "https://app-api.ddw.nl/en/programme/wethouse-growing-architecture-from-wetlands",
+     "what": "The WETHOUSE physical model, image Yvonne Gu, 3h57m / DDW press kit",
+     "credit": "Image: Yvonne Gu / 3h57m, DDW press kit (WETHOUSE, programme 1914)",
+     "url": "https://app-api.ddw.nl/programme/1914/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Question frame made for this post: how damp or dry do you like the air where you spend your day?",
-     "credit": "Sunwoo et al. (2006), Journal of Physiological Anthropology 25(1):7-14",
-     "url": "https://doi.org/10.2114/jpa2.25.7",
+     "what": "The planted beds and reed bales of WETHOUSE, photo Max Kneefel / Dutch Design Week",
+     "credit": "Photo: Max Kneefel / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55633690273",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Question frame made for this post: do you notice dry air indoors? WETHOUSE, a greenhouse pavilion of wetland plants",
-     "credit": "Dutch Design Week 2026 listing: WETHOUSE",
-     "url": "https://app-api.ddw.nl/en/programme/wethouse-growing-architecture-from-wetlands",
+     "what": "The interior rendering of WETHOUSE, image Yvonne Gu, 3h57m / DDW press kit",
+     "credit": "Image: Yvonne Gu / 3h57m, DDW press kit (WETHOUSE, programme 1914)",
+     "url": "https://app-api.ddw.nl/programme/1914/press-kit.zip",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Chart drawn to scale for this post from Lee et al. (2015): diastolic blood pressure after repotting 65.26 mmHg and after typing 71.75 mmHg, 24 young men",
-     "credit": "Lee et al. (2015), Journal of Physiological Anthropology 34:21",
+     "what": "Diastolic blood pressure after each task",
+     "credit": "Lee et al. (2015), Fig. 5, CC BY 4.0",
      "url": "https://doi.org/10.1186/s40101-015-0060-8",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Diagram made for this post from the DDW listing: WETHOUSE by Yvonne Gu, 3h57m, Strijp-S B5, Ketelhuisplein, Eindhoven",
-     "credit": "Dutch Design Week 2026 listing: WETHOUSE",
-     "url": "https://app-api.ddw.nl/en/programme/wethouse-growing-architecture-from-wetlands",
+     "what": "The venue lines of the DDW listing",
+     "credit": "Text: DDW 2026 listing, WETHOUSE",
+     "url": "https://app-api.ddw.nl/en/programme/archive/2026/wethouse-growing-architecture-from-wetlands",
      "card": false
     }
    ]
@@ -34111,10 +34109,6 @@
     {
      "label": "Ozleyen A, Yilmaz YB, Donmez S, Atalay HN, Antika G, Tumer TB (2023), Looking at NSAIDs from a historical perspective and their current status in drug repurposing for cancer treatment and prevention, Journal of Cancer Research and Clinical Oncology 149(5):2095 to 2113 (full text read Oct 17, 2026, Europe PMC PMC9310000; no licence field: facts only, own words)",
      "url": "https://doi.org/10.1007/s00432-022-04187-8"
-    },
-    {
-     "label": "Desborough MJR, Keeling DM (2017), The aspirin story: from willow to wonder drug, British Journal of Haematology 177(5):674 to 683 (abstract only: full read before posting; PubMed 28106908)",
-     "url": "https://doi.org/10.1111/bjh.14520"
     }
    ],
    "other": [],
@@ -34524,8 +34518,8 @@
    "series": "Ask a Neuroscientist",
    "research": [
     {
-     "label": "Kruger J, Dunning D (1999), Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments, Journal of Personality and Social Psychology 77(6):1121-1134, doi 10.1037/0022-3514.77.6.1121 (abstract only: full read before posting; no legal open copy found, rechecked Oct 16, 2026, PubMed 10626367)",
-     "url": "https://doi.org/10.1037/0022-3514.77.6.1121"
+     "label": "Dizdarević D, Leskovar R, Vukovič G (2024), Primus inter pares effect in high schools, Frontiers in Psychology 15:1382062, doi 10.3389/fpsyg.2024.1382062 (full text read Nov 11, 2026, Europe PMC, PMC11502392, CC BY 4.0). Reports Kruger and Dunning (1999), J Pers Soc Psychol 77(6):1121-1134, which has no legal open copy and is cited only as this paper reports it",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1382062"
     },
     {
      "label": "Jansen RA, Rafferty AN, Griffiths TL (2021), A rational model of the Dunning-Kruger effect supports insensitivity to evidence in low performers, Nature Human Behaviour 5(6):756-763, doi 10.1038/s41562-021-01057-0 (full text read Oct 16, 2026, authors' copy on the Griffiths lab page, cocosci.princeton.edu/papers/DK_NHB_Final.pdf; facts only)",
@@ -34536,44 +34530,44 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Kruger and Dunning (1999), Journal of Personality and Social Psychology: the 1999 studies tested humor, grammar and logic, then asked people how well they thought they did",
-     "credit": "Kruger and Dunning (1999), Journal of Personality and Social Psychology, illustration drawn for this post",
-     "url": "https://doi.org/10.1037/0022-3514.77.6.1121",
+     "what": "Illustration made for this post (labelled Illustration; not data) from Kruger and Dunning (1999) as Dizdarević et al. (2024) report it: the 1999 studies tested humor, grammar and logic, then asked people how well they thought they did",
+     "credit": "Dizdarević, Leskovar and Vukovič (2024), Front Psychol 15:1382062, reporting Kruger and Dunning (1999)",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1382062",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Illustration made for this post from Kruger and Dunning (1999): four studies, one design: take a test of humor, grammar or logic, rate how well you did, compare the estimate with the real score",
-     "credit": "Kruger and Dunning (1999), J Pers Soc Psychol 77(6):1121-1134",
-     "url": "https://doi.org/10.1037/0022-3514.77.6.1121",
+     "what": "Illustration made for this post from Kruger and Dunning (1999) as Dizdarević et al. (2024) and Jansen et al. (2021) report it: take a test of humor, grammar or logic, rate how well you did, compare the estimate with the real score",
+     "credit": "Dizdarević, Leskovar and Vukovič (2024), Front Psychol 15:1382062, reporting Kruger and Dunning (1999); Jansen, Rafferty and Griffiths (2021), Nat Hum Behav 5(6):756-763",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1382062",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Bar chart drawn to scale for this post from Kruger and Dunning (1999): bottom-quarter scorers averaged the 12th percentile but estimated the 62nd",
-     "credit": "Kruger and Dunning (1999), Journal of Personality and Social Psychology 77(6):1121-1134",
-     "url": "https://doi.org/10.1037/0022-3514.77.6.1121",
+     "what": "Bar chart drawn to scale for this post from Kruger and Dunning (1999) as Dizdarević et al. (2024) report it: on the logic test, bottom-quarter scorers averaged the 12th percentile but estimated their result at the 62nd",
+     "credit": "Dizdarević, Leskovar and Vukovič (2024), Front Psychol 15:1382062, reporting Kruger and Dunning (1999)",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1382062",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post from Kruger and Dunning (1999): the authors' dual burden, doing the task (reaching wrong answers) and judging it (missing which answers are wrong)",
-     "credit": "Kruger and Dunning (1999), J Pers Soc Psychol 77(6):1121-1134",
-     "url": "https://doi.org/10.1037/0022-3514.77.6.1121",
+     "what": "Illustration made for this post from Kruger and Dunning (1999) as Dizdarević et al. (2024) report it: the double curse, doing the task (making mistakes) and judging it (missing one's own errors)",
+     "credit": "Dizdarević, Leskovar and Vukovič (2024), Front Psychol 15:1382062, reporting Kruger and Dunning (1999)",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1382062",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post from Kruger and Dunning (1999): low scorers overestimated their scores, training improved their skill, afterwards they saw their limits more clearly",
-     "credit": "Kruger and Dunning (1999), J Pers Soc Psychol 77(6):1121-1134",
-     "url": "https://doi.org/10.1037/0022-3514.77.6.1121",
+     "what": "Illustration made for this post from Kruger and Dunning (1999) as Dizdarević et al. (2024) report it: low scorers overestimated their result, short training in logical reasoning followed, afterwards they saw their limits more clearly",
+     "credit": "Dizdarević, Leskovar and Vukovič (2024), Front Psychol 15:1382062, reporting Kruger and Dunning (1999)",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1382062",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Type card made for this post: the 1999 abstract reports percentile self-estimates; no confidence curve (Kruger and Dunning (1999), Journal of Personality and Social Psychology 77(6):1121-1134)",
-     "credit": "Kruger and Dunning (1999), Journal of Personality and Social Psychology 77(6):1121-1134",
-     "url": "https://doi.org/10.1037/0022-3514.77.6.1121",
+     "what": "Type card made for this post: earlier analyses grouped people by score quarter, four data points per test, too few to tell two explanations apart (Jansen et al. (2021), Nat Hum Behav 5(6):756-763)",
+     "credit": "Jansen, Rafferty and Griffiths (2021), Nat Hum Behav 5(6):756-763",
+     "url": "https://doi.org/10.1038/s41562-021-01057-0",
      "card": true
     },
     {
@@ -34599,23 +34593,23 @@
     },
     {
      "where": "Story 1",
-     "what": "Type card made for this post: four studies on humor, grammar and logic compared scores with self-estimates (Kruger and Dunning (1999), Journal of Personality and Social Psychology 77(6):1121-1134)",
-     "credit": "Kruger and Dunning (1999), Journal of Personality and Social Psychology 77(6):1121-1134",
-     "url": "https://doi.org/10.1037/0022-3514.77.6.1121",
+     "what": "Type card made for this post: the 1999 studies of humor, grammar and logic compared scores with self-estimates (Kruger and Dunning (1999), as Dizdarević et al. (2024), Front Psychol 15:1382062, report it)",
+     "credit": "Dizdarević, Leskovar and Vukovič (2024), Front Psychol 15:1382062, reporting Kruger and Dunning (1999)",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1382062",
      "card": true
     },
     {
      "where": "Story 2",
-     "what": "Chart drawn to scale for this post from Kruger and Dunning (1999), Journal of Personality and Social Psychology 77(6):1121-1134: bottom-quarter scorers scored around the 12th percentile and guessed they were around the 62nd",
-     "credit": "Kruger and Dunning (1999), Journal of Personality and Social Psychology 77(6):1121-1134, chart drawn for this post",
-     "url": "https://doi.org/10.1037/0022-3514.77.6.1121",
+     "what": "Chart drawn to scale for this post from Kruger and Dunning (1999) as Dizdarević et al. (2024) report it: on the logic test, bottom-quarter scorers scored around the 12th percentile and guessed they were around the 62nd",
+     "credit": "Dizdarević, Leskovar and Vukovič (2024), Front Psychol 15:1382062, reporting Kruger and Dunning (1999)",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1382062",
      "card": false
     },
     {
      "where": "Story 3",
      "what": "Question frame made for this post: guess how well you did, see the real score, compare where you overrated",
-     "credit": "Kruger and Dunning (1999), J Pers Soc Psychol 77(6):1121-1134",
-     "url": "https://doi.org/10.1037/0022-3514.77.6.1121",
+     "credit": "Dizdarević, Leskovar and Vukovič (2024), Front Psychol 15:1382062, reporting Kruger and Dunning (1999)",
+     "url": "https://doi.org/10.3389/fpsyg.2024.1382062",
      "card": false
     }
    ]
@@ -77251,7 +77245,7 @@
   },
   {
    "slug": "jan-10-ngen01",
-   "date": "2027-01-10",
+   "date": "2027-03-10",
    "time": "09:00 HST",
    "id": "NGEN01",
    "title": "Do adults grow new brain cells? A debate that has not closed",
@@ -77900,7 +77894,7 @@
   },
   {
    "slug": "jan-17-pace01",
-   "date": "2027-01-17",
+   "date": "2027-03-17",
    "time": "09:00 HST",
    "id": "PACE01",
    "title": "Same birthday, different speeds: measuring the pace of aging",
@@ -78613,7 +78607,7 @@
   },
   {
    "slug": "jan-25-fusb01",
-   "date": "2027-01-25",
+   "date": "2027-03-24",
    "time": "09:00 HST",
    "id": "FUSB01",
    "title": "Sound that opens a door in the brain: focused ultrasound and the blood-brain barrier",
@@ -79510,7 +79504,7 @@
   },
   {
    "slug": "feb-03-pdaw02",
-   "date": "2027-02-03",
+   "date": "2026-12-03",
    "time": "09:00 HST",
    "id": "PDAW02",
    "title": "Feedback from your own breath: what biofeedback research shows, and how sure it is",
@@ -81589,7 +81583,7 @@
   },
   {
    "slug": "feb-24-pdaw03",
-   "date": "2027-02-24",
+   "date": "2026-12-16",
    "time": "09:00 HST",
    "id": "PDAW03",
    "title": "What the eye adds to taste: colour, contrast and an edible oracle",
@@ -82097,7 +82091,7 @@
   },
   {
    "slug": "mar-03-pdaw04",
-   "date": "2027-03-03",
+   "date": "2026-12-23",
    "time": "09:00 HST",
    "id": "PDAW04",
    "title": "Big enough to feel small: what awe research shows, and how sure it is",
@@ -82198,7 +82192,7 @@
   },
   {
    "slug": "mar-05-pdsc04",
-   "date": "2027-03-05",
+   "date": "2026-12-04",
    "time": "09:00 HST",
    "id": "PDSC04",
    "title": "Eight weeks and 3.23 years off biological age, said on stage and checked in the paper",
@@ -82675,7 +82669,7 @@
   },
   {
    "slug": "mar-10-pdaw05",
-   "date": "2027-03-10",
+   "date": "2027-01-10",
    "time": "09:00 HST",
    "id": "PDAW05",
    "title": "Too close, too dirty: why some natural textures make us uneasy",
@@ -83356,7 +83350,7 @@
   },
   {
    "slug": "mar-17-pdaw06",
-   "date": "2027-03-17",
+   "date": "2027-01-17",
    "time": "09:00 HST",
    "id": "PDAW06",
    "title": "Layers of the earth: what striped patterns do to the eye",
@@ -84037,7 +84031,7 @@
   },
   {
    "slug": "mar-24-pdaw07",
-   "date": "2027-03-24",
+   "date": "2027-01-25",
    "time": "09:00 HST",
    "id": "PDAW07",
    "title": "The people's choice: what science says about public votes",
@@ -85876,7 +85870,7 @@
   },
   {
    "slug": "apr-11-pdsc06",
-   "date": "2027-04-11",
+   "date": "2026-12-18",
    "time": "09:00 HST",
    "id": "PDSC06",
    "title": "One per cent better every day, said on stage and checked in the arithmetic",
