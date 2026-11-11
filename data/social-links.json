@@ -58,6 +58,11 @@
     "url": "https://bsky.app/profile/askaneuro.bsky.social"
    },
    {
+    "id": "pinterest",
+    "label": "Pinterest",
+    "url": "https://www.pinterest.com/ask_a_neuroscientist/"
+   },
+   {
     "id": "website",
     "label": "Website",
     "url": "https://rn-selected-work.vercel.app/sources"
