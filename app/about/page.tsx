@@ -7,7 +7,7 @@ import { builds } from "../../lib/builds";
 export const metadata: Metadata = {
   title: "About RN",
   description:
-    "Rayven-Nikkita (RN) Collins — researcher, systems designer, builder, neuroscientist and law student — and the method behind a cross-disciplinary practice.",
+    "Rayven-Nikkita (RN) Collins, neuroscientist, knowledge content creator, and builder. Chair of FlexJD Interests, Student Bar Association, Northeastern University School of Law, Class of 2029.",
   alternates: { canonical: "/about" },
 };
 
@@ -22,8 +22,10 @@ export default function Page() {
           <em>across the boundaries.</em>
         </h1>
         <p>
-          Rayven-Nikkita (RN) Collins is a researcher, systems designer, builder,
-          neuroscientist and law student based in Honolulu, Hawaiʻi.
+          Rayven-Nikkita (RN) Collins is a neuroscientist, knowledge content
+          creator, and builder in Honolulu, Hawaiʻi. She is Chair of FlexJD
+          Interests, Student Bar Association, Northeastern University School of
+          Law, Class of 2029.
         </p>
       </header>
 

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09",
+ "generated": "2026-11-11",
  "host": "rn-selected-work.vercel.app",
  "posts": [
   {
@@ -40,86 +40,86 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Unknown maker, An écorché face showing the movements of facial muscles during laughter",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/uw93y3zw",
+     "what": "The title of Nook and colleagues' 2021 paper",
+     "credit": "Text: Nook et al. (2021), Affective Science 2:187-198, CC BY 4.0",
+     "url": "https://doi.org/10.1007/s42761-021-00036-y",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Unknown maker, Ten faces expressing the human passions",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/xgbhyt9g",
+     "what": "Distress with naming and with distraction",
+     "credit": "Chart: Ask a Neuroscientist, from Lieberman et al. (2011) data",
+     "url": "https://doi.org/10.1037/a0023503",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Unknown maker, Two faces expressing dejection",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/qh7nds8g",
+     "what": "Predicted against felt distress",
+     "credit": "Chart: Ask a Neuroscientist, from Lieberman et al. (2011) data",
+     "url": "https://doi.org/10.1037/a0023503",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Unknown maker, A face expressing rapture",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/udj8b4mr",
+     "what": "Pleasure with pleasant pictures",
+     "credit": "Chart: Ask a Neuroscientist, from Lieberman et al. (2011) data",
+     "url": "https://doi.org/10.1037/a0023503",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Unknown maker, A woman's face expressing sadness",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/u4n5zj5h",
+     "what": "Reappraisal with and without naming",
+     "credit": "Nook et al. (2021), Fig. 2, CC BY 4.0",
+     "url": "https://doi.org/10.1007/s42761-021-00036-y",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post: what a name can do: name the feeling, distress drops now and pleasure drops too, then the feeling sets and is harder to reframe or accept later, from Lieberman et al. (2011) and Nook et al. (2021)",
-     "credit": "Nook et al. (2021), Affective Science 2(2)",
+     "what": "From the abstract of Nook and colleagues' paper",
+     "credit": "Text: Nook et al. (2021), Affective Science 2:187-198, CC BY 4.0",
      "url": "https://doi.org/10.1007/s42761-021-00036-y",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post: when naming helped and when it didn't: it helped with intense images, in the moment and in a dominant native language; it backfired or failed with mild images, before reframing and in balanced bilinguals, from Levy-Gigi & Shamay-Tsoory (2022), Nook et al. (2021) and Davydova et al. (2026)",
-     "credit": "Levy-Gigi & Shamay-Tsoory (2022), PLOS ONE 17(12):e0279303",
+     "what": "Distress by picture intensity",
+     "credit": "Levy-Gigi & Shamay-Tsoory (2022), Fig. 2, CC BY 4.0",
      "url": "https://doi.org/10.1371/journal.pone.0279303",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Chart drawn to scale for this post: the 151 bilinguals scanned, 34 Spanish-English (Spanish-dominant) and 117 Spanish-Catalan (mixed dominance), one dot per person, from Davydova et al. (2026)",
-     "credit": "Davydova et al. (2026), PNAS 123(36):e2603126123",
+     "what": "Amygdala calming by bilingual group",
+     "credit": "Chart: Ask a Neuroscientist, from Davydova et al. (2026) data",
      "url": "https://doi.org/10.1073/pnas.2603126123",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Unknown maker, Frontispiece to Le Brun's 'Passions' (left) and a face expressing tranquillity (right)",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/xhmdv9kt",
+     "what": "From Nook and colleagues' discussion",
+     "credit": "Text: Nook et al. (2021), Affective Science 2:187-198, CC BY 4.0",
+     "url": "https://doi.org/10.1007/s42761-021-00036-y",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Unknown maker, A female face expressing admiration",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/x9edzx6x",
+     "what": "The labeling task in Levy-Gigi's study",
+     "credit": "Levy-Gigi & Shamay-Tsoory (2022), Fig. 1, CC BY 4.0",
+     "url": "https://doi.org/10.1371/journal.pone.0279303",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Levy-Gigi and Shamay-Tsoory (2022), Fig 2: rated distress at baseline and with affect labeling for low- and high-intensity images (Experiment 2, 79 adults)",
-     "credit": "Levy-Gigi and Shamay-Tsoory (2022), PLOS ONE, doi:10.1371/journal.pone.0279303, CC BY",
+     "what": "From Levy-Gigi and Shamay-Tsoory's discussion",
+     "credit": "Text: Levy-Gigi & Shamay-Tsoory (2022), PLOS ONE 17(12):e0279303, CC BY 4.0",
      "url": "https://doi.org/10.1371/journal.pone.0279303",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Unknown maker, A face expressing 'simple bodily pain' (left) and a face (right) expressing sadness",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/zynajtfz",
+     "what": "A closing thought in Nook and colleagues' discussion",
+     "credit": "Text: Nook et al. (2021), Affective Science 2:187-198, CC BY 4.0",
+     "url": "https://doi.org/10.1007/s42761-021-00036-y",
      "card": false
     }
    ],
@@ -163,86 +163,86 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Unknown maker, Women competing in low hurdle race, Washington, D.C, photographic print, 1920, LOT 12344-9 [item] (Library of Congress)",
-     "credit": "Library of Congress, Prints and Photographs Division (no known restrictions)",
-     "url": "https://www.loc.gov/item/2001706351/",
+     "what": "From Huiberts and colleagues' 2024 discussion",
+     "credit": "Text: Huiberts et al. (2024), Sports Medicine 54:485-503, CC BY 4.0",
+     "url": "https://doi.org/10.1007/s40279-023-01943-9",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "publisher Bain News Service, Runners ready to start in Shrubb-Dorando Marathon Race (St. Yves, Longboat, Hayes, and Maloney), glass negative, 1909-01-01, LC-B2-676-13 (Library of Congress)",
-     "credit": "Bain News Service, publisher, Library of Congress, Prints and Photographs Division (no known restrictions)",
-     "url": "https://www.loc.gov/item/2014683241/",
+     "what": "Men's performance edge after puberty as Handelsman and colleagues report it: 10% to 12% in running and swimming, 20% in jumping (bars at the middle of each range)",
+     "credit": "Chart: Ask a Neuroscientist, from Handelsman et al. (2018) data",
+     "url": "https://doi.org/10.1210/er.2018-00020",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Unknown maker, Boughera El Ouafi of Algeria winning the Olympic marathon, photographic print, 1928, LOT 5234 <item> (Library of Congress)",
-     "credit": "Library of Congress, Prints and Photographs Division (no known restrictions)",
-     "url": "https://www.loc.gov/item/89709542/",
+     "what": "From Knechtle and Nikolaidis' 2018 abstract",
+     "credit": "Text: Knechtle & Nikolaidis (2018), Frontiers in Physiology 9:634, CC BY 4.0",
+     "url": "https://doi.org/10.3389/fphys.2018.00634",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Unknown maker, Sports medicine: a man tested on a canoe ergometer in a gymnasium, watched by two colleagues",
-     "credit": "Wellcome Collection (CC0)",
-     "url": "https://wellcomecollection.org/works/yuw3hwge",
+     "what": "From Elliott-Sale and colleagues' working guide",
+     "credit": "Text: Elliott-Sale et al. (2021), Sports Medicine 51:843-861, CC BY 4.0",
+     "url": "https://doi.org/10.1007/s40279-021-01435-8",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Bar drawn to scale for this post: of all participants in 514 exercise physiology studies of vascular function from 1996 to 2021, 64% were men and 36% women (Lew et al., 2022)",
-     "credit": "Lew et al. (2022), Frontiers in Sports and Active Living 4:860356",
+     "what": "Women's share of participants by five-year cohort",
+     "credit": "Lew et al. (2022), cropped from Fig. 3A, CC BY 4.0",
      "url": "https://doi.org/10.3389/fspor.2022.860356",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Unknown maker, Muscles of the leg and foot: 14 figures",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/whs468nr",
+     "what": "Lower-body strength with combined training, by sex",
+     "credit": "Huiberts et al. (2024), cropped from Fig. 4, CC BY 4.0",
+     "url": "https://doi.org/10.1007/s40279-023-01943-9",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Unknown maker, Etta Mackay, prof. womens champ of the world, glass negative, 1920-01-01, LC-F8-8149 (Library of Congress)",
-     "credit": "Library of Congress, Prints and Photographs Division (no known restrictions)",
-     "url": "https://www.loc.gov/item/2016828043/",
+     "what": "From McNulty and colleagues' discussion",
+     "credit": "Text: McNulty et al. (2020), Sports Medicine 50:1813-1827, CC BY 4.0",
+     "url": "https://doi.org/10.1007/s40279-020-01319-3",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Illustration made for this post: before you apply a finding, ask who was studied, whether hormonal status was measured, and whether it describes an average or individuals, because most data come from men, cycles and contraception vary, and responses differ from person to person, from Elliott-Sale et al. (2021) and McNulty et al. (2020)",
-     "credit": "Elliott-Sale et al. (2021), Sports Medicine 51(5)",
+     "what": "Measuring cycle phase properly",
+     "credit": "Elliott-Sale et al. (2021), Fig. 4, CC BY 4.0",
      "url": "https://doi.org/10.1007/s40279-021-01435-8",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "photographer Gilbert & Bacon, U. S. international tennis players, photographic print, 1895-01-01, LOT 13714, no. 83 (Library of Congress)",
-     "credit": "Gilbert & Bacon, photographer, Library of Congress, Prints and Photographs Division (no known restrictions)",
-     "url": "https://www.loc.gov/item/2013646132/",
+     "what": "Male-only, female-only and mixed-sex studies by five-year cohort",
+     "credit": "Lew et al. (2022), cropped from Fig. 3B, CC BY 4.0",
+     "url": "https://doi.org/10.3389/fspor.2022.860356",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Unknown maker, A sculpture of a marathon runner",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/frcmm23t",
+     "what": "Who took part in 514 exercise studies",
+     "credit": "Chart: Ask a Neuroscientist, from Lew et al. (2022) data",
+     "url": "https://doi.org/10.3389/fspor.2022.860356",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Bar drawn to scale for this post: of 514 exercise studies of blood vessel function from 1996 to 2021, 32% tested men only, 56% both sexes and 12% women only (Lew et al., 2022)",
-     "credit": "Lew et al. (2022), Frontiers in Sports and Active Living 4:860356",
+     "what": "Which studies tested whom",
+     "credit": "Chart: Ask a Neuroscientist, from Lew et al. (2022) data",
      "url": "https://doi.org/10.3389/fspor.2022.860356",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Unknown maker, The muscles of the lower leg with the tendons separated from each other",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/cer4jesv",
+     "what": "Whether a study's title names who was studied",
+     "credit": "Lew et al. (2022), cropped from Fig. 3D, CC BY 4.0",
+     "url": "https://doi.org/10.3389/fspor.2022.860356",
      "card": false
     }
    ],
@@ -270,86 +270,86 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Unknown maker, John Dalton",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/ads6xq3t",
+     "what": "The title of Dalton's memoir as printed in 1798",
+     "credit": "Dalton (1798), Memoirs of the Literary and Philosophical Society of Manchester 5, p. 28 (public domain, Internet Archive scan)",
+     "url": "https://archive.org/details/bim_eighteenth-century_memoirs-of-the-literary-_literary-and-philosophic_1785_5/page/n43",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "John Dalton, 'Extraordinary facts relating to the vision of colours', Memoirs of the Literary and Philosophical Society of Manchester 5 (1798), page 29: 'Blue, purple, pink, and crimson appeared rather less distinguishable; being, according to my idea, all referable to blue' (Internet Archive scan)",
-     "credit": "Internet Archive (public domain)",
+     "what": "Dalton's colours that were hard to tell apart",
+     "credit": "Dalton (1798), Memoirs of the Literary and Philosophical Society of Manchester 5, p. 29 (public domain, Internet Archive scan)",
      "url": "https://archive.org/details/bim_eighteenth-century_memoirs-of-the-literary-_literary-and-philosophic_1785_5/page/n44",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Unknown maker, Pelargonium zonale (zonal geranium), herbarium specimen (Naturalis Biodiversity Center)",
-     "credit": "Naturalis Biodiversity Center (CC0)",
-     "url": "https://www.europeana.eu/item/1381/BOTANYXLX3805043",
+     "what": "Dalton's geranium by candlelight",
+     "credit": "Dalton (1798), Memoirs of the Literary and Philosophical Society of Manchester 5, p. 30 (public domain, Internet Archive scan)",
+     "url": "https://archive.org/details/bim_eighteenth-century_memoirs-of-the-literary-_literary-and-philosophic_1785_5/page/n45",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Unknown maker, Dr MacMunn's spectroscope, comprising of one prism and with the scale-tube illuminated by a mirror",
-     "credit": "Wellcome Collection (CC BY 4.0)",
-     "url": "https://wellcomecollection.org/works/fnaxexga",
+     "what": "Dalton at the prism",
+     "credit": "Dalton (1798), Memoirs of the Literary and Philosophical Society of Manchester 5, p. 31 (public domain, Internet Archive scan)",
+     "url": "https://archive.org/details/bim_eighteenth-century_memoirs-of-the-literary-_literary-and-philosophic_1785_5/page/n46",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Unknown maker, The eye: twenty-four figures",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/rdx6926b",
+     "what": "Dalton's guess about his eye",
+     "credit": "Dalton (1798), Memoirs of the Literary and Philosophical Society of Manchester 5, p. 43 (public domain, Internet Archive scan)",
+     "url": "https://archive.org/details/bim_eighteenth-century_memoirs-of-the-literary-_literary-and-philosophic_1785_5/page/n58",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Mackey (2022), Eye 36:704-715, which reports the 1995 DNA study: Dalton supposed his eye fluid was tinted blue; examined after his death, the fluids were perfectly clear",
-     "credit": "Mackey (2022), Eye 36:704-715, illustration drawn for this post",
+     "what": "Mackey's account of the examination",
+     "credit": "Text: Mackey (2022), Eye 36:704-715, CC BY 4.0",
      "url": "https://doi.org/10.1038/s41433-021-01749-x",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Mackey (2022), Eye 36:704-715, which reports the 1995 DNA study: a timeline from Dalton's 1794 description to the post-mortem eye examination and the 1995 DNA test",
-     "credit": "Mackey (2022), Eye 36:704-715, illustration drawn for this post",
+     "what": "Mackey on the DNA test",
+     "credit": "Text: Mackey (2022), Eye 36:704-715, CC BY 4.0",
      "url": "https://doi.org/10.1038/s41433-021-01749-x",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Unknown maker, Dr. Thomas Young, 1 print, B026829 (National Library of Medicine)",
-     "credit": "National Library of Medicine, Digital Collections (public domain)",
-     "url": "https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101432809-img",
+     "what": "Mackey on the diagnosis and Young",
+     "credit": "Text: Mackey (2022), Eye 36:704-715, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s41433-021-01749-x",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "John Dalton, Table of the elements and their atomic weights, 2 prints, 1808, Illus. in QD28.D15 [Rare Book RR] (Library of Congress)",
-     "credit": "Library of Congress, Prints and Photographs Division (no known restrictions)",
-     "url": "https://www.loc.gov/item/92517584/",
+     "what": "The name still in use",
+     "credit": "Text: Mackey (2022), Eye 36:704-715, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s41433-021-01749-x",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "John Dalton, 'Extraordinary facts relating to the vision of colours: with observations', read Oct. 31st, 1794, Memoirs of the Literary and Philosophical Society of Manchester 5 (1798), first page, page 28 (Internet Archive scan)",
-     "credit": "Internet Archive (public domain)",
-     "url": "https://archive.org/details/bim_eighteenth-century_memoirs-of-the-literary-_literary-and-philosophic_1785_5/page/n43",
+     "what": "How Dalton noticed",
+     "credit": "Dalton (1798), Memoirs of the Literary and Philosophical Society of Manchester 5, p. 29 (public domain, Internet Archive scan)",
+     "url": "https://archive.org/details/bim_eighteenth-century_memoirs-of-the-literary-_literary-and-philosophic_1785_5/page/n44",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Type card made for this post: blue, purple, pink and crimson appeared rather less distinguishable, all referable to blue (Dalton (1798), Memoirs of the Literary and Philosophical Society of Manchester 5)",
-     "credit": "Dalton (1798), Memoirs of the Literary and Philosophical Society of Manchester 5",
-     "url": "https://archive.org/details/bim_eighteenth-century_memoirs-of-the-literary-_literary-and-philosophic_1785_5",
-     "card": true
+     "what": "One of Dalton's characteristic facts",
+     "credit": "Dalton (1798), Memoirs of the Literary and Philosophical Society of Manchester 5, p. 40 (public domain, Internet Archive scan)",
+     "url": "https://archive.org/details/bim_eighteenth-century_memoirs-of-the-literary-_literary-and-philosophic_1785_5/page/n55",
+     "card": false
     },
     {
      "where": "Story 3",
-     "what": "Unknown maker, An ornamental geranium (Geranium species): flowering stem",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/raa3pega",
+     "what": "Unknown maker, Pelargonium zonale (zonal geranium), herbarium specimen (Naturalis Biodiversity Center)",
+     "credit": "Naturalis Biodiversity Center (CC0)",
+     "url": "https://www.europeana.eu/item/1381/BOTANYXLX3805043",
      "card": false
     }
    ],
@@ -373,86 +373,86 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Archer and Warner, Astral Lamp, Brass and glass, ca. 1855, 68.111.1 (The Metropolitan Museum of Art)",
-     "credit": "Archer and Warner, The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/280",
+     "what": "Group-average light that halved melatonin against typical indoor light",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
+     "url": "https://doi.org/10.1073/pnas.1901824116",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Unknown maker, Candle Bracket, Wrought iron, 15th century, 47.101.79 (The Metropolitan Museum of Art)",
-     "credit": "Candle Bracket, The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/471308",
+     "what": "Light that halved melatonin in each hour after melatonin began to rise",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
+     "url": "https://doi.org/10.1073/pnas.1901824116",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "James McNeill Whistler, Reading by Lamplight, etching and drypoint, 1859, 1998.396 (Cleveland Museum of Art)",
-     "credit": "James McNeill Whistler, The Cleveland Museum of Art (CC0)",
-     "url": "https://clevelandart.org/art/1998.396",
+     "what": "Who took part in the 2019 study. 27 men and 29 women aged 18 to 30; one excluded, leaving 55",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
+     "url": "https://doi.org/10.1073/pnas.1901824116",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Number card made for this post: About 25 lux halved melatonin on average, no brighter than typical indoor lighting (Phillips et al. (2019), PNAS)",
-     "credit": "Phillips et al. (2019), PNAS",
+     "what": "Group-average light that halved melatonin with its 95% interval. 24.6 lux (21.3 to 28.4), with typical indoor light at about 50 lux marked",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
      "url": "https://doi.org/10.1073/pnas.1901824116",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Chart drawn to scale for this post from Phillips et al. (2019), PNAS 116(24):12019-12024: evening light of 10, 30 and 50 lux delayed the apparent melatonin onset by 22, 77 and 109 minutes compared with dim light under 1 lux",
-     "credit": "Phillips et al. (2019), PNAS 116(24):12019-12024, chart drawn for this post",
+     "what": "Average delay of the melatonin rise at each light level. 10 lux: 22 min, 30 lux: 77 min, 50 lux: 109 min",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
      "url": "https://doi.org/10.1073/pnas.1901824116",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Number card made for this post: 6 to 350 lux needed to halve melatonin, from the most to the least sensitive person (Phillips et al. (2019), PNAS)",
-     "credit": "Phillips et al. (2019), PNAS",
+     "what": "Light that halved melatonin in the most and least sensitive person. 6.0 lux and 349.8 lux",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
      "url": "https://doi.org/10.1073/pnas.1901824116",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Chart drawn to scale for this post from Phillips et al. (2019), PNAS 116(24):12019-12024: 6 lux versus 350 lux, drawn on a linear scale to show the more than 50-fold difference",
-     "credit": "Phillips et al. (2019), PNAS 116(24):12019-12024, chart drawn for this post",
+     "what": "How many times more light the least sensitive person needed",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
      "url": "https://doi.org/10.1073/pnas.1901824116",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Unknown maker, Lamp, 1847, BK-NM-11177-143 (Rijksmuseum, Amsterdam)",
-     "credit": "Lamp, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/BK-NM-11177-143",
+     "what": "Evening light ranges the study names",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
+     "url": "https://doi.org/10.1073/pnas.1901824116",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Joseph Lownes, Candle Holder, Silver and steel, 1790 to 1810, 24.109.38a to c (The Metropolitan Museum of Art)",
-     "credit": "Joseph Lownes, The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/1153",
+     "what": "Light that brought more than half suppression. 10 lux for the four most sensitive people, 400 lux for the least sensitive",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
+     "url": "https://doi.org/10.1073/pnas.1901824116",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Unknown maker, Lantern for a Lamp, Earthenware and carved decoration and unglazed, 9th to 10th century, 39.40.87 (The Metropolitan Museum of Art)",
-     "credit": "Lantern for a Lamp, The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/449619",
+     "what": "Personal dose-response curves in the study",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
+     "url": "https://doi.org/10.1073/pnas.1901824116",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Phillips et al. (2019), PNAS 116(24):12019-12024: about 25 lux halved melatonin on average, a level at or below typical indoor lighting",
-     "credit": "Phillips et al. (2019), PNAS 116(24):12019-12024, illustration drawn for this post",
+     "what": "Light that halved melatonin by hour with 95% intervals. 13.5, 19.4 and 38.9 lux",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
      "url": "https://doi.org/10.1073/pnas.1901824116",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Matthew Boulton, Twelve-light candelabrum, Silver, 1805/6, 60.55.9a to ee (The Metropolitan Museum of Art)",
-     "credit": "Matthew Boulton, The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/202395",
+     "what": "Everyday light levels the study describes",
+     "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
+     "url": "https://doi.org/10.1073/pnas.1901824116",
      "card": false
     }
    ],
@@ -488,86 +488,86 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Unknown maker, A Sunny Corner, 1850, 1888, SK-A-3060 (Rijksmuseum, Amsterdam)",
-     "credit": "A Sunny Corner, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/SK-A-3060",
+     "what": "The 12-student study in Siraji and colleagues' reference list",
+     "credit": "Text: Siraji et al. (2023), Scientific Reports 13:12425, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s41598-023-39636-y",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Unknown maker, [Lewis R. Thompson], 1 photoprint., B024537 (National Library of Medicine)",
-     "credit": "National Library of Medicine, Digital Collections (public domain)",
-     "url": "https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101430611-img",
+     "what": "Who was in the study, as Siraji reports it",
+     "credit": "Text: Siraji et al. (2023), Scientific Reports 13:12425, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s41598-023-39636-y",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Chart drawn to scale for this post from Siraji et al. (2023), which reports He et al. (2023): bright morning light at 1,000 lux versus regular office light at 300 lux, 12 college students",
-     "credit": "Siraji et al. (2023), Scientific Reports 13:12425, reporting He et al. (2023), chart drawn for this post",
+     "what": "The two morning lights compared. 1,000 lux bright light against 300 lux office light, as Siraji et al. report He et al",
+     "credit": "Chart: Ask a Neuroscientist, from Siraji et al. (2023) data",
      "url": "https://doi.org/10.1038/s41598-023-39636-y",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post (labelled Illustration; not data) from Siraji et al. (2023), which reports He et al. (2023): with bright morning light, higher sleep efficiency and faster sleep onset than with office light",
-     "credit": "Siraji et al. (2023), Scientific Reports 13:12425, reporting He et al. (2023), illustration drawn for this post",
+     "what": "What He and colleagues observed, as Siraji reports it",
+     "credit": "Text: Siraji et al. (2023), Scientific Reports 13:12425, CC BY 4.0",
      "url": "https://doi.org/10.1038/s41598-023-39636-y",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Number card made for this post: 12 college students in the morning-light study (He et al. (2023), as reported by Siraji et al. (2023), Scientific Reports)",
-     "credit": "Siraji et al. (2023), Scientific Reports 13:12425, reporting He et al. (2023)",
+     "what": "How many people each cited study followed. 12, 49, 65 and 89",
+     "credit": "Chart: Ask a Neuroscientist, from Siraji et al. (2023), Boubekri et al. (2014), Bae et al. (2026) and Akgun et al. (2026) data",
      "url": "https://doi.org/10.1038/s41598-023-39636-y",
-     "card": true
+     "card": false
     },
     {
      "where": "Slide 6",
-     "what": "O'Halloran Thomas J. photographer, [Women, including African Americans, working at desks at a Social Security Administration office in Baltimore, Maryland] / TOH., 1 photograph : safety negative and film width 35mm (roll format), 1967, LC-U9-16858- 22/22A [P&P] (Library of Congress)",
-     "credit": "O'Halloran, Thomas J., photographer, Library of Congress, Prints and Photographs Division (no known restrictions)",
-     "url": "https://www.loc.gov/item/2024639753/",
+     "what": "The office-worker study as Siraji reports it",
+     "credit": "Text: Siraji et al. (2023), Scientific Reports 13:12425, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s41598-023-39636-y",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Unknown maker, [Office of the U.S. Public Health Service, New Orleans, La.], 1 photographic print : 18 x 13 cm., A016057 (National Library of Medicine)",
-     "credit": "National Library of Medicine, Digital Collections (public domain)",
-     "url": "https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101443816-img",
+     "what": "Akgun and colleagues' main finding",
+     "credit": "Text: Akgun et al. (2026), npj Biological Timing and Sleep, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s44323-026-00087-z",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Illustration made for this post from Boubekri et al. (2014), full text: 27 workers without windows had lower vitality scores and poorer sleep quality; 22 with windows had more light at work and 46 more minutes of sleep on work nights (wrist monitors, 21 of the 49)",
-     "credit": "Boubekri et al. (2014), Journal of Clinical Sleep Medicine 10(6):603-611, illustration made for this post",
+     "what": "Extra sleep on work nights for workers with windows. 46 more minutes, wrist monitors on 21 of 49 workers",
+     "credit": "Chart: Ask a Neuroscientist, from Boubekri et al. (2014) data",
      "url": "https://doi.org/10.5664/jcsm.3780",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Jean Alaux, Léon Pallière (1787 to 1820) in His Room at the Villa Medici, Rome, Oil on canvas, 1817, 2019.141.1 (The Metropolitan Museum of Art)",
-     "credit": "Jean Alaux, The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/438545",
+     "what": "The classroom trial's result on mood",
+     "credit": "Text: Bae et al. (2026), Clocks & Sleep 8:6, CC BY 4.0",
+     "url": "https://doi.org/10.3390/clockssleep8010006",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Frank Millet, A Cosey Corner, Oil on canvas, 1884, 87.8.3 (The Metropolitan Museum of Art)",
-     "credit": "Frank Millet, The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/11583",
+     "what": "What the classroom trial tested",
+     "credit": "Text: Bae et al. (2026), Clocks & Sleep 8:6, CC BY 4.0",
+     "url": "https://doi.org/10.3390/clockssleep8010006",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "Chart drawn to scale for this post from Siraji et al. (2023), which reports He et al. (2023): one dot per college student, 12 in all",
-     "credit": "Siraji et al. (2023), Scientific Reports 13:12425, reporting He et al. (2023), chart drawn for this post",
+     "what": "The title of Siraji and colleagues' 2023 paper, which reports the 12-student study: 'Light exposure behaviors predict mood, memory and sleep quality'",
+     "credit": "Text: Siraji et al. (2023), Scientific Reports 13:12425, CC BY 4.0",
      "url": "https://doi.org/10.1038/s41598-023-39636-y",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Barthélemy Cabirol, Room from a hotel in the Cours d'Albret, Bordeaux, Pine and painted and carved, ca. 1785, with later additions, 43.158.1 (The Metropolitan Museum of Art)",
-     "credit": "Barthélemy Cabirol, The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/199390",
+     "what": "How much bright light adults got",
+     "credit": "Text: Akgun et al. (2026), npj Biological Timing and Sleep, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s44323-026-00087-z",
      "card": false
     }
    ],
@@ -768,10 +768,10 @@
     },
     {
      "where": "Slide 2",
-     "what": "Text card made for this post: Duckweed, from Nuenen's canals, made into lamps with their own density and opacity",
-     "credit": "DDW 2026 listing, Illuminated Overgrowth (Nitzan Toren)",
-     "url": "https://ddw.nl/en/programme/illuminated-overgrowth",
-     "card": true
+     "what": "Illuminated Overgrowth lamps, photo Saniya Chand / DDW press kit",
+     "credit": "Photo: Saniya Chand, DDW press kit",
+     "url": "https://ddw.nl/programme/2709/press-kit.zip",
+     "card": false
     },
     {
      "where": "Slide 3",
@@ -810,37 +810,37 @@
     },
     {
      "where": "Slide 8",
-     "what": "Cain et al. (2020), Figure 1: the wearable light sensor clipped to clothing, and a day of melanopic illuminance with recorded spectra",
-     "credit": "Cain, McGlashan, Vidafar, Mustafovska, Curran, Wang, Mohamed, Kalavally and Phillips (2020), Scientific Reports 10:19110, CC BY 4.0",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7644684",
+     "what": "The lamps lit in a row, photo Saniya Chand / DDW press kit",
+     "credit": "Photo: Saniya Chand, DDW press kit",
+     "url": "https://ddw.nl/programme/2709/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Cain et al. (2020), Figure 3: evening melanopic illuminance in homes compared with a natural sunset",
-     "credit": "Cain, McGlashan, Vidafar, Mustafovska, Curran, Wang, Mohamed, Kalavally and Phillips (2020), Scientific Reports 10:19110, CC BY 4.0",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7644684",
+     "what": "Melatonin change under each lamp colour",
+     "credit": "Chellappa et al. (2011), cropped from Fig. 6, CC BY",
+     "url": "https://doi.org/10.1371/journal.pone.0016429",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "Text card made for this post: Oct 17 to 25, Dutch Design Week 2026, Eindhoven: lamps from canal duckweed",
-     "credit": "DDW 2026 listing, Illuminated Overgrowth (Nitzan Toren)",
-     "url": "https://ddw.nl/en/programme/illuminated-overgrowth",
-     "card": true
+     "what": "The most translucent lamp, photo Saniya Chand / DDW press kit",
+     "credit": "Photo: Saniya Chand, DDW press kit",
+     "url": "https://ddw.nl/programme/2709/press-kit.zip",
+     "card": false
     },
     {
      "where": "Story 2",
-     "what": "Diagram made for this post (not data values): the cool 6500 K lamp came with more melatonin suppression than the warm 2500 K lamp in 16 young men",
-     "credit": "Chellappa et al. (2011), PLoS ONE 6(1)",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3027693",
+     "what": "Chellappa and colleagues' main result",
+     "credit": "Text: Chellappa et al. (2011), PLoS ONE 6(1):e16429, CC BY",
+     "url": "https://doi.org/10.1371/journal.pone.0016429",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post: what the work is, who made it and where it is shown",
-     "credit": "DDW 2026 listing, Illuminated Overgrowth (Nitzan Toren)",
-     "url": "https://ddw.nl/en/programme/illuminated-overgrowth",
+     "what": "Three of the lamps, photo Saniya Chand / DDW press kit",
+     "credit": "Photo: Saniya Chand, DDW press kit",
+     "url": "https://ddw.nl/programme/2709/press-kit.zip",
      "card": false
     }
    ],

@@ -15,12 +15,10 @@ export const metadata: Metadata = {
     apple: "/favicon-v2.svg",
   },
   openGraph: {
-    title: "RN Selected Work",
-    description: "Questions too messy for a single discipline—made concrete through research, systems, and working builds.",
     type: "website",
     siteName: "RN Selected Work",
   },
-  twitter: { card: "summary_large_image", title: "RN Selected Work" },
+  twitter: { card: "summary_large_image" },
 };
 
 export const viewport: Viewport = {

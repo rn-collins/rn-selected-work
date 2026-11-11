@@ -2,7 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 N:Collins;RN;;;
 FN:RN Collins
-TITLE:Neuroscientist · Fractional Law Clerk · AI Technologist
+TITLE:storytelling strategist, content and experiential producer, resident neuroscientist, design technologist and fractional law clerk
+item1.EMAIL;TYPE=INTERNET,WORK:rn@fatnugsmag.com
+item1.X-ABLabel:Psychoactive plant science media and Fat Nugs
+item2.EMAIL;TYPE=INTERNET,WORK:rncollins@antithesis.law
+item2.X-ABLabel:Law (RN Collins / Antithesis)
+item3.EMAIL;TYPE=INTERNET,WORK:collins.ra@northeastern.edu
+item3.X-ABLabel:Academic (Northeastern)
 URL;TYPE=WORK:https://rn-selected-work.vercel.app/connect
 URL;TYPE=LinkedIn:https://www.linkedin.com/in/rn-collins
 ADR;TYPE=WORK:;;;Honolulu;HI;;;United States

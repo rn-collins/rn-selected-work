@@ -34,7 +34,10 @@ export default function Page() {
       <div className="canonicalCards">{projects.map(project => <article key={project.slug}>
         <p className="eyebrow">{project.kind} · {project.status}</p>
         <h2>{project.shortTitle}</h2><p>{project.thesis}</p>
-        <Link href={`/work/${project.slug}`}>Read what RN saw and built →</Link>
+        <div className="atlasActions">
+          <Link href={`/work/${project.slug}`}>Read what RN saw and built →</Link>
+          {project.live && <a href={project.live} target="_blank" rel="noreferrer">Open live build ↗</a>}
+        </div>
       </article>)}</div>
     </section>
     <section id="build-atlas" className="canonicalBand">
@@ -61,7 +64,12 @@ export default function Page() {
         <p className="eyebrow">{build.status}</p>
         <h2>{build.title}</h2>
         <p>{build.problem}</p>
-        <Link href={`/builds/${build.repo}`}>Explore the work and its site →</Link>
+        <div className="atlasActions">
+          <Link href={`/builds/${build.repo}`}>Explore the work and its site →</Link>
+          {!build.linkHeld && build.live && (
+            <a href={build.live} target="_blank" rel="noreferrer">Open the build ↗</a>
+          )}
+        </div>
       </article>)}</div>
     </section>)}
     <section className="canonicalBand"><div className="shell">

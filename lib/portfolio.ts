@@ -31,20 +31,20 @@ export const projects: Project[] = [
     thesis:
       "How can independent work travel, compound, and endure beyond a role, employer, platform, or title?",
     summary:
-      "An independent research and applied-research practice studying the conditions that allow one person's work, capability, relationships, evidence, and intellectual assets to become portable, cumulative, and institutionally legible. Its Ownership Platform is one technical implementation of that larger inquiry.",
+      "A research practice for creators and independent professionals whose work does not fit an employer, a title, or a platform. The live link opens the public research site, including an Observatory of 41 careers and two five-minute pilot assessments. The pilots are not validated scales. They do not diagnose, rank, or measure a person's worth.",
     tags: ["Research architecture", "Evidence governance", "Assessment design"],
     noticed:
       "Independent professionals are routinely assessed through institutional proxies—employer, title, credential, network—even as they create valuable work across multiple systems. Their capability, relationships, and intellectual assets are difficult to see as a coherent whole.",
     researched:
       "Institutions of One brings together questions of ownership, portable reputation, capability measurement, longitudinal evidence, participation ethics, and the conditions under which independent work can acquire continuity without being reduced to an employer, title, platform, or personal brand.",
     built:
-      "The practice includes an Observatory, Ownership Index, Portfolio Professional research, Question Lab, The I/1 Edit, Apply the Cases, partnership and applied-inquiry pathways, and an Ownership Platform with evidence-governed research infrastructure. This case study presents the public architecture while protecting participant and research systems still under development.",
+      "The public site includes an Observatory of 41 careers, the editions, Apply the Cases, and two five-minute pilot assessments: the Ownership Index and the Portfolio Professional assessment. Visual stories and the Source Desk live on the companion reader.",
     serves:
       "Creators, independent professionals, portfolio workers, researchers, and institutions seeking better ways to recognize work, capability, relationships, and intellectual assets that conventional organizational categories obscure.",
     demonstrates:
       "Structural problem definition, research-program architecture, ethics-aware measurement design, and the ability to turn an abstract thesis into testable infrastructure.",
     evidenceNote:
-      "The Ownership Platform is a working implementation within Institutions of One. Participant data and research operations remain private while the practice develops its evidence and participation safeguards.",
+      "The two pilot assessments are not validated psychological scales. They do not diagnose, rank, or measure human worth. The candidate-instrument protocol is still a draft, and its default activation decision is blocked.",
     live: "https://ownership-platform.vercel.app/",
   },
   {
@@ -78,24 +78,24 @@ export const projects: Project[] = [
     kind: "Research + intelligence systems",
     title: "Psychedelic Operations Intelligence",
     shortTitle: "Psychedelic Operations",
-    status: "Live source-verified monitor · sweep overdue, reported on the build",
+    status: "Live source monitor · sweep current 9 November 2026",
     thesis:
       "Turn a fast-moving legal and scientific field into operational intelligence.",
     summary:
-      "A public monitoring prototype for organizing regulatory and operational signals across psychedelic medicine and policy, with important provenance, data-shape, filtering, and source-quality limitations documented in the case study.",
+      "A public monitor for researchers, operators, and policy teams who need official psychedelic-regulation sources kept apart from press and advocacy. The live link opens that monitor. The 9 November 2026 sweep kept 16 candidates and rejected 68 as noise. Screened candidates stay unreviewed. This is not legal advice.",
     tags: ["Data architecture", "Field monitoring", "Decision support"],
     noticed:
       "The psychedelic field moves across law, clinical research, state programs, professional education, organizations, funding, and public claims. Conventional news feeds preserve documents but not the relationships needed for decisions.",
     researched:
       "Regulatory programs, legislation, scientific evidence, institutions, professional actors, operational signals, source provenance, update cadence, and the decisions different users need to make from the same field data.",
     built:
-      "A public dashboard over six verified official source endpoints, with a weekly sweep, a source-policy gate every candidate must clear before display, per-category sweep state, and a published collection-health block reporting how many days old the last successful sweep is. On the most recent sweep seven candidates passed the policy and forty-one were rejected as noise.",
+      "A public dashboard over six verified official source endpoints, with a weekly Monday sweep, a source-policy gate every candidate must clear before display, and a collection-health block. The 9 November 2026 sweep kept 16 candidates, rejected 68 as noise, and reported all six sources healthy.",
     serves:
       "Researchers, regulated operators, policy teams, legal professionals, educators, and organizations that need current field intelligence with source traceability.",
     demonstrates:
       "Cross-domain taxonomy, database and dashboard design, evidence provenance, monitoring logic, and decision-oriented synthesis.",
     evidenceNote:
-      "The build collects and screens; it does not verify. Screened candidates are explicitly unreviewed, and a record in the source registry means an endpoint is monitored, not that something new was published there. The last successful sweep is more than two cycles old and the site reports itself stale rather than presenting a frozen snapshot as current. This is not comprehensive monitoring, not a maintained private database, not continuously operating alerts, and not legal advice.",
+      "The build collects and screens. Screened candidates stay unreviewed. A record in the source registry means an endpoint is monitored. The last successful sweep was 9 November 2026 and the site reported the collection healthy. Not legal advice.",
     live: "https://psychops-intel.vercel.app/",
   },
   {
@@ -108,7 +108,7 @@ export const projects: Project[] = [
     thesis:
       "How could a small business understand a complex AI product without mistaking a static guide for a working integration?",
     summary:
-      "A generic, plain-English Claude product guide. Its repository history preserves an independently initiated Buechler concept lineage, but the current public artifact contains no Buechler Pacific or Hawaiʻi-specific content and does not evidence a relationship, tailoring, review, approval, delivery, or use.",
+      "A plain-English guide for a small business that needs to understand Claude before anyone connects it to the work. The live link opens a static page. It does not run a workflow, connect a system, or record a client engagement. The release stays blocked.",
     tags: ["Organizational research", "Workflow design", "AI translation"],
     noticed:
       "Small-business AI guidance often begins with features rather than work: which recurring burden matters, what information may be used, where approval belongs, and what a first low-risk workflow should accomplish.",
@@ -135,7 +135,7 @@ export const projects: Project[] = [
     thesis:
       "Design an emerging-technology resource around Hawaiʻi's children, families, educators, and actual pathways into robotics.",
     summary:
-      "A Hawaiʻi-grounded static family guide created around a publicly announced robotics event. It was independently initiated and does not evidence commission, authorization, review, endorsement, or an official relationship with Oʻahu A.I. or Island Robotics.",
+      "A Hawaiʻi-grounded static family guide created around a publicly announced robotics event. It was independently initiated and does not evidence commission, authorization, review, endorsement, or an official relationship with Oʻahu A.I. or Island Robotics. The live link opens that page. The release stays blocked, so it is a concept and not an official event handout.",
     tags: ["Learning experience", "Audience design", "Hawaiʻi context"],
     noticed:
       "An exciting robotics showcase does not automatically tell a child or parent what the activity involves, which program fits their age, what it costs, or where a Hawaiʻi family can begin after the event.",
@@ -162,7 +162,7 @@ export const projects: Project[] = [
     thesis:
       "Help a young inventor understand the next decision before asking them to become an IP expert.",
     summary:
-      "A plain-English static first-steps guide to patents for young inventors and their families, written by RN for people attending the Patent Your Invention panel at Hawaiʻi Tech Week 2026.",
+      "A plain-English static first-steps guide to patents for young inventors and their families, written by RN for people attending the Patent Your Invention panel at Hawaiʻi Tech Week 2026. It does not file an application, give legal advice, or create an attorney-client relationship. The live link opens that guide.",
     tags: ["Legal service design", "Public education", "Guided intake"],
     noticed:
       "A child can leave an invention event inspired but still not know the difference between patent, trademark, copyright, and trade secret—or that public disclosure can affect rights before a family ever speaks with counsel.",

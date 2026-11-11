@@ -1,15 +1,17 @@
 import { DiscoveryBrowser } from "../../components/discovery-browser";
+import { PreviewGrid } from "../../components/preview-grid";
 import { discoveryItems } from "../../lib/discovery";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../components/canonical-page";
 import {
-  builds,
+  categoriesFor,
   excludedFromIndex,
-  inventoryCounts,
-  inventoryGeneratedAt,
-  populatedCategories,
+  shelfCounts,
+  shelfGeneratedAt,
+  shippedBuilds,
   statusLabels,
+  studioBuilds,
   undescribed,
 } from "../../lib/builds";
 
@@ -22,30 +24,32 @@ export const metadata: Metadata = {
   alternates: { canonical: "/builds" },
 };
 
-const generated = new Date(inventoryGeneratedAt).toLocaleDateString("en-GB", {
+const generated = new Date(shelfGeneratedAt).toLocaleDateString("en-GB", {
   day: "numeric",
   month: "long",
   year: "numeric",
 });
 
+const shippedCategories = categoriesFor(shippedBuilds);
+const studioCategories = categoriesFor(studioBuilds);
+
 export default function BuildIndexPage() {
   return (
     <CanonicalPage>
       <header className="canonicalSubhero shell">
-        <p className="eyebrow">Build index · {builds.length} builds · generated {generated}</p>
+        <p className="eyebrow">Build index · {shippedBuilds.length} shipped · {studioBuilds.length} in the studio · {generated}</p>
         <h1>
-          Everything that is
+          Three shelves.
           <br />
-          <em>actually running.</em>
+          <em>One URL each.</em>
         </h1>
         <p>
-          This page is generated. A script asks GitHub what repositories exist and Vercel what is
-          deployed, cross-references the two, checks that each production URL answers, and writes the
-          result to a data file the page renders from. The previous version of this index was a list
-          kept by hand, and a list kept by hand drifts: it had settled at 32 entries while the estate
-          held more than twice that.
+          Shipped is one project and one production URL. Studio is a real prototype, prelaunch,
+          proposal, or paused build, on its own address. Hold is tests, failed previews, duplicates,
+          signposts, and client deploys. Hold is not linked from this page, and client work is not named.
         </p>
       </header>
+      <PreviewGrid />
 <DiscoveryBrowser items={discoveryItems().filter(item => ["Build"].includes(item.kind))} title="Find a tool or working system" />
 
       <section className="canonicalSection shell" aria-labelledby="method">
@@ -54,9 +58,9 @@ export default function BuildIndexPage() {
           <div>
             <h2 id="method">Status is the part worth trusting.</h2>
             <p className="bigcopy">
-              Several of these are retired prototypes. Several are paused with their back ends
-              switched off. One is a research preview with a waitlist and no released platform. Each
-              says so in its own words rather than being flattened into a uniform present tense.
+              Status lines repeat what each build says about itself: a sweep date, a founding
+              cohort still forming, a lab that is not legal advice, or a public page that has
+              not released its pieces.
             </p>
             <p>
               Where a build reports its own health — the monitors publish their last successful sweep
@@ -65,11 +69,11 @@ export default function BuildIndexPage() {
               thin. Nothing here is written from a meta description.
             </p>
             <p className="indexProvenance">
-              Generated {generated} from {inventoryCounts.repositories} repositories and{" "}
-              {inventoryCounts.vercelProjects} Vercel projects. {inventoryCounts.published} builds
-              answered with content and are listed below. {inventoryCounts.excluded} were held back —
-              client engagements, private workspaces, internal APIs, duplicate deployments and test
-              projects. Regenerate with <code>node scripts/regenerate-builds.mjs</code>.
+              Assigned {generated} from {shelfCounts.projects} live Vercel projects. {shelfCounts.shipped}{" "}
+              are shipped, {shelfCounts.studio} are in the studio, and {shelfCounts.hold} are on hold.
+              {shelfCounts.cut} probe and preview projects are marked for removal and are not linked.
+              The Netherlands field kit stays deployed while its build is repaired. Refresh the shelves
+              with <code>node scripts/assign-shelves.mjs</code>.
             </p>
           </div>
         </div>
@@ -84,16 +88,16 @@ export default function BuildIndexPage() {
               shown as a gap rather than published with an empty description.
             </p>
             <ul>
-              {undescribed.map((record) => (
-                <li key={record.repo}>{record.repo}</li>
+              {undescribed.map((project) => (
+                <li key={project.name}>{project.name}</li>
               ))}
             </ul>
           </div>
         </section>
       )}
 
-      <nav className="indexJump shell" aria-label="Build categories">
-        {populatedCategories.map((category) => (
+      <nav className="indexJump shell" aria-label="Shipped categories">
+        {shippedCategories.map((category) => (
           <a href={`#${category.id}`} key={category.id}>
             <span>{category.builds.length}</span>
             {category.title}
@@ -102,7 +106,8 @@ export default function BuildIndexPage() {
       </nav>
 
       <div className="indexBody shell">
-        {populatedCategories.map((category) => (
+        <p className="eyebrow">Shipped</p>
+        {shippedCategories.map((category) => (
           <section className="indexCategory" id={category.id} key={category.id}>
             <div className="indexCategoryHead">
               <h2>{category.title}</h2>
@@ -156,6 +161,61 @@ export default function BuildIndexPage() {
                       {build.repoUrl && (
                         <a href={build.repoUrl} target="_blank" rel="noreferrer">
                           GitHub <span aria-hidden="true">↗</span>
+                        </a>
+                      )}
+                    </div>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </section>
+        ))}
+      </div>
+
+      <div className="indexBody shell" id="studio">
+        <p className="eyebrow">Studio</p>
+        <h2>Real prototypes. No probe addresses.</h2>
+        {studioCategories.map((category) => (
+          <section className="indexCategory" id={`studio-${category.id}`} key={category.id}>
+            <div className="indexCategoryHead">
+              <h2>{category.title}</h2>
+              <p>{category.blurb}</p>
+              <p className="eyebrow">
+                {category.builds.length} {category.builds.length === 1 ? "build" : "builds"}
+              </p>
+            </div>
+            <div className="indexList">
+              {category.builds.map((build) => (
+                <article className="indexEntry" key={build.repo}>
+                  <div className="indexEntryHead">
+                    <h3>{build.title}</h3>
+                    <p className={`indexStatus indexStatus--${build.statusKind}`}>
+                      <span className="indexStatusTag">{statusLabels[build.statusKind]}</span>
+                      {build.status}
+                    </p>
+                  </div>
+                  <div className="indexEntryBody">
+                    <p>
+                      <b>The problem.</b> {build.problem}
+                    </p>
+                    <p>
+                      <b>What it does.</b> {build.does}
+                    </p>
+                    <p>
+                      <b>Built on.</b> {build.builtOn}
+                    </p>
+                    {build.limits && (
+                      <p className="indexLimits">
+                        <b>What it does not establish.</b> {build.limits}
+                      </p>
+                    )}
+                    <div className="indexActions">
+                      <Link href={`/builds/${build.repo}`}>
+                        See it running <span aria-hidden="true">→</span>
+                      </Link>
+                      {!build.linkHeld && (
+                        <a href={build.live} target="_blank" rel="noreferrer">
+                          Open the build <span aria-hidden="true">↗</span>
                         </a>
                       )}
                     </div>

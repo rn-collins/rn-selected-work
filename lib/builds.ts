@@ -12,6 +12,7 @@
 import { publicSourceLink } from "./source-links";
 import inventory from "../data/builds.json";
 import exclusions from "../data/exclusions.json";
+import shelvesFile from "../data/vercel-shelves.json";
 import {
   buildNotesByRepo,
   categories,
@@ -32,34 +33,74 @@ export type InventoryRecord = {
   hasNote: boolean;
 };
 
+export type ShelfName = "shipped" | "studio" | "hold";
+
+type ShelfProject = {
+  name: string;
+  url: string | null;
+  shelf: ShelfName;
+  public: boolean;
+  canonical: string;
+  cut: boolean;
+  reason: string;
+};
+
+const shelfProjects = shelvesFile.projects as ShelfProject[];
+
 export type Build = BuildNote & {
   live: string;
   repoUrl: string | null;
   sourceVisibility: string;
   lastDeployed: string | null;
   verifiedStatus: number | string;
+  shelf: "shipped" | "studio";
 };
 
 const excludedRepos = new Set(exclusions.exclusions.map((entry) => entry.repo));
 const records = (inventory.builds as InventoryRecord[]).filter((record) => !excludedRepos.has(record.repo));
+const recordByRepo = new Map(records.map((record) => [record.repo, record]));
 
-export const builds: Build[] = records
-  .map((record) => {
-    const note = buildNotesByRepo.get(record.repo);
-    if (!note || !record.live) return null;
-    return {
-      ...note,
-      live: record.live,
-      repoUrl: publicSourceLink(record.repoUrl, record.live) ?? null,
-      sourceVisibility: record.visibility,
-      lastDeployed: record.pushedAt,
-      verifiedStatus: record.httpStatus,
-    } satisfies Build;
-  })
+/** A duplicate or signpost resolves to another project's URL. It is not its own card. */
+function isOwnSubject(project: ShelfProject) {
+  return project.canonical === project.name;
+}
+
+function toBuild(project: ShelfProject): Build | null {
+  if (!isOwnSubject(project) || !project.public || !project.url || project.shelf === "hold") return null;
+  const note = buildNotesByRepo.get(project.name);
+  if (!note) return null;
+  const record = recordByRepo.get(project.name);
+  return {
+    ...note,
+    shelf: project.shelf,
+    live: project.url,
+    repoUrl: publicSourceLink(record?.repoUrl ?? null, project.url) ?? null,
+    sourceVisibility: record?.visibility ?? "unknown",
+    lastDeployed: record?.pushedAt ?? null,
+    verifiedStatus: record?.httpStatus ?? "production-url",
+  };
+}
+
+export const builds: Build[] = shelfProjects
+  .map(toBuild)
   .filter((build): build is Build => build !== null);
 
-/** Builds present in the inventory with no write-up yet. Rendered as a visible gap, never hidden. */
-export const undescribed = records.filter((record) => record.reachable && !record.hasNote);
+export const shippedBuilds = builds.filter((build) => build.shelf === "shipped");
+export const studioBuilds = builds.filter((build) => build.shelf === "studio");
+
+export const shelfGeneratedAt = shelvesFile.generatedAt as string;
+export const shelfCounts = shelvesFile.counts as {
+  projects: number;
+  shipped: number;
+  studio: number;
+  hold: number;
+  cut: number;
+};
+
+/** Public projects on a shelf that still have no write-up. Hold is not listed. */
+export const undescribed = shelfProjects.filter(
+  (project) => isOwnSubject(project) && project.public && project.url && !buildNotesByRepo.has(project.name),
+);
 
 export const excludedFromIndex = inventory.excluded as { repo: string; reason: string }[];
 
@@ -75,13 +116,17 @@ export const inventoryCounts = inventory.counts as {
 /** Builds cross-listed under the institutional section. Derived, not listed. */
 export const institutionalBuilds: Build[] = builds.filter((build) => build.institutional);
 
-export function buildsIn(category: CategoryId): Build[] {
-  return builds.filter((build) => build.category === category);
+export function buildsIn(category: CategoryId, list: Build[] = builds): Build[] {
+  return list.filter((build) => build.category === category);
 }
 
-export const populatedCategories = categories
-  .map((category) => ({ ...category, builds: buildsIn(category.id) }))
-  .filter((category) => category.builds.length > 0);
+export function categoriesFor(list: Build[]) {
+  return categories
+    .map((category) => ({ ...category, builds: buildsIn(category.id, list) }))
+    .filter((category) => category.builds.length > 0);
+}
+
+export const populatedCategories = categoriesFor(shippedBuilds);
 
 export const statusLabels: Record<BuildNote["statusKind"], string> = {
   live: "Live",

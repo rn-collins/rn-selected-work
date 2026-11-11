@@ -83,7 +83,7 @@
     "stage": "Prototype",
     "question": "Brand and campaign teams treat a film or television moment as a demand signal long before anyone has asked what would make that inference testable, or what governance questions an AI-assisted read of culture raises.",
     "expression": "Tracks film, television and cultural moments alongside consumer style and spending signals, and attaches an AI governance risk score to each read so the inference and its reliability travel together rather than the score arriving alone.",
-    "boundary": "Exploratory. The signals are hypotheses about consumer behaviour, not measured outcomes, and the risk scoring is a framing device rather than a validated instrument.",
+    "boundary": "Exploratory. The public page reports the signal set stale, with last successful data on 17 August 2026. The signals are hypotheses about consumer behaviour, not measured outcomes.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -237,7 +237,7 @@
     "stage": "Paused",
     "question": "Neuro-aware design claims are easy to make and rarely tested. A building gets described as calming, and nothing in the process ever asks what observation would have shown otherwise.",
     "expression": "Structures spatial observation into evidence-aware design hypotheses, runs an accessibility review, prioritises the resulting changes, and sets up post-occupancy measurement so a hypothesis can be checked after the space is occupied.",
-    "boundary": "A structured observation and hypothesis tool. Not an accessibility certification and not a code compliance review.",
+    "boundary": "A local-first inquiry tool. It does not establish medical benefit, code compliance, accessibility compliance, or architectural adequacy.",
     "held": true,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -248,7 +248,7 @@
     "stage": "Paused",
     "question": "Neuro-health questions that cross life stages, cannabis, psychedelics, medications and symptoms tend to get one appointment's worth of attention, and the patient arrives without the specific questions that would make that appointment useful.",
     "expression": "Helps a person assemble what they are actually asking, what is known about it, and what to raise with a clinician, and produces a prepared set of appointment questions. Everything stays in the browser.",
-    "boundary": "Evidence orientation and appointment preparation. Not medical advice, not a diagnosis, and not a treatment recommendation.",
+    "boundary": "Evidence orientation and appointment preparation. Not medical advice, not a diagnosis, not a treatment recommendation, and not emergency care.",
     "held": true,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -303,7 +303,7 @@
     "stage": "Prototype",
     "question": "Attention signals from screen culture get converted into consumer-behaviour conclusions with no step in between where someone writes down what would have to be true for the inference to hold.",
     "expression": "Turns a screen-culture attention signal into an explicitly testable consumer-behaviour hypothesis, and states a use boundary on the same page.",
-    "boundary": "This is a single-screen prototype of roughly 130 words. It is listed as one, not as a product. The hypotheses are untested.",
+    "boundary": "An exploratory issue-spotter. It does not measure an individual, predict behaviour, or establish that media exposure caused a purchase. The hypotheses are untested.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -456,8 +456,8 @@
     "category": "Law + governance",
     "stage": "Paused",
     "question": "Supervised legal work is learned by doing it under someone who has done it, and the structures that make that transferable — reusable work formats, review points, what supervision actually checks — are rarely written down anywhere a student can see them.",
-    "expression": "Presents a public educational prototype of supervised legal workflows and reusable work structures.",
-    "boundary": "Paused. Matching, applications, payments, analytics and inquiry APIs are all inactive, so nothing on the site can currently be applied to or purchased.",
+    "expression": "A public prototype with three free workflow frameworks on the page, so attorneys and law students can inspect work structures and the judgment boundaries around them.",
+    "boundary": "Prelaunch. It does not enroll, charge, match, vet, or place anyone. The marketplace, paid templates, and job board are not active.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -522,8 +522,8 @@
     "category": "Culture + fieldwork",
     "stage": "Paused",
     "question": "Cannabis coverage reports the politics and the money. The machinery that actually governs the plant — the tag on every plant, the laboratory test, the state tracking interface, the rules written around them — is where the decisions get made, and it is barely described.",
-    "expression": "Holds the research corpus behind an investigation into how Nevada regulates cannabis as a technical system: 92 source records, a fourteen-part story architecture, and the production material each part would need. The archive is searchable, and every draft carries the readiness state it was left in.",
-    "boundary": "Nothing here has been published or scheduled. Inclusion in the record is not editorial approval, rights clearance or a claim that any draft is finished.",
+    "expression": "A public release page for an investigation of the tags, tests, interfaces, and records that govern Nevada cannabis.",
+    "boundary": "No pieces have been released. A draft in the research files is not a published investigation.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -610,8 +610,8 @@
     "category": "Institutions",
     "stage": "Documented build",
     "question": "Governance advice about human-facing systems is usually written as policy and handed over, with no account of how it becomes a decision anyone has to make on a Tuesday.",
-    "expression": "Presents evidence-led governance modules and human-supervised institutional advisory work, and is the current home of the work that the fifteen retired M-series prototypes were the first attempt at.",
-    "boundary": "The current site is the maintained surface. The fifteen numbered prototype modules listed further down this index are retired and are not part of it.",
+    "expression": "Presents the advisory site and the fifteen governance modules. Those modules first shipped at their own addresses. The addresses were retired on 15 August 2026, and the modules now live on this site.",
+    "boundary": "This site is the maintained surface. The fifteen modules are published on it. Their old standalone addresses stay online as signposts and are not the modules.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -661,12 +661,12 @@
   },
   {
     "id": "the-sovereign-stack",
-    "title": "The Sovereign Stack",
+    "title": "Authority Layer",
     "category": "Institutions",
     "stage": "Proposal",
-    "question": "A technical stack can be local, open and place-based and still leave the questions of authority, knowledge boundaries, accountability, withdrawal and refusal with nowhere to live.",
-    "expression": "Demonstrates a possible decision protocol, a living system record, a bounded pilot path and an optional learning translation, organised around the governance questions a community-authorised process would still have to answer.",
-    "boundary": "An independently prepared working proposal. It is not the recipient's product, policy, endorsement, approved protocol or community consent, and the substantive values and permissions would be theirs to define, not the author's.",
+    "question": "A technical stack can be local and open and still leave authority, withdrawal, and refusal with nowhere to live inside it.",
+    "expression": "An interactive proposal for keeping one permitted use tied to the decision that authorized it when the purpose, data, model, vendor, audience, or operators change.",
+    "boundary": "A proposal. The public page states it was not commissioned or endorsed by Purple Maiʻa. Printed material does not create authority.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -688,7 +688,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is trauma-informed legal space.",
     "expression": "A documented research module examining trauma-informed legal space, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -699,7 +699,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is ai legal navigation.",
     "expression": "A documented research module examining ai legal navigation, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -710,7 +710,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is psychedelic harm reduction.",
     "expression": "A documented research module examining psychedelic harm reduction, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -721,7 +721,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is cannabis public health infrastructure.",
     "expression": "A documented research module examining cannabis public health infrastructure, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -732,7 +732,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is biophilic civic infrastructure.",
     "expression": "A documented research module examining biophilic civic infrastructure, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -743,7 +743,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is ethical civic sponsorship.",
     "expression": "A documented research module examining ethical civic sponsorship, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -754,7 +754,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is conscious cities.",
     "expression": "A documented research module examining conscious cities, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -765,7 +765,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is burnout recovery infrastructure.",
     "expression": "A documented research module examining burnout recovery infrastructure, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -776,7 +776,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is cannabis healthcare visibility.",
     "expression": "A documented research module examining cannabis healthcare visibility, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -787,7 +787,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is healthcare built environment.",
     "expression": "A documented research module examining healthcare built environment, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -798,7 +798,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is medical technology and evidence standards.",
     "expression": "A documented research module examining medical technology and evidence standards, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -809,7 +809,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is nervous-system-aware education systems.",
     "expression": "A documented research module examining nervous-system-aware education systems, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -820,7 +820,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is traditional and complementary medicine governance.",
     "expression": "A documented research module examining traditional and complementary medicine governance, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -831,7 +831,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is space governance and interplanetary jurisdiction.",
     "expression": "A documented research module examining space governance and interplanetary jurisdiction, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
@@ -842,7 +842,7 @@
     "stage": "Research module",
     "question": "One of fifteen modules setting out the evidence base for a single institutional design problem. This one is isolation, confinement and extreme environment governance.",
     "expression": "A documented research module examining isolation, confinement and extreme environment governance, its evidence base and the governance questions it raises.",
-    "boundary": "Part of a related fifteen-module research series. The source records disagree about current module availability; no live or validated service is asserted here.",
+    "boundary": "The standalone address was retired on 15 August 2026 and kept online as a signpost. The module itself is current on the NSAG site.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
   },
