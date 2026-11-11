@@ -34,14 +34,16 @@ export const pieceId = (account: string, slug: string) => `${account}/${slug}`;
 
 // Post addresses, labelled by platform, for the link set on each piece's pages.
 const PLATFORM: Record<string, string> = {
-  instagram: "Instagram", tiktok: "TikTok", youtube: "YouTube", linkedin: "LinkedIn", threads: "Threads",
-  x: "X", bluesky: "Bluesky", facebook: "Facebook", substack: "Substack", beehiiv: "Newsletter",
+  instagram: "Instagram", tiktok: "TikTok", youtube: "YouTube", linkedin: "LinkedIn",
+  bluesky: "Bluesky", facebook: "Facebook", substack: "Substack", beehiiv: "Newsletter", pinterest: "Pinterest",
 };
+// X is dropped and Threads paused for both brands (RN, Nov 9 to 10, 2026): their post links are not shown.
+const HIDDEN = new Set(["x", "threads"]);
 export function postLinks(id: string) {
   const r = byId.get(id);
   if (!r) return [];
   return Object.entries(r.postUrls ?? {})
-    .filter(([, url]) => !!url)
+    .filter(([platform, url]) => !!url && !HIDDEN.has(platform))
     .map(([platform, url]) => ({ label: `The post on ${PLATFORM[platform] ?? platform}`, url }));
 }
 
