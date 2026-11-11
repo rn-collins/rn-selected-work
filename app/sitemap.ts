@@ -8,6 +8,7 @@ import { accounts, listed } from "../lib/sources";
 import { tfhPostedSoFar } from "../lib/tfh-sources";
 import { ESSAYS_INDEXABLE } from "../lib/essays-config";
 import { essayAccounts, essayPath, releasedEssays } from "../lib/essays";
+import { essayPath as ddwEssayPath, releasedDdwEssays } from "../lib/ddw-essays";
 import { journalPagePath, journalPdfs } from "../lib/journal-pdfs";
 
 export const revalidate = 3600;
@@ -25,6 +26,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/practice`, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/work`, changeFrequency: "weekly", priority: 0.9 },
     { url: `${base}/writing`, changeFrequency: "weekly", priority: 0.9 },
+    { url: `${base}/writing/dutch-design-week`, changeFrequency: "weekly", priority: 0.7 },
+    ...releasedDdwEssays().map((essay) => ({ url: `${base}${ddwEssayPath(essay)}`, changeFrequency: "monthly" as const, priority: 0.6 })),
+    { url: `${base}/initiatives`, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${base}/initiatives/aloha-ai`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${base}/initiatives/nsag`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${base}/initiatives/institutions-of-one`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${base}/for-organizations`, changeFrequency: "monthly", priority: 0.7 },
     ...projects.map((project) => ({
       url: `${base}/work/${project.slug}`,
       changeFrequency: "monthly" as const,

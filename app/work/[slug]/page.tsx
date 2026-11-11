@@ -19,12 +19,14 @@ export async function generateMetadata({
   const slug = (await params).slug;
   const p = getProject(slug);
   const build = getPublicBuild(slug);
+  const title = p?.shortTitle || build?.title || "Project not found";
+  const description = p?.summary || build?.purpose;
   return {
-    title: p || build
-      ? `${p?.shortTitle || build?.title} — Selected Work by RN Collins`
-      : "Project not found",
-    description: p?.summary || build?.purpose,
+    title,
+    description,
     alternates: { canonical: `/work/${slug}` },
+    openGraph: { title, description, url: `/work/${slug}` },
+    twitter: { card: "summary_large_image", title, description },
   };
 }
 

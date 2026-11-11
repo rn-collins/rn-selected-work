@@ -118,11 +118,15 @@ async function probe(url) {
 function readNoteKeys() {
   const source = readFileSync(join(ROOT, "lib", "build-notes.ts"), "utf8");
   const keys = [...source.matchAll(/^\s{4}repo:\s*"([a-z0-9-]+)"/gm)].map((m) => m[1]);
-  // The NSAG module notes are generated from a tuple table rather than written
-  // out one by one, so pick those up too.
-  const table = source.match(/nsagModules[\s\S]*?\n\];/);
-  if (table) keys.push(...[...table[0].matchAll(/\["([a-z0-9-]+)",/g)].map((m) => m[1]));
   return new Set(keys);
+}
+
+/** One subject, one inventory row. Signposts and duplicate projects fold into the canonical name. */
+function canonicalName(name, aliases) {
+  if (/^nsag-m\d+$/.test(name)) return "nsag-site";
+  const alias = aliases[name];
+  if (typeof alias === "string" && !alias.startsWith("$")) return alias;
+  return name;
 }
 
 async function main() {
@@ -135,10 +139,10 @@ async function main() {
   const noteKeys = readNoteKeys();
 
   const byName = new Map(repos.map((repo) => [repo.name, repo]));
-  const candidates = new Set([...byName.keys()]);
-  for (const project of vercel.keys()) {
-    const canonical = aliases[project] || project;
-    if (canonical.startsWith("$")) continue;
+  const candidates = new Set();
+  for (const name of [...byName.keys(), ...vercel.keys()]) {
+    const canonical = canonicalName(name, aliases);
+    if (!canonical || canonical.startsWith("$")) continue;
     candidates.add(canonical);
   }
 

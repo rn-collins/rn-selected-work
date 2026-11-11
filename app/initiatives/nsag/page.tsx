@@ -86,8 +86,8 @@ export default function Page() {
               <Link className="button" href="/work/neurocognitive-systems-advisory-group">
                 Read the NSAG case study →
               </Link>
-              <Link className="button secondary" href="/builds#records">
-                Browse the module records →
+              <Link className="button secondary" href="/builds#retired">
+                Browse the retired addresses →
               </Link>
             </div>
           </div>

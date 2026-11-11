@@ -25,7 +25,7 @@ export default function ConnectPage() {
         <div className="connectIdentity">
           <p className="eyebrow">Connect with RN</p>
           <h1>RN <em>Collins</em></h1>
-          <p className="connectRoles">Neuroscientist · Fractional Law Clerk · AI Technologist</p>
+          <p className="connectRoles">Neuroscientist, knowledge content creator, and builder. Chair of FlexJD Interests, Student Bar Association, Northeastern University School of Law, Class of 2029.</p>
           <p className="connectPositioning">I work across—and in between—science, law, technology, culture, and institutions. I connect the dots, reveal the gaps, and build what is missing.</p>
           <div className="connectActions" aria-label="Contact options">
             <a className="button" href="https://www.instagram.com/rn_collins/" target="_blank" rel="noreferrer">Instagram DM ↗</a>
@@ -41,13 +41,13 @@ export default function ConnectPage() {
         <div className="shell">
           <p><strong>University of Pennsylvania</strong><span>B.A. Psychology</span></p>
           <p><strong>Boston University</strong><span>M.S. Anatomy &amp; Neurobiology</span></p>
-          <p><strong>Northeastern Law</strong><span>J.D. Candidate, Class of 2029</span></p>
+          <p><strong>Northeastern Law</strong><span>Chair of FlexJD Interests, Student Bar Association, Class of 2029</span></p>
         </div>
       </section>
 
       <section className="connectSection shell">
         <div className="connectRoutes">
-          <Link href="/#work"><span className="eyebrow">Technology, systems, and case studies</span><h2>Built by RN</h2><p>See the platforms, tools, institutional proposals, experiments, and client-facing work already organized in RN Selected Works.</p><b>See what I have built →</b></Link>
+          <Link href="/#work"><span className="eyebrow">Technology, systems, and case studies</span><h2>Built by RN</h2><p>See the platforms, tools, institutional proposals, and experiments on this site. Private client work is not named. The link opens the work on this site.</p><b>See what I have built →</b></Link>
           <Link href="/writing"><span className="eyebrow">Editorial and published work</span><h2>Writing by RN</h2><p>Read RN’s reporting, analysis, and public scholarship across neuroscience, cannabis, law, technology, design, and institutions.</p><b>Read my work →</b></Link>
         </div>
       </section>
