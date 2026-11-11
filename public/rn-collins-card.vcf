@@ -2,10 +2,15 @@ BEGIN:VCARD
 VERSION:3.0
 N:Collins;RN;;;
 FN:RN Collins
-TITLE:Neuroscientist, anatomist and builder turned content creator
+TITLE:storytelling strategist, content and experiential producer, resident neuroscientist, design technologist and fractional law clerk
+item1.EMAIL;TYPE=INTERNET,WORK:rn@fatnugsmag.com
+item1.X-ABLabel:Psychoactive plant science media and Fat Nugs
+item2.EMAIL;TYPE=INTERNET,WORK:rncollins@antithesis.law
+item2.X-ABLabel:Law (RN Collins / Antithesis)
+item3.EMAIL;TYPE=INTERNET,WORK:collins.ra@northeastern.edu
+item3.X-ABLabel:Academic (Northeastern)
 URL;TYPE=WORK:https://rn-selected-work.vercel.app/links
 URL;TYPE=HOME:https://rn-selected-work.vercel.app/
-X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/rn-collins
 URL;TYPE=LinkedIn:https://www.linkedin.com/in/rn-collins
-NOTE:Links: rn-selected-work.vercel.app/links
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/rn-collins
 END:VCARD

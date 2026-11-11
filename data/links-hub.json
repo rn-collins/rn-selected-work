@@ -1,63 +1,36 @@
 {
- "note": "The /links page (RN's business card QR code and NFC, MJBizCon Dec 1, 2026). Edit this file, not the page. Platform accounts come from data/social-links.json, minus the ids listed in 'leaveOut'. An entry with \"confirm\": true is shown only once RN confirms it (set confirm to false). Email: the three addresses below are public by RN's decision (Nov 9, 2026), on /links and its vCard only. No phone numbers.",
- "title": "Storytelling strategist, content and experiential producer, resident neuroscientist and design technologist",
- "subtitle": "Neuroscientist, anatomist and builder turned content creator",
+ "note": "The /links page (RN's business card: QR code and NFC point to /links, the printed text is /l; MJBizCon Dec 1 to 4, 2026). Edit this file, not the page. Platform accounts come from data/social-links.json (X dropped and Threads paused for both brands, RN Nov 9), minus the ids in 'leaveOut'. Email: the three addresses below are public by RN's decision (Nov 9, 2026), on /links and its vCards only. No phone numbers. No place or real-time location anywhere, except the dated MJBizCon block RN chose (location-delay rule, Nov 11).",
+ "title": "neuroscientist, builder and content creator",
  "leaveOut": {
-  "rn": [
-   "x",
-   "website",
-   "linkedin"
-  ],
-  "aan": [
-   "website"
-  ]
+  "rn": ["website", "linkedin"],
+  "aan": ["website"]
  },
  "aan": {
-  "site": {
-   "label": "Ask a Neuroscientist",
-   "url": "https://askaneuroscientist.vercel.app/",
-   "note": "How plants, places and daily life act on the brain"
-  },
-  "sources": {
-   "label": "Every post's sources",
-   "url": "https://rn-selected-work.vercel.app/sources"
-  }
+  "site": { "label": "Ask a Neuroscientist", "url": "https://askaneuroscientist.vercel.app/" },
+  "tagline": "Your friendly neighborhood neuroscientist. How people, places, plants and ideas act on the brain."
  },
  "rn": {
-  "site": {
-   "label": "RN Selected Work",
-   "url": "https://rn-selected-work.vercel.app/",
-   "note": "Research, systems, builds and writing"
-  }
+  "site": { "label": "RN Selected Work", "url": "https://rn-selected-work.vercel.app/", "note": "Research, systems, builds and writing" }
  },
- "newsletter": {
-  "label": "The Polymath",
-  "url": "https://polymath-rn-collins.beehiiv.com/",
-  "note": "The newsletter for both brands. Subscribe on Beehiiv."
- },
- "linkedin": {
-  "label": "RN on LinkedIn",
-  "url": "https://www.linkedin.com/in/rn-collins",
-  "note": "The way to get in touch"
- },
- "workWithMe": {
-  "label": "Work with me",
-  "url": "/work-with-me",
-  "note": "Services and the DDW 2026 case study",
-  "confirm": true
- },
+ "sources": { "label": "Every source, both brands", "url": "https://rn-selected-work.vercel.app/sources", "note": "The research behind every post, by RN Collins and Ask a Neuroscientist" },
+ "newsletter": { "label": "The Polymath", "url": "https://polymath-rn-collins.beehiiv.com/", "note": "The newsletter. Subscribe on Beehiiv." },
+ "linkedin": { "label": "RN on LinkedIn", "url": "https://www.linkedin.com/in/rn-collins" },
+ "workWithMe": { "label": "Work with me", "url": "/work-with-me", "note": "Services and the DDW 2026 case study", "confirm": true },
  "email": [
+  { "label": "Psychoactive plant science media and Fat Nugs", "address": "rn@fatnugsmag.com" },
+  { "label": "Law (RN Collins / Antithesis)", "address": "rncollins@antithesis.law" },
+  { "label": "Academic (Northeastern)", "address": "collins.ra@northeastern.edu" }
+ ],
+ "dated": [
   {
-   "label": "Psychoactive plant science media and Fat Nugs",
-   "address": "rn@fatnugsmag.com"
-  },
-  {
-   "label": "Law (RN Collins / Antithesis)",
-   "address": "rncollins@antithesis.law"
-  },
-  {
-   "label": "Academic (Northeastern)",
-   "address": "collins.ra@northeastern.edu"
+   "from": "2026-12-01",
+   "to": "2026-12-04",
+   "heading": "Live from MJBizCon",
+   "note": "Photos and notes all day on Bluesky",
+   "links": [
+    { "label": "Ask a Neuroscientist on Bluesky", "handle": "@askaneuro.bsky.social", "url": "https://bsky.app/profile/askaneuro.bsky.social" },
+    { "label": "RN Collins on Bluesky", "handle": "@rncollins.bsky.social", "url": "https://bsky.app/profile/rncollins.bsky.social" }
+   ]
   }
  ]
 }

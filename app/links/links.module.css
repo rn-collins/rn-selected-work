@@ -1,72 +1,130 @@
-/* /links: one column, phone first, large tap targets, high contrast, system fonts (nothing to download). */
+/* /links: a specimen plate. One column, phone first, 44 px targets, AA contrast, no JavaScript needed.
+   Bodoni Moda and Outfit are the site's own faces (loaded by the root layout); system fallbacks keep it readable
+   on a slow or old phone before the fonts arrive. The one unusual move: museum-label leader lines on the chapters. */
 .page {
-  --ink: #1b1f1c;
-  --muted: #4d554f;
-  --paper: #f6f1e7;
-  --card: #fffdf8;
-  --line: #d9cfbb;
-  --accent: #1f5c55;
+  --ink: #17201b;
+  --muted: #4a544d;
+  --paper: #f4efe4;
+  --card: #fbf8f1;
+  --line: #d6ccb6;
+  --aan: #1f5c4a;
+  --rn: #17201b;
   max-width: 34rem;
   margin: 0 auto;
-  padding: 2rem 1.1rem 3rem;
+  padding: 2.25rem 1.15rem 3rem;
   color: var(--ink);
   background: var(--paper);
-  font: 1rem/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font: 1rem/1.5 Outfit, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   min-height: 100vh;
 }
-.head { margin-bottom: 1.75rem; }
-.name { margin: 0 0 .35rem; font-weight: 700; font-size: 1.05rem; letter-spacing: .01em; }
-.title { margin: 0; font-size: 1.32rem; line-height: 1.25; font-weight: 650; }
-.subtitle { margin: .5rem 0 0; color: var(--muted); }
+.head { padding-bottom: 1.6rem; border-bottom: 1px solid var(--ink); }
+.name {
+  margin: 0;
+  font: 500 clamp(3.1rem, 15vw, 4.6rem)/.92 "Bodoni Moda", "Didot", "Bodoni 72", Georgia, serif;
+  letter-spacing: -.035em;
+}
+.title { margin: .7rem 0 0; font-size: 1.12rem; color: var(--muted); }
 .save {
-  display: inline-block;
-  margin-top: 1rem;
+  display: inline-flex;
+  align-items: center;
+  margin-top: 1.1rem;
   min-height: 2.75rem;
-  padding: .7rem 1.1rem;
-  border-radius: .7rem;
-  background: var(--accent);
-  color: #fff;
-  font-weight: 650;
-  text-decoration: none;
-}
-.save:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
-.page section { margin-top: 1.6rem; }
-.page h2 {
-  margin: 0 0 .6rem;
-  font-size: .8rem;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
-.list { list-style: none; margin: 0; padding: 0; display: grid; gap: .6rem; }
-.big {
-  display: block;
-  min-height: 3.25rem;
-  padding: .8rem 1rem;
-  border: 1px solid var(--line);
-  border-radius: .7rem;
-  background: var(--card);
-  color: var(--ink);
-  text-decoration: none;
-}
-.big:hover { border-color: var(--accent); }
-.big:focus-visible, .platforms a:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
-.label { display: block; font-weight: 650; }
-.note { display: block; margin-top: .15rem; font-size: .9rem; color: var(--muted); }
-.platforms { list-style: none; margin: .7rem 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: .45rem; }
-.platforms a {
-  display: inline-block;
-  min-height: 2.75rem;
-  padding: .6rem .8rem;
-  border: 1px solid var(--line);
+  padding: 0 1.15rem;
+  border: 1px solid var(--ink);
   border-radius: 999px;
   color: var(--ink);
+  font-weight: 500;
   text-decoration: none;
-  font-size: .92rem;
 }
-.handle { color: var(--muted); }
-.foot { margin-top: 2.25rem; font-size: .85rem; color: var(--muted); }
+.chapter, .live { margin-top: 2rem; }
+.chapter h2, .live h2 {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  margin: 0 0 .5rem;
+  font-size: .78rem;
+  font-weight: 600;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+/* The museum-label leader: a hairline that points at the chapter name. */
+.leader { flex: 0 0 2.4rem; height: 1px; background: currentColor; position: relative; }
+.leader::after {
+  content: "";
+  position: absolute;
+  right: -3px;
+  top: -2px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: currentColor;
+}
+.aanHead { color: var(--aan); }
+.tagline {
+  margin: 0 0 .8rem;
+  font: italic 400 1.28rem/1.3 "Bodoni Moda", Georgia, serif;
+  color: var(--aan);
+}
+.list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.list li { border-bottom: 1px solid var(--line); }
+.row, .primary {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  column-gap: .75rem;
+  align-items: center;
+  min-height: 3.25rem;
+  padding: .75rem .1rem;
+  color: var(--ink);
+  text-decoration: none;
+}
+.primary {
+  margin: .7rem 0;
+  padding: .9rem 1.1rem;
+  border-radius: .6rem;
+  background: var(--rn);
+  color: var(--paper);
+}
+.label { grid-column: 1; font-weight: 500; }
+.note { grid-column: 1; font-size: .9rem; color: var(--muted); }
+.primary .note { color: inherit; opacity: .8; }
+.arrow { grid-column: 2; grid-row: 1 / span 2; font-size: 1.1rem; }
+.row:hover .label { text-decoration: underline; text-underline-offset: .2em; }
+.row:focus-visible, .primary:focus-visible, .save:focus-visible, .platforms a:focus-visible {
+  outline: 3px solid var(--aan);
+  outline-offset: 3px;
+}
+.live {
+  padding: 1rem 1rem .4rem;
+  border: 1px solid var(--aan);
+  border-radius: .6rem;
+  background: var(--card);
+}
+.live h2 { color: var(--aan); }
+.live .list { border-top: 0; }
+.live .list li:last-child { border-bottom: 0; }
+.platforms { list-style: none; margin: .8rem 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: .1rem .9rem; }
+.platforms a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  color: var(--ink);
+  font-size: .92rem;
+  text-decoration: underline;
+  text-decoration-color: var(--line);
+  text-underline-offset: .25em;
+}
+.handle { margin-left: .3em; color: var(--muted); }
+.visuallyHidden {
+  position: absolute !important;
+  width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden;
+  clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+.foot { margin-top: 2.5rem; font-size: .85rem; color: var(--muted); }
+/* Motion as an extra only: arrows ease forward on hover, and nothing moves for readers who ask for less motion. */
+@media (prefers-reduced-motion: no-preference) {
+  .arrow { transition: transform .2s ease; }
+  .row:hover .arrow, .primary:hover .arrow { transform: translateX(4px); }
+}
 @media (prefers-color-scheme: dark) {
-  .page { --ink: #eef0ec; --muted: #b6bdb6; --paper: #141816; --card: #1c211e; --line: #39413b; --accent: #7cc4b8; }
-  .save { color: #141816; }
+  .page { --ink: #eef0ea; --muted: #b5beb6; --paper: #121714; --card: #1a201c; --line: #333b35; --aan: #8fd0b8; --rn: #eef0ea; }
 }
