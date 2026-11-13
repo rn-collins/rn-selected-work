@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
+import moved from "../../../data/aan-sources-redirects.json";
 import { CanonicalPage } from "../../../components/canonical-page";
 import { PieceLinks } from "../../../components/piece-links";
 import { longDate, postedSoFar, releasedSourcePost } from "../../../lib/aan-sources";
@@ -10,6 +11,15 @@ import { SourcesDetail, entryCount } from "../../../components/sources-detail";
 // Only released posts (data/releases.json) are built. Any other address returns 404 until the post's release day;
 // pages are rechecked hourly, and the daily cron (app/api/release-day) refreshes them all.
 export const dynamicParams = true;
+
+// Old sources addresses (date-based, printed on slides and kits) that moved to ID-based ones (AaN +10 shift, Nov 13,
+// 2026). data/aan-sources-redirects.json is {old: new}, written by the sync from the studio's sources_slugs.json
+// "redirects" map. An old address answers with a permanent (308) redirect, so nothing printed ever 404s.
+const MOVED = moved as Record<string, string>;
+function redirectIfMoved(slug: string) {
+  const to = MOVED[slug];
+  if (to && to !== slug) permanentRedirect(`/sources/${to}`);
+}
 export const revalidate = 3600;
 
 export function generateStaticParams() {
@@ -17,8 +27,12 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
-  const p = releasedSourcePost((await params).slug);
-  if (!p) notFound();
+  const slug = (await params).slug;
+  const p = releasedSourcePost(slug);
+  if (!p) {
+    redirectIfMoved(slug);
+    notFound();
+  }
   return {
     title: `Sources: ${p.title}`,
     description: `Every study, record and image behind the Ask a Neuroscientist post of ${longDate(p.date)}, "${p.title}", linked to the original.`,
@@ -29,8 +43,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 }
 
 export default async function SourcePage({ params }: { params: Promise<{ slug: string }> }) {
-  const p = releasedSourcePost((await params).slug);
-  if (!p) notFound();
+  const slug = (await params).slug;
+  const p = releasedSourcePost(slug);
+  if (!p) {
+    redirectIfMoved(slug);
+    notFound();
+  }
   const order = postedSoFar();
   const at = order.findIndex((q) => q.slug === p.slug);
   const ref = (q?: { slug: string; title: string }) => q && { href: `/sources/${q.slug}`, title: q.title };
