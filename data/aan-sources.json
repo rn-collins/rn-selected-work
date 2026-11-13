@@ -2518,7 +2518,7 @@
    ]
   },
   {
-   "slug": "nov-26",
+   "slug": "27",
    "date": "2026-11-26",
    "id": "27",
    "title": "Zachtzicht by Natrufied Architecture (HUB Bouw aan Morgen)",
@@ -3024,7 +3024,7 @@
    ]
   },
   {
-   "slug": "dec-01",
+   "slug": "mj01",
    "date": "2026-12-01",
    "id": "MJ01",
    "title": "Your body's own cannabinoids: CB1, CB2, anandamide and 2-AG",
@@ -3053,10 +3053,6 @@
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6713262"
     },
     {
-     "label": "Xing, C., Zhuang, Y., Xu, T. H., et al. (2020). Cryo-EM structure of the human cannabinoid receptor CB2-Gi signaling complex. Cell, 180, 645. RCSB PDB entry 6PT0.",
-     "url": "https://www.rcsb.org/structure/6PT0"
-    },
-    {
      "label": "Krishna Kumar, K., Robertson, M. J., Thadhani, E., et al., Makriyannis, A., Skiniotis, G., & Kobilka, B. (2023). Structural basis for activation of CB1 by an endocannabinoid analog. Nature Communications, 14. doi 10.1038/s41467-023-37864-4. RCSB PDB entry 8GHV; PMC full text.",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10169858"
     },
@@ -3077,6 +3073,10 @@
      "url": "https://rcsb.org/pages/policies"
     },
     {
+     "label": "ChEBI, anandamide (CHEBI:2700), EMBL-EBI.",
+     "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:2700"
+    },
+    {
      "label": "Northeastern University, Bouvé College, profile of Alexandros Makriyannis; Center for Drug Discovery director page.",
      "url": "https://bouve.northeastern.edu/?p=5922"
     }
@@ -3085,16 +3085,16 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Assembly image of PDB 6PT0: cryo-EM structure of the human CB2 receptor coupled to a Gi protein, bound to the synthetic agonist WIN 55,212-2",
-     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 6PT0 (Xing et al., 2020, Cell), CC BY 4.0",
-     "url": "https://www.rcsb.org/structure/6PT0",
+     "what": "Krishna Kumar et al. (2023), Fig. 1a, the endocannabinoid panel: the structures of anandamide and 2-AG, the two body-made cannabinoids the paper tested on CB1",
+     "credit": "Krishna Kumar et al. (2023), Nature Communications, cropped from Fig. 1a, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s41467-023-37864-4",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Single-chain image of PDB 5U09: the human CB1 receptor from the first high-resolution CB1 crystal structure, bound to the inhibitor taranabant",
-     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 5U09 (Shao et al., 2016, Nature), CC BY 4.0",
-     "url": "https://www.rcsb.org/structure/5U09",
+     "what": "Single-chain image of PDB 8GHV, chain D: the human CB1 cannabinoid receptor on its own, from the 2023 structure with an anandamide analog",
+     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 8GHV, chain D (Krishna Kumar et al., 2023, Nature Communications), CC BY 4.0",
+     "url": "https://www.rcsb.org/structure/8GHV",
      "card": false
     },
     {
@@ -3120,9 +3120,9 @@
     },
     {
      "where": "Slide 6",
-     "what": "Assembly image of PDB 8GHV: the human CB1 cannabinoid receptor coupled to a Gi protein and bound to AMG315, a stable lab-made analog of anandamide",
-     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 8GHV (Krishna Kumar et al., 2023, Nature Communications), CC BY 4.0",
-     "url": "https://www.rcsb.org/structure/8GHV",
+     "what": "Krishna Kumar et al. (2023), Fig. 2c: the AMG315 binding pocket in CB1, the stable lab-made look-alike of anandamide (cyan) among the receptor's helices TM1 to TM7",
+     "credit": "Krishna Kumar et al. (2023), Nature Communications, cropped from Fig. 2c, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s41467-023-37864-4",
      "card": false
     },
     {
@@ -3134,9 +3134,9 @@
     },
     {
      "where": "Story 1",
-     "what": "PubChem, Anandamide (CID 5281969)",
-     "credit": "NCBI PubChem, compound 5281969 (public domain)",
-     "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5281969",
+     "what": "ChEBI, anandamide (CHEBI:2700), 2D structure depiction from EMBL-EBI's database of chemical entities",
+     "credit": "ChEBI (EMBL-EBI), CHEBI:2700 anandamide, CC BY 4.0",
+     "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:2700",
      "card": false
     },
     {
@@ -3156,7 +3156,7 @@
    ]
   },
   {
-   "slug": "dec-02",
+   "slug": "mj02",
    "date": "2026-12-02",
    "id": "MJ02",
    "title": "Noise, choices and long days standing: what a big trade show floor asks of the brain and body",
@@ -3289,7 +3289,7 @@
    ]
   },
   {
-   "slug": "dec-03",
+   "slug": "mj03",
    "date": "2026-12-03",
    "id": "MJ03",
    "title": "CBD as a medicine: what the trials show, and what is still unproven",
@@ -3324,6 +3324,10 @@
    ],
    "other": [
     {
+     "label": "National Library of Medicine, DailyMed: the same FDA prescribing information (SPL version 35, revised 5/2026) as a PDF.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8bf27097-4870-43fb-94f0-f3d0871d1eec"
+    },
+    {
      "label": "U.S. Food and Drug Administration (Jan 26, 2023). FDA concludes that existing regulatory frameworks for foods and supplements are not appropriate for cannabidiol, will work with Congress on a new way forward. Statement by Janet Woodcock.",
      "url": "https://www.fda.gov/news-events/press-announcements/fda-concludes-existing-regulatory-frameworks-foods-and-supplements-are-not-appropriate-cannabidiol"
     },
@@ -3334,14 +3338,18 @@
     {
      "label": "National Center for Complementary and Integrative Health (NIH). Cannabis (Marijuana) and Cannabinoids: What You Need To Know",
      "url": "https://nccih.nih.gov/health/marijuana"
+    },
+    {
+     "label": "iNaturalist observation 24482352, Cannabis sativa, Kansas, US (research grade), photo by Ryan Donnelly, CC BY 4.0.",
+     "url": "https://www.inaturalist.org/observations/24482352"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "RCSB PDB Chemical Component Dictionary entry P0T, cannabidiol: the 2D drawing of CBD as it sits in the deposited structures (8G1A, 6U88), rasterized from the RCSB SVG unchanged",
-     "credit": "Image from the RCSB PDB (RCSB.org), Chemical Component P0T (cannabidiol), CC BY 4.0",
-     "url": "https://www.rcsb.org/ligand/P0T",
+     "what": "FDA prescribing information for the prescription cannabidiol oral solution, Highlights (revised 5/2026): \"(cannabidiol) oral solution\", \"Initial U.S. Approval: 2018\", and the indication \"is indicated for the treatment of seizures associated with Lennox-Gastaut syndrome, Dravet syndrome, or tuberous sclerosis complex in patients 1 year of age and older (1)\"; the brand name before each passage is left out",
+     "credit": "FDA prescribing information, NDA 210365 (revised 5/2026), Highlights, via DailyMed (NLM); public domain; brand name left out",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8bf27097-4870-43fb-94f0-f3d0871d1eec",
      "card": false
     },
     {
@@ -3374,9 +3382,9 @@
     },
     {
      "where": "Slide 6",
-     "what": "Cryo-EM structure of the Nav1.7 sodium channel with cannabidiol bound at two sites, PDB 8G1A, biological assembly image",
-     "credit": "Image from the RCSB PDB (RCSB.org) of PDB ID 8G1A (Huang et al., 2023, Nature Communications), CC BY 4.0",
-     "url": "https://rcsb.org/structure/8G1A",
+     "what": "FDA prescribing information (revised 5/2026), section 12.1 Mechanism of Action: \"Cannabidiol does not appear to exert its anticonvulsant effects through interaction with cannabinoid receptors.\" (the sentence before it names the brand, so it is left out)",
+     "credit": "FDA prescribing information, NDA 210365 (revised 5/2026), section 12.1, via DailyMed (NLM); public domain",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8bf27097-4870-43fb-94f0-f3d0871d1eec",
      "card": false
     },
     {
@@ -3402,15 +3410,15 @@
     },
     {
      "where": "Story 3",
-     "what": "Bar chart drawn to scale, values labelled: seizure-free on the trial: CBD 5%, placebo 0%, Dravet trial, 120 patients (Devinsky et al., 2017)",
-     "credit": "Devinsky et al. (2017), NEJM 376:2011-2020",
+     "what": "Bar chart drawn to scale, values labelled: seizure-free on the trial: CBD 5%, placebo 0%, Dravet trial, 120 patients, with the note \"Not a statistically clear difference (P = 0.08)\" (Devinsky et al., 2017)",
+     "credit": "Chart: Ask a Neuroscientist, from Devinsky et al. 2017 data (NEJM 376:2011-2020)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/28538134/",
      "card": false
     }
    ]
   },
   {
-   "slug": "dec-04",
+   "slug": "mj04",
    "date": "2026-12-04",
    "id": "MJ04",
    "title": "Lemon, lavender, pine: terpenes, the nose, and scent claims that outrun the evidence",
@@ -3551,7 +3559,7 @@
    ]
   },
   {
-   "slug": "dec-05",
+   "slug": "mj05",
    "date": "2026-12-05",
    "id": "MJ05",
    "title": "What cannabis science still does not know: the 2017 National Academies evidence grades",
@@ -3567,14 +3575,6 @@
     {
      "label": "National Academies of Sciences, Engineering, and Medicine (2017). The Health Effects of Cannabis and Cannabinoids: The Current State of Evidence and Recommendations for Research. Washington, DC: The National Academies Press. doi 10.17226/24625. NCBI Bookshelf copy (PDF).",
      "url": "https://www.ncbi.nlm.nih.gov/books/NBK423845/pdf/Bookshelf_NBK423845.pdf"
-    },
-    {
-     "label": "RCSB PDB entries 8GUT (Li et al., 2023), 8WU1 (Liao et al., 2023), 7WV9 and 7FEE (Yang et al., 2022), 8K8J (Wang et al., 2024), 6KPC (Hua et al., 2020).",
-     "url": "https://www.rcsb.org/structure/8GUT"
-    },
-    {
-     "label": "RCSB PDB, Policies (licensing and attribution).",
-     "url": "https://rcsb.org/pages/policies"
     },
     {
      "label": "DEA Office of Administrative Law Judges (2026). Order Staying Case and Ordering Response to Motion, DEA Docket No. 1362, Sep 29, 2026.",
@@ -3882,7 +3882,7 @@
    ]
   },
   {
-   "slug": "dec-08",
+   "slug": "fn12",
    "date": "2026-12-08",
    "id": "FN12",
    "title": "Cannabis and Grief: what grief does in the brain and body",
@@ -3928,16 +3928,16 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Bar chart drawn to scale, values labelled: people analysed in each of the four studies: 2008 brain scans 23, 2018 brain scans 25, 2019 blood test 99, 2021 blood tests 64",
-     "credit": "O'Connor et al. (2008); McConnell et al. (2018); Fagundes et al. (2019); Kang et al. (2021)",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2553561/",
+     "what": "Kang et al. (2021), Figure 1, whole: serum anandamide (A) and 2-AG (B) in adults who were not bereaved, grievers with low loneliness and grievers with high loneliness; anandamide highest in the last group (starred against the first), 2-AG alike across groups",
+     "credit": "Kang et al. (2021), Fig. 1, CC BY",
+     "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.783187/full",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Bar chart drawn to scale, values labelled: the 2008 scan group: 11 women with complicated grief, 12 with other grief; mean age 43.7",
-     "credit": "O'Connor et al. (2008), NeuroImage (values read in full, Oct 30, 2026)",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2553561/",
+     "what": "Matthew Lieberman, photo TEDx StLouis / Flickr",
+     "credit": "Photo: TEDx StLouis, Flickr, CC BY 2.0",
+     "url": "https://www.flickr.com/photos/56224437@N07/9905411765/",
      "card": false
     },
     {
@@ -4278,7 +4278,7 @@
     {
      "where": "Slide 6",
      "what": "Phygital Seasoning's tasting table at DDW 2025, photo Almicheal Fraay / Dutch Design Week",
-     "credit": "Photo: Almicheal Fraay / Dutch Design Week",
+     "credit": "Photo: Almicheal Fraay / Dutch Design Week (DDW 2025 showing)",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54868300302",
      "card": false
     },
@@ -4482,9 +4482,9 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Stefanie Gillmeier with Anjali Radhakrishnan Jayakumari and team, TU/e atmospheric boundary layer wind tunnel, test section with roughness blocks and probe, photograph, ERIES database (2025)",
-     "credit": "Gillmeier S, Radhakrishnan Jayakumari A, Hristov P, Pentusheva M, Mitkov R (2025), ERIES database, 4TU.ResearchData (CC BY 4.0)",
-     "url": "https://doi.org/10.4121/e7f87f46-1d17-43ed-be81-60bee65081bf",
+     "what": "A green-lit plume over a scale city model, image TU/e (DDW press kit)",
+     "credit": "Image: TU/e, Dutch Design Week press kit",
+     "url": "https://ddw.nl/en/programme/making-the-invisible-visible-designing-healthier-air-in-cities",
      "card": false
     },
     {
@@ -4496,14 +4496,14 @@
     },
     {
      "where": "Slide 3",
-     "what": "Stefanie Gillmeier with Anjali Radhakrishnan Jayakumari and team, scale model of central Sofia in the TU/e wind tunnel with a gas sampling probe, photograph, ERIES database (2025)",
+     "what": "Stefanie Gillmeier with Anjali Radhakrishnan Jayakumari and team, TU/e atmospheric boundary layer wind tunnel, test section with roughness blocks and probe, photograph, ERIES database (2025)",
      "credit": "Gillmeier S, Radhakrishnan Jayakumari A, Hristov P, Pentusheva M, Mitkov R (2025), ERIES database, 4TU.ResearchData (CC BY 4.0)",
      "url": "https://doi.org/10.4121/e7f87f46-1d17-43ed-be81-60bee65081bf",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Stefanie Gillmeier with Anjali Radhakrishnan Jayakumari and team, map of the 76 measurement points on the Sofia model, wind from west-northwest, ERIES database (2025)",
+     "what": "Stefanie Gillmeier with Anjali Radhakrishnan Jayakumari and team, 1:350 scale model of central Sofia, photograph, ERIES database (2025)",
      "credit": "Gillmeier S, Radhakrishnan Jayakumari A, Hristov P, Pentusheva M, Mitkov R (2025), ERIES database, 4TU.ResearchData (CC BY 4.0)",
      "url": "https://doi.org/10.4121/e7f87f46-1d17-43ed-be81-60bee65081bf",
      "card": false
@@ -4531,15 +4531,15 @@
     },
     {
      "where": "Story 2",
-     "what": "Stefanie Gillmeier with Anjali Radhakrishnan Jayakumari and team, 1:350 scale model of central Sofia, photograph, ERIES database (2025)",
-     "credit": "Gillmeier S, Radhakrishnan Jayakumari A, Hristov P, Pentusheva M, Mitkov R (2025), ERIES database, 4TU.ResearchData (CC BY 4.0)",
+     "what": "Bar chart drawn to scale, values labelled: conditions tested to check the pattern held, up to 8 wind speeds and 5 gas release rates (Gillmeier et al., 2025, ERIES database)",
+     "credit": "Chart: AaN, from Gillmeier et al. (2025), ERIES database data",
      "url": "https://doi.org/10.4121/e7f87f46-1d17-43ed-be81-60bee65081bf",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Bar chart drawn to scale, values labelled: significant cognitive outcomes among those meta-analysed: PM2.5 10 of 11, NO2 and NOx 5 of 10 (Glover et al., 2026)",
-     "credit": "Glover et al. (2026), Age and Ageing 55(7):afag215",
+     "what": "Bar chart drawn to scale, values labelled: significant meta-analysed cognitive outcomes per exposure, PM2.5 10 of 11, NO2 and NOx 5 of 10, social relationships 5 of 8, green and blue spaces 3 of 6 (Glover et al., 2026)",
+     "credit": "Chart: Ask a Neuroscientist, from Glover et al. (2026) data",
      "url": "https://doi.org/10.1093/ageing/afag215",
      "card": false
     }
@@ -4664,18 +4664,13 @@
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5153451/"
     }
    ],
-   "other": [
-    {
-     "label": "Image records: The Met, Cleveland Museum of Art Open Access, RCSB PDB",
-     "url": "https://www.metmuseum.org/art/collection/search/337782"
-    }
-   ],
+   "other": [],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Colonies of Mycobacterium vaccae growing on a blood agar plate (Congedo et al. 2020, Fig. 2), the soil bacterium the claim is about",
-     "credit": "Congedo et al. (2020), Access Microbiology 2, doi 10.1099/acmi.0.000161, CC BY",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7660240/",
+     "what": "Lowry et al. (2007), Figure 2: panel c: dorsal raphe serotonergic neurons after killed M. vaccae or an ovalbumin challenge, each beside its vehicle control; black arrows mark activated neurons (cropped)",
+     "credit": "Lowry et al. (2007), Neuroscience 146(2):756-772, cropped from Fig. 2, CC BY 3.0",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1868963/",
      "card": false
     },
     {
@@ -4891,23 +4886,23 @@
      "url": "https://www.ecfr.gov/current/title-40/part-268/section-268.3"
     },
     {
-     "label": "Image records: The Met Collection API and Cleveland Museum of Art Open Access",
-     "url": "https://www.metmuseum.org/art/collection/search/436524"
+     "label": "Image records: Baltimore Heritage on Flickr (Eli Pousson, CC0); iNaturalist observations (CC0); UC Santa Barbara Herbarium via GBIF (CC0); US EPA report and govinfo CFR (public domain)",
+     "url": "https://www.flickr.com/photos/44034762@N04/50413843837"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Photograph of a common sunflower (Helianthus annuus) growing from bare sandy soil, Doña Ana County, New Mexico, Sep 17, 2017",
-     "credit": "Photo: iNaturalist observation 7973655, CC0",
-     "url": "https://www.inaturalist.org/observations/7973655",
+     "what": "EPA, Introduction to Phytoremediation (2000), Appendix B Phytoremediation Database: the Chernobyl - Ukraine row, radionuclides in soil, groundwater and water, with sunflowers and Indian mustard (table title and column heads joined above the row; the Size of Area and Date Planted columns, empty for this row, left out)",
+     "credit": "US EPA, Introduction to Phytoremediation, EPA/600/R-99/107 (2000), National Risk Management Research Laboratory (public domain)",
+     "url": "https://clu-in.org/download/remed/introphyto.pdf",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "EPA, Introduction to Phytoremediation (2000), section 2.1.1.2 Extraction: planting a crop that accumulates contaminants, harvesting it and removing the contaminant from the site (document page, cropped)",
-     "credit": "US EPA, Introduction to Phytoremediation, EPA/600/R-99/107 (2000), National Risk Management Research Laboratory (public domain)",
-     "url": "https://clu-in.org/download/remed/introphyto.pdf",
+     "what": "Sunflower phytoremediation project sign, photo Eli Pousson / Baltimore Heritage",
+     "credit": "Photo: Eli Pousson / Baltimore Heritage (Flickr, CC0)",
+     "url": "https://www.flickr.com/photos/44034762@N04/50413843837",
      "card": false
     },
     {
@@ -5134,14 +5129,18 @@
     {
      "label": "Santangeli, L., Lantheaume, S., Eve, K., & Leclercq, R. (2021). Environnement lumineux et anxiété des patients en service d'IRM. Psychologie française, 66(1), 41-54 (HAL accepted manuscript, CC BY-NC 4.0).",
      "url": "https://univ-grenoble-alpes.hal.science/hal-03197982"
+    },
+    {
+     "label": "DDW Flickr, album 2026 | Area51 (72177720336299610), frames 55609436550, 55609162508, 55609030511 and 55609162533 by Nick Bookelaar (opened Nov 13, 2026)",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/72177720336299610"
     }
    ],
    "images": [
     {
      "where": "Slide 1",
-     "what": "Philips Design's own key image for Soul & Science (press kit of the Philips Museum listing, programme 2121): line drawing of the Philips Museum and factory chimney with the title",
-     "credit": "Image: Philips Design (DDW press kit)",
-     "url": "https://app-api.ddw.nl/programme/2121/press-kit.zip",
+     "what": "Care Felt at Area51, photo Nick Bookelaar / Dutch Design Week",
+     "credit": "Photo: Nick Bookelaar / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55609436550",
      "card": false
     },
     {
@@ -5153,9 +5152,9 @@
     },
     {
      "where": "Slide 3",
-     "what": "Press-kit photograph 'Care felt: At Area51' (programme 2122): the Area51 building at Strijp-S, the former Philips factory hall whose basement held the installation (the kit names no photographer)",
-     "credit": "Photo: DDW press kit, 'Care felt: At Area51' (no photographer named)",
-     "url": "https://app-api.ddw.nl/programme/2122/press-kit.zip",
+     "what": "Care Felt in the Area51 basement, photo Nick Bookelaar / Dutch Design Week",
+     "credit": "Photo: Nick Bookelaar / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55609162508",
      "card": false
     },
     {
@@ -5195,9 +5194,9 @@
     },
     {
      "where": "Story 2",
-     "what": "Crop of the DDW listing's location card: Exhibition, Area 51, Ketelhuisplein 18, 5617AE, Strijp-S (screenshot Nov 7, 2026)",
-     "credit": "Text: DDW programme page, Philips Design. Soul & Science (archived DDW26 listing)",
-     "url": "https://app-api.ddw.nl/en/programme/archive/2026/philips-design-soul-amp-science",
+     "what": "A curved red screen over the drum screen, photo Nick Bookelaar / Dutch Design Week",
+     "credit": "Photo: Nick Bookelaar / Dutch Design Week",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55609436550",
      "card": false
     },
     {
@@ -5210,7 +5209,7 @@
    ]
   },
   {
-   "slug": "feb-18-2028",
+   "slug": "kb08",
    "date": "2026-12-21",
    "id": "KB08",
    "title": "Plants keep time by the dark",
@@ -5748,7 +5747,7 @@
    ]
   },
   {
-   "slug": "dec-25",
+   "slug": "55",
    "date": "2026-12-25",
    "id": "55",
    "title": "The Smelling Brain",
@@ -6667,7 +6666,7 @@
    ]
   },
   {
-   "slug": "jan-01",
+   "slug": "69",
    "date": "2027-01-01",
    "id": "69",
    "title": "The Reward Feedback Loop Engine: You May Also Like",
@@ -8726,7 +8725,7 @@
    ]
   },
   {
-   "slug": "jan-18-ht19",
+   "slug": "ht19",
    "date": "2027-01-18",
    "id": "HT19",
    "title": "'Two strikes': racism, allostatic load and the aging brain",
@@ -8741,6 +8740,10 @@
     {
      "label": "Pierce RM, Scambray KA, Palms JD, et al. (2026), Do white matter hyperintensities account for the relationship between discrimination and memory?, Alzheimer's and Dementia 22(5):e71461, doi 10.1002/alz.71461 (full text read Oct 14, 2026, Europe PMC PMC13239163, CC BY-NC-ND; PubMed 42204867)",
      "url": "https://doi.org/10.1002/alz.71461"
+    },
+    {
+     "label": "Dark HE, Huang A, Cordon J, et al. (2023), The association of perceived discrimination with dementia risk in Black older adults, Alzheimer's and Dementia 19(10):4346-4356, doi 10.1002/alz.13135 (full text read Nov 13, 2026 by the long forms team, PMC10734390, author manuscript)",
+     "url": "https://doi.org/10.1002/alz.13135"
     }
    ],
    "other": [],
@@ -8855,6 +8858,14 @@
     {
      "label": "O'Donnell, M., Dev, A. S., Antonoplis, S., et al. (2021). Empirical audit and review and an assessment of evidentiary value in research on the psychological consequences of scarcity. PNAS. doi:10.1073/pnas.2103313118 (CC BY-NC-ND 4.0)",
      "url": "https://knowledge.uchicago.edu/records/wjkb3-wmp71"
+    },
+    {
+     "label": "Shah, A. K., Zhao, J., Mullainathan, S., & Shafir, E. (2023). A scarcity literature mischaracterized with an empirical audit. PNAS, 120(26), e2206054120 (full text read Nov 13, 2026, PMC10293841)",
+     "url": "https://doi.org/10.1073/pnas.2206054120"
+    },
+    {
+     "label": "Lynch, J. G., Fernbach, P. M., & Kan, C. (2023). Auditing the value of empirical audits. PNAS, 120(26), e2213200120 (full text read Nov 13, 2026, PMC10293816)",
+     "url": "https://doi.org/10.1073/pnas.2213200120"
     },
     {
      "label": "Kalia, V., Vishwanath, K., Knauft, K., Vellen, B. V. D., Luebbe, A., & Williams, A. (2018). Acute stress attenuates cognitive flexibility in males only: An fNIRS examination. Frontiers in Psychology, 9, 2084. doi:10.3389/fpsyg.2018.02084 (CC BY)",
@@ -9405,7 +9416,7 @@
    ]
   },
   {
-   "slug": "jan-24-kd03",
+   "slug": "kd03",
    "date": "2027-01-24",
    "id": "KD03",
    "title": "When AI does the homework, does the learning still happen?",
@@ -9653,6 +9664,10 @@
     {
      "label": "Eriksson, M. (2022). The Sense of Coherence: The Concept and Its Relationship to Health. In M. B. Mittelmark et al. (eds), The Handbook of Salutogenesis, 2nd ed. (pp. 61 to 68). Springer. doi:10.1007/978-3-030-79515-3_9",
      "url": "https://link.springer.com/chapter/10.1007/978-3-030-79515-3_9"
+    },
+    {
+     "label": "Eriksson, M., & Lindström, B. (2006). Antonovsky's sense of coherence scale and the relation with health: a systematic review. Journal of Epidemiology and Community Health, 60(5), 376-381. doi:10.1136/jech.2005.041616 (read in full Nov 13, 2026 by long forms B, PMC2563977)",
+     "url": "https://doi.org/10.1136/jech.2005.041616"
     },
     {
      "label": "Mittelmark, M. B., & Bauer, G. F. (2022). Salutogenesis as a Theory, as an Orientation and as the Sense of Coherence. The Handbook of Salutogenesis, ch. 3. Springer.",
@@ -9927,6 +9942,14 @@
     {
      "label": "Burklund et al. (2014), Frontiers in Psychology, PDF",
      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00221/pdf"
+    },
+    {
+     "label": "Nook, E. C., Satpute, A. B., & Ochsner, K. N. (2021). Emotion naming impedes both cognitive reappraisal and mindful acceptance strategies of emotion regulation. Affective Science, 2(2), 187-198 (full text read Nov 13, 2026, Europe PMC PMC9383041)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9383041/"
+    },
+    {
+     "label": "Ariely, Mokady, Reggev & Anholt (2026). Affect labeling and reappraisal as an emotion regulation strategy. Affective Science, 7(2), 282-292, a replication of Nook et al. (full text read Nov 13, 2026, Europe PMC PMC13269579)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13269579/"
     }
    ],
    "other": [
@@ -10043,12 +10066,20 @@
     {
      "label": "Alvarsson, Wiens and Nilsson (2010), IJERPH, full text (MDPI), CC BY 3.0",
      "url": "https://www.mdpi.com/1660-4601/7/3/1036"
+    },
+    {
+     "label": "Hedblom, M., Gunnarsson, B., Schaefer, M., Knez, I., Thorsson, P., & Lundström, J. N. (2019). Sounds of nature in the city: No evidence of bird song improving stress recovery. IJERPH, 16(8), 1390 (full text read Nov 13, 2026, Europe PMC PMC6518283, CC BY)",
+     "url": "https://doi.org/10.3390/ijerph16081390"
     }
    ],
    "other": [
     {
      "label": "West, Melvin, McNamara and Gordon (2017), Australian Occupational Therapy Journal 64(3):253-263 (abstract only; full text embargoed, no legal open copy; cited only as Perers et al. 2022 and Baker et al. 2022 report it)",
      "url": "https://deakin.figshare.com/articles/journal_contribution/An_evaluation_of_the_use_and_efficacy_of_a_sensory_room_within_an_adolescent_psychiatric_inpatient_unit/20765653"
+    },
+    {
+     "label": "NIOH NIOH (2026). Projektowe Safari na Wesołej (Polish), maker project account (read in full Nov 13, 2026 per the long-form research log)",
+     "url": "https://niohnioh.com/projektowe-safari-na-wesolej/"
     }
    ],
    "images": [
@@ -10158,6 +10189,10 @@
     {
      "label": "Seile, Spurina and Sinka (2022), Reducing Global Warming Potential Impact of Bio-Based Composites Based of LCA, Fibers 10(9): 79, CC BY",
      "url": "https://www.mdpi.com/2079-6439/10/9/79"
+    },
+    {
+     "label": "Rivas-Aybar, D., John, M., & Biswas, W. (2023). Environmental life cycle assessment of a novel hemp-based building material. Materials, 16(22), 7208 (full text read Nov 13, 2026, Europe PMC PMC10672900, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/ma16227208"
     }
    ],
    "other": [
@@ -11416,7 +11451,7 @@
    ]
   },
   {
-   "slug": "feb-11",
+   "slug": "aanpm43",
    "date": "2027-02-11",
    "id": "AANPM43",
    "title": "Recognition before credentials: what science identity research shows",
@@ -11739,7 +11774,7 @@
    ]
   },
   {
-   "slug": "dec-07",
+   "slug": "105",
    "date": "2027-02-14",
    "id": "105",
    "title": "Proximate Intimacies",
@@ -13620,7 +13655,7 @@
    ]
   },
   {
-   "slug": "mar-03",
+   "slug": "114",
    "date": "2027-03-03",
    "id": "114",
    "title": "Design by Resonance",
@@ -14408,7 +14443,7 @@
    ]
   },
   {
-   "slug": "mar-10",
+   "slug": "14",
    "date": "2027-03-10",
    "id": "14",
    "title": "On Touch",
@@ -14758,7 +14793,7 @@
    ]
   },
   {
-   "slug": "mar-13",
+   "slug": "106",
    "date": "2027-03-13",
    "id": "106",
    "title": "Bar Mycelium",
@@ -14897,7 +14932,7 @@
    ]
   },
   {
-   "slug": "nov-15-2027",
+   "slug": "ds01",
    "date": "2027-03-14",
    "id": "DS01",
    "title": "Does the spring clock change raise the risk of a heart attack?",
@@ -15329,7 +15364,7 @@
    ]
   },
   {
-   "slug": "mar-19-ns36",
+   "slug": "ns36",
    "date": "2027-03-19",
    "id": "NS36",
    "title": "Does a cooler, darker, quieter bedroom help sleep? Temperature, light and noise, kept apart",
@@ -15578,7 +15613,7 @@
    ]
   },
   {
-   "slug": "mar-21",
+   "slug": "ht44",
    "date": "2027-03-21",
    "id": "HT44",
    "title": "An hour among trees: a downtown Honolulu garden and the amygdala",
@@ -15685,7 +15720,7 @@
    ]
   },
   {
-   "slug": "mar-22-kb35",
+   "slug": "kb35",
    "date": "2027-03-22",
    "id": "KB35",
    "title": "Water activity: why food labs measure the water a microbe can use",
@@ -16988,7 +17023,7 @@
    ]
   },
   {
-   "slug": "apr-02",
+   "slug": "57",
    "date": "2027-04-02",
    "id": "57",
    "title": "Detailed Talks | through the lens of Autism",
@@ -18274,7 +18309,7 @@
    ]
   },
   {
-   "slug": "apr-12",
+   "slug": "ra97",
    "date": "2027-04-12",
    "id": "RA97",
    "title": "What spaceflight does to the brain: an upward shift, fluid changes and the eyes",
@@ -19516,7 +19551,7 @@
    ]
   },
   {
-   "slug": "apr-22",
+   "slug": "kb15",
    "date": "2027-04-22",
    "id": "KB15",
    "title": "Chop and drop: what the soil studies measure",
@@ -20291,7 +20326,7 @@
    ]
   },
   {
-   "slug": "apr-29",
+   "slug": "dw04",
    "date": "2027-04-29",
    "id": "DW04",
    "title": "How do dancers spin without getting dizzy? Spotting, the inner ear and a trained brain",
@@ -20656,7 +20691,7 @@
    ]
   },
   {
-   "slug": "may-02",
+   "slug": "bd01",
    "date": "2027-05-02",
    "id": "BD01",
    "title": "Does seeing or hearing birds lift your mood? What a smartphone study and a trail study found",
@@ -21465,7 +21500,7 @@
    ]
   },
   {
-   "slug": "may-09",
+   "slug": "aanpm13",
    "date": "2027-05-09",
    "id": "AANPM13",
    "title": "I Tear Up at Every Bluey Episode: tears, being moved and the caregiving brain",
@@ -21811,7 +21846,7 @@
    ]
   },
   {
-   "slug": "may-12-kb42",
+   "slug": "kb42",
    "date": "2027-05-12",
    "id": "KB42",
    "title": "Bt and crown gall: two bacteria that changed how we protect and engineer plants",
@@ -22262,7 +22297,7 @@
    ]
   },
   {
-   "slug": "may-16",
+   "slug": "ht39",
    "date": "2027-05-16",
    "id": "HT39",
    "title": "Why a camera needs white balance and your brain doesn't: color constancy",
@@ -22497,7 +22532,7 @@
    ]
   },
   {
-   "slug": "may-18",
+   "slug": "kb38",
    "date": "2027-05-18",
    "id": "KB38",
    "title": "Pinch the top, get a bushier plant: what apical dominance really is",
@@ -24075,7 +24110,7 @@
    ]
   },
   {
-   "slug": "may-31",
+   "slug": "nlcigar",
    "date": "2027-05-31",
    "id": "NLCIGAR",
    "title": "The museum a cigar built: Eindhoven's tobacco past and nicotine's receptors",
@@ -24647,7 +24682,7 @@
    ]
   },
   {
-   "slug": "jun-05",
+   "slug": "24",
    "date": "2027-06-05",
    "id": "24",
    "title": "Hidden Potential of Food: Foodie Boulevard",
@@ -25125,7 +25160,7 @@
    ]
   },
   {
-   "slug": "jun-09",
+   "slug": "dw02",
    "date": "2027-06-09",
    "id": "DW02",
    "title": "The reset after a mistake: what slowing down after an error does and doesn't do",
@@ -25339,7 +25374,7 @@
    ]
   },
   {
-   "slug": "jun-11-rp01",
+   "slug": "rp01",
    "date": "2027-06-11",
    "id": "RP01",
    "title": "Is risky play good for children? What a systematic review found, and why playground design matters",
@@ -26511,7 +26546,7 @@
    ]
   },
   {
-   "slug": "jun-21",
+   "slug": "bb05",
    "date": "2027-06-21",
    "id": "BB05",
    "title": "Brain and Body: why music gives you chills",
@@ -27519,7 +27554,7 @@
    ]
   },
   {
-   "slug": "jun-29",
+   "slug": "aanpm30",
    "date": "2027-06-29",
    "id": "AANPM30",
    "title": "Huautla de Jiménez, 1955: a curing vigil and what the record shows",
@@ -29614,7 +29649,7 @@
    ]
   },
   {
-   "slug": "jul-18",
+   "slug": "bf01",
    "date": "2027-07-18",
    "id": "BF01",
    "title": "Why does a cold drink give you brain freeze, and why does it fade in seconds?",
@@ -29833,7 +29868,7 @@
    ]
   },
   {
-   "slug": "jul-20",
+   "slug": "ht08",
    "date": "2027-07-20",
    "id": "HT08",
    "title": "One review found no consistent evidence; thirty-five scientists disagreed: serotonin and depression",
@@ -32188,7 +32223,7 @@
    ]
   },
   {
-   "slug": "aug-10-sa01",
+   "slug": "sa01",
    "date": "2027-08-10",
    "id": "SA01",
    "title": "Where did aspirin come from? Willow bark, Hoffmann's 1897 synthesis and the cyclooxygenase answer",
@@ -32411,7 +32446,7 @@
    ]
   },
   {
-   "slug": "aug-12",
+   "slug": "ht03",
    "date": "2027-08-12",
    "id": "HT03",
    "title": "Are you a visual learner? What the learning styles evidence shows",
@@ -32760,7 +32795,7 @@
    ]
   },
   {
-   "slug": "mar-07",
+   "slug": "aanpm41",
    "date": "2027-08-15",
    "id": "AANPM41",
    "title": "The Pool Noodle Test: a sting, the missing anger, and how pain and emotion come apart",
@@ -33289,7 +33324,7 @@
    ]
   },
   {
-   "slug": "aug-20-mq01",
+   "slug": "mq01",
    "date": "2027-08-20",
    "id": "MQ01",
    "title": "Why do mosquitoes bite some people more? Skin acids, skin bacteria and a human-preferring odour receptor",
@@ -35141,7 +35176,7 @@
    ]
   },
   {
-   "slug": "sep-06",
+   "slug": "cv09",
    "date": "2027-09-06",
    "id": "CV09",
    "title": "'1 in 12 boys' needs a population: how common color vision deficiency is",
@@ -36316,7 +36351,7 @@
    ]
   },
   {
-   "slug": "sep-17",
+   "slug": "my22",
    "date": "2027-09-17",
    "id": "MY22",
    "title": "Bias as a clinical safety issue: false beliefs about biology and pain ratings",
@@ -36873,7 +36908,7 @@
    ]
   },
   {
-   "slug": "nov-22-2027",
+   "slug": "30",
    "date": "2027-09-22",
    "id": "30",
    "title": "Harvest of Dreams: Fibers of Renewal (Nieuw Zwanenburg x WdKA)",
@@ -37623,7 +37658,7 @@
    ]
   },
   {
-   "slug": "apr-27",
+   "slug": "bb02",
    "date": "2027-09-29",
    "id": "BB02",
    "title": "Brain and Body: why stress makes your heart pound",
@@ -37874,7 +37909,7 @@
    ]
   },
   {
-   "slug": "nov-12",
+   "slug": "hortus",
    "date": "2027-10-01",
    "id": "HORTUS",
    "title": "The Hortus coffee plant: Amsterdam, Paris and caffeine's brain target",
@@ -38288,7 +38323,7 @@
    ]
   },
   {
-   "slug": "oct-04",
+   "slug": "pb278",
    "date": "2027-10-04",
    "id": "PB278",
    "title": "How many medicines came from plants healers already used? Ethnobotany and drug discovery",
@@ -38959,7 +38994,7 @@
    ]
   },
   {
-   "slug": "oct-10-2027",
+   "slug": "ng16",
    "date": "2027-10-10",
    "id": "NG16",
    "title": "Isolation and confinement: what polar and space missions show about mood, sleep and teams",
@@ -39408,7 +39443,7 @@
    ]
   },
   {
-   "slug": "oct-14-2027",
+   "slug": "cv05",
    "date": "2027-10-14",
    "id": "CV05",
    "title": "The butterfly that pops off the page: how stereo tests measure depth",
@@ -40692,7 +40727,7 @@
    ]
   },
   {
-   "slug": "oct-25-2027-ai132",
+   "slug": "ai132",
    "date": "2027-10-25",
    "id": "AI132",
    "title": "Does what you learn on one task carry over to another? Near and far transfer",
@@ -41331,7 +41366,7 @@
    ]
   },
   {
-   "slug": "oct-31-2027",
+   "slug": "133",
    "date": "2027-10-31",
    "id": "133",
    "title": "Threading, Drifting, and Sensing",
@@ -41435,7 +41470,7 @@
    ]
   },
   {
-   "slug": "nov-01-2027",
+   "slug": "my08",
    "date": "2027-11-01",
    "id": "MY08",
    "title": "A 50 percent drop can mean 2 in 10,000 becoming 1 in 10,000: absolute versus relative risk",
@@ -41759,7 +41794,7 @@
    ]
   },
   {
-   "slug": "nov-22-2027-ch01",
+   "slug": "ch01",
    "date": "2027-11-04",
    "id": "CH01",
    "title": "Simpson's chloroform night, 1847: what it changed about surgery and childbirth",
@@ -42108,7 +42143,7 @@
    ]
   },
   {
-   "slug": "nov-07-2027",
+   "slug": "ng21",
    "date": "2027-11-07",
    "id": "NG21",
    "title": "What travel and jet lag do to athletes: 18 seasons of games and a sleep blueprint",
@@ -42566,7 +42601,7 @@
    ]
   },
   {
-   "slug": "nov-11-2027",
+   "slug": "destig7",
    "date": "2027-11-11",
    "id": "DESTIG7",
    "title": "Where \"set and setting\" came from, and how it reached clinical trials",
@@ -44099,7 +44134,7 @@
    ]
   },
   {
-   "slug": "mar-08",
+   "slug": "aanpm16",
    "date": "2027-11-24",
    "id": "AANPM16",
    "title": "Ketamine clinics: how much of the brain story is confirmed in people",
@@ -44848,7 +44883,7 @@
    ]
   },
   {
-   "slug": "dec-01-2027",
+   "slug": "113",
    "date": "2027-12-01",
    "id": "113",
    "title": "Beacons of Hope",
@@ -45087,7 +45122,7 @@
    ]
   },
   {
-   "slug": "dec-03-2027",
+   "slug": "98",
    "date": "2027-12-03",
    "id": "98",
    "title": "Participation without limits / Design for all",
@@ -45318,7 +45353,7 @@
    ]
   },
   {
-   "slug": "dec-05-2027",
+   "slug": "kb47",
    "date": "2027-12-05",
    "id": "KB47",
    "title": "Sunflowers and cadmium: why a plant that cleans soil can carry metal to its seeds",
@@ -47070,7 +47105,7 @@
    ]
   },
   {
-   "slug": "dec-21-2027",
+   "slug": "bj01",
    "date": "2027-12-21",
    "id": "BJ01",
    "title": "Why do box jellyfish arrive on Waikiki beaches about 10 days after a full moon?",
@@ -47842,7 +47877,7 @@
    ]
   },
   {
-   "slug": "dec-29-2027",
+   "slug": "pz01",
    "date": "2027-12-29",
    "id": "PZ01",
    "title": "How was Prozac found? From a 1970s research compound to the first SSRI approved in the US",
@@ -53697,7 +53732,7 @@
    ]
   },
   {
-   "slug": "mar-12-2028",
+   "slug": "lu01",
    "date": "2028-03-12",
    "id": "LU01",
    "title": "Does the full moon change how you sleep? A lab study and a field study disagree on size",
@@ -53921,7 +53956,7 @@
    ]
   },
   {
-   "slug": "mar-17-2028",
+   "slug": "np01",
    "date": "2028-03-17",
    "id": "NP01",
    "title": "Is the habit of napping in your genes? What studies of nearly half a million people found",
@@ -54031,7 +54066,7 @@
    ]
   },
   {
-   "slug": "mar-20-2028",
+   "slug": "ba01",
    "date": "2028-03-20",
    "id": "BA01",
    "title": "Is the brain 'finished' at 25? What longitudinal scans show about development",
@@ -54783,7 +54818,7 @@
    ]
   },
   {
-   "slug": "apr-22-2028",
+   "slug": "fn08",
    "date": "2028-04-22",
    "id": "FN08",
    "title": "Six islands, one plant: how Hawaiʻi's rain, height, soil and light can shape a plant",
@@ -54926,7 +54961,7 @@
    ]
   },
   {
-   "slug": "jan-12-2028-le01",
+   "slug": "le01",
    "date": "2028-04-26",
    "id": "LE01",
    "title": "Why do restaurants get so loud? The Lombard effect and the noise level where talk still works",
@@ -55163,7 +55198,7 @@
    ]
   },
   {
-   "slug": "apr-29-2028",
+   "slug": "ng05",
    "date": "2028-04-29",
    "id": "NG05",
    "title": "'Cannabis cut opioid use by 64 percent': what a review says that study measured",
@@ -55269,7 +55304,7 @@
    ]
   },
   {
-   "slug": "may-03-2028",
+   "slug": "vg01",
    "date": "2028-05-03",
    "id": "VG01",
    "title": "What does volcanic smog (vog) do to the body? Kīlauea health studies in Hawaiʻi",
@@ -57636,7 +57671,7 @@
    ]
   },
   {
-   "slug": "sep-17-2028-af01",
+   "slug": "af01",
    "date": "2028-09-17",
    "id": "AF01",
    "title": "Why do hospital alarms get ignored? Alarm fatigue and what unit settings changed",
@@ -58798,7 +58833,7 @@
    ]
   },
   {
-   "slug": "may-25-2028",
+   "slug": "clra4",
    "date": "2028-11-11",
    "id": "CLRA4",
    "title": "Drug, therapy or expectation? The brain and evidence questions behind the FDA's no on MDMA for PTSD",
@@ -59126,7 +59161,7 @@
    ]
   },
   {
-   "slug": "dec-05-2028",
+   "slug": "ge01",
    "date": "2028-12-05",
    "id": "GE01",
    "title": "Why does rain on dry soil smell so good? Geosmin, soil bacteria and the springtails it calls",
@@ -61646,7 +61681,7 @@
    ]
   },
   {
-   "slug": "jan-23",
+   "slug": "clra8",
    "date": "2029-04-28",
    "id": "CLRA8",
    "title": "When a psilocybin session gets hard: what research says about difficult moments, screening and medications",
@@ -64281,7 +64316,7 @@
    ]
   },
   {
-   "slug": "sep-29-2029",
+   "slug": "wh01",
    "date": "2029-09-29",
    "id": "WH01",
    "title": "Does a glass of wine a day protect the heart? Mendelian randomization and the 'moderate drinker' meta-analysis",
@@ -72986,7 +73021,7 @@
    ]
   },
   {
-   "slug": "jun-10-2031",
+   "slug": "gl01",
    "date": "2031-10-09",
    "id": "GL01",
    "title": "Does cannabis treat glaucoma? What an eye-pressure trial measured and why the effect was short",
@@ -73104,7 +73139,7 @@
    ]
   },
   {
-   "slug": "jul-16-2031",
+   "slug": "fl01",
    "date": "2032-02-04",
    "id": "FL01",
    "title": "Why do some faces turn red after a drink? The ALDH2 variant and what it means for cancer risk",
@@ -73627,7 +73662,7 @@
    ]
   },
   {
-   "slug": "nov-28-mjbex14",
+   "slug": "mjbex14",
    "date": "2026-11-28",
    "time": "09:00 HST",
    "id": "MJBEX14",
@@ -73768,7 +73803,7 @@
    ]
   },
   {
-   "slug": "nov-30-mjbpre02",
+   "slug": "mjbpre02",
    "date": "2026-11-30",
    "time": "09:00 HST",
    "id": "MJBPRE02",
@@ -73801,9 +73836,9 @@
     },
     {
      "where": "Slide 2",
-     "what": "Chart drawn to scale for this post in code by Claude, persona Show-directory compositor (draft), Chart: AaN, from Seedless Media (n.d.) data: show days and opening hours",
-     "credit": "Seedless Media (n.d.), MJBizCon 2026 insider guide",
-     "url": "https://seedless.media/mjbizcon-2026-insider-guide-cannabis-pr/",
+     "what": "The Las Vegas Convention Center campus, photo patrick thibodeau",
+     "credit": "Photo: patrick thibodeau (Flickr), CC BY 2.0",
+     "url": "https://www.flickr.com/photos/18635830@N00/48139039783",
      "card": false
     },
     {
@@ -73836,10 +73871,10 @@
     },
     {
      "where": "Story 1",
-     "what": "Number card made for this post",
-     "credit": "MJBizCon 2026 exhibitor directory (our count, Oct 27, 2026)",
-     "url": "https://mjbiz.a2zinc.net/MJBIZCON2026/public/eventmap.aspx",
-     "card": true
+     "what": "The Las Vegas Convention Center's North Hall front, photo JF10",
+     "credit": "Photo: JF10 (Flickr), CC BY 2.0",
+     "url": "https://www.flickr.com/photos/64753914@N00/2385472948",
+     "card": false
     },
     {
      "where": "Story 2",
@@ -73850,7 +73885,7 @@
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post, drawn in code by Claude, persona Show-directory compositor (draft): a poll prompt with schematic listing lines, not data",
+     "what": "Chart drawn to scale for this post in code by Claude, persona Show-directory compositor (draft), Chart: AaN, from MJBizCon 2026 directory data (our count, Oct 27, 2026): cultivation, packaging and lab-testing listings, the three groups in the poll",
      "credit": "MJBizCon 2026 exhibitor directory (our count, Oct 27, 2026)",
      "url": "https://mjbiz.a2zinc.net/MJBIZCON2026/public/eventmap.aspx",
      "card": false
@@ -73858,7 +73893,7 @@
    ]
   },
   {
-   "slug": "dec-01-mjbyb06",
+   "slug": "mjbyb06",
    "date": "2026-12-01",
    "time": "09:00 HST",
    "id": "MJBYB06",
@@ -73884,9 +73919,9 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Unknown maker, Las Vegas, Nevada, and its well-lit strip situated next to Harry Reid International Airport, photograph, 2025-05-16, iss073e0075845 (NASA)",
-     "credit": "NASA (NASA image, public domain)",
-     "url": "https://images.nasa.gov/details/iss073e0075845",
+     "what": "The eastward panel of Roach and Sargent's Figure 2",
+     "credit": "Roach & Sargent (2019), cropped from Fig. 2B, CC BY",
+     "url": "https://doi.org/10.3389/fphys.2019.00927",
      "card": false
     },
     {
@@ -73905,8 +73940,8 @@
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post, drawn in code by Claude, persona Phosphor terminal (draft): the light timing rule on a body temperature curve, from the paper's description",
-     "credit": "Roach & Sargent (2019), Frontiers in Physiology",
+     "what": "From Roach and Sargent's section on the light phase response curve",
+     "credit": "Text: Roach & Sargent (2019), Frontiers in Physiology, CC BY 4.0",
      "url": "https://doi.org/10.3389/fphys.2019.00927",
      "card": false
     },
@@ -73947,15 +73982,15 @@
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post, drawn in code by Claude, persona Phosphor terminal (draft): out or home",
-     "credit": "Janse van Rensburg et al. (2021), Sports Medicine",
-     "url": "https://doi.org/10.1007/s40279-021-01502-0",
+     "what": "Light timing in Roach and Sargent's Figure 1",
+     "credit": "Roach & Sargent (2019), cropped from Fig. 1, CC BY",
+     "url": "https://doi.org/10.3389/fphys.2019.00927",
      "card": false
     }
    ]
   },
   {
-   "slug": "dec-02-mjbyb07",
+   "slug": "mjbyb07",
    "date": "2026-12-02",
    "time": "09:00 HST",
    "id": "MJBYB07",
@@ -73981,15 +74016,15 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Highsmith Carol M. 1946- photographer, \"Calliope\" bed in the Celestial Suites room of the Hotel Astrodome in Houston, Texas, 1 transparency : color and 4 x 5 in. or smaller., 1980-01-01, LC-HS503- 2122 (ONLINE) [P&P] (Library of Congress)",
-     "credit": "Highsmith, Carol M., 1946-, photographer, Library of Congress, Prints and Photographs Division (no known restrictions)",
-     "url": "https://www.loc.gov/item/2011631571/",
+     "what": "Minutes to fall asleep in the lab, night 1 (20.4) against night 2 a week later (14.0), chart drawn to scale for this post in code by Claude, persona Stipple anatomist (draft); numbers from Wick et al. (2024), Study 1, Results and Table 1",
+     "credit": "Chart: AaN, from Wick et al. (2024) data",
+     "url": "https://doi.org/10.1093/sleep/zsae179",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Chart drawn for this post in code by Claude, persona Stipple anatomist (draft): one dot per pooled study",
-     "credit": "Ding et al. (2022), as reported by Wick et al. (2024), SLEEP",
+     "what": "From the introduction of Wick and colleagues' 2024 paper, reporting the 2022 meta-analysis",
+     "credit": "Text: Wick et al. (2024)",
      "url": "https://doi.org/10.1093/sleep/zsae179",
      "card": false
     },
@@ -74002,30 +74037,30 @@
     },
     {
      "where": "Slide 4",
-     "what": "Illustration made for this post, drawn in code by Claude, persona Stipple anatomist (draft): the two study designs with their sample sizes",
-     "credit": "Wick et al. (2024), SLEEP",
+     "what": "Minutes asleep in the lab a week apart (438 then 451) and the share of the night awake at home (4.4 then 3.6 percent), first against second night, chart drawn to scale for this post in code by Claude, persona Stipple anatomist (draft); numbers from Wick et al. (2024), Study 1, Results and Table 1 and Study 2, Table 2",
+     "credit": "Chart: AaN, from Wick et al. (2024) data",
      "url": "https://doi.org/10.1093/sleep/zsae179",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post, drawn in code by Claude, persona Stipple anatomist (draft): two hemispheres from above with the lighter-sleep area of the left side marked, schematic",
-     "credit": "Tamaki et al. (2016), Current Biology",
+     "what": "Arousals after odd sounds on night one: over 80 percent followed left-hemisphere trials, against 50 percent by chance, chart drawn to scale for this post in code by Claude, persona Stipple anatomist (draft); numbers from Tamaki et al. (2016), Experiment 2, Results",
+     "credit": "Chart: AaN, from Tamaki et al. (2016) data",
      "url": "https://doi.org/10.1016/j.cub.2016.02.063",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Bars drawn to scale for this post in code by Claude, persona Stipple anatomist (draft): people per experiment",
-     "credit": "Tamaki et al. (2016), Current Biology; Wick et al. (2024), SLEEP",
-     "url": "https://doi.org/10.1093/sleep/zsae179",
+     "what": "People in each analysis: Tamaki's three tests (11, 13 and 11) and Wick's two asymmetry analyses (35 and 30), chart drawn to scale for this post in code by Claude, persona Stipple anatomist (draft); numbers from Tamaki et al. (2016), Results and Figure legends (t and z degrees of freedom), and Wick et al. (2024), Results",
+     "credit": "Chart: AaN, from Tamaki et al. (2016) and Wick et al. (2024) data",
+     "url": "https://doi.org/10.1016/j.cub.2016.02.063",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Unknown maker, A Hotel Bed-room, Un cuarto de hotel, Habana, Cuba, 1 print : photomechanical and sheet 9 x 14 cm (postcard format), 1904, PCRD 2, Cuba, Havana, no. 6 [P&P] (Library of Congress)",
-     "credit": "Library of Congress, Prints and Photographs Division (no known restrictions)",
-     "url": "https://www.loc.gov/item/2025703810/",
+     "what": "Minutes awake after sleep onset (57 then 29) and minutes of stage 3 sleep (88 then 100), night 1 against night 2, chart drawn to scale for this post in code by Claude, persona Stipple anatomist (draft); numbers from Mayeli et al. (2022), Table 1",
+     "credit": "Chart: AaN, from Mayeli et al. (2022) data",
+     "url": "https://doi.org/10.3390/brainsci12020233",
      "card": false
     },
     {
@@ -74044,8 +74079,8 @@
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post, drawn in code by Claude, persona Stipple anatomist (draft): a five-point rating in stipple",
-     "credit": "Wick et al. (2024), SLEEP",
+     "what": "How many minutes people felt it took to fall asleep, home and lab, night 1 against night 2, chart drawn to scale for this post in code by Claude, persona Stipple anatomist (draft); numbers from Wick et al. (2024), Study 2, Results",
+     "credit": "Chart: AaN, from Wick et al. (2024) data",
      "url": "https://doi.org/10.1093/sleep/zsae179",
      "card": false
     }
@@ -74712,6 +74747,10 @@
     {
      "label": "Lehrer, P. M., & Gevirtz, R. (2014). Heart rate variability biofeedback: How and why does it work? Frontiers in Psychology, 5, 756 (full text read Nov 7, 2026, Europe PMC PMC4104929, CC BY)",
      "url": "https://doi.org/10.3389/fpsyg.2014.00756"
+    },
+    {
+     "label": "Fincham, G. W., Strauss, C., & Cavanagh, K. (2023b). Effect of coherent breathing on mental health and wellbeing: A randomised placebo-controlled trial. Scientific Reports, 13, 22141 (full text read Nov 13, 2026, CC BY 4.0; PMC10719279; NCT05676658)",
+     "url": "https://doi.org/10.1038/s41598-023-49279-8"
     }
    ],
    "other": [
@@ -74723,9 +74762,9 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Text crop of the official Psychedelics Design Awards 2026 winners gallery page: the Products & Services entry for SoundSelf, 'SoundSelf uses optic neurostimulation and generative sound to dissolve the boundary between self and experience' (words only, no image from the page)",
-     "credit": "Text: Psychedelics Design, Winners Gallery 2026 page",
-     "url": "https://psychedelics.design/winners-gallery-2026",
+     "what": "SoundSelf, the demo station, photo qubodup / Flickr",
+     "credit": "Photo: qubodup / Flickr, CC BY 2.0",
+     "url": "https://www.flickr.com/photos/21051491@N02/13890326701",
      "card": false
     },
     {
@@ -74924,9 +74963,9 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Highsmith Carol M. 1946- photographer, Dusk at the Las Vegas Strip, Las Vegas, Nevada, 1 transparency : color and 4 x 5 in. or smaller., 1980-01-01, LC-HS503- 6393 (ONLINE) [P&P] (Library of Congress)",
-     "credit": "Highsmith, Carol M., 1946-, photographer, Library of Congress, Prints and Photographs Division (no known restrictions)",
-     "url": "https://www.loc.gov/item/2011636110/",
+     "what": "Carol M. Highsmith, Casino interior, Las Vegas, Nevada, photograph, between 1980 and 2006, LC-HS503-6394 (Library of Congress)",
+     "credit": "Photo: Carol M. Highsmith, Library of Congress, Prints and Photographs Division (no known restrictions)",
+     "url": "https://www.loc.gov/item/2011636111/",
      "card": false
     },
     {
@@ -74952,16 +74991,16 @@
     },
     {
      "where": "Slide 5",
-     "what": "Chart drawn to scale for this post in code by Claude, persona Neon tube bender (draft): estimate over real time when warned or asked as a surprise",
-     "credit": "Tobin et al. (2010), PLOS ONE",
+     "what": "Tobin S et al. (2010), Figure 1: Mean estimated to target duration ratio for each target duration condition (12, 35 and 58 minutes) with each paradigm (prospective and retrospective)",
+     "credit": "Tobin S et al. (2010), PloS one, Figure 1 (CC BY)",
      "url": "https://doi.org/10.1371/journal.pone.0009271",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Highsmith Carol M. 1946- photographer, Night aerial view, Las Vegas, Nevada, 1 photograph : digital and TIFF file and color., 2009-01-01, LC-DIG-highsm- 04649 (ONLINE) [P&P] (Library of Congress)",
-     "credit": "Highsmith, Carol M., 1946-, photographer, Library of Congress, Prints and Photographs Division (no known restrictions)",
-     "url": "https://www.loc.gov/item/2010630633/",
+     "what": "People in each study, chart drawn to scale for this post in code by Claude, persona Neon tube bender (draft): 129 slot players in a casino lobby, 30 regular gamblers in a café and a slot venue, 116 gamers in gaming centres; Strip visitors none tested",
+     "credit": "Chart: AaN, from Dixon (2019), Wagner (2022) and Tobin (2010) data",
+     "url": "https://doi.org/10.1371/journal.pone.0009271",
      "card": false
     },
     {
@@ -74980,8 +75019,8 @@
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post, drawn in code by Claude, persona Neon tube bender (draft): a clock face in tube for a question box, not data",
-     "credit": "Tobin et al. (2010), PLOS ONE",
+     "what": "Chart drawn to scale for this post in code by Claude, persona Neon tube bender (draft): estimate over real time when warned or asked as a surprise",
+     "credit": "Chart: AaN, from Tobin et al. (2010) data",
      "url": "https://doi.org/10.1371/journal.pone.0009271",
      "card": false
     }
@@ -75017,16 +75056,16 @@
     },
     {
      "where": "Slide 2",
-     "what": "Chart drawn to scale for this post in code by Claude, persona Silhouette cutter (draft): 64 and 30 percent, names of people against words in general",
-     "credit": "As reported by Kavé, Fridkin & Ayalon (2018), PLOS ONE",
-     "url": "https://doi.org/10.1371/journal.pone.0191876",
+     "what": "Kavé G, Fridkin S & Ayalon L (2018), PLOS ONE 13(1) e0191876: text crop of the introduction's opening sentence, 'A recent report shows that 30% of people above age 65 complain of difficulties in word retrieval, whereas 64% complain of difficulties in retrieval of proper names [1].'",
+     "credit": "As reported by Kavé, Fridkin & Ayalon (2018), PLOS ONE, introduction, text crop (CC BY)",
+     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191876",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Unknown maker, Scissors, Bronze, 22.141.26 (The Metropolitan Museum of Art)",
-     "credit": "Scissors, The Metropolitan Museum of Art (public domain)",
-     "url": "https://www.metmuseum.org/art/collection/search/57383",
+     "what": "Kavé G, Fridkin S & Ayalon L (2018), PLOS ONE 13(1) e0191876: text crop of the Methods sentence with the survey's own question, 'Two items evaluated retrieval of object names: \"What do people usually use to cut paper?\" (Scissors);' (the second item left out)",
+     "credit": "Kavé, Fridkin & Ayalon (2018), PLOS ONE, Methods, text crop (CC BY)",
+     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191876",
      "card": false
     },
     {
@@ -75045,16 +75084,9 @@
     },
     {
      "where": "Slide 6",
-     "what": "Unknown maker, Brain: lateral view",
-     "credit": "Wellcome Collection (public domain)",
-     "url": "https://wellcomecollection.org/works/mdggqbzd",
-     "card": false
-    },
-    {
-     "where": "Slide 7",
-     "what": "Unknown maker, Visitekaartje van Karel de Bazel, 1896, RP-P-1975-83 (Rijksmuseum, Amsterdam)",
-     "credit": "Visitekaartje van Karel de Bazel, Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/RP-P-1975-83",
+     "what": "Face naming on trials answered after more than 5 s, sham session 29 percent against left anterior temporal lobe stimulation 40 percent, 14 adults aged 55 to 69, chart drawn to scale for this post in code by Claude, persona Silhouette cutter (draft); numbers from Ross et al. (2011), Table 1 and Results",
+     "credit": "Chart: Ask a Neuroscientist, from Ross et al. (2011) data",
+     "url": "https://doi.org/10.3389/fnagi.2011.00016",
      "card": false
     },
     {
@@ -75073,9 +75105,9 @@
     },
     {
      "where": "Story 3",
-     "what": "Illustration made for this post, drawn in code by Claude, persona Silhouette cutter (draft): a cut-paper profile in an oval frame with a blank name strip, not a portrait",
-     "credit": "Kavé, Fridkin & Ayalon (2018), PLOS ONE",
-     "url": "https://doi.org/10.1371/journal.pone.0191876",
+     "what": "Kavé G, Fridkin S & Ayalon L (2018), PLOS ONE 13(1) e0191876: text crop of the introduction's words 'Older adults often report that proper names are more elusive than are other types of words' (the citation left out)",
+     "credit": "Kavé, Fridkin & Ayalon (2018), PLOS ONE, introduction, text crop (CC BY)",
+     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191876",
      "card": false
     }
    ]
@@ -78211,6 +78243,18 @@
     {
      "label": "Hrčka, R., Štompf, P., Jochim, S., Mikuš, M. E., & Iskra, M. (2025). The measurement of hemp concrete thermal and moisture properties for an effective building construction proposal in region of Slovakia (Central Europe). Materials, 18(7), 1651 (full text read Nov 7, 2026, Europe PMC PMC11990387, CC BY 4.0)",
      "url": "https://doi.org/10.3390/ma18071651"
+    },
+    {
+     "label": "Isopescu, D. N., Adam, L., Nistorac, A., & Bodoga, A. (2024). Carbon footprint assessment: Case studies for hemp-based eco-concrete masonry blocks. Buildings, 14(10), 3150 (full text read Nov 13, 2026 per the long-form research log, publisher PDF, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/buildings14103150"
+    },
+    {
+     "label": "Campo, F. P., & Grosso, M. (2022). Lime based construction materials as a carbon sink. Key Engineering Materials, 922, 139-145 (full text read Nov 13, 2026 per the long-form research log, open copy, CC BY)",
+     "url": "https://doi.org/10.4028/p-t8k30r"
+    },
+    {
+     "label": "Heidari, M. D., Lawrence, M., Blanchet, P., & Amor, B. (2019). Regionalised life cycle assessment of bio-based materials in construction; the case of hemp shiv treated with sol-gel coatings. Materials, 12(18), 2987 (full text read Nov 13, 2026, Europe PMC PMC6766272, CC BY 4.0)",
+     "url": "https://doi.org/10.3390/ma12182987"
     }
    ],
    "other": [],
@@ -78224,16 +78268,16 @@
     },
     {
      "where": "Slide 2",
-     "what": "Column chart drawn to scale made for this post, drawn in code by Claude, persona Reference-desk query slip: carbon dioxide absorbed during cultivation, 0.445 t per t of dry hemp stems",
-     "credit": "Chart: Ask a Neuroscientist, from Hamed et al. (2025) data",
-     "url": "https://doi.org/10.3390/ma18245646",
+     "what": "Column chart drawn to scale made for this post, drawn in code by Claude, persona Reference-desk query slip: carbon absorbed during cultivation, 0.445 t of carbon (about 1.6 t CO2) per t of dry hemp stems",
+     "credit": "Chart: Ask a Neuroscientist, from Isopescu et al. (2024) data",
+     "url": "https://doi.org/10.3390/buildings14103150",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Reference-desk query slip: hemp-lime concrete wall life-cycle emissions, +10.165 (pessimistic) and -9.696 (optimal) kg CO2e per m2",
-     "credit": "Chart: Ask a Neuroscientist, from Hamed et al. (2025) data",
-     "url": "https://doi.org/10.3390/ma18245646",
+     "what": "Bar chart drawn to scale made for this post, drawn in code by Claude, persona Reference-desk query slip: one hemp-lime wall's life-cycle footprint, -15.27 to -8.92 kg CO2e per m2 with untreated hemp and +22.51 to +28.77 with coated hemp (Heidari et al., 2019, Table 5)",
+     "credit": "Chart: Ask a Neuroscientist, from Heidari et al. (2019) data",
+     "url": "https://doi.org/10.3390/ma12182987",
      "card": false
     },
     {
@@ -78260,8 +78304,8 @@
     {
      "where": "Story 1",
      "what": "Number card made for this post",
-     "credit": "Hamed et al. (2025), Materials",
-     "url": "https://doi.org/10.3390/ma18245646",
+     "credit": "Isopescu et al. (2024), Buildings",
+     "url": "https://doi.org/10.3390/buildings14103150",
      "card": true
     },
     {
@@ -78527,7 +78571,7 @@
     },
     {
      "where": "Slide 6",
-     "what": "Line chart drawn to scale made for this post, drawn in code by Claude, persona Meridian-line surveyor: Pisa sunset times, Dec 29, 2026 to Jan 8, 2027, from USNO",
+     "what": "Line chart drawn to scale made for this post, drawn in code by Claude, persona Meridian-line surveyor: Pisa sunset times, late December 2026 to early January 2027, from USNO",
      "credit": "Chart: Ask a Neuroscientist, from US Naval Observatory data",
      "url": "https://aa.usno.navy.mil/data/api",
      "card": false
@@ -82967,6 +83011,10 @@
     {
      "label": "Tian, X., & Zhao, R. (2026). A single-cell perspective on remapping human adult neurogenesis and its clinical implications. Biomolecules, 16(2), 331 (full text read Nov 6, 2026, Europe PMC PMC12937870, CC BY 4.0)",
      "url": "https://doi.org/10.3390/biom16020331"
+    },
+    {
+     "label": "Spalding, K. L., Bergmann, O., Alkass, K., et al. (2013). Dynamics of hippocampal neurogenesis in adult humans. Cell, 153(6), 1219-1227 (full text read Nov 13, 2026, PMC4394608 author manuscript, PMC open data)",
+     "url": "https://doi.org/10.1016/j.cell.2013.05.002"
     }
    ],
    "other": [],
@@ -82987,9 +83035,9 @@
     },
     {
      "where": "Slide 3",
-     "what": "Mathews KJ et al. (2017), Figure 1: Staging neurogenesis using transcripts representative of different developmental stages from stem cell to neuron",
-     "credit": "Mathews KJ et al. (2017), Aging cell, Figure 1 (CC BY)",
-     "url": "https://doi.org/10.1111/acel.12641",
+     "what": "Chart drawn to scale made for this post, drawn in code by Claude, persona Stipple anatomist: Spalding et al. (2013) carbon-14 values, about 700 new neurons a day in the adult hippocampus, about one third of its neurons in the renewing fraction, 1.75% of that fraction a year",
+     "credit": "Chart: Ask a Neuroscientist, from Spalding et al. 2013 data",
+     "url": "https://doi.org/10.1016/j.cell.2013.05.002",
      "card": false
     },
     {
@@ -94379,6 +94427,89 @@
   "jun-21-umbr01": "umbr01",
   "jun-22-p031": "p031",
   "jun-23-p084": "p084",
-  "jun-24-p319": "p319"
+  "jun-24-p319": "p319",
+  "nov-26": "27",
+  "nov-28-mjbex14": "mjbex14",
+  "dec-01-mjbyb06": "mjbyb06",
+  "dec-01": "mj01",
+  "feb-18-2028": "kb08",
+  "dec-25": "55",
+  "dec-02-mjbyb07": "mjbyb07",
+  "nov-30-mjbpre02": "mjbpre02",
+  "dec-02": "mj02",
+  "dec-03": "mj03",
+  "dec-04": "mj04",
+  "dec-05": "mj05",
+  "dec-08": "fn12",
+  "jan-01": "69",
+  "jan-18-ht19": "ht19",
+  "jan-24-kd03": "kd03",
+  "feb-11": "aanpm43",
+  "dec-07": "105",
+  "mar-03": "114",
+  "mar-10": "14",
+  "mar-13": "106",
+  "nov-15-2027": "ds01",
+  "mar-19-ns36": "ns36",
+  "mar-21": "ht44",
+  "mar-22-kb35": "kb35",
+  "apr-02": "57",
+  "apr-12": "ra97",
+  "apr-22": "kb15",
+  "apr-29": "dw04",
+  "may-02": "bd01",
+  "may-09": "aanpm13",
+  "may-12-kb42": "kb42",
+  "may-16": "ht39",
+  "may-18": "kb38",
+  "may-31": "nlcigar",
+  "jun-05": "24",
+  "jun-09": "dw02",
+  "jun-11-rp01": "rp01",
+  "jun-21": "bb05",
+  "jun-29": "aanpm30",
+  "jul-18": "bf01",
+  "jul-20": "ht08",
+  "aug-10-sa01": "sa01",
+  "aug-12": "ht03",
+  "mar-07": "aanpm41",
+  "aug-20-mq01": "mq01",
+  "sep-06": "cv09",
+  "sep-17": "my22",
+  "nov-22-2027": "30",
+  "apr-27": "bb02",
+  "nov-12": "hortus",
+  "oct-04": "pb278",
+  "oct-10-2027": "ng16",
+  "oct-14-2027": "cv05",
+  "oct-25-2027-ai132": "ai132",
+  "oct-31-2027": "133",
+  "nov-01-2027": "my08",
+  "nov-22-2027-ch01": "ch01",
+  "nov-07-2027": "ng21",
+  "nov-11-2027": "destig7",
+  "mar-08": "aanpm16",
+  "dec-01-2027": "113",
+  "dec-03-2027": "98",
+  "dec-05-2027": "kb47",
+  "dec-21-2027": "bj01",
+  "dec-29-2027": "pz01",
+  "mar-12-2028": "lu01",
+  "mar-17-2028": "np01",
+  "mar-20-2028": "ba01",
+  "apr-22-2028": "fn08",
+  "jan-12-2028-le01": "le01",
+  "apr-29-2028": "ng05",
+  "may-03-2028": "vg01",
+  "sep-17-2028-af01": "af01",
+  "may-25-2028": "clra4",
+  "dec-05-2028": "ge01",
+  "jan-23": "clra8",
+  "sep-29-2029": "wh01",
+  "jun-10-2031": "gl01",
+  "jul-16-2031": "fl01",
+  "oct-31-2028": "kb24",
+  "jan-22-kd04": "kd04",
+  "feb-04": "ra84"
  }
 }
