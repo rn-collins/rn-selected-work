@@ -119,7 +119,7 @@
   },
   {
    "slug": "pm-rnc-02",
-   "date": "2026-12-01",
+   "date": "2026-12-10",
    "id": "PM-RNC-02",
    "title": "Who Made This So Hard?",
    "series": "The Polymath",
@@ -214,7 +214,7 @@
   },
   {
    "slug": "pm-rnc-03",
-   "date": "2026-12-22",
+   "date": "2026-12-16",
    "id": "PM-RNC-03",
    "title": "Who Is Supposed to Supply What the Law Requires?",
    "series": "The Polymath",
@@ -305,7 +305,7 @@
   },
   {
    "slug": "pm-rnc-04",
-   "date": "2027-01-13",
+   "date": "2027-01-01",
    "id": "PM-RNC-04",
    "title": "A Right You Cannot Use",
    "series": "The Polymath",
@@ -397,7 +397,7 @@
   },
   {
    "slug": "pm-rnc-05",
-   "date": "2027-01-27",
+   "date": "2027-01-06",
    "id": "PM-RNC-05",
    "title": "Can the Institution Be Answered?",
    "series": "The Polymath",
@@ -595,7 +595,7 @@
   },
   {
    "slug": "pm-rnc-07",
-   "date": "2027-02-08",
+   "date": "2027-01-12",
    "id": "PM-RNC-07",
    "title": "Why Source Provenance Is Governance Infrastructure",
    "series": "The Polymath",
@@ -702,7 +702,7 @@
   },
   {
    "slug": "pm-rnc-08",
-   "date": "2026-12-05",
+   "date": "2026-12-01",
    "id": "PM-RNC-08",
    "title": "Experience Is Governance",
    "series": "The Polymath",
@@ -821,7 +821,7 @@
   },
   {
    "slug": "pm-rnc-09",
-   "date": "2026-12-31",
+   "date": "2026-12-23",
    "id": "PM-RNC-09",
    "title": "Effortless for Whom?",
    "series": "The Polymath",
@@ -944,7 +944,7 @@
   },
   {
    "slug": "pm-rnc-10",
-   "date": "2027-01-09",
+   "date": "2026-12-30",
    "id": "PM-RNC-10",
    "title": "Why Human Review Requires Authority, Context and Time",
    "series": "The Polymath",
@@ -1043,7 +1043,7 @@
   },
   {
    "slug": "pm-rnc-11",
-   "date": "2027-01-16",
+   "date": "2027-01-08",
    "id": "PM-RNC-11",
    "title": "Why Evidence Systems, Not Model Intelligence, Are the Missing Layer",
    "series": "The Polymath",
@@ -1127,7 +1127,7 @@
   },
   {
    "slug": "pm-rnc-12",
-   "date": "2026-12-12",
+   "date": "2026-12-22",
    "id": "PM-RNC-12",
    "title": "How Regulatory Categories Conceal Scientific Uncertainty",
    "series": "The Polymath",
@@ -1257,7 +1257,7 @@
   },
   {
    "slug": "pm-rnc-13",
-   "date": "2026-12-19",
+   "date": "2026-12-17",
    "id": "PM-RNC-13",
    "title": "The Windbreak Decree",
    "series": "The Polymath",
@@ -1337,7 +1337,7 @@
   },
   {
    "slug": "pm-rnc-14",
-   "date": "2027-01-23",
+   "date": "2027-01-10",
    "id": "PM-RNC-14",
    "title": "Beyond Personal Software: Your AI Is Becoming a Private Institution",
    "series": "The Polymath",
@@ -1436,7 +1436,7 @@
   },
   {
    "slug": "pm-rnc-15",
-   "date": "2027-01-30",
+   "date": "2027-01-14",
    "id": "PM-RNC-15",
    "title": "Luxury Agents: The Next Status Symbol Is Protected Attention",
    "series": "The Polymath",
@@ -1550,6 +1550,2957 @@
      "what": "Cal. Code Regs. tit. 11, § 7004",
      "credit": "state regulatory text, not copyrightable",
      "url": "",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-16",
+   "date": "2026-11-24",
+   "id": "master-2026-12-18-0700",
+   "title": "Three stripes, four emails",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/three-stripes-four-emails"
+   },
+   "research": [
+    {
+     "label": "U.S. Court of Appeals for the Second Circuit, adidas America, Inc. v. Thom Browne, Inc., No. 24-1510, opinion of Judge Michael H. Park (argued Oct. 28, 2025; decided Apr. 29, 2026)",
+     "url": "https://ww3.ca2.uscourts.gov/decisions/OPN/24-1510_opn.pdf"
+    },
+    {
+     "label": "U.S. Court of Appeals for the Second Circuit, adidas America, Inc. v. Thom Browne, Inc., No. 23-166, summary order (May 3, 2024), as posted by Courthouse News",
+     "url": "https://www.courthousenews.com/wp-content/uploads/2024/05/adidas-thom-browne-decision-second-circuit.pdf"
+    },
+    {
+     "label": "U.S. District Court for the Southern District of New York, adidas America, Inc. v. Thom Browne, Inc., No. 21-cv-5615 (JSR), Opinion and Order, Dkt. 260 (July 29, 2024), via CourtListener",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.562552/gov.uscourts.nysd.562552.260.0.pdf"
+    },
+    {
+     "label": "Same court, Opinion and Order on summary judgment, Dkt. 159 (Dec. 16, 2022), via CourtListener",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.562552/gov.uscourts.nysd.562552.159.0.pdf"
+    },
+    {
+     "label": "Same court, Verdict, Dkt. 188 (Jan. 12, 2023), via CourtListener",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.562552/gov.uscourts.nysd.562552.188.0.pdf"
+    },
+    {
+     "label": "Same court, trial transcript, Jan. 9, 2023, Dkt. 202, via CourtListener",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.562552/gov.uscourts.nysd.562552.202.0.pdf"
+    },
+    {
+     "label": "Same court, trial transcript, Jan. 12, 2023, Dkt. 208, via CourtListener",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.562552/gov.uscourts.nysd.562552.208.0.pdf"
+    },
+    {
+     "label": "adidas America, Inc. and adidas AG, Petition for a Writ of Certiorari, adidas America, Inc. v. Thom Browne, Inc., No. 26-445 (filed Sept. 28, 2026)",
+     "url": "https://www.supremecourt.gov/DocketPDF/26/26-445/425858/20260928154424926_26-%20Petition.pdf"
+    },
+    {
+     "label": "Alexandra A.E. Shapiro, letter to the Clerk requesting an extension, No. 26-445 (Oct. 12, 2026)",
+     "url": "https://www.supremecourt.gov/DocketPDF/26/26-445/429215/20261012130810296_Thom%20Browne%20-%20BIO%20Extension%20Letter.pdf"
+    },
+    {
+     "label": "adidas America, Inc. and adidas AG, Brief for Plaintiffs-Appellants, Second Circuit No. 23-166 (May 24, 2023), via Courthouse News",
+     "url": "https://www.courthousenews.com/wp-content/uploads/2024/04/adidas-appellant-brief-second-circuit.pdf"
+    },
+    {
+     "label": "Thom Browne, Inc., Brief for Defendant-Appellee, Second Circuit No. 23-166 (Aug. 22, 2023), via Courthouse News",
+     "url": "https://www.courthousenews.com/wp-content/uploads/2024/04/thom-browne-appellee-brief-second-circuit.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Supreme Court of the United States, Docket No. 26-445",
+     "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-445.html"
+    },
+    {
+     "label": "Court of Appeal of England and Wales, Thom Browne Inc & Anor v adidas AG [2025] EWCA Civ 1340 (Oct. 23, 2025), National Archives",
+     "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2025/1340"
+    },
+    {
+     "label": "Matthew Russell Lee, \"In 3 Stripes Trial Thom Browne Beats adidas After Saying No One Confused by $1000 Pants,\" Inner City Press (Jan. 12, 2023)",
+     "url": "https://www.innercitypress.com/sdny174crakoffadidasthomicp011223.html"
+    },
+    {
+     "label": "LTO-Redaktion, \"Vier Streifen sind nicht drei Streifen,\" Legal Tribune Online (Sept. 16, 2024)",
+     "url": "https://www.lto.de/recht/kanzleien-unternehmen/k/vier-streifen-sind-nicht-drei-streifen-adidas-vs-thom-browne-jacke-mode-markenrecht-4hko820821"
+    },
+    {
+     "label": "U.S. District Court for the Southern District of New York, \"Hon. Jed S. Rakoff\"",
+     "url": "https://www.nysd.uscourts.gov/hon-jed-s-rakoff"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A typed court form headed Verdict, with handwritten check marks beside Not Liable for trademark infringement and for trademark dilution, and blank damages lines",
+     "credit": "Source: Verdict form, Jan. 12, 2023",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.562552/gov.uscourts.nysd.562552.188.0.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Printed court text quoting an email: as Adidas has such a big presence in the sporting world, it is inevitable that our 4bar in white be read as adidas stripes, especially on accessories",
+     "credit": "Source: 2d Cir. opinion, Apr. 29, 2026",
+     "url": "https://ww3.ca2.uscourts.gov/decisions/OPN/24-1510_opn.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Printed court text saying a paralegal had carried out a mass edit on documents that hit on the search term adidas, including the four emails, changing their fields to needs further review",
+     "credit": "Source: 2d Cir. opinion, Apr. 29, 2026",
+     "url": "https://ww3.ca2.uscourts.gov/decisions/OPN/24-1510_opn.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Typewritten court text ending: An inadvertent but understandable mix-up is not the same as negligence, at least not here",
+     "credit": "Source: SDNY opinion, July 29, 2024",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.562552/gov.uscourts.nysd.562552.260.0.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Printed court text: because misconduct under Rule 60(b)(3) does not encompass merely negligent discovery violations, and Thom Browne's failure was no more than negligent, adidas is not entitled to relief",
+     "credit": "Source: 2d Cir. opinion, Apr. 29, 2026",
+     "url": "https://ww3.ca2.uscourts.gov/decisions/OPN/24-1510_opn.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Printed court text saying likelihood of confusion is an objective standard and the emails reflected executives' opinions, then that adidas's consumer survey did not persuade the jury",
+     "credit": "Source: 2d Cir. opinion, Apr. 29, 2026",
+     "url": "https://ww3.ca2.uscourts.gov/decisions/OPN/24-1510_opn.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The west front of the U.S. Supreme Court building at dusk, its white columns lit from inside above wide steps",
+     "credit": "Photo: Joe Ravi, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-17",
+   "date": "2026-11-26",
+   "id": "TFH-MJ-S01",
+   "title": "Nevada put medical cannabis in its constitution",
+   "series": "Tech From Here: MJBizCon",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, RN Collins long form",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/nevada-put-medical-cannabis-in-its-constitution"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Nevada Legislature, Nevada Constitution, art. 4, sec. 38; art. 16, sec. 1; art. 19, sec. 2",
+     "url": "https://www.leg.state.nv.us/const/nvconst.html"
+    },
+    {
+     "label": "State of Nevada, Secretary of State, Ballot Questions 1998, Question 9 (Legislative Counsel Bureau copy)",
+     "url": "https://www.leg.state.nv.us/Division/Research/VoteNV/BallotQuestions/1998.pdf"
+    },
+    {
+     "label": "State of Nevada, Secretary of State, Ballot Questions 2000, letter and Question 9 (Legislative Counsel Bureau copy)",
+     "url": "https://www.leg.state.nv.us/Division/Research/VoteNV/BallotQuestions/2000.pdf"
+    },
+    {
+     "label": "Nevada Secretary of State, 1998 Official General Election Returns, p. 21 (Internet Archive copy)",
+     "url": "https://web.archive.org/web/20260717160029/https://www.nvsos.gov/SOSelectionPages/results/1998General/1998GeneralElectionResults.pdf"
+    },
+    {
+     "label": "Nevada Secretary of State, Official 2000 General Election Results (Internet Archive copy)",
+     "url": "https://web.archive.org/web/20261026190725/https://www.nvsos.gov/SOSelectionPages/results/2000General/ElectionSummary.aspx"
+    },
+    {
+     "label": "Nevada Legislature, AB 453 (2001), as enrolled",
+     "url": "https://archive.leg.state.nv.us/Session/71st2001/bills/AB/AB453_EN.pdf"
+    },
+    {
+     "label": "Nevada Legislature, AB 453 (2001) bill history",
+     "url": "https://archive.leg.state.nv.us/Session/71st2001/Reports/history@ID=4321.html"
+    },
+    {
+     "label": "Legislative Counsel Bureau Research Library, legislative history of AB 453 (2001), incl. Statutes of Nevada 2001, ch. 592",
+     "url": "https://www.leg.state.nv.us/Division/Research/Library/LegHistory/LHs/2001/AB453,2001.pdf"
+    },
+    {
+     "label": "Legislative Counsel Bureau, Research Brief on Nevada Medical Marijuana Program (January 2016)",
+     "url": "https://www.leg.state.nv.us/Division/Research/Publications/ResearchBriefs/NVMedicalMarijuanaProgram.pdf"
+    },
+    {
+     "label": "Colorado Office of Legislative Legal Services, Medical Marijuana law summary",
+     "url": "https://content.leg.colorado.gov/sites/default/files/medical-marijuana.pdf"
+    },
+    {
+     "label": "U.S. Supreme Court, United States v. Oakland Cannabis Buyers' Cooperative, 532 U.S. 483 (2001)",
+     "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep532/usrep532483/usrep532483.pdf"
+    },
+    {
+     "label": "MJBizCon 2026 schedule (Emerald X), Thursday, December 3 session on insurance and patient access",
+     "url": "https://mjbizconference.com/schedule/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The Nevada State Capitol, Carson City, seen down a tree-lined walk",
+     "credit": "Photo: Bohao Zhao, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Nevada_State_Capitol_-_panoramio.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Art. 4 sec. 38 heading and (1)(a)",
+     "credit": "Source: Nev. Const. art. 4, sec. 38",
+     "url": "https://www.leg.state.nv.us/const/nvconst.html",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Question 9 condensation, 1998 booklet",
+     "credit": "Source: NV Ballot Questions 1998",
+     "url": "https://www.leg.state.nv.us/Division/Research/VoteNV/BallotQuestions/1998.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Question 9 county rows and totals, 1998 official returns",
+     "credit": "Source: NV Sec. of State, 1998 returns",
+     "url": "https://web.archive.org/web/20260717160029/https://www.nvsos.gov/SOSelectionPages/results/1998General/1998GeneralElectionResults.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Art. 19 sec. 2(4): resubmit at the next succeeding general election",
+     "credit": "Source: Nev. Const. art. 19, sec. 2(4)",
+     "url": "https://www.leg.state.nv.us/const/nvconst.html",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Letter: Question 9 appears for the second and last time",
+     "credit": "Source: NV Ballot Questions 2000",
+     "url": "https://www.leg.state.nv.us/Division/Research/VoteNV/BallotQuestions/2000.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Question 9, 2000 booklet, with the result written in by hand",
+     "credit": "Source: NV Ballot Questions 2000",
+     "url": "https://www.leg.state.nv.us/Division/Research/VoteNV/BallotQuestions/2000.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Art. 4 sec. 38(1)(d) registry and (e) supply",
+     "credit": "Source: Nev. Const. art. 4, sec. 38",
+     "url": "https://www.leg.state.nv.us/const/nvconst.html",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Art. 4 sec. 38(2): what the section does not do",
+     "credit": "Source: Nev. Const. art. 4, sec. 38",
+     "url": "https://www.leg.state.nv.us/const/nvconst.html",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Statutes of Nevada 2001, ch. 592, p. 3053: AB 453, approved June 14, 2001",
+     "credit": "Source: Statutes of Nevada 2001, ch. 592",
+     "url": "https://www.leg.state.nv.us/Division/Research/Library/LegHistory/LHs/2001/AB453,2001.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-18",
+   "date": "2026-11-27",
+   "id": "master-2027-01-21-0700",
+   "title": "Where a Hawaiʻi beach ends",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/where-a-hawaii-beach-ends"
+   },
+   "research": [
+    {
+     "label": "Hawaiʻi Legislature. Act 16, Session Laws of Hawaii 2020 (S.B. 2060), approved September 15, 2020",
+     "url": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2020/SLH2020_Act16.pdf"
+    },
+    {
+     "label": "Cox, Doak C., Frans Gerritsen and Theodore T. Lee. \"Proposed 'Improvement' of Kaimu Beach, Hawaii.\" Coastal Engineering 1976, chapter 91, pp. 1552 to 1571",
+     "url": "https://doi.org/10.9753/icce.v15.90"
+    }
+   ],
+   "other": [
+    {
+     "label": "Supreme Court of Hawaiʻi. In re Application of Ashford, 50 Haw. 314, 440 P.2d 76 (April 30, 1968), with dissent by Marumoto, J. Caselaw Access Project",
+     "url": "https://static.case.law/haw/50/html/0314-01.html"
+    },
+    {
+     "label": "Supreme Court of Hawaiʻi. In re Application of Ashford, 50 Haw. 452 (June 10, 1968), rehearing denied",
+     "url": "https://static.case.law/haw/50/html/0452-01.html"
+    },
+    {
+     "label": "Supreme Court of Hawaiʻi. County of Hawaii v. Sotomura, 55 Haw. 176, 517 P.2d 57 (December 11, 1973), with opinion of Marumoto, J., concurring and dissenting",
+     "url": "https://static.case.law/haw/55/html/0176-01.html"
+    },
+    {
+     "label": "U.S. District Court for the District of Hawaii. Sotomura v. County of Hawaii, 460 F. Supp. 473 (October 16, 1978)",
+     "url": "https://static.case.law/f-supp/460/html/0473-01.html"
+    },
+    {
+     "label": "Supreme Court of Hawaiʻi. In re Application of Sanborn, 57 Haw. 585, 562 P.2d 771 (March 23, 1977)",
+     "url": "https://static.case.law/haw/57/html/0585-01.html"
+    },
+    {
+     "label": "Supreme Court of Hawaiʻi. State ex rel. Kobayashi v. Zimring, 58 Haw. 106 (June 22, 1977), with dissent by Vitousek, Circuit Judge",
+     "url": "https://static.case.law/haw/58/html/0106-01.html"
+    },
+    {
+     "label": "Supreme Court of Hawaiʻi. Diamond v. State, Board of Land and Natural Resources, 112 Haw. 161, 145 P.3d 704 (October 24, 2006)",
+     "url": "https://static.case.law/haw/112/html/0161-01.html"
+    },
+    {
+     "label": "Supreme Court of Hawaiʻi. Diamond v. Dobbin, 132 Haw. 9, 319 P.3d 1017 (January 27, 2014)",
+     "url": "https://static.case.law/haw/132/html/0009-01.html"
+    },
+    {
+     "label": "Hawaiʻi Legislature. Hawaii Revised Statutes sections 205A-1, 205A-41, 205A-42 and 205A-43, current text with source notes",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0205A/HRS_0205A-0001.htm"
+    },
+    {
+     "label": "U.S. Army Engineer Division, Pacific Ocean. Final Environmental Statement, Kaimu Beach, Hawaii, Proposed Shore Protection (August 1973), with Plate 5. USACE Digital Library",
+     "url": "https://usace.contentdm.oclc.org/digital/collection/p16021coll7/id/15839"
+    },
+    {
+     "label": "Fletcher, C.H., and others. National Assessment of Shoreline Change: Historical Shoreline Change in the Hawaiian Islands. U.S. Geological Survey Open-File Report 2011-1051 (2012)",
+     "url": "https://pubs.usgs.gov/of/2011/1051/"
+    },
+    {
+     "label": "U.S. Geological Survey. Kīlauea 1955 Lower East Rift Zone Eruption, Lower Puna",
+     "url": "https://www.usgs.gov/volcanoes/kilauea/kilauea-1955-lower-east-rift-zone-eruption-lower-puna"
+    },
+    {
+     "label": "U.S. Geological Survey, Hawaiian Volcano Observatory. \"Volcano Watch: Revisiting Kalapana amidst the current flow activity,\" December 11, 2014",
+     "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-revisiting-kalapana-amidst-current-flow-activity"
+    },
+    {
+     "label": "U.S. National Archives. Documerica photographs by Charles O'Rear, Kaimū Black Sand Beach, November 1973, 554118, 554119 and 554122, and Hawaiʻi State Capitol, October 1973, 553744",
+     "url": "https://catalog.archives.gov/id/554118"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "An old color photo of a curved beach of dark sand under a crowd of tall, leaning coconut palms, with white waves rolling in and two tiny people near the water",
+     "credit": "Photo: Charles O'Rear, EPA Documerica",
+     "url": "https://commons.wikimedia.org/wiki/File:FAMOUS_BLACK_SAND_BEACH_AT_KAIMU,_CREATED_BY_LAVA_RUNOFF,_IS_A_FAVORITE_TOURIST_STOP._AREA_AROUND_BEACH_IS_DUE_TO_BE..._-_NARA_-_554118.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A long two-story stone building with arched windows and a square clock tower, behind tall palm trees and a lawn, with a gold and black statue on a pedestal in front",
+     "credit": "Photo: Cliff, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Aliiolani_Hale_(2847734310).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A wide slope of black sand runs across the photo, with white foamy surf washing over its lower half and a man standing ankle deep near the far end, below a row of palm trunks",
+     "credit": "Photo: Charles O'Rear, EPA Documerica",
+     "url": "https://commons.wikimedia.org/wiki/File:FAMOUS_BLACK_SAND_BEACH_AT_KAIMU,_CREATED_BY_LAVA_RUNOFF,_IS_A_FAVORITE_TOURIST_STOP._AREA_AROUND_BEACH_IS_DUE_TO_BE..._-_NARA_-_554122.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A black and white line map of a curved bay",
+     "credit": "Source: U.S. Army Corps of Engineers, 1973",
+     "url": "https://usace.contentdm.oclc.org/digital/collection/p16021coll7/id/15839",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "An aerial photo of a green coastline where a broad gray field of fresh lava has spread over much of the land down to the dark sea cliffs, with surf breaking along the shore",
+     "credit": "Photo: U.S. Geological Survey",
+     "url": "https://commons.wikimedia.org/wiki/File:Kalapana_1990-05-31.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A curving tan beach seen from above, with green water in front, pieces of driftwood and fallen branches lying along the top of the sand, and a dense line of tall, wispy trees behind",
+     "credit": "Photo: Syced, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Wainiha_Beach_Park.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A bar chart headed Points with long-term erosion, USGS, early 1900s to 2000s: Kauaʻi 71 percent, Oʻahu 60 percent, Maui 85 percent and all three islands 70 percent",
+     "credit": "Chart: RN Collins, from USGS data",
+     "url": "https://pubs.usgs.gov/of/2011/1051/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-19",
+   "date": "2026-11-30",
+   "id": "TFH-MJ-S02",
+   "title": "Protection without a storefront: Nevada medical cannabis, 2001 to 2016",
+   "series": "Tech From Here: MJBizCon",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, RN Collins long form",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/protection-without-a-storefront"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Nevada Constitution art. 4 sec. 38, reprinted by the Legislative Counsel Bureau (Exhibit J) (February 22, 2013)",
+     "url": "https://archive.leg.state.nv.us/Session/77th2013/Exhibits/Senate/JUD/SJUD268J.pdf"
+    },
+    {
+     "label": "Nevada Legislature, Assembly Bill 453 (enrolled), 71st Session (June 14, 2001 (approved))",
+     "url": "https://archive.leg.state.nv.us/Session/71st2001/bills/AB/AB453_EN.pdf"
+    },
+    {
+     "label": "Eighth Judicial District Court (Judge Donald M. Mosley), order filed as Exhibit N (February 29, 2012)",
+     "url": "https://archive.leg.state.nv.us/Session/77th2013/Exhibits/Senate/JUD/SJUD268N.pdf"
+    },
+    {
+     "label": "Nevada Senate Committee on Judiciary, minutes of March 29, 2013 (March 29, 2013)",
+     "url": "https://archive.leg.state.nv.us/Session/77th2013/Minutes/Senate/JUD/Final/624.pdf"
+    },
+    {
+     "label": "Nevada Legislature, Senate Bill 374 (enrolled), 77th Session (June 12, 2013 (approved))",
+     "url": "https://archive.leg.state.nv.us/Session/77th2013/Bills/SB/SB374_EN.pdf"
+    },
+    {
+     "label": "Nevada Division of Public and Behavioral Health, Medical Marijuana Establishment home page (Page last updated April 21, 2017)",
+     "url": "https://web.archive.org/web/20170505021710/http://dpbh.nv.gov/Reg/MME/MME_-_Home/"
+    },
+    {
+     "label": "Nevada Division of Public and Behavioral Health, presentation to the Advisory Commission on the Administration of Justice (March 23, 2016)",
+     "url": "https://www.leg.state.nv.us/App/InterimCommittee/REL/Document/2311"
+    },
+    {
+     "label": "Nevada Legislature, Assembly Bill 538 (enrolled), 75th Session (approved May 22, 2009)",
+     "url": "https://archive.leg.state.nv.us/Session/75th2009/Bills/AB/AB538_EN.pdf"
+    },
+    {
+     "label": "Nevada Senate Committee on Judiciary, minutes of February 22, 2013",
+     "url": "https://archive.leg.state.nv.us/Session/77th2013/Minutes/Senate/JUD/Final/268.pdf"
+    },
+    {
+     "label": "Legislative Counsel Bureau, Comparison of Medical Marijuana Programs 2012 (Exhibit L, Feb. 22, 2013)",
+     "url": "https://archive.leg.state.nv.us/Session/77th2013/Exhibits/Senate/JUD/SJUD268L.pdf"
+    },
+    {
+     "label": "Nevada Division of Public and Behavioral Health, Medical Marijuana Program presentation (July 2014)",
+     "url": "https://www.leg.state.nv.us/App/InterimCommittee/REL/Document/4091"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Nevada State Capitol, Carson City, seen from above",
+     "credit": "Photo: Quintin Soloviev, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Nevada_State_Capitol_Building_-_Carson_City.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Article 4, section 38(1)(d) and (e): registry and supply",
+     "credit": "Source: Nev. Const. art. 4 sec. 38 (LCB)",
+     "url": "https://archive.leg.state.nv.us/Session/77th2013/Exhibits/Senate/JUD/SJUD268J.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Section 17(3)(b): one ounce, three mature and four immature plants",
+     "credit": "Source: AB 453 (2001), Nevada Legislature",
+     "url": "https://archive.leg.state.nv.us/Session/71st2001/bills/AB/AB453_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Section 24(1)(f): no exemption for delivering marijuana for consideration",
+     "credit": "Source: AB 453 (2001), Nevada Legislature",
+     "url": "https://archive.leg.state.nv.us/Session/71st2001/bills/AB/AB453_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Section 30.5: seek federal approval for a seed bank and a state program to produce and deliver",
+     "credit": "Source: AB 453 (2001), Nevada Legislature",
+     "url": "https://archive.leg.state.nv.us/Session/71st2001/bills/AB/AB453_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "District court order, page 2, lines 21 to 26: the law prevents any storefront provider",
+     "credit": "Source: Nev. district court order, 2012",
+     "url": "https://archive.leg.state.nv.us/Session/77th2013/Exhibits/Senate/JUD/SJUD268N.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Committee minutes: testimony of William J. Baker",
+     "credit": "Source: Senate Judiciary minutes, 2013",
+     "url": "https://archive.leg.state.nv.us/Session/77th2013/Minutes/Senate/JUD/Final/624.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Section 11(1): dispensary certificates by county population",
+     "credit": "Source: SB 374 (2013), Nevada Legislature",
+     "url": "https://archive.leg.state.nv.us/Session/77th2013/Bills/SB/SB374_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Program timeline: August 2014 to August 2015",
+     "credit": "Source: Nevada DPBH web page, 2017 copy",
+     "url": "https://web.archive.org/web/20170505021710/http://dpbh.nv.gov/Reg/MME/MME_-_Home/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Slide: who is fully operational, as of March 16, 2016",
+     "credit": "Source: Nevada DPBH slides, March 2016",
+     "url": "https://www.leg.state.nv.us/App/InterimCommittee/REL/Document/2311",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-20",
+   "date": "2026-12-02",
+   "id": "TFH-MJ-S07",
+   "title": "Nevada borrowed its cannabis regulator from the casino floor",
+   "series": "Tech From Here: MJBizCon",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, RN Collins long form",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/nevada-borrowed-its-cannabis-regulator-from-the-casino-floor"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Nevada Legislature, Assembly Bill 533 (2019), enrolled",
+     "url": "https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB533_EN.pdf"
+    },
+    {
+     "label": "Statutes of Nevada 2019, chapter 595 (AB 533), approved June 12, 2019",
+     "url": "https://www.leg.state.nv.us/Statutes/80th2019/Stats201922.html"
+    },
+    {
+     "label": "Nevada Assembly Committee on Judiciary, minutes, May 21, 2019",
+     "url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/JUD/Final/1254.pdf"
+    },
+    {
+     "label": "Nevada Senate Committee on Judiciary, minutes, June 1, 2019",
+     "url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/JUD/Final/1422.pdf"
+    },
+    {
+     "label": "Nevada Revised Statutes chapter 678A",
+     "url": "https://www.leg.state.nv.us/nrs/NRS-678A.html"
+    },
+    {
+     "label": "Nevada Revised Statutes chapter 463",
+     "url": "https://www.leg.state.nv.us/nrs/NRS-463.html"
+    },
+    {
+     "label": "Nevada Revised Statutes 233B.039",
+     "url": "https://www.leg.state.nv.us/nrs/NRS-233B.html"
+    },
+    {
+     "label": "Nevada Legislature, Senate Bill 328 (2023), enrolled",
+     "url": "https://www.leg.state.nv.us/Session/82nd2023/Bills/SB/SB328_EN.pdf"
+    },
+    {
+     "label": "Nevada Legislature, Assembly Bill 76 (2025), enrolled",
+     "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB76_EN.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Agency Overview (2025)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2025/02/CCB-Agency-Overview-FINAL.pdf"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Nevada Legislative Building, Carson City, August 22, 2009",
+     "credit": "Photo: Chanilim714, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Nevada_State_Legislature_Carson_City_NV_-_panoramio_(1).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Digest: board generally modeled after the Gaming Control Board",
+     "credit": "Source: Nev. AB 533 (2019), digest",
+     "url": "https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB533_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Testimony: lighter structure, about 45 people versus 400 in gaming",
+     "credit": "Source: Asm. Judiciary minutes, 5/21/2019",
+     "url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/JUD/Final/1254.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Section 3(3): public confidence and trust kept by strict regulation",
+     "credit": "Source: Nev. AB 533 (2019), sec. 3",
+     "url": "https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB533_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Section 55: required board seats",
+     "credit": "Source: Nev. AB 533 (2019), sec. 55",
+     "url": "https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB533_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Section 52: advisory commission studies and recommends",
+     "credit": "Source: Nev. AB 533 (2019), sec. 52",
+     "url": "https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB533_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Section 196: (o) The Cannabis Compliance Board added to the APA exemption list",
+     "credit": "Source: Nev. AB 533 (2019), sec. 196",
+     "url": "https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB533_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "SB 328: emulate privileged industries insofar as compatible",
+     "credit": "Source: Nev. SB 328 (2023), sec. 1",
+     "url": "https://www.leg.state.nv.us/Session/82nd2023/Bills/SB/SB328_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "SB 328: cannabis board struck from the APA exemption list",
+     "credit": "Source: Nev. SB 328 (2023), sec. 5",
+     "url": "https://www.leg.state.nv.us/Session/82nd2023/Bills/SB/SB328_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "AB 76: board shall appoint hearing officers",
+     "credit": "Source: Nev. AB 76 (2025), sec. 5",
+     "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB76_EN.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-21",
+   "date": "2026-12-04",
+   "id": "TFH-MJ-S10",
+   "title": "In Clark County, cannabis regulation can reach the magazine and the consultant",
+   "series": "Tech From Here: MJBizCon",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, RN Collins long form",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/clark-county-cannabis-regulation-magazine-consultant"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Clark County Department of Business License, Cannabis Support Business Checklist and Application Packet (modified Feb 10, 2025), p. 1 to 2",
+     "url": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:24c29b66-394f-4759-bb6c-723d58c0a5e8/original/as/cannabis-support-business-checklist-and-application-packet.pdf"
+    },
+    {
+     "label": "Clark County, Cannabis Establishments page",
+     "url": "https://www.clarkcountynv.gov/business/doing_business_with_clark_county/divisions/cannabis-establishments"
+    },
+    {
+     "label": "Clark County Board of County Commissioners, Bill No. 12-6-22-2 (approved Dec 20, 2022), sections 8.65.110 and 8.65.160",
+     "url": "https://clark.legistar1.com/clark/attachments/1d599e3d-14b1-4d71-9d62-87c4d2fde849.pdf"
+    },
+    {
+     "label": "Clark County Board of County Commissioners, Bill No. 10-6-20-4 (approved Oct 20, 2020), section 8.65.190",
+     "url": "https://clark.legistar1.com/clark/attachments/00000000-0006-0000-0000-000000119224.pdf"
+    },
+    {
+     "label": "Nevada Legislature, NRS 678B.520 and 678B.530 (revised Apr 15, 2026)",
+     "url": "https://www.leg.state.nv.us/nrs/nrs-678b.html"
+    },
+    {
+     "label": "Nevada Legislature, NAC 678A.020 and NAC 678B.247",
+     "url": "https://www.leg.state.nv.us/nac/nac-678b.html"
+    },
+    {
+     "label": "Clark County Ordinance No. 5354, chapter 7.220 Hemp Retail Sales (approved Mar 17, 2026; effective Jul 15, 2026)",
+     "url": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:b1728050-0c9d-49c5-ad53-6cb60d290969/original/as/hemp-ordinance-signed.pdf"
+    },
+    {
+     "label": "Clark County Public Communications, FAQ (unincorporated county)",
+     "url": "https://www.clarkcountynv.gov/government/departments/public_communications/faq"
+    },
+    {
+     "label": "Central Hudson Gas & Electric Corp. v. Public Service Commission, 447 U.S. 557 (1980)",
+     "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep447/usrep447557/usrep447557.pdf"
+    },
+    {
+     "label": "Cocroft v. Graham, No. 24-60086 (5th Cir. Nov 22, 2024)",
+     "url": "https://www.ca5.uscourts.gov/opinions/pub/24/24-60086-CV0.pdf"
+    },
+    {
+     "label": "MJBizCon 2026 schedule (organizer page)",
+     "url": "https://mjbizconference.com/schedule/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Sandstone pyramid and office wing of the Clark County Government Center, Las Vegas",
+     "credit": "Photo: A. Ištoković, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Clark_County_Government_Center_-_panoramio.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Instructions naming media outlets, consulting and patient consulting as support businesses",
+     "credit": "Source: Clark County support packet",
+     "url": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:24c29b66-394f-4759-bb6c-723d58c0a5e8/original/as/cannabis-support-business-checklist-and-application-packet.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Section 8.65.110: more than fifty percent revenue test; list starting with security and consulting services",
+     "credit": "Source: Clark County Bill 12-6-22-2",
+     "url": "https://clark.legistar1.com/clark/attachments/1d599e3d-14b1-4d71-9d62-87c4d2fde849.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Code Conference after public safety inspections and agency sign-off",
+     "credit": "Source: Clark County support packet",
+     "url": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:24c29b66-394f-4759-bb6c-723d58c0a5e8/original/as/cannabis-support-business-checklist-and-application-packet.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "8.65.160 Duties of licensee, with support business license holders added (underlined)",
+     "credit": "Source: Clark County Bill 12-6-22-2",
+     "url": "https://clark.legistar1.com/clark/attachments/1d599e3d-14b1-4d71-9d62-87c4d2fde849.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "8.65.190(b): no advertising material not approved by the department",
+     "credit": "Source: Clark County Bill 10-6-20-4",
+     "url": "https://clark.legistar1.com/clark/attachments/00000000-0006-0000-0000-000000119224.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "NRS 678B.520(11)(b): 30 percent under-21 audience rule",
+     "credit": "Source: NRS 678B.520(11)(b)",
+     "url": "https://www.leg.state.nv.us/nrs/nrs-678b.html#NRS678BSec520",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "NRS 678B.520(13): local power over signs and handouts, excluding print media",
+     "credit": "Source: NRS 678B.520(13)",
+     "url": "https://www.leg.state.nv.us/nrs/nrs-678b.html#NRS678BSec520",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "NRS 678B.530(2): content rules only by ordinance",
+     "credit": "Source: NRS 678B.530(2)",
+     "url": "https://www.leg.state.nv.us/nrs/nrs-678b.html#NRS678BSec530",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Las Vegas Convention Center facade with flags and trees, September 2008",
+     "credit": "Photo: Michael Gray, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Convention_Ctr.jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-22",
+   "date": "2026-12-05",
+   "id": "POL-01",
+   "title": "Total THC: the one word that moves the hemp line",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, RN Collins long form",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/total-thc-after-december-11"
+   },
+   "research": [
+    {
+     "label": "U.S. Congress, Public Law 119-37, Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026, division B, section 781, 139 Stat. 558 to 561, approved November 12, 2025. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/pdf/PLAW-119publ37.pdf"
+    },
+    {
+     "label": "U.S. Congress, Public Law 119-103, Continuing Appropriations and Extensions Act, 2027 (H.R. 6500), approved September 2, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/pdf/PLAW-119publ103.pdf"
+    },
+    {
+     "label": "U.S. Congress, Public Law 115-334, Agriculture Improvement Act of 2018, section 12619, 132 Stat. 5018. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ334/pdf/PLAW-115publ334.pdf"
+    },
+    {
+     "label": "Drug Enforcement Administration, Schedules of Controlled Substances: Rescheduling of Food and Drug Administration Approved Products Containing Marijuana From Schedule I to Schedule III; Corresponding Change to Permit Requirements, final rule issued as AG Order No. 6754-2026, 91 FR 22714 to 22723, April 28, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08176.pdf"
+    },
+    {
+     "label": "Drug Enforcement Administration, Specific Listing for Hexahydrocannabinol, A Currently Controlled Schedule I Substance, final rule, 91 FR 23913 to 23915, May 4, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-05-04/pdf/2026-08595.pdf"
+    },
+    {
+     "label": "Wang, M., Wang, Y.-H., Avula, B., Radwan, M. M., Wanas, A. S., van Antwerp, J., Parcher, J. F., ElSohly, M. A., and Khan, I. A. (2016). Decarboxylation study of acidic cannabinoids: a novel approach using ultra-high-performance supercritical fluid chromatography/photodiode array-mass spectrometry. Cannabis and Cannabinoid Research, 1(1), 262 to 271",
+     "url": "https://doi.org/10.1089/can.2016.0020"
+    },
+    {
+     "label": "The White House, Executive Order 14370, Increasing Medical Marijuana and Cannabidiol Research, December 18, 2025, 90 FR 60541 to 60543, December 23, 2025. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2025-12-23/pdf/2025-23846.pdf"
+    },
+    {
+     "label": "Wang et al. (2016), Cannabis and Cannabinoid Research 1(1):262, abstract (2016), abstract, PMC page",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549281/"
+    }
+   ],
+   "other": [
+    {
+     "label": "U.S. Department of Agriculture, 7 CFR 990.1, Meaning of terms, current text on eCFR (latest amendment November 24, 2023)",
+     "url": "https://www.ecfr.gov/current/title-7/subtitle-B/chapter-IX/part-990/subpart-A/section-990.1"
+    },
+    {
+     "label": "Federal Register, documents from the Food and Drug Administration",
+     "url": "https://www.federalregister.gov/agencies/food-and-drug-administration"
+    },
+    {
+     "label": "U.S. Food and Drug Administration, FDA Regulation of Cannabis and Cannabis-Derived Products, Including Cannabidiol (CBD), content current as of July 16, 2024",
+     "url": "https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd"
+    },
+    {
+     "label": "GovInfo, Public and Private Laws, 119th Congress",
+     "url": "https://www.govinfo.gov/app/collection/plaw/119"
+    },
+    {
+     "label": "Congress.gov, S. 3686, Hemp Planting Predictability Act, latest action January 15, 2026, referred to the Senate Committee on Agriculture, Nutrition, and Forestry",
+     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3686"
+    },
+    {
+     "label": "Congress.gov, H.R. 7024, Hemp Planting Predictability Act, latest action May 20, 2026, referred to the Subcommittee on Forestry and Horticulture",
+     "url": "https://www.congress.gov/bill/119th-congress/house-bill/7024"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Flowering top of a female cannabis plant, its bracts and leaves covered in glandular trichomes",
+     "credit": "Photo: Psychonaught (Commons), PD",
+     "url": "https://commons.wikimedia.org/wiki/File:Marijuana_and_its_trichomes.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "DEA quoting the 2018 hemp definition (delta-9 THC, 0.3 percent)",
+     "credit": "Source: 91 FR 22714 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08176.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Abstract: the acids are the predominant cannabinoids in the plant",
+     "credit": "Source: Wang et al. 2016 (PMC), CC BY 4.0",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549281/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Abstract: THCA-A decarboxylation forthright, no side reactions or by-products",
+     "credit": "Source: Wang et al. 2016 (PMC), CC BY 4.0",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549281/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Section 781: total tetrahydrocannabinols including THCA, 0.3 percent",
+     "credit": "Source: Pub. L. 119-37 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/pdf/PLAW-119publ37.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Section 2019: until December 11, 2026 only the non-natural cannabinoid exclusions apply",
+     "credit": "Source: Pub. L. 119-103 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/pdf/PLAW-119publ103.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "DEA footnote: as of November 12, 2026 the definition is revised",
+     "credit": "Source: 91 FR 22714 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08176.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "FDA to publish cannabinoid lists within 90 days",
+     "credit": "Source: Pub. L. 119-37 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/pdf/PLAW-119publ37.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-23",
+   "date": "2026-12-06",
+   "id": "TFH-MJ-S04",
+   "title": "Every regulated cannabis plant in Nevada gets a data double",
+   "series": "Tech From Here: MJBizCon",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, RN Collins long form",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/every-regulated-cannabis-plant-in-nevada-gets-a-data-double"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Nevada Administrative Code, chapter 678A (Cannabis Compliance Board), sections 678A.050 and 678A.235",
+     "url": "https://www.leg.state.nv.us/nac/NAC-678A.html"
+    },
+    {
+     "label": "Nevada Administrative Code, chapter 678B, sections 678B.214, 678B.217 and 678B.566",
+     "url": "https://www.leg.state.nv.us/nac/NAC-678B.html"
+    },
+    {
+     "label": "Nevada Administrative Code, chapter 678D, section 678D.020",
+     "url": "https://www.leg.state.nv.us/nac/NAC-678D.html"
+    },
+    {
+     "label": "Nevada Revised Statutes, chapter 678A, sections 678A.455 and 678A.470",
+     "url": "https://www.leg.state.nv.us/NRS/NRS-678A.html"
+    },
+    {
+     "label": "Nevada Revised Statutes, chapter 678B, sections 678B.505, 678B.635 and 678B.640",
+     "url": "https://www.leg.state.nv.us/NRS/NRS-678B.html"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Package Adjustment Reasons (August 14, 2025)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2025/08/Package-Adjustment-Reasons-for-release.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Metrc Item Catalog FAQ (revised April 6, 2026)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2026/04/Metrc-Item-Catalog-FAQ.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Guidance page, Metrc Industry Bulletins section",
+     "url": "https://ccb.nv.gov/guidance/"
+    },
+    {
+     "label": "Nevada Legislative Auditor, Performance Audit LA20-05, Department of Taxation Marijuana Regulation and Enforcement (2019)",
+     "url": "https://leg.state.nv.us/audit/Full/BE2020/LA20-05_Department_of_Taxation_Marijuana_Regulation_and_Enforcement.pdf"
+    },
+    {
+     "label": "Nevada Department of Taxation, Fair Market Value at Wholesale of Cannabis, effective October 1, 2026",
+     "url": "https://tax.nv.gov/wp-content/uploads/2026/09/FINAL_Fair-Market-Value-at-Wholesale-Summary-Oct_2026.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Combined Final Cultivation Audit Checklists (2023)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2023/07/Combined-Final-Cultivation-Audit-Checklists.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Adopted Regulation LCB File R152-24 (2026)",
+     "url": "https://www.leg.state.nv.us/Register/2024Register/R152-24A.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Proposed Changes to NCCRs 1, 4, 5, 6, 7, 9, 10, 12 (March 2026)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2026/01/Proposed-Changes-to-NCCR-1-15-030426.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Notice of Intent to Act Upon a Regulation, LCB File R152-24 (hearing October 15, 2026)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2026/09/FCR-NOI-R152.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Notice of Intent to Act Upon a Regulation, LCB File R103-26 (hearing October 15, 2026)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2026/09/Notice-of-Intent-to-Act-Upon-a-Regulation-%E2%80%93-R103-26.pdf"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Male flowers of Cannabis sativa, Botanical Garden KIT, Karlsruhe, Germany",
+     "credit": "Photo: H. Zell, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Cannabis_sativa_002.JPG",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Definition of batch number: a unique identifier assigned when the batch is planted",
+     "credit": "Source: NAC 678A.050 (Nev. Legislature)",
+     "url": "https://www.leg.state.nv.us/nac/NAC-678A.html#NAC678ASec050",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Use of seed-to-sale tracking system; payment of fees; tagging",
+     "credit": "Source: NAC 678B.217 (Nev. Legislature)",
+     "url": "https://www.leg.state.nv.us/nac/NAC-678B.html#NAC678BSec217",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Subsection 10: duties of the receiving establishment after a transfer",
+     "credit": "Source: NAC 678D.020 (Nev. Legislature)",
+     "url": "https://www.leg.state.nv.us/nac/NAC-678D.html#NAC678DSec020",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Subsection 8: tracking, job reconciliation and quarterly physical counts",
+     "credit": "Source: NAC 678B.214 (Nev. Legislature)",
+     "url": "https://www.leg.state.nv.us/nac/NAC-678B.html#NAC678BSec214",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Entry Error row of the package adjustment reasons table",
+     "credit": "Source: Nevada CCB, Aug 14, 2025",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2025/08/Package-Adjustment-Reasons-for-release.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Comparison of tax returns with tracking data, January to June 2018: 70, 57 and 60 percent",
+     "credit": "Source: Nev. Legislative Auditor, LA20-05",
+     "url": "https://leg.state.nv.us/audit/Full/BE2020/LA20-05_Department_of_Taxation_Marijuana_Regulation_and_Enforcement.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Fair market value table effective Oct 1, 2026, and the note that it was calculated from transactions in the seed-to-sale system (METRC)",
+     "credit": "Source: Nevada Dept. of Taxation, 2026",
+     "url": "https://tax.nv.gov/wp-content/uploads/2026/09/FINAL_Fair-Market-Value-at-Wholesale-Summary-Oct_2026.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Package ID numbers and the certificate of analysis linked to the package",
+     "credit": "Source: Nevada CCB, Item Catalog FAQ",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2026/04/Metrc-Item-Catalog-FAQ.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Board authority to issue hold orders; 30-day limit; regulations required",
+     "credit": "Source: NRS 678A.455 (Nev. Legislature)",
+     "url": "https://www.leg.state.nv.us/NRS/NRS-678A.html#NRS678ASec455",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-24",
+   "date": "2026-12-08",
+   "id": "idea-pd26-1883-code-of-indian-offenses",
+   "title": "When US law banned ceremony: the 1883 Code of Indian Offenses",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/when-us-law-banned-ceremony-1883-code-of-indian-offenses"
+   },
+   "research": [
+    {
+     "label": "U.S. Office of Indian Affairs, Regulations of the Indian Office, effective April 1, 1904, sections 584 to 591, pp. 101 to 105, scan hosted by the National Indian Law Library",
+     "url": "https://narf.org/nill/documents/1904regulations.pdf"
+    },
+    {
+     "label": "Public Law 95-341, American Indian Religious Freedom joint resolution, August 11, 1978, 92 Stat. 469 to 470",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg469.pdf"
+    },
+    {
+     "label": "Jimmy Carter, \"American Indian Religious Freedom Statement on Signing S.J. Res. 102 Into Law,\" August 12, 1978, American Presidency Project",
+     "url": "https://www.presidency.ucsb.edu/documents/american-indian-religious-freedom-statement-signing-sj-res-102-into-law"
+    },
+    {
+     "label": "Public Law 103-344, American Indian Religious Freedom Act Amendments of 1994, 108 Stat. 3125 to 3127",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg3125.pdf"
+    },
+    {
+     "label": "Executive Order 13007, \"Indian Sacred Sites,\" May 24, 1996, 61 Fed. Reg. 26771 to 26772",
+     "url": "https://www.govinfo.gov/content/pkg/FR-1996-05-29/pdf/96-13597.pdf"
+    },
+    {
+     "label": "Denezpi v. United States, 596 U.S. 591 (2022), preliminary print, Supreme Court of the United States",
+     "url": "https://www.supremecourt.gov/opinions/21pdf/596us2r41_2924.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "U.S. Office of Indian Affairs, Rules Governing the Court of Indian Offenses (Washington: Government Printing Office, 1883), with H. M. Teller's letter of December 2, 1882, Commissioner H. Price's cover note of March 30, 1883, and Teller's approval of April 10, 1883. Boston Public Library copy, Internet Archive",
+     "url": "https://archive.org/details/rulesgoverningco00unit"
+    },
+    {
+     "label": "Annual Report of the Commissioner of Indian Affairs, 1883 (Washington, 1883), section \"Court of Indian Offenses,\" pp. xiv to xv",
+     "url": "https://archive.org/details/usindianaffairs83usdorich"
+    },
+    {
+     "label": "Annual Report of the Commissioner of Indian Affairs, 1884, section \"Court of Indian Offenses,\" pp. ix to xi, and agent's report from the Ponca, Pawnee and Otoe agency, pp. 85 to 86",
+     "url": "https://archive.org/details/usindianaffairs84usdorich"
+    },
+    {
+     "label": "Annual Report of the Commissioner of Indian Affairs, 1889, section \"Courts of Indian Offenses,\" pp. 26 to 27",
+     "url": "https://archive.org/details/annualreportofco188900unitrich"
+    },
+    {
+     "label": "Annual Report of the Commissioner of Indian Affairs, 1892, pp. 24 to 31, including the full revised rules for Indian courts",
+     "url": "https://archive.org/details/usindianaffairs92usdorich"
+    },
+    {
+     "label": "United States v. Clapox, 35 F. 575 (D. Or. 1888), Caselaw Access Project",
+     "url": "https://static.case.law/f/35/html/0575-01.html"
+    },
+    {
+     "label": "Bureau of Indian Affairs, Office of Justice Services, \"Our History\" (drawing on D. Etheridge, Indian Law Enforcement History, 1975)",
+     "url": "https://www.bia.gov/bia/ojs/careers/our-history"
+    },
+    {
+     "label": "Bureau of Indian Affairs, \"CFR Court History,\" Southern Plains CFR Court",
+     "url": "https://www.bia.gov/CFRCourts/southern-plains-cfr-court/History"
+    },
+    {
+     "label": "Alexandra Fay, \"Courts of Indian Offenses, Courts of Indian Resistance,\" Michigan Law Review (March 2026)",
+     "url": "https://michiganlawreview.org/journal/courts-of-indian-offenses-courts-of-indian-resistance/"
+    },
+    {
+     "label": "National Library of Medicine, Native Voices timeline, \"1883: Courts of Indian Offenses established\"",
+     "url": "https://www.nlm.nih.gov/nativevoices/timeline/364.html"
+    },
+    {
+     "label": "National Library of Medicine, Native Voices timeline, \"1934: Commissioner calls for religious freedom for American Indians\"",
+     "url": "https://www.nlm.nih.gov/nativevoices/timeline/453.html"
+    },
+    {
+     "label": "National Indian Law Library, Native American Rights Fund, \"Civilization Regulations and Policy\"",
+     "url": "https://narf.org/nill/resources/civilization_policy.html"
+    },
+    {
+     "label": "Charles H. Burke, \"A Message\" to all Indians, February 24, 1923, National Archives at Atlanta, RG 75, Cherokee Indian Agency subject files, item 279365",
+     "url": "https://catalog.archives.gov/id/279365"
+    },
+    {
+     "label": "Lyng v. Northwest Indian Cemetery Protective Association, 485 U.S. 439 (1988), Caselaw Access Project",
+     "url": "https://static.case.law/us/485/html/0439-01.html"
+    },
+    {
+     "label": "Employment Division v. Smith, 494 U.S. 872 (1990), Caselaw Access Project",
+     "url": "https://static.case.law/us/494/html/0872-01.html"
+    },
+    {
+     "label": "Code of Federal Regulations, Title 25, Part 11, \"Courts of Indian Offenses and Law and Order Code,\" eCFR text current to October 27, 2026",
+     "url": "https://www.ecfr.gov/current/title-25/chapter-I/subchapter-B/part-11"
+    },
+    {
+     "label": "Bureau of Indian Affairs, \"Tribal Court Systems\" and \"CFR Courts\" pages",
+     "url": "https://www.bia.gov/CFRCourts/tribal-justice-support-directorate"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A crop of printed text on aged paper beginning 4th",
+     "credit": "Source: Office of Indian Affairs, 1883",
+     "url": "https://archive.org/details/rulesgoverningco00unit",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A yellowed printed page headed Rules governing the Court of Indian Offenses, dated Washington, March 30, 1883, with the start of a letter dated December 2, 1882",
+     "credit": "Source: Office of Indian Affairs, 1883",
+     "url": "https://archive.org/details/rulesgoverningco00unit",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A crop of printed text on yellowed paper beginning 6th",
+     "credit": "Source: Office of Indian Affairs, 1883",
+     "url": "https://archive.org/details/rulesgoverningco00unit",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A fine-line engraving of a man with a full graying beard and swept-back hair, in a dark jacket and bow tie, with his name and title printed beneath",
+     "credit": "Source: Illustrated Fraternal Directory",
+     "url": "https://commons.wikimedia.org/wiki/File:Matthew_P._Deady,_of_Oregon,_Judge_U.S._Circuit_Court_1889_0079.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A crop of black serif type on white paper beginning Fourth",
+     "credit": "Source: Office of Indian Affairs, 1904",
+     "url": "https://narf.org/nill/documents/1904regulations.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A crop of a printed 1978 statute: Whereas traditional American Indian ceremonies have been intruded upon, interfered with, and in a few instances banned, followed by the resolution and the margin note American Indian Religious Freedom",
+     "credit": "Source: U.S. Statutes at Large (GovInfo)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg469.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A paragraph of a printed 2022 Supreme Court opinion: Today, most tribes have established their own judicial systems",
+     "credit": "Source: Supreme Court of the United States",
+     "url": "https://www.supremecourt.gov/opinions/21pdf/596us2r41_2924.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-25",
+   "date": "2026-12-09",
+   "id": "master-2027-01-28-0700",
+   "title": "The ship named in the law",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/the-jones-act-and-hawaii"
+   },
+   "research": [
+    {
+     "label": "Act of April 30, 1900, ch. 339, 31 Stat. 141 (Hawaiian Organic Act), scan hosted by the Department of the Interior",
+     "url": "https://doi.gov/sites/doi.gov/files/uploads/31_stat_141_hawaiian_organic_act_1900.pdf"
+    },
+    {
+     "label": "House debate on the Hawaii bill, Cong. Rec. vol. 33, page 3861 (April 1900), transcribed by the University of Hawaiʻi at Mānoa Library",
+     "url": "https://libweb.hawaii.edu/digicoll/annexation/organic/oa1088.php"
+    },
+    {
+     "label": "Delgado, James P., Falls of Clyde evaluation and delisting recommendation for HDOT, May 10, 2023, with the 1988 landmark nomination",
+     "url": "https://hidot.hawaii.gov/harbors/files/2023/06/20230510-Falls-of-Clyde-evaluation.pdf"
+    },
+    {
+     "label": "Reeve and Associates and TZ Economics, \"Impact of the U.S. Jones Act on Hawaii,\" July 2020, released by the American Maritime Partnership",
+     "url": "https://www.sailors.org/sites/default/files/legacy/pdf/jones-act-hawaii-report-final-copy_07202020.pdf"
+    },
+    {
+     "label": "American Maritime Partnership, report summary, July 2020",
+     "url": "https://www.americanmaritimepartnership.com/wp-content/uploads/2020/07/Jones-Act-Hawaii-Report-Final-Summary.pdf"
+    },
+    {
+     "label": "Case, Ed, letter to Secretary Mayorkas, April 18, 2023",
+     "url": "https://case.house.gov/UploadedFiles/Rep_Case_Letter_to_Sec_Mayorkas_Jones_Act_Waiver_04.18.2023_v2.pdf"
+    },
+    {
+     "label": "Kōloa Rum Co. v. Noem, No. 25-554 (JEB), U.S. District Court for the District of Columbia, memorandum opinion, January 20, 2026",
+     "url": "https://nsglc.olemiss.edu/casealert/feb-2026/koaa-rum.pdf"
+    },
+    {
+     "label": "Hawaiʻi House Concurrent Resolution 119, 2023",
+     "url": "https://data.capitol.hawaii.gov/sessions/session2023/Bills/HCR119_.pdf"
+    },
+    {
+     "label": "Olney, William W., \"Cabotage sabotage? The curious case of the Jones Act,\" Journal of International Economics 127 (November 2020)",
+     "url": "https://doi.org/10.1016/j.jinteco.2020.103378"
+    }
+   ],
+   "other": [
+    {
+     "label": "Hawaiʻi Department of Transportation (HDOT), \"Falls of Clyde removed from Honolulu Harbor,\" October 15, 2025",
+     "url": "https://hidot.hawaii.gov/?p=16865"
+    },
+    {
+     "label": "HDOT, release 25-0305 on the Falls of Clyde removal contract, July 14, 2025",
+     "url": "https://content.govdelivery.com/accounts/HIDOT/bulletins/3e97b2f"
+    },
+    {
+     "label": "National Park Service, \"Falls of Clyde (Four-Masted Oil Tanker),\" updated December 18, 2024",
+     "url": "https://www.nps.gov/subjects/nationalhistoriclandmarks/falls-of-clyde-nhl-withdrawal-of-designation.htm"
+    },
+    {
+     "label": "Frittelli, John, \"Shipping Under the Jones Act: Legislative and Regulatory Background,\" Congressional Research Service R45725, updated November 21, 2019",
+     "url": "https://www.everycrsreport.com/reports/R45725.html"
+    },
+    {
+     "label": "46 U.S.C. 55102 with notes, U.S. Code 2024 edition, GovInfo",
+     "url": "https://www.govinfo.gov/link/uscode/46/55102"
+    },
+    {
+     "label": "46 U.S.C. 501, U.S. Code 2024 edition, GovInfo",
+     "url": "https://www.govinfo.gov/link/uscode/46/501"
+    },
+    {
+     "label": "Case, Ed, \"Introduction of Jones Act Modernization Bills,\" Cong. Rec. vol. 171, E90 to E91, February 4, 2025",
+     "url": "https://www.govinfo.gov/content/pkg/CREC-2025-02-04/html/CREC-2025-02-04-pt1-PgE90-4.htm"
+    },
+    {
+     "label": "Akina, Keli'i (Grassroot Institute president), The Garden Island, August 15, 2021",
+     "url": "https://thegardenisland.com/?p=350814"
+    },
+    {
+     "label": "Grassroot Institute news release, July 16, 2020, reprinted by Hawaii Free Press",
+     "url": "https://www.hawaiifreepress.com/Articles-Main/ID/25992/Major-new-study-finally-reveals-how-much-Jones-Act-costs-Hawaii"
+    },
+    {
+     "label": "GAO-13-260, Puerto Rico and the Jones Act, March 2013",
+     "url": "https://www.gao.gov/products/gao-13-260"
+    },
+    {
+     "label": "U.S. Customs Service ruling HQ 112038, March 3, 1992",
+     "url": "https://rulings.cbp.gov/ruling/112038"
+    },
+    {
+     "label": "U.S. Customs Service ruling HQ 112559, February 24, 1993",
+     "url": "https://rulings.cbp.gov/ruling/112559"
+    },
+    {
+     "label": "Hawaii Cattlemen's Council, \"Guidelines for the Interstate Shipment of Stocker Cattle,\" approved January 15, 2020",
+     "url": "https://hicattle.org/Media/HICattle/Docs/guidelines-for-interstate-shipping-approved-jan-2020.doc"
+    },
+    {
+     "label": "GAO-04-421, \"Maritime Law Exemption,\" February 2004",
+     "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-421/html/GAOREPORTS-GAO-04-421.htm"
+    },
+    {
+     "label": "Public Law 108-7, division B, section 211, 117 Stat. 79 to 80, February 20, 2003",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-108publ7/html/PLAW-108publ7.htm"
+    },
+    {
+     "label": "Navy NewsStand story NNS060110-11, January 10, 2006, as kept by GlobalSecurity.org",
+     "url": "https://www.globalsecurity.org/military/library/news/2006/01/mil-060110-nns01.htm"
+    },
+    {
+     "label": "H.R. 665, 119th Congress, January 23, 2025",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr665ih/html/BILLS-119hr665ih.htm"
+    },
+    {
+     "label": "H.R. 2586, 118th Congress, April 13, 2023",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2586ih/html/BILLS-118hr2586ih.htm"
+    },
+    {
+     "label": "GovInfo bill status, H.R. 2586",
+     "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/118/hr/BILLSTATUS-118hr2586.xml"
+    },
+    {
+     "label": "GovInfo bill status, H.R. 665",
+     "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr665.xml"
+    },
+    {
+     "label": "U.S. Coast Guard photo 181004-G-SQ620-1003 and caption, October 4, 2018",
+     "url": "https://commons.wikimedia.org/wiki/File:Daniel_K._Inouye_Coast_Guard_inspection_3.jpg"
+    },
+    {
+     "label": "WorkBoat, \"Matson contracts with Philly Shipyard for three ships at $1 billion,\" November 7, 2022",
+     "url": "https://www.workboat.com/shipbuilding/matson-contracts-with-philly-shipyard-for-three-ships-at-1-billion"
+    },
+    {
+     "label": "U.S. Customs and Border Protection, CSMS 68096516, March 19, 2026",
+     "url": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40f1204"
+    },
+    {
+     "label": "Renshaw, Jarrett (Reuters), \"Trump extends Jones Act waiver for 90 days, narrows scope,\" Hawaii Tribune-Herald, August 11, 2026",
+     "url": "https://www.hawaiitribune-herald.com/?p=374967"
+    },
+    {
+     "label": "U.S. Customs and Border Protection, CSMS 70435180, \"Updated Guidance #5,\" November 13, 2026",
+     "url": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/432c16c"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A tall four-masted sailing ship with bare masts and a long dark hull, tied up at a harbor pier in front of a low building with a lookout tower, under a cloudy blue sky",
+     "credit": "Photo: Daniel Ramirez, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:The_Falls_of_Clyde_in_Honolulu_(4504940668).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A scanned paragraph of old printed law text beginning Sec. 98, That all vessels carrying Hawaiian registers, and naming the Star of France, Euterpe, Star of Russia, Falls of Clyde and Wilscott",
+     "credit": "Source: 31 Stat. 141, Interior Dept. scan",
+     "url": "https://doi.gov/sites/doi.gov/files/uploads/31_stat_141_hawaiian_organic_act_1900.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A black and white glass-plate photo of a man with short hair and a light-colored suit sitting in a dark leather armchair, one hand resting on the chair arm, in an office with a window behind him",
+     "credit": "Photo: National Photo Co., LOC",
+     "url": "https://www.loc.gov/pictures/item/2016845466/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "An old color photo looking up at a tall dockside crane holding a rack of several cars in the air, with a downtown building and dark green mountains behind under a pink evening sky",
+     "credit": "Photo: Charles O'Rear, EPA Documerica",
+     "url": "https://commons.wikimedia.org/wiki/File:AUTOMOBILES,_LIKE_ALMOST_ALL_SUPPLIES_FOR_THE_ISLANDS,_ARE_TRANSPORTED_BY_SHIP_-_NARA_-_553741.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A bar chart headed U.S.-built ship price vs foreign: 1.2 times in 1922, 1.5 times in the 1930s, 2 times in the 1950s, 3 times in the 1990s, about 4 times for a tanker and up to 5 times for a container ship around 2019",
+     "credit": "Chart: RN Collins, from CRS data",
+     "url": "https://www.everycrsreport.com/reports/R45725.html",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "An old color photo of a herd of black and white cattle walking through tall dry grass on a slope, with a person on horseback among them and a flat sea line under a hazy sky",
+     "credit": "Photo: Charles O'Rear, EPA Documerica",
+     "url": "https://commons.wikimedia.org/wiki/File:MOVING_CATTLE_IN_THE_RICH_GRAZING_LANDS_OF_THE_AGRICULTURAL_DISTRICT_-_NARA_-_554128.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A white cruise ship far out on gray-green water, with a bright rainbow rising behind it and breaking waves close to the shore in front",
+     "credit": "Photo: Daniel Ramirez, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Pride_of_America_heading_into_Honolulu_(4610730445).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "The top of a typed court filing headed United States District Court for the District of Columbia, with a boxed caption naming Kōloa Rum Company as plaintiff and Kristi Noem, Matson Navigation Company and American Maritime Partnership as the other parties",
+     "credit": "Source: Kōloa Rum v. Noem, D.D.C., 2026",
+     "url": "https://nsglc.olemiss.edu/casealert/feb-2026/koaa-rum.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-26",
+   "date": "2026-12-10",
+   "id": "TFH-MJ-S09",
+   "title": "Nevada reserved ten lounge licenses for social equity. Then the process kept going.",
+   "series": "Tech From Here: MJBizCon",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, RN Collins long form",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/nevada-reserved-ten-lounge-licenses-for-social-equity"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Nevada Legislature, Assembly Bill 341 (2021), enrolled text, sec. 9, 11, 12.4, 16.5, 17",
+     "url": "https://www.leg.state.nv.us/Session/81st2021/Bills/AB/AB341_EN.pdf"
+    },
+    {
+     "label": "Nevada Revised Statutes, chapter 678B (NRS 678B.326, 678B.327)",
+     "url": "https://www.leg.state.nv.us/nrs/NRS-678B.html"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, NCCR Regulation 5 (April 17, 2024), 5.045, 5.050, 5.055",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2024/04/Reg-5_v041724-1.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, NCCR Regulation 15 (August 16, 2023)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2023/08/Reg-15_v081623.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Identifying Disproportionately Impacted Areas (July 2022)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2022/07/Updated-Social-Equity-Methodology-.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, release (November 23, 2022)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2022/11/RNS-announcement-11-23-22for-release.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, prospective license holders (November 30, 2022)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2022/12/Cannabis-Consumption-Lounge-Prospective-License-Holders-FINAL.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, internal audit release (July 2, 2024)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2024/07/July-2-CCB-Completes-Internal-Audit-of-Licenses-Reserved-for-Social-Equity-FOR-RELEASE-1.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, release (August 22, 2024)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2024/08/CCB-Issues-Six-Prospective-Licenses-for-Social-Equity-Applicants-FOR-RELEASE.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, meeting minutes (May 15, 2025)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2025/06/05.15.25-Meeting-Minutes.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, meeting minutes (August 21, 2025)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2025/09/08.21.25-Meeting-Minutes-approved-rev.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, meeting minutes (September 18, 2025)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2025/10/09.18.25-Meeting-Minutes-approved.pdf"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Statistics and Analysis (October 2026)",
+     "url": "https://ccb.nv.gov/statistics/"
+    },
+    {
+     "label": "Nevada Cannabis Compliance Board, Cannabis Establishment List (October 2, 2026)",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2026/10/Cannabis-Establishment-List-10.02.26_V.2.xlsx"
+    },
+    {
+     "label": "Nevada Legislature, Statutes of Nevada 2025, chapter 459 (AB 76)",
+     "url": "https://www.leg.state.nv.us/Statutes/83rd2025/Stats202523.html"
+    },
+    {
+     "label": "MJBizCon 2026 schedule",
+     "url": "https://mjbizconference.com/schedule/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Nevada State Legislature building, Carson City, in snow",
+     "credit": "Photo: teofilo, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Nevada_State_Legislature_Building.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Section 12.4: cap of 20 independent lounge licenses; at least 10 for social equity applicants",
+     "credit": "Source: NV AB 341 (2021), sec. 12.4",
+     "url": "https://www.leg.state.nv.us/Session/81st2021/Bills/AB/AB341_EN.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "NCCR 5.055: 51 percent ownership, five years in a qualifying census tract, cannabis conviction, 75 percent fee cut",
+     "credit": "Source: NV CCB, NCCR 5.055",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2024/04/Reg-5_v041724-1.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Table of complete applications: 99 total, 20 retail, 49 independent, 30 social equity",
+     "credit": "Source: NV CCB release, Nov 23, 2022",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2022/11/RNS-announcement-11-23-22for-release.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Audit table, header and rows 1 to 10 (the 2022 draws): six fail the incarceration test",
+     "credit": "Source: NV CCB audit table, July 2, 2024",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2024/07/July-2-CCB-Completes-Internal-Audit-of-Licenses-Reserved-for-Social-Equity-FOR-RELEASE-1.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Audit paragraph: 6 of 10 drawn miscalculated; addresses requested from all 30; at least 8 of 20 undrawn met both tests",
+     "credit": "Source: NV CCB release, July 2, 2024",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2024/07/July-2-CCB-Completes-Internal-Audit-of-Licenses-Reserved-for-Social-Equity-FOR-RELEASE-1.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Second draw: 6 previously selected found ineligible; all 8 undrawn eligible applicants opted in; fee refund",
+     "credit": "Source: NV CCB release, Aug 22, 2024",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2024/08/CCB-Issues-Six-Prospective-Licenses-for-Social-Equity-Applicants-FOR-RELEASE.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Agenda item III: first social equity applicant before the Board; local approvals and final inspection still required",
+     "credit": "Source: NV CCB minutes, May 15, 2025",
+     "url": "https://ccb.nv.gov/wp-content/uploads/2025/06/05.15.25-Meeting-Minutes.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Cannabis Establishment Statistics, October 2026, adult-use block: 3 lounge facilities",
+     "credit": "Source: NV CCB statistics, Oct 2026",
+     "url": "https://ccb.nv.gov/statistics/",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Social equity counts by stage, 2022 to 2026",
+     "credit": "Chart: RN Collins, from CCB data",
+     "url": "https://ccb.nv.gov/public-meetings/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-27",
+   "date": "2026-12-11",
+   "id": "idea-who-donates-a-brain",
+   "title": "Who donates a brain, and who decides?",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/who-donates-a-brain-and-who-decides"
+   },
+   "research": [
+    {
+     "label": "Crystal M. Glover, Raj C. Shah, David A. Bennett, Robert S. Wilson and Lisa L. Barnes, \"Perceived Impediments to Completed Brain Autopsies Among Diverse Older Adults Who Have Signed a Uniform Anatomical Gift Act for Brain Donation for Clinical Research,\" Ethnicity and Disease 30 (Suppl 2): 709 to 718, 2020, DOI 10.18865/ed.30.S2.709",
+     "url": "https://europepmc.org/article/PMC/PMC7683028"
+    },
+    {
+     "label": "Lisa L. Barnes, Raj C. Shah, Neelum T. Aggarwal, David A. Bennett and Julie A. Schneider, \"The Minority Aging Research Study: Ongoing Efforts to Obtain Brain Donation in African Americans without Dementia,\" Current Alzheimer Research 9(6): 734 to 745, 2012",
+     "url": "https://doi.org/10.2174/156720512801322627"
+    },
+    {
+     "label": "Illinois General Assembly, Public Act 100-0041 (HB 1805), effective January 1, 2018",
+     "url": "https://www.ilga.gov/Documents/legislation/publicacts/100/PDF/100-0041.pdf"
+    },
+    {
+     "label": "Ana S. Iltis and Briana Denny, \"First-Person Authorization and Family Objections to Organ Donation,\" Journal of Medicine and Philosophy 50(3): 212 to 224, 2025",
+     "url": "https://doi.org/10.1093/jmp/jhaf008"
+    },
+    {
+     "label": "Linda Boise, Ladson Hinton, Howard J. Rosen and Mary Ruhl, \"Will My Soul Go to Heaven If They Take My Brain? Beliefs and Worries About Brain Donation Among Four Ethnic Groups,\" The Gerontologist 57(4): 719 to 734, 2017",
+     "url": "https://doi.org/10.1093/geront/gnv683"
+    },
+    {
+     "label": "Kathryn R. Darnell, Caitlin McGuire and Deborah D. Danner, \"African American Participation in Alzheimer's Disease Research That Includes Brain Donation,\" American Journal of Alzheimer's Disease and Other Dementias 26(6): 469 to 476, 2011",
+     "url": "https://doi.org/10.1177/1533317511423020"
+    },
+    {
+     "label": "Tyler Schnieders, Deborah D. Danner, Caitlin McGuire, Flores Reynolds and Erin Abner, \"Incentives and Barriers to Research Participation and Brain Donation Among African Americans,\" American Journal of Alzheimer's Disease and Other Dementias 28(5): 485 to 490, 2013",
+     "url": "https://doi.org/10.1177/1533317513488922"
+    },
+    {
+     "label": "Angela L. Jefferson and colleagues, \"Factors Associated with African American and White Elders' Participation in a Brain Donation Program,\" Alzheimer Disease and Associated Disorders 25(1): 11 to 16, 2011",
+     "url": "https://doi.org/10.1097/WAD.0b013e3181f3e059"
+    },
+    {
+     "label": "Albrecht v. Treon, 118 Ohio St.3d 348, 2008-Ohio-2617 (Supreme Court of Ohio, June 5, 2008)",
+     "url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/0/2008/2008-Ohio-2617.pdf"
+    },
+    {
+     "label": "Amy Deep-Soboslay and colleagues, \"African-American and Caucasian Participation in Postmortem Human Brain Donation for Neuropsychiatric Research,\" PLOS ONE 14(10): e0222565, 2019, CC0",
+     "url": "https://doi.org/10.1371/journal.pone.0222565"
+    },
+    {
+     "label": "Federal Policy for the Protection of Human Subjects, final rule, 82 Fed. Reg. 7149 (January 19, 2017)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2017-01-19/pdf/2017-01058.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Illinois Anatomical Gift Act, 755 ILCS 50, current text on the Illinois General Assembly site, sections 1-1 through 5-55. Section pages cited: 1-5",
+     "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/075500500K1-5.htm"
+    },
+    {
+     "label": "Uniform Law Commission, Anatomical Gift Act community page",
+     "url": "https://www.uniformlaws.org/committees/community-home?CommunityKey=015e18ad-4806-4dff-b011-8e1ebc0d1d0f"
+    },
+    {
+     "label": "Texas Senate Research Center, Bill Analysis, S.B. 1597, 80th Legislature, May 2, 2007",
+     "url": "https://capitol.texas.gov/tlodocs/80R/analysis/html/SB01597I.htm"
+    },
+    {
+     "label": "NIH NeuroBioBank, \"Learn How to Become a Brain Donor\"",
+     "url": "https://neurobiobank.nih.gov/donors-how-become-donor/"
+    },
+    {
+     "label": "NIH NeuroBioBank, \"Donor Frequently Asked Questions\"",
+     "url": "https://neurobiobank.nih.gov/donors-faqs/"
+    },
+    {
+     "label": "NIH NeuroBioBank, \"About the NIH NeuroBioBank\"",
+     "url": "https://neurobiobank.nih.gov/about/"
+    },
+    {
+     "label": "Brotherton v. Cleveland, 923 F.2d 477 (6th Cir. 1991), Caselaw Access Project",
+     "url": "https://static.case.law/f2d/923/html/0477-01.html"
+    },
+    {
+     "label": "Shipley v. City of New York, 25 N.Y.3d 645 (2015), Caselaw Access Project",
+     "url": "https://static.case.law/ny3d/25/html/0645-01.html"
+    },
+    {
+     "label": "Protection of Human Subjects, 45 CFR 46.102, eCFR text current as of November 2026",
+     "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.102"
+    },
+    {
+     "label": "HIPAA definitions, 45 CFR 160.103, eCFR text current as of November 2026",
+     "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-160/subpart-A/section-160.103"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Typewriter-style statute text headed Public Act 100-0041, section 5-7, with the words a person other than the donor is barred from changing, amending, or revoking",
+     "credit": "Source: Illinois Public Act 100-0041",
+     "url": "https://www.ilga.gov/Documents/legislation/publicacts/100/PDF/100-0041.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A web page headed Learn How to Become a Brain Donor, a paragraph of dark text ending a consent form must be signed by the next of kin at the time of death",
+     "credit": "Source: NIH NeuroBioBank",
+     "url": "https://neurobiobank.nih.gov/donors-how-become-donor/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "An opened question box on a web page: I have registered to be an organ donor on my driver's license, does this include my brain? Below it, the answer No",
+     "credit": "Source: NIH NeuroBioBank",
+     "url": "https://neurobiobank.nih.gov/donors-faqs/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A page of typewriter-style statute text headed Public Act 100-0041, with a numbered list from an individual acting as the decedent's agent down to any other person authorized to dispose of the body",
+     "credit": "Source: Illinois Public Act 100-0041",
+     "url": "https://www.ilga.gov/Documents/legislation/publicacts/100/PDF/100-0041.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A bar chart on cream paper: Religious Orders Study 94.2 percent, Rush Memory and Aging Project 81.5 percent, African American members of four studies 53.4 percent",
+     "credit": "Chart: RN Collins, from Barnes 2012 data",
+     "url": "https://doi.org/10.2174/156720512801322627",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A printed court opinion page with the caption Albrecht et al. v",
+     "credit": "Source: Supreme Court of Ohio, 2008",
+     "url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/0/2008/2008-Ohio-2617.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A bar chart on cream paper: all families reached 69.7 percent, White families 74.1 percent, Black families 57.0 percent",
+     "credit": "Chart: RN Collins, from PLOS ONE data",
+     "url": "https://doi.org/10.1371/journal.pone.0222565",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-28",
+   "date": "2026-12-12",
+   "id": "POL-03",
+   "title": "The hemp timeline: eight years and three laws",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, RN Collins long form",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/hemp-timeline-2018-to-december-11"
+   },
+   "research": [
+    {
+     "label": "U.S. Congress, Public Law 115-334, Agriculture Improvement Act of 2018, approved December 20, 2018, sections 10113 and 12619. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ334/pdf/PLAW-115publ334.pdf"
+    },
+    {
+     "label": "U.S. Congress, Public Law 119-37, approved November 12, 2025, title page, section 1 and division B section 781. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/pdf/PLAW-119publ37.pdf"
+    },
+    {
+     "label": "U.S. Congress, Public Law 119-103, Continuing Appropriations and Extensions Act, 2027, approved September 2, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/pdf/PLAW-119publ103.pdf"
+    },
+    {
+     "label": "The White House, Executive Order 14370, Increasing Medical Marijuana and Cannabidiol Research, December 18, 2025, 90 FR 60541 to 60543. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2025-12-23/pdf/2025-23846.pdf"
+    },
+    {
+     "label": "Drug Enforcement Administration, AG Order 6754-2026, 91 FR 22714 to 22723, April 28, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08176.pdf"
+    },
+    {
+     "label": "Drug Enforcement Administration, Specific Listing for Hexahydrocannabinol, A Currently Controlled Schedule I Substance, 91 FR 23913 to 23915, May 4, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-05-04/pdf/2026-08595.pdf"
+    },
+    {
+     "label": "Drug Enforcement Administration, Rescheduling of Marijuana; Withdrawal, 91 FR 22778, April 28, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08178.pdf"
+    },
+    {
+     "label": "Drug Enforcement Administration, Schedules of Controlled Substances: Rescheduling of Marijuana, notice of hearing, 91 FR 22777 to 22778, April 28, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08177.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "U.S. Department of Agriculture, 7 CFR 990.1, Meaning of terms, eCFR current text and version list",
+     "url": "https://www.ecfr.gov/current/title-7/subtitle-B/chapter-IX/part-990/subpart-A/section-990.1"
+    },
+    {
+     "label": "U.S. Food and Drug Administration, 5 Things to Know about Delta-8 Tetrahydrocannabinol, Delta-8 THC, content current as of May 4, 2022",
+     "url": "https://www.fda.gov/consumers/consumer-updates/5-things-know-about-delta-8-tetrahydrocannabinol-delta-8-thc"
+    },
+    {
+     "label": "Federal Register, FDA documents",
+     "url": "https://www.federalregister.gov/agencies/food-and-drug-administration"
+    },
+    {
+     "label": "U.S. Food and Drug Administration, FDA Regulation of Cannabis and Cannabis-Derived Products, content current as of July 16, 2024",
+     "url": "https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd"
+    },
+    {
+     "label": "GovInfo, Public and Private Laws, 119th Congress",
+     "url": "https://www.govinfo.gov/app/collection/plaw/119"
+    },
+    {
+     "label": "Congress.gov, S. 3686",
+     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3686"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Rows of young hemp plants in white mulch on a Maryland farm",
+     "credit": "Photo: USDA AMS, PD",
+     "url": "https://commons.wikimedia.org/wiki/File:Hemp_Farm_MD_(20200814-AMS-RAY-0002).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Section 12619: marihuana does not include hemp",
+     "credit": "Source: Pub. L. 115-334 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ334/pdf/PLAW-115publ334.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Title page, Nov. 12, 2025, H.R. 5371",
+     "credit": "Source: Pub. L. 119-37 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/pdf/PLAW-119publ37.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Section 781: effective 365 days after enactment",
+     "credit": "Source: Pub. L. 119-37 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/pdf/PLAW-119publ37.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Title page, Sept. 2, 2026, H.R. 6500",
+     "credit": "Source: Pub. L. 119-103 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/pdf/PLAW-119publ103.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Section 106: funding until December 11, 2026",
+     "credit": "Source: Pub. L. 119-103 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/pdf/PLAW-119publ103.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "The U.S. Capitol dome and east front",
+     "credit": "Photo: Carol M. Highsmith, LOC, PD",
+     "url": "https://commons.wikimedia.org/wiki/File:United_States_Capitol,_Washington,_D.C_LCCN2010630189.tif",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-29",
+   "date": "2026-12-14",
+   "id": "POL-02",
+   "title": "The per-container cap: how the new hemp law measures a package",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, RN Collins long form",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/the-per-container-cap"
+   },
+   "research": [
+    {
+     "label": "U.S. Congress, Public Law 119-37, division B, section 781, 139 Stat. 558 to 561, approved November 12, 2025. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/pdf/PLAW-119publ37.pdf"
+    },
+    {
+     "label": "U.S. Congress, Public Law 119-103, Continuing Appropriations and Extensions Act, 2027, approved September 2, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/pdf/PLAW-119publ103.pdf"
+    },
+    {
+     "label": "U.S. Congress, Public Law 115-334, Agriculture Improvement Act of 2018, section 12619. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ334/pdf/PLAW-115publ334.pdf"
+    },
+    {
+     "label": "The White House, Executive Order 14370, Increasing Medical Marijuana and Cannabidiol Research, December 18, 2025, 90 FR 60541 to 60543. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2025-12-23/pdf/2025-23846.pdf"
+    },
+    {
+     "label": "Drug Enforcement Administration, AG Order 6754-2026, 91 FR 22714 to 22723, April 28, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08176.pdf"
+    },
+    {
+     "label": "Drug Enforcement Administration, Specific Listing for Hexahydrocannabinol, final rule, 91 FR 23913 to 23915, May 4, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-05-04/pdf/2026-08595.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "U.S. Food and Drug Administration, 5 Things to Know about Delta-8 Tetrahydrocannabinol, Delta-8 THC, consumer update, content current as of May 4, 2022",
+     "url": "https://www.fda.gov/consumers/consumer-updates/5-things-know-about-delta-8-tetrahydrocannabinol-delta-8-thc"
+    },
+    {
+     "label": "Federal Register, documents from the Food and Drug Administration",
+     "url": "https://www.federalregister.gov/agencies/food-and-drug-administration"
+    },
+    {
+     "label": "U.S. Food and Drug Administration, FDA Regulation of Cannabis and Cannabis-Derived Products, Including Cannabidiol (CBD), content current as of July 16, 2024",
+     "url": "https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd"
+    },
+    {
+     "label": "GovInfo, Public and Private Laws, 119th Congress",
+     "url": "https://www.govinfo.gov/app/collection/plaw/119"
+    },
+    {
+     "label": "Congress.gov, H.R. 9830, Lawful Hemp Protection Act, latest action July 22, 2026 (referral), unchanged November 15, 2026",
+     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9830"
+    },
+    {
+     "label": "Congress.gov, H.R. 10079, Beverage Regulatory Parity Act, latest action August 10, 2026 (referral), unchanged November 15, 2026",
+     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10079"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Hemp in raised beds in a high tunnel, Crawford County, Indiana",
+     "credit": "Photo: B. O'Connor, USDA NRCS, PD",
+     "url": "https://commons.wikimedia.org/wiki/File:Indiana_Hemp_Farm_(20220623-NRCS-BJOC-030).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Clause (iv): 0.4 milligrams combined total per container",
+     "credit": "Source: Pub. L. 119-37 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/pdf/PLAW-119publ37.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Definition of container, innermost pack",
+     "credit": "Source: Pub. L. 119-37 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/pdf/PLAW-119publ37.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Intermediate products: 0.3 percent combined, no consumer sales",
+     "credit": "Source: Pub. L. 119-37 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/pdf/PLAW-119publ37.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "2,362 poison center cases, 41 percent under 18",
+     "credit": "Source: FDA consumer update (2022), PD",
+     "url": "https://www.fda.gov/consumers/consumer-updates/5-things-know-about-delta-8-tetrahydrocannabinol-delta-8-thc",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Keep out of reach of children and pets; packaging that may appeal to children",
+     "credit": "Source: FDA consumer update (2022), PD",
+     "url": "https://www.fda.gov/consumers/consumer-updates/5-things-know-about-delta-8-tetrahydrocannabinol-delta-8-thc",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Full-spectrum CBD products over the per-container threshold",
+     "credit": "Source: EO 14370, 90 FR 60541, PD",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2025-12-23/pdf/2025-23846.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "FDA to give more detail on the term container",
+     "credit": "Source: Pub. L. 119-37 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/pdf/PLAW-119publ37.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-30",
+   "date": "2026-12-15",
+   "id": "idea-pd26t-collective-consent",
+   "title": "One elder's yes is not a community's yes",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/one-elders-yes-is-not-a-communitys-yes"
+   },
+   "research": [
+    {
+     "label": "UN General Assembly, resolution 61/295, United Nations Declaration on the Rights of Indigenous Peoples, adopted September 13, 2007 (A/RES/61/295, issued October 2, 2007)",
+     "url": "https://documents.un.org/doc/undoc/gen/n06/512/07/pdf/n0651207.pdf"
+    },
+    {
+     "label": "Secretariat of the Convention on Biological Diversity, Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization: Text and Annex (Montreal, 2011)",
+     "url": "https://www.cbd.int/abs/doc/protocol/nagoya-protocol-en.pdf"
+    },
+    {
+     "label": "Havasupai Tribe and Arizona Board of Regents, joint press release, \"Havasupai Tribe and Arizona Board of Regents Resolve Lawsuit, Announce Future Collaborations,\" April 21, 2010, as posted by Turtle Talk",
+     "url": "https://turtletalk.blog/wp-content/uploads/2010/04/havasupai-asu-press-release.pdf"
+    },
+    {
+     "label": "Arizona Joint Legislative Budget Committee, Minutes of the Meeting, April 20, 2010",
+     "url": "https://www.azjlbc.gov/meetings/jlbcmin042010.pdf"
+    },
+    {
+     "label": "Nanibaa' A. Garrison, \"Genomic Justice for Native Americans: Impact of the Havasupai Case on Genetic Research,\" Science, Technology, and Human Values 38(2): 201 to 223 (2013)",
+     "url": "https://doi.org/10.1177/0162243912470009"
+    },
+    {
+     "label": "Stephan C. Schuster and others, \"Complete Khoisan and Bantu genomes from southern Africa,\" Nature 463: 943 to 947 (2010)",
+     "url": "https://doi.org/10.1038/nature08795"
+    },
+    {
+     "label": "Doris Schroeder, Kate Chatfield, Michelle Singh, Roger Chennells and Peter Herissone-Kelly, Equitable Research Partnerships: A Global Code of Conduct to Counter Ethics Dumping (Springer, 2019), chapter 7, \"The San Code of Research Ethics,\" pp. 73 to 87, CC BY 4.0",
+     "url": "https://doi.org/10.1007/978-3-030-15745-6_7"
+    },
+    {
+     "label": "Coastal GasLink Pipeline Ltd. v. Huson, 2019 BCSC 2264, Reasons for Judgment of Madam Justice Church, December 31, 2019 (corrected January 22, 2020), PDF as posted by Coastal GasLink",
+     "url": "https://www.coastalgaslink.com/siteassets/pdfs/whats-new/2019/2019-12-31-coastal-gaslink-comments-on-injunction-decision/judge-church--coastal-gaslink-pipeline-ltd.-v.-huson--december-2019.pdf"
+    },
+    {
+     "label": "Conference of the Parties to the Convention on Biological Diversity, decision XIII/18, Article 8(j) and related provisions, Mo'otz Kuxtal Voluntary Guidelines, December 17, 2016 (CBD/COP/DEC/XIII/18)",
+     "url": "https://www.cbd.int/doc/decisions/cop-13/cop-13-dec-18-en.pdf"
+    },
+    {
+     "label": "Republic of South Africa, National Environmental Management: Biodiversity Act, Act No. 10 of 2004, Government Gazette No. 26436, June 7, 2004",
+     "url": "https://www.gov.za/sites/default/files/gcis_document/201409/a10-04.pdf"
+    },
+    {
+     "label": "Kukula Traditional Health Practitioners Association, Biocultural Protocol of the Kukula Traditional Health Practitioners Association (11 pages, English), as hosted by the Heinrich Boell Foundation South Africa",
+     "url": "https://za.boell.org/sites/default/files/bcp-kukula-traditional-health-practitioners-association-english.pdf"
+    },
+    {
+     "label": "International Labour Organisation, Indigenous and Tribal Peoples Convention, 1989 (No. 169), adopted June 27, 1989, text as hosted by the African Commission on Human and Peoples' Rights",
+     "url": "https://achpr.au.int/sites/default/files/files/2021-08/iloconvention169.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Inter-American Court of Human Rights, Case of the Saramaka People v. Suriname, Judgment of August 12, 2008 (Interpretation of the Judgment on Preliminary Objections, Merits, Reparations and Costs), Series C No. 185. Spanish text, Equipo Nizkor copy",
+     "url": "https://derechos.org/nizkor/econ/saramaka1.html"
+    },
+    {
+     "label": "UN Audiovisual Library of International Law, resolution 61/295 page, procedural history and introductory note (Siegfried Wiessner, 2009)",
+     "url": "https://legal.un.org/avl/ha/ga_61-295/ga_61-295.html"
+    },
+    {
+     "label": "CBD Secretariat, Parties to the Nagoya Protocol",
+     "url": "https://www.cbd.int/abs/nagoya-protocol/signatories"
+    },
+    {
+     "label": "Canada Gazette Part II, SOR/2021-39, Order Amending the Schedule to the First Nations Fiscal Management Act, registered March 18, 2021",
+     "url": "https://gazette.gc.ca/rp-pr/p2/2021/2021-03-31/html/sor-dors39-eng.html"
+    },
+    {
+     "label": "Minister Barbara Creecy, Department of Environment, Forestry and Fisheries, speech at the launch of the Rooibos Traditional Knowledge Industry-Wide Benefit Sharing Agreement, November 1, 2019",
+     "url": "https://www.gov.za/news/speeches/minister-barbara-creecy-launch-rooibos-traditional-knowledge-industry-wide-benefit"
+    },
+    {
+     "label": "Memorandum of Understanding Between Canada, British Columbia and Wet'suwet'en as agreed on February 29, 2020, signed May 14, 2020, Crown-Indigenous Relations and Northern Affairs Canada",
+     "url": "https://www.rcaanc-cirnac.gc.ca/eng/1589478905863/1589478945624"
+    },
+    {
+     "label": "Crown-Indigenous Relations and Northern Affairs Canada, news release, \"Wet'suwet'en, B.C. and Canada launch path to implement rights and title,\" May 2020",
+     "url": "https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2020/05/wetsuweten-bc-and-canada-launch-path-to-implement-rights-and-title.html"
+    },
+    {
+     "label": "Department of Forestry, Fisheries and the Environment, South Africa, media statement on the payment of benefits from rooibos to the San and Khoi communities, July 14, 2022",
+     "url": "https://www.gov.za/news/media-statements/foresty-fisheries-and-environment-payment-benefits-rooibos-san-and-khoi"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "An old mounted photograph of about twenty men in dark coats and top hats, many holding staffs, standing in two rows in front of a large white building and trees",
+     "credit": "Photo: Julius Eduard Muller, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:NMvW_-_Granman_Jankoeso_van_de_Saramakaners_poseert_samen_met_zijn_kapiteins_in_de_tuin_van_het_Gouvernementshuis_te_Paramaribo_(TM-FV-1605-10).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A bar chart on cream paper of the 2007 UN vote: 143 in favor, 4 against (Australia, Canada, New Zealand, United States), 11 abstained",
+     "credit": "Chart: RN Collins, from UN vote data",
+     "url": "https://legal.un.org/avl/ha/ga_61-295/ga_61-295.html",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A cropped book page of italic text under the heading Respect, including the line In Genomics research, our leaders were avoided",
+     "credit": "Page: Schroeder and others, CC BY 4.0",
+     "url": "https://doi.org/10.1007/978-3-030-15745-6_7",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A cropped book page of italic text under the heading Process, ending with a paragraph about researchers coming through the door, not the window",
+     "credit": "Page: Schroeder and others, CC BY 4.0",
+     "url": "https://doi.org/10.1007/978-3-030-15745-6_7",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "An older man in glasses wearing a black robe trimmed in red and a tall dark headdress speaks into a handheld microphone",
+     "credit": "Photo: Robbie Morrison, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hereditary_Chief_Na_Moks_speaking_Gas_Gipfel_8_December_2024_shot_1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A close view of a shrub with thin green needle-like leaves and clusters of bright yellow flowers",
+     "credit": "Photo: Winfried Bruenken, CC BY-SA 2.5",
+     "url": "https://commons.wikimedia.org/wiki/File:Rooibos_(Aspalathus_linearis).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A bar chart on cream paper of Parties to the Nagoya Protocol: 53 by the end of 2014, 102 by 2017, 128 by 2020, 140 by 2023 and 143 on Nov 16, 2026",
+     "credit": "Chart: RN Collins, from CBD Party data",
+     "url": "https://www.cbd.int/abs/nagoya-protocol/signatories",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-31",
+   "date": "2026-12-15",
+   "id": "MJBP2702",
+   "title": "2027, date by date: how Virginia's cannabis market opens",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "The Polymath, RN Collins long form",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/virginia-cannabis-market-2027-date-by-date"
+   },
+   "research": [
+    {
+     "label": "Drug Enforcement Administration, AG Order 6754-2026, 91 FR 22714 to 22723, April 28, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08176.pdf"
+    },
+    {
+     "label": "Drug Enforcement Administration, Schedules of Controlled Substances: Rescheduling of Marijuana, notice of hearing, 91 FR 22777 to 22778, April 28, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-28/pdf/2026-08177.pdf"
+    },
+    {
+     "label": "U.S. Congress, Public Law 119-103, section 2019, approved September 2, 2026. GovInfo PDF",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/pdf/PLAW-119publ103.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Virginia General Assembly, House Bill 30, 2026 Special Session I, Chapter 1 (Appropriation Act), Part 4, Item 4-14, Effective Date and additional enactments 2 to 38, as published on the State Budget portal. Web",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Virginia State Capitol, Richmond, front from the southwest with excavation",
+     "credit": "Photo: J. Boucher, HABS/LOC, PD",
+     "url": "https://commons.wikimedia.org/wiki/File:Exterior_view_looking_to_the_southwest_(front)_elevation;_note_excavation_work_in_foreground_-_Virginia_State_Capitol,_Bank_and_10th_Streets,_Capitol_Square,_Richmond,_Independent_HABS_VA,44-RICH,9-75.tif",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "4-14.00: effective July 1, 2026",
+     "credit": "Source: Va. HB30 Item 4-14, enacted text",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Seed-to-sale tracking by Feb 1, 2027",
+     "credit": "Source: Va. HB30 Item 4-14, enacted text",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Applications from Feb 1, licences from May 1, 2027",
+     "credit": "Source: Va. HB30 Item 4-14, enacted text",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Enforcement MOU by March 1, 2027",
+     "credit": "Source: Va. HB30 Item 4-14, enacted text",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "May 1 licence groups; 55 more by July 1, 2027",
+     "credit": "Source: Va. HB30 Item 4-14, enacted text",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "June 1, 2027: old permits need dual-use verification",
+     "credit": "Source: Va. HB30 Item 4-14, enacted text",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "No retail sale before July 1, 2027, medical aside",
+     "credit": "Source: Va. HB30 Item 4-14, enacted text",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    },
+    {
+     "where": "Slide 9",
+     "what": "Testing-lab report by Nov 1, 2027",
+     "credit": "Source: Va. HB30 Item 4-14, enacted text",
+     "url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/4/4-14/",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-32",
+   "date": "2026-12-17",
+   "id": "master-2027-01-14-0700",
+   "title": "Why an undersea cable needs a license to land in Hawaiʻi",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/why-an-undersea-cable-needs-a-license-to-land-in-hawaii"
+   },
+   "research": [
+    {
+     "label": "United States v. Western Union Telegraph Co., 272 F. 311 (S.D.N.Y., February 25, 1921), opinion of Judge Augustus N. Hand, with statement of facts. Caselaw Access Project scan",
+     "url": "https://static.case.law/f/272/case-pdfs/0311-01.pdf"
+    },
+    {
+     "label": "United States v. Western Union Telegraph Co., 272 F. 893 (2d Cir., March 10, 1921), per curiam",
+     "url": "https://static.case.law/f/272/case-pdfs/0893-01.pdf"
+    },
+    {
+     "label": "United States v. Western Union Telegraph Co., 260 U.S. 754 (October 23, 1922)",
+     "url": "https://static.case.law/us/260/case-pdfs/0754-03.pdf"
+    },
+    {
+     "label": "An Act Relating to the landing and operation of submarine cables in the United States, May 27, 1921, ch. 12, 42 Stat. 8 to 9",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-42/pdf/STATUTE-42-Pg8.pdf"
+    },
+    {
+     "label": "Federal Communications Commission. Announcement of effective date, Federal Register, vol. 91, July 8, 2026, p. 42137",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-08/pdf/2026-13765.pdf"
+    },
+    {
+     "label": "Federal Communications Commission. Public Notice, Streamlined Submarine Cable Landing License Applications Accepted for Filing, Report No. SCL-00188S, October 6, 2016",
+     "url": "https://docs.fcc.gov/public/attachments/DOC-341620A1.pdf"
+    },
+    {
+     "label": "Federal Communications Commission. Public Notice DA 25-1102, Report No. SCL-00585, December 23, 2025",
+     "url": "https://docs.fcc.gov/public/attachments/DA-25-1102A1.pdf"
+    },
+    {
+     "label": "Federal Communications Commission. Public Notice DA 25-1103, Report No. SCL-00586, December 23, 2025",
+     "url": "https://docs.fcc.gov/public/attachments/DA-25-1103A1.pdf"
+    },
+    {
+     "label": "Federal Communications Commission. Public Notice DA 26-119, Report No. SCL-00593, February 5, 2026",
+     "url": "https://docs.fcc.gov/public/attachments/DA-26-119A1.pdf"
+    },
+    {
+     "label": "Federal Communications Commission. Public Notice DA 26-121, Report No. SCL-00594, February 5, 2026",
+     "url": "https://docs.fcc.gov/public/attachments/DA-26-121A1.pdf"
+    },
+    {
+     "label": "Hawaiki Submarine Cable USA and TE SubCom. Hawaiki Submarine Cable Kapolei Landing, Final Environmental Assessment, with the Department of Land and Natural Resources transmittal, May 2017",
+     "url": "https://files.hawaii.gov/dbedt/erp/EA_EIS_Library/2017-05-23-OA-FEA-Hawaiki-Submarine-Cable-Kapolei-Landing.pdf"
+    },
+    {
+     "label": "Humuhumu Services and Starfish Infrastructure. Oʻahu Subsea Cable Telecommunications Project, Draft Environmental Assessment, April 2025, published June 23, 2025",
+     "url": "https://files.hawaii.gov/dbedt/erp/Doc_Library/2025-06-23-OA-DEA-Oahu-Subsea-Cable-Telecommunications-Project.pdf"
+    },
+    {
+     "label": "Federal Communications Commission. Public Notice DA 24-821, July 29, 2024",
+     "url": "https://docs.fcc.gov/public/attachments/DA-24-821A1_Rcd.pdf"
+    },
+    {
+     "label": "Federal Communications Commission. Public Notice DA 21-993, August 11, 2021",
+     "url": "https://docs.fcc.gov/public/attachments/DA-21-993A1.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Scientific American, vol. 88, no. 5. \"The Landing of the Honolulu End of the Pacific Cable.\" January 31, 1903, pp. 78 to 80. Internet Archive",
+     "url": "https://archive.org/details/scientific-american-1903-01-31"
+    },
+    {
+     "label": "Hawaiian Gazette (Honolulu, semiweekly), December 30, 1902, \"Shore End of Pacific Cable Laid in Fine Style\" and the arrival report",
+     "url": "https://archive.org/details/hawaiian-gazette-1902-12-30"
+    },
+    {
+     "label": "Walcott, Earle Ashley. \"Laying the Trans-Pacific Cable.\" Sunset, vol. 10, no. 4, February 1903, pp. 253 to 264, with photographs by Tibbitts, Dana, Taber and Weidner, the Dole message facsimile and the company's advertisement. Internet Archive",
+     "url": "https://archive.org/details/sim_sunset-central-west-edition_1903-02_10_4"
+    },
+    {
+     "label": "Sunset, vol. 11, no. 4, August 1903, \"The Course of Empire\" and the company's advertisement. Internet Archive",
+     "url": "https://archive.org/details/sim_sunset-central-west-edition_1903-08_11_4"
+    },
+    {
+     "label": "Commercial Pacific Cable Company. Pacific Cable: Should the Government Parallel the Cable of the Commercial Pacific Cable Company? Greatly Reduced Rates. New York, January 20, 1902. Bancroft Library copy, Internet Archive",
+     "url": "https://archive.org/details/pacificcableshou00commrich"
+    },
+    {
+     "label": "Wilson, George Grafton. \"Landing and Operation of Submarine Cables in the United States.\" American Journal of International Law 16 (1922), pp. 68 to 70, editorial comment (JSTOR Early Journal Content)",
+     "url": "https://archive.org/details/jstor-2187813"
+    },
+    {
+     "label": "47 U.S.C. 34 to 39 with editorial notes, United States Code, 2024 edition, U.S. Government Publishing Office",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title47/html/USCODE-2024-title47-chap2-sec38.htm"
+    },
+    {
+     "label": "Executive Order 10530, May 10, 1954, 19 FR 2709, as codified by the National Archives",
+     "url": "https://www.archives.gov/federal-register/codification/executive-order/10530.html"
+    },
+    {
+     "label": "Federal Communications Commission. \"Review of Submarine Cable Landing License Rules and Procedures,\" Report and Order FCC 25-49, Federal Register, vol. 90, October 27, 2025, pp. 48648 to 48703",
+     "url": "https://www.federalregister.gov/documents/2025/10/27/2025-19658/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security"
+    },
+    {
+     "label": "47 CFR part 1, subpart FF, Cable Landing Licenses (sections 1.70000 to 1.70029), eCFR, current as of November 9, 2026",
+     "url": "https://www.ecfr.gov/current/title-47/chapter-I/subchapter-A/part-1/subpart-FF"
+    },
+    {
+     "label": "Executive Order 13913, April 4, 2020, 85 FR 19643",
+     "url": "https://www.federalregister.gov/documents/2020/04/08/2020-07530/establishing-the-committee-for-the-assessment-of-foreign-participation-in-the-united-states"
+    },
+    {
+     "label": "U.S. Fish and Wildlife Service. \"The Commercial Pacific Cable Company of Midway,\" Midway Atoll National Wildlife Refuge, last updated May 31, 2012, Internet Archive capture of May 21, 2013",
+     "url": "https://web.archive.org/web/20130521110932/http://www.fws.gov/midway/cable.html"
+    },
+    {
+     "label": "U.S. Navy photograph NH 102086, Naval History and Heritage Command, \"Cable Station buildings on Midway Atoll c1904,\" Wikimedia Commons file page",
+     "url": "https://commons.wikimedia.org/wiki/File:Cable_Station_buildings_on_Midway_Atoll_c1904.jpg"
+    },
+    {
+     "label": "Thrum, Thomas G., ed. \"Completion of the Pacific Cable.\" Hawaiian Annual for 1904, pp. 47 to 50, in All About Hawaii (Honolulu, 1903)",
+     "url": "https://archive.org/details/acp0143.1904.001.umich.edu"
+    },
+    {
+     "label": "Hawaiian Telephone Company. Oppositions to Petitions for Rehearing of RCA Communications and Globe Wireless, FCC files P-C-3630 and S-C-L-14, October 1955, CIA reading room copy on the Internet Archive",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp78s05450a000300010007-2"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A grainy old photo of calm water filled with rowboats and canoes, a man standing in a canoe in front, and a crowd on a tree-lined beach behind",
+     "credit": "Photo: Hawaiian Annual for 1904",
+     "url": "https://archive.org/details/acp0143.1904.001.umich.edu",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Printed heading Terms and Conditions Which the Commercial Pacific Cable Company Has Offered to Accept, above text naming Mr",
+     "credit": "Source: Commercial Pacific Cable Co., 1902",
+     "url": "https://archive.org/details/pacificcableshou00commrich",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Printed court text saying the cable ship Colonia was stopped off Miami by United States destroyers and warned not to lay her cable within three miles of Miami Beach, where naval forces stood by",
+     "credit": "Source: 272 F. 311 (S.D.N.Y. 1921)",
+     "url": "https://static.case.law/f/272/case-pdfs/0311-01.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "Printed text of Chapter 12, An Act Relating to the landing and operation of submarine cables in the United States, saying no person shall land or operate a submarine cable without a written license from the President",
+     "credit": "Source: 42 Stat. 8 (1921)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-42/pdf/STATUTE-42-Pg8.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Printed rule text headed section 1.70002 General requirements: a cable landing license must be obtained before landing a cable that connects Alaska, Hawaii or U.S. territories with a foreign country, the continental United States or each other",
+     "credit": "Source: Federal Register, Oct. 27, 2025",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2025-10-27/pdf/2025-19658.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Typed government text headed Conditions, granting a petition filed on behalf of the Committee and conditioning the grant on Hawaiki Submarine Cable USA and BW Digital keeping a 2025 commitment letter and a 2022 agreement",
+     "credit": "Source: FCC DA 25-1102, Dec. 23, 2025",
+     "url": "https://docs.fcc.gov/public/attachments/DA-25-1102A1.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Typed government text headed Ownership of Landing Stations, listing stations in Guam and the Northern Mariana Islands and a new station on Oahu, Hawaii, to be built and owned by Humuhumu Services",
+     "credit": "Source: FCC DA 26-121, Feb. 5, 2026",
+     "url": "https://docs.fcc.gov/public/attachments/DA-26-121A1.pdf",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-33",
+   "date": "2026-12-18",
+   "id": "rnc-sweep-content-strategy-system-21",
+   "title": "Two thirds of Google searches now end without a click",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/two-thirds-of-google-searches-now-end-without-a-click"
+   },
+   "research": [
+    {
+     "label": "Nic Newman, Journalism and Technology Trends and Predictions 2026, Reuters Institute for the Study of Journalism, January 2026",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2026-01/Newman%20-%20Trends%20and%20Predictions%202026%20FINAL.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Rand Fishkin, \"In 2026, Less than One Third of Google Searches Still Send a Click,\" SparkToro, June 2026 (page dated 8 Jun 2026), with charts using Similarweb data",
+     "url": "https://sparktoro.com/blog/in-2026-less-than-one-third-of-google-searches-still-send-a-click/"
+    },
+    {
+     "label": "Rand Fishkin, \"2024 Zero-Click Search Study: For every 1,000 EU Google Searches, only 374 clicks go to the Open Web. In the US, it's 360,\" SparkToro, July 2024 (page dated 1 Jul 2024), with Datos data",
+     "url": "https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/"
+    },
+    {
+     "label": "Ryan Law and Xibeijia Guan, \"AI Overviews Reduce Clicks by 34.5%,\" Ahrefs, April 17, 2025",
+     "url": "https://ahrefs.com/blog/ai-overviews-reduce-clicks/"
+    },
+    {
+     "label": "Ryan Law and Xibeijia Guan, \"Update: AI Overviews Reduce Clicks by 58%,\" Ahrefs, February 4, 2026",
+     "url": "https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/"
+    },
+    {
+     "label": "Tracy McDonald, \"AIO Impact on Google CTR: September 2025 Update,\" Seer Interactive, November 4, 2025",
+     "url": "https://www.seerinteractive.com/insights/aio-impact-on-google-ctr-september-2025-update"
+    },
+    {
+     "label": "Athena Chapekis and Anna Lieb, \"Google users are less likely to click on links when an AI summary appears in the results,\" Pew Research Center, July 22, 2025",
+     "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+     "label": "Liz Reid, \"AI in Search is driving more queries and higher quality clicks,\" Google, August 6, 2025",
+     "url": "https://blog.google/products/search/ai-search-driving-more-queries-higher-quality-clicks/"
+    },
+    {
+     "label": "Gartner, \"Gartner Predicts Search Engine Volume Will Drop 25% by 2026, Due to AI Chatbots and Other Virtual Agents,\" press release, February 19, 2024",
+     "url": "https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents"
+    },
+    {
+     "label": "Alex Kantrowitz, \"Will Search Engine Traffic Really Drop 25% by 2026, as Gartner Predicts?,\" CMSWire, March 20, 2024",
+     "url": "https://www.cmswire.com/digital-experience/will-search-engine-traffic-really-drop-25-by-2026-as-gartner-predicts/"
+    },
+    {
+     "label": "Vidhya Srinivasan, \"AI, personalization and the future of shopping,\" Google, March 3, 2025",
+     "url": "https://blog.google/products/ads-commerce/ai-personalization-and-the-future-of-shopping/"
+    },
+    {
+     "label": "Google, \"Here's our statement on this morning's press reports about Search traffic,\" May 7, 2025",
+     "url": "https://blog.google/products-and-platforms/products/search/statement-press-reports-about-search-traffic/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A chart titled In 2026, what happens after a Google search",
+     "credit": "Source: SparkToro, Similarweb data",
+     "url": "https://sparktoro.com/blog/in-2026-less-than-one-third-of-google-searches-still-send-a-click/",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A bar chart of US Google searches with zero clicks: 45.01 percent in 2016 and 50.33 percent in 2019 from the Jumpshot panel, 60.45 percent in 2024 from Datos, and 68.01 percent in 2026 from Similarweb",
+     "credit": "Chart: RN Collins, from SparkToro data",
+     "url": "https://sparktoro.com/blog/in-2026-less-than-one-third-of-google-searches-still-send-a-click/",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Four bars: searches with one or more clicks, 41.50 percent in 2024 and 32.00 percent in 2026; searches followed by another search, 21.40 percent in 2024 and 28.68 percent in 2026",
+     "credit": "Chart: RN Collins, from SparkToro data",
+     "url": "https://sparktoro.com/blog/in-2026-less-than-one-third-of-google-searches-still-send-a-click/",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A bar chart of clicks to the open web per 1,000 Google searches: 360 for the United States in 2024, 374 for the European Union in 2024, and 232 for the United States in 2026",
+     "credit": "Chart: RN Collins, from SparkToro data",
+     "url": "https://sparktoro.com/blog/in-2026-less-than-one-third-of-google-searches-still-send-a-click/",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Two pairs of bars for the top result's click rate",
+     "credit": "Chart: RN Collins, from Ahrefs data",
+     "url": "https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Three bars: clicked a result with no AI summary, 15 percent; clicked a result with an AI summary shown, 8 percent; clicked a link in the summary, 1 percent",
+     "credit": "Chart: RN Collins, from Pew data",
+     "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "Three bars for Google search referrals to news sites: minus 33 percent worldwide and minus 38 percent in the US, both solid, and a hatched bar for the minus 43 percent publishers expect over three years",
+     "credit": "Chart: RN Collins, from Chartbeat data",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2026-01/Newman%20-%20Trends%20and%20Predictions%202026%20FINAL.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A curved glass office building with the colored Google logo high on its front, seen past tall grasses and green trees on a sunny day",
+     "credit": "Photo: Asoundd, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Googleplex_HQ_(cropped).jpg",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-34",
+   "date": "2026-12-21",
+   "id": "btb-one-fact-check",
+   "title": "What one fact check changed",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/what-one-fact-check-changed"
+   },
+   "research": [
+    {
+     "label": "Nederlandse Gemalen Stichting, De Haarlemmermeerpolder (PDF, undated)",
+     "url": "https://gemalen.nl/download/verhalen/De%20Haarlemmermeerpolder.pdf"
+    },
+    {
+     "label": "Nederlandse Gemalen Stichting, \"Jaartallen geschiedenis Haarlemmermeer 1800 e.v.\" (PDF chronology, version January 18, 2002)",
+     "url": "https://www.gemalen.nl/download/verhalen/haarlemmermeer_1800_1899.pdf"
+    },
+    {
+     "label": "Waterschap Groot-Haarlemmermeer and Nederlandse Gemalen Stichting, Droogmaken, droog houden (PDF booklet, 2002)",
+     "url": "https://gemalen.nl/download/verhalen/Droogmaken%20drooghouden.pdf"
+    },
+    {
+     "label": "ASME, \"Cruquius Pumping Station, International Historic Mechanical Engineering Landmark,\" brochure, June 19, 1991",
+     "url": "https://www.asme.org/wwwasmeorg/media/ResourceFiles/AboutASME/Who%20We%20Are/Engineering%20History/Landmarks/153-Cruquius-Pumping-Station-1849.pdf"
+    }
+   ],
+   "other": [
+    {
+     "label": "Bart Schultz, \"Developments in the Haarlemmermeer Polder after draining,\" Flevolands Geheugen, April 15, 2026",
+     "url": "https://www.flevolandsgeheugen.nl/page/13405/developments-in-the-haarlemmermeer-polder-after-draining"
+    },
+    {
+     "label": "PBL Netherlands Environmental Assessment Agency, \"Correction wording flood risks for the Netherlands in IPCC report.\"",
+     "url": "https://www.pbl.nl/en/correction-wording-flood-risks-for-the-netherlands-in-ipcc-report"
+    },
+    {
+     "label": "Rijksmuseum, map preparing the diking of the Haarlemmermeer, about 1640 to 1642, RP-P-AO-9-40",
+     "url": "https://www.rijksmuseum.nl/nl/collectie/object/RP-P-AO-9-40--bc3882a2ffd6f897166989952ec1bc58"
+    },
+    {
+     "label": "Rijksmuseum, portrait of Jan Adriaensz. Leeghwater, 1643, RP-P-OB-5590",
+     "url": "https://www.rijksmuseum.nl/nl/collectie/object/RP-P-OB-5590--c2252b4ce4aff429e50dd10bc44c292e"
+    },
+    {
+     "label": "Rijksmuseum, Plate VI of the drainage suite, December 1852, RP-P-OB-79.726",
+     "url": "https://www.rijksmuseum.nl/nl/collectie/object/RP-P-OB-79.726--466bf9dd81fac9d46824d308d1fbb594"
+    },
+    {
+     "label": "Rijksmuseum, silver medal on the drainage of the Haarlemmermeer, 1853, NG-MC-1106",
+     "url": "https://www.rijksmuseum.nl/en/collection/object/NG-MC-1106--e4e6ff7fe94d8663dc732cad209b24c9"
+    },
+    {
+     "label": "Rijksmuseum, Map I of the drainage suite, RP-P-OB-79.721, dated October 1, 1843",
+     "url": "https://www.rijksmuseum.nl/en/collection/object/RP-P-OB-79.721--92f964b3b8bf282c8e0b6fc76f7dd49d"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "A bar chart of 136 claim rows in one fact check: a long bar for 113 verified, a short bar for 22 corrected, a sliver for 1 cut and none failed",
+     "credit": "Chart: RN Collins, from fact check data",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/what-one-fact-check-changed",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "An airport apron at dawn seen through slanted terminal windows, with the blue tail of a parked airliner, service vehicles and terminal lettering in the distance",
+     "credit": "Photo: RN Collins",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/what-one-fact-check-changed",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "An old engraved portrait of a bearded man in a ruff collar holding a pair of compasses, with lines of verse printed beneath him",
+     "credit": "Source: Rijksmuseum, public domain",
+     "url": "https://www.rijksmuseum.nl/nl/collectie/object/RP-P-OB-5590--c2252b4ce4aff429e50dd10bc44c292e",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "An old engraved map of a wide lake laid out as a grid of square plots, ringed by towns and canals, with an ornate title panel in one corner",
+     "credit": "Source: Rijksmuseum, public domain",
+     "url": "https://www.rijksmuseum.nl/nl/collectie/object/RP-P-AO-9-40--bc3882a2ffd6f897166989952ec1bc58",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "The two faces of a darkened silver medal side by side: a standing woman with sheaves of grain beside a sea god in a chariot, and a face covered in lines of Latin capital letters",
+     "credit": "Source: Rijksmuseum, public domain",
+     "url": "https://www.rijksmuseum.nl/en/collection/object/NG-MC-1106--e4e6ff7fe94d8663dc732cad209b24c9",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A bar chart of the share of claims corrected in three fact checks: 28.4 percent, 16.2 percent and 21.2 percent, with an outlined bar of 20.9 percent for all three",
+     "credit": "Chart: RN Collins, from fact check data",
+     "url": "https://polymath-rn-collins.beehiiv.com/p/what-one-fact-check-changed",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-35",
+   "date": "2026-12-24",
+   "id": "rnc-sweep-rn-calendars-02",
+   "title": "Snap and send: eight photo stops in the Netherlands",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/snap-and-send-eight-photo-stops-in-the-netherlands"
+   },
+   "research": [],
+   "other": [
+    {
+     "label": "Netherlands, Auteurswet (Dutch Copyright Act), articles 18, 20 and 21, version in force from January 1, 2026, wetten.overheid.nl",
+     "url": "https://wetten.overheid.nl/BWBR0001886/"
+    },
+    {
+     "label": "Autoriteit Persoonsgegevens, \"Visual material.\"",
+     "url": "https://www.autoriteitpersoonsgegevens.nl/en/themes/internet-and-smart-devices/visual-material"
+    },
+    {
+     "label": "Autoriteit Persoonsgegevens, \"Making photos and videos at events.\"",
+     "url": "https://autoriteitpersoonsgegevens.nl/en/themes/internet-and-smart-devices/visual-material/making-photos-and-videos-at-events"
+    },
+    {
+     "label": "Rijksdienst voor het Cultureel Erfgoed, Rijksmonumentenregister, monument 530936 (Eindhoven station), entered March 29, 2010",
+     "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/530936"
+    },
+    {
+     "label": "Omroep Brabant, \"Philips Museum in Eindhoven geopend voor publiek,\" April 5, 2013",
+     "url": "https://www.omroepbrabant.nl/nieuws/1307001/philips-museum-in-eindhoven-geopend-voor-publiek"
+    },
+    {
+     "label": "Philips Museum, \"The building.\"",
+     "url": "https://www.philips.nl/en/a-w/philips-museum/about/building.html"
+    },
+    {
+     "label": "Philips Museum, home page",
+     "url": "https://www.philips.nl/en/a-w/philips-museum.html"
+    },
+    {
+     "label": "Philips Museum, \"House rules,\" rule 7.3",
+     "url": "https://www.philips.nl/en/a-w/philips-museum/visit/house-rules.html"
+    },
+    {
+     "label": "Philips Museum, \"The Evoluon.\"",
+     "url": "https://www.philips.nl/en/a-w/philips-museum/stories/het-evoluon.html"
+    },
+    {
+     "label": "Next Nature, \"The Evoluon.\"",
+     "url": "https://nextnature.org/en/museum/evoluon"
+    },
+    {
+     "label": "Rijksdienst voor het Cultureel Erfgoed, Rijksmonumentenregister, monument 532277 (Evoluon)",
+     "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/532277"
+    },
+    {
+     "label": "Dutch Design Week, \"These are the highlights of Dutch Design Week 2026,\" press release, September 29, 2026",
+     "url": "https://ddw.nl/en/press/press-releases/these-are-the-highlights-of-dutch-design-week-2026"
+    },
+    {
+     "label": "Rijksdienst voor het Cultureel Erfgoed, Rijksmonumentenregister, monument 518769 (Klokgebouw), entered February 16, 2004",
+     "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/518769"
+    },
+    {
+     "label": "AI & Big Data Expo Europe, \"Visitor FAQs,\" Internet Archive copy of October 28, 2026 (the live site answered 502 on November 11, 2026)",
+     "url": "https://web.archive.org/web/20261028195212/https://www.ai-expo.net/europe/visitor-faqs/"
+    },
+    {
+     "label": "AI & Big Data Expo Europe, event home page, Internet Archive copy of October 8, 2026",
+     "url": "https://web.archive.org/web/20261008120716/https://www.ai-expo.net/europe/"
+    },
+    {
+     "label": "AI & Big Data Expo, \"Terms and Conditions,\" Internet Archive copy of October 28, 2026",
+     "url": "https://web.archive.org/web/20261028195212/https://www.ai-expo.net/terms-and-conditions/"
+    },
+    {
+     "label": "RAI Amsterdam, \"65 years at Europaplein,\" 2026",
+     "url": "https://www.rai.nl/en/news/65-years-at-europaplein"
+    },
+    {
+     "label": "Rijksmuseum, \"About us.\"",
+     "url": "https://www.rijksmuseum.nl/en/about-us"
+    },
+    {
+     "label": "Rijksmuseum, \"History.\"",
+     "url": "https://www.rijksmuseum.nl/en/about-us/what-we-do/history"
+    },
+    {
+     "label": "Rijksmuseum, \"Filming and photographing.\"",
+     "url": "https://www.rijksmuseum.nl/en/press/filming-and-photographing"
+    },
+    {
+     "label": "Rijksmuseum, collection object SK-A-4240, Han van Meegeren, Woman Reading Sheet Music",
+     "url": "https://www.rijksmuseum.nl/en/collection/SK-A-4240"
+    },
+    {
+     "label": "Rijksmuseum, collection object SK-A-4241, Han van Meegeren, Woman Playing the Cittern",
+     "url": "https://www.rijksmuseum.nl/en/collection/SK-A-4241"
+    },
+    {
+     "label": "DutchNews, \"Rijksmuseum buys death mask of master Vermeer forger, for €300,\" May 23, 2014",
+     "url": "https://www.dutchnews.nl/2014/05/rijksmuseum_buys_death_mask_of/"
+    },
+    {
+     "label": "Rijksmuseum, data policy",
+     "url": "https://data.rijksmuseum.nl/policy"
+    },
+    {
+     "label": "Strijp-S, \"The history.\"",
+     "url": "https://strijp-s.nl/en/history"
+    },
+    {
+     "label": "Strijp-S, \"Klokgebouw\" building page (Dutch)",
+     "url": "https://www.strijp-s.nl/gebouw/klokgebouw"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "An underground train platform with round lights in a white ceiling, steel columns, a blue Schiphol Airport sign and a yellow and blue double-deck train",
+     "credit": "Photo: RN Collins",
+     "url": "https://polymath-rn-collins.beehiiv.com",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A yellow sign reading Fietsverhuur Dutch Design Week on a pole under a blue sky, with office buildings, parked cars and two people small at the bottom",
+     "credit": "Photo: RN Collins",
+     "url": "https://polymath-rn-collins.beehiiv.com",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A blue Eindhoven Centraal sign over yellow train timetables on a station platform, with a red fire hydrant and a train in the distance",
+     "credit": "Photo: RN Collins",
+     "url": "https://polymath-rn-collins.beehiiv.com",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "The glass front of the Philips Museum in Eindhoven, with the museum name in white letters, a large poster above the door and an empty street",
+     "credit": "Photo: Michielverbeek, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Eindhoven,_het_Philps_Museum_IMG_8543_2019-01-20_09.44.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A huge round concrete building shaped like a flying saucer, resting on angled legs over a glass ground floor, with a lawn and a path in front",
+     "credit": "Photo: Zairon/Commons, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Eindhoven_Evoluon_06.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A tall white wall with the grey letters R.A.W., striped with sunlight, under the dark steel roof of an old factory hall",
+     "credit": "Photo: RN Collins",
+     "url": "https://polymath-rn-collins.beehiiv.com",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A painted statue of a clown holding a girl in Dutch costume on his shoulders, on a white base in a square in front of a large modern building with flags",
+     "credit": "Photo: Alf van Beem/Commons, CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Europaplein,_RAI,_Amsterdam_pic1.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "A red brick museum with two towers and an arched passage, seen across a wide paved square under a grey sky, with small figures and bicycles in front",
+     "credit": "Photo: RN Collins",
+     "url": "https://polymath-rn-collins.beehiiv.com",
+     "card": false
+    }
+   ]
+  },
+  {
+   "slug": "pm-rnc-36",
+   "date": "2027-01-03",
+   "id": "rnc-sweep-content-strategy-system-07",
+   "title": "Vonnegut's shapes of stories, and what the data found",
+   "series": "The Polymath",
+   "origin": {
+    "kind": "article",
+    "label": "Read RN's full article in The Polymath",
+    "url": "https://polymath-rn-collins.beehiiv.com/p/vonneguts-shapes-of-stories-and-what-the-data-found"
+   },
+   "research": [
+    {
+     "label": "Kurt Vonnegut, A Man Without a Country, Seven Stories Press, New York, 2005, ISBN 978-1-58322-713-8, chapter 3, \"Here is a lesson in creative writing.\" Copy hosted by Language Log at the University of Pennsylvania",
+     "url": "https://languagelog.ldc.upenn.edu/myl/VonnegutLessonInCreativeWriting.pdf"
+    },
+    {
+     "label": "University of Chicago Chronicle, \"Part of Vonnegut's legacy, Cat's Cradle, also earned him master's,\" Vol. 26 No. 16, May 10, 2007",
+     "url": "https://chronicle.uchicago.edu/070510/vonnegut.shtml"
+    },
+    {
+     "label": "Andrew J. Reagan, Lewis Mitchell, Dilan Kiley, Christopher M. Danforth and Peter Sheridan Dodds, \"The emotional arcs of stories are dominated by six basic shapes,\" EPJ Data Science 5, article 31, November 4, 2016, CC BY 4.0",
+     "url": "https://doi.org/10.1140/epjds/s13688-016-0093-1"
+    },
+    {
+     "label": "Reagan and others, arXiv:1606.07772 version 3, September 26, 2016",
+     "url": "https://arxiv.org/abs/1606.07772"
+    },
+    {
+     "label": "Peter Sheridan Dodds, Kameron Decker Harris, Isabel M. Kloumann, Catherine A. Bliss and Christopher M. Danforth, \"Temporal patterns of happiness and information in a global social network: Hedonometrics and Twitter,\" PLoS ONE 6(12): e26752, December 7, 2011",
+     "url": "https://doi.org/10.1371/journal.pone.0026752"
+    },
+    {
+     "label": "Del Vecchio, Kharlamov, Parry and Pogrebna, \"The Data Science of Hollywood,\" arXiv:1807.02221, June 2018",
+     "url": "https://arxiv.org/abs/1807.02221"
+    },
+    {
+     "label": "Eric Chu and Deb Roy, \"Audio-Visual Sentiment Analysis for Learning Emotional Arcs in Movies,\" IEEE ICDM 2017, arXiv:1712.02896",
+     "url": "https://arxiv.org/abs/1712.02896"
+    },
+    {
+     "label": "Ryan L. Boyd, Kate G. Blackburn and James W. Pennebaker, \"The narrative arc: Revealing core narrative structures through text analysis,\" Science Advances 6(32): eaba2196, August 7, 2020, CC BY-NC 4.0",
+     "url": "https://doi.org/10.1126/sciadv.aba2196"
+    },
+    {
+     "label": "Boyd, Blackburn and Pennebaker, full text in Europe PMC, PMC7413736",
+     "url": "https://europepmc.org/article/PMC/PMC7413736"
+    }
+   ],
+   "other": [
+    {
+     "label": "Publishers Weekly, listing for A Man Without a Country, ISBN 9781583227138",
+     "url": "https://www.publishersweekly.com/9781583227138"
+    },
+    {
+     "label": "Crossref metadata for DOI 10.1140/epjds/s13688-016-0093-1",
+     "url": "https://api.crossref.org/works/10.1140/epjds/s13688-016-0093-1"
+    },
+    {
+     "label": "Annie Swafford, \"Problems with the Syuzhet Package,\" Anglophile in Academia, March 2, 2015, with Matthew Jockers's comment of the same day",
+     "url": "https://annieswafford.wordpress.com/2015/03/02/syuzhet/"
+    },
+    {
+     "label": "Marco Del Vecchio, Alexander Kharlamov, Glenn Parry and Ganna Pogrebna, \"Improving productivity in Hollywood with data science: Using emotional arcs of movies to drive product and service innovation in entertainment industries,\" Journal of the Operational Research Society, published online March 2, 2020, in print 72(5): 1110 to 1137, 2021, CC BY 4.0. Crossref",
+     "url": "https://api.crossref.org/works/10.1080/01605682.2019.1705194"
+    },
+    {
+     "label": "Yuri Bizzoni, Telma Peura, Mads Rosendahl Thomsen and Kristoffer Nielbo, \"Sentiment Dynamics of Success: Fractal Scaling of Story Arcs Predicts Reader Preferences,\" Proceedings of the Workshop on Natural Language Processing for Digital Humanities (NLP4DH), 2021",
+     "url": "https://aclanthology.org/2021.nlp4dh-1.1"
+    },
+    {
+     "label": "Lauren O'Neal, \"Vonnegut and the Shapes of Stories,\" The Rumpus, August 20, 2013",
+     "url": "https://therumpus.net/2013/08/20/vonnegut-and-the-shapes-of-stories/"
+    },
+    {
+     "label": "Scott Enderle, \"Brownian Noise and Plot Arcs,\" The Frame of Lagado, September 7, 2016",
+     "url": "https://web.archive.org/web/20180220130636/www.lagado.name/blog/brownian-noise-and-plot-arcs/"
+    },
+    {
+     "label": "Ben Schmidt, \"The efficient plots hypothesis,\" Sapping Attention, September 9, 2016",
+     "url": "https://sappingattention.blogspot.com/2016/09/the-efficient-plots-hypothesis.html"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "Kurt Vonnegut, with curly hair and a mustache, sits outdoors in a light cardigan with his hands clasped between his knees and green leaves behind him",
+     "credit": "Photo: Bernard Gotfryd/LOC, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Kurt_Vonnegut_1965.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "A black and white engraving of a crowded palace ballroom, with Cinderella in a pale gown at the center and courtiers in ruffs and feathered hats turning to look at her",
+     "credit": "Illustration: Gustave Doré, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Cinderella_by_Gustav_Dore_(136548285).jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "A worn green and blue book cover reading Franz Kafka Verwandlung, with a round publisher's mark showing a wolf and the letters KWV",
+     "credit": "Photo: H.-P. Haack, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Franz_Kafka_Die_Verwandlung_1916_Orig.-Pappband.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "A dark engraving in which two men hold back a young man at left while an armored ghost glows at right and points a staff toward them",
+     "credit": "Print: Thew after Fuseli, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Shakespeare-Hamlet-Prince_of_Denmark_-_painted_by_H._Fuseli_R.A._;_engraved_by_R._Thew._LCCN95521789.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "A diagram with an open book at the top, arrows to a row of text segments with an orange sliding window, and a small line chart of average happiness across the percent of the text",
+     "credit": "Source: Reagan and others 2016, CC BY 4.0",
+     "url": "https://doi.org/10.1140/epjds/s13688-016-0093-1",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "A table of nine story modes, each row with a small orange curve, the number of books, the share of books and the median downloads, from 76 to 105.5",
+     "credit": "Source: Reagan and others 2016, CC BY 4.0",
+     "url": "https://doi.org/10.1140/epjds/s13688-016-0093-1",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "A bar chart of mean domestic gross by story shape in 6,174 films: Man in a Hole longest at 37.48 million dollars, then Cinderella, Oedipus, Icarus, Riches to Rags and Rags to Riches at 29.71 million",
+     "credit": "Chart: RN Collins, from Del Vecchio data",
+     "url": "https://arxiv.org/abs/1807.02221",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Four boxes, one per measure: downloads favored Icarus, Oedipus and a doubled Man in a Hole; box office favored Man in a Hole; Vimeo comments favored Icarus and arcs that end with a bang; ratings showed no link to story structure",
+     "credit": "Chart: RN Collins, from four studies' data",
+     "url": "https://doi.org/10.1126/sciadv.aba2196",
      "card": false
     }
    ]
