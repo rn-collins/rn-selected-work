@@ -3563,5 +3563,20 @@
     "expression": "RN’s draft Ask a Neuroscientist essay brings together an Amsterdam museum’s hemp-rope and pharmacy-bottle displays, Rijksmuseum prints, a nineteenth-century medical account and a later history of cannabinoid research. For readers of museums, history and science, it compares what an object documents with the larger claim made on its label. RN’s contribution is documentary comparison, research synthesis and explanatory writing. The manuscript follows the gap between practical use, identification of compounds and experiments on receptors, while explaining why a historical case account or a rat-tissue measurement cannot establish a treatment effect in people. Its source list and related exhibit package support this one essay.",
     "boundary": "Unpublished, release-held Fat Nugs draft. The museum’s claims about sails and paper remain attributed to the museum; the independent prints discussed concern rope-making. The manuscript records a one-year discrepancy in accounts of O’Shaughnessy’s work. Key early chemistry and receptor papers were unavailable to the source author, who relied on a 2006 review; this audit has read the manuscript, not independently verified those papers, quotations or object records. Long historical use does not establish safety, effectiveness or current law. Images, reuse rights and publication remain unverified, and no source manuscript or media is linked.",
     "provenance": "Complete 9,199-character current manuscript and drafted owner row reviewed November 19, 2026. The manuscript’s August 4, 2029 planning date differs from August 15 in the owner register; neither establishes release, and the public URL is blank. Upload and exhibit pointers represent one work. No matching current gallery entry or direct title match in the 331-post intake inventory was found; this is not exhaustive edition verification."
+  },
+  {
+    "id": "common-after-effects-rare-disorder",
+    "title": "Common After-Effects, Rare Disorder: How Often Psychedelic Visual Changes Last",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "When do reported visual after-effects become evidence of a disorder, and which population does a prevalence estimate describe?",
+    "expression": "RN’s draft Ask a Neuroscientist essay compares a study following people before and after planned psychedelic use with a survey of US adults. For general readers evaluating risk headlines, it separates reported visual effects, distress and a reported professional diagnosis. RN’s contribution is research synthesis and explanatory writing: the manuscript follows participant loss over time, explains self-selection and self-report, and places clinical-trial reporting alongside observational findings without treating their numbers as interchangeable. Its references identify the two studies underlying the discussion.",
+    "boundary": "Unpublished, release-held Fat Nugs draft. Complete manuscript review is not independent scientific verification. The cohort’s four-week respondents, survey participants reporting a diagnosis and screened trial participants are different populations and measures. Loss to follow-up, short observation, self-report and non-causal associations remain material limits. The conclusion’s broad reassurance and grouping of risk factors need review against those distinctions; dated reports of no trial cases do not establish current absence or safety. No diagnosis, treatment or drug-use advice, manuscript or media is linked.",
+    "provenance": "Complete 7,982-character manuscript and drafted owner row reviewed November 19, 2026. The source is an undated batch draft; its owner planning date differs from the historical upload schedule and its public URL is blank. No matching current gallery record was found. Supporting upload and package versions belong to this work; publication and edition relationships remain subject to source-owner reconciliation."
   }
 ]
