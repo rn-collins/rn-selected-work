@@ -3669,4 +3669,50 @@
     "boundary": "Unpublished, release-held draft. The volunteer study is not a population-wide validation, and the manuscript records assay misclassification and severity disagreements. Genetic estimates do not directly measure everyday vision. The source’s full-paper-review statement is not independent verification by this portfolio audit. Its broad congenital/inherited wording and claims about costs need source-owner review. No diagnostic service, test ranking, clinical recommendation, manuscript or media link is offered; scientific and rights review remains open.",
     "provenance": "Complete current manuscript and references reviewed November 19, 2026 with its drafted owner row. Undated batch-13 material; the July 2027 planning date is not publication and the public URL is blank. Historical pointer and package are one work. No matching gallery title was found; wider edition reconciliation remains open."
   }
+,
+{
+  "category": "Learning",
+  "stage": "Essay draft",
+  "workType": "Writing",
+  "workStatus": "Draft",
+  "held": true,
+  "releaseHeld": true,
+  "parentId": "ask-a-neuroscientist",
+  "id": "when-color-vision-changes-later",
+  "title": "When Color Vision Changes Later",
+  "question": "What can studies of acquired color-vision changes tell readers, and what can they leave unresolved?",
+  "expression": "RN’s draft Ask a Neuroscientist essay introduces acquired color-vision differences through a clinical review, a follow-up study after optic neuritis and a preliminary study involving hydroxychloroquine users. Her contribution is research synthesis and explanation for general readers: she compares functional vision tests with retinal imaging, explains why timing and study design matter, and separates specialist research findings from a diagnosis for an individual.",
+  "boundary": "Unpublished, release-held draft. Targeted review of the medicine paper found differing terminology between its abstract and results; the manuscript’s threshold wording needs correction against the reported measure. That cross-sectional study lacks an untreated autoimmune comparison group and cannot establish an individual diagnosis or medication decision. The draft’s broad congenital-vision description and interpretation of affected versus unaffected eyes also need review. This targeted check does not clear the other papers, clinical advice, quotations or rights. No manuscript, media or medical service is linked.",
+  "provenance": "Complete manuscript and references reviewed in the preceding continuation; the current revision is unchanged. The drafted owner row and selected sections of the medicine paper were checked November 19, 2026. The September 2027 planning date is not publication; the public URL is blank. Historical pointer and package identify one essay."
+},
+{
+  "category": "Learning",
+  "stage": "Essay draft",
+  "workType": "Writing",
+  "workStatus": "Draft",
+  "held": true,
+  "releaseHeld": true,
+  "parentId": "ask-a-neuroscientist",
+  "id": "color-caps-and-the-yellow-match",
+  "title": "Color Caps and the Yellow Match",
+  "question": "How do arranging colored caps and matching lights ask different questions about color vision?",
+  "expression": "RN’s draft Ask a Neuroscientist essay explains cap-ordering tests and the anomaloscope, an instrument in which a person adjusts a red-and-green light mixture to match yellow. For readers trying to understand test reports, RN compares those tasks with screening plates and examines a small study of practice effects. Her contribution is explanatory writing about what a score measures and how familiarity with a task can affect its interpretation. This essay’s cap tests and practice-study focus distinguish it from the broader screening and genetics essay Beyond the Color Plates.",
+  "boundary": "Unpublished, release-held draft. The practice study described in the manuscript involved 21 men, with only seven in one subgroup. A significant result in one subgroup and a nonsignificant result in another do not by themselves establish a difference between groups. The manuscript’s universal test sequence and blanket statements about what plate tests can classify need source-owner qualification. Its full-paper-review statement is not independent verification by this audit. No diagnostic recommendation, reproduced test plates, manuscript or media link is provided; scientific and rights review remains open.",
+  "provenance": "Complete current manuscript and references reviewed November 19, 2026 alongside the drafted owner row. Undated batch material; the July 2027 planning date is not publication and the public URL is blank. The historical pointer and package are one essay; no matching gallery title was found."
+},
+{
+  "category": "Learning",
+  "stage": "Essay draft",
+  "workType": "Writing",
+  "workStatus": "Draft",
+  "held": true,
+  "releaseHeld": true,
+  "parentId": "ask-a-neuroscientist",
+  "id": "a-healthy-retina-and-a-color-difference",
+  "title": "A Healthy Retina and a Color Difference",
+  "question": "What can images of individual cone cells add to tests of how a person sees colors?",
+  "expression": "RN’s draft Ask a Neuroscientist essay compares two small imaging studies: one connects color-vision tests and genetic classifications with individual cone cells, while the other examines uncommon cone-pigment mutations. For general science readers, RN explains adaptive optics, cone density and the distinction between a cell’s appearance in an image and its remaining structure. Her contribution is synthesis and plain-language explanation of what different research methods can reveal.",
+  "boundary": "Unpublished, release-held draft. The studies described involve 16 people and 13 males respectively, and the results should remain tied to those samples and methods. The manuscript’s broad missing-cone and normal-retina language, its extension from dichromacy to common red-green differences, and its diagnostic conclusion need source-owner review. The manuscript says the complete papers were read; this audit reviewed the manuscript, not those original papers or images. No clinical service, treatment claim, manuscript or media link is offered; independent scientific and rights review remains open.",
+  "provenance": "Complete current manuscript and references reviewed November 19, 2026 with its drafted owner row. Undated batch material; the September 2027 planning date is not publication and the public URL is blank. Historical pointer and package identify one essay; no matching gallery title was found."
+}
 ]
