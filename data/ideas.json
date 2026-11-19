@@ -3853,4 +3853,50 @@
   "boundary": "Unpublished, release-held draft, managed in RN’s Ask a Neuroscientist source collection with Polymath as the intended outlet. The manuscript retains uncertainty about immature pollen, possible branches and preliminary dates; a proposed protective use of spiny plants is speculation. It does not establish medicinal or psychedelic use, or settle every burial question. Complete manuscript and references were reviewed; the source’s statement that original papers were read is not independent archaeological, quotation, image or rights verification. No manuscript, media or publication link is offered.",
   "provenance": "Complete 8,155-character manuscript and all three source entries reviewed in the preceding intake. Current manuscript and drafted owner-register revisions confirmed unchanged November 19, 2026. The April 2027 owner date is a plan and the public URL is blank. Earlier topic wording and current essay identify one work; no separate package or appendix is counted."
 }
+,
+{
+  "category": "Learning",
+  "stage": "Essay draft",
+  "workType": "Writing",
+  "workStatus": "Draft",
+  "held": true,
+  "releaseHeld": true,
+  "parentId": "ask-a-neuroscientist",
+  "id": "why-salvia-works-differently",
+  "title": "Why Salvia Works Differently",
+  "question": "What makes salvinorin A a useful comparison with classic psychedelics, and what can receptor and brain measurements actually establish?",
+  "expression": "RN’s explanatory draft introduces salvinorin A through its unusual chemical structure and the kappa-opioid receptor, then compares that route with the serotonin-receptor framing used for classic psychedelics. For general science readers, she separates receptor-screening experiments from a small controlled human study using brain-wave and blood-flow measurements. The essay explains why binding to a target, changing a measured brain signal and producing a subjective experience are different kinds of evidence.",
+  "boundary": "Unpublished, release-held draft in the Ask a Neuroscientist collection, with Fat Nugs Magazine recorded as the intended outlet. Both cited papers were available to the manuscript through abstracts only; full methods, supplementary material and underlying results remain unreviewed here. Receptor selectivity does not isolate every cause of an experience, and an absence of one adverse effect in a small study does not establish general safety or treatment benefit. No dosing instructions, manuscript, media or publication link is offered. Independent science, quotation and rights review remains outstanding.",
+  "provenance": "Complete manuscript and source notes reviewed in the preceding intake; current revision confirmed unchanged November 19, 2026. The drafted owner record has a future planning date and blank public URL. The older topic pointer and this manuscript identify one work."
+},
+{
+  "category": "Learning",
+  "stage": "Essay draft",
+  "workType": "Writing",
+  "workStatus": "Draft",
+  "held": true,
+  "releaseHeld": true,
+  "parentId": "ask-a-neuroscientist",
+  "id": "suit-or-sweatpants",
+  "title": "Suit or Sweatpants",
+  "question": "When clothing feels like armor, what evidence concerns the wearer, and what concerns the person across the table?",
+  "expression": "RN’s draft compares three kinds of clothing research for readers interested in fashion, confidence and social interaction. She explains the idea of enclothed cognition, revisits its replication record through a later paper, and follows a laboratory negotiation study that measured both the wearer and the other participant. A survey and interview study in Bangladesh adds a different cultural setting and evidence about reported confidence. RN’s contribution is to keep self-perception, observed behavior, physiology and another person’s response separate instead of treating them as one effect.",
+  "boundary": "Unpublished, release-held Ask a Neuroscientist draft intended for Fat Nugs Magazine. The original lab-coat study and the later meta-analysis were not directly read for the manuscript; their accounts are attributed to the 2026 paper. The negotiation study involved men in a particular laboratory task, and the Bangladesh study did not measure academic performance. Hormone measurements do not establish that hormones caused the behavior. Clothing as armor remains a metaphor, not a demonstrated way to improve everyone’s performance. Complete manuscript text was reviewed, not independently validated research, images or rights. No manuscript or publication link is supplied.",
+  "provenance": "Complete current essay and references reviewed November 19, 2026. The historical outfit-as-armor pointer resolves to this revised manuscript. Owner record remains drafted, with a future planning date and no public URL; source labels about full-paper reading are not independent review evidence."
+},
+{
+  "category": "Learning",
+  "stage": "Essay draft",
+  "workType": "Writing",
+  "workStatus": "Draft",
+  "held": true,
+  "releaseHeld": true,
+  "parentId": "ask-a-neuroscientist",
+  "id": "your-skin-cannot-read-a-fiber-label",
+  "title": "Your Skin Cannot Read a Fiber Label",
+  "question": "Why can two garments with the same fiber label feel different against the skin?",
+  "expression": "RN’s long-form Polymath draft connects textile labeling, blind fabric-touch experiments, wool-fiber width, friction, dyes and the nerves involved in pleasant or painful touch. It opens with a study in which twenty students and five textile professors rated twenty-two swatches, then compares what those ratings measure with what a fiber label describes. For readers interested in clothing and sensory experience, RN uses historical textile-testing photographs, research figures and proposed charts to explain why construction, skin conditions and finishing chemicals can matter alongside fiber identity.",
+  "boundary": "Unpublished, release-held draft managed in the Ask a Neuroscientist source collection, with Polymath as its intended outlet. A brief fingertip test is not evidence about wearing a garment all day. Some wool-prickle findings come through reviews, and two cited works were read only as abstracts. Small or mixed eczema trials do not establish a general treatment recommendation. The manuscript’s labeling-law account, scientific claims and image credits require independent checks; captions were read but images, chart values, consent and rights were not visually or independently verified. No manuscript, image or publication link is exposed.",
+  "provenance": "Complete current manuscript, captions, references and resources reviewed November 19, 2026. Its revised title resolves the earlier fabric-label topic pointer to one essay. Owner record remains drafted with a planning date and blank public URL; no publication or completed media package is inferred."
+}
 ]
