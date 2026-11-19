@@ -3638,5 +3638,35 @@
     "expression": "RN’s Polymath draft follows John Dalton’s observations of flowers and prism colors, his proposed explanation, the examination of his eyes after death and the later genetic account. For readers of science and history, RN compares first-person description, correspondence, an examination report, museum records and modern research summaries. Her contribution is documentary comparison and explanatory writing: she separates the date a paper was read from its publication, explains competing interpretations, and shows why population estimates depend on whom a study counted. Captions, references and proposed illustrations support this single essay.",
     "boundary": "Unpublished, release-held draft. The manuscript relies on abstracts and later reviews for the original genetic papers; those access limits remain. Its account notes differing descriptions of the eye fluids and gives priority to the examination report. Historical quotations, genetic interpretations, prevalence figures, chart values, image identities and reuse rights have not been independently cleared here. Captions were read, but images were not visually inspected. No manuscript, media, clinical advice or public reading link is provided.",
     "provenance": "Complete current manuscript, captions, references and resources reviewed November 19, 2026 alongside the drafted AaN owner row. The manuscript records a November 13 revision and Polymath destination; its November 27 planning date is not publication, and the public URL is blank. The historical idea and batch package represent one work. No matching gallery title was found."
+  },
+  {
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "id": "glasses-versus-genes",
+    "title": "Glasses Versus Genes",
+    "question": "What do studies of color-filter glasses and an animal gene-therapy experiment actually test?",
+    "expression": "RN’s draft Ask a Neuroscientist essay helps readers assess claims made around color-enhancing glasses. Her contribution is research synthesis and explanatory writing: she compares two glasses studies, explains the different tasks used to measure color discrimination, and separates the proportion of participants who improved from the size of an improvement. A separate section discusses a monkey gene-therapy experiment to distinguish changing incoming light from adding a cone pigment.",
+    "boundary": "Unpublished, release-held draft. The manuscript explicitly relies on abstracts rather than complete papers. Its test comparisons do not establish everyday benefits, long-term performance or a product recommendation. The animal experiment is not evidence of an available human treatment. The draft’s broad description of red-green color differences needs source-owner qualification; not every such difference is dichromacy. Study details and scientific, quotation and rights claims have not been independently verified here. No manuscript or media link is provided.",
+    "provenance": "Complete current manuscript and reference list reviewed November 19, 2026 alongside its drafted owner row. Undated batch-08 material; the owner’s September 2027 planning date is not publication and its public URL is blank. The historical idea pointer and package identify one essay; no matching gallery title was found."
+  },
+  {
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "id": "beyond-the-color-plates",
+    "title": "Beyond the Color Plates",
+    "question": "Why do color-vision screening, threshold measurement and genetic testing answer different questions?",
+    "expression": "RN’s draft Ask a Neuroscientist essay introduces readers to HRR plates, the Cambridge Colour Test, anomaloscopy and a study of genetic classification. Her contribution is explanatory synthesis: she compares screening with type and severity measurements, explains thresholds in plain language, and separates inherited variants from changes acquired later in life. The manuscript describes a review and a volunteer study, including differences between the genetic assay and standard vision tests.",
+    "boundary": "Unpublished, release-held draft. The volunteer study is not a population-wide validation, and the manuscript records assay misclassification and severity disagreements. Genetic estimates do not directly measure everyday vision. The source’s full-paper-review statement is not independent verification by this portfolio audit. Its broad congenital/inherited wording and claims about costs need source-owner review. No diagnostic service, test ranking, clinical recommendation, manuscript or media link is offered; scientific and rights review remains open.",
+    "provenance": "Complete current manuscript and references reviewed November 19, 2026 with its drafted owner row. Undated batch-13 material; the July 2027 planning date is not publication and the public URL is blank. Historical pointer and package are one work. No matching gallery title was found; wider edition reconciliation remains open."
   }
 ]
