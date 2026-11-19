@@ -3369,5 +3369,50 @@
     "expression": "RN’s draft Ask a Neuroscientist essay compares research on stored cannabis with public education materials and a familiar claim about hay-like smell. RN’s evidenced role is research synthesis, comparison of study methods and explanatory writing for readers evaluating health and product claims. The manuscript contrasts a long observation of seized resin with a shorter study of sealed flower, then examines what a review and public guidance can add. It explains why different materials, durations and measurements cannot simply be treated as one experiment. The essay also records a gap in its own source search concerning the cause of the smell and distinguishes storage evidence from direct tests of curing.",
     "boundary": "This is a held draft, with no verified public article. The complete current manuscript was reviewed for scope, not independent scientific clearance. Its latest notes remove claims based on two abstract-only sources; the older index excerpt still carries some removed claims and must not supply gallery copy. The phrase attributing change to time alone is stronger than the manuscript’s description of an uncontrolled evidence-room study and needs owner review. Its negative search finding is limited to the sources searched. Research, quotation and image-rights review remain open; the piece does not establish attendance at a workshop or a personal patient history.",
     "provenance": "Current manuscript and owner register reconciled November 18, 2026, including the October 31 revision notes. The older index’s missing-longform field is superseded by the owner’s manuscript pointer. Scheduled social and exhibit records remain supporting formats of this work."
+  },
+  {
+    "category": "Culture + fieldwork",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "id": "real-and-big-enough-to-matter",
+    "title": "Real, and Big Enough to Matter: How to Read a Psilocybin Depression Trial",
+    "question": "How can readers distinguish a statistically detectable result from an improvement that matters to a person?",
+    "expression": "RN’s draft Ask a Neuroscientist essay teaches readers how to assess depression-treatment headlines. RN’s evidenced role is research synthesis and explanatory writing: the manuscript works through a reported psilocybin trial, separates change within one participant from a difference between group averages, and explains why scores from different depression scales cannot be compared directly. It then uses a large antidepressant review as context while explicitly noting that the review and the psilocybin trial studied different populations. The intended contribution is a practical reading method: identify the outcome, comparison group, time point and appropriate threshold before interpreting a headline.",
+    "boundary": "This is an unpublished, release-held draft, not a treatment recommendation or an independently reviewed clinical assessment. The complete manuscript was read for scope and compared with the separate Reading the Headline Trials draft; they use different studies and explanations. Its language treating statistical significance as proof that an effect is real needs specialist review. The manuscript reports the psilocybin trial through a review rather than demonstrating direct review of the original trial here. Statements about the availability of later trials are dated to the manuscript. Scientific claims, citations and rights remain independently unverified; no manuscript or media is linked.",
+    "provenance": "Current manuscript and owner register reviewed November 18, 2026. The owner supplies a drafted long-form record where the older index marked long form missing. The manuscript is undated and its owner and social planning dates differ. The related social package is supporting material, not another completed work."
+  },
+  {
+    "category": "Culture + fieldwork",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "id": "reading-the-headline-trials",
+    "title": "Reading the Headline Trials",
+    "question": "What changes when a strong treatment headline comes from a small follow-up study rather than a controlled comparison?",
+    "expression": "RN’s draft Ask a Neuroscientist article pairs an analysis of esketamine trials with a longer follow-up of people who received psilocybin with psychotherapy. Written for readers trying to interpret depression-treatment coverage, it explains effect size, clinical benchmarks, individual participant data, comparison groups and adverse events in everyday language. RN’s contribution is the structured comparison and teaching prose, not conducting either study. The manuscript asks readers to examine the size of a reported effect, what it was compared with and the harms measured. It explains why a response percentage from an uncontrolled follow-up cannot be ranked against a score difference from placebo-controlled trials. This is a distinct essay from Real, and Big Enough to Matter, which concentrates on statistical and clinical thresholds.",
+    "boundary": "A complete draft exists and remains release held, without a verified public article. Full manuscript review supports this scope description but does not verify the cited analyses or clinical conclusions. Its wording alternates between a completed esketamine reanalysis and a registered report of a planned analysis; that distinction needs source-owner clarification. The account of serious adverse events is limited to the studied groups and periods, not a general safety finding. Scientific, quotation and rights review remain open. The gallery offers no dosing instructions, treatment guidance or unpublished supporting media.",
+    "provenance": "Current manuscript and owner register reconciled November 18, 2026. The owner records it as drafted; the undated manuscript, social planning date and owner planning date are not publication evidence. Its social formats remain attached to the same work."
+  },
+  {
+    "category": "Culture + fieldwork",
+    "stage": "Essay draft",
+    "parentId": "ask-a-neuroscientist",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "id": "dmt-and-near-death-experiences",
+    "title": "DMT and Near-Death Experiences",
+    "question": "What can questionnaires and personal narratives reveal about similarities between two kinds of reported experience?",
+    "expression": "RN’s draft Ask a Neuroscientist essay compares two research approaches to DMT and near-death-experience reports. One study uses a standardized questionnaire with a small group of healthy volunteers and a matched comparison group; the other compares interviews about DMT experiences with written near-death narratives. RN’s evidenced contribution is synthesizing the papers into an accessible explanation of scales, cutoffs, study order and qualitative themes. The essay is for readers evaluating claims that similar descriptions imply the same experience. It identifies both reported overlaps and absent features, explains what each method can detect, and distinguishes descriptive resemblance from evidence of a shared cause or an account of what dying is like.",
+    "boundary": "This is an unpublished, release-held essay draft. The complete current manuscript was reviewed, including its caveats about small samples, fixed session order and different forms of testimony. The manuscript reports that its author read both source papers; that statement is not independent verification by this audit. Similar questionnaire results do not establish equivalence, and the essay does not claim a shared biological mechanism. Scientific claims, quotations and rights remain independently unreviewed. No amounts, use guidance, private manuscript or media are linked.",
+    "provenance": "Current manuscript and drafted owner record reviewed November 18, 2026. The earlier idea alias and scheduled social package resolve to the same underlying work. The manuscript is undated, the owner planning date differs from the index, and no public publication URL is recorded."
   }
 ]
