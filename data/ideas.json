@@ -3518,5 +3518,35 @@
     "expression": "RN’s draft Ask a Neuroscientist essay compares a structured review of cannabis-smoking research with a cross-sectional survey of young adults reporting vaping and respiratory symptoms. For readers evaluating health headlines, it explains tobacco confounding, lung-function measures, case reports, statistical adjustment and the difference between association and causation. RN’s contribution is the comparison and teaching prose, not conducting the studies. The manuscript explains why a higher lung-volume measurement is not automatically a health benefit, why individual case reports cannot establish a frequency, and why a result that is not statistically significant does not prove harmlessness. It closes by distinguishing the two sources’ populations, methods and outcomes rather than treating them as a direct comparison.",
     "boundary": "This is an unpublished, release-held essay draft intended for Fat Nugs. The complete manuscript and references were reviewed, but the medical claims and source quotations were not independently verified. The manuscript contains wording that needs reconciliation: it says frequency categories are described only generally after giving a numerical category earlier, and some causal language is stronger than its later observational-evidence limits. Its statement that both papers were read is an author review note. This summary offers no route recommendation, device or product guidance, personal risk assessment or unpublished source link. Scientific and rights review remain open.",
     "provenance": "Complete current manuscript and drafted owner record reviewed November 19, 2026. The undated manuscript and later planning date do not establish publication; the owner record has no publication URL. The current gallery was checked for overlap and contains no matching lung-study essay. Supporting social versions remain part of this work."
+  },
+  {
+    "id": "pakalolo-in-print",
+    "title": "Pakalolo in Print",
+    "category": "Culture + fieldwork",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What happens when a frequently repeated date in Hawaiʻi’s cannabis history cannot be traced to a newspaper issue and page?",
+    "expression": "RN’s draft Polymath essay follows an attributed 1842 Ka Nonanona report back to a later opinion column and describes the unsuccessful search for the original page. It then compares different kinds of historical evidence: translated Chinese medical texts, archaeological residue studies, a court opinion, advocacy accounts and Hawaiʻi statutory history notes. Written for readers of history and public information, the essay explains the difference between a record that can be inspected, an interpretation of that record and a claim repeated without a traceable citation. RN’s contribution is documentary research, comparison and explanatory writing. The manuscript contains a source list, review notes and proposed image credits; its social and exhibit materials support the same work.",
+    "boundary": "Unpublished and release held. The 1842 report remains unconfirmed; an inaccessible archive does not show that the report is false. Several cited studies were available to the source review only as abstracts, the original session law was not opened, and a claim about later retellings still needs checking. Historical medical and legal accounts do not establish current treatment guidance or current law. Source-owner fact-check and image-permission notes have not been independently verified by this audit. No manuscript, image or draft publication link is provided.",
+    "provenance": "Complete current manuscript and owner record reviewed November 19, 2026. The owner’s planning date differs from the manuscript’s older provisional dates, and its publication URL is blank. The current gallery has related newspaper-history and cannabis-evidence essays, but no matching account of this source-tracing inquiry. Current intake inventory titles yielded no direct title match; that is not exhaustive edition verification."
+  },
+  {
+    "id": "does-your-pineal-gland-make-dmt",
+    "title": "Does Your Pineal Gland Make DMT?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What would a measurement need to show before a claim about a human organ making a molecule is justified?",
+    "expression": "RN’s draft Ask a Neuroscientist essay examines a popular claim about the pineal gland through a research paper and a review. For general readers evaluating neuroscience headlines, it distinguishes gene transcripts from active enzymes, detection from measurement of quantity, and rat experiments from evidence about the human brain. The manuscript explains the comparison of rats with and without the gland, defines the laboratory terms and identifies questions the cited sources leave open. RN’s contribution is research synthesis and teaching prose, not performing the experiments. Its focus on biological measurements is distinct from the existing essay comparing DMT reports with near-death narratives.",
+    "boundary": "Unpublished, release-held draft intended for Fat Nugs. The complete manuscript was reviewed; its assertion that the author read both papers is not independent scientific verification by this audit. Human-measurement gaps are described through a 2018 review and should remain dated to that source: the manuscript’s later undated wording needs a current-literature check before publication. A later review was unavailable to the source author. No causal explanation of near-death experiences, drug-use guidance, unpublished manuscript or media is linked. Claims, quotations and rights remain independently unreviewed.",
+    "provenance": "Complete current manuscript and drafted owner record reviewed November 19, 2026. The undated manuscript and later owner planning date do not establish publication; the owner record has no public URL. Current gallery comparison found a related near-death-experience essay with a different question and method, and no pineal-gland entry. Supporting social versions stay with this work."
   }
 ]
