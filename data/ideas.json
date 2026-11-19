@@ -3578,5 +3578,35 @@
     "expression": "RN’s draft Ask a Neuroscientist essay compares a study following people before and after planned psychedelic use with a survey of US adults. For general readers evaluating risk headlines, it separates reported visual effects, distress and a reported professional diagnosis. RN’s contribution is research synthesis and explanatory writing: the manuscript follows participant loss over time, explains self-selection and self-report, and places clinical-trial reporting alongside observational findings without treating their numbers as interchangeable. Its references identify the two studies underlying the discussion.",
     "boundary": "Unpublished, release-held Fat Nugs draft. Complete manuscript review is not independent scientific verification. The cohort’s four-week respondents, survey participants reporting a diagnosis and screened trial participants are different populations and measures. Loss to follow-up, short observation, self-report and non-causal associations remain material limits. The conclusion’s broad reassurance and grouping of risk factors need review against those distinctions; dated reports of no trial cases do not establish current absence or safety. No diagnosis, treatment or drug-use advice, manuscript or media is linked.",
     "provenance": "Complete 7,982-character manuscript and drafted owner row reviewed November 19, 2026. The source is an undated batch draft; its owner planning date differs from the historical upload schedule and its public URL is blank. No matching current gallery record was found. Supporting upload and package versions belong to this work; publication and edition relationships remain subject to source-owner reconciliation."
+  },
+  {
+    "id": "the-anatomy-of-being-heard",
+    "title": "The Anatomy of Being Heard",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "How does a listener follow one voice when several people are speaking at once?",
+    "expression": "RN’s draft Ask a Neuroscientist column explains the cocktail-party problem for readers curious about attention and everyday listening. It connects a review of early hearing processes with a study that recorded cortical activity while patients heard two speakers. RN’s contribution is research synthesis and explanatory writing: the essay explains masking, the contribution of two ears, grouping sounds by location and pitch, and the difference between recording a selected voice and explaining how selection happens. A section on decoding describes how a classifier trained on single-speaker recordings was tested during overlapping speech.",
+    "boundary": "Unpublished, release-held Fat Nugs draft. The cortical study used a small group of patients being assessed for epilepsy surgery, and neither source tested ordinary conversations in meetings, classrooms or homes. The manuscript’s suggestion to reduce overlapping speech is an application, not an intervention result. Its statement that source papers were read is not independent verification by this portfolio audit. Scientific interpretation, quotations, images and reuse rights remain unreviewed; no manuscript, media or advice link is provided.",
+    "provenance": "Complete current 7,381-character manuscript, references and drafted AaN owner row reviewed November 19, 2026. The undated batch manuscript and March 18, 2027 owner planning date do not establish publication; the public URL is blank. Historical idea and package pointers identify the same essay, not additional works. No direct title match was found in the current intake inventory or gallery."
+  },
+  {
+    "id": "does-naming-a-feeling-change-it",
+    "title": "Does Naming a Feeling Change It?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What do experiments show about putting feelings into words, and when do their results differ?",
+    "expression": "RN’s expanded Polymath essay draft examines affect labeling for general readers encountering claims that naming an emotion makes it easier to manage. RN’s contribution is research synthesis and explanatory writing across imaging, self-rating, exposure and early clinical studies. The manuscript distinguishes choosing a supplied label from naming a feeling freely, naming from deliberately reframing an experience, and brain activity from reported distress or physiological arousal. It follows conflicting findings through task order, emotional intensity, language dominance and follow-up time. Its references, resource list, figure captions and proposed charts form one explanatory article package.",
+    "boundary": "Unpublished, release-held draft, not a treatment recommendation. Most of the discussed work uses short laboratory tasks; a small clinical pilot lacks an untreated comparison group. The manuscript retains an abstract-only source and several secondary citations. Broad opening and concluding claims need review against the differing tasks, measures and populations. Complete text and caption inspection is not independent verification of the studies, quotations, chart values, clinical-trial status or image licenses. Images were not visually reviewed and no manuscript, media or clinical resource link is exposed here.",
+    "provenance": "Complete current 20,538-character manuscript, captions, references and resources read November 19, 2026; current AaN owner row says drafted for Polymath with no public URL. The manuscript records a November 13 revision; the November 29 planning date is not a release. Its historical idea pointer and supporting formats belong to this one work. No direct title match was found in the current intake inventory or gallery."
   }
 ]
