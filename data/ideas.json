@@ -3953,5 +3953,35 @@
     "expression": "RN’s Polymath draft follows three research stages: the 1993 violinist study as reported by later authors, a 2014 analysis pooling results across fields, and a 2019 violin-study replication. It explains recalled practice hours, differences between skill groups, and the share of variation in performance associated with practice. For readers interested in learning and expertise, RN compares the questions, samples and measurements behind the familiar number, including overlapping practice ranges and the difference between hours accumulated by age eighteen and by age twenty.",
     "boundary": "Unpublished, release-held draft in the Ask a Neuroscientist source collection. The original 1993 paper and later remarks attributed to Ericsson were not directly read for the article. The two headline variance percentages use different group comparisons and are not a like-for-like estimate of change; explanatory passages suggesting a cleaner reduction need owner review. Small samples, recalled hours and observational associations do not establish that more practice caused a particular improvement or guarantee expertise. Age-specific averages must remain explicit. Complete manuscript and reference review is not independent scientific, numerical, quotation or rights acceptance. No manuscript or publication link is exposed.",
     "provenance": "Complete current manuscript and references reviewed November 19, 2026. Its drafted owner record retains Polymath routing, a future planning date and no public URL. The existing article-intake owner’s comparison and age cautions are preserved; derivative charts remain separately unverified."
+  },
+  {
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "id": "are-you-a-visual-learner",
+    "title": "Are You a Visual Learner?",
+    "question": "Does matching a lesson to someone’s preferred learning style improve what they learn?",
+    "expression": "RN’s draft explains the difference between liking a format and benefiting from instruction matched to that preference. For readers interested in education, it describes the experimental comparison needed to test the matching claim: different preference groups must benefit from different teaching methods on the same assessment. RN compares a review of matching experiments with surveys of educators’ beliefs, explaining why evidence about learning outcomes and evidence about popular beliefs answer different questions.",
+    "boundary": "Unpublished, release-held Ask a Neuroscientist draft intended for Fat Nugs Magazine. The manuscript reports the 2008 review through a later review, rather than direct reading. Studies in the later review meet different levels of its design criteria; a nonsignificant pooled result does not prove that every possible matching effect is absent. Survey responses do not measure classroom practice or explain why a belief persists. Suggestions about teaching to content are practical implications, not a newly tested intervention. Complete manuscript and reference review supports this scope description; underlying research, numerical claims, images and rights remain independently unverified. No manuscript or publication link is supplied.",
+    "provenance": "The preceding continuation reviewed the complete current text and references. Source revision and drafted owner row reconfirmed November 19, 2026; the older absolute learning-style title is not a separate work. The future date is a plan and the public URL remains blank."
+  },
+  {
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "id": "does-growth-mindset-work",
+    "title": "Does Growth Mindset Work?",
+    "question": "What do growth-mindset studies measure, and which students and settings do their findings describe?",
+    "expression": "RN’s draft distinguishes the association between beliefs and achievement from the effect of an intervention intended to change those beliefs. It compares two pooled analyses with a brief online intervention in United States secondary schools, explaining the differences among studies, samples and individual effect estimates. For readers assessing education claims, RN focuses on average results, lower-achieving students, school context and the limits of extending one short lesson into a universal programme.",
+    "boundary": "Unpublished, release-held Ask a Neuroscientist draft intended for Fat Nugs Magazine. The source review is explicitly based on abstracts; full-text effect sizes were not read, and the older headline claim of about one percent is omitted. Subgroup and peer-context findings do not establish a general workplace or year-long programme effect. Strong-subgroup wording, causal interpretations of context and advice to target and measure need further source-owner review. Complete manuscript review is not independent scientific, statistical, disclosure or rights acceptance. No manuscript or publication link is exposed.",
+    "provenance": "Complete manuscript and references were read in the preceding continuation. Current source revision and drafted owner record reconfirmed November 19, 2026; Fat Nugs routing, blank public URL and planning-date status retained."
   }
 ]
