@@ -3837,4 +3837,20 @@
     "boundary": "Unpublished, release-held draft. Polymath is the intended outlet; the draft is managed within RN’s Ask a Neuroscientist source collection, which does not make it a published column. Statements that the shoulder blade is held by muscle alone or that movement universally starts at the torso need qualification. One historical reference is metadata-only and is explicitly not used as evidence. Complete manuscript/reference review is retained; the original textbook chapters, paper, illustrations and rights have not been independently checked. No exercise or injury-treatment advice is offered. No manuscript, media or publication link is exposed.",
     "provenance": "Complete manuscript and references reviewed in the preceding intake; current source revision and drafted owner-register revision confirmed unchanged November 19, 2026. The owner’s future date is a plan, not publication, and the public URL is blank. Historical topic pointer and current manuscript identify one essay, not separate works."
   }
+,
+{
+  "id": "bees-in-the-grave",
+  "title": "Bees in the Grave: the Shanidar Flower Burial, Rechecked",
+  "category": "Learning",
+  "stage": "Essay draft",
+  "workType": "Writing",
+  "workStatus": "Draft",
+  "held": true,
+  "releaseHeld": true,
+  "parentId": "ask-a-neuroscientist",
+  "question": "How did pollen in soil become a story about a Neanderthal burial, and what changes when that evidence is re-examined?",
+  "expression": "RN’s draft Polymath essay traces the Shanidar flower-burial story from soil samples and pollen identifications to later archaeological reassessment. For general readers interested in how historical claims acquire authority, RN compares possible routes by which pollen reached the remains, including flowers, rodents and nesting bees. She explains why mixed pollen clumps, uncertain plant identifications and flowering seasons matter, then distinguishes that debate from later evidence supporting deliberate burial nearby. Her contribution is a source-based narrative about interpreting physical evidence and preserving competing explanations.",
+  "boundary": "Unpublished, release-held draft, managed in RN’s Ask a Neuroscientist source collection with Polymath as the intended outlet. The manuscript retains uncertainty about immature pollen, possible branches and preliminary dates; a proposed protective use of spiny plants is speculation. It does not establish medicinal or psychedelic use, or settle every burial question. Complete manuscript and references were reviewed; the source’s statement that original papers were read is not independent archaeological, quotation, image or rights verification. No manuscript, media or publication link is offered.",
+  "provenance": "Complete 8,155-character manuscript and all three source entries reviewed in the preceding intake. Current manuscript and drafted owner-register revisions confirmed unchanged November 19, 2026. The April 2027 owner date is a plan and the public URL is blank. Earlier topic wording and current essay identify one work; no separate package or appendix is counted."
+}
 ]
