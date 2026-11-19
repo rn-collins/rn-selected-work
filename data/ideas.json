@@ -3428,5 +3428,35 @@
     "expression": "RN’s essay draft examines three cannabis research programmes through the public information available to prospective participants: the National Cannabis Study, the Realm of Caring registry and COSMIC. Written for Hawaiʻi readers and community communicators, it compares the studies’ stated purposes, participant tasks, funding, data access and consent information. RN’s contribution is documentary research and explanation: reading study pages alongside government reports, trial listings and published papers, distinguishing volunteer observations from evidence of cause and effect, and turning information gaps into questions readers can ask. The expanded manuscript also compares the geography of listed clinics with county patient data and examines underrepresentation in research. It contains a source desk and proposed charts and photographs. These are materials for an editorial work, not evidence that RN ran the studies, recruited participants or produced clinical findings.",
     "boundary": "This is an unpublished, release-held RN Collins essay with related earlier AaN material. The current manuscript and the current Polymath draft were read in full; their contents differ, including the dated registry figures, local-access analysis and source list. The publisher currently marks its edition as an unscheduled draft. Recruitment, eligibility, local sites, compensation, privacy terms and legal interpretations still require current primary-source review before release. This portfolio summary does not offer participation advice or confirm that a study is enrolling. Scientific, legal, image and rights clearance is not established. No private text, study sign-up, draft reading page or media is linked.",
     "provenance": "The current source package records RN’s transfer of this work to RN Collins and its removal from the AaN schedule. Older Fat Nugs routing and planning dates are retained as conflicting historical records, not evidence of publication. One essay is represented here; its earlier manuscript, publisher edition and social adaptations are not counted as separate works. Source and publisher state reviewed November 18, 2026."
+  },
+  {
+    "id": "bro-science-check",
+    "title": "Bro Science Check",
+    "category": "Research",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "How can readers distinguish a familiar claim from something a study actually measured?",
+    "expression": "RN’s draft first episode for Ask a Neuroscientist proposes a recurring column that examines grower lore through published research. Its three editorial grades—Supported, Mixed and Untested—help readers separate evidence that backs a claim, findings that disagree or address only part of it, and questions that the reviewed studies have not answered. The first essay considers the relationship people assume between plant chemistry and sensory qualities, then compares that claim with the outcomes the cited research actually measured. RN’s contribution is research synthesis and explanation: defining the claim, identifying the limits of the experiments, distinguishing direct reading from secondary accounts, and explaining why a missing result does not prove a claim false. A brief second example demonstrates how the same editorial format can be applied to another piece of lore. The recovered work includes a complete essay draft, source notes and proposed social and exhibit adaptations.",
+    "boundary": "This is one unpublished, release-held essay and a proposal for a continuing column, not a completed series or validated grading instrument. The complete manuscript was reviewed in the preceding recovery pass; its current revision is unchanged. Dated source notes record a later full-paper review that supersedes an earlier abstract-only limitation, while an unavailable thesis remains attributed through another paper. Those author review notes are not independent scientific verification by this audit. Claims, quotations, images and reuse rights still require appropriate review before release. No cultivation instructions, private manuscript, draft reading page or media are linked.",
+    "provenance": "Current manuscript and package checked November 18, 2026 against the completed source handoff. The owner record routes the work to Ask a Neuroscientist for Fat Nugs and provides no publication URL. Different dates in the manuscript and later package are planning history, not evidence of publication. The essay and its supporting formats are represented together."
+  },
+  {
+    "id": "how-safe-are-classic-psychedelics",
+    "title": "How Safe Are Classic Psychedelics?",
+    "category": "Research",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What gets lost when different kinds of risk are compressed into a single claim that something is safe?",
+    "expression": "RN’s draft Ask a Neuroscientist essay organizes two review papers into three questions: effects on the body, dependence and withdrawal, and psychological or psychiatric reactions. It is written for readers evaluating broad safety claims rather than making a personal treatment decision. RN’s contribution is explanatory synthesis: defining technical terms, comparing evidence from screened trials with self-reported surveys, and showing why a result from one group cannot automatically be applied to everyone. The manuscript discusses how participant exclusions limit what trials can establish and why an emergency-help survey measures the respondents’ reports rather than all possible harms. It also revisits a numerical range to explain that its endpoints come from different sources and measure different things. This gives the essay a distinct focus from RN’s writing on trial demographics and treatment-effect thresholds.",
+    "boundary": "This is an unpublished, release-held essay draft intended for the Ask a Neuroscientist column. The complete current manuscript was read, including its source list and limitations. Its statement that both papers were read is attributed to the manuscript; this audit has not independently verified the medical claims or source quotations. An unresolved wording issue remains: the draft sometimes presents figures for abuse and dependence as one dependence range, despite later explaining that the measures differ. That requires source-owner review before release. The summary does not endorse the draft’s broad safety conclusion or provide personal risk, dosing or use advice. No private manuscript or media is linked; scientific and rights clearance remains open.",
+    "provenance": "Current manuscript and drafted owner record reviewed November 18, 2026. The source is an undated essay; the owner register gives a later planning date and no publication URL. Its idea alias and scheduled social package refer to the same underlying work and are not separate gallery records."
   }
 ]
