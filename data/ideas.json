@@ -3608,5 +3608,35 @@
     "expression": "RN’s expanded Polymath essay draft examines affect labeling for general readers encountering claims that naming an emotion makes it easier to manage. RN’s contribution is research synthesis and explanatory writing across imaging, self-rating, exposure and early clinical studies. The manuscript distinguishes choosing a supplied label from naming a feeling freely, naming from deliberately reframing an experience, and brain activity from reported distress or physiological arousal. It follows conflicting findings through task order, emotional intensity, language dominance and follow-up time. Its references, resource list, figure captions and proposed charts form one explanatory article package.",
     "boundary": "Unpublished, release-held draft, not a treatment recommendation. Most of the discussed work uses short laboratory tasks; a small clinical pilot lacks an untreated comparison group. The manuscript retains an abstract-only source and several secondary citations. Broad opening and concluding claims need review against the differing tasks, measures and populations. Complete text and caption inspection is not independent verification of the studies, quotations, chart values, clinical-trial status or image licenses. Images were not visually reviewed and no manuscript, media or clinical resource link is exposed here.",
     "provenance": "Complete current 20,538-character manuscript, captions, references and resources read November 19, 2026; current AaN owner row says drafted for Polymath with no public URL. The manuscript records a November 13 revision; the November 29 planning date is not a release. Its historical idea pointer and supporting formats belong to this one work. No direct title match was found in the current intake inventory or gallery."
+  },
+  {
+    "id": "why-no-filter-shows-what-someone-else-sees",
+    "title": "Why No Filter Shows What Someone Else Sees",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What does a color-vision simulation model, and how can a convincing-looking filter be tested?",
+    "expression": "RN’s draft Ask a Neuroscientist essay explains color-vision simulation for designers, teachers and readers encountering filtered images online. It follows a 1997 image-transformation algorithm into a 2016 comparison of simulation tools. RN’s contribution is research synthesis and explanatory writing: the manuscript explains how reports from people with different vision in each eye informed the model, distinguishes matching two images from knowing someone’s subjective experience, and describes a two-task check of hue and lightness. It separates an average model of a type of vision from an individual’s lifetime of seeing.",
+    "boundary": "Unpublished, release-held draft. The discussed algorithm concerns dichromacy, not every form of color-vision difference. Its reported checks involve very small samples; the later comparison tested ten typical-vision viewers and two tools, not current products generally. The 2014 study is described only through the 2016 paper. The manuscript’s source-access statements do not establish independent scientific or rights verification by this portfolio audit. No product endorsement, diagnosis, manuscript or media link is offered.",
+    "provenance": "Complete current manuscript, references and drafted AaN owner row reviewed November 19, 2026. The source is undated batch-10 material and the owner’s future planning date is not publication; no public URL is recorded. The historical idea pointer and package belong to the same work. Current gallery title comparison found no corresponding essay; broader edition reconciliation remains open."
+  },
+  {
+    "id": "daltons-eye",
+    "title": "Dalton’s Eye",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "How did a precise account of seeing differently survive when its author’s explanation proved wrong?",
+    "expression": "RN’s Polymath draft follows John Dalton’s observations of flowers and prism colors, his proposed explanation, the examination of his eyes after death and the later genetic account. For readers of science and history, RN compares first-person description, correspondence, an examination report, museum records and modern research summaries. Her contribution is documentary comparison and explanatory writing: she separates the date a paper was read from its publication, explains competing interpretations, and shows why population estimates depend on whom a study counted. Captions, references and proposed illustrations support this single essay.",
+    "boundary": "Unpublished, release-held draft. The manuscript relies on abstracts and later reviews for the original genetic papers; those access limits remain. Its account notes differing descriptions of the eye fluids and gives priority to the examination report. Historical quotations, genetic interpretations, prevalence figures, chart values, image identities and reuse rights have not been independently cleared here. Captions were read, but images were not visually inspected. No manuscript, media, clinical advice or public reading link is provided.",
+    "provenance": "Complete current manuscript, captions, references and resources reviewed November 19, 2026 alongside the drafted AaN owner row. The manuscript records a November 13 revision and Polymath destination; its November 27 planning date is not publication, and the public URL is blank. The historical idea and batch package represent one work. No matching gallery title was found."
   }
 ]
