@@ -3715,4 +3715,35 @@
   "boundary": "Unpublished, release-held draft. The studies described involve 16 people and 13 males respectively, and the results should remain tied to those samples and methods. The manuscript’s broad missing-cone and normal-retina language, its extension from dichromacy to common red-green differences, and its diagnostic conclusion need source-owner review. The manuscript says the complete papers were read; this audit reviewed the manuscript, not those original papers or images. No clinical service, treatment claim, manuscript or media link is offered; independent scientific and rights review remains open.",
   "provenance": "Complete current manuscript and references reviewed November 19, 2026 with its drafted owner row. Undated batch material; the September 2027 planning date is not publication and the public URL is blank. Historical pointer and package identify one essay; no matching gallery title was found."
 }
+,
+  {
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "id": "posture-under-pressure",
+    "title": "Posture Under Pressure",
+    "question": "Why might a body become stiff when balance feels threatened, and how far can laboratory standing studies explain that response?",
+    "expression": "RN’s draft Ask a Neuroscientist essay explains a narrative review of standing on raised platforms for general readers interested in movement and performance. She separates leaning away from an edge, smaller and faster sway, and opposing ankle muscles tightening together. Her contribution is research synthesis and plain-language explanation: the manuscript follows how attention and repeated exposure relate to these different responses, then asks readers to consider stiffness as a possible protective adjustment. The dance framing provides context; the reviewed experiments concern standing balance.",
+    "boundary": "Unpublished, release-held draft. A narrative review does not supply one pooled effect size, and the standing tasks do not establish benefits for dancers, stage performance or training. The manuscript’s claims that only emotional stakes change and that all observed differences can be assigned to threat need source-owner qualification. Its statement that the original review was read is a source claim; this audit reviewed the complete manuscript, not the review’s underlying studies. No exercise prescription, clinical result, manuscript or media link is offered. Independent scientific, image and rights review remains open.",
+    "provenance": "Complete current manuscript and references reviewed November 19, 2026 against the drafted owner row. The manuscript is undated batch material; the July 2027 owner date is a plan, not publication, and its public URL is blank. Historical dance-topic pointer and current package identify one essay; no matching gallery title was found."
+  },
+  {
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "id": "nervous-or-tired",
+    "title": "Nervous or Tired?",
+    "question": "What can research on musicians’ anxiety and athletes’ fatigue tell readers about interpreting a body signal?",
+    "expression": "RN’s draft Ask a Neuroscientist essay brings together a small musician study and a review of fatigue monitoring in athletes. For general readers interested in performance, RN explains heart-rate variability—the changing intervals between beats—and the difference between work performed and the body’s response to it. Her contribution is a comparison of research questions and methods: the manuscript distinguishes physiological measurements from reported feelings and explains why studies in separate populations do not create a test that distinguishes anxiety from tiredness in one person.",
+    "boundary": "Unpublished, release-held draft. A targeted check of the musician paper’s methods and results confirms that the overall between-group anxiety comparison was nonsignificant; this must not be rewritten as no anxiety change within the intervention group. Its high-anxiety subgroup analysis was post hoc. Recruitment and analysed samples also need to be distinguished. The fatigue review, broader clinical claims, raw data and figures were not independently reviewed here. Neither source establishes a diagnostic rule or lasting performance benefit. No breathing prescription, medical service, manuscript or media link is offered; scientific and rights review remains open.",
+    "provenance": "Complete current manuscript and references, its drafted owner row, and selected methods/results sections of the original musician paper reviewed November 19, 2026. The manuscript is undated batch material; the August 2027 planning date is not publication and its public URL is blank. Historical dance-topic pointer and package identify one essay."
+  }
 ]
