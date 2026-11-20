@@ -4058,5 +4058,35 @@
     "expression": "RN’s draft compares a broad gardening meta-analysis with a review of nature-based programs for older adults. For readers interested in community activities and care settings, it separates mood, life satisfaction, sense of community and loneliness, explains publication-bias checks and evidence certainty, and asks whether company and shared activity could account for some benefits attributed to plants. The shared-activity explanation is presented as a hypothesis, not an established mechanism.",
     "boundary": "Unpublished Ask a Neuroscientist draft intended for Fat Nugs Magazine. The complete manuscript and references were read for this description. The manuscript reports abstract-only sourcing; a targeted check of the newer review found an outcome-specific moderate-certainty finding for indoor-gardening loneliness that needs reconciliation with its broad low-certainty framing. Study-level results, its low-risk characterization, named care programs, images and rights remain unverified. This is an explanatory essay, not a delivered program, treatment recommendation or proven loneliness intervention. No manuscript or publication link is supplied.",
     "provenance": "Matched to the drafted owner record with a blank public URL; its future date is a plan. The older gardening-and-loneliness title identifies this work. It overlaps in sources with What the Gardening Trials Measured but addresses a different question and intended outlet."
+  },
+  {
+    "id": "what-the-chatbot-trials-show",
+    "title": "What the Chatbot Trials Show",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What can early chatbot trials tell readers about mental-health outcomes, and what remains unknown about safety and lasting benefit?",
+    "expression": "RN’s draft compares two research reviews from 2020 and 2023 for readers trying to understand claims about mental-health chatbots. It explains the difference between symptom scores and wider well-being, what randomized comparisons add, and why statistical improvement is not automatically a meaningful change in daily life. RN’s contribution is research synthesis and explanatory writing, including a discussion of user experience and the limits of treating a human–AI relationship as an explanation for clinical outcomes.",
+    "boundary": "Unpublished Ask a Neuroscientist essay intended for Fat Nugs Magazine. The manuscript says its sources were read as abstracts, while a later section of the package’s research log reports full-text checks; that discrepancy remains unresolved. Targeted publisher passages were inspected for this description, not every study or supplement. Variation between studies, limited follow-up and incomplete safety evidence remain important limits. The draft’s practical suggestion about using chatbots alongside care needs separate editorial review; this portfolio entry does not recommend a product or treatment, verify current chatbot safety, or describe a service delivered by RN. Images, derivative materials and reuse rights have not been cleared. No manuscript or publication link is supplied.",
+    "provenance": "Complete manuscript and research log compared with the current owner record. The owner identifies a drafted Fat Nugs piece with no public URL; October 28, 2027 is a planning date, while the manuscript retains an older undated label. The earlier AI mental-health tools title is an alias, not another work. Publisher review was limited to abstracts and targeted safety, results, methods and limitations passages."
+  },
+  {
+    "id": "can-a-robot-be-a-friend",
+    "title": "Can a Robot Be a Friend?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "How do children distinguish talking machines from people while still treating them as sources of knowledge, comfort or friendship?",
+    "expression": "RN’s draft brings together a laboratory study of a humanoid robot, later accounts of a voice-assistant study and a scoping review of conversational AI. For readers trying to understand claims about children and AI companions, it separates social behavior, selective trust and moral standing: treating a robot fairly is different from granting it every human right. It also distinguishes a short interaction from evidence about development over years. RN’s contribution is explanatory research synthesis, including an account of what a scoping review maps and what these different technologies and study designs cannot establish together.",
+    "boundary": "Unpublished Ask a Neuroscientist essay intended for Fat Nugs Magazine. The voice-assistant study is described through two later papers rather than a complete reading of the original. The manuscript and research log disagree about access to the robot paper; the log records a full-text follow-up, then later says all three original papers remained abstract-only. Those accounts have not been reconciled. The underlying papers, cited review, guidance documents, study-level claims and practical supervision conclusion have not been independently verified for this entry. No specific supervision method, current AI product, long-term benefit or safe replacement for a human relationship is endorsed. Images, diagrams, derivative materials and rights remain unreviewed; no manuscript or publication link is supplied.",
+    "provenance": "Complete manuscript and research log reviewed against the current owner register. The owner records a drafted Fat Nugs essay with no public URL and a February 24, 2027 planning date, while the manuscript retains an older undated header. Earlier children-and-chatbots wording is an alias of this work; related platform drafts are supporting materials, not additional essays."
   }
 ]
