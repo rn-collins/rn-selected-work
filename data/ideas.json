@@ -4013,5 +4013,35 @@
     "expression": "RN’s draft compares a concert study of live and simultaneous livestream audiences with a theater study of facial-expression synchrony. For readers curious about collective attention, RN explains how researchers measure similarity between people over time, distinguishes heart-monitor participants from the broader questionnaire sample, and separates audience reports from a dramaturge’s predictions of engagement. The essay uses these differences to examine what a shared room might add while leaving its opening question about collective stillness unresolved.",
     "boundary": "Unpublished, release-held Ask a Neuroscientist draft intended for Fat Nugs Magazine. The complete manuscript and references were read, but the underlying studies have not received a complete independent review in this recovery pass. Neither study directly measures shared stillness. Similar responses do not by themselves establish mutual influence, a common feeling or a cause of a room becoming quiet. A failure to detect a seating effect does not establish that seat location never matters. Stronger causal, seating and participant-comparison statements in the manuscript remain for source-owner review. Image and rights acceptance is not established. No manuscript or publication link is supplied.",
     "provenance": "Complete 8,068-character manuscript reviewed in continuation113. Current source revision and drafted owner record reconfirmed November 19, 2026; Fat Nugs routing, blank public URL and planning-date status retained."
+  },
+  {
+    "id": "the-bacterium-that-edits-plants",
+    "title": "The Bacterium That Edits Plants",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "How did bacteria that cause plant disease or affect insects become tools for biotechnology?",
+    "expression": "RN’s draft pairs Agrobacterium’s transfer of DNA into plants with the insect-targeting proteins made by Bacillus thuringiensis. For readers unfamiliar with plant biotechnology, RN explains plasmids, transferred DNA, crown gall, Cry proteins and promoters, then separates the natural processes from their research and agricultural applications. A promoter experiment and an image-source exception show why the identity of the organism and the scope of each study matter.",
+    "boundary": "Unpublished draft intended for The Polymath, recovered from the Ask a Neuroscientist source collection. The complete manuscript and five references were read for this description; underlying papers, experiments, images and rights have not received full independent review. Historical Bti resistance and safety statements are attributed to a 2014 mosquito-control review and cannot establish current safety or resistance across crops and ecosystems. The manuscript’s broader environmental language, image-panel identity and citation-version details remain for source-owner review. It does not provide pest-control or genetic-engineering instructions. No manuscript or publication link is supplied.",
+    "provenance": "Complete source reviewed November 19, 2026. The older Bt and crown gall idea title identifies this manuscript. Owner record remains drafted, with a blank public URL and a future planning date."
+  },
+  {
+    "id": "what-biochar-does-in-soil",
+    "title": "What Biochar Does in Soil",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What changes when biochar is judged for plant nutrition rather than carbon storage?",
+    "expression": "RN’s draft compares a crop-nutrient meta-analysis with a perspective on biochar’s different purposes. For readers evaluating claims about soil amendments, RN separates plant biomass, total nutrient accumulation and nutrient concentration, then considers variation between elements, crops and biochar properties. The essay uses that comparison to explain why evidence of soil benefits and evidence of durable carbon storage answer different questions.",
+    "boundary": "Unpublished Ask a Neuroscientist draft intended for Fat Nugs Magazine. The complete manuscript and its two references were read for this description, but the underlying full studies, pooled estimates, figures and rights have not been independently reviewed. The manuscript describes 144 paired observations rather than 144 independent studies; its averages cannot predict a particular field or product. Its source classification and wording around unchanged concentrations and explanatory dominance need review. No application rates, production instructions, product recommendation or publication link is supplied.",
+    "provenance": "Complete manuscript reviewed November 19, 2026 and matched to the drafted owner record. Biochar is the older idea title for this same work; the future owner date is a plan, not publication."
   }
 ]
