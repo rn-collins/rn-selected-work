@@ -57,8 +57,8 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
   const notes = new Map((x.annotations ?? []).map((a) => [a.doi ?? "", a]));
   const annotated = (x.annotations ?? []).filter((a) => a.doi && p.research.some((r) => r.url === a.doi));
   const plain = p.research.filter((r) => !notes.has(r.url));
-  const charts = [...(x.charts ?? []).map((c) => ({ title: c.title, file: c.csv, from: c.source_table })),
-    ...(p.chart_csvs ?? []).filter((c) => !(x.charts ?? []).some((e) => e.csv === c.file)).map((c) => ({ title: `Chart, ${c.where}`, file: c.file, from: undefined }))];
+  const charts = [...(x.charts ?? []).map((c) => ({ title: c.title, file: c.file ?? c.csv.split("/").pop()!, from: c.source_table })),
+    ...(p.chart_csvs ?? []).filter((c) => !(x.charts ?? []).some((e) => (e.file ?? e.csv.split("/").pop()) === c.file)).map((c) => ({ title: `Chart, ${c.where}`, file: c.file, from: undefined }))];
   const deeper = x.go_deeper && ([["new", "New to this"], ["serious", "Getting serious"], ["expert", "Expert"]] as const).filter(([k]) => (x.go_deeper?.[k] ?? []).length);
 
   const tabs: [string, string][] = [];

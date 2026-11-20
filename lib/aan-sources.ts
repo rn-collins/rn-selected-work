@@ -16,7 +16,7 @@ export type SourcesExtra = {
   could_be_wrong?: { point: string; source?: string; url?: string }[];
   go_deeper?: { new?: Titled[]; serious?: Titled[]; expert?: Titled[] };
   listen_watch?: { title: string; speaker?: string; credentials?: string; conflicts?: string; url: string; length?: string; timestamp?: string; why?: string; checked?: string; checked_on?: string }[];
-  charts?: { title: string; csv: string; source_table?: string }[];
+  charts?: { title: string; csv: string; file?: string; source_table?: string }[]; // file: the copied name under /charts/<slug>/
   glossary?: { term: string; plain: string }[];
   law_policy?: { citation: string; url?: string; status?: string; as_of?: string }[];
   clinical?: { registry_id: string; url?: string; what_measured?: string; adverse_events?: string }[];
