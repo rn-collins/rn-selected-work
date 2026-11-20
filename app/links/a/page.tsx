@@ -10,9 +10,10 @@ import { platforms, extras, emails, title, tagline, entities, thisWeek, mjbizcon
 export const revalidate = 3600;
 export const metadata: Metadata = { title: "Direction A: sticker lab book", robots: { index: false, follow: false } };
 
+// Two staggered columns so even the longest sticker stays on a 360 px phone screen.
 const PLACES = [
-  [6, 4, -6], [52, 2, 5], [24, 14, 3], [60, 15, -4], [4, 27, 4], [46, 28, -7], [16, 40, -3], [56, 41, 6],
-  [2, 53, 5], [40, 54, -5], [64, 57, 3], [12, 67, -6], [50, 69, 4], [24, 80, -2], [60, 82, 7], [4, 92, 3],
+  [3, 3, -6], [44, 1, 5], [8, 10, 3], [46, 12, -4], [2, 20, 4], [42, 22, -7], [6, 30, -3], [46, 33, 6],
+  [2, 41, 5], [38, 44, -5], [5, 52, 3], [40, 55, -6], [3, 63, 4], [42, 66, -2], [6, 75, 7], [44, 78, 3],
 ];
 
 export default function DirectionA() {

@@ -28,8 +28,8 @@
   clip-path: polygon(2% 0, 98% 4%, 100% 96%, 0 100%);
 }
 .hint { max-width: 32rem; margin: 1.2rem auto .4rem; font-size: .85rem; color: #3d5a4c; }
-.board { position: relative; max-width: 32rem; height: 760px; margin: 0 auto; touch-action: pan-y; }
-.placed { position: absolute; transform: rotate(var(--r, 0deg)); }
+.board { position: relative; max-width: 32rem; height: 860px; margin: 0 auto; touch-action: pan-y; }
+.placed { position: absolute; max-width: 56%; transform: rotate(var(--r, 0deg)); }
 :global(.canDrag) .placed { cursor: grab; touch-action: none; }
 :global(.dragging) { cursor: grabbing; }
 .deco { position: absolute; height: auto; pointer-events: none; }
