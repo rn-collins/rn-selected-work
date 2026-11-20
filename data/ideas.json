@@ -4088,5 +4088,35 @@
     "expression": "RN’s draft brings together a laboratory study of a humanoid robot, later accounts of a voice-assistant study and a scoping review of conversational AI. For readers trying to understand claims about children and AI companions, it separates social behavior, selective trust and moral standing: treating a robot fairly is different from granting it every human right. It also distinguishes a short interaction from evidence about development over years. RN’s contribution is explanatory research synthesis, including an account of what a scoping review maps and what these different technologies and study designs cannot establish together.",
     "boundary": "Unpublished Ask a Neuroscientist essay intended for Fat Nugs Magazine. The voice-assistant study is described through two later papers rather than a complete reading of the original. The manuscript and research log disagree about access to the robot paper; the log records a full-text follow-up, then later says all three original papers remained abstract-only. Those accounts have not been reconciled. The underlying papers, cited review, guidance documents, study-level claims and practical supervision conclusion have not been independently verified for this entry. No specific supervision method, current AI product, long-term benefit or safe replacement for a human relationship is endorsed. Images, diagrams, derivative materials and rights remain unreviewed; no manuscript or publication link is supplied.",
     "provenance": "Complete manuscript and research log reviewed against the current owner register. The owner records a drafted Fat Nugs essay with no public URL and a February 24, 2027 planning date, while the manuscript retains an older undated header. Earlier children-and-chatbots wording is an alias of this work; related platform drafts are supporting materials, not additional essays."
+  },
+  {
+    "id": "kids-ai-and-the-developing-brain",
+    "title": "Kids, AI and the Developing Brain",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What does research on young people's AI use actually measure, and how far is it from evidence about brain development?",
+    "expression": "RN’s draft compares a study using parental device-monitoring data with a review of adolescent mental-health research. It explains age-group usage, the difference between a median and an average, and why a small group of heavy users can be obscured by a single summary. It then separates associations measured at one time from evidence that follows children over time. For readers interpreting claims about children and AI, RN’s contribution is a research-based explanation of the gap between the question in the title and what the cited studies measured.",
+    "boundary": "Unpublished Ask a Neuroscientist essay intended for Fat Nugs Magazine. The manuscript and research log report full-text source reading, but that report is not independent verification of the papers or their findings. The usage sample comes from families using a monitoring service and is not presented as a census of all children. Denominators, usage-time summaries, developmental framing, clinical statements and practical advice still require source review. This entry does not establish benefits, harm, safety or a causal effect of current AI products. Charts, platform derivatives, images and reuse rights have not been inspected or cleared. No manuscript or publication link is supplied.",
+    "provenance": "Complete manuscript and research log reviewed with the current owner record. The owner lists a drafted Fat Nugs essay with no public URL and an October 27, 2027 planning date; the manuscript retains an earlier undated header. The children-and-companions essay is a distinct work. Matching against current gallery and cached publication titles is bounded identity review, not proof of edition equality."
+  },
+  {
+    "id": "time-in-the-brain",
+    "title": "Time in the Brain: How the Brain Keeps Time, and Why It Bends",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What can research on timing, emotion and memory tell designers about the pace of an experience, and where does that evidence stop?",
+    "expression": "RN’s draft brings several kinds of time-perception research into a discussion of experience design. It moves from proposed brain mechanisms and body signals to emotion, remembered fear, laboratory studies of altered states and shared arousal during a ritual. RN compares what each study measured, its participants and its limits, then asks how cautiously those findings can inform the pacing of festivals, rituals or immersive spaces. Her contribution is research synthesis and explanatory writing for designers, with a distinction between an interesting design possibility and an effect that has actually been tested.",
+    "boundary": "Unpublished Ask a Neuroscientist essay intended for Polymath’s Psychedelics Design 2026 coverage. The research log reports reading six papers and a correction, but this portfolio review has not independently verified those papers, quotations or claims. Two original studies remain represented through later sources; descriptions of one study differ on the timing intervals. Small samples, animal-to-human comparisons, funding disclosures and the gap between laboratory tasks and designed experiences remain material limits. Shared heart-rate patterns do not establish altered felt time. The manuscript’s statement that no rigorous pacing study was found is limited to its search, not an exhaustive absence claim. No drug-use advice, validated design method, completed media package or cleared imagery is supplied.",
+    "provenance": "Complete manuscript and research-log text reviewed against the current owner register, which lists a draft with no public URL and a February 24, 2027 planning date. The research log retains different October and November review dates that need reconciliation. Full-text comparison with the two existing time-perception essays supports a distinct design-focused work despite shared studies; related scripts and versions remain attached to this essay."
   }
 ]
