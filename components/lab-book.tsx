@@ -37,15 +37,19 @@ function Out({ href, children }: { href: string; children: ReactNode }) {
 // Light parse of an APA-style reference label: everything before the read-note in brackets, which is for us.
 const cite = (label: string) => label.replace(/\s*\((?:read|seen|checked)[^)]*\)\s*$/i, "").trim();
 
-export async function LabBook({ p, links }: { p: SourcePost; links: ReactNode }) {
+// brand "fnm": a Fat Nugs article's source page (/sources/fnm/<slug>, short link /fn/<n>), RN Collins's byline.
+export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p: SourcePost; links: ReactNode; brand?: "aan" | "fnm"; shortPath?: string; page?: string }) {
   const x = p.extra ?? {};
-  const url = `${SITE}/sources/${p.slug}`;
-  const short = `${SITE.replace("https://", "")}/s/${p.slug}`;
-  const qr = await QRCode.toString(`${SITE}/s/${p.slug}`, { type: "svg", margin: 1, errorCorrectionLevel: "M", color: { dark: "#17201b", light: "#ffffff" } });
+  const url = `${SITE}${page ?? `/sources/${p.slug}`}`;
+  const sp = shortPath ?? `/s/${p.slug}`;
+  const short = `${SITE.replace("https://", "")}${sp}`;
+  const venue = brand === "fnm" ? "Fat Nugs Magazine" : "Ask a Neuroscientist";
+  const qr = await QRCode.toString(`${SITE}${sp}`, { type: "svg", margin: 1, errorCorrectionLevel: "M", color: { dark: "#17201b", light: "#ffffff" } });
   const sure = x.start_here?.how_sure ? SURE[x.start_here.how_sure] : undefined;
   const sureNote = x.start_here?.how_sure_note || p.how_sure;
-  const year = p.date.slice(0, 4);
-  const d = new Date(`${p.date}T12:00:00Z`);
+  const dated = p.date !== "";
+  const year = dated ? p.date.slice(0, 4) : "n.d.";
+  const d = new Date(`${dated ? p.date : "2026-01-01"}T12:00:00Z`);
   const mla = d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }).replace(/(\w{3})\w* /, "$1. ").replace("Sept.", "Sep.");
   const apaDate = d.toLocaleDateString("en-US", { month: "long", day: "numeric", timeZone: "UTC" });
 
@@ -79,9 +83,9 @@ export async function LabBook({ p, links }: { p: SourcePost; links: ReactNode })
   return (
     <article className={`${s.book} shell`}>
       <header className={s.cover}>
-        <p className={s.kicker}>Ask a Neuroscientist · Lab book · Sources</p>
+        <p className={s.kicker}>{brand === "fnm" ? "Fat Nugs Magazine · RN Collins · Sources" : "Ask a Neuroscientist · Lab book · Sources"}</p>
         <h1 className={s.title}>{p.title}</h1>
-        <p className={s.meta}>{p.series} · posted {longDate(p.date)}{x.last_checked ? ` · last checked ${longDate(x.last_checked)}` : ""}</p>
+        <p className={s.meta}>{p.series} · {dated ? `${brand === "fnm" ? "published" : "posted"} ${longDate(p.date)}` : "not yet published"}{x.last_checked ? ` · last checked ${longDate(x.last_checked)}` : ""}</p>
         {tabs.length > 0 && (
           <nav className={s.tabs} aria-label="On this page">
             {tabs.map(([id, label]) => <a key={id} href={`#${id}`}>{label}</a>)}
@@ -93,7 +97,8 @@ export async function LabBook({ p, links }: { p: SourcePost; links: ReactNode })
         <Section id="start" n={no()} title="Start here">
           <div className={s.startGrid}>
             <div>
-              {x.start_here?.summary?.length ? <ul className={s.summary}>{x.start_here.summary.map((l) => <li key={l}>{l}</li>)}</ul> : <p className={s.lede}>The studies, records and images behind this post, each linked to the original.</p>}
+              {x.start_here?.summary?.length ? <ul className={s.summary}>{x.start_here.summary.map((l) => <li key={l}>{l}</li>)}</ul> : <p className={s.lede}>{brand === "fnm" ? "Every source behind this article, and further resources, each linked to the original." : "The studies, records and images behind this post, each linked to the original."}</p>}
+              {p.origin && <p className={s.small}><Out href={p.origin.url}>Read the article: {p.origin.label}</Out></p>}
               <p className={s.small}>{x.start_here?.reading_minutes ? `${x.start_here.reading_minutes} minute read · ` : ""}{p.disclaimer || "Education, not medical advice."} Not legal advice.</p>
             </div>
             {(sure || sureNote) && (
@@ -150,14 +155,14 @@ export async function LabBook({ p, links }: { p: SourcePost; links: ReactNode })
           })}
           {plain.length > 0 && (
             <div className={s.group}>
-              <h3>{annotated.length ? "Also cited" : "Research cited"}</h3>
-              <ol className={s.refs}>{plain.map((r) => <li key={r.url}><Out href={r.url}>{cite(r.label) || host(r.url)}</Out><span className={s.host}>{host(r.url)}</span></li>)}</ol>
+              <h3>{annotated.length ? "Also cited" : brand === "fnm" ? "References" : "Research cited"}</h3>
+              <ol className={s.refs}>{plain.map((r, i) => <li key={`${r.url}-${i}`}>{r.url ? <><Out href={r.url}>{cite(r.label) || host(r.url)}</Out><span className={s.host}>{host(r.url)}</span></> : cite(r.label)}</li>)}</ol>
             </div>
           )}
           {p.other.length > 0 && (
             <div className={s.group}>
-              <h3>Other sources</h3>
-              <ol className={s.refs}>{p.other.map((r) => <li key={r.url}><Out href={r.url}>{r.label || host(r.url)}</Out><span className={s.host}>{host(r.url)}</span></li>)}</ol>
+              <h3>{brand === "fnm" ? "Resources" : "Other sources"}</h3>
+              <ol className={s.refs}>{p.other.map((r, i) => <li key={`${r.url}-${i}`}>{r.url ? <><Out href={r.url}>{r.label || host(r.url)}</Out><span className={s.host}>{host(r.url)}</span></> : r.label}</li>)}</ol>
             </div>
           )}
         </Section>
@@ -279,8 +284,8 @@ export async function LabBook({ p, links }: { p: SourcePost; links: ReactNode })
       <Section id="cite" n={no()} title="Cite this page and share">
         <div className={s.citeGrid}>
           <dl className={s.cites}>
-            <div><dt>APA</dt><dd>Collins, R. N. ({year}, {apaDate}). <i>{p.title}</i> [Sources page]. Ask a Neuroscientist. {url}</dd></div>
-            <div><dt>MLA</dt><dd>Collins, RN. “{p.title}.” <i>Ask a Neuroscientist</i>, {mla}, {url.replace("https://", "")}.</dd></div>
+            <div><dt>APA</dt><dd>Collins, R. N. ({dated ? `${year}, ${apaDate}` : year}). <i>{p.title}</i> [Sources page]. {venue}. {url}</dd></div>
+            <div><dt>MLA</dt><dd>Collins, RN. “{p.title}.” <i>{venue}</i>, {dated ? mla : "n.d."}, {url.replace("https://", "")}.</dd></div>
           </dl>
           <figure className={s.qr}>
             <span dangerouslySetInnerHTML={{ __html: qr }} />
@@ -298,8 +303,8 @@ export async function LabBook({ p, links }: { p: SourcePost; links: ReactNode })
       </Section>
 
       <section className="socialFollow" aria-label="Follow">
-        <p>Follow Ask a Neuroscientist</p>
-        <SocialRow set="aan" />
+        <p>{brand === "fnm" ? "Follow RN Collins" : "Follow Ask a Neuroscientist"}</p>
+        <SocialRow set={brand === "fnm" ? "rn" : "aan"} />
       </section>
       <ClientLine />
     </article>
