@@ -1,0 +1,5 @@
+label,value,text,axis,source
+Psilocybin,0.15,0.15*,Spearman's rho,"SOURCE: FORSTMANN ET AL. (2023), TABLE 3"
+LSD,0.08,0.08,Spearman's rho,"SOURCE: FORSTMANN ET AL. (2023), TABLE 3"
+DMT,0.05,0.05,Spearman's rho,"SOURCE: FORSTMANN ET AL. (2023), TABLE 3"
+Mescaline,0.04,0.04,Spearman's rho,"SOURCE: FORSTMANN ET AL. (2023), TABLE 3"

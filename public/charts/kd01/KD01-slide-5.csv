@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Median 0.18,0.18,,"Minutes a day, to scale","SOURCE: MAHEUX ET AL. (2026), JAMA NETWORK OPEN 9(2):E2556631"
+Mean 2.37,2.37,,"Minutes a day, to scale","SOURCE: MAHEUX ET AL. (2026), JAMA NETWORK OPEN 9(2):E2556631"
+"Heaviest, over 40",40,,"Minutes a day, to scale","SOURCE: MAHEUX ET AL. (2026), JAMA NETWORK OPEN 9(2):E2556631"

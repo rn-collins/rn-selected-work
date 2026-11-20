@@ -1,0 +1,5 @@
+label,value,text,axis,source
+Stress,79.7,79.7%,"% of 1,207 patients","Chart: AaN, from Kelman (2007) data, via Paungarttner et al. (2024)"
+Hormones,65.1,65.1%,"% of 1,207 patients","Chart: AaN, from Kelman (2007) data, via Paungarttner et al. (2024)"
+Missed meal,57.3,57.3%,"% of 1,207 patients","Chart: AaN, from Kelman (2007) data, via Paungarttner et al. (2024)"
+Sleep,49.8,49.8%,"% of 1,207 patients","Chart: AaN, from Kelman (2007) data, via Paungarttner et al. (2024)"

@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Treated and followed,19,19,One dot = one patient,"SOURCE: CARHART-HARRIS ET AL. (2017), SCIENTIFIC REPORTS 7:13187"
+Usable scans both days,16,16,One dot = one patient,"SOURCE: CARHART-HARRIS ET AL. (2017), SCIENTIFIC REPORTS 7:13187"
+Untreated comparison group,0,none,One dot = one patient,"SOURCE: CARHART-HARRIS ET AL. (2017), SCIENTIFIC REPORTS 7:13187"

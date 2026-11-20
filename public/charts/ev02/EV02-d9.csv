@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Start,31,31,mean MADRS score,"SOURCE: ROSENBLAT ET AL. (2023), CANCERS"
+Day 8,11,11,mean MADRS score,"SOURCE: ROSENBLAT ET AL. (2023), CANCERS"
+Day 14,14,14,mean MADRS score,"SOURCE: ROSENBLAT ET AL. (2023), CANCERS"

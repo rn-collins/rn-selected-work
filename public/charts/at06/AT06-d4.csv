@@ -1,0 +1,3 @@
+label,value,text,axis,source
+1: equal odds,1,,"Odds ratio, adjusted","SOURCE: REDELMEIER ET AL. (2003), PAIN"
+1.41: after the extension,1.41,,"Odds ratio, adjusted","SOURCE: REDELMEIER ET AL. (2003), PAIN"

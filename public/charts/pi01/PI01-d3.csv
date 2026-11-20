@@ -1,0 +1,3 @@
+label,value,text,axis,source
+Drug arm,9.7,9.7%,"share of days, 32-week follow-up","SOURCE: BOGENSCHUTZ ET AL. (2022), JAMA PSYCHIATRY"
+Control arm,23.6,23.6%,"share of days, 32-week follow-up","SOURCE: BOGENSCHUTZ ET AL. (2022), JAMA PSYCHIATRY"

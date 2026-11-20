@@ -1,0 +1,4 @@
+label,value,low,high,text,axis,source
+Sitting,,0,755,0 to 755,,"Chart: Ask a Neuroscientist, from Hölzel et al. (2011) data"
+Yoga,,103,775,103 to 775,,"Chart: Ask a Neuroscientist, from Hölzel et al. (2011) data"
+Body scan,,335,1002,"335 to 1,002",,"Chart: Ask a Neuroscientist, from Hölzel et al. (2011) data"

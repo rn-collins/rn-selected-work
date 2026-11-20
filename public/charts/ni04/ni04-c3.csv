@@ -1,0 +1,3 @@
+label,value,text,axis,source
+Bright light (6500 K),1000,"1,000 lux",,"CHART: ASK A NEUROSCIENTIST, FROM SIRAJI ET AL. (2023) DATA"
+Office light (4000 K),300,300 lux,,"CHART: ASK A NEUROSCIENTIST, FROM SIRAJI ET AL. (2023) DATA"

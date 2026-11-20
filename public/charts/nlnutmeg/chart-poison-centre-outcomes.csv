@@ -1,0 +1,12 @@
+dataset,patients_with_outcome_data,outcome,patients
+Tox Info Suisse 2014-2023 (Bleisch et al. 2026),33,no symptoms,8
+Tox Info Suisse 2014-2023 (Bleisch et al. 2026),33,minor,16
+Tox Info Suisse 2014-2023 (Bleisch et al. 2026),33,moderate,9
+Tox Info Suisse 2014-2023 (Bleisch et al. 2026),33,severe,0
+Tox Info Suisse 2014-2023 (Bleisch et al. 2026),33,fatal,0
+Illinois Poison Center 2001-2011 (Ehrenpreis et al. 2014),32,no effect,5
+Illinois Poison Center 2001-2011 (Ehrenpreis et al. 2014),32,minor,14
+Illinois Poison Center 2001-2011 (Ehrenpreis et al. 2014),32,moderate,4
+Illinois Poison Center 2001-2011 (Ehrenpreis et al. 2014),32,major,0
+Illinois Poison Center 2001-2011 (Ehrenpreis et al. 2014),32,death,0
+Illinois Poison Center 2001-2011 (Ehrenpreis et al. 2014),32,unknown,9

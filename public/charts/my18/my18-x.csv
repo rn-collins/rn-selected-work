@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Low complexity,33.3,33.3%,increase over no alert,"Chart: AaN, from Lyell et al. (2017) data"
+With interruption,24.5,24.5%,increase over no alert,"Chart: AaN, from Lyell et al. (2017) data"
+High complexity,26.7,26.7%,increase over no alert,"Chart: AaN, from Lyell et al. (2017) data"

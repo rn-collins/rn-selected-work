@@ -1,0 +1,5 @@
+label,value,text,axis,source
+Nausea,3.1,+3.1,Left: more males; right: more females,"SOURCE: CUTTLER ET AL. (2016), TABLE 3; 1,370 MALE, 1,004 FEMALE"
+Anxiety,4.5,+4.5,Left: more males; right: more females,"SOURCE: CUTTLER ET AL. (2016), TABLE 3; 1,370 MALE, 1,004 FEMALE"
+Insomnia,-5,-5,Left: more males; right: more females,"SOURCE: CUTTLER ET AL. (2016), TABLE 3; 1,370 MALE, 1,004 FEMALE"
+Vivid dreams,-8.4,-8.4,Left: more males; right: more females,"SOURCE: CUTTLER ET AL. (2016), TABLE 3; 1,370 MALE, 1,004 FEMALE"

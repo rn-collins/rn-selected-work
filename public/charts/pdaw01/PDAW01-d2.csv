@@ -1,0 +1,3 @@
+label,value,low,high,text,axis,source
+Fungal signals,,0.0003,0.1,0.0003 to 0.1,"cycles per second, log scale","SOURCE: BUFFI ET AL. (2025), FEMS MICROBIOL REV"
+Chip built for neurons,,5,3000,"about 5 to 3,000","cycles per second, log scale","SOURCE: BUFFI ET AL. (2025), FEMS MICROBIOL REV"

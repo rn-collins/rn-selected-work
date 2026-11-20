@@ -1,0 +1,5 @@
+label,value,text,axis,source
+Top tier (reference),1.0,1.00,"odds of social isolation, adjusted","SOURCE: LEUNG ET AL. (2026), J NUTR HEALTH AGING"
+Next tier down,1.29,1.29,"odds of social isolation, adjusted","SOURCE: LEUNG ET AL. (2026), J NUTR HEALTH AGING"
+Third tier,1.36,1.36,"odds of social isolation, adjusted","SOURCE: LEUNG ET AL. (2026), J NUTR HEALTH AGING"
+Bottom tier,1.95,1.95,"odds of social isolation, adjusted","SOURCE: LEUNG ET AL. (2026), J NUTR HEALTH AGING"

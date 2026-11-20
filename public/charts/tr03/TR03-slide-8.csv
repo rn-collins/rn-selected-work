@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Carbon positive,60,over 60%,"Shade cover, bars from zero; 'over 60%' drawn at 60","SOURCE: WALSH ET AL. (2025), SCIENCE OF THE TOTAL ENVIRONMENT 961:178360"
+Near carbon neutral,50,about 50%,"Shade cover, bars from zero; 'over 60%' drawn at 60","SOURCE: WALSH ET AL. (2025), SCIENCE OF THE TOTAL ENVIRONMENT 961:178360"
+Carbon negative,40,about 40%,"Shade cover, bars from zero; 'over 60%' drawn at 60","SOURCE: WALSH ET AL. (2025), SCIENCE OF THE TOTAL ENVIRONMENT 961:178360"

@@ -1,0 +1,4 @@
+label,value,text,axis,source
+"Strongest link with a health behaviour (76,580 adults)",0.1,0.10,"Average correlation r, size of the largest average link; bars from zero","Chart: AaN, from Cheng et al. (2016) data, Tables 1 and 2"
+"Strongest link with self-rated health, mood or anxiety (12,068 adults)",0.21,0.21,"Average correlation r, size of the largest average link; bars from zero","Chart: AaN, from Cheng et al. (2016) data, Tables 1 and 2"
+A perfect link,1.0,1.00,"Average correlation r, size of the largest average link; bars from zero","Chart: AaN, from Cheng et al. (2016) data, Tables 1 and 2"

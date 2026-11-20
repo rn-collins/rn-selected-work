@@ -1,0 +1,3 @@
+label,value,text,axis,source
+"Placebo, rose",4.54,+4.54,change (bar = its size),"CHART: ASK A NEUROSCIENTIST, FROM MASON ET AL. (2021) DATA, TABLE 1"
+"Psilocybin, fell",0.71,−0.71,change (bar = its size),"CHART: ASK A NEUROSCIENTIST, FROM MASON ET AL. (2021) DATA, TABLE 1"

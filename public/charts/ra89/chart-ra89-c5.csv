@@ -1,0 +1,4 @@
+label,value,printed_label,measure
+18 to 35,0.17,d = 0.17,"Cohen's d, donors against non-donors"
+36 to 55,0.27,d = 0.27,"Cohen's d, donors against non-donors"
+Over 55,0.32,d = 0.32,"Cohen's d, donors against non-donors"

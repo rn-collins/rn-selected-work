@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Never,1,,Adjusted odds ratio against never,"SOURCE: DI FORTI ET AL. (2019), LANCET PSYCHIATRY 6(5)"
+Daily,3.2,,Adjusted odds ratio against never,"SOURCE: DI FORTI ET AL. (2019), LANCET PSYCHIATRY 6(5)"
+"Daily, high potency",4.8,,Adjusted odds ratio against never,"SOURCE: DI FORTI ET AL. (2019), LANCET PSYCHIATRY 6(5)"

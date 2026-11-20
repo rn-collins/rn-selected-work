@@ -1,0 +1,4 @@
+label,value,printed_label,measure
+R caudate,0.011,P = 0.011,P value; under 0.05 is reliable
+L caudate,0.023,P = 0.023,P value; under 0.05 is reliable
+R accumbens,0.042,P = 0.042,P value; under 0.05 is reliable

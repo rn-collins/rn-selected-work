@@ -5,7 +5,29 @@ import { aanId, isReleased } from "./releases";
 export type SourceLink = { label: string; url: string };
 export type ImageCredit = { where: string; what: string; credit: string; url: string; card: boolean };
 export type Origin = { kind: "article" | "listing" | "main"; label: string; url: string } | null;
+// The reader layers of the source-page standard (aan-studio/design/SOURCES-EXTRA-SCHEMA.md), copied from the
+// package's sources_extra.json by the export. Every key is optional; an absent key means the section collapses.
+type Titled = { title: string; url: string; why?: string };
+export type SourcesExtra = {
+  last_checked?: string;
+  start_here?: { summary?: string[]; how_sure?: string; how_sure_note?: string; reading_minutes?: number };
+  claims?: { claim: string; source?: string; where?: string; study?: string }[];
+  annotations?: { source: string; doi?: string; open_access?: string; group?: string; note?: string; funding?: string; conflicts?: string }[];
+  could_be_wrong?: { point: string; source?: string; url?: string }[];
+  go_deeper?: { new?: Titled[]; serious?: Titled[]; expert?: Titled[] };
+  listen_watch?: { title: string; speaker?: string; credentials?: string; conflicts?: string; url: string; length?: string; timestamp?: string; why?: string; checked?: string; checked_on?: string }[];
+  charts?: { title: string; csv: string; file?: string; source_table?: string }[]; // file: the copied name under /charts/<slug>/
+  glossary?: { term: string; plain: string }[];
+  law_policy?: { citation: string; url?: string; status?: string; as_of?: string }[];
+  clinical?: { registry_id: string; url?: string; what_measured?: string; adverse_events?: string }[];
+  safety?: { relevant?: boolean; lines?: string[]; note?: string };
+  history_culture?: Titled[];
+  corrections?: { date: string; change: string }[];
+};
 export type SourcePost = {
+  extra?: SourcesExtra;
+  how_sure?: string; // the package's own how-sure line (set.json), when it has one
+  chart_csvs?: { where: string; file: string }[];
   disclaimer?: string; // the AaN house line for health and drug posts, from the package (alignment contract)
   resources?: string; // the resources line of a sensitive-tagged post, copied from the package
   slug: string; date: string; id: string; title: string; series: string; origin: Origin;

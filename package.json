@@ -10,16 +10,19 @@
     "builds:check": "node scripts/regenerate-builds.mjs --check",
     "releases:sync": "python3 scripts/sync_releases.py",
     "releases:check": "python3 scripts/sync_releases.py --check",
-    "sources:refresh": "node scripts/refresh-source-links.mjs"
+    "sources:refresh": "node scripts/refresh-source-links.mjs",
+    "postbuild": "node scripts/check-favicons.mjs"
   },
   "dependencies": {
     "next": "16.2.6",
+    "qrcode": "^1.5.4",
     "react": "19.2.6",
     "react-dom": "19.2.6",
     "three": "^0.186.1"
   },
   "devDependencies": {
     "@types/node": "22.19.19",
+    "@types/qrcode": "^1.5.6",
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
     "@types/three": "^0.186.0",

@@ -1,0 +1,5 @@
+label,value,text,axis,source
+"Light, fast",38.22,38.2,Mean STAI state score,"Chart: AaN, from Santangeli et al. (2021) data"
+"Light, screen, slow",32.17,32.2,Mean STAI state score,"Chart: AaN, from Santangeli et al. (2021) data"
+"No light, silent",43.22,43.2,Mean STAI state score,"Chart: AaN, from Santangeli et al. (2021) data"
+"No light, fast",34.9,34.9,Mean STAI state score,"Chart: AaN, from Santangeli et al. (2021) data"

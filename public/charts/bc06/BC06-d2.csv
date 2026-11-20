@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Fat side,1.41,1.41 down,"size of change, kilograms","SOURCE: VARGAS-MOLINA ET AL. (2026), EUR J APPL PHYSIOL"
+Lean side,0.97,0.97 up,"size of change, kilograms","SOURCE: VARGAS-MOLINA ET AL. (2026), EUR J APPL PHYSIOL"
+Overall,0.44,0.44 net,"size of change, kilograms","SOURCE: VARGAS-MOLINA ET AL. (2026), EUR J APPL PHYSIOL"

@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Geosmin,1,under 1,emission rate,"SOURCE: GHIRARDO ET AL. (2026), GLOBAL CHANGE BIOLOGY"
+"Terpenes, low",210,210,emission rate,"SOURCE: GHIRARDO ET AL. (2026), GLOBAL CHANGE BIOLOGY"
+"Terpenes, high",640,640,emission rate,"SOURCE: GHIRARDO ET AL. (2026), GLOBAL CHANGE BIOLOGY"

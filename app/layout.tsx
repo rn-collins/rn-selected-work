@@ -9,10 +9,17 @@ export const metadata: Metadata = {
     "Builds, research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.",
   applicationName: "RN Selected Work",
   manifest: "/site.webmanifest",
+  // Every page carries the full favicon set (RN's standing rule, Nov 20, 2026); scripts/check-favicons.mjs fails the
+  // build if any page lacks it.
   icons: {
-    icon: [{ url: "/favicon-v2.svg", type: "image/svg+xml" }],
-    shortcut: "/favicon-v2.svg",
-    apple: "/favicon-v2.svg",
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/favicon-v2.svg", type: "image/svg+xml" },
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
+      { url: "/icon-512.png", sizes: "512x512", type: "image/png" },
+    ],
+    shortcut: "/favicon.ico",
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180" }],
   },
   openGraph: {
     type: "website",

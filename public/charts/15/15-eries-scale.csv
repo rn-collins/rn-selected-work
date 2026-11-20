@@ -1,0 +1,3 @@
+label,value,text,axis,source
+Real district,910,910 m,Width in metres (910 m / 350 = 2.6 m),"Chart: AaN, from Gillmeier et al. (2025), ERIES database data"
+Tunnel model,2.6,2.6 m,Width in metres (910 m / 350 = 2.6 m),"Chart: AaN, from Gillmeier et al. (2025), ERIES database data"

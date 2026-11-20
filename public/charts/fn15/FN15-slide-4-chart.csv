@@ -1,0 +1,3 @@
+label,value,text,axis,source
+Quieting network,13.2,13.20,"Test of THC against placebo, F(1,19); p = 0.002 and 0.90","Chart: Ask a Neuroscientist, from Bossong et al. (2013) data"
+Working network,0.02,0.02,"Test of THC against placebo, F(1,19); p = 0.002 and 0.90","Chart: Ask a Neuroscientist, from Bossong et al. (2013) data"

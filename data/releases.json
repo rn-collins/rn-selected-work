@@ -4656,6 +4656,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/n107",
+   "releasedAt": "2026-12-15",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/n107",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/n207",
    "releasedAt": "2027-06-30",
    "hold": false,
@@ -5358,6 +5367,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/p067",
+   "releasedAt": "2026-11-30",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/p067",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/p070",
    "releasedAt": "2027-06-28",
    "hold": false,
@@ -5385,6 +5403,15 @@
    "galleryUrl": ""
   },
   {
+   "id": "aan/p097",
+   "releasedAt": "2027-03-24",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/p097",
+   "galleryUrl": ""
+  },
+  {
    "id": "aan/p129",
    "releasedAt": "2027-06-10",
    "hold": false,
@@ -5409,6 +5436,15 @@
    "postUrls": {},
    "longFormUrl": "",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/p150",
+   "galleryUrl": ""
+  },
+  {
+   "id": "aan/p177",
+   "releasedAt": "2026-12-14",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/p177",
    "galleryUrl": ""
   },
   {
@@ -6154,7 +6190,7 @@
    "releasedAt": "2027-01-03",
    "hold": false,
    "postUrls": {},
-   "longFormUrl": "",
+   "longFormUrl": "https://polymath-rn-collins.beehiiv.com/p/brain-notes-psychedelics-design-2026-day-2",
    "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/pdn02",
    "galleryUrl": ""
   },
