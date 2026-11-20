@@ -1,3 +1,0 @@
-label,value,text,axis,source
-Material group,0.1,K = 0.10,"chance-corrected accuracy (K; 0 = chance) of classifying recordings, 74 samples, 4 participants","Chart: Ask a Neuroscientist, from Metzger and Toscani (2026) data"
-Sliding speed,0.007,K = 0.007,"chance-corrected accuracy (K; 0 = chance) of classifying recordings, 74 samples, 4 participants","Chart: Ask a Neuroscientist, from Metzger and Toscani (2026) data"

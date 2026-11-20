@@ -1,9 +1,0 @@
-label,value,text,axis,source
-"no hug, start",1.38,,"women, log cortisol (log nmol/l) at four samples","Berretz et al. (2022), PLOS ONE"
-"no hug, test",1.39,,"women, log cortisol (log nmol/l) at four samples","Berretz et al. (2022), PLOS ONE"
-"no hug, +15 min",1.83,,"women, log cortisol (log nmol/l) at four samples","Berretz et al. (2022), PLOS ONE"
-"no hug, +25 min",1.89,,"women, log cortisol (log nmol/l) at four samples","Berretz et al. (2022), PLOS ONE"
-"hug, start",1.32,,"women, log cortisol (log nmol/l) at four samples","Berretz et al. (2022), PLOS ONE"
-"hug, test",1.16,,"women, log cortisol (log nmol/l) at four samples","Berretz et al. (2022), PLOS ONE"
-"hug, +15 min",1.42,,"women, log cortisol (log nmol/l) at four samples","Berretz et al. (2022), PLOS ONE"
-"hug, +25 min",1.34,,"women, log cortisol (log nmol/l) at four samples","Berretz et al. (2022), PLOS ONE"

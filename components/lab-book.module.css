@@ -236,3 +236,7 @@
   font-family: "AaN Plex Mono", ui-monospace, monospace; font-weight: 600; }
 .tape { letter-spacing: .06em; }
 .chartTab h3 { color: #0B5C5F; }
+
+/* "Try it yourself": the post's interactive page, when it has one */
+.tryit { margin: 16px 0 4px; }
+.tryit .sticker { transform: rotate(-1.5deg); }

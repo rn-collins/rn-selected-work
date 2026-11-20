@@ -1,4 +1,0 @@
-label,value,low,high,text,axis,source
-Alpha power lower,,0,8,0 to 8,"span after the injection, about","Chart: AaN, from Timmermann et al. (2023), PNAS"
-Signal diversity higher,,2,14,2 to 14,"span after the injection, about","Chart: AaN, from Timmermann et al. (2023), PNAS"
-Delta power higher,,0,4,0 to 4,"span after the injection, about","Chart: AaN, from Timmermann et al. (2023), PNAS"

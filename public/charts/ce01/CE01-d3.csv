@@ -1,5 +1,0 @@
-label,value,text,axis,source
-"Active, before",12.4,12.4,seizures a month,"SOURCE: DEVINSKY ET AL. (2017), N ENGL J MED"
-"Active, during",5.9,5.9,seizures a month,"SOURCE: DEVINSKY ET AL. (2017), N ENGL J MED"
-"Dummy, before",14.9,14.9,seizures a month,"SOURCE: DEVINSKY ET AL. (2017), N ENGL J MED"
-"Dummy, during",14.1,14.1,seizures a month,"SOURCE: DEVINSKY ET AL. (2017), N ENGL J MED"

@@ -1,3 +1,0 @@
-label,value,text,axis,source
-"No training, 315 people",48.2,48.2%,% correct,"SOURCE: NIGHTINGALE AND FARID (2022), PNAS"
-"With training and feedback, 219 people",59.0,59.0%,% correct,"SOURCE: NIGHTINGALE AND FARID (2022), PNAS"

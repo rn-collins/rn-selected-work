@@ -1,4 +1,0 @@
-label,value,text,axis,source
-Daytime,250,at least 250,"melanopic EDI at the eye, lux (log scale)","Brown et al. (2022), PLOS Biology 20(3):e3001571, recommendations"
-3 hours before bed,10,at most 10,"melanopic EDI at the eye, lux (log scale)","Brown et al. (2022), PLOS Biology 20(3):e3001571, recommendations"
-Bedroom,1,at most 1,"melanopic EDI at the eye, lux (log scale)","Brown et al. (2022), PLOS Biology 20(3):e3001571, recommendations"

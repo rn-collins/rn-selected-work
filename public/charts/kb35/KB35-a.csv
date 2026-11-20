@@ -1,6 +1,0 @@
-label,value,text,axis,source
-Salmonella,0.93,above 0.93,"Water activity, bars from zero","SOURCES: FINN ET AL. (2013), FRONT MICROBIOL 4:331; MANNAA AND KIM (2017), MYCOBIOLOGY 45(4); STEVENSON ET AL. (2015), ISME J 9(6)"
-Most bacteria,0.88,0.88 to 0.91,"Water activity, bars from zero","SOURCES: FINN ET AL. (2013), FRONT MICROBIOL 4:331; MANNAA AND KIM (2017), MYCOBIOLOGY 45(4); STEVENSON ET AL. (2015), ISME J 9(6)"
-Staph. aureus,0.85,about 0.85,"Water activity, bars from zero","SOURCES: FINN ET AL. (2013), FRONT MICROBIOL 4:331; MANNAA AND KIM (2017), MYCOBIOLOGY 45(4); STEVENSON ET AL. (2015), ISME J 9(6)"
-Hardy molds,0.85,0.85 or below,"Water activity, bars from zero","SOURCES: FINN ET AL. (2013), FRONT MICROBIOL 4:331; MANNAA AND KIM (2017), MYCOBIOLOGY 45(4); STEVENSON ET AL. (2015), ISME J 9(6)"
-Toughest cells,0.61,about 0.61,"Water activity, bars from zero","SOURCES: FINN ET AL. (2013), FRONT MICROBIOL 4:331; MANNAA AND KIM (2017), MYCOBIOLOGY 45(4); STEVENSON ET AL. (2015), ISME J 9(6)"

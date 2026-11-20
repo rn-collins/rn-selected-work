@@ -1,4 +1,0 @@
-label,value,text,axis,source
-Daytime (minimum),250,250,"Melanopic lux, bars from zero","SOURCE: BROWN ET AL. (2022), PLOS BIOLOGY 20(3):E3001571"
-"Evening, 3 h before bed (maximum)",10,10,"Melanopic lux, bars from zero","SOURCE: BROWN ET AL. (2022), PLOS BIOLOGY 20(3):E3001571"
-While sleeping (below),1,1,"Melanopic lux, bars from zero","SOURCE: BROWN ET AL. (2022), PLOS BIOLOGY 20(3):E3001571"

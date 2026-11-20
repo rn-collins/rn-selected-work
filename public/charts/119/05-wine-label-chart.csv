@@ -1,4 +1,0 @@
-label,value,text,axis,source,source_ref
-Labelled cheap (3 euros),4.19,4.19,Pleasantness rating (mean),"Chart: Ask a Neuroscientist, from Schmidt et al. (2017) data.","Schmidt et al. (2017), Sci Rep, PMC5556089, full text read Nov 20, 2026: low-priced (€3) Minformed = 4.19, SEM 0.20"
-Tasted blind a week later,5.03,5.03,Pleasantness rating (mean),"Chart: Ask a Neuroscientist, from Schmidt et al. (2017) data.","Schmidt et al. (2017), PMC5556089: Mblind = 5.03, SEM 0.23"
-Labelled expensive (18 euros),5.21,5.21,Pleasantness rating (mean),"Chart: Ask a Neuroscientist, from Schmidt et al. (2017) data.","Schmidt et al. (2017), PMC5556089: high-priced (€18) Minformed = 5.21, SEM 0.21"

@@ -1,5 +1,0 @@
-label,value,text,axis,source
-"first session, scans",16,16 scans,"scans per session, 2012 (each at 7.30 am)","Barth et al. (2016), Scientific Reports"
-"second session, scans",16,16 scans,"scans per session, 2012 (each at 7.30 am)","Barth et al. (2016), Scientific Reports"
-scans excluded,2,2 excluded,"scans per session, 2012 (each at 7.30 am)","Barth et al. (2016), Scientific Reports"
-scans analysed,30,30 analysed,"scans per session, 2012 (each at 7.30 am)","Barth et al. (2016), Scientific Reports"

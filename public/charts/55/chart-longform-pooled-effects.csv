@@ -1,8 +1,0 @@
-memory_feature,k_contrasts,hedges_g,ci95_low,ci95_high,p
-age of the memory,8,0.53,0.28,0.77,<.001
-emotional intensity,24,0.23,0.07,0.38,.003
-feeling brought back in time (evocativeness),18,0.22,0.08,0.37,.002
-pleasantness,19,0.20,0.03,0.37,.01
-rarity,11,0.23,-0.05,0.51,.10
-vividness,18,0.14,-0.01,0.31,.07
-specificity,12,0.07,-0.07,0.22,.30

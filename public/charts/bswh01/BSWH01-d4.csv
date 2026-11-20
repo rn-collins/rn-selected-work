@@ -1,6 +1,0 @@
-label,value,text,axis,source
-cycle scans,1,1,people measured per study (log scale),Barth et al. (2016); Berretz et al. (2022); Akan et al. (2026); Akan et al. (2025); Barth et al. (2025)
-hug test,76,76,people measured per study (log scale),Barth et al. (2016); Berretz et al. (2022); Akan et al. (2026); Akan et al. (2025); Barth et al. (2025)
-homing,39,39,people measured per study (log scale),Barth et al. (2016); Berretz et al. (2022); Akan et al. (2026); Akan et al. (2025); Barth et al. (2025)
-IQ test,40,40,people measured per study (log scale),Barth et al. (2016); Berretz et al. (2022); Akan et al. (2026); Akan et al. (2025); Barth et al. (2025)
-UK Biobank,19846,"19,846",people measured per study (log scale),Barth et al. (2016); Berretz et al. (2022); Akan et al. (2026); Akan et al. (2025); Barth et al. (2025)

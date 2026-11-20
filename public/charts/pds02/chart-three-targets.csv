@@ -1,4 +1,0 @@
-label,value,text,axis,source
-"Daytime, at least",250,250,"melanopic EDI at the eye, lux","Brown et al. (2022), PLOS Biology 20(3):e3001571, recommendations"
-"Evening, at most",10,10,"melanopic EDI at the eye, lux","Brown et al. (2022), PLOS Biology 20(3):e3001571, recommendations"
-"Sleep, at most",1,1,"melanopic EDI at the eye, lux","Brown et al. (2022), PLOS Biology 20(3):e3001571, recommendations"

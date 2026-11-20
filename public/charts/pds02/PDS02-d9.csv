@@ -1,5 +1,0 @@
-label,value,text,axis,source
-Evening target,10,10,lux,"SOURCE: AKGUN ET AL. (2026), NPJ BIOL TIMING SLEEP"
-Evening measured,6.6,6.6,lux,"SOURCE: AKGUN ET AL. (2026), NPJ BIOL TIMING SLEEP"
-Sleep target,1,1,lux,"SOURCE: AKGUN ET AL. (2026), NPJ BIOL TIMING SLEEP"
-Sleep measured,0.2,0.2,lux,"SOURCE: AKGUN ET AL. (2026), NPJ BIOL TIMING SLEEP"

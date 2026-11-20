@@ -1,4 +1,0 @@
-label,value,text,axis,source
-GGBS and water retainer,0.45,0.45,"Absorption coefficient, 0 to 1","Chart: AaN, from Kinnane et al. (2016) data, Table 4"
-Commercial mix,0.37,0.37,"Absorption coefficient, 0 to 1","Chart: AaN, from Kinnane et al. (2016) data, Table 4"
-Builders mix (10% cement),0.24,0.24,"Absorption coefficient, 0 to 1","Chart: AaN, from Kinnane et al. (2016) data, Table 4"

@@ -28,6 +28,7 @@ export type SourcePost = {
   extra?: SourcesExtra;
   how_sure?: string; // the package's own how-sure line (set.json), when it has one
   chart_csvs?: { where: string; file: string }[];
+  interactive?: { title: string; file: string }; // "interactives/<slug>/interactive.html", served by app/interactives
   disclaimer?: string; // the AaN house line for health and drug posts, from the package (alignment contract)
   resources?: string; // the resources line of a sensitive-tagged post, copied from the package
   slug: string; date: string; id: string; title: string; series: string; origin: Origin;

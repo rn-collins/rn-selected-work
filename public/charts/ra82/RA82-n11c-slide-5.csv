@@ -1,6 +1,0 @@
-label,value,text,axis,source
-No retraction,5.31,5.31,inference score,"SOURCE: ECKER AND ANTONIO (2021), MEM COGNIT"
-"Low trust, low expertise",5.04,5.04,inference score,"SOURCE: ECKER AND ANTONIO (2021), MEM COGNIT"
-"Low trust, high expertise",5.19,5.19,inference score,"SOURCE: ECKER AND ANTONIO (2021), MEM COGNIT"
-"High trust, low expertise",4.37,4.37,inference score,"SOURCE: ECKER AND ANTONIO (2021), MEM COGNIT"
-"High trust, high expertise",4.33,4.33,inference score,"SOURCE: ECKER AND ANTONIO (2021), MEM COGNIT"

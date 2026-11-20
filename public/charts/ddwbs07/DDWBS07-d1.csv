@@ -1,4 +1,0 @@
-label,hours,minutes,text,axis,source
-fresh sap,12,20,12 h 20,"Hours to set hard: lacquer sap, 30 °C, 80% humidity","Yang et al. 2020, Table 1, one lab set. Chart: Ask a Neuroscientist"
-sap kept 4 years,65,55,65 h 55,"Hours to set hard: lacquer sap, 30 °C, 80% humidity","Yang et al. 2020, Table 1, one lab set. Chart: Ask a Neuroscientist"
-old sap + enzyme,1,45,1 h 45,"Hours to set hard: lacquer sap, 30 °C, 80% humidity","Yang et al. 2020, Table 1, one lab set. Chart: Ask a Neuroscientist"

@@ -1,3 +1,0 @@
-label,value,text,axis,source
-Departure clock: body-clock low (hour),4,04:00,Hour of the day on each clock (the paper's 8-hours-east example),"Chart: Ask a Neuroscientist, from Roach and Sargent (2019) data"
-"Arrival clock, 8 hours east: the same moment (hour)",12,12:00,Hour of the day on each clock (the paper's 8-hours-east example),"Chart: Ask a Neuroscientist, from Roach and Sargent (2019) data"

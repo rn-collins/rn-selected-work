@@ -234,6 +234,9 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
               <div>
                 {x.start_here?.summary?.length ? <ul className={s.summary}>{x.start_here.summary.map((l) => <li key={l}>{l}</li>)}</ul> : <p className={s.lede}>{brand === "fnm" ? "Every source behind this article, and further resources, each linked to the original." : "The studies, records and images behind this post, each linked to the original."}</p>}
                 {p.origin && <p className={s.small}><Out href={p.origin.url}>Read the article: {p.origin.label}</Out></p>}
+                {p.interactive && (
+                  <p className={s.tryit}><a className={`${s.sticker} ${s.sun}`} href={`/${p.interactive.file}`}>Try it yourself: {p.interactive.title} <span aria-hidden="true">→</span></a></p>
+                )}
                 <p className={s.small}>{p.disclaimer || "Education, not medical advice."} Not legal advice.</p>
               </div>
               {sticker && <div className={s.sureInline}>{sticker}</div>}

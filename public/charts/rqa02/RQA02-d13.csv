@@ -1,5 +1,0 @@
-label,value,low,high,text,axis,source
-Winter,42,28,55,"mean 42%, lowest 28%, highest 55%",Living room relative humidity (%),"Chart: Ask a Neuroscientist, from Moujalled et al. (2018) data"
-Spring,50,27,72,"mean 50%, lowest 27%, highest 72%",Living room relative humidity (%),"Chart: Ask a Neuroscientist, from Moujalled et al. (2018) data"
-Summer,59,34,76,"mean 59%, lowest 34%, highest 76%",Living room relative humidity (%),"Chart: Ask a Neuroscientist, from Moujalled et al. (2018) data"
-Autumn,55,34,70,"mean 55%, lowest 34%, highest 70%",Living room relative humidity (%),"Chart: Ask a Neuroscientist, from Moujalled et al. (2018) data"

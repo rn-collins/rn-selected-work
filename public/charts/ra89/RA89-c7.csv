@@ -1,6 +1,0 @@
-label,value,text,axis,source
-R caudate,0.004,P = 0.004,P value; under 0.05 is reliable,"Chart: AaN, from Harbaugh, Mayr and Burghart (2007) data"
-R accumbens,0.01,P = 0.010,P value; under 0.05 is reliable,"Chart: AaN, from Harbaugh, Mayr and Burghart (2007) data"
-L caudate,0.015,P = 0.015,P value; under 0.05 is reliable,"Chart: AaN, from Harbaugh, Mayr and Burghart (2007) data"
-L insula,0.063,P = 0.063,P value; under 0.05 is reliable,"Chart: AaN, from Harbaugh, Mayr and Burghart (2007) data"
-R insula,0.075,P = 0.075,P value; under 0.05 is reliable,"Chart: AaN, from Harbaugh, Mayr and Burghart (2007) data"
