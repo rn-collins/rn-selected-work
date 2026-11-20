@@ -6,7 +6,8 @@ import { PieceLinks } from "../../../components/piece-links";
 import { longDate, postedSoFar, releasedSourcePost } from "../../../lib/aan-sources";
 import { aanId } from "../../../lib/releases";
 import { aanSiteLinks } from "../../../lib/aan-site";
-import { SourcesDetail, entryCount } from "../../../components/sources-detail";
+import { entryCount } from "../../../components/sources-detail";
+import { LabBook } from "../../../components/lab-book";
 
 // Only released posts (data/releases.json) are built. Any other address returns 404 until the post's release day;
 // pages are rechecked hourly, and the daily cron (app/api/release-day) refreshes them all.
@@ -54,7 +55,7 @@ export default async function SourcePage({ params }: { params: Promise<{ slug: s
   const ref = (q?: { slug: string; title: string }) => q && { href: `/sources/${q.slug}`, title: q.title };
   return (
     <CanonicalPage>
-      <SourcesDetail p={p} eyebrow="Ask a Neuroscientist · Sources" meta={`${p.series} · posted ${longDate(p.date)}`} backHref="/sources" backLabel="All posts and their sources"
+      <LabBook p={p}
         links={<PieceLinks id={aanId(p.slug)} more={aanSiteLinks(p.slug)} index={{ href: "/sources", title: "All posts and their sources" }} prev={ref(order[at - 1])} next={ref(at >= 0 ? order[at + 1] : undefined)} />} />
     </CanonicalPage>
   );

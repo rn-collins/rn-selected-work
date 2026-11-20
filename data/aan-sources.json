@@ -112,6 +112,7 @@
      "card": false
     }
    ],
+   "how_sure": "Four lab studies of students in one 2011 paper; later lab studies found naming can sometimes make things worse.",
    "time": "09:00 HST"
   },
   {
@@ -350,6 +351,7 @@
      "card": false
     }
    ],
+   "how_sure": "One historical case: his own 1794 description, then DNA from his preserved eye tissue in 1995 (as described by Mackey, 2022).",
    "time": "09:00 HST"
   },
   {
@@ -2329,7 +2331,288 @@
      "url": "https://www.loc.gov/item/2023634442/",
      "card": false
     }
-   ]
+   ],
+   "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "summary": [
+      "In a 2024 blind test, 20 students and 5 textile professors felt 22 fabrics with one fingertip and rated how rough, scratchy, hairy and even each one felt.",
+      "Mesh felt roughest and scratchiest and laminates smoothest, and experts and students agreed in all but 9 of 176 comparisons.",
+      "Wool science adds that prickle comes mostly from fibers wider than about 30 microns, and nerve recordings show that hairy skin has slow nerves tuned to gentle stroking."
+     ],
+     "how_sure": "early",
+     "how_sure_note": "The fabric results come from one small study of 25 raters that has not been repeated; the wool and nerve points come from two reviews of older work.",
+     "reading_minutes": 4
+    },
+    "claims": [
+     {
+      "claim": "25 people judged 22 fabrics by fingertip alone, without looking.",
+      "source": "Mehta et al. 2024",
+      "where": "Methods: Participants and Experimental setup; Fig. 3",
+      "study": "one lab study, 20 students and 5 textile professors"
+     },
+     {
+      "claim": "The swatches were knits, wovens, meshes and laminates; each got 20 seconds of one index finger, then 8 ratings.",
+      "source": "Mehta et al. 2024",
+      "where": "Methods: Textile swatches and Experimental setup; Fig. 1",
+      "study": "one lab study, 25 raters, 22 swatches"
+     },
+     {
+      "claim": "Mesh fabrics felt the scratchiest and laminated ones the slickest, to students and professors alike.",
+      "source": "Mehta et al. 2024",
+      "where": "Results: Scratchiness and Roughness (medians)",
+      "study": "one lab study, 25 raters"
+     },
+     {
+      "claim": "Experts and students agreed in all but 9 of 176 comparisons.",
+      "source": "Mehta et al. 2024",
+      "where": "Results and Abstract (after Benjamini-Hochberg correction)",
+      "study": "one lab study, 25 raters"
+     },
+     {
+      "claim": "People who often work with textiles rated 6 of the 8 qualities differently.",
+      "source": "Mehta et al. 2024",
+      "where": "Results: effect of textile experience; Discussion",
+      "study": "one lab study, 20 students"
+     },
+     {
+      "claim": "In wool, mean fiber width is the property that matters most for fabric properties, buyers' judgement and price.",
+      "source": "Doyle et al. 2021",
+      "where": "Section on wool's physical properties",
+      "study": "review by wool scientists"
+     },
+     {
+      "claim": "Wool prickle comes mostly from coarse fibers over about 30 microns, whose stiff ends push on the skin; next-to-skin wool is finer than 18 microns.",
+      "source": "Doyle et al. 2021",
+      "where": "Section on garment comfort and skin health",
+      "study": "review reporting earlier wearer and nerve studies"
+     },
+     {
+      "claim": "Hairy skin has C-tactile nerves that fire most for slow stroking, about 1 to 10 cm per second, the speeds people rate most pleasant.",
+      "source": "Liljencrantz and Olausson 2014",
+      "where": "Section on CT afferents; Fig. 3A to C",
+      "study": "review; Fig. 3 shows 16 nerve fibers and 10 raters from Loken et al. 2009"
+     },
+     {
+      "claim": "In nerve pain, even a garment brushing the skin can hurt.",
+      "source": "Liljencrantz and Olausson 2014",
+      "where": "Section on tactile allodynia",
+      "study": "review"
+     }
+    ],
+    "annotations": [
+     {
+      "source": "Mehta et al. 2024",
+      "doi": "https://doi.org/10.1371/journal.pone.0308957",
+      "group": "primary",
+      "note": "Twenty students and five textile professors felt 22 fabrics through a screen and rated eight touch qualities from 1 to 5. Ratings followed how each fabric was built, and the two groups mostly agreed. Limits: one finger, 20 seconds, flat swatches, and an expert panel of five, which the authors say may limit how far the results apply.",
+      "funding": "Partially supported by USDA NIFA grant WVA00742; the paper states the funders had no role in study design, data collection and analysis, the decision to publish, or preparing the manuscript.",
+      "conflicts": "The authors declared that no competing interests exist."
+     },
+     {
+      "source": "Doyle et al. 2021",
+      "doi": "https://doi.org/10.1093/af/vfab005",
+      "group": "review",
+      "note": "A review of sheep and wool production by wool scientists. It names mean fiber diameter as the most important property of wool and reports earlier work linking prickle to coarse fibers over 30 microns. Limits: a broad review that summarises the prickle studies rather than testing them, and it presents wool's comfort and health benefits favourably.",
+      "funding": "not stated",
+      "conflicts": "none declared (the paper has no conflict statement; its author notes say Phil Hynd chairs the Expert Panel for Meat and Livestock Australia and works as a private consultant)"
+     },
+     {
+      "source": "Liljencrantz and Olausson 2014",
+      "doi": "https://doi.org/10.3389/fnbeh.2014.00037",
+      "group": "review",
+      "note": "A review of C-tactile nerve fibers in human hairy skin. Recordings show they fire most for slow, gentle strokes, at the same speeds people rate most pleasant, and they have never been found in the palm. Limits: the figure's data come from one earlier study of 16 nerve fibers and 10 raters, and the role of these fibers in touch pain is still debated.",
+      "funding": "not stated",
+      "conflicts": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+     }
+    ],
+    "could_be_wrong": [
+     {
+      "point": "The expert panel had only five people. The authors say this small group may limit how far the findings can be generalized.",
+      "source": "Mehta et al. 2024",
+      "url": "https://doi.org/10.1371/journal.pone.0308957"
+     },
+     {
+      "point": "Agreement was not even across fabrics. Eight of the nine expert and student differences were in woven fabrics, so the groups agreed less on wovens than the overall count suggests.",
+      "source": "Mehta et al. 2024",
+      "url": "https://doi.org/10.1371/journal.pone.0308957"
+     },
+     {
+      "point": "The test used a fingertip, but clothes rest on hairy skin. The slow nerves tuned to gentle stroking have never been found in the palm, so a fingertip test cannot capture what they add when a garment is worn.",
+      "source": "Liljencrantz and Olausson 2014",
+      "url": "https://doi.org/10.3389/fnbeh.2014.00037"
+     },
+     {
+      "point": "Nerve firing does not tell the whole story of pleasant touch. In a later recording study, C-tactile firing tracked pleasantness only when the probe was at skin temperature, and the authors concluded that pleasantness is built from many sensory inputs and from the person's state.",
+      "source": "Ackerley et al. 2014",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3931502/"
+     },
+     {
+      "point": "The 30 micron prickle figure comes from 1980s work that the wool review reports but that this post could not read in full, and the review is written by wool scientists who present wool favourably.",
+      "source": "Doyle et al. 2021",
+      "url": "https://doi.org/10.1093/af/vfab005"
+     },
+     {
+      "point": "Feel is not the only way clothes bother skin. A review of a century of reports found no good evidence that wool fiber itself is an allergen, and named disperse dyes used on synthetic fibers as the most common textile dye sensitizers.",
+      "source": "Zallmann et al. 2017",
+      "url": "https://www.medicaljournals.se/acta/content/html/10.2340/00015555-2655"
+     }
+    ],
+    "go_deeper": {
+     "new": [
+      {
+       "title": "The Neuroscience of Touch and Pain (BrainFacts, Society for Neuroscience)",
+       "url": "https://www.brainfacts.org/thinking-sensing-and-behaving/touch/2020/the-neuroscience-of-touch-and-pain-013020",
+       "why": "A plain primer on how skin receptors send touch, pain and itch signals to the brain."
+      },
+      {
+       "title": "Nerves of endearment: how a gentle touch affects emotions (The Conversation)",
+       "url": "https://theconversation.com/nerves-of-endearment-how-a-gentle-touch-affects-emotions-26852",
+       "why": "A short piece by neurophysiologist Marcello Costa on the slow nerves in hairy skin that respond to a caress."
+      }
+     ],
+     "serious": [
+      {
+       "title": "Debunking the myth of wool allergy (Zallmann et al., 2017, Acta Dermato-Venereologica)",
+       "url": "https://www.medicaljournals.se/acta/content/html/10.2340/00015555-2655",
+       "why": "An open review of wool allergy claims, fiber width and textile dyes; the authors declare no conflicts of interest."
+      },
+      {
+       "title": "Silk garments plus standard care for eczema in children: the CLOTHES Trial (Thomas et al., 2017, PLOS Medicine)",
+       "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002280",
+       "why": "The largest randomized clothing trial in eczema, 300 children; special silk garments added nothing to standard care."
+      }
+     ],
+     "expert": [
+      {
+       "title": "Tactile sensitivity alters textile touch perception (Mehta et al., 2024, PLOS ONE)",
+       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308957",
+       "why": "The full paper with its methods, statistics and supporting data files."
+      },
+      {
+       "title": "Human C-tactile afferents are tuned to the temperature of a skin-stroking caress (Ackerley et al., 2014, Journal of Neuroscience)",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3931502/",
+       "why": "Single nerve fiber recordings showing these fibers fire best for slow strokes at skin temperature."
+      },
+      {
+       "title": "Physical factors influencing pleasant touch during tactile exploration (Klocker et al., 2013, PLOS ONE)",
+       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079085",
+       "why": "Blindfolded fingertip ratings of 12 materials measured against friction: the more a surface gripped, the less pleasant it felt."
+      }
+     ]
+    },
+    "listen_watch": [],
+    "charts": [
+     {
+      "title": "Median scratchiness by fabric construction, 20 students",
+      "csv": "chart-scratchiness-median.csv",
+      "source_table": "Mehta et al. 2024, Results: Scratchiness"
+     },
+     {
+      "title": "Experts against students: 176 comparisons (X post)",
+      "csv": "chart-expert-student-agreement-x.csv",
+      "source_table": "Mehta et al. 2024, Results and Abstract"
+     },
+     {
+      "title": "Median roughness, mesh and laminate, students and experts",
+      "csv": "chart-roughness-median.csv",
+      "source_table": "Mehta et al. 2024, Results: Roughness"
+     },
+     {
+      "title": "Median bumpiness by fabric construction, 20 students",
+      "csv": "chart-bumpiness-median.csv",
+      "source_table": "Mehta et al. 2024, Results: Bumpiness"
+     },
+     {
+      "title": "Qualities rated differently, out of 8, by raters' habits",
+      "csv": "chart-qualities-rated-differently.csv",
+      "source_table": "Mehta et al. 2024, Results: effect of textile experience"
+     },
+     {
+      "title": "Wool fiber width: next to skin and prickle",
+      "csv": "chart-wool-fiber-width.csv",
+      "source_table": "Doyle et al. 2021, text: wool physical properties and garment comfort"
+     },
+     {
+      "title": "Who rated the fabrics",
+      "csv": "chart-who-rated.csv",
+      "source_table": "Mehta et al. 2024, Methods: Participants"
+     },
+     {
+      "title": "Experts against students: 176 comparisons of 8 touch qualities (slide 4)",
+      "csv": "chart-expert-student-agreement.csv",
+      "source_table": "Mehta et al. 2024, Results and Abstract"
+     }
+    ],
+    "glossary": [
+     {
+      "term": "Mechanoreceptor",
+      "plain": "A sensor in the skin that responds to pressure, stretch or vibration and sends a signal along a nerve."
+     },
+     {
+      "term": "C-tactile nerve fiber",
+      "plain": "A slow, thin nerve fiber in hairy skin that fires most for gentle, slow stroking."
+     },
+     {
+      "term": "Hairy skin",
+      "plain": "Skin that grows hair, such as the arms, legs and back, as opposed to the palms and soles."
+     },
+     {
+      "term": "Fingertip touch test",
+      "plain": "A test where people feel a material with one finger without seeing it, so only touch guides their rating."
+     },
+     {
+      "term": "Knit",
+      "plain": "A fabric made of interlocking loops of yarn, like a T-shirt or sweater."
+     },
+     {
+      "term": "Woven",
+      "plain": "A fabric made by crossing two sets of yarn over and under each other at right angles, like denim or shirting."
+     },
+     {
+      "term": "Mesh",
+      "plain": "An open fabric with regular holes, like sports jersey netting."
+     },
+     {
+      "term": "Laminated fabric",
+      "plain": "A fabric bonded to a film or another layer, which usually gives it a smooth surface."
+     },
+     {
+      "term": "Isotropy",
+      "plain": "Whether a texture feels the same in every direction you stroke it."
+     },
+     {
+      "term": "Median",
+      "plain": "The middle value when all the ratings are put in order."
+     },
+     {
+      "term": "Correction for multiple comparisons",
+      "plain": "A statistical adjustment that lowers the chance of false findings when many tests are run at once."
+     },
+     {
+      "term": "Micron (micrometer)",
+      "plain": "One thousandth of a millimeter; wool fiber width is measured in microns."
+     },
+     {
+      "term": "Prickle",
+      "plain": "The pins-and-needles feeling some fabrics cause when stiff fiber ends press into the skin."
+     },
+     {
+      "term": "Tactile allodynia",
+      "plain": "Pain from a touch that would not normally hurt, such as clothing brushing the skin, seen in some nerve conditions."
+     },
+     {
+      "term": "Eriometer",
+      "plain": "An early instrument that used light to measure the width of wool fibers."
+     }
+    ],
+    "safety": {
+     "relevant": false,
+     "lines": [],
+     "note": "Education, not medical advice. If clothing causes a rash, pain or distress, a clinician can help, and a dermatologist can patch test for dyes and finishes."
+    },
+    "corrections": []
+   }
   },
   {
    "slug": "n502",
@@ -2948,7 +3231,7 @@
      "where": "Slide 1",
      "what": "The open egg, photo Nick Bookelaar / Dutch Design Week",
      "credit": "Photo: Nick Bookelaar / Dutch Design Week",
-     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55601554451",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55601677458",
      "card": false
     },
     {
@@ -2962,7 +3245,7 @@
      "where": "Slide 3",
      "what": "The golden bird, photo Nick Bookelaar / Dutch Design Week",
      "credit": "Photo: Nick Bookelaar / Dutch Design Week",
-     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55601554451",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55601753389",
      "card": false
     },
     {
@@ -3004,7 +3287,7 @@
      "where": "Story 1",
      "what": "Perched on the egg, photo Nick Bookelaar / Dutch Design Week",
      "credit": "Photo: Nick Bookelaar / Dutch Design Week",
-     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55601554451",
+     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/55601753159",
      "card": false
     },
     {
@@ -3116,9 +3399,9 @@
     },
     {
      "where": "Story 3",
-     "what": "Van Abbe parliament, the stairs, tall, photo Gerard Rooijakkers / DDW press kit",
-     "credit": "Photo: Gerard Rooijakkers, DDW press kit (Van Abbe Museum als Parlement, Studio Jonas Staal)",
-     "url": "https://app-api.ddw.nl/programme/2096/press-kit.zip",
+     "what": "Kawai et al. (2023) Fig. 6, panel b (robot): perceived Experience after the game predicts relative responsibility attribution (.20), Agency predicts causal attribution (-.40)",
+     "credit": "Kawai et al. (2023), Scientific Reports, cropped from Fig. 6, CC BY",
+     "url": "https://doi.org/10.1038/s41598-023-39435-5",
      "card": false
     }
    ]
@@ -3936,14 +4219,14 @@
     },
     {
      "where": "Slide 3",
-     "what": "Bar chart drawn to scale, values labelled: hedonic liking of the same dark chocolate on a 9-point scale by sound setting: low pitch 5.78, high pitch 5.46, nature 6.57, silence 5.99 (Valdés-Alarcón et al., 2026, Table 2)",
+     "what": "Bar chart drawn to scale, values labelled: hedonic liking of the same dark chocolate on a 9-point scale, nature sounds 6.57 and silence 5.99 (Valdés-Alarcón et al., 2026, Table 2)",
      "credit": "Chart: Ask a Neuroscientist, from Valdés-Alarcón et al. (2026) data",
      "url": "https://doi.org/10.3390/foods15122142",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Bar chart drawn to scale, values labelled: perceived acidity of the same chocolate, 0 to 100: low pitch 37.95, high pitch 43.13, nature 35.69, silence 35.45 (Valdés-Alarcón et al., 2026, Table 2)",
+     "what": "Bar chart drawn to scale, values labelled: perceived acidity of the same chocolate, 0 to 100, high-pitched sound 43.1 and silence 35.5 (Valdés-Alarcón et al., 2026, Table 2)",
      "credit": "Chart: Ask a Neuroscientist, from Valdés-Alarcón et al. (2026) data",
      "url": "https://doi.org/10.3390/foods15122142",
      "card": false
@@ -3957,7 +4240,7 @@
     },
     {
      "where": "Slide 6",
-     "what": "Bar chart drawn to scale, values labelled: perceived bitterness of the same chocolate, 0 to 100: low pitch 62.58, high pitch 58.39, nature 54.99, silence 56.67 (Valdés-Alarcón et al., 2026, Table 2)",
+     "what": "Bar chart drawn to scale, values labelled: perceived bitterness of the same chocolate, 0 to 100, low-pitched sound 62.6 and silence 56.7 (Valdés-Alarcón et al., 2026, Table 2)",
      "credit": "Chart: Ask a Neuroscientist, from Valdés-Alarcón et al. (2026) data",
      "url": "https://doi.org/10.3390/foods15122142",
      "card": false
@@ -3971,7 +4254,7 @@
     },
     {
      "where": "Story 2",
-     "what": "Bar chart drawn to scale, values labelled: perceived sweetness of the same chocolate, 0 to 100: low pitch 43.00, high pitch 43.63, nature 45.45, silence 45.74 (Valdés-Alarcón et al., 2026, Table 2)",
+     "what": "Bar chart drawn to scale, values labelled: perceived sweetness of the same chocolate, 0 to 100, low-pitched sound 43.0 and silence 45.7 (Valdés-Alarcón et al., 2026, Table 2)",
      "credit": "Chart: Ask a Neuroscientist, from Valdés-Alarcón et al. (2026) data",
      "url": "https://doi.org/10.3390/foods15122142",
      "card": false
@@ -4180,7 +4463,7 @@
     },
     {
      "where": "Slide 6",
-     "what": "Bar chart drawn to scale, values labelled: fairly or very loyal to restaurants, patient group 91%, general allergic sample 70%, no food allergy 66% (Fig. 1) (Shirani et al., 2025)",
+     "what": "Bar chart drawn to scale, value labelled: fairly or very loyal to restaurants, patient group 91% (Fig. 1) (Shirani et al., 2025)",
      "credit": "Chart: Ask a Neuroscientist, from Shirani et al. (2025) data",
      "url": "https://doi.org/10.3390/nu17182916",
      "card": false
@@ -4194,15 +4477,15 @@
     },
     {
      "where": "Story 2",
-     "what": "Bar chart drawn to scale, values labelled: food-allergic respondents who felt restaurants underestimate how serious food allergies are, patient group 82% and general sample 71% (Shirani et al., 2025)",
+     "what": "Bar chart drawn to scale, value labelled: food-allergic respondents in the patient group who felt restaurants underestimate how serious food allergies are, 82% (Shirani et al., 2025)",
      "credit": "Chart: Ask a Neuroscientist, from Shirani et al. (2025) data",
      "url": "https://doi.org/10.3390/nu17182916",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "Bar chart drawn to scale, values labelled: factors the patient group ranked most important when choosing where to eat or order, willingly accommodates food allergies 98%, feels safe 97%, always consistent 89% (Table 5, Q15) (Shirani et al., 2025)",
-     "credit": "Chart: Ask a Neuroscientist, from Shirani et al. (2025) data",
+     "what": "Shirani and colleagues on what drives the choice",
+     "credit": "Text: Shirani et al. (2025), Nutrients, CC BY 4.0",
      "url": "https://doi.org/10.3390/nu17182916",
      "card": false
     }
@@ -5287,10 +5570,10 @@
     },
     {
      "where": "Story 3",
-     "what": "Bar chart drawn to scale, values labelled: people per group, 12 long-time meditators and 12 newcomers in the 2011 meditation study and 20 men in the 2013 THC study",
-     "credit": "Chart: Ask a Neuroscientist, from Brewer et al. (2011) and Bossong et al. (2013) data",
+     "what": "Number card made for this post: the two studies' sizes, as the slides give them",
+     "credit": "Brewer et al. (2011); Bossong et al. (2013)",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3250176/",
-     "card": false
+     "card": true
     }
    ]
   },
@@ -5643,9 +5926,9 @@
     },
     {
      "where": "Slide 6",
-     "what": "Claes Jansz",
-     "credit": "Claes Jansz. Visscher (II), Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://id.rijksmuseum.nl/200490647",
+     "what": "Blue Book of Jamaica 1922, Section 20, p. 213: the statement head (quantities and value of merchandise imported, 1922) and the 'Hemp' block, dressed and undressed (United Kingdom, United States of America) and manufactures (United Kingdom, Canada, United States of America); two pieces of one page",
+     "credit": "Blue Book of Jamaica 1922, p. 213 (public domain), via the Internet Archive",
+     "url": "https://archive.org/details/blue-book-island-of-jamaica-1922",
      "card": false
     },
     {
@@ -5671,9 +5954,9 @@
     },
     {
      "where": "Story 2",
-     "what": "Anonymous, published by Pieter Schenk (I), View of the rope-walks of the VOC (left) and the Admiralty (right) on Oostenburg, Amsterdam, etching and engraving, 1710 to 1711, RP-P-AO-25-60-2",
-     "credit": "Rijksmuseum, Amsterdam (public domain)",
-     "url": "https://www.rijksmuseum.nl/en/collection/object/Gezicht-op-de-lijnbanen-van-de-VOC-en-de-Admiraliteit-op-Oostenburg-te-Amsterdam--abe6cc71f5838bf397a14b7f461fdd30",
+     "what": "Blue Book of Jamaica 1916-1917, imports, p. 38 x: the table head 'General Imports into the Colony of Jamaica' and the rows 'Hemp, dressed and undressed' (United Kingdom, United States of America); two pieces of one page",
+     "credit": "Blue Book of Jamaica 1916-1917, p. 38 x (public domain), via the Internet Archive",
+     "url": "https://archive.org/details/blue-book-island-of-jamaica-1916",
      "card": false
     },
     {
@@ -7005,7 +7288,358 @@
      "url": "https://app-api.ddw.nl/programme/2179/press-kit.zip",
      "card": false
     }
-   ]
+   ],
+   "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "summary": [
+      "A Dutch Design Week installation by Maria Mombers styled a short film like slot-machine reels and social media Reels, and its listing speaks of a \"dopamine hit\" from our phones.",
+      "In two monkeys, dopamine neurons gave a quick signal that tracked the odds of a reward and a slower one that grew with uncertainty, and a study of over one million posts found that posting fits reward learning.",
+      "Neither study measured dopamine in people using a feed, so the feed as a dopamine slot machine is still an untested idea."
+     ],
+     "how_sure": "mixed",
+     "how_sure_note": "The monkey dopamine signals and the posting patterns are well measured, but no study has linked the two in people scrolling a feed.",
+     "reading_minutes": 3
+    },
+    "claims": [
+     {
+      "claim": "Around 1805, poets in Japan sent New Year's greetings as woodblock prints called surimono.",
+      "source": "The Met, surimono record (Spring Rain Collection, vol. 2)",
+      "where": "Object record description (surimono as New Year's greeting cards); date ca. 1805 to 10 from the Met record for Plum Tree in Bloom",
+      "study": "museum records"
+     },
+     {
+      "claim": "Shown at Dutch Design Week (Oct 17 to 25); visitors were invited to start it with their phone.",
+      "source": "DDW listing: The Reward Feedback Loop Engine: You May Also Like",
+      "where": "Programme listing, description and dates; press kit text",
+      "study": "event listing"
+     },
+     {
+      "claim": "A short film played across three vertical screens that resembled slot-machine reels and the \"Reels\" of social media.",
+      "source": "DDW listing: The Reward Feedback Loop Engine: You May Also Like",
+      "where": "Programme listing, description; press kit text",
+      "study": "event listing"
+     },
+     {
+      "claim": "The listing calls the slot machine \"the first device designed to deliberately capture and hold human attention\", and the film began with the artist's own phone struggle.",
+      "source": "DDW listing: The Reward Feedback Loop Engine: You May Also Like",
+      "where": "Programme listing, description (quoted word for word)",
+      "study": "event listing"
+     },
+     {
+      "claim": "A work titled You May Also Like was her 2026 graduation project in the Master Non Linear Narrative at KABK.",
+      "source": "KABK student profile: Maria Mombers",
+      "where": "Alumni profile page",
+      "study": "school record"
+     },
+     {
+      "claim": "In a study of two monkeys, the quick response of dopamine neurons tracked how likely a liquid reward was.",
+      "source": "Fiorillo, Tobler and Schultz (2003), Science 299(5614): 1898-1902, author copy and supporting online material (University of Fribourg, FOLIA), read in full",
+      "where": "Fig. 2 (A to C) and main text; species in the supporting online material, Animals",
+      "study": "one lab study, 2 monkeys, 188 dopamine neurons"
+     },
+     {
+      "claim": "A second, slower response built up until reward time and rose with uncertainty, which is highest at 50/50 odds; 29 percent of 188 neurons at P = 0.5 against 9 percent when the reward was certain.",
+      "source": "Fiorillo, Tobler and Schultz (2003), Science 299(5614): 1898-1902, author copy and supporting online material (University of Fribourg, FOLIA), read in full",
+      "where": "Fig. 3 (A to C) and main text",
+      "study": "one lab study, 2 monkeys, 188 dopamine neurons"
+     },
+     {
+      "claim": "A 2021 study of over one million posts on Instagram and three forums found people posted sooner when recent likes came faster, which fits reward learning.",
+      "source": "Lindström et al. (2021), Nature Communications 12: 1311, full text (Springer link)",
+      "where": "Abstract; Fig. 2a and 2b (Instagram, 2,039 people); Fig. 3 (three forums, 2,127 people)",
+      "study": "observational analysis of 4,168 users' posting records"
+     },
+     {
+      "claim": "In a 176-person online test, fewer likes meant longer waits to post.",
+      "source": "Lindström et al. (2021), Nature Communications 12: 1311, full text (Springer link)",
+      "where": "Study 3, Results and Fig. 5 (about 10.9 percent longer latency at 0 to 9 likes than at 10 to 19 likes)",
+      "study": "one online experiment, 176 adults, 25 minutes"
+     },
+     {
+      "claim": "Neither study measured dopamine in people on a feed, and the authors call the post data correlational.",
+      "source": "Lindström et al. (2021), Nature Communications 12: 1311, full text (Springer link)",
+      "where": "Discussion: \"our behavioral findings cannot speak to the neurobiological basis of reward learning on social media\"; \"the correlational nature of the big data used here necessitates caution\"",
+      "study": "authors' stated limits"
+     },
+     {
+      "claim": "One review found too little support to call heavy smartphone use an addiction and suggests \"problematic use\" instead.",
+      "source": "Panova and Carbonell (2018), Journal of Behavioral Addictions 7(2): 252-259, full text (Europe PMC, CC BY-NC 4.0; read in full in the FNM round 3 pass, Oct 26, 2026)",
+      "where": "Abstract and Conclusions",
+      "study": "narrative review"
+     }
+    ],
+    "annotations": [
+     {
+      "source": "DDW listing: The Reward Feedback Loop Engine: You May Also Like",
+      "group": "official",
+      "note": "The festival's own page for the work: title, maker, venue, dates and the artist's description, including the \"dopamine hit\" and \"phone addiction\" wording that the post quotes. It describes the artwork's ideas and makes no scientific claim of its own.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     },
+     {
+      "source": "DDW 2026 press kit, The Reward Feedback Loop Engine: You May Also Like (programme 2179), opened Nov 7, 2026",
+      "group": "official",
+      "note": "The maker's press kit: the one installation photo (photographer named on the DDW listing as Gjorgji Despodov) and the kit text on the slot machine, the three screens and the phone start. The kit gives no licence text; the photo is used for DDW coverage under RN's Nov 7, 2026 ruling.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     },
+     {
+      "source": "KABK student profile: Maria Mombers",
+      "group": "official",
+      "note": "The Royal Academy of Art, The Hague, lists a graduation project by Maria Mombers titled You May Also Like, Master Non Linear Narrative 2026.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     },
+     {
+      "source": "Fiorillo, Tobler and Schultz (2003), Science 299(5614): 1898-1902, author copy and supporting online material (University of Fribourg, FOLIA), read in full",
+      "doi": "https://doi.org/10.1126/science.1077349",
+      "open_access": "https://folia.unifr.ch/unifr/documents/300083",
+      "group": "primary",
+      "note": "Two monkeys learned that pictures meant a 0 to 100 percent chance of a liquid reward 2 seconds later. The quick dopamine response tracked reward probability, and a slower response grew during the wait and peaked at even odds (29 percent of 188 neurons at P = 0.5, 9 percent at P = 1.0). Limits: two animals, a lab task with juice and pictures, and the link to gambling is the authors' untested idea.",
+      "funding": "Funding was provided by the Human Frontiers Science Program (C.D.F.), Swiss National Science Funds (W.S. and P.N.T.), and Wellcome Trust (W.S.).",
+      "conflicts": "not stated"
+     },
+     {
+      "source": "Lindström et al. (2021), Nature Communications 12: 1311, full text (Springer link)",
+      "doi": "https://doi.org/10.1038/s41467-020-19607-x",
+      "open_access": "https://europepmc.org/article/PMC/PMC7910435",
+      "group": "primary",
+      "note": "Computer models of reward learning fit the posting records of 4,168 people on Instagram and three forums: people posted sooner when their recent rate of likes was higher. A 25-minute online experiment with 176 people found longer waits between posts when likes were scarce. Limits: the post data are correlational, people post for many other reasons, and no brain or dopamine measure was taken. A publisher correction (March 2021) fixed only the data availability statement and reporting summary.",
+      "funding": "Work on this article was supported by grant from the Netherlands Organization for Scientific Research to DMA (VICI 016.185.058). PNT acknowledges funding support from the Swiss National Science Foundation (100019_176016).",
+      "conflicts": "The authors declare no competing interests."
+     },
+     {
+      "source": "Panova and Carbonell (2018), Journal of Behavioral Addictions 7(2): 252-259, full text (Europe PMC, CC BY-NC 4.0; read in full in the FNM round 3 pass, Oct 26, 2026)",
+      "doi": "https://doi.org/10.1556/2006.7.2018.49",
+      "open_access": "https://europepmc.org/article/PMC/PMC6174603",
+      "group": "review",
+      "note": "A review that weighs the case for smartphone addiction and finds weak screening tools, few long-term studies and vague criteria. It concludes the evidence does \"not support the existence of smartphone addiction at this time\" and suggests the term \"problematic use\". Limits: a narrative review by two authors, without a systematic search or pooled data.",
+      "funding": "No financial support was received for this study.",
+      "conflicts": "The authors declare no conflict of interest."
+     },
+     {
+      "source": "The Met, surimono record (Spring Rain Collection, vol. 2)",
+      "group": "official",
+      "note": "The Met's record describes surimono as privately published woodblock prints, \"usually commissioned by individual poets or poetry groups as a form of New Year's greeting card.\" Public domain under the Met's Open Access policy.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     },
+     {
+      "source": "The Met, surimono record (Plum Tree in Bloom)",
+      "group": "official",
+      "note": "A surimono by Ryūryūkyo Shinsai from the Spring Rain Collection, dated ca. 1805 to 10 on the record, which gives the post its \"around 1805\" date.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     },
+     {
+      "source": "The Met, surimono record (Duck and Scallions)",
+      "group": "official",
+      "note": "A surimono by Ryūryūkyo Shinsai dated to the 1810s; the record calls duck with scallions \"a special culinary treat for the New Year's season\", the line quoted in the Instagram single.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     }
+    ],
+    "could_be_wrong": [
+     {
+      "point": "The slow ramp in the monkey study may not be an uncertainty signal at all. A modelling critique showed that averaging many small prediction errors across trials can produce a ramp of the same shape.",
+      "source": "Niv, Duff and Dayan 2005",
+      "url": "https://doi.org/10.1186/1744-9081-1-6"
+     },
+     {
+      "point": "The original team replied with further analyses that they say fit uncertainty better, so the meaning of the ramp is still argued over twenty years on.",
+      "source": "Fiorillo, Tobler and Schultz 2005",
+      "url": "https://doi.org/10.1186/1744-9081-1-7"
+     },
+     {
+      "point": "The posting study measured behaviour only. Its authors write that their findings \"cannot speak to the neurobiological basis of reward learning on social media\" and that the big data are correlational.",
+      "source": "Lindström et al. 2021",
+      "url": "https://doi.org/10.1038/s41467-020-19607-x"
+     },
+     {
+      "point": "A larger 2026 study of Twitter users found that models mixing reward learning with habit fit posting better than reward learning alone, and frequent posters looked more habitual. A habit can run on cues with little reward.",
+      "source": "Turner et al. 2026",
+      "url": "https://doi.org/10.1038/s41467-026-73547-6"
+     },
+     {
+      "point": "Dopamine may drive wanting more than pleasure. Rats with nearly all brain dopamine removed still showed normal liking of sweet tastes, which cuts against the idea of a dopamine hit as a burst of pleasure.",
+      "source": "Berridge 2018",
+      "url": "https://doi.org/10.3389/fpsyg.2018.01647"
+     },
+     {
+      "point": "In rats, brief dopamine pulses did not make cues rewarding in themselves; the rats learned which event follows which. A burst does not simply stamp value onto whatever came before it.",
+      "source": "Sharpe et al. 2020",
+      "url": "https://doi.org/10.1038/s41467-019-13953-1"
+     },
+     {
+      "point": "The only study found that measured dopamine and real phone use in the same people had 22 adults, compared PET scans with phone logs from other days, and cannot say which came first. The authors call for replication.",
+      "source": "Westbrook et al. 2021",
+      "url": "https://doi.org/10.1016/j.isci.2021.102497"
+     },
+     {
+      "point": "The slot machine's best known trick, the near miss, failed to keep pigeons or students playing longer once wins stopped, and no study has tested a near miss inside a social media feed.",
+      "source": "Pisklak, Yong and Spetch 2020",
+      "url": "https://doi.org/10.1007/s10899-019-09891-8"
+     },
+     {
+      "point": "Calling heavy use an addiction is disputed. Reviewers warn that applying addiction checklists to common habits risks \"overpathologizing everyday life\".",
+      "source": "Billieux et al. 2015",
+      "url": "https://doi.org/10.1556/2006.4.2015.009"
+     },
+     {
+      "point": "A systematic review of 28 brain imaging studies of social media use judged that conclusions \"should remain tentative\" and that comparisons with substance addiction are premature without long-term data.",
+      "source": "Wadsley and Ihssen 2023",
+      "url": "https://doi.org/10.3390/brainsci13050787"
+     }
+    ],
+    "go_deeper": {
+     "new": [
+      {
+       "title": "World Health Organization: Addictive behaviours: Gaming disorder (questions and answers)",
+       "url": "https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder",
+       "why": "A short official page on what makes a behaviour a disorder in the WHO classification; it names gaming and does not mention social media."
+      },
+      {
+       "title": "Pisklak, Yong and Spetch (2020), The near-miss effect in slot machines: a review and experimental analysis over half a century later",
+       "url": "https://doi.org/10.1007/s10899-019-09891-8",
+       "why": "A readable open review of more than fifty years of near-miss research, with pigeon and student tests."
+      }
+     ],
+     "serious": [
+      {
+       "title": "Berridge (2018), Evolving concepts of emotion and motivation, Frontiers in Psychology",
+       "url": "https://doi.org/10.3389/fpsyg.2018.01647",
+       "why": "A first-hand open history of the wanting and liking research on dopamine."
+      },
+      {
+       "title": "Wadsley and Ihssen (2023), A systematic review of structural and functional MRI studies investigating social networking site use, Brain Sciences",
+       "url": "https://doi.org/10.3390/brainsci13050787",
+       "why": "Pulls together 28 brain imaging studies of social media use and sets out their limits."
+      },
+      {
+       "title": "May, Malouff and Meynadier (2025), Reducing social media use decreases depression symptoms: a meta-analysis of randomised controlled trials",
+       "url": "https://doi.org/10.3390/ejihpe15110222",
+       "why": "Pools ten trials that cut social media use, with a table of each trial."
+      },
+      {
+       "title": "Lemahieu et al. (2025), The effects of social media abstinence on affective well-being and life satisfaction, Scientific Reports",
+       "url": "https://doi.org/10.1038/s41598-025-90984-3",
+       "why": "A preregistered meta-analysis that found no clear effect of quitting on mood or life satisfaction, a useful counterweight."
+      }
+     ],
+     "expert": [
+      {
+       "title": "Niv and Schoenbaum (2008), Dialogues on prediction errors, Trends in Cognitive Sciences (author copy)",
+       "url": "https://www.princeton.edu/~yael/Publications/NivSchoenbaum2008.pdf",
+       "why": "Questions and answers on reward prediction errors, including why a brain scan signal is no measure of dopamine."
+      },
+      {
+       "title": "Turner et al. (2026), A computational model of reward learning and habits on social media, Nature Communications",
+       "url": "https://doi.org/10.1038/s41467-026-73547-6",
+       "why": "Model comparison on 2,696 Twitter users, with a preregistered replication, showing that posting moves toward habit."
+      },
+      {
+       "title": "Westbrook et al. (2021), Striatal dopamine synthesis capacity reflects smartphone social activity, iScience",
+       "url": "https://doi.org/10.1016/j.isci.2021.102497",
+       "why": "The one study that pairs PET dopamine measures with logged phone use."
+      },
+      {
+       "title": "Allcott, Gentzkow and Song, Digital Addiction, NBER working paper w28936",
+       "url": "https://www.nber.org/papers/w28936",
+       "why": "A field experiment on screen time, habit and self-control in about 2,000 adults, with its data files."
+      },
+      {
+       "title": "Lindström et al. (2021), data and code for Study 3 on the Open Science Framework",
+       "url": "https://osf.io/765py/",
+       "why": "The online experiment's dataset and model code, as named in the paper's data and code statements."
+      }
+     ]
+    },
+    "listen_watch": [
+     {
+      "title": "Brain Inspired, BI 194: Vijay Namboodiri and Ali Mohebi on the evolving story of dopamine's role in cognitive function",
+      "speaker": "Vijay Namboodiri and Ali Mohebi, with host Paul Middlebrooks",
+      "credentials": "Namboodiri runs a lab at the University of California, San Francisco; Mohebi is an assistant professor at the University of Wisconsin-Madison who studies neuromodulators such as dopamine (as introduced in the episode)",
+      "conflicts": "none stated; Namboodiri discusses his own alternative account of dopamine, and the show is powered by The Transmitter",
+      "url": "https://www.thetransmitter.org/brain-inspired/vijay-namboodiri-and-ali-mohebi-on-the-evolving-story-of-dopamines-role-in-cognitive-function/",
+      "why": "Two dopamine researchers retell how Schultz's monkey recordings, made while looking for movement signals, led to the reward prediction error account, call it the best established view, explain why it is now debated, and close by saying dopamine is not the pleasure signal.",
+      "checked": "transcript read",
+      "checked_on": "2026-11-20"
+     },
+     {
+      "title": "Science Quickly: Learning from unexpected results, this neuroscientist is redefining how the brain learns",
+      "speaker": "Kauê Machado Costa, with host Rachel Feltman",
+      "credentials": "Assistant professor of psychology at the University of Alabama at Birmingham and a 2026 Scientific American Young American Scientist (as introduced in the episode)",
+      "conflicts": "none stated by the speaker; the episode notes that the Young American Scientists project was produced with financial support from Regeneron",
+      "url": "https://www.scientificamerican.com/podcast/episode/neuroscientist-kaue-m-costa-redefines-how-the-brain-learns/",
+      "why": "Costa explains his findings that dopamine signals also track prediction errors about events with no reward value, a challenge to reading dopamine as a pure reward signal.",
+      "checked": "transcript read",
+      "checked_on": "2026-11-20"
+     }
+    ],
+    "glossary": [
+     {
+      "term": "Dopamine",
+      "plain": "A chemical messenger made by a small group of neurons deep in the midbrain that send it to wide areas of the brain."
+     },
+     {
+      "term": "Reward prediction error",
+      "plain": "The gap between the reward an animal expected and the reward it got, which dopamine neurons signal with a burst or a dip."
+     },
+     {
+      "term": "Quick (phasic) response",
+      "plain": "A brief burst of firing by dopamine neurons right after a cue or a reward."
+     },
+     {
+      "term": "Sustained response",
+      "plain": "A slower rise in dopamine neuron firing that builds while an animal waits to find out whether a reward will come."
+     },
+     {
+      "term": "Reward uncertainty",
+      "plain": "How unsure the outcome is; it is highest when a reward has a 50/50 chance and zero when the reward is certain or impossible."
+     },
+     {
+      "term": "Reward learning",
+      "plain": "Changing what you do, and how fast you do it, based on the rewards past actions brought."
+     },
+     {
+      "term": "Posting latency",
+      "plain": "The time a person waits between one social media post and the next."
+     },
+     {
+      "term": "Correlational data",
+      "plain": "Data that show two things go together without showing that one causes the other."
+     },
+     {
+      "term": "Problematic use",
+      "plain": "Heavy phone or social media use that causes trouble in daily life, a term some researchers prefer to addiction."
+     },
+     {
+      "term": "Surimono",
+      "plain": "Privately published Japanese woodblock prints, often commissioned by poets as New Year's greeting cards."
+     }
+    ],
+    "safety": {
+     "relevant": true,
+     "lines": [
+      "988 Suicide and Crisis Lifeline (US): call or text 988, for anyone in crisis or emotional distress. In an emergency, call 911."
+     ],
+     "note": "The post quotes the artist's \"phone addiction\" and discusses problematic use; 988 is listed for crisis only. Education, not medical advice."
+    },
+    "history_culture": [
+     {
+      "title": "The Met, Spring Rain Collection (Harusame shū), vol. 2: Pine Shoots and Accoutrements for New Year's Celebrations",
+      "url": "https://www.metmuseum.org/art/collection/search/55060",
+      "why": "Surimono, the New Year greeting prints of poets in early 1800s Japan, in the Met's public domain collection."
+     },
+     {
+      "title": "Library of Congress, Farm Security Administration photographs",
+      "url": "https://www.loc.gov/pictures/collection/fsa/",
+      "why": "The public archive that holds a 1937 photo of an early wheel slot machine, used in the long form."
+     }
+    ],
+    "corrections": []
+   }
   },
   {
    "slug": "17",
@@ -7400,15 +8034,15 @@
      "url": "https://doi.org/10.1177/1745691616652873"
     },
     {
-     "label": "Vohs KD, Schmeichel BJ, Lohmann S, et al. (2021), A multisite preregistered paradigmatic test of the ego-depletion effect, Psychological Science 32(10):1566-1581, doi 10.1177/0956797621989733 (abstract, PubMed 34520296)",
+     "label": "Vohs KD, Schmeichel BJ, Lohmann S, et al. (2021), A multisite preregistered paradigmatic test of the ego-depletion effect, Psychological Science 32(10):1566-1581, doi 10.1177/0956797621989733 (full text read Oct 15 and Nov 7, 2026, and re-read Nov 20, 2026, in the authors' submitted version on Brunel BURA, 74 pages; the PMC12422598 XML holds the abstract only)",
      "url": "https://doi.org/10.1177/0956797621989733"
     },
     {
-     "label": "Dang J (2018), An updated meta-analysis of the ego depletion effect, Psychological Research 82:645-651, doi 10.1007/s00426-017-0862-x (full text read Oct 30, 2026: Europe PMC PMC6013521, CC BY 4.0)",
+     "label": "Dang J (2018), An updated meta-analysis of the ego depletion effect, Psychological Research 82:645-651, doi 10.1007/s00426-017-0862-x (full text read Oct 30, 2026, re-read Nov 20, 2026: Europe PMC PMC6013521, CC BY 4.0)",
      "url": "https://doi.org/10.1007/s00426-017-0862-x"
     },
     {
-     "label": "Holgado D, Mesquida C, Román-Caballero R (2023), Assessing the evidential value of mental fatigue and exercise research, Sports Medicine 53:2293-2307, doi 10.1007/s40279-023-01926-w (full text read Oct 30, 2026: Europe PMC PMC10687172, CC BY 4.0)",
+     "label": "Holgado D, Mesquida C, Román-Caballero R (2023), Assessing the evidential value of mental fatigue and exercise research, Sports Medicine 53:2293-2307, doi 10.1007/s40279-023-01926-w (full text read Oct 30, 2026, re-read Nov 20, 2026: Europe PMC PMC10687172, CC BY 4.0)",
      "url": "https://doi.org/10.1007/s40279-023-01926-w"
     },
     {
@@ -7428,7 +8062,7 @@
      "url": "https://doi.org/10.3389/fpsyg.2023.1208299"
     },
     {
-     "label": "Vohs KD, Schmeichel BJ, Lohmann S, et al. (2021), submitted version, author-archived on Brunel University London's BURA (full text read Nov 7, 2026, 74 pages)",
+     "label": "Vohs KD, Schmeichel BJ, Lohmann S, et al. (2021), submitted version, author-archived on Brunel University London's BURA (full text read Nov 7, 2026, re-read Nov 20, 2026, 74 pages)",
      "url": "https://bura.brunel.ac.uk/handle/2438/28246"
     }
    ],
@@ -8336,7 +8970,237 @@
      "url": "https://doi.org/10.1186/s12911-017-0425-5",
      "card": false
     }
-   ]
+   ],
+   "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "summary": [
+      "Automation bias is leaning on a computer's advice and checking less carefully.",
+      "In a 2017 prescribing simulation, 120 medical students missed far fewer errors when alerts were right and far more when alerts were wrong, and false alarms led many to drop safe medicines.",
+      "So when people almost never override a system, that agreement may reflect trust in the machine as much as the machine being right."
+     ],
+     "how_sure": "moderate",
+     "how_sure_note": "The effects in this one simulation were large and clear, and reviews find the same bias across many studies, but it used students with no real patients, so real-world rates are unknown.",
+     "reading_minutes": 3
+    },
+    "claims": [
+     {
+      "claim": "When a prescribing alert was wrong, 79 percent of students missed a real error, against 46 percent with no alert.",
+      "source": "Lyell D, Magrabi F, Raban MZ, Pont LG, Baysari MT, Day RO, Coiera E (2017), Automation bias in electronic prescribing, BMC Medical Informatics and Decision Making 17:28, doi 10.1186/s12911-017-0425-5 (abstract, PMC5356416)",
+      "where": "Table 2, low-complexity scenarios (omission errors: 79.2 percent with incorrect alerts, 45.8 percent with no alerts)",
+      "study": "one simulation experiment, 120 medical students, nine scenarios"
+     },
+     {
+      "claim": "Automation bias is over-relying on decision support and checking less carefully.",
+      "source": "Lyell D, Magrabi F, Raban MZ, Pont LG, Baysari MT, Day RO, Coiera E (2017), Automation bias in electronic prescribing, BMC Medical Informatics and Decision Making 17:28, doi 10.1186/s12911-017-0425-5 (abstract, PMC5356416)",
+      "where": "Abstract, Background (definition)",
+      "study": "definition used by the study"
+     },
+     {
+      "claim": "In a 2017 simulation, 120 medical students in their final two years prescribed for nine scenarios, with right, wrong or no alerts.",
+      "source": "Lyell D, Magrabi F, Raban MZ, Pont LG, Baysari MT, Day RO, Coiera E (2017), Automation bias in electronic prescribing, BMC Medical Informatics and Decision Making 17:28, doi 10.1186/s12911-017-0425-5 (abstract, PMC5356416)",
+      "where": "Methods (participants, scenarios, quality of decision support)",
+      "study": "one simulation experiment, 120 medical students, nine scenarios"
+     },
+     {
+      "claim": "When the alerts were right, missed errors fell by 38 to 47 percentage points, depending on the task.",
+      "source": "Lyell D, Magrabi F, Raban MZ, Pont LG, Baysari MT, Day RO, Coiera E (2017), Automation bias in electronic prescribing, BMC Medical Informatics and Decision Making 17:28, doi 10.1186/s12911-017-0425-5 (abstract, PMC5356416)",
+      "where": "Results and Table 2 (38.3 points low complexity, 46.6 low with interruption, 39.2 high complexity)",
+      "study": "one simulation experiment, 120 medical students, nine scenarios"
+     },
+     {
+      "claim": "When the alerts were wrong, missed errors rose by 25 to 33 percentage points.",
+      "source": "Lyell D, Magrabi F, Raban MZ, Pont LG, Baysari MT, Day RO, Coiera E (2017), Automation bias in electronic prescribing, BMC Medical Informatics and Decision Making 17:28, doi 10.1186/s12911-017-0425-5 (abstract, PMC5356416)",
+      "where": "Results and Table 2 (33.3, 24.5 and 26.7 points across the three complexity levels)",
+      "study": "one simulation experiment, 120 medical students, nine scenarios"
+     },
+     {
+      "claim": "False alarms led students to drop safe medicines: in simple scenarios 69 percent did, against 3 percent with no alert.",
+      "source": "Lyell D, Magrabi F, Raban MZ, Pont LG, Baysari MT, Day RO, Coiera E (2017), Automation bias in electronic prescribing, BMC Medical Informatics and Decision Making 17:28, doi 10.1186/s12911-017-0425-5 (abstract, PMC5356416)",
+      "where": "Table 2, low-complexity commission errors (69.2 percent with a false positive alert, 3.3 percent with no alert)",
+      "study": "one simulation experiment, 120 medical students, nine scenarios"
+     },
+     {
+      "claim": "Harder tasks and interruptions did not change the bias in this study.",
+      "source": "Lyell D, Magrabi F, Raban MZ, Pont LG, Baysari MT, Day RO, Coiera E (2017), Automation bias in electronic prescribing, BMC Medical Informatics and Decision Making 17:28, doi 10.1186/s12911-017-0425-5 (abstract, PMC5356416)",
+      "where": "Results and Conclusions",
+      "study": "one simulation experiment, 120 medical students, nine scenarios"
+     },
+     {
+      "claim": "Interventions to counter the bias, such as training, prompts to verify and exposure to automation failures, \"have had little success,\" the authors write.",
+      "source": "Lyell D, Magrabi F, Raban MZ, Pont LG, Baysari MT, Day RO, Coiera E (2017), Automation bias in electronic prescribing, BMC Medical Informatics and Decision Making 17:28, doi 10.1186/s12911-017-0425-5 (abstract, PMC5356416)",
+      "where": "Discussion (\"So far, interventions to counter AB have had little success\")",
+      "study": "authors' summary of earlier research"
+     },
+     {
+      "claim": "The study was simulated, with no real consequences.",
+      "source": "Lyell D, Magrabi F, Raban MZ, Pont LG, Baysari MT, Day RO, Coiera E (2017), Automation bias in electronic prescribing, BMC Medical Informatics and Decision Making 17:28, doi 10.1186/s12911-017-0425-5 (abstract, PMC5356416)",
+      "where": "Limitations (\"prescribing errors were without consequence\")",
+      "study": "authors' stated limits"
+     },
+     {
+      "claim": "The image is the study's own alert screen.",
+      "source": "Lyell D, Magrabi F, Raban MZ, Pont LG, Baysari MT, Day RO, Coiera E (2017), Automation bias in electronic prescribing, BMC Medical Informatics and Decision Making 17:28, doi 10.1186/s12911-017-0425-5 (abstract, PMC5356416)",
+      "where": "Fig. 3 (CC BY 4.0)",
+      "study": "figure from the paper"
+     }
+    ],
+    "annotations": [
+     {
+      "source": "Lyell D, Magrabi F, Raban MZ, Pont LG, Baysari MT, Day RO, Coiera E (2017), Automation bias in electronic prescribing, BMC Medical Informatics and Decision Making 17:28, doi 10.1186/s12911-017-0425-5 (abstract, PMC5356416)",
+      "doi": "https://doi.org/10.1186/s12911-017-0425-5",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5356416/",
+      "group": "primary",
+      "note": "Macquarie University experiment in which 120 medical students in their final two years prescribed for nine made-up patients with correct, incorrect or no alerts. Correct alerts cut missed errors sharply, wrong alerts raised them, and false alarms led many to drop safe medicines; task complexity and interruptions made no difference. Limits: simulated with no consequences, students rather than practising doctors, and the authors say it cannot give real clinical rates.",
+      "funding": "This research was supported by a Doctoral Scholarship for David Lyell provided by the HCF Research Foundation.",
+      "conflicts": "The authors have no competing interests to declare."
+     }
+    ],
+    "could_be_wrong": [
+     {
+      "point": "The authors stress that the task was simulated and the errors had no consequence, so the experiment cannot show how often automation bias happens in real clinics; the errors on offer may also differ from those in practice.",
+      "source": "Lyell et al. (2017), Limitations",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5356416/"
+     },
+     {
+      "point": "No direct or failed replication of the prescribing experiment was found as of Nov 2026, so its exact sizes rest on one study.",
+      "source": "Long-form research log search (Europe PMC, OpenAlex), checked against Lyell et al. (2017)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5356416/"
+     },
+     {
+      "point": "In real hospitals the bigger problem has often been the opposite: across 17 papers, drug safety alerts were overridden in 49 to 96 percent of cases, and the authors note that overriding may often be justified.",
+      "source": "van der Sijs et al. (2006), JAMIA 13(2): 138-147",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1447540/"
+     },
+     {
+      "point": "A systematic review of 40 studies found automation bias in single tasks only when checking the advice took medium or more effort, which differs from the prescribing study's finding that complexity made no difference.",
+      "source": "Lyell and Coiera (2017), JAMIA 24(2): 423-431",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7651899/"
+     },
+     {
+      "point": "Agreeing with a machine is often right when it is better: in an Australian breast screening study, a single reader leaning toward an AI that outperformed them improved overall results.",
+      "source": "Frazer et al. (2024), Nature Communications 15: 7525",
+      "url": "https://doi.org/10.1038/s41467-024-51725-8"
+     },
+     {
+      "point": "A low override rate is open to several readings; one 2026 expert comment says it may reflect good performance as well as automation bias, time pressure or weak authority to disagree. This is opinion, not new data.",
+      "source": "van de Sande, Economou-Zavlanos and van Genderen (2026), npj Digital Medicine 9: 569",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13396345/"
+     }
+    ],
+    "go_deeper": {
+     "new": [
+      {
+       "title": "AHRQ Patient Safety Network: Alert fatigue",
+       "url": "https://psnet.ahrq.gov/primer/alert-fatigue",
+       "why": "A federal primer on why clinicians override so many alerts."
+      },
+      {
+       "title": "NTSB investigation HWY18MH010 (Tempe, Arizona, 2018)",
+       "url": "https://www.ntsb.gov/investigations/Pages/HWY18MH010.aspx",
+       "why": "The safety board's summary of a crash in which a human monitor of an automated car looked away, with its findings on automation complacency."
+      }
+     ],
+     "serious": [
+      {
+       "title": "Goddard, Roudsari and Wyatt (2012), Automation bias: a systematic review of frequency, effect mediators, and mitigators",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3240751/",
+       "why": "The standard review of 74 studies, including a pooled estimate from health care."
+      },
+      {
+       "title": "Lyell and Coiera (2017), Automation bias and verification complexity: a systematic review",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7651899/",
+       "why": "Asks when checking advice is hard enough for people to stop checking."
+      },
+      {
+       "title": "van de Sande, Economou-Zavlanos and van Genderen (2026), Meaningful oversight of medical AI beyond human in the loop",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13396345/",
+       "why": "A short expert framework on what override rates can and cannot show."
+      }
+     ],
+     "expert": [
+      {
+       "title": "Wright et al. (2016), Analysis of clinical decision support system malfunctions",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5070518/",
+       "why": "Case series of alerts that silently stopped firing in a hospital, and a survey of how such failures were found."
+      },
+      {
+       "title": "Gaube et al. (2021), Do as AI say: susceptibility in deployment of clinical decision-aids",
+       "url": "https://www.nature.com/articles/s41746-021-00385-9",
+       "why": "Experiment with 265 physicians reading chest X-rays with advice labelled as from AI or a radiologist, some of it wrong."
+      }
+     ]
+    },
+    "listen_watch": [
+     {
+      "title": "Pomegranate Health, Ep96: The ergonomics of AI",
+      "speaker": "Enrico Coiera and Clair Sullivan, with host Mic Cavazzini",
+      "credentials": "Coiera is Professor of Medical Informatics and leads the Centre for Health Informatics at Macquarie University; Sullivan is an endocrinologist and director of the Queensland Digital Health Centre, University of Queensland (episode credits)",
+      "conflicts": "none stated in the episode; Coiera is a co-author of Lyell et al. (2017), the study this post cites, and the podcast is produced by the Royal Australasian College of Physicians",
+      "url": "https://www.racp.edu.au/pomegranate/View/ep96-the-ergonomics-of-ai",
+      "why": "Coiera defines automation bias as trusting a usually right tool until checks become a tick, tick, tick, recalls a prescribing death where the clinician presumed a switched-off checker was working, and says training seems to make some impact.",
+      "checked": "transcript read",
+      "checked_on": "2026-11-20"
+     }
+    ],
+    "glossary": [
+     {
+      "term": "Automation bias",
+      "plain": "The habit of leaning on a computer's advice and checking less carefully for oneself."
+     },
+     {
+      "term": "Clinical decision support",
+      "plain": "Software that gives clinicians alerts or suggestions while they make decisions, such as when prescribing."
+     },
+     {
+      "term": "Override",
+      "plain": "Choosing to go ahead against an alert's warning, usually after giving a reason."
+     },
+     {
+      "term": "Omission error",
+      "plain": "Missing a real mistake that should have been caught."
+     },
+     {
+      "term": "Commission error",
+      "plain": "Making a change that was not needed because of wrong advice, such as dropping a safe medicine."
+     },
+     {
+      "term": "False positive alert",
+      "plain": "A warning that fires when nothing is actually wrong."
+     },
+     {
+      "term": "False negative alert",
+      "plain": "A missing warning when something really is wrong."
+     },
+     {
+      "term": "Percentage point",
+      "plain": "The simple difference between two percentages, so 46 percent to 79 percent is a rise of 33 percentage points."
+     },
+     {
+      "term": "Alert fatigue",
+      "plain": "Tuning out warnings because so many of them fire, many of which do not matter."
+     }
+    ],
+    "law_policy": [
+     {
+      "citation": "Regulation (EU) 2024/1689 (Artificial Intelligence Act), Article 14(4)(b), human oversight of high-risk AI systems, which names automation bias",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+      "status": "Adopted June 13, 2024 and published in the Official Journal; dates when the high-risk duties apply were not re-checked here because EUR-Lex returned an empty response to the honest client on Nov 20, 2026",
+      "as_of": "2026-11-20"
+     },
+     {
+      "citation": "U.S. Food and Drug Administration, Clinical Decision Support Software: Guidance for Industry and FDA Staff (issued Jan 29, 2026; supersedes the Jan 6, 2026 version), section on automation bias, p. 15",
+      "url": "https://www.fda.gov/media/109618/download",
+      "status": "Final guidance, marked as containing nonbinding recommendations; defines automation bias and notes it increases when urgent decisions leave too little time",
+      "as_of": "2026-11-20"
+     }
+    ],
+    "safety": {
+     "relevant": false,
+     "note": "Education, not medical advice. A study of how people use decision-support software; no treatment or dosing information."
+    },
+    "corrections": []
+   }
   },
   {
    "slug": "kb28",
@@ -8479,7 +9343,373 @@
      "url": "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/conversation",
      "card": false
     }
-   ]
+   ],
+   "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "summary": [
+      "Federal and state health agencies give parents a simple plan for talking with a teen about cannabis: keep it low-key, have many short talks, and build the teen's skills to say no.",
+      "The risks they list are real for teens who use often, such as a higher chance of a use disorder for those who start young, though studies count it in different ways.",
+      "One talk is no shield: a US study of 5,864 families found drug talks did not prevent teens from starting, while steady attention and warm, clear rules go with less use."
+     ],
+     "how_sure": "mixed",
+     "how_sure_note": "The risk figures rest on large national surveys and reviews, but the advice on how to talk is agency guidance, and studies of talking alone have found little or no protective effect.",
+     "reading_minutes": 4
+    },
+    "claims": [
+     {
+      "claim": "SAMHSA's advice: keep it low-key, and plan many short talks instead of one big one.",
+      "source": "SAMHSA, Talk. They Hear You. Five Conversation Goals (last updated Nov 6, 2024).",
+      "where": "Five Conversation Goals page, closing advice: \"Keep it low-key ... Plan to have many short talks.\"",
+      "study": "federal agency guidance, no study cited"
+     },
+     {
+      "claim": "Hawaii's health office lists youth risks: trouble with focus, memory and learning, decisions, mood swings, and school and social life.",
+      "source": "Hawaii State Department of Health, OMCCR. Cannabis Use Risks (Cannabis Education site).",
+      "where": "Cannabis Use Risks page, youth risks list (the page also lists a higher risk of mental health issues for some)",
+      "study": "state agency web page, no citations on the page"
+     },
+     {
+      "claim": "Hawaii's cannabis site says THC may raise the risk of psychosis, especially in youth.",
+      "source": "Hawaii State Department of Health, OMCCR. Cannabis Use Risks (Cannabis Education site).",
+      "where": "Cannabis Use Risks page: THC \"may increase the risk of psychosis, especially among youth and people who may be predisposed to psychosis\"",
+      "study": "state agency web page, no citations on the page"
+     },
+     {
+      "claim": "Pediatricians say regular use in teens can hurt memory and focus.",
+      "source": "American Academy of Pediatrics, HealthyChildren.org. Osterhoudt, K. Edible Marijuana Dangers: How Parents Can Prevent THC Poisoning.",
+      "where": "HealthyChildren.org edibles article: regular use \"can impair memory and concentration and may interfere with learning\"",
+      "study": "professional society guidance for parents"
+     },
+     {
+      "claim": "SAMHSA says about 1 in 10 people who use marijuana become addicted, and 1 in 6 who start before 18.",
+      "source": "SAMHSA. The Effects, Risks and Side Effects of Marijuana (last updated Sep 9, 2025).",
+      "where": "Risks page (updated Sep 9, 2025), addiction section; the page gives no source",
+      "study": "federal agency web page"
+     },
+     {
+      "claim": "A 2014 review gives similar figures: about 9 percent of those who try marijuana become dependent, and about 1 in 6 of those who start as teens.",
+      "source": "Volkow, N. D., Baler, R. D., Compton, W. M., & Weiss, S. R. B. (2014). Adverse health effects of marijuana use. NEJM, 370(23), 2219 to 2227. doi:10.1056/NEJMra1402309 (NIH author manuscript PMC4827335, read in full Nov 11, 2026)",
+      "where": "Adverse Effects, Risk of Addiction (citing Lopez-Quintero et al., 2011, and Hall and Degenhardt, 2009); also 25 to 50 percent of daily users",
+      "study": "narrative review by NIDA scientists"
+     },
+     {
+      "claim": "8.9 percent of people who had ever used cannabis became dependent over their lifetime.",
+      "source": "Lopez-Quintero, C., et al. (2011). Probability and predictors of transition from first use to dependence on nicotine, alcohol, cannabis, and cocaine. Drug and Alcohol Dependence, 115(1-2), 120 to 130. doi:10.1016/j.drugalcdep.2010.11.004 (NIH author manuscript PMC3069146, read in full Nov 11, 2026)",
+      "where": "Results, lifetime cumulative probability estimates (repeated in the Discussion)",
+      "study": "national survey of US adults (NESARC Wave 2), 7,389 lifetime cannabis users"
+     },
+     {
+      "claim": "30.6 percent of past-year users had a marijuana use disorder in 2012 to 2013.",
+      "source": "Hasin, D. S., et al. (2015). Prevalence of marijuana use disorders in the United States between 2001-2002 and 2012-2013. JAMA Psychiatry, 72(12), 1235 to 1242. doi:10.1001/jamapsychiatry.2015.1858 (NIH author manuscript PMC5037576, read in full Nov 11, 2026)",
+      "where": "Results, Past-Year DSM-IV Marijuana Use Disorder Among Marijuana Users; Table 3",
+      "study": "two national surveys of US adults, more than 79,000 people in all"
+     },
+     {
+      "claim": "SAMHSA's five goals: show you disapprove of underage drug use; show you care about your child's health, wellness and success; be a good source of information; pay attention without prying; build their skills, such as a code word text or practicing \"no thanks\".",
+      "source": "SAMHSA, Talk. They Hear You. Five Conversation Goals (last updated Nov 6, 2024).",
+      "where": "Five Conversation Goals page, goals 1 to 5",
+      "study": "federal agency guidance"
+     },
+     {
+      "claim": "SAMHSA says that when parents talk directly and honestly, kids are more likely to respect their rules.",
+      "source": "SAMHSA, Talk. They Hear You. Why It's Important To Talk To Your Child About Alcohol and Other Drugs (last updated Nov 5, 2024).",
+      "where": "Why It's Important To Talk To Your Child page: \"If you talk to your kids directly and honestly, they are more likely to respect your rules and advice about alcohol and drug use.\"",
+      "study": "federal agency guidance, no study cited"
+     },
+     {
+      "claim": "A US study of 5,864 families found talks about drugs did not prevent teens from starting marijuana.",
+      "source": "Nonnemaker, J., Silber-Ashley, O., Farrelly, M., & Dench, D. (2012). Parent-child communication and marijuana initiation: Evidence using discrete-time survival analysis. Addictive Behaviors, 37(12), 1342 to 1348. doi:10.1016/j.addbeh.2012.07.006 (NIH author manuscript PMC3438521, read in full Nov 11, 2026)",
+      "where": "Methods (analytic sample of 5,864 parent-child pairs); Table 3 (youth reports, OR 1.37 and 1.33); Discussion: \"we find no evidence that communication prevents marijuana initiation\"",
+      "study": "national longitudinal survey (NSPY), discrete-time survival analysis"
+     },
+     {
+      "claim": "Pediatricians say the car can be a good place to talk, or to give reminders before a party or a sleepover.",
+      "source": "American Academy of Pediatrics, HealthyChildren.org. Osterhoudt, K. Edible Marijuana Dangers: How Parents Can Prevent THC Poisoning.",
+      "where": "HealthyChildren.org edibles article: \"The car can be a good place to have discussions or give your teen reminders before dropping them off at parties, dances, sleepovers\"",
+      "study": "professional society guidance"
+     },
+     {
+      "claim": "Never drive high, and never ride with a driver who is high; pediatricians also stress the risks of edibles.",
+      "source": "American Academy of Pediatrics, HealthyChildren.org. Osterhoudt, K. Edible Marijuana Dangers: How Parents Can Prevent THC Poisoning.",
+      "where": "HealthyChildren.org edibles article, talking points for parents",
+      "study": "professional society guidance"
+     },
+     {
+      "claim": "TeenLink Hawaii and the Youth Line are on the state's list of youth services.",
+      "source": "Hawaii State Department of Health, OMCCR. Cannabis Use Risks (Cannabis Education site).",
+      "where": "Cannabis Use Risks page, Services for youth (the YouthLine it lists is run by Lines for Life in Oregon and serves ages 10 to 24 nationally)",
+      "study": "state agency web page"
+     },
+     {
+      "claim": "Hawaii's health office also points to 988.",
+      "source": "Hawaii State Department of Health, OMCCR. Hawai'i Medical Cannabis Newsletter, October 2024.",
+      "where": "October 2024 newsletter, psychosis item: \"Call 988 for resources.\"",
+      "study": "state agency newsletter"
+     },
+     {
+      "claim": "Hawaii past-month marijuana use, ages 12 to 17: 3.65 percent in 2023 to 2024 (reshare post).",
+      "source": "SAMHSA. 2023-2024 NSDUH state estimates, percent tables (Hawaii).",
+      "where": "NSDUH 2023 to 2024 state estimates, percent tables, Hawaii row, past-month marijuana use, ages 12 to 17",
+      "study": "federal household survey, model-based state estimates"
+     }
+    ],
+    "annotations": [
+     {
+      "source": "Hawaii State Department of Health, OMCCR. Cannabis Use Risks (Cannabis Education site).",
+      "group": "official",
+      "note": "Hawaii's medical cannabis office lists youth risks and youth services, including TeenLink Hawaii, OnTrack Hawaii and the Youth Line. Limits: the page cites no studies.",
+      "funding": "not stated (state agency page)",
+      "conflicts": "none declared"
+     },
+     {
+      "source": "Hawaii State Department of Health, OMCCR. Hawai'i Medical Cannabis Newsletter, October 2024.",
+      "group": "official",
+      "note": "The October 2024 newsletter names adolescents among people more susceptible to psychosis, says THC during brain development \"can change endocannabinoid activity and lead to lasting changes\", and says to call 988 for resources. Limits: a short newsletter item, not a review.",
+      "funding": "not stated (state agency newsletter)",
+      "conflicts": "none declared"
+     },
+     {
+      "source": "SAMHSA. The Effects, Risks and Side Effects of Marijuana (last updated Sep 9, 2025).",
+      "group": "official",
+      "note": "SAMHSA's risks page gives the 1 in 10 and 1 in 6 addiction figures and an IQ loss of up to 8 points for early starters. Limits: no source is given on the page, and the IQ figure comes from a small group of heavy, long-term users in one cohort.",
+      "funding": "not stated (federal agency page)",
+      "conflicts": "none declared"
+     },
+     {
+      "source": "SAMHSA, Talk. They Hear You. Five Conversation Goals (last updated Nov 6, 2024).",
+      "group": "official",
+      "note": "The campaign's five conversation goals for parents, with examples such as a code word a teen can text and practicing how to say \"no thanks\". Limits: guidance, not a tested program; no published evaluation of the campaign's effect on teen cannabis use was found.",
+      "funding": "not stated (federal agency page)",
+      "conflicts": "none declared"
+     },
+     {
+      "source": "SAMHSA, Talk. They Hear You. Why It's Important To Talk To Your Child About Alcohol and Other Drugs (last updated Nov 5, 2024).",
+      "group": "official",
+      "note": "SAMHSA's case for talking early and often, including the line that teens are more likely to respect rules when parents talk directly and honestly. Limits: no study is cited for that line.",
+      "funding": "not stated (federal agency page)",
+      "conflicts": "none declared"
+     },
+     {
+      "source": "American Academy of Pediatrics, HealthyChildren.org. Osterhoudt, K. Edible Marijuana Dangers: How Parents Can Prevent THC Poisoning.",
+      "group": "official",
+      "note": "A pediatrician's guide for parents on edible risks and how to talk: the car as a place to talk, never drive high or ride with a high driver, and Poison Control for accidental ingestion. Limits: expert guidance for parents, not a research paper.",
+      "funding": "not stated",
+      "conflicts": "none declared"
+     },
+     {
+      "source": "SAMHSA. 2023-2024 NSDUH state estimates, percent tables (Hawaii).",
+      "group": "official",
+      "note": "Federal state-level estimates from the National Survey on Drug Use and Health: Hawaii past-month marijuana use at ages 12 to 17 was 3.65 percent in 2023 to 2024, against 6.01 percent nationally. Limits: model-based estimates from self-reports in a household survey; school surveys of high school students find higher rates.",
+      "funding": "not stated (federal dataset)",
+      "conflicts": "none declared"
+     },
+     {
+      "source": "Volkow, N. D., Baler, R. D., Compton, W. M., & Weiss, S. R. B. (2014). Adverse health effects of marijuana use. NEJM, 370(23), 2219 to 2227. doi:10.1056/NEJMra1402309 (NIH author manuscript PMC4827335, read in full Nov 11, 2026)",
+      "doi": "https://doi.org/10.1056/NEJMra1402309",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4827335/",
+      "group": "review",
+      "note": "A NEJM review of marijuana's health effects by the NIDA director and colleagues: about 9 percent of people who experiment become dependent (DSM-IV), about 1 in 6 who start as teens, and 25 to 50 percent of daily users. Limits: a narrative review, and these figures rest on earlier studies (Lopez-Quintero 2011; Hall and Degenhardt 2009).",
+      "funding": "not stated in the NIH author manuscript",
+      "conflicts": "No potential conflict of interest relevant to this article was reported."
+     },
+     {
+      "source": "Lopez-Quintero, C., et al. (2011). Probability and predictors of transition from first use to dependence on nicotine, alcohol, cannabis, and cocaine. Drug and Alcohol Dependence, 115(1-2), 120 to 130. doi:10.1016/j.drugalcdep.2010.11.004 (NIH author manuscript PMC3069146, read in full Nov 11, 2026)",
+      "doi": "https://doi.org/10.1016/j.drugalcdep.2010.11.004",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3069146/",
+      "group": "primary",
+      "note": "Using a national survey of US adults, the authors estimate that 8.9 percent of 7,389 people who had ever used cannabis would become dependent at some point in life, and 5.9 percent within ten years of first use. Limits named by the authors: recall of ages of onset, intermittent use, and the exclusion of people in institutions.",
+      "funding": "not stated in the NIH author manuscript",
+      "conflicts": "not stated in the NIH author manuscript"
+     },
+     {
+      "source": "Hasin, D. S., et al. (2015). Prevalence of marijuana use disorders in the United States between 2001-2002 and 2012-2013. JAMA Psychiatry, 72(12), 1235 to 1242. doi:10.1001/jamapsychiatry.2015.1858 (NIH author manuscript PMC5037576, read in full Nov 11, 2026)",
+      "doi": "https://doi.org/10.1001/jamapsychiatry.2015.1858",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5037576/",
+      "group": "primary",
+      "note": "Two national surveys of US adults found that past-year marijuana use disorder among users fell from 35.6 percent in 2001 to 2002 to 30.6 percent in 2012 to 2013, while the number of users rose. Limits named by the authors: no biological testing, interviewers who were not clinicians, and a lower response rate (60.1 percent) in the later survey.",
+      "funding": "NESARC-III was sponsored by the National Institute on Alcohol Abuse and Alcoholism, with supplemental support from the National Institute on Drug Abuse; NIDA grants R01DA034244-01 and F32DA0364431, New York State Psychiatric Institute, and the NIAAA intramural program. The funders had no role in the study.",
+      "conflicts": "Conflict of Interest Disclosures: None reported."
+     },
+     {
+      "source": "Nonnemaker, J., Silber-Ashley, O., Farrelly, M., & Dench, D. (2012). Parent-child communication and marijuana initiation: Evidence using discrete-time survival analysis. Addictive Behaviors, 37(12), 1342 to 1348. doi:10.1016/j.addbeh.2012.07.006 (NIH author manuscript PMC3438521, read in full Nov 11, 2026)",
+      "doi": "https://doi.org/10.1016/j.addbeh.2012.07.006",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3438521/",
+      "group": "primary",
+      "note": "Following 5,864 US parent and youth pairs, teens who said a parent had talked with them about drugs were somewhat more likely to start marijuana (OR 1.37), while high parental monitoring and a good parent and child relationship were protective. Limits named by the authors: self-reports, parents and teens who did not always agree, and no measure of how the talks went.",
+      "funding": "This study was funded by National Institute on Drug Abuse grant 1 R01 DA020889-01. The funding source had no role or involvement in this research other than providing the funding.",
+      "conflicts": "The authors have no conflict of interest to report."
+     }
+    ],
+    "could_be_wrong": [
+     {
+      "point": "Talk alone may not protect. In a national study of 5,864 families, teens who reported drug talks with a parent were somewhat more likely to start marijuana; the authors suggest parents may talk most with teens who are already curious.",
+      "source": "Nonnemaker et al. (2012), Results and Discussion",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3438521/"
+     },
+     {
+      "point": "The steadier finding is parental monitoring, but the link is modest and weaker in studies that follow teens over time (r of about minus 0.10 against minus 0.21 overall).",
+      "source": "Lac and Crano (2009)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4465376/"
+     },
+     {
+      "point": "Genes may explain part of the link between parental monitoring and cannabis use, in a study of male twins.",
+      "source": "Olivares et al. (2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4972338/"
+     },
+     {
+      "point": "Short parenting programs prevented or reduced teen drug use across 42 randomized trials, but the reviewers rated the risk of bias as high.",
+      "source": "Allen et al. (2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4960727/"
+     },
+     {
+      "point": "The addiction figures depend on who is counted: 8.9 percent of ever-users over a lifetime, 30.6 percent of past-year users, and 19.5 percent of past-year users aged 12 to 17. SAMHSA's page gives no source for its 1 in 10 and 1 in 6.",
+      "source": "Lopez-Quintero et al. (2011); Hasin et al. (2015); Han et al. (2019)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6411429/"
+     },
+     {
+      "point": "Some brain differences may come before use. In the ABCD study, children who went on to use alcohol, nicotine or cannabis before 15 already showed brain structure differences at ages 9 to 11.",
+      "source": "Miller et al. (2024)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11686416/"
+     },
+     {
+      "point": "Thinking problems after use may fade. In 69 studies of teens and young adults, the gap was very small and not significant where people had stopped for more than three days.",
+      "source": "Scott et al. (2018)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6137521/"
+     },
+     {
+      "point": "The IQ loss SAMHSA cites was challenged: a model showed income and schooling could produce the same pattern, and twins who used did no worse than their twin who did not.",
+      "source": "Rogeberg (2013); Jackson et al. (2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4747759/"
+     },
+     {
+      "point": "Which way the psychosis link runs is still debated: genetic studies found some evidence that cannabis raises schizophrenia risk and stronger evidence that schizophrenia risk makes use more likely.",
+      "source": "Gage et al. (2017)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5341491/"
+     }
+    ],
+    "go_deeper": {
+     "new": [
+      {
+       "title": "SAMHSA, Talk. They Hear You.",
+       "url": "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you",
+       "why": "The federal parent campaign, with the five goals and printable guides."
+      },
+      {
+       "title": "Hawaii Youth Risk Behavior Survey 2023, high school report",
+       "url": "https://hhdw.org/wp-content/uploads/2024/12/2023-HS-YRBS-Brochure-Hawaii-State.pdf",
+       "why": "The state school survey, including how many students talked with family about drugs (41.1 percent in 2023)."
+      },
+      {
+       "title": "NIDA: Reported use of most drugs remains low among U.S. teens (Monitoring the Future 2025)",
+       "url": "https://nida.nih.gov/news-events/news-releases/2025/12/reported-use-of-most-drugs-remains-low-among-us-teens",
+       "why": "The latest national figures on teen cannabis use, near the 2021 low."
+      }
+     ],
+     "serious": [
+      {
+       "title": "National Academies (2017), The Health Effects of Cannabis and Cannabinoids",
+       "url": "https://nap.nationalacademies.org/catalog/24625/the-health-effects-of-cannabis-and-cannabinoids-the-current-state",
+       "why": "The most complete independent review, with each conclusion graded by strength of evidence; free to read."
+      },
+      {
+       "title": "Allen et al. (2016), Effective parenting interventions to reduce youth substance use: a systematic review",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4960727/",
+       "why": "What 42 randomized trials of parenting programs found, and their limits."
+      },
+      {
+       "title": "Scott et al. (2018), Association of cannabis with cognitive functioning in adolescents and young adults",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6137521/",
+       "why": "A meta-analysis of 69 studies that asks whether thinking problems last after people stop."
+      }
+     ],
+     "expert": [
+      {
+       "title": "Lac and Crano (2009), Monitoring matters: meta-analytic review of parental monitoring and adolescent marijuana use",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4465376/",
+       "why": "25 samples and 35,367 teens, with cross-sectional and longitudinal effects reported apart."
+      },
+      {
+       "title": "Han et al. (2019), Time since first cannabis use and 12-month prevalence of cannabis use disorder among youth and emerging adults",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6411429/",
+       "why": "National data on how fast use disorder appears after first use, by age."
+      },
+      {
+       "title": "Miller et al. (2024), Neuroanatomical variability and substance use initiation in late childhood and early adolescence",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11686416/",
+       "why": "ABCD brain scans taken before most children had tried any substance."
+      }
+     ]
+    },
+    "listen_watch": [
+     {
+      "title": "Moving Medicine: Preventing cannabis use among minors",
+      "speaker": "Maria Rahmandar, with host Michael Suk and Jesse Ehrenfeld",
+      "credentials": "Rahmandar is a pediatrician at Lurie Children's Hospital, medical director of its Substance Use and Prevention Program, and associate professor of pediatrics at Northwestern University Feinberg School of Medicine (episode page)",
+      "conflicts": "none stated; produced by the American Medical Association's Cannabis Task Force, which Suk and Ehrenfeld co-chair",
+      "url": "https://www.ama-assn.org/public-health/behavioral-health/preventing-cannabis-use-among-minors",
+      "why": "Rahmandar stresses that most youth choose not to use cannabis, says most teens who try it do not develop a use disorder though risk is hard to predict, and urges confidential screening as a way to open a conversation.",
+      "checked": "transcript read",
+      "checked_on": "2026-11-20"
+     }
+    ],
+    "glossary": [
+     {
+      "term": "THC",
+      "plain": "Tetrahydrocannabinol, the compound in cannabis that causes the high."
+     },
+     {
+      "term": "Endocannabinoid system",
+      "plain": "The body's own signaling network that THC acts on, which helps guide how the brain wires itself."
+     },
+     {
+      "term": "Cannabis use disorder",
+      "plain": "A diagnosis for cannabis use that a person finds hard to control and that causes problems in daily life."
+     },
+     {
+      "term": "Dependence (DSM-IV)",
+      "plain": "An older diagnostic label, from the fourth edition of psychiatry's diagnostic manual, for the more severe form of problem use."
+     },
+     {
+      "term": "Psychosis",
+      "plain": "Losing touch with reality, such as hearing voices or holding false beliefs."
+     },
+     {
+      "term": "Parental monitoring",
+      "plain": "Parents knowing where their teen is, who they are with and what they are doing."
+     },
+     {
+      "term": "NSDUH",
+      "plain": "The National Survey on Drug Use and Health, a yearly federal survey that interviews people at home."
+     },
+     {
+      "term": "Odds ratio",
+      "plain": "A number that compares how likely an outcome is in one group against another; 1 means no difference."
+     },
+     {
+      "term": "Edible",
+      "plain": "A cannabis product that is eaten, such as a gummy or a brownie, which can look like ordinary candy or snacks."
+     }
+    ],
+    "safety": {
+     "relevant": true,
+     "lines": [
+      "988 Suicide and Crisis Lifeline (US): call, text or chat 988",
+      "SAMHSA National Helpline: 1-800-662-4357, free and confidential, 24 hours, English and Spanish",
+      "Poison Help: 1-800-222-1222, if a child eats a cannabis product by accident; 911 in an emergency",
+      "TeenLink Hawaii and YouthLine (ages 10 to 24), on Hawaii's list of youth services"
+     ],
+     "note": "Education, not medical advice. No use is shown or encouraged and no doses are given; the page is about talking with a teen, and a pediatrician can help if a teen has already used."
+    },
+    "history_culture": [
+     {
+      "title": "Smithsonian NMNH Botany: Cannabis sativa L., US 3150124 (S. F. Blake, Plummers Island, Maryland, May 24, 1931)",
+      "url": "http://n2t.net/ark:/65665/38eb3b80c-f34f-4268-9db5-15dc4154c3c2",
+      "why": "The 1931 herbarium sheet that opens the long form, a plain botanical record of the plant (CC0)."
+     }
+    ],
+    "corrections": []
+   }
   },
   {
    "slug": "aanpm42",
@@ -8698,7 +9928,276 @@
      "url": "https://doi.org/10.1186/1472-6882-5-20",
      "card": false
     }
-   ]
+   ],
+   "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "summary": [
+      "RN Collins's essay remembers a great-aunt whose garden was her medicine cabinet, and this post asks what researchers have recorded about home herbs in the Caribbean.",
+      "In one student survey at eight clinics in St. Mary Parish, Jamaica, 43 of 68 adults had used herbs as medicine in the past year, and only 13 of those 43 said their provider knew.",
+      "In a 2004 survey of 192 hospital doctors in Trinidad, most thought herbs were beneficial, yet only 29 could name one known herb-drug interaction; neither survey tests whether any remedy works."
+     ],
+     "how_sure": "moderate",
+     "how_sure_note": "The counts come straight from two published surveys, but each is a single snapshot of one place, chosen by convenience or quota rather than at random.",
+     "reading_minutes": 3
+    },
+    "claims": [
+     {
+      "claim": "\"She had a garden, and her garden was her medicine cabinet.\"",
+      "source": "RN Collins (2026, September 24). Her Garden Was Her Medicine Cabinet. The Polymath (Formation Notes essay).",
+      "where": "Essay opening, quoted word for word",
+      "study": "personal essay"
+     },
+     {
+      "claim": "Medicinal-plant use \"remains part of everyday life in Jamaica,\" and researchers have recorded \"the use of herbs alongside pharmaceuticals.\"",
+      "source": "RN Collins (2026, September 24). Her Garden Was Her Medicine Cabinet. The Polymath (Formation Notes essay).",
+      "where": "Essay section on the research record, quoted word for word",
+      "study": "personal essay"
+     },
+     {
+      "claim": "43 of 68 clinic patients in St. Mary Parish, Jamaica, had used medicinal herbs in the past year.",
+      "source": "Jepsen, J. (2021). Prevalence and Perceptions of Herbal Medicine Use in Eastern Jamaica. Scholarship in Medicine, Wright State University CORE Scholar, Dayton, Ohio (student final report, mentor Dr. Thomas Herchline; no licence statement on the PDF or the record, free to read). Read in full Nov 8, 2026 from the PDF RN supplied (sources/aanpm40/Jepsen-2021-herbal-medicine-eastern-jamaica.pdf).",
+      "where": "Results, p. 9, and Table 3",
+      "study": "one cross-sectional survey, 68 adults at 8 clinics in one parish (68 of 278 invited, 24.5%)"
+     },
+     {
+      "claim": "13 of those 43 said their provider knew; 21 said the provider did not, and 9 did not answer.",
+      "source": "Jepsen, J. (2021). Prevalence and Perceptions of Herbal Medicine Use in Eastern Jamaica. Scholarship in Medicine, Wright State University CORE Scholar, Dayton, Ohio (student final report, mentor Dr. Thomas Herchline; no licence statement on the PDF or the record, free to read). Read in full Nov 8, 2026 from the PDF RN supplied (sources/aanpm40/Jepsen-2021-herbal-medicine-eastern-jamaica.pdf).",
+      "where": "Table 8, p. 12",
+      "study": "one cross-sectional survey, 43 herb users"
+     },
+     {
+      "claim": "In a 2004 survey of 192 doctors at six public hospitals in Trinidad, 60.4% believed herbal remedies were beneficial to health.",
+      "source": "Clement, Y. N., Williams, A. F., Khan, K., Bernard, T., Bhola, S., Fortuné, M., Medupe, O., Nagee, K., & Seaforth, C. E. (2005). A gap between acceptance and knowledge of herbal remedies by physicians: The need for educational intervention. BMC Complementary and Alternative Medicine, 5, 20. https://doi.org/10.1186/1472-6882-5-20 (CC BY 2.0; read in full Nov 7, 2026, PMC open-access text and PDF, PMC1310610)",
+      "where": "Abstract (Results); Results, Assessment of acceptance; Methods, Setting and sample",
+      "study": "one cross-sectional survey, 192 public hospital doctors"
+     },
+     {
+      "claim": "78 of those doctors (40.6%) had used herbs themselves, and 60 of the 78 were satisfied.",
+      "source": "Clement, Y. N., Williams, A. F., Khan, K., Bernard, T., Bhola, S., Fortuné, M., Medupe, O., Nagee, K., & Seaforth, C. E. (2005). A gap between acceptance and knowledge of herbal remedies by physicians: The need for educational intervention. BMC Complementary and Alternative Medicine, 5, 20. https://doi.org/10.1186/1472-6882-5-20 (CC BY 2.0; read in full Nov 7, 2026, PMC open-access text and PDF, PMC1310610)",
+      "where": "Abstract (Results); Results, Assessment of acceptance",
+      "study": "one cross-sectional survey, 192 public hospital doctors"
+     },
+     {
+      "claim": "The herb the doctors named most often was lemongrass: 34 of 192, with reputed uses such as fever and colds.",
+      "source": "Clement, Y. N., Williams, A. F., Khan, K., Bernard, T., Bhola, S., Fortuné, M., Medupe, O., Nagee, K., & Seaforth, C. E. (2005). A gap between acceptance and knowledge of herbal remedies by physicians: The need for educational intervention. BMC Complementary and Alternative Medicine, 5, 20. https://doi.org/10.1186/1472-6882-5-20 (CC BY 2.0; read in full Nov 7, 2026, PMC open-access text and PDF, PMC1310610)",
+      "where": "Table 2 (lemon grass: fever, common cold, blood purifier, headache; 34, 17.7%)",
+      "study": "one cross-sectional survey, 192 public hospital doctors"
+     },
+     {
+      "claim": "Only 29 of the 192 (15.1%) could name one known herb-drug interaction, though 52 had recommended herbs to patients.",
+      "source": "Clement, Y. N., Williams, A. F., Khan, K., Bernard, T., Bhola, S., Fortuné, M., Medupe, O., Nagee, K., & Seaforth, C. E. (2005). A gap between acceptance and knowledge of herbal remedies by physicians: The need for educational intervention. BMC Complementary and Alternative Medicine, 5, 20. https://doi.org/10.1186/1472-6882-5-20 (CC BY 2.0; read in full Nov 7, 2026, PMC open-access text and PDF, PMC1310610)",
+      "where": "Abstract (Results); Results, Assessment of knowledge and Assessment of acceptance",
+      "study": "one cross-sectional survey, 192 public hospital doctors"
+     },
+     {
+      "claim": "Only 18 doctors had information on herbal medicine at work, and 81.3% said continuing education mattered.",
+      "source": "Clement, Y. N., Williams, A. F., Khan, K., Bernard, T., Bhola, S., Fortuné, M., Medupe, O., Nagee, K., & Seaforth, C. E. (2005). A gap between acceptance and knowledge of herbal remedies by physicians: The need for educational intervention. BMC Complementary and Alternative Medicine, 5, 20. https://doi.org/10.1186/1472-6882-5-20 (CC BY 2.0; read in full Nov 7, 2026, PMC open-access text and PDF, PMC1310610)",
+      "where": "Results, Assessment of knowledge (18, 9.4%) and Assessment of acceptance (81.3%)",
+      "study": "one cross-sectional survey, 192 public hospital doctors"
+     },
+     {
+      "claim": "Researchers \"could conduct interviews, identify plants, preserve voucher specimens, and build a record that others could check.\"",
+      "source": "RN Collins (2026, September 24). Her Garden Was Her Medicine Cabinet. The Polymath (Formation Notes essay).",
+      "where": "Essay section on what a record needs, quoted word for word",
+      "study": "personal essay"
+     }
+    ],
+    "annotations": [
+     {
+      "source": "RN Collins (2026, September 24). Her Garden Was Her Medicine Cabinet. The Polymath (Formation Notes essay).",
+      "group": "primary",
+      "note": "The essay this post accompanies: a family memory of a great-aunt's garden, the plant names no one recorded, and a case for documenting plant knowledge precisely. It does not say where the aunt lived, and the post does not place her.",
+      "funding": "not stated",
+      "conflicts": "The essay is by the post's own author, RN Collins."
+     },
+     {
+      "source": "Jepsen, J. (2021). Prevalence and Perceptions of Herbal Medicine Use in Eastern Jamaica. Scholarship in Medicine, Wright State University CORE Scholar, Dayton, Ohio (student final report, mentor Dr. Thomas Herchline; no licence statement on the PDF or the record, free to read). Read in full Nov 8, 2026 from the PDF RN supplied (sources/aanpm40/Jepsen-2021-herbal-medicine-eastern-jamaica.pdf).",
+      "open_access": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76",
+      "group": "primary",
+      "note": "A medical student's final report: an interviewer-given survey of 68 adults leaving eight clinics in St. Mary Parish over two weeks found 43 had used herbs as medicine in the past year, and 13 of them said their provider knew. Limits named by the author: small convenience sample, one parish, recall bias; no statistical tests were run, and it is a student report, not a peer-reviewed paper.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     },
+     {
+      "source": "Clement, Y. N., Williams, A. F., Khan, K., Bernard, T., Bhola, S., Fortuné, M., Medupe, O., Nagee, K., & Seaforth, C. E. (2005). A gap between acceptance and knowledge of herbal remedies by physicians: The need for educational intervention. BMC Complementary and Alternative Medicine, 5, 20. https://doi.org/10.1186/1472-6882-5-20 (CC BY 2.0; read in full Nov 7, 2026, PMC open-access text and PDF, PMC1310610)",
+      "doi": "https://doi.org/10.1186/1472-6882-5-20",
+      "group": "primary",
+      "note": "Interviews with 192 doctors at Trinidad's six public hospitals (May to July 2004) found high acceptance of herbs (mean 40% of the maximum score) and low knowledge (15%); only 29 could name a herb-drug interaction. Limits named by the authors: quota and convenience sampling, possible interviewer bias, open-ended answers coded by hand, and no doctors from private practice.",
+      "funding": "not stated",
+      "conflicts": "The author(s) declare that they have no competing interests."
+     },
+     {
+      "source": "iNaturalist observations 125446238 (Quentin Groom, 2022, Montserrat, Cymbopogon citratus, cultivated) and 195517350 (Sinaloa Silvestre, 2024, Mexico, Aloe vera, research grade), photos CC0",
+      "group": "official",
+      "note": "Two public plant observation records with CC0 photos, used to show lemongrass (Montserrat, cultivated) and aloe vera as botany only. The records identify the plants; they make no health claim.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     }
+    ],
+    "could_be_wrong": [
+     {
+      "point": "The Jamaica survey reached 68 of 278 people invited (24.5%) at clinics in one parish over two weeks, so the people who agreed may differ from those who did not. The author lists small sample, one parish and recall bias as limits.",
+      "source": "Jepsen 2021",
+      "url": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76"
+     },
+     {
+      "point": "In the same survey every herb user ticked aloe vera, bissy and castor nut, a result the report does not explain. It differs from a larger Jamaican survey the report cites, which the author puts down to sample size or location.",
+      "source": "Jepsen 2021",
+      "url": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76"
+     },
+     {
+      "point": "The Trinidad doctors were chosen by quota and convenience, not at random, and the authors warn of interviewer bias and say the sample may not be truly representative; private-practice doctors were left out.",
+      "source": "Clement et al. 2005",
+      "url": "https://doi.org/10.1186/1472-6882-5-20"
+     },
+     {
+      "point": "Knowledge was scored with the team's own new open-ended questions, so a low score may partly reflect a hard test; the authors note that open questions tax respondents and answers may be distorted in coding.",
+      "source": "Clement et al. 2005",
+      "url": "https://doi.org/10.1186/1472-6882-5-20"
+     },
+     {
+      "point": "The doctor survey is from 2004. A 2019 survey of 288 health workers in western Jamaica found a similar gap (78.4% said they knew little), but it used different questions in a different place, so the numbers cannot be compared directly.",
+      "source": "Kwak et al. 2021",
+      "url": "https://doi.org/10.1016/j.ctim.2021.102666"
+     },
+     {
+      "point": "The Trinidad authors describe a progressive loss of plant knowledge between generations, but a comparison of Dominican plant users found people in New York City named slightly more plants than people still in the Dominican Republic.",
+      "source": "Vandebroek and Balick 2012",
+      "url": "https://doi.org/10.1371/journal.pone.0037643"
+     },
+     {
+      "point": "Surveys record belief and behaviour. A later Trinidad team found most herb users thought their remedies worked and called for randomized trials, noting that most native Caribbean herbs had not been well studied.",
+      "source": "Clement et al. 2007",
+      "url": "https://doi.org/10.1186/1472-6882-7-4"
+     },
+     {
+      "point": "A worldwide meta-analysis of 14 studies found that about one in three people (33%) told their doctor about complementary medicine use, and the studies varied so widely that any single disclosure figure, including the Jamaica one, is uncertain.",
+      "source": "Foley et al. 2019",
+      "url": "https://doi.org/10.1038/s41598-018-38279-8"
+     }
+    ],
+    "go_deeper": {
+     "new": [
+      {
+       "title": "MedlinePlus: Herbs and Supplements",
+       "url": "https://medlineplus.gov/druginfo/herb_All.html",
+       "why": "Plain-language US government pages on single herbs, with what is known about evidence and interactions."
+      },
+      {
+       "title": "TRAMIL: Program of Applied Research to Popular Medicine in the Caribbean",
+       "url": "https://www.tramil.net/en",
+       "why": "The Caribbean network that surveys household plant remedies and publishes plant pages on quality, safety and effectiveness."
+      }
+     ],
+     "serious": [
+      {
+       "title": "NCCIH Clinical Digest: Herb-Drug Interactions: What the Science Says (December 2024)",
+       "url": "https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions-science",
+       "why": "A US government summary for health workers of what is and is not known about specific herbs and prescription drugs."
+      },
+      {
+       "title": "Foley et al. (2019), Disclosure of complementary medicine use to medical providers: a systematic review and meta-analysis, Scientific Reports",
+       "url": "https://doi.org/10.1038/s41598-018-38279-8",
+       "why": "The worldwide review of how often patients tell their doctors, and why they often do not."
+      }
+     ],
+     "expert": [
+      {
+       "title": "Clement, Baksh-Comeau and Seaforth (2015), An ethnobotanical survey of medicinal plants in Trinidad, Journal of Ethnobiology and Ethnomedicine",
+       "url": "https://doi.org/10.1186/s13002-015-0052-0",
+       "why": "450 rural households, 917 single-plant remedies and voucher specimens identified at the National Herbarium: a worked example of a checkable record."
+      },
+      {
+       "title": "Vandebroek and Balick (2012), Globalization and loss of plant knowledge: challenging the paradigm, PLOS ONE",
+       "url": "https://doi.org/10.1371/journal.pone.0037643",
+       "why": "A direct test of the belief that plant knowledge fades when people migrate."
+      },
+      {
+       "title": "National Herbarium of Trinidad and Tobago (The UWI, St. Augustine)",
+       "url": "https://sta.uwi.edu/herbarium/",
+       "why": "Where the Trinidad household survey's plant samples were identified."
+      }
+     ]
+    },
+    "listen_watch": [
+     {
+      "title": "Cigna health equity podcast: Plants as Medicine, interview with Ina Vandebroek (2016)",
+      "speaker": "Ina Vandebroek, interviewed by Shannon McCormick of Cigna",
+      "credentials": "Ethnobotanist; at the time Matthew Calbraith Perry Assistant Curator of Economic Botany and Caribbean Program Director at The New York Botanical Garden, with a PhD in medical sciences (as stated in the episode)",
+      "conflicts": "Produced by the health insurer Cigna; the hosting page states her research is supported in part by a World of Difference grant from Cigna Foundation",
+      "url": "https://www.nybg.org/blogs/science-talk/2016/10/podcast-plants-as-medicine/",
+      "length": "36 min",
+      "timestamp": "07:04",
+      "why": "She explains why Caribbean and Latino patients often do not tell providers about herbal remedies, how one plant called cerasee in Jamaica has other names elsewhere, and how herbarium specimens and plant monographs help a doctor and patient talk about the same plant.",
+      "checked": "transcript read",
+      "checked_on": "2026-11-20"
+     }
+    ],
+    "glossary": [
+     {
+      "term": "Herbal remedy",
+      "plain": "A plant or plant part, often from a yard or market, prepared at home to treat or prevent illness."
+     },
+     {
+      "term": "Herb-drug interaction",
+      "plain": "A change in how a medicine works, or in its side effects, caused by taking an herb at the same time."
+     },
+     {
+      "term": "Contraindication",
+      "plain": "A reason, such as a health condition or another medicine, not to use a particular treatment."
+     },
+     {
+      "term": "Cross-sectional survey",
+      "plain": "A study that asks a group of people questions at one point in time, so it shows patterns but not causes."
+     },
+     {
+      "term": "Convenience sample",
+      "plain": "People chosen because they were easy to reach, such as patients leaving a clinic, rather than at random."
+     },
+     {
+      "term": "Quota sampling",
+      "plain": "Choosing a set number of people from each group, such as each hospital, without picking them at random."
+     },
+     {
+      "term": "Response rate",
+      "plain": "The share of people invited to a survey who agreed to take part."
+     },
+     {
+      "term": "Recall bias",
+      "plain": "Error that creeps in when people misremember what they did in the past."
+     },
+     {
+      "term": "Voucher specimen",
+      "plain": "A pressed plant sample kept in a herbarium so that anyone can later check which species a name referred to."
+     },
+     {
+      "term": "Ethnobotany",
+      "plain": "The study of how people in a culture know, name and use plants."
+     }
+    ],
+    "safety": {
+     "relevant": true,
+     "lines": [
+      "988 Suicide and Crisis Lifeline (US): call or text 988. In an emergency, call 911.",
+      "Poison Help (US): 1-800-222-1222, for any possible poisoning or a reaction to a plant, herb or medicine."
+     ],
+     "note": "No doses and no how-to. Tell your doctor or pharmacist about any herbs you take with medicines. Education, not medical advice."
+    },
+    "history_culture": [
+     {
+      "title": "Wright (1787), An account of the medicinal plants growing in Jamaica, London Medical Journal (PMC open scan)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5545524/",
+      "why": "One of the oldest printed lists of Jamaica's medicinal plants, with more than 90 numbered entries, starting with aloe."
+     },
+     {
+      "title": "Smithsonian US National Herbarium, Botany Collections search",
+      "url": "https://collections.nmnh.si.edu/search/botany/",
+      "why": "Look up pressed specimens from Jamaica and the wider Caribbean, such as a 1914 lemongrass sheet from Hope Estate."
+     }
+    ],
+    "corrections": []
+   }
   },
   {
    "slug": "86",
@@ -73569,7 +75068,8 @@
      "url": "https://www.flickr.com/photos/21983356@N00/8375136214",
      "card": false
     }
-   ]
+   ],
+   "how_sure": "One lab brain-scan study: MEG in 22 people, fMRI in a second group; an earlier 7-person MEG study agrees."
   },
   {
    "slug": "pds01",
@@ -73686,7 +75186,8 @@
      "url": "https://www.flickr.com/photos/92416586@N05/15204258691",
      "card": false
     }
-   ]
+   ],
+   "how_sure": "Textbook science: place cells and grid cells, found in rats in 1971 and 2005, form a positioning system in the brain."
   },
   {
    "slug": "mjbyb12",
@@ -73772,7 +75273,8 @@
      "url": "https://doi.org/10.1186/s12576-021-00822-0",
      "card": false
     }
-   ]
+   ],
+   "how_sure": "One lab study of 68 adults with two test smells; no real room or show hall was studied."
   },
   {
    "slug": "pdm01",
@@ -73870,7 +75372,8 @@
      "url": "https://doi.org/10.1073/pnas.191355898",
      "card": false
     }
-   ]
+   ],
+   "how_sure": "Small brain-scan studies (10 people in 2001, 49 in 2024); many studies agree on the reward link."
   },
   {
    "slug": "mjbex14",
@@ -74004,7 +75507,8 @@
      "url": "https://doi.org/10.1371/journal.pone.0257500",
      "card": false
     }
-   ]
+   ],
+   "how_sure": "One records study, 20 doctors; a far bigger study, 231,076 nurse triage calls, found no sign of decision fatigue."
   },
   {
    "slug": "mjbpre02",
@@ -74448,7 +75952,7 @@
     },
     {
      "where": "Slide 4",
-     "what": "Bar chart drawn to scale for this post: link sizes compared with screen use",
+     "what": "Chart drawn to scale for this post: link with teen wellbeing set against screen use at 1, potatoes 0.9 and being bullied 4.3",
      "credit": "Chart: Ask a Neuroscientist, from Orben & Przybylski (2019) data",
      "url": "https://doi.org/10.1038/s41562-018-0506-1",
      "card": false
@@ -74815,11 +76319,7 @@
    "time": "09:00 HST",
    "id": "PDN01",
    "title": "Brain notes: Psychedelics Design 2026, Day 1",
-   "origin": {
-    "kind": "article",
-    "label": "Read RN's full article in The Polymath",
-    "url": "https://polymath-rn-collins.beehiiv.com/p/brain-notes-psychedelics-design-2026-day-1"
-   },
+   "origin": null,
    "series": "Ask a Neuroscientist",
    "disclaimer": "Education, not medical advice.",
    "research": [
@@ -74888,8 +76388,8 @@
     },
     {
      "where": "Slide 5",
-     "what": "Mason et al. (2021), Figure 1, AUT Fluency panel: number of ideas on the timed alternate-uses task at baseline, on the day and at follow-up",
-     "credit": "Mason et al. (2021), Translational Psychiatry, cropped from Fig. 1, CC BY",
+     "what": "From the results of Mason and colleagues' 2021 trial",
+     "credit": "Text: Mason et al. (2021), Translational Psychiatry, CC BY 4.0",
      "url": "https://doi.org/10.1038/s41398-021-01335-5",
      "card": false
     },
@@ -75461,7 +76961,7 @@
      "url": "https://doi.org/10.3389/fpsyg.2014.00823"
     },
     {
-     "label": "Vohs, K. D., Schmeichel, B. J., Lohmann, S., Gronau, Q. F., Finley, A. J., Ainsworth, S. E., et al. (2021). A multisite preregistered paradigmatic test of the ego-depletion effect. Psychological Science, 32(10), 1566-1581 (full text read Nov 6, 2026, Brunel University repository author manuscript; facts only)",
+     "label": "Vohs, K. D., Schmeichel, B. J., Lohmann, S., Gronau, Q. F., Finley, A. J., Ainsworth, S. E., et al. (2021). A multisite preregistered paradigmatic test of the ego-depletion effect. Psychological Science, 32(10), 1566-1581 (full text read Nov 6, 2026, re-read Nov 20, 2026, Brunel University repository author manuscript; facts only)",
      "url": "https://doi.org/10.1177/0956797621989733"
     },
     {
@@ -76659,7 +78159,270 @@
      "url": "https://images.nasa.gov/details/KSC-2013-3565",
      "card": false
     }
-   ]
+   ],
+   "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "summary": [
+      "A grow light changes a plant through how bright it is, when it is on and which colours it gives.",
+      "In one lettuce study, brighter steady light grew bigger heads but less lettuce per unit of light, and one schedule that turned the light up as plants grew matched the big heads with less light.",
+      "A review of 43 tomato studies found that adding far-red light made plants taller almost every time, while its effects on weight and leaves were mixed."
+     ],
+     "how_sure": "mixed",
+     "how_sure_note": "The far-red height effect showed up in all 15 tomato studies that measured it, but the stepped schedule rests on one lettuce study of one cultivar.",
+     "reading_minutes": 3
+    },
+    "claims": [
+     {
+      "claim": "Same lettuce, same LEDs, six light schedules for 28 days indoors; the brighter the light, the bigger the heads and the redder the seedlings.",
+      "source": "Kang, I., Ding, S., & Meng, Q. (2026). Temporally increasing light intensity produces similar lettuce growth more efficiently than fixed high light. Frontiers in Plant Science, 17, 1763702 (full text read Nov 7, 2026, Europe PMC PMC12913123, CC BY 4.0)",
+      "where": "Abstract; Table 1 (six treatments); Fig. 2 (photos of heads at day 28)",
+      "study": "one indoor lettuce study, cultivar 'Rouxai', six light schedules, run twice"
+     },
+     {
+      "claim": "These LEDs gave about 76 percent red, 16 green, 3 blue and 5 far red, switched on around the clock.",
+      "source": "Kang, I., Ding, S., & Meng, Q. (2026). Temporally increasing light intensity produces similar lettuce growth more efficiently than fixed high light. Frontiers in Plant Science, 17, 1763702 (full text read Nov 7, 2026, Europe PMC PMC12913123, CC BY 4.0)",
+      "where": "Materials and methods, lighting (spectroradiometer reading); Fig. 1 (measured spectrum); 24-hour photoperiod in the abstract",
+      "study": "method of one lab study"
+     },
+     {
+      "claim": "Brighter fixed light gave 66 percent more fresh mass, but each unit of light grew 27 to 29 percent less lettuce.",
+      "source": "Kang, I., Ding, S., & Meng, Q. (2026). Temporally increasing light intensity produces similar lettuce growth more efficiently than fixed high light. Frontiers in Plant Science, 17, 1763702 (full text read Nov 7, 2026, Europe PMC PMC12913123, CC BY 4.0)",
+      "where": "Abstract (mature plants, fixed 150 against fixed 350); Results, light use efficiency",
+      "study": "one indoor lettuce study, cultivar 'Rouxai', six light schedules, run twice"
+     },
+     {
+      "claim": "Seedlings under brighter light grew 69 percent more fresh mass and wider, shorter leaves.",
+      "source": "Kang, I., Ding, S., & Meng, Q. (2026). Temporally increasing light intensity produces similar lettuce growth more efficiently than fixed high light. Frontiers in Plant Science, 17, 1763702 (full text read Nov 7, 2026, Europe PMC PMC12913123, CC BY 4.0)",
+      "where": "Abstract (seedlings: fresh mass +69 percent, dry mass +84 percent, leaf width +22 percent, leaf length -11 percent)",
+      "study": "one indoor lettuce study, cultivar 'Rouxai', six light schedules, run twice"
+     },
+     {
+      "claim": "One stepped schedule gave heads as big as bright fixed light, with 23 to 31 percent more growth per unit of light.",
+      "source": "Kang, I., Ding, S., & Meng, Q. (2026). Temporally increasing light intensity produces similar lettuce growth more efficiently than fixed high light. Frontiers in Plant Science, 17, 1763702 (full text read Nov 7, 2026, Europe PMC PMC12913123, CC BY 4.0)",
+      "where": "Abstract and Conclusions (the 250, 250, 350 schedule against fixed 350)",
+      "study": "one indoor lettuce study, cultivar 'Rouxai', six light schedules, run twice"
+     },
+     {
+      "claim": "Standard LEDs give little far red.",
+      "source": "Fischer, A., Vänninen, I., & Himanen, K. (2026). Far-red light supplementation in tomato cultivation: A quantitative review of morphological and physiological responses. Physiologia Plantarum, 178(5), e71141 (full text read Nov 7, 2026, Europe PMC PMC13633127, CC BY 4.0)",
+      "where": "Abstract (\"Standard Light-Emitting Diodes emit little to no FR light\")",
+      "study": "quantitative review of 43 tomato studies"
+     },
+     {
+      "claim": "In 15 tomato studies, adding far red made plants taller in 31 of 36 tests; median +36 percent.",
+      "source": "Fischer, A., Vänninen, I., & Himanen, K. (2026). Far-red light supplementation in tomato cultivation: A quantitative review of morphological and physiological responses. Physiologia Plantarum, 178(5), e71141 (full text read Nov 7, 2026, Europe PMC PMC13633127, CC BY 4.0)",
+      "where": "Results, plant height (all 15 studies, 31 observations, median +36.2 percent, mean +68.8 percent); Fig. 2A",
+      "study": "quantitative review of 43 tomato studies"
+     },
+     {
+      "claim": "Dry weight rose in about half the tests and fell in nearly a quarter; study setups may explain much of it.",
+      "source": "Fischer, A., Vänninen, I., & Himanen, K. (2026). Far-red light supplementation in tomato cultivation: A quantitative review of morphological and physiological responses. Physiologia Plantarum, 178(5), e71141 (full text read Nov 7, 2026, Europe PMC PMC13633127, CC BY 4.0)",
+      "where": "Results, dry weight (48.8 percent up, 27.9 percent no change, 23.3 percent down; median +22.2 percent; Table S2); Abstract on setups",
+      "study": "quantitative review of 43 tomato studies"
+     },
+     {
+      "claim": "Median changes with far red: fresh weight +23.1 percent, leaf area +12.4 percent, leaf chlorophyll down 15.5 percent.",
+      "source": "Fischer, A., Vänninen, I., & Himanen, K. (2026). Far-red light supplementation in tomato cultivation: A quantitative review of morphological and physiological responses. Physiologia Plantarum, 178(5), e71141 (full text read Nov 7, 2026, Europe PMC PMC13633127, CC BY 4.0)",
+      "where": "Results, fresh weight and leaf area (Table S2); leaf chlorophyll (Table S4); Fig. 2",
+      "study": "quantitative review of 43 tomato studies"
+     },
+     {
+      "claim": "Across 24 observations in 7 studies, leaf chlorophyll fell in 79.2 percent and did not change in the rest.",
+      "source": "Fischer, A., Vänninen, I., & Himanen, K. (2026). Far-red light supplementation in tomato cultivation: A quantitative review of morphological and physiological responses. Physiologia Plantarum, 178(5), e71141 (full text read Nov 7, 2026, Europe PMC PMC13633127, CC BY 4.0)",
+      "where": "Results, leaf chlorophyll content (Table S4)",
+      "study": "quantitative review of 43 tomato studies"
+     },
+     {
+      "claim": "The review pooled 23 studies under artificial light only and 20 greenhouse studies that mixed sun and lamps.",
+      "source": "Fischer, A., Vänninen, I., & Himanen, K. (2026). Far-red light supplementation in tomato cultivation: A quantitative review of morphological and physiological responses. Physiologia Plantarum, 178(5), e71141 (full text read Nov 7, 2026, Europe PMC PMC13633127, CC BY 4.0)",
+      "where": "Abstract; Review method (controlled and semi-controlled groups)",
+      "study": "quantitative review of 43 tomato studies"
+     }
+    ],
+    "annotations": [
+     {
+      "source": "Kang, I., Ding, S., & Meng, Q. (2026). Temporally increasing light intensity produces similar lettuce growth more efficiently than fixed high light. Frontiers in Plant Science, 17, 1763702 (full text read Nov 7, 2026, Europe PMC PMC12913123, CC BY 4.0)",
+      "doi": "https://doi.org/10.3389/fpls.2026.1763702",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12913123/",
+      "group": "primary",
+      "note": "University of Delaware lettuce trial: six light schedules under one LED spectrum for 28 days, run twice. Brighter steady light grew more mass with lower light use efficiency, and the 250, 250, 350 schedule matched bright steady light with 23 to 31 percent higher efficiency. Limits: one cultivar, one lab, a 5 to 6 degree difference in nutrient solution temperature between runs, and light delivered was counted but electricity and cost were not.",
+      "funding": "Funding was provided by the National Aeronautics and Space Administration (NASA) Biological and Physical Sciences (BPS) Division (award # 80NSSC23K1427). The acknowledgments thank JR Peters and Grodan for growing supplies.",
+      "conflicts": "The author(s) declared that this work was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+     },
+     {
+      "source": "Fischer, A., Vänninen, I., & Himanen, K. (2026). Far-red light supplementation in tomato cultivation: A quantitative review of morphological and physiological responses. Physiologia Plantarum, 178(5), e71141 (full text read Nov 7, 2026, Europe PMC PMC13633127, CC BY 4.0)",
+      "doi": "https://doi.org/10.1111/ppl.71141",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13633127/",
+      "group": "review",
+      "note": "University of Helsinki and Natural Resources Institute Finland review of tomato studies from 2010 to 2025 that met its selection criteria, with far red as the only changed factor. Height rose consistently; weight, leaf area and fruit results varied, and chlorophyll usually fell. Limits: the studies used different setups and cultivars, and many did not report background conditions such as light and temperature.",
+      "funding": "not stated (the paper notes open access publishing was facilitated by the University of Helsinki under the Wiley FinELib agreement)",
+      "conflicts": "not stated"
+     }
+    ],
+    "could_be_wrong": [
+     {
+      "point": "The stepped-schedule result comes from one cultivar in one lab, and the two runs differed by 5 to 6 degrees in nutrient solution temperature; the authors say treating runs as blocks may not capture every interaction between root-zone temperature and light.",
+      "source": "Kang, Ding and Meng (2026), Experimental limitations",
+      "url": "https://doi.org/10.3389/fpls.2026.1763702"
+     },
+     {
+      "point": "The lettuce study counted light delivered, not electricity used or money spent, so a saving in light is not yet a measured saving in energy or cost. No replication had been published as of Nov 20, 2026.",
+      "source": "Kang, Ding and Meng (2026), Methods and limitations",
+      "url": "https://doi.org/10.3389/fpls.2026.1763702"
+     },
+     {
+      "point": "The tomato review says many studies did not report background conditions such as light and temperature, which makes it hard to tell why far-red results differ.",
+      "source": "Fischer, Vänninen and Himanen (2026), Future perspectives",
+      "url": "https://doi.org/10.1111/ppl.71141"
+     },
+     {
+      "point": "Far-red responses depend on cultivar. In lettuce, the same far red raised dry weight by 39 percent in 'Cherokee', 19 percent in 'Little Gem' and not at all in 'Green SaladBowl'.",
+      "source": "Liu and van Iersel (2022), Plants 11: 2714",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9611250/"
+     },
+     {
+      "point": "Far red works differently at different brightness: more far red increased lettuce leaf expansion under strong light and reduced it under weak light, and the tomato review calls this interaction underexplored.",
+      "source": "Kusuma and Bugbee (2023), Frontiers in Plant Science 14: 1185622",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10274578/"
+     },
+     {
+      "point": "Whether far red should count as photosynthetic light is still debated: one group argues photons up to 750 nanometres should count, while the tomato review says the photosynthetic role of far red remains unclear.",
+      "source": "Zhen, van Iersel and Bugbee (2021), Frontiers in Plant Science 12: 693445",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8258408/"
+     },
+     {
+      "point": "The review's counts differ slightly between text and figure: the text gives 36 height and 43 dry-weight observations, while Fig. 2 gives n = 35 and n = 41.",
+      "source": "Fischer, Vänninen and Himanen (2026), Results and Fig. 2 legend",
+      "url": "https://doi.org/10.1111/ppl.71141"
+     }
+    ],
+    "go_deeper": {
+     "new": [
+      {
+       "title": "NASA: Growing plants in space",
+       "url": "https://www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/",
+       "why": "NASA's overview of Veggie and the Advanced Plant Habitat, the LED plant chambers on the space station."
+      },
+      {
+       "title": "Zhen, van Iersel and Bugbee (2021), Why far-red photons should be included in the definition of photosynthetic photons",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8258408/",
+       "why": "A short, open argument with the history of far-red research back to Robert Emerson."
+      }
+     ],
+     "serious": [
+      {
+       "title": "Kusuma, Pattison and Bugbee (2020), From physics to fixtures to food: current and potential LED efficacy",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7105460/",
+       "why": "An open review of how LEDs turn electricity into plant light and how much better they can get."
+      },
+      {
+       "title": "Gendron and Staiger (2023), New horizons in plant photoperiodism",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11114106/",
+       "why": "An open review of how plants read day length, including the light-sensing pigment phytochrome."
+      },
+      {
+       "title": "Casal and Fankhauser (2023), Shade avoidance in the context of climate change",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10022646/",
+       "why": "An open review of how plants use far red to sense neighbours and stretch toward light."
+      }
+     ],
+     "expert": [
+      {
+       "title": "Zhang et al. (2024), Meta-analysis of the impact of far-red light on vegetable crop growth and quality",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11397353/",
+       "why": "Pooled 207 studies from 55 papers across vegetable crops, with effect sizes by light setup."
+      },
+      {
+       "title": "Zhen and Bugbee (2020), Substituting far-red for traditionally defined photosynthetic photons",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7516038/",
+       "why": "Whole-canopy gas exchange from seedling to harvest in lettuce, testing far red at equal photon counts."
+      },
+      {
+       "title": "Elkins and van Iersel (2020), Longer photoperiods with the same daily light integral increase daily electron transport",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7570151/",
+       "why": "Measures how each photon does less work as light rises, the saturation behind the lettuce result."
+      }
+     ]
+    },
+    "listen_watch": [
+     {
+      "title": "Houston We Have a Podcast, Episode 172: Plants in Space",
+      "speaker": "Gioia Massa and Anna-Lisa Paul, with host Pat Ryan",
+      "credentials": "Massa works on space crop production at NASA Kennedy Space Center and led the science team for Veggie's in-space validation; Paul directs the Interdisciplinary Center for Biotechnology Research at the University of Florida and is a research professor of horticultural sciences (as introduced in the episode)",
+      "conflicts": "none stated; NASA's own podcast, and both guests work on NASA plant research",
+      "url": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/plants-in-space/",
+      "why": "Paul explains that tuning LED wavelengths can change the colour and flavour of the same plant, and Massa traces LED plant lighting to NASA-funded research at the University of Wisconsin.",
+      "checked": "transcript read",
+      "checked_on": "2026-11-20"
+     },
+     {
+      "title": "Small Steps, Giant Leaps, Episode 133: The Science of Space Gardening",
+      "speaker": "Gioia Massa, with host Andrés Almeida",
+      "credentials": "Senior life sciences project scientist at NASA Kennedy Space Center (episode notes)",
+      "conflicts": "none stated; NASA APPEL's own podcast, and the speaker is a NASA scientist",
+      "url": "https://www.nasa.gov/podcasts/small-steps-giant-leaps/episode-133-the-science-of-space-gardening/",
+      "why": "Massa describes Veggie as red, blue and green LEDs plus fans, the water problems of growing in orbit, and how NASA-funded LED plant lighting spread to indoor farms.",
+      "checked": "transcript read",
+      "checked_on": "2026-11-20"
+     }
+    ],
+    "glossary": [
+     {
+      "term": "LED",
+      "plain": "A light-emitting diode, a lamp that makes light of a narrow colour band and can be dimmed precisely."
+     },
+     {
+      "term": "PPFD",
+      "plain": "Photosynthetic photon flux density, the number of light particles between 400 and 700 nanometres landing on a square metre each second."
+     },
+     {
+      "term": "Daily light integral (DLI)",
+      "plain": "The total amount of plant-usable light a plant receives over a whole day."
+     },
+     {
+      "term": "Light use efficiency",
+      "plain": "How many grams of plant grow for each unit of light delivered."
+     },
+     {
+      "term": "Far-red light",
+      "plain": "Light just past the red end of the rainbow, from about 700 to 800 nanometres, which people barely see but plants sense strongly."
+     },
+     {
+      "term": "Photoperiod",
+      "plain": "The number of hours of light a plant gets each day."
+     },
+     {
+      "term": "Phytochrome",
+      "plain": "A light-sensing pigment in plants that red light switches on and far-red light or darkness switches off."
+     },
+     {
+      "term": "Shade avoidance",
+      "plain": "A plant's response to more far red, such as stretching its stems and lifting its leaves, as if neighbours were shading it."
+     },
+     {
+      "term": "Chlorophyll",
+      "plain": "The green pigment in leaves that captures light for photosynthesis."
+     },
+     {
+      "term": "Quantitative review",
+      "plain": "A review that counts and summarises the results of many studies on the same question."
+     }
+    ],
+    "history_culture": [
+     {
+      "title": "Garner and Allard (1920), Effect of the relative length of day and night on growth and reproduction in plants (Journal of Agricultural Research, vol. 18, Internet Archive)",
+      "url": "https://archive.org/details/journalofagricul18unit",
+      "why": "The USDA paper that named photoperiodism, with photographs of its soybean trials (pages 553 to 606 and plates)."
+     },
+     {
+      "title": "NASA image record KSC-20150810-PH-NAS01_0001: VEG-01B plants at harvest",
+      "url": "https://images.nasa.gov/details/KSC-20150810-PH-NAS01_0001",
+      "why": "NASA's record of the first crop grown and eaten in its own hardware on the space station, Aug 10, 2015, grown under LEDs."
+     }
+    ],
+    "corrections": []
+   }
   },
   {
    "slug": "pdaw04",
@@ -76760,7 +78523,275 @@
      "url": "https://doi.org/10.1371/journal.pone.0356728",
      "card": false
     }
-   ]
+   ],
+   "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "summary": [
+      "The Sphinx Gate, a walk-through rite of passage between two 44-foot sphinxes, won the Architectural & Space award at Psychedelics Design 2026.",
+      "Vast scenes, videos and memories reliably make people feel awe and a smaller sense of self.",
+      "But in six larger repeat studies, brief awe barely changed kindness, belief or life satisfaction, and no one has studied the Sphinx Gate itself."
+     ],
+     "how_sure": "mixed",
+     "how_sure_note": "Stirring awe in a study works almost every time, but its after-effects held up poorly in larger repeats, and other reviews still find positive averages, so the question is contested.",
+     "reading_minutes": 3
+    },
+    "claims": [
+     {
+      "claim": "The Sphinx Gate, two 44-foot sphinxes first built for Burning Man 2025, won Architectural & Space at Psychedelics Design 2026.",
+      "source": "Psychedelics Design (2026). The Sphinx Gate: An immersive rite of passage, award winner page (public page read Nov 7, 2026)",
+      "where": "Winner page heading (\"Winner Architectural & Space\") and Description",
+      "study": "organiser's listing"
+     },
+     {
+      "claim": "Visitors name a thought that keeps them stuck, cross four portals, then weave it on a tag into a shared net.",
+      "source": "Psychedelics Design (2026). The Sphinx Gate: An immersive rite of passage, award winner page (public page read Nov 7, 2026)",
+      "where": "Winner page, Description (Mind, Body, Heart and Story portals; tag and shared net)",
+      "study": "organiser's description"
+     },
+     {
+      "claim": "Its makers call it \"Part temple. Part emotional gym. Part quest.\"",
+      "source": "The Sphinx Gate (n.d.). Project website (public page read Nov 7, 2026)",
+      "where": "Home page, The Invitation",
+      "study": "makers' own words"
+     },
+     {
+      "claim": "Each crossing starts at a sign for the Seeker.",
+      "source": "The Sphinx Gate (n.d.). Project website (public page read Nov 7, 2026)",
+      "where": "The site greets visitors with \"Welcome, Seeker\"; the sign itself is shown in a frame of the team's award film (IMAGE-AUDIT, slide 3)",
+      "study": "makers' own site and film"
+     },
+     {
+      "claim": "The work won at the Day 2 awards session, where the team's award video was shown.",
+      "source": "Psychedelics Design 2026, Day 2 awards session, RN's cleaned transcript (fatnugs-pd26-materials/granola/2026-11-07_day2_transcript.txt, read Nov 7, 2026)",
+      "where": "Day 2 transcript, acceptance video; Winners Gallery 2026 page",
+      "study": "event record"
+     },
+     {
+      "claim": "Psychologists define awe by two parts: something vast, and a need to rethink how you see the world.",
+      "source": "Graziosi, M., Chirico, A., Clifton, J. D. W., Rohde, J. S., Chhabra, R., & Yaden, D. B. (2026). A series of replication attempts of experimental awe-induction effects. PLOS One, 21(9), e0356728 (full text read Nov 7, 2026, Europe PMC PMC13537573, CC BY 4.0)",
+      "where": "Introduction (definition after Keltner and Haidt, 2003)",
+      "study": "definition reported in the paper"
+     },
+     {
+      "claim": "In 625 adults online, a four-minute nature video raised feelings of vastness and of a smaller self, against a neutral clip.",
+      "source": "Graziosi, M., Chirico, A., Clifton, J. D. W., Rohde, J. S., Chhabra, R., & Yaden, D. B. (2026). A series of replication attempts of experimental awe-induction effects. PLOS One, 21(9), e0356728 (full text read Nov 7, 2026, Europe PMC PMC13537573, CC BY 4.0)",
+      "where": "Study 1, Materials and Table 4 (vastness 5.11 against 3.50; self-diminishment 4.03 against 2.68)",
+      "study": "one online experiment, 625 adults"
+     },
+     {
+      "claim": "Across six studies and 33 outcomes, only three differences turned up.",
+      "source": "Graziosi, M., Chirico, A., Clifton, J. D. W., Rohde, J. S., Chhabra, R., & Yaden, D. B. (2026). A series of replication attempts of experimental awe-induction effects. PLOS One, 21(9), e0356728 (full text read Nov 7, 2026, Europe PMC PMC13537573, CC BY 4.0)",
+      "where": "General Discussion (\"Of 6 studies with 33 total outcomes, only a few were significant\"; one in the conceptual and two in the direct replications)",
+      "study": "six studies (three conceptual, three direct replications), 2,037 adults in all"
+     },
+     {
+      "claim": "Earlier studies averaged 107 people; the repeats averaged 598.",
+      "source": "Graziosi, M., Chirico, A., Clifton, J. D. W., Rohde, J. S., Chhabra, R., & Yaden, D. B. (2026). A series of replication attempts of experimental awe-induction effects. PLOS One, 21(9), e0356728 (full text read Nov 7, 2026, Europe PMC PMC13537573, CC BY 4.0)",
+      "where": "Introduction, present research (107 per study, range 63 to 264; average 598 except Study 3)",
+      "study": "six studies (three conceptual, three direct replications), 2,037 adults in all"
+     },
+     {
+      "claim": "The three direct repeats used about 2.5 times the original samples, and the awe inductions worked in five of six studies.",
+      "source": "Graziosi, M., Chirico, A., Clifton, J. D. W., Rohde, J. S., Chhabra, R., & Yaden, D. B. (2026). A series of replication attempts of experimental awe-induction effects. PLOS One, 21(9), e0356728 (full text read Nov 7, 2026, Europe PMC PMC13537573, CC BY 4.0)",
+      "where": "Direct replications, Methods (300 against 120, 188 against 75, 263 against 105); Study 6 Results (the story did not raise awe)",
+      "study": "six studies (three conceptual, three direct replications), 2,037 adults in all"
+     },
+     {
+      "claim": "Writing about an awe memory raised \"something greater than myself\" to 5.07 of 7, against about 4.0 after pride and 3.16 after an everyday memory.",
+      "source": "Graziosi, M., Chirico, A., Clifton, J. D. W., Rohde, J. S., Chhabra, R., & Yaden, D. B. (2026). A series of replication attempts of experimental awe-induction effects. PLOS One, 21(9), e0356728 (full text read Nov 7, 2026, Europe PMC PMC13537573, CC BY 4.0)",
+      "where": "Study 5, Fig. 5 and planned contrasts (the Results text swaps the pride and neutral labels; the figure and contrasts agree)",
+      "study": "one online direct replication, 188 adults"
+     },
+     {
+      "claim": "A VR flight from a building out to the whole Earth raised awe and changed none of the outcomes measured.",
+      "source": "Graziosi, M., Chirico, A., Clifton, J. D. W., Rohde, J. S., Chhabra, R., & Yaden, D. B. (2026). A series of replication attempts of experimental awe-induction effects. PLOS One, 21(9), e0356728 (full text read Nov 7, 2026, Europe PMC PMC13537573, CC BY 4.0)",
+      "where": "Study 3, Results and Table 8 (vastness 5.65 against 3.50 in a white room; outcomes null)",
+      "study": "one lab experiment, 91 students"
+     },
+     {
+      "claim": "Brief awe barely changed kindness, belief or life satisfaction in the larger repeats.",
+      "source": "Graziosi, M., Chirico, A., Clifton, J. D. W., Rohde, J. S., Chhabra, R., & Yaden, D. B. (2026). A series of replication attempts of experimental awe-induction effects. PLOS One, 21(9), e0356728 (full text read Nov 7, 2026, Europe PMC PMC13537573, CC BY 4.0)",
+      "where": "Studies 4 to 6, Results (ethics n.s.; supernatural control only against neutral; no time or satisfaction effect)",
+      "study": "six studies (three conceptual, three direct replications), 2,037 adults in all"
+     },
+     {
+      "claim": "Maybe brief awe is too subtle to change much, or smaller earlier studies found effects by chance, the authors suggest.",
+      "source": "Graziosi, M., Chirico, A., Clifton, J. D. W., Rohde, J. S., Chhabra, R., & Yaden, D. B. (2026). A series of replication attempts of experimental awe-induction effects. PLOS One, 21(9), e0356728 (full text read Nov 7, 2026, Europe PMC PMC13537573, CC BY 4.0)",
+      "where": "General Discussion and Limitations",
+      "study": "authors' explanations"
+     },
+     {
+      "claim": "No one has studied the Sphinx Gate itself.",
+      "source": "Graziosi, M., Chirico, A., Clifton, J. D. W., Rohde, J. S., Chhabra, R., & Yaden, D. B. (2026). A series of replication attempts of experimental awe-induction effects. PLOS One, 21(9), e0356728 (full text read Nov 7, 2026, Europe PMC PMC13537573, CC BY 4.0)",
+      "where": "AaN gap search on Nov 20, 2026 (Europe PMC: \"Sphinx Gate\" 0 hits); the paper tests lab inductions only",
+      "study": "absence of evidence"
+     }
+    ],
+    "annotations": [
+     {
+      "source": "Graziosi, M., Chirico, A., Clifton, J. D. W., Rohde, J. S., Chhabra, R., & Yaden, D. B. (2026). A series of replication attempts of experimental awe-induction effects. PLOS One, 21(9), e0356728 (full text read Nov 7, 2026, Europe PMC PMC13537573, CC BY 4.0)",
+      "doi": "https://doi.org/10.1371/journal.pone.0356728",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13537573/",
+      "group": "primary",
+      "note": "Johns Hopkins-led series of six awe studies: three conceptual replications (2018 to 2019) and three direct repeats of well-known experiments run in 2025 with about 2.5 times the original samples. Awe was easy to raise, but of 33 outcomes only three differed, and those only partly. Limits: mostly online samples, a fixed order of questions in the first three studies, and one induction that failed to raise awe.",
+      "funding": "The author(s) received no specific funding for this work.",
+      "conflicts": "The authors have declared that no competing interests exist."
+     },
+     {
+      "source": "Psychedelics Design (2026). The Sphinx Gate: An immersive rite of passage, award winner page (public page read Nov 7, 2026)",
+      "group": "official",
+      "note": "The awards organiser's page for the winning entry: category, design team, the 44-foot size, the four portals, the shared net and the count of about ten thousand visitors. It describes the work in the makers' terms and makes no claim about its effects that has been tested.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     },
+     {
+      "source": "The Sphinx Gate (n.d.). Project website (public page read Nov 7, 2026)",
+      "group": "official",
+      "note": "The makers' own site, with their description of the rite, the 44-foot originals at Burning Man 2025 and plans for smaller portals. It is promotional and includes a visitor testimonial; it reports no study of effects.",
+      "funding": "The site says the project raised $250K from community and grants and takes donations through a fiscal sponsor.",
+      "conflicts": "not stated"
+     },
+     {
+      "source": "Psychedelics Design 2026, Day 2 awards session, RN's cleaned transcript (fatnugs-pd26-materials/granola/2026-11-07_day2_transcript.txt, read Nov 7, 2026)",
+      "group": "official",
+      "note": "A machine transcript of the Day 2 awards session, used only for the winner announcement and the team's acceptance video. Its spellings of team names differ from the winner page, which is used for credits.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     }
+    ],
+    "could_be_wrong": [
+     {
+      "point": "The repeat studies could have missed real effects: the first three used a fixed order of questions, two drew online workers, and the authors suggest brief lab awe may be too subtle to change much.",
+      "source": "Graziosi et al. (2026), Limitations and General Discussion",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13537573/"
+     },
+     {
+      "point": "One direct repeat did not raise awe at all (2.76 against 2.48), so its null results on time and life satisfaction do not test the original claim.",
+      "source": "Graziosi et al. (2026), Study 6",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13537573/"
+     },
+     {
+      "point": "The paper's text and figure disagree on Study 5: the Results text swaps the pride and neutral labels, while Fig. 5 and the planned contrasts agree with each other.",
+      "source": "Graziosi et al. (2026), Study 5 and Fig. 5",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13537573/"
+     },
+     {
+      "point": "Effects on time are mixed: in Amsterdam, awe videos did not reliably change time judgments in two small studies, while a Utah team found vaster images lengthened judged time.",
+      "source": "van Elk and Rotteveel (2020), Attention, Perception, and Psychophysics",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7303062/"
+     },
+     {
+      "point": "Awe can stretch or shrink time depending on what people are timing: longer when timing the images themselves, shorter when timing something else during them.",
+      "source": "Droit-Volet, Dambrun and Monier (2024), Acta Psychologica",
+      "url": "https://cnrs.hal.science/hal-04790550"
+     },
+     {
+      "point": "Longer, repeated awe may matter more than a single clip: in an eight-week awe-walk trial with 52 older adults, daily prosocial emotions rose and daily distress fell, though anxiety, depression, life satisfaction and helping did not change.",
+      "source": "Sturm et al. (2022), Emotion",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8034841/"
+     },
+     {
+      "point": "A small trial of four weekly online awe sessions in 68 adults with long COVID found less stress and depression and more well-being, but it used a waitlist control and short follow-up.",
+      "source": "Monroy et al. (2025), Scientific Reports",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12069556/"
+     }
+    ],
+    "go_deeper": {
+     "new": [
+      {
+       "title": "Hoffman (2015), How awe makes us generous, Greater Good Magazine",
+       "url": "https://greatergood.berkeley.edu/article/item/how_awe_makes_us_generous",
+       "why": "A plain account of the eucalyptus-grove experiment that the repeat studies later tested."
+      }
+     ],
+     "serious": [
+      {
+       "title": "Keltner and Haidt (2003), Approaching awe, a moral, spiritual, and aesthetic emotion",
+       "url": "https://greatergood.berkeley.edu/dacherkeltner/docs/keltner.haidt.awe.2003.pdf",
+       "why": "The paper that set out vastness and accommodation as the two parts of awe."
+      },
+      {
+       "title": "Monroy and Keltner (2023), Awe as a pathway to mental and physical health",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10018061/",
+       "why": "An open review that calls the health evidence promising and preliminary."
+      }
+     ],
+     "expert": [
+      {
+       "title": "Graziosi et al. (2026), replication data and preregistration, Open Science Framework",
+       "url": "https://osf.io/458qc/",
+       "why": "The data and plans behind the 2025 direct repeats."
+      },
+      {
+       "title": "Gill et al. (2022), awe, vastness and time, Attention, Perception, and Psychophysics",
+       "url": "https://doi.org/10.3758/s13414-022-02542-y",
+       "why": "Three Utah experiments separating vastness from image brightness and layout."
+      },
+      {
+       "title": "Sturm et al. (2022) trial registration, ClinicalTrials.gov NCT03550144",
+       "url": "https://clinicaltrials.gov/study/NCT03550144",
+       "why": "How the awe-walk trial was planned before it began."
+      }
+     ]
+    },
+    "listen_watch": [
+     {
+      "title": "The Science of Happiness, Episode 86: Scheduling Time to Feel Awe(some)",
+      "speaker": "Dacher Keltner (host), with Chris Duffy and Virginia Sturm",
+      "credentials": "Keltner is a UC Berkeley psychologist and co-author of the 2003 definition of awe; Sturm is an associate professor at the University of California, San Francisco, who led the awe-walk study (as introduced in the episode)",
+      "conflicts": "none stated; Keltner helped develop the Awe Walk practice and co-authored the awe-walk study discussed, and the show is produced by his Greater Good Science Center with PRX",
+      "url": "https://greatergood.berkeley.edu/podcasts/item/scheduling_time_to_feel_awe_chris_duffy",
+      "length": "20:43",
+      "why": "Sturm describes the eight-week awe-walk study of adults 60 to 90, including selfies that showed less of the walkers over time; recorded in 2021, before the 2026 repeat studies.",
+      "checked": "transcript read",
+      "checked_on": "2026-11-20"
+     }
+    ],
+    "glossary": [
+     {
+      "term": "Awe",
+      "plain": "The feeling of meeting something vast that does not fit how you understand the world."
+     },
+     {
+      "term": "Vastness",
+      "plain": "The sense that something is much larger than you, in size, time or importance."
+     },
+     {
+      "term": "Accommodation",
+      "plain": "The need to update your picture of the world to take in something new."
+     },
+     {
+      "term": "Small self",
+      "plain": "Feeling that you and your concerns are less important next to something larger."
+     },
+     {
+      "term": "Replication",
+      "plain": "Repeating a study to see if the same result appears again."
+     },
+     {
+      "term": "Direct replication",
+      "plain": "A repeat that copies the original study's methods as closely as possible."
+     },
+     {
+      "term": "Conceptual replication",
+      "plain": "A repeat that tests the same idea with different methods."
+     },
+     {
+      "term": "Induction",
+      "plain": "A task, such as a video or a memory, used in a study to bring on a feeling."
+     },
+     {
+      "term": "Outcome",
+      "plain": "Something a study measures to see whether the change made a difference."
+     }
+    ],
+    "safety": {
+     "relevant": false,
+     "note": "Education, not medical advice. A design award and research on awe; no treatment or dosing information."
+    },
+    "corrections": []
+   }
   },
   {
    "slug": "pdn02",
@@ -76894,7 +78925,336 @@
      "url": "https://doi.org/10.1098/rstb.2020.0390",
      "card": false
     }
-   ]
+   ],
+   "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "summary": [
+      "These notes pair Day 2 of the Psychedelics Design 2026 festival with one checked brain fact per session, labelled as background where no speaker said it.",
+      "The firmest fact is that classic psychedelics act mainly at one serotonin receptor, called 2A; the brain's place and grid cells and the bouba and kiki match are also well supported.",
+      "The weakest is the link to nature: people said they felt more connected to nature after a psychedelic experience, but the survey lost most of its sample and climate action was never measured."
+     ],
+     "how_sure": "mixed",
+     "how_sure_note": "Several facts rest on large or long-replicated studies, but the nature finding is early and observational, and the Indigenous principles are a consensus statement with no outcome data.",
+     "reading_minutes": 3
+    },
+    "claims": [
+     {
+      "claim": "In surveys before and after a psychedelic experience, felt nature connection rose; climate action went unmeasured.",
+      "source": "Kettner, H., Gandy, S., Haijen, E. C. H. M., & Carhart-Harris, R. L. (2019). From egoism to ecoism: Psychedelics increase nature relatedness in a state-mediated and context-dependent manner. International Journal of Environmental Research and Public Health, 16(24), 5147 (full text read Nov 6, 2026, Europe PMC PMC6949937, CC BY 4.0; reused from PDA02, batch-pd26-04)",
+      "where": "Results 3 and 3.1 (654 at baseline, 64 at two years; NR-6 score 4.01 at baseline, 4.38 at two years); Discussion (ageing and attrition bias named)",
+      "study": "prospective online survey, self-selected adults, 654 at baseline"
+     },
+     {
+      "claim": "In 1928 Klüver sorted visions into recurring forms: lattices, cobwebs, tunnels, spirals.",
+      "source": "Klüver, H. (1928). Mescal: The 'divine' plant and its psychological effects. Kegan Paul, Trench, Trubner (full text read Nov 6, 2026, Internet Archive scan, Public Domain Mark 1.0; facts only; reused from PDV01)",
+      "where": "pp. 36 to 39 (\"We may call them form-constants\", p. 36; the spiral, p. 39)",
+      "study": "a 1928 monograph on mescaline experiences, descriptive"
+     },
+     {
+      "claim": "Klüver's four groups of form constants, as later summarised by modelers of the visual cortex.",
+      "source": "Bressloff, P. C., Cowan, J. D., Golubitsky, M., Thomas, P. J., & Wiener, M. C. (2002). What geometric visual hallucinations tell us about the visual cortex. Neural Computation, 14(3), 473-491 (full text read Nov 6, 2026, Imperial College London Spiral repository copy; facts only; reused from PDV01, batch-pd26-01)",
+      "where": "Introduction, Klüver's form constants (as reported)",
+      "study": "mathematical modelling paper"
+     },
+     {
+      "claim": "Rat place cells fire at one spot; grid cells fire in a hexagonal grid.",
+      "source": "Nobel Assembly at Karolinska Institutet. (2014, October 6). The Nobel Prize in Physiology or Medicine 2014: Press release (full text read Nov 6, 2026, nobelprize.org; facts only; reused from PDS01, batch-pd26-03)",
+      "where": "Press release, Oct 6, 2014: place cells in the hippocampus, grid cells in the entorhinal cortex",
+      "study": "Nobel committee summary of decades of animal research"
+     },
+     {
+      "claim": "Grid cells show hexagonal firing fields in the rat medial entorhinal cortex (slide image).",
+      "source": "Ulsaker-Janke, I., Waaga, T., Waaga, T., Moser, E. I., & Moser, M.-B. (2023). Grid cells in rats deprived of geometric experience during development. PNAS, 120(41), e2310820120 (full text opened Nov 6, 2026, Europe PMC PMC10576132, CC BY; read for the figures and the passages used)",
+      "where": "Figs. 1, 2 and 5",
+      "study": "rat electrophysiology study"
+     },
+     {
+      "claim": "Classic psychedelics act mainly at one receptor, serotonin 2A, then reach mind and body through several pathways.",
+      "source": "Kuypers, K. P. C. (2026). Molecules, meaning, and physiology: Disentangling the active ingredients of psychedelic therapeutics. Frontiers in Neuroscience, 20, 1892474 (full text read Nov 6, 2026, Europe PMC PMC13478107, CC BY 4.0; reused from PDH01)",
+      "where": "Section on pathways: \"Classic psychedelics act primarily as 5-HT2A receptor agonists\"",
+      "study": "perspective article"
+     },
+     {
+      "claim": "The serotonin 2A receptor is the starting point: blocking it prevents or reverses the effects of psilocybin, LSD and ayahuasca in people.",
+      "source": "Pettorruso, M., d'Andrea, G., Inserra, A., Cavallotto, C., Censi, S., Billard, E., Di Stefano, A., De Risio, L., Tullo, M. G., D'Addario, C., Di Lorenzo, G., Wise, R. G., Sensi, S. L., Zoratto, F., & Martinotti, G. (2026). Mechanistic insights toward dissociating therapeutic from psychedelic effects. Translational Psychiatry, 16, 458 (full text read Nov 6, 2026, Europe PMC PMC13554188, CC BY-NC-ND 4.0; facts only; reused from PDH01, batch-pd26-02)",
+      "where": "Clinical evidence sections on 5-HT2A antagonism (a dopamine blocker \"had no impact on the subjective effects\")",
+      "study": "perspective review of human and animal studies"
+     },
+     {
+      "claim": "Of 310 students, about half preferred middle-roughness fractals; a fifth smooth, a fifth rough.",
+      "source": "Spehar, B., Walker, N., & Taylor, R. P. (2016). Taxonomy of individual variations in aesthetic responses to fractal patterns. Frontiers in Human Neuroscience, 10, 350 (full text read Nov 6, 2026, Europe PMC PMC4937063, CC BY 4.0; reused from PDFR01)",
+      "where": "Abstract and Experiment 1 (approx. 50% intermediate, 20% smooth, 20% sharp, 10% other); replicated in Experiment 2",
+      "study": "two lab experiments, 310 undergraduates in Experiment 1"
+     },
+     {
+      "claim": "A strong average: preference peaks for middle-roughness fractals.",
+      "source": "Taylor, R. P., Spehar, B., Van Donkelaar, P., & Hagerhall, C. M. (2011). Perceptual and physiological responses to Jackson Pollock's fractals. Frontiers in Human Neuroscience, 5, 60 (full text read Nov 6, 2026, Europe PMC PMC3124832; facts and short quotes with credit; reused from PDFR01, batch-pd26-09)",
+      "where": "Visual preference section: 220 participants, preference peaks at fractal dimension 1.3 to 1.5 (Spehar et al., 2003, as reported)",
+      "study": "review of the authors' own fractal research"
+     },
+     {
+      "claim": "Across 25 languages, 72% matched bouba to round and kiki to spiky shapes.",
+      "source": "Ćwiek, A., Fuchs, S., Draxler, C., Asu, E. L., Dediu, D., Hiovain, K., et al. (2022). The bouba/kiki effect is robust across cultures and writing systems. Philosophical Transactions of the Royal Society B, 377(1841), 20200390 (full text read Nov 6, 2026, Europe PMC PMC8591387, CC BY 4.0; reused from PDM02, batch-pd26-06)",
+      "where": "Results (a): posterior mean 72%, 95% credible interval 56% to 82%; 917 participants, 10 scripts",
+      "study": "online cross-language experiment, 917 people"
+     },
+     {
+      "claim": "An Indigenous-led consensus statement sets out eight ethical principles.",
+      "source": "Celidwen, Y., Redvers, N., Githaiga, C., Calambas, J., Ananos, K., Chindoy, M. E., Vitale, R., Rojas, J. N., Mondragon, D., Rosalio, Y. V., & Sacbaja, A. (2023). Ethical principles of traditional Indigenous medicine to guide western psychedelic research and practice. The Lancet Regional Health: Americas, 18, 100410 (full text read Nov 6, 2026, Europe PMC PMC9950658, CC BY-NC-ND 4.0; facts only; reused from PDB01, batch-pd26-07)",
+      "where": "Summary and Results: eight principles; consensus process Oct 2021 to Mar 2022, members from eight countries",
+      "study": "consensus statement, no outcome data"
+     }
+    ],
+    "annotations": [
+     {
+      "source": "Kettner, H., Gandy, S., Haijen, E. C. H. M., & Carhart-Harris, R. L. (2019). From egoism to ecoism: Psychedelics increase nature relatedness in a state-mediated and context-dependent manner. International Journal of Environmental Research and Public Health, 16(24), 5147 (full text read Nov 6, 2026, Europe PMC PMC6949937, CC BY 4.0; reused from PDA02, batch-pd26-04)",
+      "doi": "https://doi.org/10.3390/ijerph16245147",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6949937/",
+      "group": "primary",
+      "note": "People planning a psychedelic experience filled in surveys before and up to two years after; nature relatedness rose, more so with stronger ego dissolution and natural surroundings. Limits named by the authors: the sample fell from 654 to 64, those who stayed may differ (attrition bias), and part of the rise may reflect ageing.",
+      "funding": "H.K. and R.L.C.-H. are supported by the Centre for Psychedelic Research, whose founders include: Shamil Chandaria (Ad Astra Trust), Tim Ferriss, The Singhal Health Foundation and the Tamas family, and supporters include the Alex Mosley Charitable Trust, Amanda Eilian and Brian Rose, CEO of London Real.",
+      "conflicts": "The authors declare no conflict of interest."
+     },
+     {
+      "source": "Bressloff, P. C., Cowan, J. D., Golubitsky, M., Thomas, P. J., & Wiener, M. C. (2002). What geometric visual hallucinations tell us about the visual cortex. Neural Computation, 14(3), 473-491 (full text read Nov 6, 2026, Imperial College London Spiral repository copy; facts only; reused from PDV01, batch-pd26-01)",
+      "doi": "https://doi.org/10.1162/089976602317250861",
+      "group": "primary",
+      "note": "A mathematical model of the visual cortex that explains why the same geometric forms recur in visions, in flickering light and when falling asleep; it reports Klüver's four groups of form constants. Limits: a model, not an experiment in people.",
+      "funding": "not stated in what was checked for this page (the publisher page blocked this client on Nov 20, 2026)",
+      "conflicts": "not stated in what was checked for this page"
+     },
+     {
+      "source": "Klüver, H. (1928). Mescal: The 'divine' plant and its psychological effects. Kegan Paul, Trench, Trubner (full text read Nov 6, 2026, Internet Archive scan, Public Domain Mark 1.0; facts only; reused from PDV01)",
+      "group": "book",
+      "note": "Klüver's 1928 monograph on mescaline, which names the recurring shapes of visions \"form-constants\": lattices and the closely related cobweb, tunnel or funnel, and spiral. Limits: descriptive first-person reports, written before modern methods.",
+      "funding": "not stated (book)",
+      "conflicts": "not stated (book)"
+     },
+     {
+      "source": "Celidwen, Y., Redvers, N., Githaiga, C., Calambas, J., Ananos, K., Chindoy, M. E., Vitale, R., Rojas, J. N., Mondragon, D., Rosalio, Y. V., & Sacbaja, A. (2023). Ethical principles of traditional Indigenous medicine to guide western psychedelic research and practice. The Lancet Regional Health: Americas, 18, 100410 (full text read Nov 6, 2026, Europe PMC PMC9950658, CC BY-NC-ND 4.0; facts only; reused from PDB01, batch-pd26-07)",
+      "doi": "https://doi.org/10.1016/j.lana.2022.100410",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9950658/",
+      "group": "review",
+      "note": "An Indigenous-led group from eight countries, meeting from October 2021 to March 2022, set out eight principles for Western psychedelic research and practice, including relationship building first and free, prior and informed consent. Limits: a consensus statement that guides practice and measures no outcomes.",
+      "funding": "This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.",
+      "conflicts": "We declare no competing interests."
+     },
+     {
+      "source": "Nobel Assembly at Karolinska Institutet. (2014, October 6). The Nobel Prize in Physiology or Medicine 2014: Press release (full text read Nov 6, 2026, nobelprize.org; facts only; reused from PDS01, batch-pd26-03)",
+      "group": "official",
+      "note": "The Nobel Assembly's summary of the 2014 prize: place cells in the hippocampus and grid cells in the entorhinal cortex form the brain's positioning system. Limits: a press summary; the discoveries were made mainly in rats.",
+      "funding": "not stated (official press release)",
+      "conflicts": "none declared"
+     },
+     {
+      "source": "Pettorruso, M., d'Andrea, G., Inserra, A., Cavallotto, C., Censi, S., Billard, E., Di Stefano, A., De Risio, L., Tullo, M. G., D'Addario, C., Di Lorenzo, G., Wise, R. G., Sensi, S. L., Zoratto, F., & Martinotti, G. (2026). Mechanistic insights toward dissociating therapeutic from psychedelic effects. Translational Psychiatry, 16, 458 (full text read Nov 6, 2026, Europe PMC PMC13554188, CC BY-NC-ND 4.0; facts only; reused from PDH01, batch-pd26-02)",
+      "doi": "https://doi.org/10.1038/s41398-026-04203-2",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13554188/",
+      "group": "review",
+      "note": "A perspective asking whether psychedelics' therapeutic effects can be separated from the trip: in human studies, 2A blockers prevent or reverse the effects of psilocybin, LSD and ayahuasca. Limits: a perspective, not a systematic review, and it notes that no human study has settled whether therapy needs the 2A receptor.",
+      "funding": "Funded by the European Union, NextGenerationEU, within the Italian National Recovery and Resilience Plan (projects PNRR-MCNT2-2023-12377068, PRIDE, and PNRR-MAD-2022-12376693, BOARDING-PASS), and the MUR PNRR project MNESYS (PE0000006); several authors declare no relevant funding.",
+      "conflicts": "The authors declare no competing interest."
+     },
+     {
+      "source": "Kuypers, K. P. C. (2026). Molecules, meaning, and physiology: Disentangling the active ingredients of psychedelic therapeutics. Frontiers in Neuroscience, 20, 1892474 (full text read Nov 6, 2026, Europe PMC PMC13478107, CC BY 4.0; reused from PDH01)",
+      "doi": "https://doi.org/10.3389/fnins.2026.1892474",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13478107/",
+      "group": "review",
+      "note": "A perspective that starts from classic psychedelics acting mainly at the 5-HT2A receptor and proposes three research probes (a single low amount, breathwork and vagus nerve stimulation) to separate chemistry, experience and body signals. Limits: a proposal for research, not new data.",
+      "funding": "The author(s) declared that financial support was not received for this work and/or its publication.",
+      "conflicts": "The author(s) declared that this work was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+     },
+     {
+      "source": "Taylor, R. P., Spehar, B., Van Donkelaar, P., & Hagerhall, C. M. (2011). Perceptual and physiological responses to Jackson Pollock's fractals. Frontiers in Human Neuroscience, 5, 60 (full text read Nov 6, 2026, Europe PMC PMC3124832; facts and short quotes with credit; reused from PDFR01, batch-pd26-09)",
+      "doi": "https://doi.org/10.3389/fnhum.2011.00060",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3124832/",
+      "group": "review",
+      "note": "The authors review ten years of their own studies of how people respond to fractals, including a preference peak at fractal dimension 1.3 to 1.5 in 220 participants. Limits: a review of one group's work, with averages that hide individual differences.",
+      "funding": "not stated",
+      "conflicts": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+     },
+     {
+      "source": "Spehar, B., Walker, N., & Taylor, R. P. (2016). Taxonomy of individual variations in aesthetic responses to fractal patterns. Frontiers in Human Neuroscience, 10, 350 (full text read Nov 6, 2026, Europe PMC PMC4937063, CC BY 4.0; reused from PDFR01)",
+      "doi": "https://doi.org/10.3389/fnhum.2016.00350",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4937063/",
+      "group": "primary",
+      "note": "Two experiments found that about half of people prefer middle-roughness patterns, about a fifth the smoothest, a fifth the roughest, and a tenth no clear pattern, and that each person's preference is stable across image types. Limits: university psychology students in Australia.",
+      "funding": "This work was supported by an Australian Research Council grant DP120103659 to BS and RPT.",
+      "conflicts": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+     },
+     {
+      "source": "Ćwiek, A., Fuchs, S., Draxler, C., Asu, E. L., Dediu, D., Hiovain, K., et al. (2022). The bouba/kiki effect is robust across cultures and writing systems. Philosophical Transactions of the Royal Society B, 377(1841), 20200390 (full text read Nov 6, 2026, Europe PMC PMC8591387, CC BY 4.0; reused from PDM02, batch-pd26-06)",
+      "doi": "https://doi.org/10.1098/rstb.2020.0390",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8591387/",
+      "group": "primary",
+      "note": "An online test of 917 speakers of 25 languages and 10 writing systems found the bouba and kiki match in 72% of answers, with only a small edge for Roman-script languages. Limits: an online survey, with as few as 10 participants for some languages.",
+      "funding": "This work was funded by a grant for the PSIMS project (DFG XPrag.de, FU 791/6-1) for A.C. and S.F.; D.D. was funded by IDEXLYON Fellowship grant no. 16-IDEX-0005. B.W. was supported by the UKRI Future Leaders Fellowship MR/T040505/1.",
+      "conflicts": "The authors declare no competing interests."
+     },
+     {
+      "source": "Ulsaker-Janke, I., Waaga, T., Waaga, T., Moser, E. I., & Moser, M.-B. (2023). Grid cells in rats deprived of geometric experience during development. PNAS, 120(41), e2310820120 (full text opened Nov 6, 2026, Europe PMC PMC10576132, CC BY; read for the figures and the passages used)",
+      "doi": "https://doi.org/10.1073/pnas.2310820120",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10576132/",
+      "group": "primary",
+      "note": "Rats raised in opaque spheres with no straight walls still formed grid cells as adults, though symmetric grid patterns appeared more slowly in a new square box and caught up after about a week. Limits: rats, with 10, 9 and 5 animals in the sphere, cube and enriched rearing groups.",
+      "funding": "European Research Council Advanced Investigator Grant (ENSEMBLE, 268598); Research Council of Norway (223262, 295721); K.G. Jebsen Foundation (SKGJ-MED-022); the Kavli Foundation, the Louis Jeantet Prize and the Körber Prize; and the Ministry of Education and Research of Norway.",
+      "conflicts": "The authors declare no competing interest."
+     }
+    ],
+    "could_be_wrong": [
+     {
+      "point": "The rise in nature relatedness may be partly an artefact: the survey kept only 64 of 654 people at two years, and the authors name attrition bias and ageing as possible explanations.",
+      "source": "Kettner et al. (2019), Discussion",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6949937/"
+     },
+     {
+      "point": "In a pooled analysis of 3,817 people, only past psilocybin use reliably predicted nature relatedness, so the link may not hold for psychedelics in general; all of it is self-report from people who chose to take the drugs.",
+      "source": "Forstmann et al. (2023)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9834326/"
+     },
+     {
+      "point": "Whether the therapeutic benefit of psychedelics needs the 2A receptor is open: no human study has settled it.",
+      "source": "Pettorruso et al. (2026)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13554188/"
+     },
+     {
+      "point": "The fractal preference average hides real differences: about half of people show it, while two fifths prefer the smoothest or the roughest patterns.",
+      "source": "Spehar, Walker and Taylor (2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4937063/"
+     },
+     {
+      "point": "The 72 percent bouba and kiki figure has a wide uncertainty range (56 to 82 percent), and some languages had as few as 10 participants.",
+      "source": "Ćwiek et al. (2022), Results",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8591387/"
+     },
+     {
+      "point": "How a room or its music shapes a psychedelic session is barely tested: a 2026 review found 10 studies with 330 people on music, with small samples and inconsistent methods, and none compared live with recorded music.",
+      "source": "Rowe et al. (2026)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13297023/"
+     }
+    ],
+    "go_deeper": {
+     "new": [
+      {
+       "title": "Carroll et al. (2020), The CARE Principles for Indigenous Data Governance",
+       "url": "https://datascience.codata.org/articles/10.5334/dsj-2020-043",
+       "why": "A short open paper on four principles for data about Indigenous peoples, discussed at the Day 2 panel."
+      },
+      {
+       "title": "Rodríguez Arce and Winkelman (2021), Psychedelics, sociality, and human evolution",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8514078/",
+       "why": "An open review that weighs the Stoned Ape idea raised in the history keynote."
+      }
+     ],
+     "serious": [
+      {
+       "title": "Lima da Cruz, Leão and Moulin (2024), Effects of psychedelics on neurogenesis and broader neuroplasticity: a systematic review",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11657683/",
+       "why": "Every experimental study on psychedelics and new neurons to 2023, mostly in animals and cells."
+      },
+      {
+       "title": "Rowe et al. (2026), Psychedelic therapy and the role of music: a scoping review",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13297023/",
+       "why": "What the small body of research on music in sessions has and has not measured."
+      },
+      {
+       "title": "Forstmann et al. (2023), Among psychedelic-experienced users, only past use of psilocybin reliably predicts nature relatedness",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9834326/",
+       "why": "A pooled analysis of 3,817 people that tests the nature link more widely."
+      }
+     ],
+     "expert": [
+      {
+       "title": "Timmermann et al. (2023), Human brain effects of DMT assessed via EEG-fMRI",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10068756/",
+       "why": "The placebo-controlled scanner study of 20 volunteers that one Day 2 speaker described."
+      },
+      {
+       "title": "Nardou et al. (2023), Psychedelics reopen the social reward learning critical period",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10284704/",
+       "why": "Mouse work linking how long a learning window stays open to how long each drug's effects last in people."
+      }
+     ]
+    },
+    "listen_watch": [
+     {
+      "title": "Interview with May-Britt Moser and Edvard I. Moser, Nobel Week 2014",
+      "speaker": "May-Britt Moser and Edvard I. Moser",
+      "credentials": "Joint winners, with John O'Keefe, of the 2014 Nobel Prize in Physiology or Medicine for discovering grid cells (nobelprize.org)",
+      "conflicts": "none stated; recorded by the Nobel Prize's own outreach, and the speakers are the discoverers",
+      "url": "https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/160252-mosers-interview/",
+      "why": "Asked to explain their work for 13 to 14 year olds, the Mosers compare grid cell firing to the holes of a Chinese checkerboard and describe the control experiments that showed the hexagonal pattern is generated by the brain itself.",
+      "checked": "transcript read",
+      "checked_on": "2026-11-20"
+     }
+    ],
+    "glossary": [
+     {
+      "term": "Serotonin 2A receptor (5-HT2A)",
+      "plain": "A docking site on brain cells for the messenger serotonin, where classic psychedelics mainly act."
+     },
+     {
+      "term": "Agonist",
+      "plain": "A molecule that switches a receptor on."
+     },
+     {
+      "term": "Antagonist (blocker)",
+      "plain": "A molecule that sits in a receptor and stops it from being switched on."
+     },
+     {
+      "term": "Form constants",
+      "plain": "Klüver's name for shapes that keep recurring in visions, such as lattices, cobwebs, tunnels and spirals."
+     },
+     {
+      "term": "Place cell",
+      "plain": "A brain cell in the hippocampus that fires when an animal is in one particular spot."
+     },
+     {
+      "term": "Grid cell",
+      "plain": "A brain cell in the entorhinal cortex that fires at many spots arranged in a hexagonal pattern."
+     },
+     {
+      "term": "Fractal dimension",
+      "plain": "A number for how rough or detailed a repeating pattern is, from smooth near 1 to dense near 2 for flat images."
+     },
+     {
+      "term": "Nature relatedness",
+      "plain": "A survey score for how connected a person says they feel to the natural world."
+     },
+     {
+      "term": "Bouba and kiki effect",
+      "plain": "The common tendency to match the made-up word bouba to a round shape and kiki to a spiky one."
+     },
+     {
+      "term": "Free, prior and informed consent",
+      "plain": "Agreement given freely, before anything starts, with full information, which Indigenous peoples can also withhold."
+     }
+    ],
+    "safety": {
+     "relevant": true,
+     "lines": [
+      "988 Suicide and Crisis Lifeline (US): call or text 988; 911 in an emergency",
+      "Fireside Project Psychedelic Support Line: 62-FIRESIDE (firesideproject.org), free, confidential peer support by phone or text, 11 a.m. to 11 p.m. Pacific",
+      "Poison Help (US): 1-800-222-1222",
+      "SAMHSA National Helpline: 1-800-662-4357, free and confidential, 24 hours"
+     ],
+     "note": "Education, not medical advice. No use is shown or encouraged and no doses are given; any amount a speaker named was left out of the post and the long form."
+    },
+    "history_culture": [
+     {
+      "title": "Klüver (1928), Mescal: The 'divine' plant and its psychological effects (Internet Archive)",
+      "url": "https://archive.org/details/kluver-mescal-the-divine-plant-and-its-psychological-effects",
+      "why": "The public domain book that named the form constants, free to read."
+     },
+     {
+      "title": "Celidwen et al. (2023), Ethical principles of traditional Indigenous medicine to guide western psychedelic research and practice",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9950658/",
+      "why": "An Indigenous-led statement on consent, reciprocity and recognition in psychedelic research."
+     }
+    ],
+    "corrections": []
+   }
   },
   {
    "slug": "mjbcat05n",
@@ -76903,7 +79263,31 @@
    "id": "MJBCAT05N",
    "title": "Choice architecture: how menus and screens steer choices, and how big the effect really is",
    "origin": null,
-   "series": "MJBizCon",
+   "series": "Psychology & Behavior",
+   "sound": [
+    {
+     "where": "Animated Reel (09:00)",
+     "what": "covered market — 11 Pl. du Champ Commun, 65100 Lourdes, France (2023), kaoss012 (radio aporee)",
+     "credit": "Sound: kaoss012, covered market (2023), radio aporee / Internet Archive, public domain",
+     "url": "https://archive.org/details/aporee_61685_70942",
+     "house_credit": "Sound logo: David J. Ring, Jr. (N1EA), Internet Archive, CC0; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "OR poiesis (radio aporee) (public domain)",
+      "Patrick Lauser (CC0)"
+     ]
+    },
+    {
+     "where": "Slideshow Reel (15:00)",
+     "what": "In the square of the temple — 顯聖宮,Hukou Township (2017), Wu,Tsan-Cheng (radio aporee)",
+     "credit": "Sound: Wu,Tsan-Cheng, In the square of the temple (2017), radio aporee / Internet Archive, CC BY 3.0",
+     "url": "https://archive.org/details/aporee_37738_43194",
+     "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "OR poiesis (radio aporee) (public domain)",
+      "David J. Ring, Jr. (N1EA) (CC0)"
+     ]
+    }
+   ],
    "research": [
     {
      "label": "Mertens, S., Herberz, M., Hahnel, U. J. J., & Brosch, T. (2022). The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains. Proceedings of the National Academy of Sciences, 119(1), e2107346118, with its correction, e2204059119 (full texts read Nov 7, 2026, Europe PMC PMC8740589 and PMC9171817, CC BY-NC-ND, facts only)",
@@ -76922,7 +79306,16 @@
      "url": "https://doi.org/10.1073/pnas.2202928119"
     }
    ],
-   "other": [],
+   "other": [
+    {
+     "label": "Sound, Animated Reel (09:00): Sound: kaoss012, covered market (2023), radio aporee / Internet Archive, public domain. Sound logo: David J. Ring, Jr. (N1EA), Internet Archive, CC0; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); Patrick Lauser (CC0).",
+     "url": "https://archive.org/details/aporee_61685_70942"
+    },
+    {
+     "label": "Sound, Slideshow Reel (15:00): Sound: Wu,Tsan-Cheng, In the square of the temple (2017), radio aporee / Internet Archive, CC BY 3.0. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
+     "url": "https://archive.org/details/aporee_37738_43194"
+    }
+   ],
    "images": [
     {
      "where": "Slide 1",
@@ -77005,9 +79398,9 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Kalahari truffles on Colin Taylor Clarke's talk slide, Psychedelics Design 2026",
-     "credit": "Slide: Colin Taylor Clarke, Psychedelics Design 2026",
-     "url": "https://www.psychedelics.design/",
+     "what": "Text crop of Thomas et al. (2019), the sentence on the lightning bird: the link with rainfall is displayed in Khoisan oral mythology, where Kalahari truffles are known as eggs of the lightning bird because they appear so close after thunderstorms (the sentence's citation is not shown) (page 5)",
+     "credit": "Thomas et al. (2019), Acta Mycologica, text crop, CC BY 4.0",
+     "url": "https://doi.org/10.5586/am.1132",
      "card": false
     },
     {
