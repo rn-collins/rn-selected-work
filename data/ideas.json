@@ -822,10 +822,10 @@
     "category": "Culture + fieldwork",
     "stage": "Series with published writing",
     "question": "What do psychoactive substances reveal about culture, institutions and power?",
-    "expression": "A Polymath editorial series examining altered states, intimacy, medicine and power through science, law, history and culture. RN develops explanatory essays from public testimony, research and institutional documents, with attention to what each source can and cannot establish. Two reconciled published examples examine the retreat economy and infused dining. Their narrower science companions remain held derivatives; the earlier Jungle manuscript is a version of the retreat essay. Herbal Histories is a related series.",
-    "boundary": "This records the documented franchise and two reconciled published essays, not a complete series audit or count of every released article. The earlier Unsettled framing is retained as version history. Individual claims, quotations, scientific and legal interpretations, images and reuse rights require their own review; publication is not evidence of therapeutic effects or completed derivative production.",
+    "expression": "A Polymath editorial series examining altered states, intimacy, medicine and power through science, law, history and culture. RN develops explanatory essays from public testimony, research and institutional documents, with attention to what each source can and cannot establish. Three reconciled published examples examine the retreat economy, infused dining and celebrity psychedelic memoirs. Their narrower science companions remain held derivatives; the earlier Jungle manuscript is a version of the retreat essay. Herbal Histories is a related series.",
+    "boundary": "This records the documented franchise and three reconciled published essays, not a complete series audit or count of every released article. The earlier Unsettled framing is retained as version history. Individual claims, quotations, scientific and legal interpretations, images and reuse rights require their own review; publication is not evidence of therapeutic effects or completed derivative production.",
     "held": false,
-    "provenance": "Original franchise scope recovered from the September 2026 cultural registry. Current P180/P175 publisher metadata and complete texts, including the older/current retreat-essay comparison, reviewed November 6, 2026; two published examples reconciled, broader series coverage incomplete.",
+    "provenance": "Original franchise scope recovered from the September 2026 cultural registry. Current P180/P175 publisher metadata and complete texts, including the older/current retreat-essay comparison, reviewed November 6, 2026; two published examples reconciled, broader series coverage incomplete. The celebrity-memoir essay and current companion were reconciled November 20, 2026; broader coverage remains incomplete.",
     "workType": "Series",
     "workStatus": "Published",
     "releaseHeld": false
@@ -4344,5 +4344,22 @@
     "boundary": "Published June 23, 2026. Publication does not establish scientific validation. Later companion drafts revisit the evidence and flag claims requiring review. Their publication, video use and media clearance remain unresolved; they are not counted here as separately released works.",
     "provenance": "Publisher byline, date, complete article text and references inspected. Supporting source records compared; underlying studies and images were not independently reviewed.",
     "publicationUrl": "https://www.fatnugsmag.com/how-hempcrete-and-mycelium-composites-are-revolutionizing-architecture/"
+  },
+  {
+    "id": "celebrity-psychedelic-memoir",
+    "title": "The Celebrity Psychedelic Memoir Is a Genre Now",
+    "category": "Culture + fieldwork",
+    "stage": "Published essay · draft derivatives",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "held": true,
+    "releaseHeld": true,
+    "holdScope": "derivatives",
+    "parentId": "high-culture",
+    "question": "How do celebrity accounts of psychedelics become redemption stories, and what do those stories leave out about evidence, access and the people providing the experience?",
+    "expression": "RN’s High Culture essay examines a recurring pattern in celebrity memoirs, interviews and filmed accounts of psychedelic experiences. Written for readers interested in culture, neuroscience and institutions, its five sections compare the narrative formula with brain research, the retreat economy, Indigenous healers’ accounts and legal records. RN’s contribution is research synthesis and cultural and legal analysis: bringing different kinds of evidence together while distinguishing public testimony, scientific studies, marketing and secondary reporting. The article includes documentary captions, evidence notes and a 29-item resource ledger. A narrower companion draft examines what imaging, self-report, animal research, a selected volunteer trial and media studies can establish about the stories; it remains attached to this work.",
+    "boundary": "Published as a free Polymath web essay by RN Collins. Publication does not validate its scientific, legal or economic claims. The article’s conclusion makes stronger claims about individual brain mechanisms than its earlier cautions support; the companion explicitly notes that the cited scans did not study the memoirists. Underlying studies, quotations, court records, images and reuse rights have not been independently cleared here. The companion’s separate publication or use as video support remains unresolved, so derivative materials remain held and have no public draft link.",
+    "provenance": "Current publisher metadata and complete 34,702-character article text reviewed November 20, 2026, alongside the current complete companion manuscript. The publisher timestamp is September 25 UTC, corresponding to September 24 in Hawaiʻi. Textual review is not independent scientific, legal or media acceptance.",
+    "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-celebrity-psychedelic-memoir-is-a-genre-now"
   }
 ]
