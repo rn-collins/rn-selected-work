@@ -1,6 +1,8 @@
 import type { ReactNode } from "react";
 import QRCode from "qrcode";
 import { host, longDate, type SourcePost } from "../lib/aan-sources";
+import { hawaiiToday } from "../lib/releases";
+import aanSite from "../data/aan-site.json";
 import { ClientLine } from "./sources-detail";
 import { SocialRow } from "./social-row";
 import s from "./lab-book.module.css";
@@ -50,10 +52,31 @@ const READERS: { who: string; to: Id[]; tone: string }[] = [
   { who: "Policy or law", to: ["law", "claims"], tone: s.teal },
 ];
 
+// One plain line under each label: what the section is for (art direction pass, RN Nov 20).
+const BLURB: Record<Id, string> = {
+  start: "The short version, and how sure the evidence is.",
+  claims: "Each claim in the post, and exactly where in the source it comes from.",
+  "could-be-wrong": "Limits, critiques and open questions, each with its source.",
+  "go-deeper": "Where to read next, by how deep you want to go.",
+  "listen-watch": "Talks and podcasts, only ones watched or read in transcript.",
+  bibliography: "Every source, what it found, and who paid for it.",
+  images: "Who made each image, its licence, and the data behind our charts.",
+  glossary: "The terms in this post, in plain words.",
+  law: "The laws and rules, with the date their status was checked.",
+  clinical: "Trial registrations, what was measured, and side effects.",
+  safety: "Where to get help. No dosing information, ever.",
+  history: "Archives, museum objects and community sources.",
+  related: "This piece on every platform, and the ones either side of it.",
+  corrections: "Every change since publishing, dated.",
+  cite: "How to cite this page, and a code to share it.",
+  ask: "Ask a question, or point to a source we missed.",
+};
+
 function Section({ id, title, children }: { id: Id; title?: string; children: ReactNode }) {
   return (
     <section className={s.section} id={id} aria-labelledby={`${id}-h`}>
       <h2 id={`${id}-h`} className={s.tape}><span className={s.num}>{String(NUM[id]).padStart(2, "0")}</span>{title ?? TITLE[id]}</h2>
+      <p className={s.blurb}>{BLURB[id]}</p>
       {children}
     </section>
   );
@@ -83,6 +106,15 @@ const cite = (label: string) => label.replace(/\s*\((?:read|seen|checked)[^)]*\)
 // brand "fnm": a Fat Nugs article's source page (/sources/fnm/<slug>, short link /fn/<n>), RN Collins's byline.
 export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p: SourcePost; links: ReactNode; brand?: "aan" | "fnm"; shortPath?: string; page?: string }) {
   const x = p.extra ?? {};
+  // The post's own slides, from its page on the AaN site, once that page is released and actually up.
+  const site = aanSite as unknown as { base: string; posts: Record<string, { path: string; releasedAt: string; hold: boolean }> };
+  const ap = brand === "aan" ? site.posts[p.slug] : undefined;
+  const slideBase = ap && !ap.hold && ap.releasedAt && ap.releasedAt <= hawaiiToday() ? `${site.base}${ap.path}` : "";
+  let slidesUp = false;
+  if (slideBase) {
+    try { slidesUp = (await fetch(`${slideBase}slide-01.webp`, { method: "HEAD", next: { revalidate: 3600 } })).ok; } catch { slidesUp = false; }
+  }
+  const slideSrc = (where: string) => { const m = /^Slide (\d+)$/i.exec(where.trim()); return slidesUp && m ? `${slideBase}slide-${m[1].padStart(2, "0")}.webp` : ""; };
   const url = `${SITE}${page ?? `/sources/${p.slug}`}`;
   const sp = shortPath ?? `/s/${p.slug}`;
   const short = `${SITE.replace("https://", "")}${sp}`;
@@ -156,9 +188,25 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
   return (
     <article className={`${s.book} shell`}>
       <header className={s.cover}>
-        <p className={s.kicker}>{brand === "fnm" ? "Fat Nugs Magazine · RN Collins · Sources" : "Ask a Neuroscientist · Lab book · Sources"}</p>
-        <h1 className={s.title}>{p.title}</h1>
-        <p className={s.meta}>{p.series} · {dated ? `${brand === "fnm" ? "published" : "posted"} ${longDate(p.date)}` : "not yet published"}{x.last_checked ? ` · last checked ${longDate(x.last_checked)}` : ""}</p>
+        <div className={slidesUp ? s.hero : undefined}>
+          <div>
+            <p className={s.kicker}>{brand === "aan" && <img className={s.mark} src="/stickers/brand-brain.svg" alt="" width={44} height={33} />}{brand === "fnm" ? "Fat Nugs Magazine · RN Collins · Sources" : "Ask a Neuroscientist · Lab book · Sources"}</p>
+            <h1 className={s.title}>{p.title}</h1>
+            <p className={s.meta}>
+              <span>{p.series}</span>
+              <span>{dated ? `${brand === "fnm" ? "Published" : "Posted"} ${longDate(p.date)}` : "Not yet published"}</span>
+              {x.last_checked && <span>Last checked {longDate(x.last_checked)}</span>}
+              {x.start_here?.reading_minutes ? <span>{x.start_here.reading_minutes} min read</span> : null}
+              <a href="#cite">Cite this page</a>
+            </p>
+          </div>
+          {slidesUp && (
+            <a className={s.heroCover} href={`${site.base}${ap!.path}`}>
+              <img src={`${slideBase}slide-01.webp`} alt={`Slide 1 of the post: ${p.title}`} width={720} height={900} />
+              <span>The post, slide by slide <span aria-hidden="true">→</span></span>
+            </a>
+          )}
+        </div>
 
         {/* Wide screens: the index card, open. Phones: the same list, folded behind one sticker. */}
         <nav className={`${s.index} ${s.wideOnly}`} aria-label="What's in this lab book">
@@ -186,7 +234,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
               <div>
                 {x.start_here?.summary?.length ? <ul className={s.summary}>{x.start_here.summary.map((l) => <li key={l}>{l}</li>)}</ul> : <p className={s.lede}>{brand === "fnm" ? "Every source behind this article, and further resources, each linked to the original." : "The studies, records and images behind this post, each linked to the original."}</p>}
                 {p.origin && <p className={s.small}><Out href={p.origin.url}>Read the article: {p.origin.label}</Out></p>}
-                <p className={s.small}>{x.start_here?.reading_minutes ? `${x.start_here.reading_minutes} minute read · ` : ""}{p.disclaimer || "Education, not medical advice."} Not legal advice.</p>
+                <p className={s.small}>{p.disclaimer || "Education, not medical advice."} Not legal advice.</p>
               </div>
               {sticker && <div className={s.sureInline}>{sticker}</div>}
             </div>
@@ -309,6 +357,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
                   <h3 className={s.subhead}>Image credits</h3>
                   <Fold items={p.images} show={4} label="image credits" wrap={(c) => <ul className={s.polaroids}>{c}</ul>} render={(im) => (
                     <li key={im.where} className={s.polaroid}>
+                      {slideSrc(im.where) && <img src={slideSrc(im.where)} alt={`${im.where} of the post`} width={720} height={900} loading="lazy" decoding="async" />}
                       <b>{im.where}</b>
                       <span>{im.card ? `Number card made for this post, citing ${im.credit}.` : im.what}</span>
                       {!im.card && im.credit && <span className={s.small}>{im.credit}</span>}

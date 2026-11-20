@@ -201,3 +201,25 @@
   .narrowOnly { display: block; margin-top: 16px; }
   .narrowOnly > .index { margin-top: 0; }
 }
+
+/* Director's pass (RN, Nov 20): brand mark, metadata row, hero cover, blurbs, measure, calmer sidebar */
+.mark { width: 44px; height: auto; vertical-align: middle; margin: -6px 10px 0 -4px; }
+.meta { display: flex; flex-wrap: wrap; gap: 4px 18px; }
+.meta > * { white-space: nowrap; }
+.meta a { font-weight: 700; color: var(--tealc) !important; }
+.hero { display: grid; grid-template-columns: minmax(0, 1fr) 220px; gap: 36px; align-items: center; }
+.heroCover { display: grid; gap: 8px; padding: 10px 10px 14px; background: #fff; transform: rotate(2.5deg);
+  box-shadow: 0 10px 24px rgba(20, 52, 39, .22); text-decoration: none !important; font-size: 13px; font-weight: 800; color: var(--forest) !important; }
+.heroCover img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; }
+.polaroid img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; margin-bottom: 6px; background: #eee; }
+.blurb { margin: -8px 0 16px; font-size: 15px; font-style: italic; color: #4f5952; max-width: 62ch; }
+.summary, .lede, .claim, .wrong li, .card p, .safetyNote { max-width: 68ch; }
+.side .indexHead { margin-bottom: 6px; }
+.sideList { gap: 0; padding-left: 22px; }
+.sideList li { font-size: 13px; }
+.sideList a { min-height: 28px; font-weight: 600; }
+@media (max-width: 760px) {
+  .hero { grid-template-columns: 1fr; }
+  .heroCover { max-width: 200px; justify-self: start; }
+  .startGrid { display: flex; flex-direction: column-reverse; gap: 18px; }
+}
