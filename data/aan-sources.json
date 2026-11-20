@@ -494,6 +494,16 @@
    ],
    "how_sure": "One historical case: his own 1794 description, then DNA from his preserved eye tissue in 1995 (as described by Mackey, 2022).",
    "region": "visual",
+   "extra": {
+    "charts": [
+     {
+      "title": "Pooled prevalence of colour vision deficiency in young people, by sex and type, 56 studies (long form)",
+      "csv": "longform-images/07-chart-prevalence-jeong-2025.csv",
+      "source_table": "Jeong et al. 2025, Abstract and Results (pooled prevalence, 95% CI)",
+      "file": "07-chart-prevalence-jeong-2025.csv"
+     }
+    ]
+   },
    "time": "09:00 HST"
   },
   {
@@ -549,7 +559,7 @@
     },
     {
      "where": "Slide 6",
-     "what": "Light that brought more than half suppression. 10 lux for the four most sensitive people, 400 lux for the least sensitive",
+     "what": "Tested light levels that brought more than half suppression. 10 lux for the four most sensitive people, 400 lux (the tested level, not the 350 lux estimate) for the least sensitive",
      "credit": "Chart: Ask a Neuroscientist, from Phillips et al. (2019) data",
      "url": "https://doi.org/10.1073/pnas.1901824116",
      "card": false
@@ -4708,6 +4718,12 @@
       "csv": "chart-sun-gaze.csv",
       "source_table": "Sun et al. 2018, Table 8",
       "file": "chart-sun-gaze.csv"
+     },
+     {
+      "title": "Noise annoyance and the view of greenery, Ghent ring road, 105 residents (long form)",
+      "csv": "longform-images/06-chart-ghent-survey.csv",
+      "source_table": "Van Renterghem & Botteldooren 2016, Section 3.3.6",
+      "file": "06-chart-ghent-survey.csv"
      }
     ],
     "glossary": [
@@ -5257,7 +5273,21 @@
       "why": "The page the post opens with."
      }
     ],
-    "corrections": []
+    "corrections": [],
+    "charts": [
+     {
+      "title": "The opium regie's 1925 accounts, million guilders (long form; values from the chart's draw data, re-read pending)",
+      "csv": "longform-images/05-regie-1925-accounts-chart.csv",
+      "source_table": "Chandra 2000, Table 4 (Opiumregie report 1925, Bijlage 3)",
+      "file": "05-regie-1925-accounts-chart.csv"
+     },
+     {
+      "title": "Opium use among Chinese men by district rules, 1930, 56 districts (long form)",
+      "csv": "longform-images/06-district-rules-chart.csv",
+      "source_table": "Van Luijk & Van Ours 1998, Table 5",
+      "file": "06-district-rules-chart.csv"
+     }
+    ]
    }
   },
   {
@@ -12037,7 +12067,7 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Wool figurine top by Lilian Marie Furrer x Anni Chen, photo Werkstätte digitale Fotografie / DDW press kit",
+     "what": "Wool figurine top by Lilian Marie Furrer x Anni Chen, photo Werkstätte digitale Fotografie",
      "credit": "Photo: Werkstätte digitale Fotografie, Lilian Marie Furrer, DDW 2026 press kit",
      "url": "https://ddw.nl/en/programme/what-we-felt",
      "card": false
@@ -103777,8 +103807,8 @@
     },
     {
      "where": "Story 3",
-     "what": "Shift Hook, the key in the keyhole, tall, photo Mal Yu / DDW press kit",
-     "credit": "Photo: Mal Yu, DDW press kit (Shift Hook)",
+     "what": "Axis Pencil, the ball and tip, left, tall, photo Mal Yu / DDW press kit",
+     "credit": "Photo: Mal Yu, DDW press kit (Axis Pencil)",
      "url": "https://app-api.ddw.nl/programme/1954/press-kit.zip",
      "card": false
     }
@@ -110578,7 +110608,7 @@
      {
       "title": "Lettuce under the dimmest and brightest light tested: share of absorbed light used for photosynthesis and electron transport rate (long form)",
       "csv": "longform-images/02-chart-elkins-2020-light-use-falls-with-brightness.csv",
-      "source_table": "Elkins & van Iersel 2020, Abstract (PPFD 189 and 794 μmol m-2 s-1)",
+      "source_table": "Elkins & van Iersel 2020, Results 2.3 and Figure 3 (fitted values at PPFD 189 and 794 μmol m-2 s-1; the Abstract gives the low end as 0.28, the lowest measured value)",
       "file": "02-chart-elkins-2020-light-use-falls-with-brightness.csv"
      },
      {
