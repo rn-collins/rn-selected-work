@@ -4043,5 +4043,20 @@
     "expression": "RN’s draft compares a crop-nutrient meta-analysis with a perspective on biochar’s different purposes. For readers evaluating claims about soil amendments, RN separates plant biomass, total nutrient accumulation and nutrient concentration, then considers variation between elements, crops and biochar properties. The essay uses that comparison to explain why evidence of soil benefits and evidence of durable carbon storage answer different questions.",
     "boundary": "Unpublished Ask a Neuroscientist draft intended for Fat Nugs Magazine. The complete manuscript and its two references were read for this description, but the underlying full studies, pooled estimates, figures and rights have not been independently reviewed. The manuscript describes 144 paired observations rather than 144 independent studies; its averages cannot predict a particular field or product. Its source classification and wording around unchanged concentrations and explanatory dominance need review. No application rates, production instructions, product recommendation or publication link is supplied.",
     "provenance": "Complete manuscript reviewed November 19, 2026 and matched to the drafted owner record. Biochar is the older idea title for this same work; the future owner date is a plan, not publication."
+  },
+  {
+    "id": "digging-in-together",
+    "title": "Digging In Together",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What does gardening research actually tell us about loneliness in older adults?",
+    "expression": "RN’s draft compares a broad gardening meta-analysis with a review of nature-based programs for older adults. For readers interested in community activities and care settings, it separates mood, life satisfaction, sense of community and loneliness, explains publication-bias checks and evidence certainty, and asks whether company and shared activity could account for some benefits attributed to plants. The shared-activity explanation is presented as a hypothesis, not an established mechanism.",
+    "boundary": "Unpublished Ask a Neuroscientist draft intended for Fat Nugs Magazine. The complete manuscript and references were read for this description. The manuscript reports abstract-only sourcing; a targeted check of the newer review found an outcome-specific moderate-certainty finding for indoor-gardening loneliness that needs reconciliation with its broad low-certainty framing. Study-level results, its low-risk characterization, named care programs, images and rights remain unverified. This is an explanatory essay, not a delivered program, treatment recommendation or proven loneliness intervention. No manuscript or publication link is supplied.",
+    "provenance": "Matched to the drafted owner record with a blank public URL; its future date is a plan. The older gardening-and-loneliness title identifies this work. It overlaps in sources with What the Gardening Trials Measured but addresses a different question and intended outlet."
   }
 ]
