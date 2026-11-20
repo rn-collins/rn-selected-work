@@ -119,7 +119,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
   const sp = shortPath ?? `/s/${p.slug}`;
   const short = `${SITE.replace("https://", "")}${sp}`;
   const venue = brand === "fnm" ? "Fat Nugs Magazine" : "Ask a Neuroscientist";
-  const qr = await QRCode.toString(`${SITE}${sp}`, { type: "svg", margin: 1, errorCorrectionLevel: "M", color: { dark: "#17201b", light: "#ffffff" } });
+  const qr = await QRCode.toString(`${SITE}${sp}`, { type: "svg", margin: 1, errorCorrectionLevel: "M", color: { dark: "#123524", light: "#ffffff" } });
   const sure = x.start_here?.how_sure ? SURE[x.start_here.how_sure] : undefined;
   const sureNote = x.start_here?.how_sure_note || p.how_sure;
   const dated = p.date !== "";
