@@ -4,6 +4,7 @@ import p from "../../../components/puffy.module.css";
 import { Glyph } from "../../../components/social-row";
 import { Clock } from "../../../components/card/clock";
 import { StickerPlay } from "../../../components/card/sticker-play";
+import { ScreenDots } from "../../../components/card/screen-dots";
 import { platforms, extras, emails, title, tagline, entities, thisWeek, mjbizcon, type CardLink } from "../../../lib/card-links";
 
 // Direction C, "your own phone OS" (RN picked it, Nov 20), with A's draggable motion stickers (RN: "with A's
@@ -88,7 +89,7 @@ export default function PhoneOS() {
           <div className={c.screens}>
             <section id="aan-screen" className={`${c.screen} ${c.wallAan}`} aria-labelledby="aan-h">
               <StickerPlay className={c.stickers}>
-                <a href={byId("ask").url} rel="noopener" data-sticker className={c.sticker} style={{ left: "62%", top: "2%", ["--r" as string]: "10deg" }} aria-label="Ask me a brain question">
+                <a href={byId("ask").url} rel="noopener" data-sticker className={c.sticker} style={{ left: "54%", top: "60%", ["--r" as string]: "10deg" }} aria-label="Ask me a brain question">
                   <img src="/stickers/brand-brain.svg" alt="" width={120} height={120} />
                 </a>
                 <span data-sticker className={c.sticker} style={{ left: "4%", top: "64%", ["--r" as string]: "-8deg" }}><img src="/stickers/sparkle.svg" alt="" width={70} height={70} /></span>
@@ -125,7 +126,7 @@ export default function PhoneOS() {
 
             <section id="rn-screen" className={`${c.screen} ${c.wallRn}`} aria-labelledby="rn-h">
               <StickerPlay className={c.stickers}>
-                <a href="/work-with-me" data-sticker className={c.sticker} style={{ left: "46%", top: "3%", ["--r" as string]: "-7deg" }}><span className={`${p.sticker} ${p.ink}`}>Work with me ✦</span></a>
+                <a href="/work-with-me" data-sticker className={c.sticker} style={{ left: "26%", top: "60%", ["--r" as string]: "-7deg" }}><span className={`${p.sticker} ${p.ink}`}>Work with me ✦</span></a>
                 <span data-sticker className={c.sticker} style={{ left: "8%", top: "70%", ["--r" as string]: "9deg" }}><img src="/stickers/star.svg" alt="" width={66} height={66} /></span>
                 <span data-sticker className={c.sticker} style={{ left: "74%", top: "78%", ["--r" as string]: "-12deg" }}><img src="/stickers/brand-sparkle.svg" alt="" width={76} height={76} /></span>
               </StickerPlay>
@@ -141,10 +142,7 @@ export default function PhoneOS() {
             </section>
           </div>
 
-          <nav className={c.dots} aria-label="Home screens">
-            <a href="#aan-screen" aria-label="Ask a Neuroscientist screen" />
-            <a href="#rn-screen" aria-label="RN Collins screen" />
-          </nav>
+          <ScreenDots className={c.dots} items={[{ href: "#aan-screen", label: "Ask a Neuroscientist screen" }, { href: "#rn-screen", label: "RN Collins screen" }]} />
 
           <nav className={c.dock} aria-label="Dock">
             <ul>{dock.map((it, i) => <Icon key={it.id} it={it} i={i} />)}</ul>

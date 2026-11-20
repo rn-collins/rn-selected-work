@@ -137,10 +137,10 @@
 :global(.held) { cursor: grabbing; }
 
 /* Page dots, dock, home bar */
-.dots { position: relative; z-index: 5; display: flex; justify-content: center; gap: .5rem; padding: .35rem 0; }
-.dots a { display: block; width: 2.75rem; height: 1.5rem; position: relative; }
+.dots { position: relative; z-index: 5; display: flex; justify-content: center; gap: .2rem; padding: 0; margin: -.3rem 0; }
+.dots a { display: block; width: 2.75rem; height: 2.75rem; position: relative; }
 .dots a::after { content: ""; position: absolute; left: 50%; top: 50%; width: .5rem; height: .5rem; margin: -.25rem 0 0 -.25rem; border-radius: 50%; background: rgba(20, 52, 39, .35); }
-.dots a:first-child::after { background: #143427; }
+.dots a[aria-current]::after { background: #143427; transform: scale(1.3); }
 .dock {
   position: relative;
   z-index: 5;
