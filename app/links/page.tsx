@@ -63,7 +63,6 @@ function Apps({ set, lead }: { set: "rn" | "aan"; lead?: { label: string; url: s
           <a href={a.url} rel="noopener" aria-label={`${accounts[set].name} on ${a.label}, ${handle(a.url)}`}>
             <Glyph id={a.id} />
             <span className={g.appName}>{a.label}</span>
-            <span className={g.appHandle}>{handle(a.url)}</span>
           </a>
         </li>
       ))}
