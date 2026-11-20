@@ -4327,5 +4327,22 @@
     "expression": "RN’s essay brings Huis Saai’s Lean On exhibition at Dutch Design Week into conversation with a review of health-behaviour habits. For readers interested in design and everyday behaviour, it explains the difference between repeating an action and having it feel automatic, examines the familiar claim that a habit takes 21 days, and compares studies that used different definitions and timelines. RN’s contribution is research synthesis and explanatory writing, connecting the exhibition’s domestic objects and stories to questions about context and repetition. RN did not design the exhibition or conduct the cited experiments. The recovered package contains a long-form manuscript, research notes, a supporting dossier and social adaptations; these belong to one essay.",
     "boundary": "Unpublished Polymath draft in the Ask a Neuroscientist programme, planned for March 4, 2027. A planned date and a package marked built do not establish publication, and no canonical article URL is recorded. The manuscript describes a small, varied evidence base: only four studies timed habit formation, and they used different definitions. The studies concern health behaviours and reported automaticity, not brain measurements or tests of this exhibition. Applying them to household settings is an interpretation, not a demonstrated design intervention or a universal timetable. The source log quotes a planned rearrangement of the exhibition, while the manuscript describes it as completed; that change in tense still needs evidence. Scientific claims, quotations, images and reuse permissions have not received independent acceptance here. The essay and its adaptations remain held and unlinked.",
     "provenance": "Complete manuscript, research log, dossier and image-audit text reviewed in the preceding intake; current owner record and package source/check fields reconciled here. Later planning notes explain the date change, while older undated and audit chronology statements remain in the package. Image records describe restricted photographs and historical builder checks; no images were inspected or cleared in this review. A proposed interactive is not counted as a built output."
+  },
+  {
+    "id": "building-with-your-stash",
+    "title": "Building With Your Stash: How Cannabis and Mushrooms Are Revolutionizing Architecture with Hempcrete and Mycelium Composites",
+    "category": "Learning",
+    "stage": "Published essay · draft derivatives",
+    "workType": "Writing",
+    "workStatus": "Published",
+    "held": true,
+    "releaseHeld": true,
+    "holdScope": "derivatives",
+    "parentId": "ask-a-neuroscientist",
+    "question": "How might plant- and fungus-based construction materials connect building design with questions about human experience?",
+    "expression": "RN’s Fat Nugs Magazine essay introduces hemp-lime and mycelium composites to readers interested in materials, design and neuroscience. RN synthesizes research on construction materials and environmental conditions, explains potential applications and practical limits, and proposes connections that need direct testing. The contribution is explanatory writing and research synthesis, not the design of a building or an experiment.",
+    "boundary": "Published June 23, 2026. Publication does not establish scientific validation. Later companion drafts revisit the evidence and flag claims requiring review. Their publication, video use and media clearance remain unresolved; they are not counted here as separately released works.",
+    "provenance": "Publisher byline, date, complete article text and references inspected. Supporting source records compared; underlying studies and images were not independently reviewed.",
+    "publicationUrl": "https://www.fatnugsmag.com/how-hempcrete-and-mycelium-composites-are-revolutionizing-architecture/"
   }
 ]

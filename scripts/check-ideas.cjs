@@ -11,6 +11,10 @@ for (const idea of ideas) {
 const readingOwners = new Map();
 // Exact publisher destinations require an individually reviewed identity; never allow an entire host.
 const verifiedPublisherArticles = {
+ "building-with-your-stash": {
+  title: "Building With Your Stash: How Cannabis and Mushrooms Are Revolutionizing Architecture with Hempcrete and Mycelium Composites",
+  url: "https://www.fatnugsmag.com/how-hempcrete-and-mycelium-composites-are-revolutionizing-architecture/",
+ },
  'what-youre-buying-when-you-buy-a-cannabis-seed': {
   title: 'What You’re Really Buying When You Buy a Cannabis Seed',
   url: 'https://www.fatnugsmag.com/what-youre-buying-when-you-buy-a-cannabis-seed/',

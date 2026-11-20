@@ -45,3 +45,10 @@ test('existing Polymath duplicate-link guard remains active', () =>
   const original = records.find(x => x.publicationUrl?.startsWith('https://polymath-rn-collins.beehiiv.com/'));
   records.push({ ...original, id: 'duplicate-published-work' });
  }), /reading URL already belongs/));
+
+const hempId = 'building-with-your-stash';
+function hemp(mutate) { return validate((_, records) => mutate(records.find(x => x.id === hempId), records)); }
+test('hemp parent rejects an unrelated publisher route', () => assert.throws(() => hemp(e => { e.publicationUrl = 'https://www.fatnugsmag.com/unreviewed/'; }), /only verified/));
+test('hemp parent rejects a mismatched title', () => assert.throws(() => hemp(e => { e.title = 'Different article'; }), /identity mismatch/));
+test('hemp original cannot lose its derivative-only hold', () => assert.throws(() => hemp(e => { delete e.holdScope; }), /fully held work/));
+test('hemp draft cannot expose publication URL', () => assert.throws(() => hemp(e => { e.workStatus = 'Draft'; }), /requires published writing/));
