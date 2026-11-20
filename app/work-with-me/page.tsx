@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import aanSite from "../../data/aan-site.json";
 import hub from "../../data/links-hub.json";
-import { postedSoFar, longDate } from "../../lib/aan-sources";
+import { postedSoFar, longDate, sourcePosts } from "../../lib/aan-sources";
 import { hawaiiToday } from "../../lib/releases";
 import s from "../../components/specimen.module.css";
 
@@ -41,6 +41,8 @@ export default function WorkWithMePage() {
   const today = hawaiiToday();
   const live = (p?: Dated) => !!p && !p.hold && p.releasedAt !== "" && p.releasedAt <= today;
   const ddw = postedSoFar().filter((p) => p.series === "Dutch Design Week").reverse();
+  // The schedule comes from the sources data, so the dates here move when the posting calendar moves.
+  const ddwAll = sourcePosts.filter((p) => p.series === "Dutch Design Week");
   return (
     <main className={s.page}>
       <div className={s.wide}>
@@ -93,7 +95,9 @@ export default function WorkWithMePage() {
             <p>Dutch Design Week ran from October 17 to 25, 2026. I covered it for Ask a Neuroscientist: the design, science and health work on show, explained through what it does to the brain and body, with every claim sourced.</p>
             <p>What I captured: photo and video on three camera cards and an iPhone, recorded interviews with makers, and stills chosen for each exhibit, across the venues of the festival.</p>
             <p>How: one shot list per venue, makers credited by name, visitors kept out of frame unless they agreed, and interviews transcribed so every quote is checked against the recording.</p>
-            <p className={s.evidence}>The posts go out from November 16, 2026, each with a public sources page. They appear here as they go live.</p>
+            <p className={s.evidence}>
+              {ddwAll.length} posts, each with a public sources page, from {longDate(ddwAll[0].date)} to {longDate(ddwAll[ddwAll.length - 1].date)}. They appear here as they go live.
+            </p>
             {ddw.length ? (
               <ul className={s.tiles}>
                 {ddw.map((p) => {
