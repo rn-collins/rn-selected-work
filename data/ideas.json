@@ -4193,5 +4193,35 @@
     "expression": "RN’s draft begins with an ethnomycology talk and develops a comparison of a fungal classification paper, one rat study and two small human trials. For readers trying to understand supplement research, it explains why the name of a fungus, the material tested, the participants, the outcome measure and the comparison group all matter. RN’s contribution is a plain-language evidence comparison: distinguishing a change within one group from a difference against placebo, separating mood scores from a diagnosis, and keeping animal findings apart from human treatment claims. The talk supplies context; it does not establish the clinical findings.",
     "boundary": "Unpublished Ask a Neuroscientist essay intended for Polymath. The manuscript describes short trials in two specific groups of women, different preparations and conflicting results; it does not establish that reishi treats depression or that products sold under the same common name are interchangeable. It preserves uncertainty over species identification, a proposed mechanism from animal work, and the animal-study authors’ relationship with the extract supplier. The selected studies are not a systematic review of every relevant trial. The research log’s confirmed labels and full-paper reading claims have not been independently checked here, nor have the talk quotation, underlying transcript, taxonomy, images or reuse rights. Source review and release remain held. No product, preparation instructions, dosing advice or manuscript link is supplied.",
     "provenance": "Complete current manuscript and research-log text reviewed against the owner record, which lists a draft, no public URL and a February 27, 2027 planning date. The manuscript says undated, and the log reports an October factcheck alongside November reading and talk dates; the source owner must reconcile that chronology. Related charts and platform adaptations remain supporting outputs within this work, not additional completed works."
+  },
+  {
+    "id": "the-thc-in-a-medicine",
+    "title": "The THC in a Medicine",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What does the word synthetic tell a reader about a cannabinoid, and what evidence is needed beyond that label?",
+    "expression": "RN’s draft compares a review of clinical trials involving dronabinol and nabilone with a public-health review of unregulated synthetic cannabinoid products. For general readers of Ask a Neuroscientist, it explains the terminology, introduces receptor activation and separates controlled trial findings from reports of harm outside a trial. RN’s contribution is explanatory research synthesis: showing why findings about a particular medicine, molecule or study population cannot simply be transferred to another product. The essay also explains why pooled adverse-event results and population reports answer different questions.",
+    "boundary": "Unpublished column intended for Fat Nugs Magazine. The manuscript relies on two selected reviews rather than a fresh systematic search or current regulatory assessment. Its simplified receptor descriptions, broad statements about product composition and discussion of how molecules are made still require exact-source review. Typical mild or moderate adverse events in selected trials do not establish universal safety or exclude serious harm. The research log’s full-reading and confirmed-claim labels are source reports, not independent scientific or legal acceptance by this portfolio review. No underlying papers, clinical guidance, images or reuse rights were verified here. The source and its adaptations remain held; no dose, product recommendation or manuscript link is supplied.",
+    "provenance": "Complete manuscript and research-log text reviewed, with the current manuscript revision and owner record reconfirmed. The owner lists a draft, no public URL and a February 28, 2027 planning date; the manuscript says undated. This comparison of medicines and unregulated products differs from the existing essay introducing the body’s own cannabinoid signals. Supporting charts and platform versions remain part of the same work."
+  },
+  {
+    "id": "where-do-your-eyes-go-in-a-huge-painting",
+    "title": "Where Do Your Eyes Go in a Huge Painting?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "Can an eye-tracking study of pictures on a screen help frame questions about looking at a large fresco?",
+    "expression": "RN’s draft brings the Triumph of Death in Pisa into conversation with a laboratory study of how people look at paintings. For readers interested in art, perception and travel, it describes the fresco’s disputed attribution and restoration history, then explains the study’s viewing tasks, gaze clusters and fixation measurements. RN’s contribution is a historical and scientific synthesis that turns the comparison into a proposed observation: whether still figures, moving bodies and landscape passages draw attention differently. The essay explicitly presents that application to the fresco as an untested hypothesis.",
+    "boundary": "Unpublished Ask a Neuroscientist essay intended for Polymath’s Pisa coverage, prepared as research before travel rather than evidence of an on-site visit. A small student study using brief views of screen images cannot establish how visitors look at a large wall painting. The manuscript’s statement that no study examined this fresco remains limited by the source search. Attribution, historical dates, study statistics and quotations have not been independently verified here. The manuscript and log describe historical engravings and a research figure, but this portfolio review has not inspected those images or cleared their reuse. Current third-party fresco photographs and private interior photographs remain excluded. The source and supporting materials are held, with no manuscript or image link.",
+    "provenance": "Complete manuscript and research-log text reviewed and current manuscript revision reconfirmed. The owner record lists a draft, no public URL and a February 28, 2027 planning date, while the manuscript says its date is pending. The log’s October build and factcheck dates conflict with its November source-reading dates. Evidence-strength and rights labels remain attributed source notes. Supporting charts and adaptations are not additional works."
   }
 ]
