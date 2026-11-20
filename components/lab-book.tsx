@@ -119,7 +119,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
   const sp = shortPath ?? `/s/${p.slug}`;
   const short = `${SITE.replace("https://", "")}${sp}`;
   const venue = brand === "fnm" ? "Fat Nugs Magazine" : "Ask a Neuroscientist";
-  const qr = await QRCode.toString(`${SITE}${sp}`, { type: "svg", margin: 1, errorCorrectionLevel: "M", color: { dark: "#17201b", light: "#ffffff" } });
+  const qr = await QRCode.toString(`${SITE}${sp}`, { type: "svg", margin: 1, errorCorrectionLevel: "M", color: { dark: "#123524", light: "#ffffff" } });
   const sure = x.start_here?.how_sure ? SURE[x.start_here.how_sure] : undefined;
   const sureNote = x.start_here?.how_sure_note || p.how_sure;
   const dated = p.date !== "";
@@ -234,6 +234,9 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
               <div>
                 {x.start_here?.summary?.length ? <ul className={s.summary}>{x.start_here.summary.map((l) => <li key={l}>{l}</li>)}</ul> : <p className={s.lede}>{brand === "fnm" ? "Every source behind this article, and further resources, each linked to the original." : "The studies, records and images behind this post, each linked to the original."}</p>}
                 {p.origin && <p className={s.small}><Out href={p.origin.url}>Read the article: {p.origin.label}</Out></p>}
+                {p.interactive && (
+                  <p className={s.tryit}><a className={`${s.sticker} ${s.sun}`} href={`/${p.interactive.file}`}>Try it yourself: {p.interactive.title} <span aria-hidden="true">→</span></a></p>
+                )}
                 <p className={s.small}>{p.disclaimer || "Education, not medical advice."} Not legal advice.</p>
               </div>
               {sticker && <div className={s.sureInline}>{sticker}</div>}

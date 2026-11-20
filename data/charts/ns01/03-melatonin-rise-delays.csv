@@ -1,0 +1,4 @@
+label,value,text,axis,source,source_ref
+10 lux,22,22 min (SD 43),"Delay of the melatonin rise (minutes, mean; SD in text)","Chart: Ask a Neuroscientist, from Phillips et al. (2019) data.","Phillips et al. (2019), PNAS, PMC6575863, full text read Nov 20, 2026: Results, 'In 10 lux, apparent melatonin onset occurred an average of 22 ± 43 min later than DLMO measured under <1 lux'"
+30 lux,77,77 min (SD 56),"Delay of the melatonin rise (minutes, mean; SD in text)","Chart: Ask a Neuroscientist, from Phillips et al. (2019) data.","Phillips et al. (2019), PNAS, PMC6575863, full text read Nov 20, 2026: Results, 'At 30 lux ... 77 ± 56 min later'"
+50 lux,109,109 min (SD 46),"Delay of the melatonin rise (minutes, mean; SD in text)","Chart: Ask a Neuroscientist, from Phillips et al. (2019) data.","Phillips et al. (2019), PNAS, PMC6575863, full text read Nov 20, 2026: Results, 'At 50 lux ... 109 ± 46 min later'"

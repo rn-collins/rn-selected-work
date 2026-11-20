@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Before and after the bias check: how big is the nudge effect? · Ask a Neuroscientist</title>
+<style>
+  :root { --bg:#222326; --ink:#F1EFEA; --coral:#F08A7E; --grey:#B4B1AA; --felt:#3C3D42; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.55 "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:28px 18px 60px; }
+  h1 { font:600 clamp(26px,6vw,40px)/1.15 "Oswald", "Arial Narrow", system-ui, sans-serif; margin:.2em 0 .4em; letter-spacing:.01em; }
+  h2 { font:600 20px/1.3 "Oswald", "Arial Narrow", system-ui, sans-serif; margin:1.6em 0 .4em; }
+  .tag { font:500 13px "IBM Plex Mono", ui-monospace, monospace; color:var(--grey); letter-spacing:.04em; text-transform:uppercase; }
+  .row { display:flex; gap:10px; flex-wrap:wrap; margin:12px 0; }
+  button { font:600 16px "Instrument Sans", system-ui, sans-serif; min-height:44px; padding:8px 16px; border-radius:6px; border:1.5px solid var(--grey); background:transparent; color:var(--ink); cursor:pointer; }
+  button[aria-pressed=true] { background:var(--ink); color:var(--bg); border-color:var(--ink); }
+  button:focus-visible { outline:3px solid var(--coral); outline-offset:3px; }
+  .bar { display:grid; grid-template-columns: 9.5em 1fr 3.4em; align-items:center; gap:10px; margin:8px 0; }
+  .track { position:relative; height:30px; background:var(--felt); border-radius:3px; }
+  .fill { position:absolute; left:0; top:5px; bottom:5px; background:var(--ink); border-radius:2px; }
+  .fill.adj { background:var(--coral); }
+  .val { font:600 17px "IBM Plex Mono", monospace; text-align:right; }
+  .small { font-size:15px; color:var(--grey); }
+  a { color:var(--coral); }
+  @media (prefers-reduced-motion: reduce) { * { transition:none !important; } }
+</style>
+</head>
+<body>
+<main>
+  <p class="tag">Ask a Neuroscientist · interactive · published numbers, not a prediction</p>
+  <h1>Before and after the bias check</h1>
+  <p>A 2022 meta-analysis pooled 447 results on nudges, changes to how choices are laid out, and found an average effect of d = 0.43 (Mertens et al., 2022, corrected). Studies that find an effect are more likely to be published, so other researchers re-ran the numbers with a correction for missing studies (Maier et al., 2022). Switch between the two to see what changes.</p>
+
+  <div class="row" role="group" aria-label="Which estimate to show">
+    <button type="button" id="b0" aria-pressed="true">As published</button>
+    <button type="button" id="b1" aria-pressed="false">After the bias correction</button>
+  </div>
+  <p id="state" class="small" aria-live="polite">Showing: as published (random-effects estimate, no correction).</p>
+
+  <h2>By kind of nudge</h2>
+  <div id="cat"></div>
+  <h2>By where it was tested</h2>
+  <div id="dom"></div>
+  <p class="small">Bars show Cohen's d to scale from 0 to 0.7. Corrected values are the robust Bayesian model-averaged estimates in Maier et al. (2022), Table 1. Their verdicts: evidence against an effect for information and assistance nudges; undecided for structure nudges; no evidence for an overall effect after correction.</p>
+
+  <h2>What this shows, and what it does not</h2>
+  <ul>
+    <li>The size of the average nudge effect depends on how missing studies are handled. Other corrections gave -0.01, 0.07 and 0.08 (Szaszi et al., 2022); the original authors' own check gave 0.31 to 0.08 and they agree the true effect is likely smaller (Mertens et al., 2022, reply).</li>
+    <li>An average cannot say whether a particular menu or screen change will work. Effects vary widely between studies. Scientists still disagree.</li>
+  </ul>
+  <p class="small">Sources: Mertens, S., Herberz, M., Hahnel, U. J. J., &amp; Brosch, T. (2022), PNAS, 119(1), e2107346118, and correction e2204059119; Maier, M., et al. (2022), PNAS, 119(31), e2200300119, <a href="https://doi.org/10.1073/pnas.2200300119">doi.org/10.1073/pnas.2200300119</a>; Szaszi, B., et al. (2022), PNAS, 119(31), e2200732119; Mertens et al. (2022), reply, PNAS, e2202928119. Drawn in code by Claude for Ask a Neuroscientist; nothing you choose is stored or sent.</p>
+</main>
+<script>
+const CAT = [["Structure (defaults, effort, range of options)", .58, .12], ["Information (descriptions, norms)", .25, .00], ["Assistance (reminders, commitments)", .22, .01], ["All nudges combined", .43, .04]];
+const DOM = [["Food", .66, .02], ["Environment", .48, .01], ["Prosocial", .32, .00], ["Health", .31, .01], ["Finance", .23, .00]];
+let adj = 0;
+function draw(id, rows){
+  const el = document.getElementById(id); el.innerHTML = '';
+  rows.forEach(([lab, a, b]) => {
+    const v = adj ? b : a, row = document.createElement('div'); row.className = 'bar';
+    row.innerHTML = '<span>' + lab + '</span><span class="track" aria-hidden="true"><span class="fill' + (adj ? ' adj' : '') + '" style="width:' + (100 * v / .7) + '%"></span></span><span class="val">' + v.toFixed(2) + '</span>';
+    row.setAttribute('aria-label', lab + ': d = ' + v.toFixed(2)); el.appendChild(row);
+  });
+}
+function set(n){
+  adj = n;
+  document.getElementById('b0').setAttribute('aria-pressed', n === 0); document.getElementById('b1').setAttribute('aria-pressed', n === 1);
+  document.getElementById('state').textContent = n ? 'Showing: after correction for publication bias (Maier et al., 2022).' : 'Showing: as published (random-effects estimate, no correction).';
+  draw('cat', CAT); draw('dom', DOM);
+}
+document.getElementById('b0').addEventListener('click', () => set(0));
+document.getElementById('b1').addEventListener('click', () => set(1));
+set(0);
+</script>
+</body>
+</html>

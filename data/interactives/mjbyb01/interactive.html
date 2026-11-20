@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The tireless judge: can scheduling alone make rulings fall before a break?</title>
+<style>
+  :root { --bg:#efdfb6; --ink:#352a22; --rule:#bf5a53; --redtext:#9a3f39; --blue:#3f5f9c; --pale:#7f9cc4; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:500 18px/1.55 "Instrument Sans", system-ui, sans-serif;
+         background-image: repeating-linear-gradient(to bottom, transparent 0 31px, rgba(127,156,196,.45) 31px 32px); }
+  main { max-width: 780px; margin: 0 auto; padding: 22px 18px 48px 46px; border-left: 2px solid var(--rule); min-height: 100vh; }
+  h1 { font: 400 clamp(28px, 6vw, 42px)/1.15 "Young Serif", Georgia, serif; margin: 8px 0 12px; }
+  h2 { font: 400 24px/1.2 "Young Serif", Georgia, serif; margin: 0 0 8px; }
+  .tag { font: 500 13px/1.4 "IBM Plex Mono", ui-monospace, monospace; color: var(--blue); letter-spacing: .04em; text-transform: uppercase; }
+  .card { background: rgba(239,223,182,.95); border: 2px solid var(--ink); border-radius: 4px; padding: 16px; margin: 18px 0; }
+  fieldset { border: 0; padding: 0; margin: 0 0 12px; }
+  legend { font-weight: 700; margin-bottom: 6px; }
+  .choice { display:flex; gap:10px; flex-wrap:wrap; }
+  .choice label { border: 2px solid var(--ink); border-radius: 4px; padding: 10px 14px; cursor: pointer; min-height: 44px; display:flex; align-items:center; gap:8px; }
+  .choice input { width: 20px; height: 20px; accent-color: var(--blue); }
+  .choice label:focus-within { outline: 4px solid var(--blue); outline-offset: 2px; }
+  input[type=range] { width: 100%; height: 36px; accent-color: var(--blue); }
+  input[type=range]:focus-visible { outline: 4px solid var(--blue); outline-offset: 2px; }
+  output { font: 600 18px/1 "IBM Plex Mono", ui-monospace, monospace; }
+  svg { width: 100%; height: auto; display:block; }
+  #readout { font: 600 17px/1.4 "IBM Plex Mono", ui-monospace, monospace; }
+  .label { display:inline-block; font: 700 12px/1 "IBM Plex Mono", ui-monospace, monospace; padding: 4px 6px; border: 2px solid currentColor; border-radius: 3px; margin-right: 6px; }
+  .strong { color: var(--ink); } .debated { color: var(--blue); } .sample { color: var(--redtext); }
+  footer { font-size: 15px; }
+  a { color: var(--blue); }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+</head>
+<body>
+<main>
+  <p class="tag">Ask a Neuroscientist · interactive · drawn in code by Claude, persona Ledger-book archivist (draft)</p>
+  <h1>The tireless judge</h1>
+  <p>In a famous study of 1,112 parole rulings, favourable rulings fell from about 65 percent to near zero within each session and jumped back after a food break (Danziger et al., 2011). <span class="label strong">WELL ESTABLISHED</span> that the pattern is in the data. <span class="label debated">SCIENTISTS STILL DISAGREE</span> on why.</p>
+  <p>One alternative (Glöckner, 2016): granting a request took longer on average, about 7.37 minutes against 5.21. A judge who never tires, but holds a case that cannot finish before the break until the next session, could produce a similar drop. Try it below.</p>
+
+  <section class="card" aria-labelledby="h-sim">
+    <h2 id="h-sim">Run the docket</h2>
+    <fieldset>
+      <legend>How does the judge schedule?</legend>
+      <div class="choice">
+        <label><input type="radio" name="mode" value="plan" checked> Holds a case that will not fit until after the break</label>
+        <label><input type="radio" name="mode" value="none"> Starts any case until time is up</label>
+      </div>
+    </fieldset>
+    <label for="len">Session length: <output id="lenOut">60</output> minutes</label>
+    <input id="len" type="range" min="40" max="120" step="5" value="60">
+    <label for="rate">Share of requests that deserve a yes: <output id="rateOut">36</output> percent <span class="label sample">SAMPLE SETTING</span> (Glöckner used 36)</label>
+    <input id="rate" type="range" min="10" max="70" step="2" value="36">
+    <svg id="chart" viewBox="0 0 560 420" role="img" aria-labelledby="chartTitle chartDesc">
+      <title id="chartTitle">Share of favourable rulings by case number in the session</title>
+      <desc id="chartDesc">Dots show the simulated share of favourable rulings for each case position; the dashed line shows the true share, which never changes. Case numbers with fewer than 50 simulated cases are left out.</desc>
+    </svg>
+    <p id="readout" aria-live="polite"></p>
+  </section>
+
+  <section class="card">
+    <h2>How to read it</h2>
+    <p>The judge in this simulation never gets hungry or tired, and every request has the same chance of deserving a yes all session. With scheduling on, the dots still slope down: late in a session there is less time left, the longer, favourable cases are the ones that no longer fit, and the held case opens the next session. With scheduling off, the dots stay near the dashed line. Case lengths follow Glöckner's simulation settings, which match the averages in the study.</p>
+    <p>In Glöckner's own simulations the drop was somewhat smaller than in the original data, and he notes they do not rule out order or depletion effects. The original authors replied that their trend held when they controlled for legal representation. <span class="label debated">SCIENTISTS STILL DISAGREE</span></p>
+    <p><span class="label sample">DEMONSTRATION</span> This page uses the average case lengths reported in the study and simple sample settings; it is not a reanalysis of the parole data. Nothing you do here is stored or sent.</p>
+  </section>
+
+  <footer>
+    <p>Sources: Danziger, S., Levav, J., &amp; Avnaim-Pesso, L. (2011). Extraneous factors in judicial decisions. PNAS, 108(17), 6889-6892. <a href="https://doi.org/10.1073/pnas.1018033108">doi.org/10.1073/pnas.1018033108</a>. Glöckner, A. (2016). The irrational hungry judge effect revisited. Judgment and Decision Making, 11(6), 601-610. <a href="https://doi.org/10.1017/S1930297500004812">doi.org/10.1017/S1930297500004812</a>.</p>
+    <p>Education, not medical advice.</p>
+  </footer>
+</main>
+<script>
+(function () {
+  const POS = 12, SESS = 6000, M_YES = 8.2, M_NO = 5.8, K = 1.5; // Glöckner (2016): Weibull shape 1.5, scale factors 8.2 and 5.8 minutes
+  const svg = document.getElementById('chart'), NS = 'http://www.w3.org/2000/svg';
+  function rng(seed) { let s = seed >>> 0; return () => { s = (s * 1664525 + 1013904223) >>> 0; return (s + 0.5) / 4294967296; }; }
+  function weibull(r, m) { return m * Math.pow(-Math.log(r()), 1 / K); }
+  function simulate(mode, len, rate) {
+    const r = rng(20161106), fav = new Array(POS).fill(0), n = new Array(POS).fill(0);
+    let carry = null; // plan mode: the case that would not fit opens the next session
+    for (let s = 0; s < SESS; s++) {
+      let t = 0;
+      for (let i = 0; i < 60; i++) {
+        let c = carry; carry = null;
+        if (!c) { const yes = r() < rate; c = { yes, d: weibull(r, yes ? M_YES : M_NO) }; }
+        if (mode === 'plan') { if (t + c.d > len && i > 0) { carry = c; break; } }
+        else if (t >= len) break;
+        if (i < POS) { n[i]++; if (c.yes) fav[i]++; }
+        t += c.d;
+      }
+    }
+    return fav.map((f, i) => (n[i] >= 50 ? { share: f / n[i], n: n[i] } : null));
+  }
+  function el(name, attrs, text) { const e = document.createElementNS(NS, name); for (const k in attrs) e.setAttribute(k, attrs[k]); if (text != null) e.textContent = text; return e; }
+  function draw() {
+    const mode = document.querySelector('input[name=mode]:checked').value;
+    const len = +document.getElementById('len').value, rate = +document.getElementById('rate').value / 100;
+    document.getElementById('lenOut').textContent = len; document.getElementById('rateOut').textContent = Math.round(rate * 100);
+    const res = simulate(mode, len, rate);
+    [...svg.querySelectorAll('g')].forEach(g => g.remove());
+    const g = el('g', {}); svg.appendChild(g);
+    const X = i => 82 + i * 40, Y = v => 340 - v * 290;
+    for (let k = 0; k <= 4; k++) { const v = k * 0.25; g.appendChild(el('line', { x1: 70, x2: 540, y1: Y(v), y2: Y(v), stroke: '#7f9cc4', 'stroke-width': 1.5 }));
+      g.appendChild(el('text', { x: 62, y: Y(v) + 7, 'text-anchor': 'end', 'font-family': 'IBM Plex Mono, monospace', 'font-size': 20, fill: '#352a22' }, Math.round(v * 100) + '%')); }
+    g.appendChild(el('line', { x1: 70, x2: 540, y1: Y(rate), y2: Y(rate), stroke: '#9a3f39', 'stroke-width': 3, 'stroke-dasharray': '10 8' }));
+    g.appendChild(el('text', { x: 540, y: Y(rate) - 12, 'text-anchor': 'end', 'font-family': 'IBM Plex Mono, monospace', 'font-size': 20, fill: '#9a3f39' }, 'true share'));
+    let last = null, first = res[0];
+    res.forEach((p, i) => {
+      g.appendChild(el('text', { x: X(i), y: 375, 'text-anchor': 'middle', 'font-family': 'IBM Plex Mono, monospace', 'font-size': 20, fill: '#352a22' }, i + 1));
+      if (!p) return; last = { i, p };
+      g.appendChild(el('circle', { cx: X(i), cy: Y(p.share), r: 10, fill: '#352a22' }));
+    });
+    g.appendChild(el('text', { x: 305, y: 412, 'text-anchor': 'middle', 'font-family': 'Instrument Sans, sans-serif', 'font-size': 21, fill: '#352a22' }, 'case number in the session'));
+    const msg = last ? `Case 1: ${Math.round(first.share * 100)}% favourable. Case ${last.i + 1}: ${Math.round(last.p.share * 100)}% favourable. True share: ${Math.round(rate * 100)}%. The judge never tires.` : '';
+    document.getElementById('readout').textContent = msg;
+  }
+  document.querySelectorAll('input').forEach(i => i.addEventListener('input', draw));
+  draw();
+})();
+</script>
+</body>
+</html>

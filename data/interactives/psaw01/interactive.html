@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en"><head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The sun where you are: solstice day length by latitude | Ask a Neuroscientist</title>
+<style>
+:root{--bg:#f3f1ec;--ink:#1e2430;--muted:#4a5262;--acc:#8a6a1f;--acc2:#2c5d8f}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.5 "Source Sans 3",system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:20px}h1{font-family:Cinzel,Georgia,serif;font-weight:400;font-size:28px;margin:.2em 0}
+.tag{font-family:"JetBrains Mono",monospace;font-size:14px;letter-spacing:1px;color:var(--muted)}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:14px 0}
+input[type=range]{width:280px}input[type=number]{width:90px;font:inherit}
+button{font:inherit;padding:8px 14px;border:2px solid var(--ink);border-radius:10px;background:#fff;cursor:pointer}
+button[aria-pressed=true]{background:var(--ink);color:var(--bg)}
+button:focus-visible,input:focus-visible{outline:4px solid var(--acc2);outline-offset:3px}
+.out{display:grid;grid-template-columns:1fr 1fr;gap:12px}.box{border-top:5px solid var(--acc);padding:10px 0}
+.big{font-family:Cinzel,Georgia,serif;font-size:40px;color:var(--acc)}svg{width:100%;height:auto;max-width:560px}
+.note{font-size:16px;color:var(--muted)}
+</style></head><body><main>
+<p class="tag">LINEA MERIDIANA 43.72 N · INTERACTIVE</p>
+<h1>The sun where you are</h1>
+<p>Set a latitude and a solstice. You see the day length and how high the Sun climbs at noon. It is worked out in your browser; nothing you enter is sent anywhere.</p>
+<div class="row"><label for="lat"><strong>Latitude</strong></label>
+<input id="lat" type="range" min="-66" max="66" step="0.1" value="43.7" aria-describedby="latv"><input id="latn" type="number" min="-66" max="66" step="0.1" value="43.7" aria-label="Latitude in degrees, north positive"><span id="latv">43.7 N</span></div>
+<div class="row" role="group" aria-label="Choose a date">
+<button id="dec" aria-pressed="true">December solstice</button><button id="jun" aria-pressed="false">June solstice</button>
+<button id="pisa">Pisa 43.7 N</button><button id="hnl">Honolulu 21.3 N</button></div>
+<div class="out"><div class="box"><div>Daylight</div><div class="big" id="len" aria-live="polite">8 h 55 min</div></div>
+<div class="box"><div>Noon Sun height</div><div class="big" id="alt" aria-live="polite">22.8°</div></div></div>
+<svg viewBox="0 0 560 300" role="img" aria-labelledby="st"><title id="st">The noon Sun's height drawn to scale above a horizon line</title>
+<line x1="40" y1="260" x2="540" y2="260" stroke="#1e2430" stroke-width="3"/><line id="ray" x1="60" y1="260" x2="400" y2="160" stroke="#8a6a1f" stroke-width="6"/><circle id="sun" cx="400" cy="160" r="16" fill="#8a6a1f"/></svg>
+<h2>Where these numbers come from</h2>
+<p><strong>Checked against measured tables (strong):</strong> this uses the standard sunrise formula with the Sun 0.833 degrees below the horizon at rise and set. It gives Pisa 8 h 55 min and a 22.8 degree noon Sun on Dec 21, 2026, and Honolulu 10 h 50 min and 45.3 degrees, the same as the US Naval Observatory's tables (queried Nov 7, 2026). Hills, buildings and weather are not included.</p>
+<p><strong>Why it matters (established):</strong> daylight reaching the retina is the main time signal for the brain's clock, the suprachiasmatic nuclei; morning light advances the clock and evening light delays it (Blume, Garbazza and Spitschan, 2019).</p>
+<p class="note">Education, not medical advice. Sources: US Naval Observatory, Astronomical Applications API (2026 data), https://aa.usno.navy.mil/data/api · Blume, C., Garbazza, C., & Spitschan, M. (2019). Somnologie, 23(3), 147. https://doi.org/10.1007/s11818-019-00215-x. Beyond 66 degrees the Sun may not rise or set at a solstice, so the slider stops there.</p>
+</main>
+<script>
+const R=Math.PI/180;let dec=-23.44;const lat=document.getElementById('lat'),latn=document.getElementById('latn');
+function calc(){const p=+lat.value;const c=(Math.sin(-0.833*R)-Math.sin(p*R)*Math.sin(dec*R))/(Math.cos(p*R)*Math.cos(dec*R));
+let h=c<=-1?24:c>=1?0:2*Math.acos(c)/R/15;const H=Math.floor(h),M=Math.round((h-H)*60);
+document.getElementById('len').textContent=(M==60?(H+1)+' h 00 min':H+' h '+String(M).padStart(2,'0')+' min');
+const a=90-Math.abs(p-dec);document.getElementById('alt').textContent=a.toFixed(1)+'°';
+document.getElementById('latv').textContent=Math.abs(p).toFixed(1)+(p>=0?' N':' S');latn.value=p;
+const x=60+340*Math.cos(a*R),y=260-240*Math.sin(a*R);const r=document.getElementById('ray');r.setAttribute('x2',x);r.setAttribute('y2',y);
+const s=document.getElementById('sun');s.setAttribute('cx',x);s.setAttribute('cy',y);}
+lat.addEventListener('input',calc);latn.addEventListener('change',()=>{lat.value=Math.max(-66,Math.min(66,+latn.value||0));calc();});
+const dB=document.getElementById('dec'),jB=document.getElementById('jun');
+dB.onclick=()=>{dec=-23.44;dB.setAttribute('aria-pressed','true');jB.setAttribute('aria-pressed','false');calc();};
+jB.onclick=()=>{dec=23.44;jB.setAttribute('aria-pressed','true');dB.setAttribute('aria-pressed','false');calc();};
+document.getElementById('pisa').onclick=()=>{lat.value=43.72;calc();};document.getElementById('hnl').onclick=()=>{lat.value=21.31;calc();};calc();
+</script></body></html>

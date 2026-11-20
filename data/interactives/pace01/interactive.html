@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Drag the pace: twenty years at different speeds</title>
+<style>
+  :root { --bg:#fbf7ee; --ink:#2b2a26; --muted:#6b6a64; --green:#4f7d34; --sienna:#9a4f2b; --ochre:#c8b44a; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:18px/1.5 "Instrument Sans", system-ui, sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:24px 18px 40px; }
+  h1 { font:400 30px/1.2 "Young Serif", Georgia, serif; margin:0 0 8px; }
+  p { margin:0 0 14px; }
+  .label { display:inline-block; font:600 14px/1 "IBM Plex Mono", monospace; letter-spacing:.06em; color:var(--muted); text-transform:uppercase; }
+  .panel { background:#fffdf7; border:1px solid #d9d2c2; border-radius:6px; padding:16px; margin:18px 0; }
+  label { font-weight:600; display:block; margin-bottom:6px; }
+  input[type=range] { width:100%; min-height:44px; accent-color:var(--green); }
+  .read { font:400 26px/1.3 "Young Serif", Georgia, serif; margin:10px 0 4px; }
+  svg { width:100%; height:auto; display:block; }
+  .marks { display:flex; flex-wrap:wrap; gap:8px; margin-top:10px; }
+  button { min-height:44px; min-width:44px; padding:8px 14px; font:600 16px "Instrument Sans", system-ui, sans-serif; color:var(--ink); background:#f3ecdc; border:1px solid #bdb39d; border-radius:6px; cursor:pointer; }
+  button:focus-visible, input:focus-visible { outline:3px solid var(--sienna); outline-offset:2px; }
+  #ribbon { transition: width .35s ease; }
+  @media (prefers-reduced-motion: reduce) { #ribbon { transition:none; } }
+  small, .src { color:var(--muted); font-size:15px; }
+  ul { padding-left:20px; }
+</style>
+</head>
+<body>
+<main>
+  <span class="label">Ask a Neuroscientist · interactive · drawn in code</span>
+  <h1>Drag the pace: twenty birthdays at different speeds</h1>
+  <p>In New Zealand's Dunedin Study, members born the same year aged at different speeds. Over two decades the slowest gained about 0.40 years of biological change per calendar year, the typical member 1.0 and the fastest 2.44 (Belsky et al., 2022). Move the slider to see what twenty calendar years would mean at each pace.</p>
+
+  <div class="panel">
+    <label for="pace">Pace of aging, biological years per calendar year</label>
+    <input id="pace" type="range" min="0.40" max="2.44" step="0.01" value="1.00" aria-describedby="out">
+    <div class="marks" role="group" aria-label="Jump to a measured pace">
+      <button type="button" data-v="0.40">Slowest, 0.40</button>
+      <button type="button" data-v="1.00">Typical, 1.0</button>
+      <button type="button" data-v="2.44">Fastest, 2.44</button>
+    </div>
+    <p id="out" class="read" aria-live="polite">20 calendar years at 1.00: about 20.0 years of body change.</p>
+    <svg viewBox="0 0 700 120" role="img" aria-labelledby="svgt">
+      <title id="svgt">A ribbon whose length shows biological years over 20 calendar years, drawn to scale from 0 to 48.8 years.</title>
+      <line x1="10" y1="90" x2="690" y2="90" stroke="#8a877f" stroke-width="1.5"/>
+      <g font-family="IBM Plex Mono, monospace" font-size="14" fill="#6b6a64">
+        <text x="10" y="112">0</text><text x="290" y="112" text-anchor="middle">20 years</text><text x="690" y="112" text-anchor="end">48.8</text>
+      </g>
+      <line x1="288.7" y1="20" x2="288.7" y2="95" stroke="#2b2a26" stroke-dasharray="4 5"/>
+      <rect id="ribbon" x="10" y="35" height="40" width="278.7" rx="6" fill="#7fae5a" fill-opacity=".7" stroke="#4f7d34"/>
+    </svg>
+    <p class="src">Scale: the ribbon runs from 0 to 48.8 biological years (2.44 times 20). Dashed line: 20 years, the calendar.</p>
+  </div>
+
+  <div class="panel">
+    <p><strong>Strength of the evidence.</strong> Strong: the range was measured in one cohort with 19 biomarkers at ages 26, 32, 38 and 45 (Belsky et al., 2022). Limited: that cohort is modest in size and from a single country (Belsky et al., 2022). This page shows group findings; it does not estimate anyone's own pace, and no test is recommended.</p>
+    <p><strong>Small and varied:</strong> in a two-year randomized trial, eating less slowed a blood measure of this pace by about 2 to 3%, and responses varied from person to person (Waziry et al., 2023).</p>
+  </div>
+
+  <p>Education, not medical advice.</p>
+  <p class="src">Sources:</p>
+  <ul class="src">
+    <li>Belsky, D. W., et al. (2015). Quantification of biological aging in young adults. PNAS, 112(30), E4104-E4110. https://doi.org/10.1073/pnas.1506264112</li>
+    <li>Belsky, D. W., et al. (2022). DunedinPACE, a DNA methylation biomarker of the pace of aging. eLife, 11, e73420. https://doi.org/10.7554/eLife.73420</li>
+    <li>Waziry, R., et al. (2023). Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial. Nature Aging, 3(3), 248-257. https://doi.org/10.1038/s43587-022-00357-y</li>
+  </ul>
+  <p class="src">Drawn in code by Claude, persona Field-journal watercolourist. No data is stored or sent.</p>
+</main>
+<script>
+(function () {
+  var s = document.getElementById('pace'), out = document.getElementById('out'), r = document.getElementById('ribbon');
+  var X0 = 10, SPAN = 680, MAX = 48.8;
+  function show(v) {
+    v = Math.min(2.44, Math.max(0.40, +v));
+    var yrs = v * 20;
+    r.setAttribute('width', (SPAN * yrs / MAX).toFixed(1));
+    r.setAttribute('fill', v < 1 ? '#7fae5a' : (v < 1.7 ? '#c8b44a' : '#b0623a'));
+    out.textContent = '20 calendar years at ' + v.toFixed(2) + ': about ' + yrs.toFixed(1) + ' years of body change.';
+  }
+  s.addEventListener('input', function () { show(s.value); });
+  Array.prototype.forEach.call(document.querySelectorAll('button[data-v]'), function (b) {
+    b.addEventListener('click', function () { s.value = b.getAttribute('data-v'); show(s.value); s.focus(); });
+  });
+  show(s.value);
+})();
+</script>
+</body>
+</html>

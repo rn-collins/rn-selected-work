@@ -16,7 +16,7 @@ export default async function SourcePreview({ params }: { params: Promise<{ slug
   if (!p) notFound();
   return (
     <CanonicalPage>
-      <p className="shell" style={{ margin: "16px auto 0", padding: "10px 14px", background: "#fdf0c8", fontWeight: 700 }}>
+      <p className="shell" style={{ margin: "16px auto 0", padding: "10px 14px", background: "#FDF0C8", fontWeight: 700 }}>
         Preview for review only. This page opens on rn-selected-work.vercel.app on the post&apos;s release day.
       </p>
       <LabBook p={p} links={<p>This post&apos;s links (Instagram, TikTok, the AaN page, previous and next) appear here once it is out.</p>} />

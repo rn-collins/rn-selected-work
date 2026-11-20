@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en"><head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Rod and frame: set the line upright | Ask a Neuroscientist</title>
+<style>
+:root{--bg:#ece8df;--ink:#1f2328;--muted:#4f5560;--acc:#a4471d;--acc2:#2f5f73}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.5 Archivo,system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:20px}h1{font-family:Spectral,Georgia,serif;font-weight:600;font-size:32px;margin:.2em 0}
+.tag{font-family:"Fira Mono",monospace;font-size:14px;letter-spacing:1px;color:var(--muted)}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:12px 0}input[type=range]{width:260px}
+button{font:inherit;padding:8px 14px;border:2px solid var(--ink);border-radius:10px;background:#fff;cursor:pointer;min-height:44px;min-width:44px}
+button:focus-visible,input:focus-visible,svg:focus-visible{outline:4px solid var(--acc2);outline-offset:3px}
+.big{font-family:Spectral,Georgia,serif;font-size:40px;color:var(--acc)}svg{width:100%;max-width:420px;height:auto;display:block;margin:0 auto;background:#16181c;border-radius:6px}
+.note{font-size:16px;color:var(--muted)}
+</style></head><body><main>
+<p class="tag">REGOLO A PIOMBO · PSA-V01 · INTERACTIVE</p>
+<h1>Rod and frame: set the line upright</h1>
+<p>Tilt the square, then turn the two dots until the line between them looks vertical to you. Press Check to see how far you were from true vertical. Best on a phone held upright, or full screen in a dim room.</p>
+<div class="row"><label for="fr"><strong>Frame tilt</strong></label><input id="fr" type="range" min="-45" max="45" step="5" value="15"><span id="frv">+15°</span></div>
+<div class="row" role="group" aria-label="Turn the line"><button id="l2" aria-label="Turn the line left 2 degrees">⟲ 2°</button><button id="l" aria-label="Turn the line left half a degree">⟲ 0.5°</button><button id="r" aria-label="Turn the line right half a degree">⟳ 0.5°</button><button id="r2" aria-label="Turn the line right 2 degrees">⟳ 2°</button><button id="chk">Check</button><button id="new">New line</button></div>
+<p class="note">Keyboard: left and right arrow keys turn the line by half a degree (with Shift, 2 degrees); Enter checks.</p>
+<svg id="sv" viewBox="0 0 400 400" role="img" aria-labelledby="st" tabindex="0"><title id="st">A white square, tilted, around two dots</title>
+<g id="frame"><rect x="90" y="90" width="220" height="220" fill="none" stroke="#f4f4f4" stroke-width="5"/></g>
+<line id="plumb" x1="200" y1="20" x2="200" y2="380" stroke="#7fb2c4" stroke-width="2" stroke-dasharray="8 8" visibility="hidden"/>
+<g id="rod"><circle cx="200" cy="120" r="8" fill="#e0703f"/><circle cx="200" cy="280" r="8" fill="#f4f4f4"/></g></svg>
+<p aria-live="polite">Your setting: <span class="big" id="res">?</span></p>
+<h2>What the sources say</h2>
+<p><strong>The frame pulls the line (strong):</strong> most people set the line toward a tilted frame. In a headset test with a square tilted 18 degrees, the pull was under 1 degree in 33 young men and about 1.5 degrees in 27 adults aged 50 and over (Abdul Razzak et al., 2020).</p>
+<p><strong>The pull depends on the tilt and on age (moderate):</strong> in virtual reality at 19 frame tilts, the largest age gap came at 15 degrees: a median 7.5 degrees in 50 older adults, 2 in 39 young adults (Adamski et al., 2026).</p>
+<p><strong>In the dark (strong):</strong> healthy people set a line within about 2.5 degrees of vertical; after one-sided inner-ear damage, average tilts reach about 13 degrees (Dieterich and Brandt, 2019).</p>
+<p class="note">This is a toy, not a test: a screen, a room and your phone's own edges all give vertical cues the lab removed. Nothing you do here is stored or sent. Education, not medical advice.</p>
+<p class="note">Sources: Abdul Razzak, R., Bagust, J., & Docherty, S. (2020). Journal of Aging Research, 8284504. https://doi.org/10.1155/2020/8284504 · Adamski, M., et al. (2026). Frontiers in Aging Neuroscience, 18, 1729404. https://doi.org/10.3389/fnagi.2026.1729404 · Dieterich, M., & Brandt, T. (2019). Frontiers in Neurology, 10, 172. https://doi.org/10.3389/fneur.2019.00172 · Drawn in code by Claude, persona Mason's plumb rule (draft).</p>
+</main>
+<script>
+const $=id=>document.getElementById(id);let rod=0,fr=15;
+function draw(){$('frame').setAttribute('transform',`rotate(${fr} 200 200)`);$('rod').setAttribute('transform',`rotate(${rod} 200 200)`);$('frv').textContent=(fr>0?'+':'')+fr+'°'}
+function fresh(){rod=Math.round((Math.random()*30-15)*2)/2||7;$('plumb').setAttribute('visibility','hidden');$('res').textContent='?';draw()}
+function turn(d){rod=Math.round((rod+d)*2)/2;$('plumb').setAttribute('visibility','hidden');$('res').textContent='?';draw()}
+$('fr').addEventListener('input',e=>{fr=+e.target.value;fresh()});
+$('l').onclick=()=>turn(-0.5);$('r').onclick=()=>turn(0.5);$('l2').onclick=()=>turn(-2);$('r2').onclick=()=>turn(2);
+$('chk').onclick=()=>{$('plumb').setAttribute('visibility','visible');const a=Math.abs(rod).toFixed(1);const same=rod*fr>0;
+$('res').textContent=rod===0?'0.0° (dead on)':`${a}° ${rod>0?'right':'left'}${fr!==0?(same?', toward the frame':', away from the frame'):''}`};
+$('new').onclick=fresh;
+document.addEventListener('keydown',e=>{if(e.target.tagName==='INPUT')return;if(e.key==='ArrowLeft'){turn(e.shiftKey?-2:-0.5);e.preventDefault()}if(e.key==='ArrowRight'){turn(e.shiftKey?2:0.5);e.preventDefault()}if(e.key==='Enter'&&e.target.tagName!=='BUTTON')$('chk').click()});
+fresh();
+</script></body></html>

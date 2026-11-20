@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pass, keep testing or fail: the federal child test, step by step · Ask a Neuroscientist</title>
+<style>
+  :root { --bg:#E6E8E6; --ink:#23272B; --orange:#A33F16; --grey:#565C61; --paper:#F7F7F4; --rule:#B9BEC2; --green:#2E6B46; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.55 "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:28px 18px 60px; }
+  h1 { font:700 clamp(24px,5.5vw,36px)/1.2 "Archivo", system-ui, sans-serif; margin:.2em 0 .4em; }
+  h2 { font:700 19px/1.3 "Archivo", system-ui, sans-serif; margin:1.6em 0 .4em; }
+  .tag { font:500 13px "IBM Plex Mono", ui-monospace, monospace; color:var(--grey); letter-spacing:.04em; text-transform:uppercase; }
+  .panel { background:var(--paper); border:1.5px solid var(--rule); border-radius:14px; padding:14px 16px; margin:16px 0; }
+  label { display:block; font-weight:600; margin:8px 0 4px; }
+  input[type=range] { width:100%; height:44px; accent-color:var(--orange); }
+  input:focus-visible, button:focus-visible { outline:3px solid var(--orange); outline-offset:3px; }
+  .scale { display:flex; justify-content:space-between; font:500 14px "IBM Plex Mono", monospace; color:var(--grey); }
+  .row { display:flex; gap:10px; flex-wrap:wrap; margin-top:6px; }
+  button { font:600 16px "Instrument Sans", system-ui, sans-serif; min-height:44px; padding:8px 14px; border-radius:22px; border:1.5px solid var(--grey); background:var(--paper); color:var(--ink); cursor:pointer; }
+  button[aria-pressed=true] { background:var(--ink); color:var(--paper); border-color:var(--ink); }
+  .strip { position:relative; height:44px; background:var(--paper); border:1.5px solid var(--rule); border-radius:10px; margin:6px 0 2px; overflow:hidden; }
+  .zone { position:absolute; top:0; bottom:0; }
+  .zone.pass { background:#CFE0D4; } .zone.cont { background:#E9E3D2; } .zone.fail { background:#F1D3C6; }
+  .marker { position:absolute; top:-2px; bottom:-2px; width:6px; margin-left:-3px; background:var(--ink); border-radius:3px; }
+  .verdict { font:700 26px "Archivo", system-ui, sans-serif; margin:.4em 0 .1em; }
+  .num { font:600 18px "IBM Plex Mono", monospace; }
+  .small { font-size:15px; color:var(--grey); }
+  table { border-collapse:collapse; width:100%; font-size:15px; }
+  th, td { border-bottom:1px solid var(--rule); padding:6px 4px; text-align:left; }
+  ul { padding-left:1.2em; }
+  a { color:var(--orange); }
+  @media (prefers-reduced-motion: reduce) { * { transition:none !important; animation:none !important; } }
+</style>
+</head>
+<body>
+<main>
+  <p class="tag">Ask a Neuroscientist · interactive · the rule's own numbers, not a real test</p>
+  <h1>Pass, keep testing or fail</h1>
+  <p>In the United States, a package is "child resistant" when it passes a test with real children aged 42 to 51 months. They try in pairs: 5 minutes alone, one demonstration by a tester, then 5 more minutes. Children are tested 50 at a time, up to 200, and the count of openings is checked against a table in the regulation (16 CFR 1700.20, Table 1).</p>
+  <p>Pick how many children have been tested so far and how many opened the package. The page reads the verdict from the regulation's table. It is a way to read the rule, not a test result for any product.</p>
+
+  <div class="panel">
+    <span id="panelLab" style="font-weight:600">Children tested so far</span>
+    <div class="row" role="group" aria-labelledby="panelLab">
+      <button type="button" data-n="50" aria-pressed="true">50</button>
+      <button type="button" data-n="100" aria-pressed="false">100</button>
+      <button type="button" data-n="150" aria-pressed="false">150</button>
+      <button type="button" data-n="200" aria-pressed="false">200</button>
+    </div>
+    <span id="winLab" style="font-weight:600;display:block;margin-top:10px">Which count</span>
+    <div class="row" role="group" aria-labelledby="winLab">
+      <button type="button" data-w="10" aria-pressed="true">Full 10 minutes</button>
+      <button type="button" data-w="5" aria-pressed="false">First 5 minutes</button>
+    </div>
+    <label for="open">Children who opened it (cumulative)</label>
+    <input id="open" type="range" min="0" max="50" step="1" value="5" aria-describedby="openval">
+    <div class="scale" aria-hidden="true"><span>0</span><span id="maxlab">50</span></div>
+    <p id="openval" class="num">5 of 50 opened</p>
+  </div>
+
+  <div class="strip" aria-hidden="true"><div id="zp" class="zone pass"></div><div id="zc" class="zone cont"></div><div id="zf" class="zone fail"></div><div id="mk" class="marker"></div></div>
+  <p class="small">Green: pass. Sand: test another 50. Red: fail. The zones come from Table 1.</p>
+  <p id="verdict" class="verdict" aria-live="polite">Pass</p>
+  <p id="why" class="small"></p>
+
+  <h2>The table this page reads</h2>
+  <table>
+    <thead><tr><th>Children</th><th>First 5 min: pass / continue / fail</th><th>Full 10 min: pass / continue / fail</th></tr></thead>
+    <tbody>
+      <tr><td>50</td><td>0 to 3 / 4 to 10 / 11 or more</td><td>0 to 5 / 6 to 14 / 15 or more</td></tr>
+      <tr><td>100</td><td>4 to 10 / 11 to 18 / 19 or more</td><td>6 to 15 / 16 to 24 / 25 or more</td></tr>
+      <tr><td>150</td><td>11 to 18 / 19 to 25 / 26 or more</td><td>16 to 25 / 26 to 34 / 35 or more</td></tr>
+      <tr><td>200</td><td>19 to 30 / none / 31 or more</td><td>26 to 40 / none / 41 or more</td></tr>
+    </tbody>
+  </table>
+  <p class="small">At 100 children and more, the pass rows start above zero because a package can only reach that panel after a "continue" result with fewer children. A package also has to meet the pass marks in 16 CFR 1700.15: at least 85 percent of children unable to open it before the demonstration and 80 percent after, and at least 90 percent of 100 adults aged 50 to 70 able to open and reclose it.</p>
+
+  <h2>What this shows, and what it does not</h2>
+  <ul>
+    <li>A passing package may still be opened by some children in the test. "Child resistant" slows most young children down; it is not "childproof".</li>
+    <li>The rule is what the regulation requires, not a study finding.</li>
+    <li>Homes are not test rooms. In Canadian emergency data, 97.3 percent of detergent-packet cases with a recorded place happened at home, and 86.5 percent of 904 cases were children aged 4 or under (Zutrauen et al., 2024).</li>
+  </ul>
+  <p class="small">Sources: US Consumer Product Safety Commission, 16 CFR 1700.15 and 1700.20 (Code of Federal Regulations, 2025 edition, govinfo.gov); Zutrauen, S., Cheesman, J., &amp; McFaull, S. R. (2024), Injury Epidemiology, 11, 31, <a href="https://doi.org/10.1186/s40621-024-00513-5">doi.org/10.1186/s40621-024-00513-5</a>. Drawn in code by Claude for Ask a Neuroscientist; nothing you choose is stored or sent.</p>
+  <p class="small">Education, not medical advice.</p>
+</main>
+<script>
+// 16 CFR 1700.20 Table 1: [passMax, continueMax or null] per panel and window; fail is anything above continueMax (or passMax at 200).
+const T = {50:{5:[3,10],10:[5,14]}, 100:{5:[10,18],10:[15,24]}, 150:{5:[18,25],10:[25,34]}, 200:{5:[30,null],10:[40,null]}};
+const PMIN = {50:{5:0,10:0}, 100:{5:4,10:6}, 150:{5:11,10:16}, 200:{5:19,10:26}};
+let n = 50, w = 10;
+const r = document.getElementById('open');
+function upd(){
+  r.max = n; if (+r.value > n) r.value = n;
+  document.getElementById('maxlab').textContent = n;
+  const k = +r.value, [p, c] = T[n][w], top = c === null ? p : c, min = PMIN[n][w];
+  const pct = v => (100 * v / n) + '%';
+  const zp = document.getElementById('zp'), zc = document.getElementById('zc'), zf = document.getElementById('zf');
+  zp.style.left = '0'; zp.style.width = pct(p + 0.5);
+  zc.style.left = pct(p + 0.5); zc.style.width = c === null ? '0' : pct(c - p);
+  zf.style.left = pct(top + 0.5); zf.style.width = 'calc(100% - ' + pct(top + 0.5) + ')';
+  document.getElementById('mk').style.left = pct(k + 0.5 > n ? n : k + 0.5);
+  document.getElementById('openval').textContent = k + ' of ' + n + ' opened';
+  let v, why;
+  if (k > top) { v = 'Fail'; why = 'More than ' + top + ' openings at ' + n + ' children fails the package.'; }
+  else if (k <= p) {
+    if (k < min) { v = 'Pass'; why = 'At or under ' + p + ' openings passes. (A real test would have stopped earlier with this few openings; this panel is only reached after a continue result.)'; }
+    else { v = 'Pass'; why = 'At or under ' + p + ' openings at ' + n + ' children passes this count.'; }
+  } else { v = 'Keep testing'; why = 'Between ' + (p + 1) + ' and ' + c + ' openings: test another 50 children.'; }
+  document.getElementById('verdict').textContent = v;
+  document.getElementById('verdict').style.color = v === 'Fail' ? 'var(--orange)' : v === 'Pass' ? 'var(--green)' : 'var(--ink)';
+  document.getElementById('why').textContent = why + ' (' + (w === 10 ? 'full 10 minutes' : 'first 5 minutes') + ')';
+}
+document.querySelectorAll('button[data-n]').forEach(b => b.addEventListener('click', () => { n = +b.dataset.n; document.querySelectorAll('button[data-n]').forEach(x => x.setAttribute('aria-pressed', x === b)); upd(); }));
+document.querySelectorAll('button[data-w]').forEach(b => b.addEventListener('click', () => { w = +b.dataset.w; document.querySelectorAll('button[data-w]').forEach(x => x.setAttribute('aria-pressed', x === b)); upd(); }));
+r.addEventListener('input', upd); upd();
+</script>
+</body>
+</html>

@@ -18,6 +18,11 @@ const nextConfig: NextConfig = {
   // Keep the dev watcher on this repo. A lockfile in the home directory
   // otherwise makes Turbopack treat /Users/rn as the workspace.
   turbopack: { root: projectRoot },
+  // Post files served through the release-gated routes (lib/gated-files.ts) are read from data/ at request time.
+  outputFileTracingIncludes: {
+    "/charts/[slug]/[file]": ["./data/charts/**/*"],
+    "/interactives/[slug]/[...path]": ["./data/interactives/**/*"],
+  },
   // Keep the production build within the existing deployment memory budget.
   // A one-CPU cap in dev leaves the first compile running until the request times out.
   experimental:

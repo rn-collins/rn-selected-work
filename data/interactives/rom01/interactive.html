@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en"><head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Six neighbours or a fixed reach: spread the flock | Ask a Neuroscientist</title>
+<style>
+:root{--bg:#eef0f3;--ink:#1b2230;--muted:#4e5668;--acc:#b8322a;--acc2:#3d5a80}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.5 Rubik,system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:20px}h1{font-family:Bitter,Georgia,serif;font-weight:700;font-size:30px;margin:.2em 0}
+.tag{font-family:"Chivo Mono",monospace;font-size:14px;letter-spacing:1px;color:var(--muted)}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:12px 0}input[type=range]{width:280px}
+button{font:inherit;padding:8px 14px;border:2px solid var(--ink);border-radius:10px;background:#fff;cursor:pointer;min-height:44px}
+button[aria-pressed=true]{background:var(--ink);color:#fff}
+button:focus-visible,input:focus-visible{outline:4px solid var(--acc2);outline-offset:3px}
+.big{font-family:Bitter,Georgia,serif;font-size:34px;color:var(--acc)}svg{width:100%;max-width:480px;height:auto;display:block;margin:0 auto;background:#fff;border:2px solid #d4d9e2}
+.note{font-size:16px;color:var(--muted)}
+</style></head><body><main>
+<p class="tag">STEREO PAIR · ROMA TERMINI · INTERACTIVE</p>
+<h1>Six neighbours or a fixed reach: spread the flock</h1>
+<p>One bird is ringed in red. Lines join it to the birds it follows. Pick a rule, then spread the flock out, as a flock does when it stretches under attack. Under a fixed reach, the ringed bird loses its neighbours as the flock thins. Under a fixed number, it always keeps seven.</p>
+<div class="row" role="group" aria-label="Rule"><button id="rT" aria-pressed="true">Follow the 7 nearest</button><button id="rM" aria-pressed="false">Follow all within a fixed reach</button></div>
+<div class="row"><label for="sp"><strong>Spread the flock</strong></label><input id="sp" type="range" min="1" max="2.2" step="0.05" value="1"><span class="note" id="spv">x1.00</span></div>
+<div class="row"><button id="nx">Ring another bird</button><span>Birds it follows: <span class="big" id="cnt" aria-live="polite">7</span></span></div>
+<svg id="sv" viewBox="-220 -220 440 440" role="img" aria-labelledby="st"><title id="st">A flock of 140 dots, one ringed, with lines to the birds it follows</title><g id="g"></g></svg>
+<p class="note">Keyboard: Tab to a control; the slider moves with the arrow keys. Nothing moves on its own. The flock is drawn in 2D for clarity; the study measured real flocks in 3D.</p>
+<h2>What the source says</h2>
+<p><strong>Six to seven neighbours (strong, for starlings over Rome):</strong> in 10 flocks filmed at the Termini roost, each bird interacted on average with 6.5 neighbours (six to seven), however far apart they were, and not with every bird inside a fixed distance (Ballerini et al., 2008).</p>
+<p><strong>Why it matters (simulation, the authors' argument):</strong> within the same distance the team counted 10 birds in their densest flock and 1 in the sparsest. In their 2D simulation of a predator attack, stragglers were 43 percent of the pieces under a distance rule and 5 percent under a number rule.</p>
+<p><strong>This toy (a model, not a finding):</strong> the dots are placed by a fixed pattern, not from the study's data; the reach is set so that the first ringed bird starts with a similar number of neighbours (nine) before you spread the flock; the fixed number is 7, the top of the six to seven the study found.</p>
+<p class="note">Source: Ballerini, M., Cabibbo, N., Candelier, R., Cavagna, A., Cisbani, E., Giardina, I., Lecomte, V., Orlandi, A., Parisi, G., Procaccini, A., Viale, M., & Zdravkovic, V. (2008). Interaction ruling animal collective behavior depends on topological rather than metric distance: Evidence from a field study. PNAS, 105(4), 1232-1237. https://doi.org/10.1073/pnas.0711437105 · Drawn in code by Claude, persona Stereo-match marker (draft). Nothing you do here is stored or sent.</p>
+</main>
+<script>
+const $=id=>document.getElementById(id);let s=7,P=[];
+function rnd(){s=(s*16807)%2147483647;return s/2147483647}
+for(let i=0;i<140;i++){const a=rnd()*Math.PI*2,r=Math.sqrt(rnd())*1;P.push([Math.cos(a)*r*95,Math.sin(a)*r*60])}
+let sel=0,topo=true;const R=18;
+function near(){let b=0,d=1e9;P.forEach((p,i)=>{const q=Math.hypot(p[0],p[1]);if(q<d){d=q;b=i}});return b}
+sel=near();
+function draw(){const k=+$('sp').value;$('spv').textContent='x'+k.toFixed(2);const Q=P.map(p=>[p[0]*k,p[1]*k]);const o=Q[sel];
+const d=Q.map((q,i)=>[Math.hypot(q[0]-o[0],q[1]-o[1]),i]).filter(x=>x[1]!==sel).sort((a,b)=>a[0]-b[0]);
+const nb=topo?d.slice(0,7):d.filter(x=>x[0]<=R);let h='';
+if(!topo)h+=`<circle cx="${o[0].toFixed(1)}" cy="${o[1].toFixed(1)}" r="${R}" fill="none" stroke="#3d5a80" stroke-width="1.5" stroke-dasharray="4 4"/>`;
+nb.forEach(x=>{const q=Q[x[1]];h+=`<line x1="${o[0].toFixed(1)}" y1="${o[1].toFixed(1)}" x2="${q[0].toFixed(1)}" y2="${q[1].toFixed(1)}" stroke="#b8322a" stroke-width="2"/>`});
+Q.forEach((q,i)=>{h+=`<circle cx="${q[0].toFixed(1)}" cy="${q[1].toFixed(1)}" r="3.2" fill="${i===sel?'#b8322a':'#1b2230'}"/>`});
+h+=`<rect x="${(o[0]-9).toFixed(1)}" y="${(o[1]-9).toFixed(1)}" width="18" height="18" fill="none" stroke="#b8322a" stroke-width="2.5"/>`;
+$('g').innerHTML=h;$('cnt').textContent=nb.length}
+$('sp').addEventListener('input',draw);
+$('rT').onclick=()=>{topo=true;$('rT').setAttribute('aria-pressed','true');$('rM').setAttribute('aria-pressed','false');draw()};
+$('rM').onclick=()=>{topo=false;$('rM').setAttribute('aria-pressed','true');$('rT').setAttribute('aria-pressed','false');draw()};
+$('nx').onclick=()=>{sel=(sel+37)%P.length;draw()};
+draw();
+</script></body></html>

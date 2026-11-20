@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Warp the word | Ask a Neuroscientist</title>
+<style>/* Google Fonts, self-hosted (latin subset, SIL OFL; fetched from fonts.gstatic.com Nov 20, 2026) */
+@font-face{font-family:'DM Mono';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/DMMono-500.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Fraunces';font-style:normal;font-weight:700;font-display:swap;src:url(fonts/Fraunces-700.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Instrument Sans';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/InstrumentSans-variable.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Instrument Sans';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/InstrumentSans-variable.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+</style>
+<style>
+:root{--bg:#F2E6CC;--ink:#2B1633;--muted:#5A4A3A;--card:#E9DAB8;--acc:#A3360A;--teal:#1D6B66}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 19px/1.55 'Instrument Sans',system-ui,sans-serif}
+main{max-width:980px;margin:0 auto;padding:28px 18px 60px}
+.tag{font:500 12px/1.2 'DM Mono',monospace;letter-spacing:1.5px;text-transform:uppercase;color:var(--acc)}
+h1{font:700 clamp(34px,5vw,54px)/1.05 Fraunces,Georgia,serif;margin:10px 0 6px}
+.deck{font:600 clamp(19px,2.3vw,24px)/1.35 'Instrument Sans',sans-serif;color:var(--muted);margin:0 0 20px}
+.proof{border:2px solid var(--ink);padding:16px;position:relative;background:var(--bg)}
+canvas{width:100%;height:auto;display:block;aspect-ratio:16/9;background:var(--bg)}
+.controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:14px 0 4px}
+label{font:500 13px 'DM Mono',monospace;letter-spacing:1px;text-transform:uppercase}
+input[type=range]{flex:1;min-width:220px;accent-color:var(--acc);height:44px}
+.controls button{font:500 13px 'DM Mono',monospace;letter-spacing:1px;text-transform:uppercase;border:1.5px solid var(--ink);background:transparent;color:var(--ink);padding:10px 12px;border-radius:4px;cursor:pointer;min-height:44px}
+.controls button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.meter{display:flex;gap:10px;align-items:center;font:500 14px 'DM Mono',monospace}
+.bar{flex:1;height:16px;border:1.5px solid var(--ink);position:relative;min-width:160px}
+.fill{position:absolute;left:0;top:0;bottom:0;background:var(--teal)}
+.note{background:var(--card);padding:14px 16px;margin:18px 0;border-left:4px solid var(--acc)}
+.label{font:500 12px 'DM Mono',monospace;letter-spacing:1px;text-transform:uppercase;color:var(--acc)}
+footer{margin-top:30px;border-top:1px solid rgba(43,22,51,.25);padding-top:16px;font-size:15px;color:var(--muted)}
+footer a,.note a{color:var(--acc)}
+:focus-visible{outline:3px solid var(--teal);outline-offset:2px}
+</style>
+</head>
+<body>
+<main>
+<p class="tag">Ask a Neuroscientist · Reading the 1960s poster · Psychedelics Design 2026</p>
+<h1>Warp the word</h1>
+<p class="deck">How far can a word bend before your brain stops reading it?</p>
+
+<div class="proof">
+ <canvas id="c" width="1600" height="900" role="img" aria-label="A word drawn in our own lettering, bent and packed more as the slider moves right, with a gaze mark at the left."></canvas>
+ <div class="controls" role="group" aria-label="Choose a word">
+  <button data-w="READ" aria-pressed="true">READ</button>
+  <button data-w="SLOW" aria-pressed="false">SLOW</button>
+  <button data-w="SURE" aria-pressed="false">SURE</button>
+  <button data-w="WARP" aria-pressed="false">WARP</button>
+ </div>
+ <div class="controls">
+  <label for="t">Warp and pack</label>
+  <input id="t" type="range" min="0" max="100" value="0" aria-valuetext="Plain lettering">
+ </div>
+ <div class="controls">
+  <label for="g">Glance from the word</label>
+  <input id="g" type="range" min="0" max="100" value="15" aria-valuetext="Gaze close to the word">
+ </div>
+ <div class="meter" aria-hidden="true"><span>spacing</span><div class="bar"><div class="fill" id="fill"></div></div><span>needed</span></div>
+ <p id="say" aria-live="polite">Plain lettering. Letter spacing is more than half the distance from your gaze, so the letters stand clear.</p>
+</div>
+
+<div class="note"><span class="label">Well established</span><br>Letters closer together than a critical spacing jumble into a mess. Away from the centre of gaze, that spacing is roughly half the distance from where you look (the Bouma law), and it limits reading speed (Pelli &amp; Tillman, 2008).</div>
+<div class="note"><span class="label">One small study</span><br>The brain's visual word form area still responded to words made only of moving or bright dots, as they became visible, in 6 adults (Rauschecker et al., 2011). Odd shapes may cost less than tight packing.</div>
+<div class="note"><span class="label">Our own synthesis, untested</span><br>Museum records describe Wes Wilson's lettering as drawn free-hand and stretched to fill the space (V&amp;A), after Viennese Secession lettering (SAAM). Packing letters together would raise crowding, so the posters plausibly read slowly but surely. No study has tested the posters.</div>
+<p>How to read the meter: the slider bends the letters and narrows the gaps between them, as space-filling lettering does. The meter compares the centre-to-centre spacing of the letters with half the distance from your chosen gaze point to the word, the rough Bouma rule. When the spacing falls below it, the letters are likely to crowd. Try a plain word with your gaze far away too: crowding is about spacing and distance, whatever the letter shapes. This is a geometric illustration of a rule from the research, drawn in code; it does not measure your own vision. Nothing on this page flickers, and nothing you do here is stored or sent.</p>
+
+<footer>
+ <p>Lettering and interactive: drawn in code by Claude, draft persona Split-fountain proof, using our own stroke alphabet. No poster, font or letterform is reproduced, traced or copied.</p>
+ <p>Sources: Pelli &amp; Tillman (2008), <a href="https://doi.org/10.1038/nn.2187">Nature Neuroscience 11(10), 1129 to 1135</a>; Rauschecker et al. (2011), <a href="https://doi.org/10.1016/j.neuron.2011.06.036">Neuron 71(5), 941 to 953</a>; Victoria and Albert Museum, <a href="https://collections.vam.ac.uk/item/O1024616/">E.514-2004</a>; Smithsonian American Art Museum, <a href="https://americanart.si.edu/node/9520">Wes Wilson</a>.</p>
+ <p>#AskANeuro</p>
+</footer>
+</main>
+<script>
+(function(){
+ function arc(cx,cy,rx,ry,a0,a1,n){n=n||28;var o=[];for(var i=0;i<=n;i++){var a=(a0+(a1-a0)*i/n)*Math.PI/180;o.push([cx+rx*Math.cos(a),cy+ry*Math.sin(a)]);}return o;}
+ var GL={
+  A:[.72,[[[0,0],[.36,1],[.72,0]],[[.15,.4],[.57,.4]]]],
+  D:[.70,[[[0,0],[0,1],[.25,1]].concat(arc(.25,.5,.43,.5,90,-90),[[0,0]])]],
+  E:[.56,[[[.56,1],[0,1],[0,0],[.56,0]],[[0,.52],[.44,.52]]]],
+  L:[.50,[[[0,1],[0,0],[.5,0]]]],
+  O:[.80,[arc(.4,.5,.4,.5,0,360,48)]],
+  P:[.58,[[[0,0],[0,1],[.3,1]].concat(arc(.3,.74,.26,.26,90,-90),[[0,.48]])]],
+  R:[.62,[[[0,0],[0,1],[.3,1]].concat(arc(.3,.74,.26,.26,90,-90),[[0,.48]]),[[.24,.48],[.62,0]]]],
+  S:[.60,[arc(.3,.75,.28,.25,25,270).concat(arc(.3,.25,.3,.25,90,-155))]],
+  U:[.62,[[[0,1],[0,.31]].concat(arc(.31,.31,.31,.31,180,360),[[.62,1]])]],
+  W:[.84,[[[0,1],[.2,0],[.42,.72],[.64,0],[.84,1]]]]
+ };
+ function dense(s){var o=[s[0]];for(var i=1;i<s.length;i++){var a=s[i-1],b=s[i],n=Math.max(1,Math.round(Math.hypot(b[0]-a[0],b[1]-a[1])/.02));for(var k=1;k<=n;k++)o.push([a[0]+(b[0]-a[0])*k/n,a[1]+(b[1]-a[1])*k/n]);}return o;}
+ var cv=document.getElementById('c'),g=cv.getContext('2d'),W=cv.width,H=cv.height;
+ var t=document.getElementById('t'),gz=document.getElementById('g'),say=document.getElementById('say'),fill=document.getElementById('fill');
+ var word='READ',INK='#2B1633',ACC='#C2410C',TEAL='#1D6B66';
+ function layout(T){
+  var gap=.2*(1-.85*T),x=0,st=[],cs=[];
+  for(var i=0;i<word.length;i++){var gl=GL[word[i]];cs.push(x+gl[0]/2);gl[1].forEach(function(s){st.push(s.map(function(p){return [x+p[0],p[1]];}));});x+=gl[0];if(i<word.length-1)x+=gap;}
+  return {st:st,tw:x,cc:(cs[cs.length-1]-cs[0])/(cs.length-1)};
+ }
+ function draw(){
+  var T=t.value/100,G=gz.value/100,L=layout(T),L0=layout(0);
+  var bx=W*.42,bw=W*.52,by=H*.18,bh=H*.62,sq=1-.35*T;
+  var sc=bw/L0.tw, ww=L.tw*sc*sq, x0=bx+(bw-ww)/2, cx=bx+bw/2;
+  g.clearRect(0,0,W,H);g.fillStyle='#F2E6CC';g.fillRect(0,0,W,H);
+  var gx=(bx+bw*.15)-(bx+bw*.15-110)*G,gy=H*.5;
+  g.strokeStyle=ACC;g.lineWidth=6;g.beginPath();g.moveTo(gx-16,gy);g.lineTo(gx+16,gy);g.moveTo(gx,gy-16);g.lineTo(gx,gy+16);g.stroke();
+  g.fillStyle=ACC;g.font='600 34px "Instrument Sans",sans-serif';g.textAlign='center';g.fillText('your gaze',gx,gy+62);
+  [[ACC,.5,6,4],[INK,1,0,0]].forEach(function(pl){
+   g.strokeStyle=pl[0];g.globalAlpha=pl[1];g.lineWidth=10+14*T;g.lineCap='round';g.lineJoin='round';
+   L.st.forEach(function(s){g.beginPath();dense(s).forEach(function(p,i){
+     var un=p[0]/L.tw,sw=1-T*.55*Math.pow(2*un-1,2),top=.5+.5*sw,bot=.5-.5*sw,vv=bot+(top-bot)*p[1];
+     var uu=un+T*.035*Math.sin(2*Math.PI*(p[1]*1.2+un*3));
+     var X=x0+ww*uu+pl[2],Y=by+bh*(1-vv)+pl[3];if(i)g.lineTo(X,Y);else g.moveTo(X,Y);});g.stroke();});
+  });
+  g.globalAlpha=1;
+  // Bouma rule: centre-to-centre letter spacing against half the distance from the gaze point to the word
+  var spacing=L.cc*sc*sq,dist=Math.abs(cx-gx),need=dist*.5;
+  fill.style.width=(Math.min(1,spacing/Math.max(need,1))*100).toFixed(0)+'%';
+  g.strokeStyle=TEAL;g.lineWidth=3;g.setLineDash([12,10]);g.beginPath();g.moveTo(Math.min(gx,cx),H*.93);g.lineTo(Math.max(gx,cx),H*.93);g.stroke();g.setLineDash([]);
+  g.fillStyle=TEAL;g.textAlign='center';g.fillText('distance from gaze',(gx+cx)/2,H*.93-16);
+  var crowded=spacing<need;
+  t.setAttribute('aria-valuetext',T<.05?'Plain lettering':T<.5?'Lightly warped':T<.9?'Strongly warped and packed':'Fully warped to fill the space');
+  gz.setAttribute('aria-valuetext',G<.33?'Gaze close to the word':G<.66?'Gaze a little away':'Gaze far from the word');
+  say.textContent=(T<.05?'Plain lettering. ':T<.5?'Lightly warped. ':'Warped and packed. ')+
+   (crowded?'Letter spacing is now less than half the distance from your gaze, so these letters are likely to crowd: you would need to look at them more directly.':'Letter spacing is more than half the distance from your gaze, so the letters stand clear.');
+ }
+ [].forEach.call(document.querySelectorAll('[data-w]'),function(b){b.addEventListener('click',function(){word=b.getAttribute('data-w');[].forEach.call(document.querySelectorAll('[data-w]'),function(x){x.setAttribute('aria-pressed',x===b?'true':'false');});draw();});});
+ t.addEventListener('input',draw);gz.addEventListener('input',draw);
+ if(document.fonts&&document.fonts.ready)document.fonts.ready.then(draw);
+ draw();
+})();
+</script>
+</body>
+</html>

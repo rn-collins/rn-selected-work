@@ -1,0 +1,5 @@
+label,value,text,axis,source,source_ref
+"Time to fall asleep, night 1",20.37,20.37,Minutes,"Chart: Ask a Neuroscientist, from Wick et al. (2024) data.","Wick et al. (2024), SLEEP, PMC11467056, full text read Nov 20, 2026: Table 1, SOL (min) Night 1 20.37 ± 2.05, N = 45"
+"Time to fall asleep, night 2",14.01,14.01,Minutes,"Chart: Ask a Neuroscientist, from Wick et al. (2024) data.","Wick et al. (2024), SLEEP, PMC11467056, full text read Nov 20, 2026: Table 1, SOL (min) Night 2 14.01 ± 2.19; F(1,44) = 8.33, p = .006"
+"Total sleep, night 1",438.05,438.05,Minutes,"Chart: Ask a Neuroscientist, from Wick et al. (2024) data.","Wick et al. (2024), SLEEP, PMC11467056, full text read Nov 20, 2026: Table 1, TST (min) Night 1 438.05 ± 5.05, N = 44"
+"Total sleep, night 2",450.65,450.65,Minutes,"Chart: Ask a Neuroscientist, from Wick et al. (2024) data.","Wick et al. (2024), SLEEP, PMC11467056, full text read Nov 20, 2026: Table 1, TST (min) Night 2 450.65 ± 4.14; F(1,43) = 4.26, p = .045"

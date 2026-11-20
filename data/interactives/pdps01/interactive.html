@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Four enzymes, step by step: how a mushroom builds psilocybin</title>
+<style>
+:root{--bg:#F2EDDF;--ink:#22201B;--muted:#5E594F;--blue:#2C5AA0;--brown:#6E4B2C;--card:#FBF8EF}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.5 "IBM Plex Sans Condensed",system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:24px 18px 48px}
+h1{font:700 30px/1.2 "Libre Caslon Text",Georgia,serif;margin:0 0 6px}
+.deck{color:var(--muted);margin:0 0 18px}
+.plate{background:var(--card);border:2px solid var(--ink);outline:1px solid var(--ink);outline-offset:-8px;padding:16px}
+svg{width:100%;max-width:420px;height:auto;display:block;margin:0 auto}
+.station circle{fill:var(--card);stroke:var(--ink);stroke-width:4}
+.station.done circle{fill:var(--brown)}
+.station.now circle{fill:var(--blue)}
+.station text{font:600 21px "Libre Caslon Text",Georgia,serif;fill:var(--ink)}
+.station.now text{fill:var(--blue)}
+.track{stroke:var(--brown);stroke-width:8}
+.track.todo{stroke:#CFC6B2}
+.branch{opacity:0}
+.branch.on{opacity:1}
+@media (prefers-reduced-motion:no-preference){.station circle,.branch,.track{transition:fill .35s,opacity .35s,stroke .35s}}
+.panel{margin-top:14px;min-height:150px}
+.panel h2{font:700 22px "Libre Caslon Text",Georgia,serif;margin:0 0 4px}
+.label{display:inline-block;border:1.5px solid var(--ink);padding:0 8px;margin:6px 0;font-weight:600}
+.src{color:var(--muted);font-size:15px}
+.controls{display:flex;gap:12px;margin-top:12px;flex-wrap:wrap;align-items:center}
+button{min-width:44px;min-height:44px;padding:8px 18px;font:600 17px inherit;font-family:inherit;background:var(--card);color:var(--ink);border:2px solid var(--ink);cursor:pointer}
+button:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+button[disabled]{opacity:.45;cursor:default}
+.count{color:var(--muted)}
+footer{margin-top:22px;font-size:15px;color:var(--muted)}
+footer a{color:var(--blue)}
+</style>
+</head>
+<body>
+<main>
+<h1>Four enzymes, step by step</h1>
+<p class="deck">How a mushroom builds psilocybin from tryptophan, an amino acid, and why its caps bruise blue. Fungal science only. Use Next and Back, or the arrow keys.</p>
+<div class="plate">
+<svg viewBox="0 0 360 520" role="img" aria-labelledby="svgt">
+<title id="svgt">A station line from tryptophan through tryptamine, 4-hydroxytryptamine and norbaeocystin to psilocybin, with a bruising branch to psilocin and blue chains. Drawn in code.</title>
+<g id="tracks"></g>
+<g id="stations"></g>
+<g class="branch" id="branch">
+<line x1="40" y1="440" x2="40" y2="490" stroke="#2C5AA0" stroke-width="6" stroke-dasharray="8 7"/>
+<circle cx="40" cy="500" r="12" fill="#2C5AA0"/>
+<text x="66" y="490" font-family="IBM Plex Sans Condensed,system-ui,sans-serif" font-weight="700" font-size="18" fill="#2C5AA0">PsiP, PsiL: psilocin, then chains</text>
+<g id="beads"></g>
+</g>
+</svg>
+<div class="panel" aria-live="polite" id="panel"></div>
+<div class="controls">
+<button id="back" type="button">Back</button>
+<button id="next" type="button">Next</button>
+<span class="count" id="count"></span>
+</div>
+</div>
+<footer>
+<p>Education, not medical advice. Drawn in code by Claude, persona Herbarium bench plate. Nothing on this page is stored or sent.</p>
+<p>Sources: Reynolds et al. (2018), Evolution Letters, <a href="https://doi.org/10.1002/evl3.42">doi.org/10.1002/evl3.42</a> (order of the steps, citing Fricke et al., 2017); Bradshaw et al. (2024), PNAS, <a href="https://doi.org/10.1073/pnas.2311245121">doi.org/10.1073/pnas.2311245121</a>; Boyce et al. (2019), Fungal Ecology, <a href="https://doi.org/10.1016/j.funeco.2019.06.002">doi.org/10.1016/j.funeco.2019.06.002</a> (enzyme names); Lenz et al. (2020), Angewandte Chemie International Edition, <a href="https://doi.org/10.1002/anie.201910175">doi.org/10.1002/anie.201910175</a> (bruising). #AskANeuro</p>
+</footer>
+</main>
+<script>
+const names=["Tryptophan","Tryptamine","4-hydroxytryptamine","Norbaeocystin","Psilocybin"];
+const ys=[30,130,230,330,430];
+const steps=[
+ {h:"Start: tryptophan",t:"Every living cell has the amino acid tryptophan. In psilocybin mushrooms, four enzymes work on it in turn.",l:"Shown in the lab",s:"Reynolds et al. (2018), citing Fricke et al. (2017)"},
+ {h:"Step 1: PsiD",t:"PsiD removes a carboxyl group from tryptophan, giving tryptamine. Tested in the lab, PsiD acted on tryptophan and not on similar amino acids.",l:"Shown in the lab",s:"Reynolds et al. (2018)"},
+ {h:"Step 2: PsiH",t:"PsiH adds a hydroxyl group at position 4, giving 4-hydroxytryptamine.",l:"Shown in the lab",s:"Reynolds et al. (2018); Bradshaw et al. (2024)"},
+ {h:"Step 3: PsiK",t:"PsiK, a kinase, adds a phosphate, giving norbaeocystin.",l:"Shown in the lab",s:"Reynolds et al. (2018); Boyce et al. (2019)"},
+ {h:"Step 4: PsiM",t:"PsiM adds methyl groups to the nitrogen, finishing psilocybin. The four genes sit side by side in one cluster, and that cluster has jumped between unrelated mushrooms.",l:"Shown in the lab",s:"Reynolds et al. (2018); Bradshaw et al. (2024)"},
+ {h:"Bonus: the blue bruise",t:"When a cap is injured, PsiP removes the phosphate, giving psilocin, and PsiL oxidizes it. The units link into chains, mostly 3 to 13 long. There is no single blue molecule.",l:"Chemistry shown in the lab",s:"Lenz et al. (2020)"}
+];
+const NS="http://www.w3.org/2000/svg";
+const tracks=document.getElementById("tracks"),st=document.getElementById("stations");
+for(let i=0;i<4;i++){const l=document.createElementNS(NS,"line");l.setAttribute("y1",ys[i]);l.setAttribute("y2",ys[i+1]);l.setAttribute("x1",40);l.setAttribute("x2",40);l.setAttribute("class","track todo");tracks.appendChild(l);}
+names.forEach((n,i)=>{const g=document.createElementNS(NS,"g");g.setAttribute("class","station");const c=document.createElementNS(NS,"circle");c.setAttribute("cx",40);c.setAttribute("cy",ys[i]);c.setAttribute("r",16);const t=document.createElementNS(NS,"text");t.setAttribute("x",72);t.setAttribute("y",ys[i]+8);t.textContent=n;g.appendChild(c);g.appendChild(t);st.appendChild(g);});
+const enz=["PsiD","PsiH","PsiK","PsiM"];
+enz.forEach((e,i)=>{const t=document.createElementNS(NS,"text");t.setAttribute("x",72);t.setAttribute("y",(ys[i]+ys[i+1])/2+7);t.setAttribute("font-family","IBM Plex Sans Condensed,system-ui,sans-serif");t.setAttribute("font-weight","700");t.setAttribute("font-size","18");t.setAttribute("fill","#6E4B2C");t.textContent=e;tracks.appendChild(t);});
+const beads=document.getElementById("beads");for(let k=0;k<7;k++){const c=document.createElementNS(NS,"circle");c.setAttribute("cx",80+k*20);c.setAttribute("cy",508);c.setAttribute("r",9);c.setAttribute("fill","#2C5AA0");c.setAttribute("fill-opacity",.5+.07*k);beads.appendChild(c);}
+let i=0;const panel=document.getElementById("panel"),back=document.getElementById("back"),next=document.getElementById("next"),count=document.getElementById("count");
+function draw(){
+ const s=steps[i];const reach=Math.min(i,4);
+ [...st.children].forEach((g,k)=>g.setAttribute("class","station"+(k<reach?" done":k==reach?" now":"")));
+ [...tracks.querySelectorAll("line")].forEach((l,k)=>l.setAttribute("class","track"+(k<reach?"":" todo")));
+ document.getElementById("branch").setAttribute("class","branch"+(i==5?" on":""));
+ panel.innerHTML=`<h2>${s.h}</h2><p>${s.t}</p><span class="label">${s.l}</span><p class="src">Source: ${s.s}</p>`;
+ back.disabled=i==0;next.disabled=i==steps.length-1;count.textContent=`Step ${i+1} of ${steps.length}`;
+}
+back.onclick=()=>{if(i>0){i--;draw();}};next.onclick=()=>{if(i<steps.length-1){i++;draw();}};
+document.addEventListener("keydown",e=>{if(e.key==="ArrowRight")next.click();if(e.key==="ArrowLeft")back.click();});
+draw();
+</script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+label,value,text,axis,source,source_ref
+Before the course (29 people),2.28,2.28,Braille letters read per minute (mean),"Chart: Ask a Neuroscientist, from Bola et al. (2017) data.","Bola et al. (2017), Sci Rep, PMC5727097, full text read Nov 20, 2026: Results (Fig. 1b), letter reading speed: baseline mean 2.28 LPM (SD 1.72)"
+After 9 months (29 people),18.4,18.4,Braille letters read per minute (mean),"Chart: Ask a Neuroscientist, from Bola et al. (2017) data.","Bola et al. (2017), Sci Rep, PMC5727097, full text read Nov 20, 2026: Results (Fig. 1b), letter reading speed: after training 18.4 LPM (SD 4.81); t(28) = 19.87, p < 0.001"
+Nine months after the course ended (19 people),13.7,13.7,Braille letters read per minute (mean),"Chart: Ask a Neuroscientist, from Bola et al. (2017) data.","Bola et al. (2017), Sci Rep, PMC5727097, full text read Nov 20, 2026: Results (Fig. 1b), letter reading speed: follow-up 13.7 LPM (SD 5.39); t(18) = 5.72"

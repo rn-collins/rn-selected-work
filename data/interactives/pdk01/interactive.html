@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fixed or surprise: a learning rule you can play with (Ask a Neuroscientist)</title>
+<style>
+  :root { --bg:#F4F1E8; --ink:#1D1F2A; --muted:#4A4F5E; --grid:#D9DCE3; --accent:#B0302A; --card:#ECE7DA; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.5 "Work Sans", system-ui, sans-serif;
+    background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+    background-size: 22px 22px; }
+  main { max-width: 760px; margin: 0 auto; padding: 24px 18px 48px; background: rgba(244,241,232,.94); }
+  h1 { font: 800 1.7rem/1.15 "Archivo", system-ui, sans-serif; margin: .2em 0 .3em; }
+  .deck { color: var(--muted); margin: 0 0 1em; }
+  fieldset { border: 2px solid var(--ink); border-radius: 10px; padding: 10px 14px; margin: 0 0 14px; }
+  legend { font-weight: 700; padding: 0 6px; }
+  label { margin-right: 18px; display: inline-block; padding: 6px 0; }
+  .row { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 14px; }
+  button { font: 700 1rem "Work Sans", system-ui, sans-serif; padding: 12px 20px; border-radius: 10px; border: 2px solid var(--ink);
+    background: var(--card); color: var(--ink); cursor: pointer; min-height: 48px; }
+  button.primary { background: var(--ink); color: var(--bg); }
+  button:focus-visible, input:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+  #status { font: 600 1rem "IBM Plex Mono", ui-monospace, monospace; min-height: 3em; }
+  svg { width: 100%; height: auto; background: #FBFAF5; border: 2px solid var(--ink); border-radius: 10px; }
+  .label { font-size: .8rem; font-family: "IBM Plex Mono", ui-monospace, monospace; color: var(--muted); }
+  .note { background: var(--card); border-left: 5px solid var(--accent); padding: 10px 14px; margin: 16px 0; }
+  .tag { font: 700 .75rem "IBM Plex Mono", ui-monospace, monospace; letter-spacing: .05em; padding: 2px 6px; border: 1.5px solid var(--ink); border-radius: 4px; }
+  ol.src { font-size: .9rem; }
+  a { color: var(--accent); }
+  @media (prefers-reduced-motion: no-preference) { button { transition: background-color .2s; } }
+</style>
+</head>
+<body>
+<main>
+  <p class="label">ASK A NEUROSCIENTIST · PSYCHEDELICS DESIGN 2026, SERIES 7 · INTERACTIVE</p>
+  <h1>Fixed or surprise</h1>
+  <p class="deck">Tap for a payout. Under a fixed plan, the learning rule soon stops being surprised. Under a random plan, the surprise never settles.</p>
+
+  <fieldset>
+    <legend>Payout plan</legend>
+    <label><input type="radio" name="plan" value="fixed" checked> Every third tap pays</label>
+    <label><input type="radio" name="plan" value="random"> Each tap has a 1 in 3 chance</label>
+  </fieldset>
+
+  <div class="row">
+    <button class="primary" id="tap" type="button">Tap</button>
+    <button id="tap10" type="button">Tap 10 times</button>
+    <button id="reset" type="button">Start over</button>
+  </div>
+
+  <p id="status" role="status" aria-live="polite">Press Tap to begin. Taps so far: 0.</p>
+
+  <svg id="plot" viewBox="0 0 720 300" role="img" aria-labelledby="plotTitle plotDesc">
+    <title id="plotTitle">Surprise after each payout</title>
+    <desc id="plotDesc">Bars show the size of the surprise signal after each payout tap. Bars above the line mean better than expected.</desc>
+    <line x1="40" y1="150" x2="710" y2="150" stroke="#1D1F2A" stroke-width="2"/>
+    <text x="40" y="22" class="label" fill="#4A4F5E" font-family="IBM Plex Mono, monospace" font-size="13">SURPRISE AT EACH PAYOUT (last 40 payouts)</text>
+    <text x="540" y="40" fill="#4A4F5E" font-family="IBM Plex Mono, monospace" font-size="12">better than expected</text>
+    <g id="bars"></g>
+  </svg>
+  <p class="label">Illustration made for this page: a textbook learning rule (prediction error = reward minus expectation; the expectation moves a little toward each outcome). It is not a recording from a brain or an app.</p>
+
+  <div class="note">
+    <p><span class="tag">STRONG</span> Most dopamine neurons in the midbrain of humans, monkeys and rodents signal a reward prediction error: above baseline when a reward beats the prediction, at baseline when it matches, below baseline when an expected reward is missing (Schultz, 2016).</p>
+    <p><span class="tag">EARLY</span> Endless scroll pays off only now and then, which one theoretical analysis links to intermittent reward (Montag et al., 2019). A systematic test would need app data that usually only the companies hold.</p>
+    <p><span class="tag">STRONG</span> that the average link is small: across 355,358 teenagers, digital technology use explained at most 0.4% of differences in wellbeing (Orben &amp; Przybylski, 2019). <span class="tag">STILL DEBATED</span> what it means for particular platforms and groups.</p>
+  </div>
+
+  <p><strong>Education, not medical advice.</strong></p>
+  <h2 style="font:700 1.1rem Archivo, system-ui, sans-serif">Sources</h2>
+  <ol class="src">
+    <li>Schultz, W. (2016). Dopamine reward prediction error coding. Dialogues in Clinical Neuroscience, 18(1), 23-32. <a href="https://doi.org/10.31887/DCNS.2016.18.1/wschultz">doi.org/10.31887/DCNS.2016.18.1/wschultz</a></li>
+    <li>Montag, C., Lachmann, B., Herrlich, M., &amp; Zweig, K. (2019). International Journal of Environmental Research and Public Health, 16(14), 2612. <a href="https://doi.org/10.3390/ijerph16142612">doi.org/10.3390/ijerph16142612</a></li>
+    <li>Orben, A., &amp; Przybylski, A. K. (2019). Nature Human Behaviour, 3(2), 173-182. <a href="https://doi.org/10.1038/s41562-018-0506-1">doi.org/10.1038/s41562-018-0506-1</a></li>
+  </ol>
+  <p class="label">Illustration: drawn in code by Claude, persona Signal plotter (draft). Nothing on this page flickers or flashes; nothing about you is stored or sent.</p>
+</main>
+<script>
+(function () {
+  var ALPHA = 0.2, MAXBARS = 40;
+  var plan = 'fixed', taps = 0, V = [0, 0, 0], history = [];
+  var bars = document.getElementById('bars'), status = document.getElementById('status');
+  var NS = 'http://www.w3.org/2000/svg';
+  function rand() { return Math.random(); }
+  function tapOnce() {
+    taps += 1;
+    var state = plan === 'fixed' ? (taps - 1) % 3 : 0;
+    var reward = plan === 'fixed' ? (state === 2 ? 1 : 0) : (rand() < 1 / 3 ? 1 : 0);
+    var delta = reward - V[state];
+    V[state] += ALPHA * delta;
+    if (reward === 1) { history.push(delta); if (history.length > MAXBARS) history.shift(); }
+    return { reward: reward, delta: delta };
+  }
+  function draw() {
+    while (bars.firstChild) bars.removeChild(bars.firstChild);
+    var w = 670 / MAXBARS;
+    history.forEach(function (d, i) {
+      var h = Math.abs(d) * 120, r = document.createElementNS(NS, 'rect');
+      r.setAttribute('x', 40 + i * w + 2); r.setAttribute('width', Math.max(2, w - 4));
+      r.setAttribute('y', d >= 0 ? 150 - h : 150); r.setAttribute('height', Math.max(1, h));
+      r.setAttribute('fill', '#B0302A'); bars.appendChild(r);
+    });
+  }
+  function say(last) {
+    var msg = 'Taps so far: ' + taps + '. ';
+    if (last) {
+      msg += last.reward ? 'That tap paid. Surprise at this payout: ' + last.delta.toFixed(2) + ' on a scale where 1 is a total surprise. '
+                         : 'No payout on that tap. ';
+    }
+    msg += plan === 'fixed' ? 'Fixed plan: the rule learns which tap pays, so surprise shrinks toward 0.'
+                            : 'Random plan: the rule can only learn the average chance, so surprise stays high.';
+    status.textContent = msg;
+  }
+  function reset() { taps = 0; V = [0, 0, 0]; history = []; draw(); say(null); }
+  document.getElementById('tap').addEventListener('click', function () { var l = tapOnce(); draw(); say(l); });
+  document.getElementById('tap10').addEventListener('click', function () { var l; for (var i = 0; i < 10; i++) l = tapOnce(); draw(); say(l); });
+  document.getElementById('reset').addEventListener('click', reset);
+  Array.prototype.forEach.call(document.querySelectorAll('input[name=plan]'), function (el) {
+    el.addEventListener('change', function () { plan = el.value; reset(); });
+  });
+  reset();
+})();
+</script>
+</body>
+</html>

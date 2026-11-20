@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en"><head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Seed head: turn the angle | Ask a Neuroscientist</title>
+<style>
+:root{--bg:#f6f1e4;--ink:#20160c;--muted:#55483a;--acc:#a8321e;--acc2:#8a5a00}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.5 "Alegreya Sans",system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:20px}h1{font-family:Cardo,Georgia,serif;font-weight:700;font-size:32px;margin:.2em 0}
+.tag{font-family:"Cutive Mono",monospace;font-size:14px;letter-spacing:1px;color:var(--muted)}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:12px 0}input[type=range]{width:300px}
+button{font:inherit;padding:8px 14px;border:2px solid var(--ink);border-radius:10px;background:#fff;cursor:pointer;min-height:44px}
+button:focus-visible,input:focus-visible{outline:4px solid var(--acc2);outline-offset:3px}
+.big{font-family:Cardo,Georgia,serif;font-size:36px;color:var(--acc)}svg{width:100%;max-width:460px;height:auto;display:block;margin:0 auto}
+.note{font-size:16px;color:var(--muted)}
+</style></head><body><main>
+<p class="tag">LIBER ABBACI · MCCII · INTERACTIVE</p>
+<h1>Seed head: turn the angle</h1>
+<p>Each new seed is placed a fixed turn from the one before, a little further out. Change the turn and watch the pattern. Near 137.5 degrees the seeds pack evenly and two families of spirals appear; a fraction of a degree away, the seeds fall into straight spokes.</p>
+<div class="row"><label for="ang"><strong>Turn per seed</strong></label><input id="ang" type="range" min="130" max="145" step="0.1" value="137.5"><span class="big" id="angv" aria-live="polite">137.5°</span></div>
+<div class="row"><button id="g">Golden angle</button><button id="a">137.0°</button><button id="b">138.5°</button><button id="c">144.0°</button></div>
+<svg id="sv" viewBox="-210 -210 420 420" role="img" aria-labelledby="st"><title id="st">A seed head of 500 dots placed at the chosen turn</title><g id="seeds"></g></svg>
+<p class="note">Keyboard: the slider moves by 0.1 degree with the arrow keys. Nothing moves on its own.</p>
+<h2>What the sources say</h2>
+<p><strong>Sunflowers (strong):</strong> in 657 sunflowers grown by the public, 565 of 768 spiral counts were Fibonacci numbers, 67 had another Fibonacci-type pattern and 136 had none (Swinton and Ochu, 2016).</p>
+<p><strong>The sequence (strong):</strong> Leonardo of Pisa's Liber abbaci (1202) adds each month's rabbit pairs to the month before: 1, 2, 3, 5, 8 and on to 377.</p>
+<p><strong>This toy (a model, not a finding):</strong> the golden angle, 137.507 degrees, is computed here as 360 × (1 − 1/φ). Placing seeds at that turn is a geometric model; Swinton and Ochu note that several models compete to explain how plants do it, and the exceptions help tell them apart.</p>
+<p class="note">Sources: Swinton, J., Ochu, E., & The MSI Turing's Sunflower Consortium (2016). Royal Society Open Science, 3, 160091. https://doi.org/10.1098/rsos.160091 · Leonardo Pisano (1202), Liber abbaci, ed. B. Boncompagni (Rome, 1857). Drawn in code by Claude, persona Abbacus rubricator (draft). Nothing you do here is stored or sent.</p>
+</main>
+<script>
+const $=id=>document.getElementById(id),PHI=(1+Math.sqrt(5))/2,G=360*(1-1/PHI);
+function draw(a){const g=$('seeds');let s='';for(let k=1;k<=500;k++){const r=8.8*Math.sqrt(k),t=k*a*Math.PI/180;s+=`<circle cx="${(r*Math.cos(t)).toFixed(1)}" cy="${(r*Math.sin(t)).toFixed(1)}" r="${(2.2+k/220).toFixed(2)}" fill="${k%2?'#8a5a00':'#a8321e'}"/>`}g.innerHTML=s;$('angv').textContent=a.toFixed(Math.abs(a-G)<0.01?3:1)+'°'}
+$('ang').addEventListener('input',e=>draw(+e.target.value));
+$('g').onclick=()=>{$('ang').value=G.toFixed(1);draw(G)};$('a').onclick=()=>{$('ang').value=137;draw(137)};$('b').onclick=()=>{$('ang').value=138.5;draw(138.5)};$('c').onclick=()=>{$('ang').value=144;draw(144)};
+draw(137.5);
+</script></body></html>

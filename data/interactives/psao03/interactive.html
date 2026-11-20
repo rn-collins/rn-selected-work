@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en"><head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sort by seed: Cesalpino's 1583 key | Ask a Neuroscientist</title>
+<style>
+:root{--bg:#f7f2e6;--ink:#24200f;--muted:#5a5240;--acc:#7a3b1a;--acc2:#4f6b2a;--rule:#e2d9c3}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.5 Mulish,system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:20px}h1{font-family:"Libre Baskerville",Georgia,serif;font-weight:700;font-size:30px;margin:.2em 0}
+.tag{font-family:"PT Mono",monospace;font-size:14px;letter-spacing:1px;color:var(--muted)}
+.row{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0}
+button{font:inherit;padding:8px 14px;border:2px solid var(--ink);border-radius:10px;background:#fff;cursor:pointer;min-height:44px}
+button[aria-pressed=true]{background:var(--acc);color:#fff;border-color:var(--acc)}
+button:focus-visible{outline:4px solid var(--acc2);outline-offset:3px}
+.groups{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+.g{border:2px solid var(--rule);border-radius:12px;padding:10px;background:#fffdf7}.g h3{margin:0 0 6px;font-family:"Libre Baskerville",Georgia,serif;font-size:18px;color:var(--acc)}
+.g ul{margin:0;padding-left:18px}.note{font-size:16px;color:var(--muted)}
+</style></head><body><main>
+<p class="tag">DE PLANTIS 1583 · PSA-O03 · INTERACTIVE</p>
+<h1>Sort by seed</h1>
+<p>On one page of his 1583 book, Andrea Cesalpino of Pisa sorted plants by what sits under one flower: how many seeds or seed cases, and whether they are bare seeds or cases. Below are eight of the plants and kinds he names. Sort them one way, then the other, and watch the groups change.</p>
+<div class="row" role="group" aria-label="Sort by">
+<button id="bc" aria-pressed="true">Sort by count</button><button id="bk" aria-pressed="false">Sort by seed or case</button><button id="bb" aria-pressed="false">Both, as he did</button></div>
+<div id="out" class="groups" aria-live="polite"></div>
+<p class="note">Keyboard: Tab to a button, Enter to sort. Nothing moves on its own.</p>
+<h2>What the source says</h2>
+<p><strong>His key (strong, his own words):</strong> one seed, as in the almond, or one seed case, as in the rose; two seeds, as in the ferula kind, or two cases, as in cress; three seeds in the spurges, three cases in bulbous plants; four seeds in horehound, four cases in Siler; many seeds in the chicory kind and thistles, many cases in the pine (Cesalpino, 1583, book 1 p. 29).</p>
+<p><strong>What he set aside:</strong> colour, smell and taste, which he called accidents because they vary with tending, place and climate. Leaves, stems and roots came second, as servants of the fruit.</p>
+<p><strong>This toy (a teaching aid, not a finding):</strong> the eight entries are taken from his page; the groups are his. We do not judge which of his groups botanists keep today.</p>
+<p class="note">Source: Cesalpino, A. (1583). De plantis libri XVI. Florence: Marescotti. Wellcome Library copy, Internet Archive b33350061 (public domain). Translations by AaN. Drawn in code by Claude, persona Fruit-and-seed dissector (draft). Nothing you do here is stored or sent.</p>
+</main>
+<script>
+const P=[["Almond",1,"seed"],["Rose",1,"case"],["Ferula kind (fennel)",2,"seed"],["Cress",2,"case"],["Spurges",3,"seed"],["Bulbous plants",3,"case"],["Horehound",4,"seed"],["Pine","many","case"]];
+const $=id=>document.getElementById(id);
+function show(mode){const g={};for(const[n,c,k]of P){const key=mode=="c"?(c+(c=="many"?"":c==1?" seed or case":" seeds or cases")):mode=="k"?(k=="seed"?"bare seeds":"seed cases"):(c+" "+(k=="seed"?(c==1?"seed":"seeds"):(c==1?"case":"cases")));(g[key]=g[key]||[]).push(n)}
+$('out').innerHTML=Object.entries(g).map(([h,l])=>`<div class="g"><h3>${h}</h3><ul>${l.map(x=>`<li>${x}</li>`).join('')}</ul></div>`).join('');
+for(const[b,m]of[["bc","c"],["bk","k"],["bb","b"]])$(b).setAttribute('aria-pressed',m==mode)}
+$('bc').onclick=()=>show('c');$('bk').onclick=()=>show('k');$('bb').onclick=()=>show('b');show('c');
+</script></body></html>
