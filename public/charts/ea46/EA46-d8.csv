@@ -1,0 +1,4 @@
+label,value,text,axis,source
+"Humans, PK",49,49,individuals,SOURCE: MUELLER ET AL. (2025); CAVALLARO ET AL. (2026)
+"Rats, fMRI",24,24,individuals,SOURCE: MUELLER ET AL. (2025); CAVALLARO ET AL. (2026)
+"Rats, startle",16,16,individuals,SOURCE: MUELLER ET AL. (2025); CAVALLARO ET AL. (2026)

@@ -1,0 +1,3 @@
+label,value,text,axis,source
+10°C and below,10,,Heat on a heat-stress index,"SOURCE: PILCHER ET AL. (2002), ERGONOMICS"
+32°C and above,32.2,,Heat on a heat-stress index,"SOURCE: PILCHER ET AL. (2002), ERGONOMICS"

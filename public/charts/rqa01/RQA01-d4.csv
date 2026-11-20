@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Severe TBI,50,about 50%,,"Chart: AaN, from Zhang et al. (2026) data"
+Subarachnoid bleed,60,over 60%,,"Chart: AaN, from Zhang et al. (2026) data"
+Malignant stroke,100,near 100%,,"Chart: AaN, from Zhang et al. (2026) data"

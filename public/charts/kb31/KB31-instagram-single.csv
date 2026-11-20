@@ -1,0 +1,5 @@
+label,value,text,axis,source
+"Ever, not recently",1.83,1.83,"adjusted odds ratio, 1 = same odds","SOURCE: BRAYMILLER ET AL. (2020), JAMA NETW OPEN 3(12):E2030189"
+Past 6 months,1.58,1.58,"adjusted odds ratio, 1 = same odds","SOURCE: BRAYMILLER ET AL. (2020), JAMA NETW OPEN 3(12):E2030189"
+1 to 2 days a month,2.83,2.83,"adjusted odds ratio, 1 = same odds","SOURCE: BRAYMILLER ET AL. (2020), JAMA NETW OPEN 3(12):E2030189"
+3+ days a month,2.14,2.14,"adjusted odds ratio, 1 = same odds","SOURCE: BRAYMILLER ET AL. (2020), JAMA NETW OPEN 3(12):E2030189"

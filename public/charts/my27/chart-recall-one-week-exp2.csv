@@ -1,0 +1,4 @@
+label,value,label_as_shown,unit_or_scale
+read four times,40,40%,"percent of idea units recalled after 1 week, Experiment 2"
+"read three times, recall once",56,56%,"percent of idea units recalled after 1 week, Experiment 2"
+"read once, recall three times",61,61%,"percent of idea units recalled after 1 week, Experiment 2"

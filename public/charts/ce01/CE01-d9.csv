@@ -1,0 +1,3 @@
+label,value,text,axis,source
+Active,62,62%,share of patients,"SOURCE: DEVINSKY ET AL. (2017), N ENGL J MED"
+Dummy,34,34%,share of patients,"SOURCE: DEVINSKY ET AL. (2017), N ENGL J MED"

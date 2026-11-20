@@ -1,0 +1,5 @@
+label,value,text,axis,source
+"EB, echolocates daily",99,99%,% correct; guessing gives 41.7%,"Chart: Ask a Neuroscientist, from Thaler et al. 2011 data"
+"LB, echolocates daily",81.9,81.9%,% correct; guessing gives 41.7%,"Chart: Ask a Neuroscientist, from Thaler et al. 2011 data"
+"C1, control",37.5,37.5%,% correct; guessing gives 41.7%,"Chart: Ask a Neuroscientist, from Thaler et al. 2011 data"
+"C2, control",36.5,36.5%,% correct; guessing gives 41.7%,"Chart: Ask a Neuroscientist, from Thaler et al. 2011 data"

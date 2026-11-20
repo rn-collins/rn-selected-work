@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Stroke and metabolic,0.29,0.29,correlation (Spearman rho) between scores,"SOURCE: ZSOLDOS ET AL. (2018), SCI REP"
+Stroke and allostatic,0.37,0.37,correlation (Spearman rho) between scores,"SOURCE: ZSOLDOS ET AL. (2018), SCI REP"
+Metabolic and allostatic,0.53,0.53,correlation (Spearman rho) between scores,"SOURCE: ZSOLDOS ET AL. (2018), SCI REP"
