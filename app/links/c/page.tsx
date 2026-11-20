@@ -88,14 +88,6 @@ export default function PhoneOS() {
 
           <div className={c.screens}>
             <section id="aan-screen" className={`${c.screen} ${c.wallAan}`} aria-labelledby="aan-h">
-              <StickerPlay className={c.stickers}>
-                <a href={byId("ask").url} rel="noopener" data-sticker className={c.sticker} style={{ left: "48%", top: "66%", ["--r" as string]: "10deg" }} aria-label="Ask me a brain question">
-                  <img src="/stickers/brand-brain.svg" alt="" width={120} height={120} />
-                </a>
-                <span data-sticker className={c.sticker} style={{ left: "6%", top: "68%", ["--r" as string]: "-8deg" }}><img src="/stickers/sparkle.svg" alt="" width={70} height={70} /></span>
-                <span data-sticker className={c.sticker} style={{ left: "74%", top: "84%", ["--r" as string]: "12deg" }}><img src="/stickers/brand-leaf.svg" alt="" width={84} height={84} /></span>
-                <span data-sticker className={c.sticker} style={{ left: "28%", top: "86%", ["--r" as string]: "-6deg" }}><img src="/stickers/star.svg" alt="" width={62} height={62} /></span>
-              </StickerPlay>
               <div className={c.widget}>
                 <h1 className={c.name}>RN Collins</h1>
                 <p className={c.title}>{title}</p>
@@ -122,14 +114,17 @@ export default function PhoneOS() {
                 </div>
               ) : null}
               <ul className={c.grid}>{aanApps.map((it, i) => <Icon key={it.id} it={it} i={i} />)}</ul>
+              <StickerPlay className={c.stickerTray}>
+                <a href={byId("ask").url} rel="noopener" data-sticker className={c.sticker} style={{ left: "8%", top: "6%", ["--r" as string]: "10deg" }} aria-label="Ask me a brain question">
+                  <img src="/stickers/brand-brain.svg" alt="" width={120} height={120} />
+                </a>
+                <span data-sticker className={c.sticker} style={{ left: "46%", top: "4%", ["--r" as string]: "-8deg" }}><img src="/stickers/sparkle.svg" alt="" width={70} height={70} /></span>
+                <span data-sticker className={c.sticker} style={{ left: "70%", top: "34%", ["--r" as string]: "12deg" }}><img src="/stickers/brand-leaf.svg" alt="" width={84} height={84} /></span>
+                <span data-sticker className={c.sticker} style={{ left: "40%", top: "56%", ["--r" as string]: "-6deg" }}><img src="/stickers/star.svg" alt="" width={62} height={62} /></span>
+              </StickerPlay>
             </section>
 
             <section id="rn-screen" className={`${c.screen} ${c.wallRn}`} aria-labelledby="rn-h">
-              <StickerPlay className={c.stickers}>
-                <a href="/work-with-me" data-sticker className={c.sticker} style={{ left: "24%", top: "72%", ["--r" as string]: "-7deg" }}><span className={`${p.sticker} ${p.ink}`}>Work with me ✦</span></a>
-                <span data-sticker className={c.sticker} style={{ left: "6%", top: "84%", ["--r" as string]: "9deg" }}><img src="/stickers/star.svg" alt="" width={66} height={66} /></span>
-                <span data-sticker className={c.sticker} style={{ left: "74%", top: "78%", ["--r" as string]: "-12deg" }}><img src="/stickers/brand-sparkle.svg" alt="" width={76} height={76} /></span>
-              </StickerPlay>
               <div className={c.widget}>
                 <h2 id="rn-h" className={c.name}>RN Collins</h2>
                 <p className={c.title}>{title}</p>
@@ -139,6 +134,11 @@ export default function PhoneOS() {
                 </p>
               </div>
               <ul className={c.grid}>{rnApps.map((it, i) => <Icon key={it.id} it={it} i={i} />)}</ul>
+              <StickerPlay className={c.stickerTray}>
+                <a href="/work-with-me" data-sticker className={c.sticker} style={{ left: "6%", top: "10%", ["--r" as string]: "-7deg" }}><span className={`${p.sticker} ${p.ink}`}>Work with me ✦</span></a>
+                <span data-sticker className={c.sticker} style={{ left: "70%", top: "8%", ["--r" as string]: "9deg" }}><img src="/stickers/star.svg" alt="" width={66} height={66} /></span>
+                <span data-sticker className={c.sticker} style={{ left: "44%", top: "46%", ["--r" as string]: "-12deg" }}><img src="/stickers/brand-sparkle.svg" alt="" width={76} height={76} /></span>
+              </StickerPlay>
             </section>
           </div>
 

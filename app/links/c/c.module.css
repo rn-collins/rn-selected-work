@@ -130,7 +130,9 @@
 .app a:focus-visible .tile { outline: 3px solid #0f6e6a; outline-offset: 3px; }
 
 /* Stickers on the wallpaper */
-.stickers { position: absolute; inset: 0; z-index: 2; pointer-events: none; }
+/* Each screen's sticker tray sits under its icons, so stickers start in clear space on any phone; they can be
+   dragged anywhere from there. */
+.stickerTray { position: relative; z-index: 2; height: 11.5rem; margin-top: .8rem; pointer-events: none; }
 .sticker { position: absolute; pointer-events: auto; display: inline-block; transform: rotate(var(--r, 0deg)); text-decoration: none; }
 .sticker img { display: block; height: auto; filter: drop-shadow(0 6px 10px rgba(20, 52, 39, .25)); -webkit-user-drag: none; user-select: none; }
 :global(.canPlay) .sticker { cursor: grab; touch-action: none; }
