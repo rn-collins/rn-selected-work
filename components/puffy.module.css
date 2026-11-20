@@ -1,0 +1,81 @@
+/* Puffy stickers in CSS, after AaN's approved sticker kit v3.1 (aan-studio/design/sticker-kit, drawn in code):
+   die-cut white border, a soft forest-tinted drop shadow, a puffy edge shade, a gloss band over the top half and a
+   specular spot. Tones from the AaN palette; "holo" is a pastel foil and "glitter" sparse gold specks.
+   Text pairs keep 4.5:1 contrast or better. */
+.sticker {
+  --face: #1d3b2e;
+  --text: #fff;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: .45rem;
+  min-height: 2.9rem;
+  padding: .55rem 1.1rem;
+  border: 5px solid #fff;
+  border-radius: 999px;
+  background: var(--face);
+  color: var(--text);
+  font: 700 1rem/1.1 Outfit, system-ui, sans-serif;
+  text-decoration: none;
+  white-space: nowrap;
+  box-shadow:
+    0 6px 14px rgba(20, 52, 39, .28),
+    inset 0 -5px 0 rgba(0, 0, 0, .16),
+    inset 0 3px 0 rgba(255, 255, 255, .25);
+  isolation: isolate;
+}
+/* gloss band over the top half */
+.sticker::before {
+  content: "";
+  position: absolute;
+  inset: 3px 8px 52% 8px;
+  border-radius: 999px;
+  background: linear-gradient(rgba(255, 255, 255, .42), rgba(255, 255, 255, 0));
+  z-index: -1;
+  pointer-events: none;
+}
+/* specular spot */
+.sticker::after {
+  content: "";
+  position: absolute;
+  top: 6px;
+  left: 12px;
+  width: 14px;
+  height: 6px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, .85);
+  transform: rotate(-20deg);
+  pointer-events: none;
+}
+.forest { --face: #143427; --text: #fff; }
+.teal { --face: #0f6e6a; --text: #fff; }
+.sun { --face: #f2b81c; --text: #143427; }
+.coral { --face: #e8735a; --text: #0b1a13; }
+.paper { --face: #fbf3df; --text: #143427; }
+.ink { --face: #17201b; --text: #fbf3df; }
+.holo {
+  --text: #143427;
+  background: linear-gradient(115deg, #f7c6d9, #fbe7a8 28%, #bfe9d7 52%, #c8d6fb 76%, #f3c9f0);
+}
+.glitter {
+  --text: #143427;
+  background:
+    radial-gradient(circle, rgba(255, 255, 255, .9) 0 1px, transparent 1.6px) 0 0 / 9px 11px,
+    radial-gradient(circle, rgba(255, 246, 200, .9) 0 1px, transparent 1.6px) 4px 5px / 13px 9px,
+    #f2b81c;
+}
+.big { min-height: 3.6rem; padding: .7rem 1.4rem; font-size: 1.15rem; }
+.icon { width: 1.25rem; height: 1.25rem; flex: none; }
+.sticker:focus-visible { outline: 3px solid #0f6e6a; outline-offset: 4px; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .sticker { transition: transform .18s cubic-bezier(.3, 1.6, .5, 1); }
+  .sticker:hover { transform: rotate(var(--r, 0deg)) scale(1.06); }
+  .sticker:active { transform: rotate(var(--r, 0deg)) scale(.94); }
+  .pop { animation: pop .42s cubic-bezier(.3, 1.6, .5, 1) both; animation-delay: var(--d, 0ms); }
+}
+@keyframes pop {
+  0% { transform: rotate(var(--r, 0deg)) scale(.3); opacity: 0; }
+  70% { transform: rotate(var(--r, 0deg)) scale(1.14); opacity: 1; }
+  100% { transform: rotate(var(--r, 0deg)) scale(1); }
+}

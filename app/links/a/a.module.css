@@ -1,0 +1,58 @@
+.page {
+  min-height: 100vh;
+  padding: 1.5rem 1rem 3rem;
+  color: #143427;
+  font: 1rem/1.5 Outfit, system-ui, sans-serif;
+  background:
+    linear-gradient(rgba(15, 110, 106, .09) 1px, transparent 1px) 0 0 / 22px 22px,
+    linear-gradient(90deg, rgba(15, 110, 106, .09) 1px, transparent 1px) 0 0 / 22px 22px,
+    #fbf3df;
+  overflow-x: hidden;
+}
+.head { position: relative; max-width: 32rem; margin: 0 auto; }
+.brain { position: absolute; right: -8px; top: -14px; width: 104px; height: auto; rotate: 12deg; }
+.name { margin: 0; font: 500 clamp(3rem, 15vw, 4.6rem)/.9 "Bodoni Moda", Georgia, serif; letter-spacing: -.04em; }
+.title { margin: .5rem 0 1rem; font-weight: 500; }
+.live { max-width: 32rem; margin: 1rem auto 0; font-weight: 500; }
+.tagline { max-width: 32rem; margin: 1.6rem auto 0; font: italic 1.2rem/1.35 "Bodoni Moda", Georgia, serif; }
+.tape {
+  display: inline-block;
+  margin: 0 .3rem 0 0;
+  padding: .15rem .7rem;
+  background: rgba(242, 184, 28, .55);
+  font: 700 .78rem/1.6 Outfit, system-ui, sans-serif;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  font-style: normal;
+  rotate: -2deg;
+  clip-path: polygon(2% 0, 98% 4%, 100% 96%, 0 100%);
+}
+.hint { max-width: 32rem; margin: 1.2rem auto .4rem; font-size: .85rem; color: #3d5a4c; }
+.board { position: relative; max-width: 32rem; height: 760px; margin: 0 auto; touch-action: pan-y; }
+.placed { position: absolute; transform: rotate(var(--r, 0deg)); }
+:global(.canDrag) .placed { cursor: grab; touch-action: none; }
+:global(.dragging) { cursor: grabbing; }
+.deco { position: absolute; height: auto; pointer-events: none; }
+.week { max-width: 32rem; margin: 1.5rem auto 0; }
+.week ul { list-style: none; margin: .8rem 0 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: .6rem; }
+.week a { display: block; padding: .4rem .4rem .7rem; background: #fff; color: #143427; text-decoration: none; font-size: .78rem; line-height: 1.25; box-shadow: 0 6px 14px rgba(20, 52, 39, .2); }
+.week img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; margin-bottom: .4rem; }
+.mail { max-width: 32rem; margin: 2rem auto 0; }
+.mail ul { list-style: none; margin: .7rem 0 0; padding: 0; display: grid; gap: .6rem; }
+.mail a {
+  display: block;
+  min-height: 3.2rem;
+  padding: .7rem 1rem;
+  border: 4px solid #fff;
+  border-radius: 1rem;
+  background: #fbf3df;
+  color: #143427;
+  text-decoration: none;
+  box-shadow: 0 6px 14px rgba(20, 52, 39, .2);
+}
+.mail b { display: block; }
+.mail span { font-size: .88rem; }
+.foot { max-width: 32rem; margin: 2rem auto 0; font-size: .78rem; color: #3d5a4c; }
+@media (prefers-color-scheme: dark) {
+  .page { color: #143427; }
+}
