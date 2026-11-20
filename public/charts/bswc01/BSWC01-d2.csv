@@ -1,0 +1,6 @@
+label,value,text,axis,source
+CRS above grade 2,0,0,"patients or events, N = 24","Chart: Ask a Neuroscientist, from Müller et al. (2026) data"
+ICANS,0,0,"patients or events, N = 24","Chart: Ask a Neuroscientist, from Müller et al. (2026) data"
+SAEs,15,15,"patients or events, N = 24","Chart: Ask a Neuroscientist, from Müller et al. (2026) data"
+SAEs resolved,14,14,"patients or events, N = 24","Chart: Ask a Neuroscientist, from Müller et al. (2026) data"
+IVIG given,7,7,"patients or events, N = 24","Chart: Ask a Neuroscientist, from Müller et al. (2026) data"

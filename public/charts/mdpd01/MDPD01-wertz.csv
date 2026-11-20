@@ -1,0 +1,5 @@
+label,value,text,axis,source
+Pace of biological aging,0.27,0.27,"standardized estimate, sex adjusted","Chart: Ask a Neuroscientist, from Wertz et al. (2021), JAMA Psychiatry data"
+Cognitive difficulties,0.24,0.24,"standardized estimate, sex adjusted","Chart: Ask a Neuroscientist, from Wertz et al. (2021), JAMA Psychiatry data"
+Balance difficulties,0.2,0.20,"standardized estimate, sex adjusted","Chart: Ask a Neuroscientist, from Wertz et al. (2021), JAMA Psychiatry data"
+Hearing difficulties,0.18,0.18,"standardized estimate, sex adjusted","Chart: Ask a Neuroscientist, from Wertz et al. (2021), JAMA Psychiatry data"

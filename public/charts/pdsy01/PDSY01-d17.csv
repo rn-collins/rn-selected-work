@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Candidate genes,37,37,genes,"SOURCE: TILOT ET AL. (2018), PNAS"
+Axon-growth genes,6,6,genes,"SOURCE: TILOT ET AL. (2018), PNAS"
+Shared variants,0,0,genes,"SOURCE: TILOT ET AL. (2018), PNAS"

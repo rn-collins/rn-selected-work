@@ -1,0 +1,4 @@
+label,value,text,axis,source
+2° from gaze,1,about 1°,"spacing, centre to centre, in degrees (0.5 x distance from gaze)","CHART: ASK A NEUROSCIENTIST, FROM THE SPACING RULE STATED BY PELLI & TILLMAN 2008 (NOT MEASURED DATA)"
+10° from gaze,5,about 5°,"spacing, centre to centre, in degrees (0.5 x distance from gaze)","CHART: ASK A NEUROSCIENTIST, FROM THE SPACING RULE STATED BY PELLI & TILLMAN 2008 (NOT MEASURED DATA)"
+20° from gaze,10,about 10°,"spacing, centre to centre, in degrees (0.5 x distance from gaze)","CHART: ASK A NEUROSCIENTIST, FROM THE SPACING RULE STATED BY PELLI & TILLMAN 2008 (NOT MEASURED DATA)"

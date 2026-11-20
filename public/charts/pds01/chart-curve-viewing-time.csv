@@ -1,0 +1,4 @@
+label,value,label_as_shown,unit_or_scale
+brief look (limited display),0.75,0.75,"Hedges' g, 0 means no preference"
+all studies,0.39,0.39,"Hedges' g, 0 means no preference"
+unlimited look,0.32,0.32,"Hedges' g, 0 means no preference"

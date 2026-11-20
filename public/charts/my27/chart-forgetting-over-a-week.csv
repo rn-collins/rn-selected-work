@@ -1,0 +1,4 @@
+label,value,label_as_shown,unit_or_scale
+read four times,52,52%,"percent of 5-minute recall lost by 1 week (proportional forgetting), Experiment 2"
+"read three times, recall once",28,28%,"percent of 5-minute recall lost by 1 week (proportional forgetting), Experiment 2"
+"read once, recall three times",14,14%,"percent of 5-minute recall lost by 1 week (proportional forgetting), Experiment 2"

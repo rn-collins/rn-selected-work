@@ -1,0 +1,4 @@
+measure,pooled_risk_ratio_vs_control,ci_low,ci_high
+Any-grade adverse event,1.12,1.02,1.23
+Serious adverse event,2.67,,
+Stopped because of adverse events,3.95,,

@@ -1,0 +1,3 @@
+label,value,text,axis,source
+Release points,2,2,Number of points on the model,"Chart: AaN, from Gillmeier et al. (2025), ERIES database data"
+Sampling points,76,76,Number of points on the model,"Chart: AaN, from Gillmeier et al. (2025), ERIES database data"

@@ -1,0 +1,5 @@
+label,value,text,axis,source
+"Fat mass, men",2.89,2.89 kg lower,"average difference, kg","SOURCE: BALAMPANOS ET AL. (2026), HEALTHCARE"
+"Fat mass, women",2.58,2.58 kg lower,"average difference, kg","SOURCE: BALAMPANOS ET AL. (2026), HEALTHCARE"
+"Fat-free, men",3.09,3.09 kg higher,"average difference, kg","SOURCE: BALAMPANOS ET AL. (2026), HEALTHCARE"
+"Fat-free, women",3.29,3.29 kg higher,"average difference, kg","SOURCE: BALAMPANOS ET AL. (2026), HEALTHCARE"

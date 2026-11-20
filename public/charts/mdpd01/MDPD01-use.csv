@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Days in hospital,2.7,2.70,ratio vs no mental disorder,"Chart: Ask a Neuroscientist, from Richmond-Rakerd et al. (2021), JAMA Network Open data"
+Hospital admissions,2.43,2.43,ratio vs no mental disorder,"Chart: Ask a Neuroscientist, from Richmond-Rakerd et al. (2021), JAMA Network Open data"
+Different diseases,2.0,2.00,ratio vs no mental disorder,"Chart: Ask a Neuroscientist, from Richmond-Rakerd et al. (2021), JAMA Network Open data"

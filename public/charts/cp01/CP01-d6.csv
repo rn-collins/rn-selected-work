@@ -1,0 +1,4 @@
+label,value,text,axis,source
+All compounds,546,546,number of compounds,"SOURCE: ELSOHLY ET AL. (2016), BIOL PSYCHIATRY"
+Cannabinoids,104,104,number of compounds,"SOURCE: ELSOHLY ET AL. (2016), BIOL PSYCHIATRY"
+Potency judged on,1,1 (THC),number of compounds,"SOURCE: ELSOHLY ET AL. (2016), BIOL PSYCHIATRY"

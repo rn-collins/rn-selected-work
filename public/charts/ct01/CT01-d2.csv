@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Event counts differed,72,72%,percent of 68 papers,"SOURCE: STRIKIC & PRANIC (2026), INT J CLIN PHARM"
+Patient counts differed,51,51%,percent of 68 papers,"SOURCE: STRIKIC & PRANIC (2026), INT J CLIN PHARM"
+Deaths left out,16,16%,percent of 68 papers,"SOURCE: STRIKIC & PRANIC (2026), INT J CLIN PHARM"

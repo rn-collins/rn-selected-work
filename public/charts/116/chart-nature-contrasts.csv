@@ -1,0 +1,4 @@
+label,value,label_as_shown,unit_or_scale
+liking,0.824,+0.82,"planned contrast, nature soundscape minus mean of the other three settings, 9-point scales"
+mood (valence),0.839,+0.84,"planned contrast, nature soundscape minus mean of the other three settings, 9-point scales"
+arousal,-0.973,-0.97,"planned contrast, nature soundscape minus mean of the other three settings, 9-point scales"

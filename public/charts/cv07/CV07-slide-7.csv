@@ -1,0 +1,3 @@
+label,value,text,axis,source
+Visit 1,3.75,3.75,"Mean color confusion index, lower is better, bars from zero","SOURCE: HO AND NG (2026), VISION 10(2):33"
+"Visit 2, after practice",3.23,3.23,"Mean color confusion index, lower is better, bars from zero","SOURCE: HO AND NG (2026), VISION 10(2):33"

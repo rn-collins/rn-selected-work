@@ -1,0 +1,4 @@
+label,value,text,axis,source
+"Men, low vs high",1.55,1.55,"odds ratio, 1.00 = high control","SOURCE: SARA ET AL. (2018), J AM HEART ASSOC, REPORTING WHITEHALL II"
+"Women, low vs high",1.74,1.74,"odds ratio, 1.00 = high control","SOURCE: SARA ET AL. (2018), J AM HEART ASSOC, REPORTING WHITEHALL II"
+Low at both visits,1.93,1.93,"odds ratio, 1.00 = high control","SOURCE: SARA ET AL. (2018), J AM HEART ASSOC, REPORTING WHITEHALL II"

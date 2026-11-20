@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Lime,0.9,0.6 to 0.9,"Absorption 0 to 1, top of each reported range","Chart: AaN, from Martínez Martínez et al. (2023) data, Table 4"
+Wheat starch,0.7,0.7,"Absorption 0 to 1, top of each reported range","Chart: AaN, from Martínez Martínez et al. (2023) data, Table 4"
+Portland and MgO cement,0.25,0.1 to 0.25,"Absorption 0 to 1, top of each reported range","Chart: AaN, from Martínez Martínez et al. (2023) data, Table 4"

@@ -1,0 +1,4 @@
+frequency_Hz,unrendered,rendered_10mm,drop_percent
+500,0.42,0.31,26
+1000,0.37,0.18,51
+2000,0.41,0.18,56

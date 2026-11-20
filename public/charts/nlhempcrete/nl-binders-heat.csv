@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Lime,0.13,0.08 to 0.13,"W/m K, top of each reported range","Chart: AaN, from Martínez Martínez et al. (2023) data, Table 5"
+Portland and MgO cement,0.115,0.08 to 0.115,"W/m K, top of each reported range","Chart: AaN, from Martínez Martínez et al. (2023) data, Table 5"
+Wheat starch,0.07,0.06 to 0.07,"W/m K, top of each reported range","Chart: AaN, from Martínez Martínez et al. (2023) data, Table 5"

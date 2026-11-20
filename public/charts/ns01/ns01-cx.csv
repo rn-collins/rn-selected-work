@@ -1,0 +1,5 @@
+label,value,text,axis,source
+Dim reading light,10,10 lux,,"CHART: ASK A NEUROSCIENTIST, FROM PHILLIPS ET AL. (2019) DATA"
+Halved melatonin (group),24.6,24.6 lux,,"CHART: ASK A NEUROSCIENTIST, FROM PHILLIPS ET AL. (2019) DATA"
+Typical indoor light,50,about 50 lux,,"CHART: ASK A NEUROSCIENTIST, FROM PHILLIPS ET AL. (2019) DATA"
+Bright indoor light,400,400 lux,,"CHART: ASK A NEUROSCIENTIST, FROM PHILLIPS ET AL. (2019) DATA"

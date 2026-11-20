@@ -1,0 +1,4 @@
+label,value,text,axis,source
+"Daytime, at least",250,250,lux,"SOURCE: BROWN ET AL. (2022), PLOS BIOL"
+"Evening, at most",10,10,lux,"SOURCE: BROWN ET AL. (2022), PLOS BIOL"
+"Sleep, at most",1,1,lux,"SOURCE: BROWN ET AL. (2022), PLOS BIOL"

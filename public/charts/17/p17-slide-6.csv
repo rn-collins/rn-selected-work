@@ -1,0 +1,5 @@
+label,value,text,axis,source
+Child's own pain,0.02,-0.02,"Pooled SMD, below 0 favours active. Child anxiety: 3 trials","Chart: Ask a Neuroscientist, from Shen et al. (2023) data"
+Child's own anxiety,0.34,-0.34,"Pooled SMD, below 0 favours active. Child anxiety: 3 trials","Chart: Ask a Neuroscientist, from Shen et al. (2023) data"
+Parent-rated pain,0.26,-0.26,"Pooled SMD, below 0 favours active. Child anxiety: 3 trials","Chart: Ask a Neuroscientist, from Shen et al. (2023) data"
+Staff-rated pain,0.45,-0.45,"Pooled SMD, below 0 favours active. Child anxiety: 3 trials","Chart: Ask a Neuroscientist, from Shen et al. (2023) data"

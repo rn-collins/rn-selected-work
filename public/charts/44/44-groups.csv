@@ -1,0 +1,5 @@
+label,value,text,axis,source
+"Light, fast",60,60,"208 in all, not randomized","Chart: AaN, from Santangeli et al. (2021) data"
+"Light, screen, slow",60,60,"208 in all, not randomized","Chart: AaN, from Santangeli et al. (2021) data"
+"No light, silent",27,27,"208 in all, not randomized","Chart: AaN, from Santangeli et al. (2021) data"
+"No light, fast",61,61,"208 in all, not randomized","Chart: AaN, from Santangeli et al. (2021) data"

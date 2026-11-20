@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Spring change,1.05,1.05,"odds ratio, 1.0 = control periods","SOURCE: MANFREDINI ET AL. (2019), J CLIN MED"
+Autumn week,1.01,1.01,"odds ratio, 1.0 = control periods","SOURCE: MANFREDINI ET AL. (2019), J CLIN MED"
+"Both, two weeks",1.03,1.03,"odds ratio, 1.0 = control periods","SOURCE: MANFREDINI ET AL. (2019), J CLIN MED"

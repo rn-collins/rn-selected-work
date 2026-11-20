@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Simple hallucinations,0.62,r = 0.62,"correlation, 0 to 1","SOURCE: CARHART-HARRIS ET AL. (2016), PNAS"
+Elementary imagery,0.63,r = 0.63,"correlation, 0 to 1","SOURCE: CARHART-HARRIS ET AL. (2016), PNAS"
+Complex imagery,0.74,r = 0.74,"correlation, 0 to 1","SOURCE: CARHART-HARRIS ET AL. (2016), PNAS"
