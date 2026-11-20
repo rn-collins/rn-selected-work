@@ -126,8 +126,8 @@ export default function PhoneOS() {
 
             <section id="rn-screen" className={`${c.screen} ${c.wallRn}`} aria-labelledby="rn-h">
               <StickerPlay className={c.stickers}>
-                <a href="/work-with-me" data-sticker className={c.sticker} style={{ left: "26%", top: "60%", ["--r" as string]: "-7deg" }}><span className={`${p.sticker} ${p.ink}`}>Work with me ✦</span></a>
-                <span data-sticker className={c.sticker} style={{ left: "8%", top: "70%", ["--r" as string]: "9deg" }}><img src="/stickers/star.svg" alt="" width={66} height={66} /></span>
+                <a href="/work-with-me" data-sticker className={c.sticker} style={{ left: "24%", top: "72%", ["--r" as string]: "-7deg" }}><span className={`${p.sticker} ${p.ink}`}>Work with me ✦</span></a>
+                <span data-sticker className={c.sticker} style={{ left: "6%", top: "84%", ["--r" as string]: "9deg" }}><img src="/stickers/star.svg" alt="" width={66} height={66} /></span>
                 <span data-sticker className={c.sticker} style={{ left: "74%", top: "78%", ["--r" as string]: "-12deg" }}><img src="/stickers/brand-sparkle.svg" alt="" width={76} height={76} /></span>
               </StickerPlay>
               <div className={c.widget}>
