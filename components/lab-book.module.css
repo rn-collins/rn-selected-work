@@ -5,7 +5,7 @@
 .book {
   --forest: #143427; --tealc: #0f6e6a; --sunc: #f2b81c; --coralc: #e8735a; --paperc: #fbf3df; --inkc: #17201b;
   --grid: rgba(15, 110, 106, .09);
-  max-width: 920px;
+  max-width: 1180px;
   padding: 40px clamp(16px, 4vw, 44px) 96px;
   margin-top: 24px;
   background:
@@ -145,3 +145,59 @@
 .book a.sticker { color: var(--text); }
 .book :global(.socialRow) a { color: #fbf3df; background: var(--forest); }
 .chartTab .host { display: inline; margin-left: 6px; padding: 1px 6px; border-radius: 6px; background: #fff; font-size: 11px; font-weight: 800; letter-spacing: .08em; }
+
+/* Organisation (RN, Nov 20): index card, find-your-way stickers, folds, pinned sidebar, part bands */
+.index { margin: 18px 0 0; padding: 18px 20px; background: #fff; border: 1px solid rgba(23, 32, 27, .18); border-radius: 12px;
+  box-shadow: 4px 4px 0 rgba(15, 110, 106, .18); }
+.indexHead { margin: 0 0 10px; font-size: 12px; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; color: var(--tealc); }
+.indexParts { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px 22px; }
+.partName { margin: 0 0 6px; font: 500 18px "Bodoni Moda", Georgia, serif; color: var(--forest); }
+.indexParts ol, .sideList { margin: 0; padding-left: 26px; display: grid; gap: 2px; }
+.indexParts li, .sideList li { font-size: 15px; line-height: 1.3; }
+.indexParts li::marker, .sideList li::marker { font-weight: 800; color: var(--tealc); }
+.indexParts a, .sideList a { display: inline-flex; align-items: center; min-height: 32px; font-weight: 700; text-decoration: none !important; }
+.indexParts a:hover, .sideList a:hover { text-decoration: underline !important; }
+.off { display: block; padding: 6px 0; color: #6b736d; }
+.off small { display: block; font-size: 12px; font-style: italic; color: #6b736d; }
+.ways { margin: 16px 0 0; }
+.ways ul { margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 10px; }
+.small2 { min-height: 44px; padding: 0 16px; font-size: 15px; border-width: 4px; }
+.ways li:nth-child(odd) .sticker { transform: rotate(-1.5deg); }
+.ways li:nth-child(even) .sticker { transform: rotate(1.5deg); }
+
+.partBand { margin: 40px 0 -8px; padding-top: 14px; border-top: 2px dashed rgba(15, 110, 106, .35);
+  font: 500 28px "Bodoni Moda", Georgia, serif; color: var(--tealc); }
+.partBand:first-child { margin-top: 18px; border-top: 0; }
+.subhead { margin: 22px 0 12px; font-size: 13px; letter-spacing: .14em; text-transform: uppercase; color: var(--tealc); }
+
+.fold { margin-top: 12px; }
+.fold > summary { display: inline-flex; align-items: center; min-height: 44px; padding: 0 18px; border: 4px solid #fff; border-radius: 999px;
+  background: var(--paperc); color: var(--forest); font-weight: 800; cursor: pointer; list-style: none;
+  box-shadow: 0 5px 12px rgba(20, 52, 39, .2), inset 0 -4px 0 rgba(0, 0, 0, .08); }
+.fold > summary::-webkit-details-marker { display: none; }
+.fold > summary::after { content: "+"; margin-left: 10px; font-size: 18px; }
+.fold[open] > summary::after { content: "−"; }
+.fold[open] > summary { margin-bottom: 12px; }
+.fold > summary:focus-visible { outline: 3px solid var(--tealc); outline-offset: 3px; }
+.safetyNote { margin: 0; padding: 12px 16px; background: #eef7f5; border-left: 4px solid var(--tealc); border-radius: 0 10px 10px 0; line-height: 1.55; }
+
+.layout { display: block; }
+.side { display: none; }
+@media (min-width: 1100px) {
+  .layout { display: grid; grid-template-columns: minmax(0, 1fr) 250px; gap: 40px; align-items: start; }
+  .side { display: grid; gap: 18px; position: sticky; top: 16px; max-height: calc(100vh - 32px); overflow: auto; padding: 4px 4px 12px; }
+  .side .sure { transform: rotate(1deg); }
+  .side .qr { max-width: 170px; }
+  .sureInline, .qrInline { display: none; }
+  .startGrid { grid-template-columns: 1fr; }
+}
+@media (max-width: 900px) { .indexParts { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 520px) { .indexParts { grid-template-columns: 1fr; } }
+@media print { .side, .ways, .index { display: none; } .fold > * { display: block; } }
+
+.narrowOnly { display: none; }
+@media (max-width: 699px) {
+  .wideOnly { display: none; }
+  .narrowOnly { display: block; margin-top: 16px; }
+  .narrowOnly > .index { margin-top: 0; }
+}
