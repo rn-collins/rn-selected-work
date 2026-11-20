@@ -7,14 +7,13 @@ import s from "../../components/specimen.module.css";
 
 // Work with me, in the specimen design system (RN approved the brief Nov 18, 2026). Every pitch links this page.
 // Service lines come from the proposal menu (names and descriptions only: prices stay in private proposals). The DDW
-// 2026 posts show only once live, as their own slide 1 covers. Lines marked "RN to check" wait for RN's approval.
+// 2026 posts show only once live, as their own slide 1 covers. RN approved the page, its wording included, on Nov 20, 2026.
 export const revalidate = 3600;
 
 export const metadata: Metadata = {
   title: "Work with me",
   description: `RN Collins, ${hub.title}. Brand direction, content strategy, production, operations and management, with a Dutch Design Week 2026 case study.`,
   alternates: { canonical: "/work-with-me" },
-  robots: { index: false, follow: false },
 };
 
 const SERVICES = [
@@ -50,7 +49,6 @@ export default function WorkWithMePage() {
           <h1 className={s.hero}>RN Collins</h1>
           <p className={s.title}>{hub.title}</p>
           <p className={s.lede}>Science content that is accurate, credited and worth stopping for, for brands, events and institutions.</p>
-          <p className={s.title}><span className={s.check}>[RN to check] the line above is in RN&apos;s voice.</span></p>
         </header>
 
         <section className={`${s.section} ${s.split}`} aria-labelledby="services">
@@ -93,8 +91,8 @@ export default function WorkWithMePage() {
           <div className={s.prose}>
             <p className={s.headline}>Dutch Design Week 2026, Eindhoven</p>
             <p>Dutch Design Week ran from October 17 to 25, 2026. I covered it for Ask a Neuroscientist: the design, science and health work on show, explained through what it does to the brain and body, with every claim sourced.</p>
-            <p><span className={s.check}>[RN to check] What I captured: photo and video on three camera cards and an iPhone, recorded interviews with makers, and stills chosen for each exhibit, across the venues of the festival.</span></p>
-            <p><span className={s.check}>[RN to check] How: one shot list per venue, makers credited by name, visitors kept out of frame unless they agreed, and interviews transcribed so every quote is checked against the recording.</span></p>
+            <p>What I captured: photo and video on three camera cards and an iPhone, recorded interviews with makers, and stills chosen for each exhibit, across the venues of the festival.</p>
+            <p>How: one shot list per venue, makers credited by name, visitors kept out of frame unless they agreed, and interviews transcribed so every quote is checked against the recording.</p>
             <p className={s.evidence}>The posts go out from November 16, 2026, each with a public sources page. They appear here as they go live.</p>
             {ddw.length ? (
               <ul className={s.tiles}>

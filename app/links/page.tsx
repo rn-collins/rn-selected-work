@@ -126,10 +126,10 @@ export default function LinksPage() {
         <section className={s.section} aria-labelledby="rn">
           <h2 id="rn" className={s.label}>RN Collins</h2>
           <ul className={s.rows} style={{ borderTop: 0 }}>
-            <Row e={{ ...(hub.workWithMe as Entry), confirm: false }} primary />
+            <Row e={hub.workWithMe as Entry} primary />
+            <Row e={hub.linkedin} />
             <Row e={hub.rn.site} />
             <Row e={hub.newsletter} />
-            <Row e={hub.linkedin} />
           </ul>
           <Platforms set="rn" />
         </section>
