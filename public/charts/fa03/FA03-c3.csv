@@ -1,5 +1,5 @@
 label,value,text,axis,source
-"Mesh, students",4,4,median rating,"SOURCE: MEHTA, HOLASKOVA AND WALKER (2024), PLOS ONE 19:E0308957, CC BY"
-"Mesh, experts",4,4,median rating,"SOURCE: MEHTA, HOLASKOVA AND WALKER (2024), PLOS ONE 19:E0308957, CC BY"
-"Laminate, students",1,1,median rating,"SOURCE: MEHTA, HOLASKOVA AND WALKER (2024), PLOS ONE 19:E0308957, CC BY"
-"Laminate, experts",2,2,median rating,"SOURCE: MEHTA, HOLASKOVA AND WALKER (2024), PLOS ONE 19:E0308957, CC BY"
+"Mesh, students",4,4,median rating,
+"Mesh, experts",4,4,median rating,
+"Laminate, students",1,1,median rating,
+"Laminate, experts",2,2,median rating,

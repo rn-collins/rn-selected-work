@@ -1,0 +1,4 @@
+label,value,text,axis,source
+low end,0.1,0.10,"95% range from bootstrapping, estimate for earlier sociable behaviour","Leikas (2020), Heliyon 6(5):e04033, Results (Model 3)"
+estimate,0.19,0.19,"95% range from bootstrapping, estimate for earlier sociable behaviour","Leikas (2020), Heliyon 6(5):e04033, Results (Model 3)"
+high end,0.26,0.26,"95% range from bootstrapping, estimate for earlier sociable behaviour","Leikas (2020), Heliyon 6(5):e04033, Results (Model 3)"

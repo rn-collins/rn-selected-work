@@ -1,0 +1,3 @@
+label,value,text,axis,source
+earliest peak,20,about 20,"cortisol peak, minutes after the test begins (heart rate up within minutes)","von Dawans et al. (2026), Comprehensive Psychoneuroendocrinology 28:100383, text"
+latest peak,30,about 30,"cortisol peak, minutes after the test begins (heart rate up within minutes)","von Dawans et al. (2026), Comprehensive Psychoneuroendocrinology 28:100383, text"

@@ -1,4 +1,7 @@
 label,value,text,axis,source
-Mesh,4,4,"1 slick to 5 scratchy, 20 students","SOURCE: MEHTA, HOLASKOVA AND WALKER (2024), PLOS ONE 19:E0308957, CC BY"
-Knit or woven,2,2,"1 slick to 5 scratchy, 20 students","SOURCE: MEHTA, HOLASKOVA AND WALKER (2024), PLOS ONE 19:E0308957, CC BY"
-Laminated,1,1,"1 slick to 5 scratchy, 20 students","SOURCE: MEHTA, HOLASKOVA AND WALKER (2024), PLOS ONE 19:E0308957, CC BY"
+"Mesh, students",4,4,"20 students, 5 textile professors",
+"Mesh, professors",4,4,"20 students, 5 textile professors",
+"Knit or woven, students",2,2,"20 students, 5 textile professors",
+"Knit or woven, professors",2,2,"20 students, 5 textile professors",
+"Laminated, students",1,1,"20 students, 5 textile professors",
+"Laminated, professors",1.5,1.5,"20 students, 5 textile professors",

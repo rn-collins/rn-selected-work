@@ -1,0 +1,26 @@
+sound_type,study,source_in_study,parameter,RDER_percent
+speech,Salame & Baddeley (1982),Exp. 1,nonsense words,54.7
+speech,Tremblay et al. (2000),Exp. 1,words,96.6
+speech,"Buchner, Rothermund et al. (2004)",Exp. 1,words,32.5
+speech,Ellermeier & Zimmer (1997),Fig. 1,unfamiliar language,48.0
+speech,"Jones, Alford et al. (2000)",Exp. 2,words,54.1
+music,Salame & Baddeley (1989),Exp. 1,vocal music,38.8
+music,Salame & Baddeley (1989),Exp. 1,instrumental music,13.1
+music,Klatte & Hellbruck (1993),Fig. 4,instrumental music,62.7
+music,Nittono (1997),Tab. 1,instrumental music,29.3
+music,Ellermeier & Hellbruck (1998),Exp. 1,(soft) music,37.3
+backward speech,"Jones, Miles & Page (1990)",Exp. 5,backward speech,33.9
+backward speech,"LeCompte, Neely & Wilson (1997)",Exp. 4,reversed words,49.5
+backward speech,"Surprenant, Neath & Bireta (2007)",Exp. 3,backward speech,52.0
+backward speech,Viswanathan et al. (2013),Exp. 2,reversed sinewave speech,15.0
+tones and FM,Jones & Macken (1993),Exp. 1,varying tones,23.2
+tones and FM,"Klatte, Kilcher & Hellbruck (1993)",Exp. 2,varying tones,25.2
+tones and FM,"LeCompte, Neely & Wilson (1997)",Exp. 1,varying tones,11.8
+tones and FM,"Jones, Macken & Murray (1993)",Exp. 1,interrupted FM tones,26.6
+tones and FM,"Jones, Alford et al. (2000)",Exp. 2,cello notes,29.2
+tones and FM,Hadlington et al. (2004),Exp. 1b,varying tones,52.7
+tones and FM,"Zimmer, Ghani & Ellermeier (2008)",Exp. 1,interrupted FM tones,17.4
+level change and AM,Salame & Baddeley (1989),Exp. 3,AM noise,3.9
+level change and AM,Jones et al. (1992),Exp. 2b,AM noise,5.7
+level change and AM,"Klatte, Kilcher & Hellbruck (1993)",Exp. 3,AM 'speechlike' noise,11.9
+level change and AM,Tremblay & Jones (1999),Exp. 1,changing level,5.9

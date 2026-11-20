@@ -1,0 +1,5 @@
+label,value,text,axis,source
+"Cape Coral clock, sleep band start (hour)",23,23:00,Hour of the day on each clock (24-hour strips; Pisa is 6 h ahead in winter),"Chart: Ask a Neuroscientist, computed from Roach & Sargent, tz 2026c"
+"Cape Coral clock, sleep band end (hour)",7,07:00,Hour of the day on each clock (24-hour strips; Pisa is 6 h ahead in winter),"Chart: Ask a Neuroscientist, computed from Roach & Sargent, tz 2026c"
+Cape Coral clock: body-clock low (hour),4,04:00,Hour of the day on each clock (24-hour strips; Pisa is 6 h ahead in winter),"Chart: Ask a Neuroscientist, computed from Roach & Sargent, tz 2026c"
+Pisa clock: the same moment (hour),10,10:00,Hour of the day on each clock (24-hour strips; Pisa is 6 h ahead in winter),"Chart: Ask a Neuroscientist, computed from Roach & Sargent, tz 2026c"
