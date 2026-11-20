@@ -4361,5 +4361,20 @@
     "boundary": "Published as a free Polymath web essay by RN Collins. Publication does not validate its scientific, legal or economic claims. The article’s conclusion makes stronger claims about individual brain mechanisms than its earlier cautions support; the companion explicitly notes that the cited scans did not study the memoirists. Underlying studies, quotations, court records, images and reuse rights have not been independently cleared here. The companion’s separate publication or use as video support remains unresolved, so derivative materials remain held and have no public draft link.",
     "provenance": "Current publisher metadata and complete 34,702-character article text reviewed November 20, 2026, alongside the current complete companion manuscript. The publisher timestamp is September 25 UTC, corresponding to September 24 in Hawaiʻi. Textual review is not independent scientific, legal or media acceptance.",
     "publicationUrl": "https://polymath-rn-collins.beehiiv.com/p/the-celebrity-psychedelic-memoir-is-a-genre-now"
+  },
+  {
+    "id": "word-of-the-week-reuptake",
+    "title": "Word of the Week: Reuptake",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "How can readers understand a neuroscience term by following the transporter structures and evidence behind it?",
+    "expression": "An Ask a Neuroscientist glossary explainer developed from RN’s original glossary concept for readers encountering neuroscience terminology. RN’s contribution is educational framing and explanatory writing: connecting a short definition to the evidence behind it. The recovered package combines a long-form essay, a six-slide sequence, source and claim notes, and adapted social and video scripts. Its approach uses human serotonin-transporter structures and a fruit-fly dopamine-transporter comparison to explain the term, while distinguishing purified-protein observations, a proposed mechanism and questions the experiments do not answer. The package documents a comparison of transporter shapes and a claimed original coordinate-distance measurement. These are parts of one editorial work, not separate completed publications or applications.",
+    "boundary": "Draft editorial package. Scheduling records have changed, and no public publication of this package was established. Text and source documentation have been inspected; the coordinate measurement, actual images, scientific claims and reuse rights have not been independently cleared. The proposed interactive remains a candidate, and scripts do not establish recorded or released video. The essay and its adaptations remain held and have no public draft or media links.",
+    "provenance": "Complete manuscript reviewed in the preceding intake, followed by the package’s research, dossier, source cards, image-audit text and relevant rendering code. Current manuscript revision checked November 20, 2026. The measurement note records distances, but the inspected preparation code only aligns and orients coordinates; the measurement has not been reproduced. Historical source-check labels are not independent scientific or visual acceptance."
   }
 ]
