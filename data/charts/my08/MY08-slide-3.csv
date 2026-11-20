@@ -1,0 +1,3 @@
+label,value,text,axis,source
+Relative drop,50,50%,"Percent and percentage points, bars from zero","SOURCE: WORKED EXAMPLE (ARITHMETIC), AS IN GIGERENZER ET AL. (2007)"
+Absolute drop,0.01,0.01 points,"Percent and percentage points, bars from zero","SOURCE: WORKED EXAMPLE (ARITHMETIC), AS IN GIGERENZER ET AL. (2007)"

@@ -1,0 +1,5 @@
+label,value,text,axis,source,source_ref
+"Remission, bright light",40.7,40.7,Percent of patients,"Chart: Ask a Neuroscientist, from Menegaz de Almeida et al. (2025) data.","Menegaz de Almeida et al. (2025), JAMA Psychiatry, PMC11447633, full text read Nov 20, 2026: remission 40.7% vs 23.5% (OR 2.42; 95% CI 1.50-3.91)"
+"Remission, control",23.5,23.5,Percent of patients,"Chart: Ask a Neuroscientist, from Menegaz de Almeida et al. (2025) data.","Menegaz de Almeida et al. (2025), PMC11447633: as above"
+"Response, bright light",60.4,60.4,Percent of patients,"Chart: Ask a Neuroscientist, from Menegaz de Almeida et al. (2025) data.","Menegaz de Almeida et al. (2025), PMC11447633: response 60.4% vs 38.6% (OR 2.34; 95% CI 1.46-3.75)"
+"Response, control",38.6,38.6,Percent of patients,"Chart: Ask a Neuroscientist, from Menegaz de Almeida et al. (2025) data.","Menegaz de Almeida et al. (2025), PMC11447633: as above"

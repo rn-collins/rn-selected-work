@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Any grade,1.12,1.12,Risk ratio (1 = no difference),"Chart: Ask a Neuroscientist, from Fazlollahi et al. (2023) data"
+Serious,2.67,2.67,Risk ratio (1 = no difference),"Chart: Ask a Neuroscientist, from Fazlollahi et al. (2023) data"
+Led to stopping,3.95,3.95,Risk ratio (1 = no difference),"Chart: Ask a Neuroscientist, from Fazlollahi et al. (2023) data"

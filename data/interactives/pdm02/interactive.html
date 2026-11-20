@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Seeing sound: match the shape, match the shade (Ask a Neuroscientist)</title>
+<style>
+  :root { --paper:#F3EEE2; --ink:#1B1A17; --muted:#5A554B; --round:#2F5DA8; --spike:#B8391F; --line:#D8CFBC; --card:#FBF8F1; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--paper); color:var(--ink); font-family: "Literata", Georgia, serif; line-height:1.55; }
+  main { max-width: 720px; margin: 0 auto; padding: 24px 18px 64px; }
+  h1, h2 { font-family: "Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif; line-height:1.15; }
+  h1 { font-size: clamp(1.9rem, 6vw, 2.8rem); margin: 0.2em 0 0.3em; }
+  h2 { font-size: 1.4rem; margin: 1.6em 0 0.4em; }
+  .deck { font-size: 1.15rem; color: var(--muted); }
+  .card { background: var(--card); border: 2px solid var(--line); border-radius: 14px; padding: 18px; margin: 14px 0; }
+  .shapes { display:flex; gap: 16px; justify-content:center; flex-wrap: wrap; }
+  button { font: inherit; font-family: "Bricolage Grotesque", Arial, sans-serif; font-size: 1.05rem; color: var(--ink); background: #fff; border: 2px solid var(--ink); border-radius: 10px; padding: 10px 16px; cursor: pointer; min-height: 48px; }
+  button[aria-pressed="true"] { background: var(--ink); color: #fff; }
+  button:focus-visible, input:focus-visible { outline: 4px solid var(--round); outline-offset: 3px; }
+  .shapebtn { background: transparent; border-width: 3px; padding: 8px; }
+  .shapebtn svg { display:block; width: 140px; height: 140px; }
+  .row { display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin: 10px 0; }
+  .swatch { width: 56px; height: 56px; border-radius: 10px; border: 3px solid var(--ink); padding: 0; }
+  .label { display:inline-block; font-family: "Bricolage Grotesque", Arial, sans-serif; font-weight: 700; font-size: 0.85rem; letter-spacing: 0.04em; text-transform: uppercase; padding: 2px 8px; border-radius: 6px; border: 2px solid currentColor; margin-right: 6px; }
+  .strong { color: #1F5A2E; } .early { color: #7A4B00; } .debated { color: #7A1F1F; }
+  .result { min-height: 3em; font-size: 1.05rem; }
+  table { border-collapse: collapse; width: 100%; font-size: 0.98rem; }
+  td, th { border-bottom: 1px solid var(--line); padding: 6px 4px; text-align: left; }
+  .small { font-size: 0.9rem; color: var(--muted); }
+  input[type=range] { width: 100%; height: 44px; }
+  footer { margin-top: 2.5em; font-size: 0.92rem; color: var(--muted); }
+  a { color: var(--round); }
+  @media (prefers-reduced-motion: no-preference) { button { transition: background-color 120ms linear; } }
+</style>
+</head>
+<body>
+<main>
+  <p class="small">Ask a Neuroscientist · Series 5, "Sound and the brain" · Interactive</p>
+  <h1>Seeing sound: match the shape, match the shade</h1>
+  <p class="deck">Do you hear shapes and see pitches? Try two classic tasks, then see what the studies found.</p>
+  <p class="small">Sound plays only when you press a button. Tones are made in your browser; no recordings are used, and nothing you choose is sent or stored.</p>
+
+  <h2>1. Bouba or kiki?</h2>
+  <div class="card">
+    <p>Read each made-up word, then pick the outline it belongs to.</p>
+    <p class="row"><strong id="word">Word: bouba</strong></p>
+    <div class="shapes" role="group" aria-label="Pick an outline for the word">
+      <button class="shapebtn" id="pickRound" aria-label="Rounded blob outline">
+        <svg viewBox="0 0 200 200" aria-hidden="true"><path id="blob" fill="#2F5DA8"/></svg>
+      </button>
+      <button class="shapebtn" id="pickSpiky" aria-label="Spiky star outline">
+        <svg viewBox="0 0 200 200" aria-hidden="true"><path id="star" fill="#B8391F"/></svg>
+      </button>
+    </div>
+    <p class="result" id="bkResult" aria-live="polite"></p>
+  </div>
+  <p><span class="label strong">Well established</span>In an online study of 917 people speaking 25 languages, 72% matched bouba to a round shape and kiki to a spiky one, counting only people who got both. It held with other writing systems too: 63% for non-Roman scripts, 75% for Roman ones (Ćwiek et al., 2022).</p>
+
+  <h2>2. What shade is this tone?</h2>
+  <div class="card">
+    <p>Press <em>Play a tone</em>, listen, then pick the shade that fits. Do it five times; each tone is a different pitch.</p>
+    <div class="row">
+      <button id="play">Play a tone</button>
+      <span id="toneInfo" class="small" aria-live="polite">Tone 1 of 5</span>
+    </div>
+    <div class="row" role="group" aria-label="Pick a shade from darkest to lightest" id="swatches"></div>
+    <p class="result" id="toneResult" aria-live="polite"></p>
+    <table aria-label="Your answers"><thead><tr><th>Tone</th><th>Pitch</th><th>Your shade (1 dark, 5 light)</th></tr></thead><tbody id="answers"></tbody></table>
+  </div>
+  <p><span class="label strong">Well established</span>Most people pair higher-pitched sounds with small, light, fast-moving things, and lower pitches with big and dark ones (Spence, 2020). <span class="label debated">Scientists still disagree</span>Why: one idea is that we learn it from the world, where large objects vibrate at lower frequencies and higher sounds tend to come from higher places (McEwan et al., 2024).</p>
+  <p><span class="label early">One small study</span>18 Hermann's tortoises chose a white wall after a higher tone and a black wall after a lower one on about 61% of trials, against 50% chance (Loconsole et al., 2025).</p>
+
+  <h2>What this is, and what it is not</h2>
+  <p>These are crossmodal correspondences, links nearly everyone shares. Synaesthesia is a different phenomenon, often confused with them (Spence, 2020). Your answers here are just for play; they say nothing about you.</p>
+
+  <footer>
+    <p><strong>Sources (read in full, Nov 6, 2026):</strong> Ćwiek, A., et al. (2022). The bouba/kiki effect is robust across cultures and writing systems. <em>Phil Trans R Soc B, 377</em>, 20200390. <a href="https://doi.org/10.1098/rstb.2020.0390">doi</a> · Spence, C. (2020). Senses of place. <em>Cognitive Research: Principles and Implications, 5</em>, 46. <a href="https://doi.org/10.1186/s41235-020-00243-4">doi</a> · McEwan, J., Kritikos, A., & Zeljko, M. (2024). <em>Attention, Perception, & Psychophysics, 86</em>, 2821-2833. <a href="https://doi.org/10.3758/s13414-024-02975-7">doi</a> · Loconsole, M., et al. (2025). Crossmodal pitch-luminance association in tortoises. <em>Ann N Y Acad Sci, 1553</em>, 233-239. <a href="https://doi.org/10.1111/nyas.70063">doi</a></p>
+    <p>Drawn and coded by Claude for Ask a Neuroscientist (persona draft "Cut-paper sound maker", awaiting RN's approval). Shapes are original, drawn in code. Education, not medical advice. #AskANeuro</p>
+  </footer>
+</main>
+<script>
+(function () {
+  // Original outlines, drawn in code
+  function blobPath() { var d = ""; for (var i = 0; i <= 120; i++) { var t = 2 * Math.PI * i / 120; var r = 72 + 9 * Math.sin(3 * t + 0.4) + 5 * Math.sin(5 * t + 1.3); d += (i ? "L" : "M") + (100 + r * Math.cos(t)).toFixed(1) + "," + (100 + r * Math.sin(t)).toFixed(1); } return d + "Z"; }
+  function starPath() { var d = "", n = 11, seed = 7; function rnd() { seed = (seed * 16807) % 2147483647; return seed / 2147483647; } for (var i = 0; i < 2 * n; i++) { var t = 2 * Math.PI * i / (2 * n) - Math.PI / 2 + (rnd() - 0.5) * 0.15; var r = (i % 2 ? 34 : 86) + (rnd() - 0.5) * 14; d += (i ? "L" : "M") + (100 + r * Math.cos(t)).toFixed(1) + "," + (100 + r * Math.sin(t)).toFixed(1); } return d + "Z"; }
+  document.getElementById("blob").setAttribute("d", blobPath());
+  document.getElementById("star").setAttribute("d", starPath());
+
+  var words = ["bouba", "kiki"], wi = 0, picks = {};
+  var wordEl = document.getElementById("word"), bk = document.getElementById("bkResult");
+  function pick(shape) {
+    picks[words[wi]] = shape;
+    if (wi === 0) { wi = 1; wordEl.textContent = "Word: kiki"; bk.textContent = "You put bouba with the " + shape + " outline. Now kiki."; return; }
+    var both = picks.bouba === "round" && picks.kiki === "spiky";
+    bk.textContent = (both ? "You matched both the way most people do: bouba round, kiki spiky." : "Your matches differ from the most common pattern, which is bouba round and kiki spiky. Plenty of people answer as you did.") + " Press either outline to try again.";
+    wi = 0; picks = {}; wordEl.textContent = "Word: bouba";
+  }
+  document.getElementById("pickRound").addEventListener("click", function () { pick("round"); });
+  document.getElementById("pickSpiky").addEventListener("click", function () { pick("spiky"); });
+
+  // Tones made with Web Audio, only after a press; gentle fade in and out
+  var freqs = [523, 196, 880, 262, 392], ti = 0, ctx = null, answers = [];
+  var shades = ["#1B1A17", "#4A463E", "#7D776B", "#B4AE9F", "#EDE8DC"];
+  var sw = document.getElementById("swatches");
+  shades.forEach(function (c, k) {
+    var b = document.createElement("button"); b.className = "swatch"; b.style.background = c;
+    b.setAttribute("aria-label", "Shade " + (k + 1) + (k === 0 ? ", darkest" : k === 4 ? ", lightest" : ""));
+    b.addEventListener("click", function () { choose(k + 1); }); sw.appendChild(b);
+  });
+  function play() {
+    if (!ctx) { var AC = window.AudioContext || window.webkitAudioContext; if (!AC) { document.getElementById("toneResult").textContent = "This browser cannot play tones; the shade task still works if you imagine a high or low note."; return; } ctx = new AC(); }
+    var o = ctx.createOscillator(), g = ctx.createGain(), t = ctx.currentTime;
+    o.type = "sine"; o.frequency.value = freqs[ti];
+    g.gain.setValueAtTime(0, t); g.gain.linearRampToValueAtTime(0.18, t + 0.08); g.gain.setValueAtTime(0.18, t + 0.9); g.gain.linearRampToValueAtTime(0, t + 1.1);
+    o.connect(g); g.connect(ctx.destination); o.start(t); o.stop(t + 1.15);
+  }
+  document.getElementById("play").addEventListener("click", play);
+  function choose(shade) {
+    if (ti >= freqs.length) return;
+    answers.push([freqs[ti], shade]);
+    var tr = document.createElement("tr"); tr.innerHTML = "<td>" + (ti + 1) + "</td><td>" + freqs[ti] + " Hz</td><td>" + shade + "</td>";
+    document.getElementById("answers").appendChild(tr);
+    ti++;
+    var info = document.getElementById("toneInfo"), res = document.getElementById("toneResult");
+    if (ti < freqs.length) { info.textContent = "Tone " + (ti + 1) + " of 5"; res.textContent = "Saved. Play the next tone."; return; }
+    info.textContent = "Done";
+    var s = answers.slice().sort(function (a, b) { return a[0] - b[0]; });
+    var up = 0, down = 0; for (var i = 1; i < s.length; i++) { if (s[i][1] > s[i - 1][1]) up++; if (s[i][1] < s[i - 1][1]) down++; }
+    res.textContent = up > down ? "Your shades got lighter as the pitch rose, the most common pattern in the studies." : up === down ? "Your shades did not follow pitch in one direction. The common pattern is lighter for higher notes." : "Your shades got darker as pitch rose, the opposite of the most common pattern. Correspondences are tendencies, not rules.";
+  }
+})();
+</script>
+</body>
+</html>

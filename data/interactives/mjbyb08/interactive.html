@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How long was that? A time-guessing demonstration · Ask a Neuroscientist</title>
+<style>
+  :root { --bg:#17121C; --ink:#FFE9C7; --pink:#FF5FAE; --cyan:#66E3EA; --amber:#FFB24A; --brick:#2A2230; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.55 "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace; }
+  main { max-width:760px; margin:0 auto; padding:28px 18px 60px; }
+  h1 { font-size:clamp(26px,6vw,40px); margin:.2em 0 .3em; color:var(--ink); text-shadow:0 0 12px rgba(255,95,174,.55); }
+  h2 { font-size:20px; color:var(--cyan); margin:1.6em 0 .4em; }
+  p { margin:.5em 0; }
+  .lede { color:#F3DDBB; }
+  .tube { height:6px; border-radius:6px; background:var(--pink); box-shadow:0 0 14px rgba(255,95,174,.7); margin:18px 0; }
+  fieldset { border:2px solid var(--brick); border-radius:10px; padding:12px 14px; margin:14px 0; }
+  legend { padding:0 6px; color:var(--amber); }
+  label { display:block; padding:6px 0; cursor:pointer; }
+  input[type=radio] { width:20px; height:20px; vertical-align:-4px; margin-right:8px; accent-color:var(--pink); }
+  button { font:inherit; color:var(--bg); background:var(--cyan); border:0; border-radius:8px; padding:12px 18px; min-height:48px; cursor:pointer; }
+  button.secondary { background:transparent; color:var(--cyan); border:2px solid var(--cyan); }
+  button:focus-visible, input:focus-visible { outline:3px solid var(--amber); outline-offset:3px; }
+  #board { display:grid; grid-template-columns:repeat(4,1fr); gap:10px; margin:16px 0; }
+  #board button { background:#211A28; color:var(--ink); border:2px solid var(--cyan); font-size:22px; min-height:58px; }
+  #board button.done { border-color:#3B3440; color:#6E6676; }
+  .panel { border:2px solid var(--brick); border-radius:10px; padding:14px; margin:14px 0; }
+  .num { font-size:22px; color:var(--amber); }
+  .row { display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+  input[type=number] { font:inherit; width:6.5em; padding:10px; min-height:48px; border-radius:8px; border:2px solid var(--cyan); background:#211A28; color:var(--ink); }
+  .bar { height:20px; border-radius:10px; margin:6px 0 2px; }
+  .label { font-size:15px; color:#E9D6B7; }
+  .small { font-size:15px; color:#E9D6B7; }
+  .hidden { display:none; }
+  a { color:var(--cyan); }
+  @media (prefers-reduced-motion: reduce) { * { transition:none !important; animation:none !important; } }
+</style>
+</head>
+<body>
+<main>
+  <p class="small">Ask a Neuroscientist · interactive · drawn in code by Claude, persona Neon tube bender (draft)</p>
+  <h1>How long was that?</h1>
+  <p class="lede">Gamers stopped after 12, 35 or 58 minutes did not, on average, underestimate how long they had played. Those told in advance that they would be asked guessed longer (Tobin et al., 2010). Try a tiny version: do a simple task until the page stops you, then guess how long it lasted.</p>
+  <div class="tube" aria-hidden="true"></div>
+
+  <section id="setup">
+    <fieldset>
+      <legend>Choose how you play</legend>
+      <label><input type="radio" name="mode" value="warned" checked> Warned: I know I will be asked how long it took</label>
+      <label><input type="radio" name="mode" value="surprise"> Surprise: just let me play (try to forget the question)</label>
+    </fieldset>
+    <p class="small">The task: tap the numbers 1 to 12 in order, as many rounds as you like. The page stops you after a hidden time between 40 seconds and 2 minutes. Nothing is stored or sent.</p>
+    <button id="start" type="button">Start</button>
+  </section>
+
+  <section id="play" class="hidden" aria-live="polite">
+    <p>Tap <span class="num" id="next">1</span> next. Rounds finished: <span class="num" id="rounds">0</span></p>
+    <div id="board" role="group" aria-label="Numbers 1 to 12, tap in order"></div>
+  </section>
+
+  <section id="guess" class="hidden">
+    <h2>Time is up. How long did that last?</h2>
+    <p class="small">Answer on gut feel, without counting back.</p>
+    <div class="row">
+      <label for="gm" style="display:inline">Minutes</label><input id="gm" type="number" min="0" max="10" value="0" inputmode="numeric">
+      <label for="gs" style="display:inline">Seconds</label><input id="gs" type="number" min="0" max="59" value="0" inputmode="numeric">
+      <button id="reveal" type="button">Show the real time</button>
+    </div>
+  </section>
+
+  <section id="result" class="hidden" aria-live="polite">
+    <div class="panel">
+      <p>Real time: <span class="num" id="real"></span> · your guess: <span class="num" id="yours"></span></p>
+      <p>Your guess divided by the real time: <span class="num" id="ratio"></span> (1.00 would be exact)</p>
+      <div id="bars"></div>
+      <p class="small">Bars to scale. Study values: estimate over real time averaged 1.38 for gamers warned in advance and 1.12 for gamers asked by surprise (Tobin et al., 2010; 116 gamers, sessions of 12 to 58 minutes).</p>
+    </div>
+    <button id="again" type="button" class="secondary">Play again</button>
+  </section>
+
+  <h2>What this does and does not show</h2>
+  <p>This is a demonstration, not a measurement. A one-person, two-minute game cannot test anything, and the study ran sessions of 12 to 58 minutes in gaming centres. It shows the question the researchers asked.</p>
+  <p><b>Untested:</b> the popular claim that casinos hide clocks so visitors lose track of time. We searched and found no study that tests it.</p>
+  <p><b>Three studies from one lab agree:</b> in 129 regular slot players, an absorbed state called dark flow, which includes losing track of time, went with enjoyment and with problem-gambling scores (Dixon et al., 2019); studies of 136 and 110 players from the same lab found the same link with problem-gambling scores (Dixon et al., 2018; Kruger et al., 2022).</p>
+  <p><b>Two small studies agree:</b> 30 regular gamblers chose smaller, sooner rewards more often in a slot-machine venue than in a café (Wagner et al., 2022), and an off-track betting site did the same for 16 of 20 people with gambling problems (Dixon, Jacobs &amp; Sanders, 2006); neither tested non-gamblers.</p>
+  <p><b>Untested:</b> whether a phone alarm helps. The one tested time reminder, a pop-up every minute in an online game, made no difference to how long 62 students played (Lavoie &amp; Main, 2019).</p>
+  <p><b>One field study:</b> 116 gamers did not underestimate their sessions on average; advance warning made estimates longer (Tobin et al., 2010).</p>
+  <p>If gambling is causing harm, call or text the National Problem Gambling Helpline at 1-800-MY-RESET (1-800-697-3738, US) or find a line where you live at findahelpline.com.</p>
+  <p>Education, not medical advice.</p>
+  <h2>Sources</h2>
+  <p class="small">Dixon, M. J., et al. (2019). Reward reactivity and dark flow in slot-machine gambling. <i>Journal of Behavioral Addictions, 8</i>(3), 489-498. <a href="https://doi.org/10.1556/2006.8.2019.38">doi.org/10.1556/2006.8.2019.38</a><br>
+  Dixon, M. J., Stange, M., Larche, C. J., Graydon, C., Fugelsang, J. A., &amp; Harrigan, K. A. (2018). Dark flow, depression and multiline slot machine play. <i>Journal of Gambling Studies, 34</i>(1), 73-84. <a href="https://doi.org/10.1007/s10899-017-9695-1">doi.org/10.1007/s10899-017-9695-1</a><br>
+  Dixon, M. R., Jacobs, E. A., &amp; Sanders, S. (2006). Contextual control of delay discounting by pathological gamblers. <i>Journal of Applied Behavior Analysis, 39</i>(4), 413-422. <a href="https://doi.org/10.1901/jaba.2006.173-05">doi.org/10.1901/jaba.2006.173-05</a><br>
+  Kruger, T. B., Dixon, M. J., Graydon, C., Larche, C. J., Stange, M., Smith, S. D., &amp; Smilek, D. (2022). Contrasting mind-wandering, (dark) flow, and affect during multiline and single-line slot machine play. <i>Journal of Gambling Studies, 38</i>(1), 185-203. <a href="https://doi.org/10.1007/s10899-021-10027-0">doi.org/10.1007/s10899-021-10027-0</a><br>
+  Lavoie, R. V., &amp; Main, K. J. (2019). When losing money and time feels good: The paradoxical role of flow in gambling. <i>Journal of Gambling Issues, 41</i>, 53-72. <a href="https://doi.org/10.4309/jgi.2019.41.4">doi.org/10.4309/jgi.2019.41.4</a><br>
+  Tobin, S., Bisson, N., &amp; Grondin, S. (2010). An ecological approach to prospective and retrospective timing of long durations: A study involving gamers. <i>PLoS ONE, 5</i>(2), e9271. <a href="https://doi.org/10.1371/journal.pone.0009271">doi.org/10.1371/journal.pone.0009271</a><br>
+  Wagner, B., Mathar, D., &amp; Peters, J. (2022). Gambling environment exposure increases temporal discounting but improves model-based control in regular slot-machine gamblers. <i>Computational Psychiatry, 6</i>(1), 142-165. <a href="https://doi.org/10.5334/cpsy.84">doi.org/10.5334/cpsy.84</a></p>
+</main>
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  let next = 1, rounds = 0, t0 = 0, limit = 0, timer = null, real = 0;
+  function shuffle(a) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+  function deal() {
+    const b = $("board"); b.innerHTML = ""; next = 1; $("next").textContent = "1";
+    shuffle([...Array(12).keys()].map(i => i + 1)).forEach(n => {
+      const btn = document.createElement("button"); btn.type = "button"; btn.textContent = n; btn.setAttribute("aria-label", "Number " + n);
+      btn.addEventListener("click", () => {
+        if (n !== next || btn.classList.contains("done")) return;
+        btn.classList.add("done"); btn.setAttribute("aria-disabled", "true"); next++;
+        if (next > 12) { rounds++; $("rounds").textContent = rounds; deal(); $("board").querySelector("button").focus(); }
+        else $("next").textContent = next;
+      });
+      b.appendChild(btn);
+    });
+  }
+  function stop() {
+    real = (performance.now() - t0) / 1000;
+    $("play").classList.add("hidden"); $("guess").classList.remove("hidden"); $("gm").focus();
+  }
+  $("start").addEventListener("click", () => {
+    real = 0;
+    rounds = 0; $("rounds").textContent = "0";
+    $("setup").classList.add("hidden"); $("result").classList.add("hidden"); $("play").classList.remove("hidden");
+    deal(); $("board").querySelector("button").focus();
+    limit = 40 + Math.random() * 80; t0 = performance.now();
+    clearTimeout(timer); timer = setTimeout(stop, limit * 1000);
+  });
+  const fmt = s => { const m = Math.floor(s / 60), r = Math.round(s - m * 60); return (m ? m + " min " : "") + r + " s"; };
+  $("reveal").addEventListener("click", () => {
+    if (!real) real = (performance.now() - t0) / 1000;
+    const g = Math.max(0, (+$("gm").value || 0) * 60 + (+$("gs").value || 0));
+    const ratio = g / real; const mode = document.querySelector("input[name=mode]:checked").value;
+    $("real").textContent = fmt(real); $("yours").textContent = fmt(g); $("ratio").textContent = ratio.toFixed(2);
+    const rows = [["You (" + (mode === "warned" ? "warned" : "surprise") + ")", ratio, "#FFB24A"], ["Study: warned", 1.375, "#FF5FAE"], ["Study: surprise", 1.115, "#66E3EA"]];
+    const max = Math.max(2, ...rows.map(r => r[1]));
+    $("bars").innerHTML = rows.map(([l, v, c]) => `<div class="label">${l}: ${v.toFixed(2)}</div><div class="bar" style="width:${Math.max(2, 100 * v / max)}%;background:${c}"></div>`).join("") +
+      `<div class="label">1.00 is at ${(100 / max).toFixed(0)} percent of the bar width</div>`;
+    $("guess").classList.add("hidden"); $("result").classList.remove("hidden"); $("again").focus();
+  });
+  $("again").addEventListener("click", () => { $("result").classList.add("hidden"); $("setup").classList.remove("hidden"); $("start").focus(); });
+})();
+</script>
+</body>
+</html>

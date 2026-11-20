@@ -1,0 +1,5 @@
+label,value,text,axis,source
+Not frail,3.8,3.8,"degrees, 45 older adults","SOURCE: PADILLA ISASSI ET AL. (2026), GERIATRICS"
+Frail,3.1,3.1,"degrees, 45 older adults","SOURCE: PADILLA ISASSI ET AL. (2026), GERIATRICS"
+No sarcopenia,4.1,4.1,"degrees, 45 older adults","SOURCE: PADILLA ISASSI ET AL. (2026), GERIATRICS"
+Sarcopenia,3.1,3.1,"degrees, 45 older adults","SOURCE: PADILLA ISASSI ET AL. (2026), GERIATRICS"

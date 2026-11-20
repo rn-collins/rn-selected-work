@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Conventional office,100,100,"Cognitive score, conventional day = 100","SOURCE: ALLEN ET AL. (2016), ENVIRONMENTAL HEALTH PERSPECTIVES 124(6):805-812"
+Green (low pollutants),161,161,"Cognitive score, conventional day = 100","SOURCE: ALLEN ET AL. (2016), ENVIRONMENTAL HEALTH PERSPECTIVES 124(6):805-812"
+Green + extra ventilation,201,201,"Cognitive score, conventional day = 100","SOURCE: ALLEN ET AL. (2016), ENVIRONMENTAL HEALTH PERSPECTIVES 124(6):805-812"

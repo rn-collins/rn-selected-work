@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en"><head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Swing the lamp: pendulum length and swing width | Ask a Neuroscientist</title>
+<style>
+:root{--bg:#f1ece2;--ink:#2a1f14;--muted:#5c4a35;--acc:#9a5b13;--acc2:#36586b}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.5 "Work Sans",system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:20px}h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:600;font-size:32px;margin:.2em 0}
+.tag{font-family:"DM Mono",monospace;font-size:14px;letter-spacing:1px;color:var(--muted)}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:12px 0}input[type=range]{width:260px}
+button{font:inherit;padding:8px 14px;border:2px solid var(--ink);border-radius:10px;background:#fff;cursor:pointer}
+button:focus-visible,input:focus-visible{outline:4px solid var(--acc2);outline-offset:3px}
+.out{display:grid;grid-template-columns:1fr 1fr;gap:12px}.box{border-top:5px solid var(--acc);padding:8px 0}
+.big{font-family:"Cormorant Garamond",Georgia,serif;font-size:40px;color:var(--acc)}svg{width:100%;max-width:520px;height:auto;display:block;margin:0 auto}
+.note{font-size:16px;color:var(--muted)}
+</style></head><body><main>
+<p class="tag">LAMPADA VOTIVA · PISA 1583 · INTERACTIVE</p>
+<h1>Swing the lamp</h1>
+<p>Change the cord length and how wide the lamp swings. The period is the time for one full swing, there and back. Press Swing to watch it, or read the numbers.</p>
+<div class="row"><label for="len"><strong>Cord length</strong></label><input id="len" type="range" min="0.5" max="30" step="0.5" value="10"><span id="lenv">10 m</span></div>
+<div class="row"><label for="amp"><strong>Swing width</strong></label><input id="amp" type="range" min="2" max="90" step="1" value="10"><span id="ampv">10° each side</span></div>
+<div class="row"><button id="go" aria-pressed="false">Swing</button></div>
+<div class="out"><div class="box"><div>Period, exact</div><div class="big" id="per" aria-live="polite"></div></div>
+<div class="box"><div>Longer than the small-swing rule by</div><div class="big" id="dif" aria-live="polite"></div></div></div>
+<svg viewBox="0 0 520 340" role="img" aria-labelledby="pt"><title id="pt">A lamp on a cord, drawn at its current angle</title>
+<line x1="260" y1="10" x2="260" y2="20" stroke="#2a1f14" stroke-width="4"/><line id="cord" x1="260" y1="20" x2="260" y2="300" stroke="#2a1f14" stroke-width="3"/><circle id="lamp" cx="260" cy="300" r="18" fill="#9a5b13"/></svg>
+<h2>What the sources say</h2>
+<p><strong>Length (strong):</strong> four times the length, twice the period; the period grows as the square root of length (Galilei, 1638).</p>
+<p><strong>Swing width (Galileo's claim fails for wide swings):</strong> Galileo wrote that swings of ninety down to four degrees take the same time. The exact period is longer for every swing, by about 18% at 90 degrees; the simple rule is within 0.1% only below about 7 degrees (Lima and Arun, 2006). The numbers here are computed from the exact period, in your browser.</p>
+<p><strong>The lamp (weak, a tradition):</strong> the story comes from Viviani in 1654; the lamp in Pisa's nave today was hung after Galileo's time, and an older lamp is in the Camposanto (Museo Galileo).</p>
+<p class="note">Sources: Galilei, G. (1638). Discorsi. Leiden; trans. H. Crew & A. de Salvio (1914) · Lima, F. M. S., & Arun, P. (2006). American Journal of Physics, 74(10), 892. https://doi.org/10.1119/1.2215616 · Museo Galileo, Pisa: following the path of Galileo. Gravity taken as 9.81 m per second squared. Nothing you do here is recorded or sent.</p>
+</main>
+<script>
+const g=9.81,R=Math.PI/180;const len=document.getElementById('len'),amp=document.getElementById('amp'),go=document.getElementById('go');
+const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;let run=false,t0=0,raf=0;
+function K(k){let a=1,b=Math.sqrt(1-k*k);for(let i=0;i<30;i++){const c=(a+b)/2;b=Math.sqrt(a*b);a=c;}return Math.PI/(2*a);}
+function period(){const L=+len.value,th=+amp.value*R;const T0=2*Math.PI*Math.sqrt(L/g);return [T0*2*K(Math.sin(th/2))/Math.PI,T0];}
+function draw(angle){const x=260+280*Math.sin(angle),y=20+280*Math.cos(angle);const c=document.getElementById('cord');c.setAttribute('x2',x);c.setAttribute('y2',y);const l=document.getElementById('lamp');l.setAttribute('cx',x);l.setAttribute('cy',y);}
+function show(){const [T,T0]=period();document.getElementById('lenv').textContent=(+len.value)+' m';document.getElementById('ampv').textContent=amp.value+'° each side';
+document.getElementById('per').textContent=T.toFixed(2)+' s';document.getElementById('dif').textContent=((T/T0-1)*100).toFixed(2)+'%';if(!run)draw(+amp.value*R);}
+function tick(ts){if(!t0)t0=ts;const [T]=period();const ph=((ts-t0)/1000)/T*2*Math.PI;draw(+amp.value*R*Math.cos(ph));raf=requestAnimationFrame(tick);}
+go.onclick=()=>{if(reduce){show();return;}run=!run;go.setAttribute('aria-pressed',run);go.textContent=run?'Stop':'Swing';if(run){t0=0;raf=requestAnimationFrame(tick);}else{cancelAnimationFrame(raf);show();}};
+len.oninput=show;amp.oninput=show;if(reduce){go.textContent='Swing (motion off: numbers only)';}show();
+</script></body></html>

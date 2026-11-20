@@ -1,0 +1,3 @@
+label,value,text,axis,source
+Time given,25,25 s,seconds per trial,
+EEG recorded,5,5 s,seconds per trial,

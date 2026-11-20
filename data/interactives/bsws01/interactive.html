@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cross the bridge: a slime mould learns to ignore quinine</title>
+<style>
+  :root { --bench:#e7e2d3; --agar:#f5f0de; --rim:#8c9692; --ink:#2e2614; --muted:#5b5140; --vein:#d9a514; --vein2:#9c6a00; --acc:#8a5d00; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bench); color:var(--ink); font:18px/1.5 "Instrument Sans", system-ui, sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:24px 18px 40px; }
+  h1 { font:400 30px/1.2 "Young Serif", Georgia, serif; margin:0 0 8px; }
+  p { margin:0 0 14px; }
+  .label { display:inline-block; font:600 14px/1 "IBM Plex Mono", monospace; letter-spacing:.06em; color:var(--muted); text-transform:uppercase; }
+  .panel { background:var(--agar); border:2px solid var(--rim); border-radius:14px; padding:16px; margin:18px 0; }
+  label { font-weight:600; display:block; margin-bottom:6px; }
+  input[type=range] { width:100%; min-height:44px; accent-color:var(--vein2); }
+  .read { font:400 26px/1.3 "Young Serif", Georgia, serif; margin:10px 0 4px; }
+  svg { width:100%; height:auto; display:block; }
+  .marks { display:flex; flex-wrap:wrap; gap:8px; margin-top:10px; }
+  button { min-height:44px; min-width:44px; padding:8px 14px; font:600 16px "Instrument Sans", system-ui, sans-serif; color:var(--ink); background:#fffdf5; border:1px solid var(--rim); border-radius:6px; cursor:pointer; }
+  button[aria-pressed=true] { background:#f3dc8f; }
+  button:focus-visible, input:focus-visible { outline:3px solid var(--acc); outline-offset:2px; }
+  .bar { transition: width .35s ease; }
+  @media (prefers-reduced-motion: reduce) { .bar { transition:none; } }
+  .tag { display:inline-block; font:600 13px/1 "IBM Plex Mono", monospace; padding:5px 8px; border:1px solid var(--ink); border-radius:3px; margin-right:6px; }
+  small, .src { color:var(--muted); font-size:15px; }
+  ul { padding-left:20px; }
+</style>
+</head>
+<body>
+<main>
+  <span class="label">Ask a Neuroscientist · interactive · drawn in code · persona Agar-plate grower</span>
+  <h1>Cross the bridge: a slime mould learns to ignore quinine</h1>
+  <p>Physarum polycephalum is one cell with no neurons. In a Tokyo lab, a slime mould had to cross an agar bridge laced with bitter quinine to reach food, once a day for four days, while a control crossed plain agar (Yoneoka &amp; Takamatsu, 2023). Pick a day to see how long each one took.</p>
+
+  <div class="panel">
+    <label for="day">Day of training</label>
+    <input id="day" type="range" min="1" max="4" step="1" value="1" aria-describedby="out">
+    <div class="marks" role="group" aria-label="Jump to a day">
+      <button type="button" data-d="1" aria-pressed="true">Day 1</button>
+      <button type="button" data-d="2" aria-pressed="false">Day 2</button>
+      <button type="button" data-d="3" aria-pressed="false">Day 3</button>
+      <button type="button" data-d="4" aria-pressed="false">Day 4</button>
+    </div>
+    <p class="read" id="out" aria-live="polite">Day 1: quinine bridge 285 minutes, plain agar 110 minutes.</p>
+    <svg viewBox="0 0 700 260" role="img" aria-labelledby="svgt">
+      <title id="svgt">Bars drawn to scale of minutes to cross the bridge on the chosen day, quinine and plain agar.</title>
+      <text x="10" y="72" font-family="Instrument Sans, sans-serif" font-size="30" font-weight="600" fill="#2e2614">bitter</text>
+      <rect x="120" y="40" width="560" height="44" rx="22" fill="#fffdf5" stroke="#8c9692"/>
+      <rect class="bar" id="bq" x="120" y="40" width="0" height="44" rx="22" fill="#d9a514" stroke="#9c6a00" stroke-width="3"/>
+      <text x="10" y="170" font-family="Instrument Sans, sans-serif" font-size="30" font-weight="600" fill="#2e2614">plain</text>
+      <rect x="120" y="140" width="560" height="44" rx="22" fill="#fffdf5" stroke="#8c9692"/>
+      <rect class="bar" id="bc" x="120" y="140" width="0" height="44" rx="22" fill="#ecd388" stroke="#9c6a00" stroke-width="2"/>
+      <text x="120" y="245" font-family="IBM Plex Mono, monospace" font-size="24" fill="#5b5140">0</text>
+      <text x="680" y="245" text-anchor="end" font-family="IBM Plex Mono, monospace" font-size="24" fill="#5b5140">300 min</text>
+    </svg>
+    <small>One typical sample per group, from the caption of Figure 1 in Yoneoka &amp; Takamatsu (2023). Bars to scale from 0 to 300 minutes.</small>
+  </div>
+
+  <h2 style="font:400 22px/1.3 'Young Serif',Georgia,serif">What the evidence says</h2>
+  <ul>
+    <li><span class="tag">STRONG</span>Habituation in the lab: slime moulds crossed a quinine bridge faster day after day, the change was specific to quinine, and caution returned after two days without it (Boisseau et al., 2016; 200 control, 140 quinine and 70 caffeine slime moulds). A second lab confirmed it (Yoneoka &amp; Takamatsu, 2023).</li>
+    <li><span class="tag">EARLY</span>The tube network may hold part of the change: cutting or turning the trained network made the cell cross as if it had forgotten. One lab; the mechanism is not worked out (Yoneoka &amp; Takamatsu, 2023).</li>
+    <li><span class="tag">STILL DEBATED</span>Whether this counts as intelligence, and whether a slime mould can learn by association (Reid, 2023).</li>
+  </ul>
+
+  <p class="src">Made for the Berlin Science Week 2026 lecture performance "From Slime to Survival: Who's Really in Control?" by Michelle-Marie Letelier and Karin Pittman, Festival Centre, Haus der Kulturen der Welt, Nov 7, 2026. Sources: Boisseau, R. P., Vogel, D., &amp; Dussutour, A. (2016), Proceedings of the Royal Society B, 283, 20160446, https://doi.org/10.1098/rspb.2016.0446; Yoneoka, E., &amp; Takamatsu, A. (2023), Frontiers in Cell and Developmental Biology, 11, 1249165, https://doi.org/10.3389/fcell.2023.1249165; Reid, C. R. (2023), Animal Cognition, 26, 1783 to 1797, https://doi.org/10.1007/s10071-023-01782-1. Drawn in code by Claude for Ask a Neuroscientist; nothing is stored.</p>
+</main>
+<script>
+  const Q = [285, 280, 210, 150], C = [110, 80, 120, 110], MAX = 300, W = 560;
+  const day = document.getElementById('day'), out = document.getElementById('out');
+  const bq = document.getElementById('bq'), bc = document.getElementById('bc');
+  const btns = [...document.querySelectorAll('button[data-d]')];
+  function show(d) {
+    d = Math.max(1, Math.min(4, d | 0)); day.value = d;
+    bq.setAttribute('width', W * Q[d - 1] / MAX); bc.setAttribute('width', W * C[d - 1] / MAX);
+    out.textContent = 'Day ' + d + ': quinine bridge ' + Q[d - 1] + ' minutes, plain agar ' + C[d - 1] + ' minutes.';
+    btns.forEach(b => b.setAttribute('aria-pressed', String(+b.dataset.d === d)));
+  }
+  day.addEventListener('input', () => show(+day.value));
+  btns.forEach(b => b.addEventListener('click', () => show(+b.dataset.d)));
+  show(1);
+</script>
+</body>
+</html>

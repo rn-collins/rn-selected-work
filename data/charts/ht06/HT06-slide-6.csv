@@ -1,0 +1,3 @@
+label,value,text,axis,source
+Before controls,1,1,"Relative size, bars from zero","SOURCE: WATTS, DUNCAN AND QUAN (2018), PSYCHOLOGICAL SCIENCE 29(7):1159-1177"
+After controls,0.3333333333333333,one third,"Relative size, bars from zero","SOURCE: WATTS, DUNCAN AND QUAN (2018), PSYCHOLOGICAL SCIENCE 29(7):1159-1177"

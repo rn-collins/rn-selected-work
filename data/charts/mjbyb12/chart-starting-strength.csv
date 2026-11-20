@@ -1,0 +1,5 @@
+label,value,label_as_shown,unit_or_scale
+"rose-like, nose",7.5,7.5,strength 0 to 10 at the start (mean)
+"rose-like, mouth",8.0,8.0,strength 0 to 10 at the start (mean)
+"banana-like, nose",8.1,8.1,strength 0 to 10 at the start (mean)
+"banana-like, mouth",8.3,8.3,strength 0 to 10 at the start (mean)

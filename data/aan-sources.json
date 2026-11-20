@@ -128,6 +128,7 @@
    "how_sure": "Four lab studies of students in one 2011 paper; later lab studies found naming can sometimes make things worse.",
    "region": "amygdala",
    "extra": {
+    "last_checked": "2026-11-20",
     "charts": [
      {
       "title": "Change in unpleasant feeling by condition, Nook et al. 2021 Study 1 (long form)",
@@ -135,7 +136,8 @@
       "source_table": "Nook, Satpute & Ochsner 2021, Study 1 Results (condition means)",
       "file": "05-nook-study1-chart.csv"
      }
-    ]
+    ],
+    "corrections": []
    },
    "chart_csvs": [
     {
@@ -288,6 +290,11 @@
    ],
    "region": "body",
    "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "how_sure": "moderate",
+     "how_sure_note": "The performance gap and the male skew in sport science come from large reviews and audits of hundreds of studies, but the findings on women rest on meta-analyses of mostly small studies; only 8% of the menstrual cycle studies were rated high quality."
+    },
     "charts": [
      {
       "title": "Share of participants who were women in six audits of sport and exercise research (long form)",
@@ -301,7 +308,8 @@
       "source_table": "Chia et al. 2022, Results (pooled incidence by sex)",
       "file": "04-chia-2022-acl-by-sex.csv"
      }
-    ]
+    ],
+    "corrections": []
    },
    "chart_csvs": [
     {
@@ -495,6 +503,7 @@
    "how_sure": "One historical case: his own 1794 description, then DNA from his preserved eye tissue in 1995 (as described by Mackey, 2022).",
    "region": "visual",
    "extra": {
+    "last_checked": "2026-11-20",
     "charts": [
      {
       "title": "Pooled prevalence of colour vision deficiency in young people, by sex and type, 56 studies (long form)",
@@ -502,7 +511,8 @@
       "source_table": "Jeong et al. 2025, Abstract and Results (pooled prevalence, 95% CI)",
       "file": "07-chart-prevalence-jeong-2025.csv"
      }
-    ]
+    ],
+    "corrections": []
    },
    "time": "09:00 HST"
   },
@@ -588,6 +598,11 @@
    ],
    "region": "brainstem",
    "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "how_sure": "moderate",
+     "how_sure_note": "One carefully controlled lab study of 55 adults aged 18 to 30, with each person measured across several light levels; it does not show what happens in older people or in real homes."
+    },
     "charts": [
      {
       "title": "Light level that halved melatonin: Zeitzer et al. 2000 band and Phillips et al. 2019 hourly and overall values (long form)",
@@ -613,7 +628,8 @@
       "source_table": "Crowley et al. 2015, Results; Vidafar et al. 2024, Results; Higuchi et al. 2007a and 2007b, Abstracts (abstract only)",
       "file": "05-what-shifts-sensitivity.csv"
      }
-    ]
+    ],
+    "corrections": []
    },
    "chart_csvs": [
     {
@@ -705,14 +721,14 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "The 12-student study in Siraji and colleagues' reference list",
+     "what": "Text: Siraji et al. (2023), The 12-student study in their reference list",
      "credit": "Text: Siraji et al. (2023), Scientific Reports 13:12425, CC BY 4.0",
      "url": "https://doi.org/10.1038/s41598-023-39636-y",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Who was in the study, as Siraji reports it",
+     "what": "Text: Siraji et al. (2023), Who was in the study",
      "credit": "Text: Siraji et al. (2023), Scientific Reports 13:12425, CC BY 4.0",
      "url": "https://doi.org/10.1038/s41598-023-39636-y",
      "card": false
@@ -726,49 +742,42 @@
     },
     {
      "where": "Slide 4",
-     "what": "Siraji's account of what He and colleagues observed",
-     "credit": "Text: Siraji et al. (2023), Scientific Reports 13:12425, CC BY 4.0",
-     "url": "https://doi.org/10.1038/s41598-023-39636-y",
-     "card": false
-    },
-    {
-     "where": "Slide 5",
      "what": "How many people each cited study followed. 12, 65 and 89",
      "credit": "Chart: Ask a Neuroscientist, from Siraji et al. (2023), Bae et al. (2026) and Akgun et al. (2026) data",
      "url": "https://doi.org/10.1038/s41598-023-39636-y",
      "card": false
     },
     {
-     "where": "Slide 6",
+     "where": "Slide 5",
      "what": "The SpectraWear wrist light sensor from above, photo Didikoglu and colleagues / PNAS paper",
      "credit": "Photo: Didikoglu et al. (2023), PNAS, SI Fig. S3, CC BY 4.0",
      "url": "https://doi.org/10.1073/pnas.2301608120",
      "card": false
     },
     {
-     "where": "Slide 7",
-     "what": "The classroom trial's result on mood",
+     "where": "Slide 6",
+     "what": "Text: Bae et al. (2026), The classroom trial's result on mood",
      "credit": "Text: Bae et al. (2026), Clocks & Sleep 8:6, CC BY 4.0",
      "url": "https://doi.org/10.3390/clockssleep8010006",
      "card": false
     },
     {
      "where": "Story 1",
-     "what": "What the classroom trial tested",
+     "what": "Text: Bae et al. (2026), What the classroom trial tested",
      "credit": "Text: Bae et al. (2026), Clocks & Sleep 8:6, CC BY 4.0",
      "url": "https://doi.org/10.3390/clockssleep8010006",
      "card": false
     },
     {
      "where": "Story 2",
-     "what": "The title of Siraji and colleagues' 2023 paper, which reports the 12-student study: 'Light exposure behaviors predict mood, memory and sleep quality'",
+     "what": "Text: Siraji et al. (2023), The title they gave their report",
      "credit": "Text: Siraji et al. (2023), Scientific Reports 13:12425, CC BY 4.0",
      "url": "https://doi.org/10.1038/s41598-023-39636-y",
      "card": false
     },
     {
      "where": "Story 3",
-     "what": "How much bright light adults got",
+     "what": "Text: Akgun et al. (2026), How much bright light adults got",
      "credit": "Text: Akgun et al. (2026), npj Biological Timing and Sleep, CC BY 4.0",
      "url": "https://doi.org/10.1038/s44323-026-00087-z",
      "card": false
@@ -776,6 +785,11 @@
    ],
    "region": "brainstem",
    "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "how_sure": "early",
+     "how_sure_note": "The morning light result for sleep comes from one 12-person study known only as another paper reports it, plus a one-week association study; the one classroom trial found no change in mood or stress."
+    },
     "charts": [
      {
       "title": "Effect sizes of one week of morning bright light in 33 healthy students, oriented so positive = improvement (long form)",
@@ -789,7 +803,8 @@
       "source_table": "Menegaz de Almeida et al. 2025, Abstract and Results (pooled remission and response rates)",
       "file": "05-menegaz2025-chart.csv"
      }
-    ]
+    ],
+    "corrections": []
    },
    "chart_csvs": [
     {
@@ -797,7 +812,7 @@
      "file": "ni04-c3.csv"
     },
     {
-     "where": "Slide 5",
+     "where": "Slide 4",
      "file": "ni04-c5.csv"
     },
     {
@@ -968,12 +983,248 @@
    ],
    "region": "brainstem",
    "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "summary": [
+      "Melatonin is made in the pineal gland, mostly in darkness, and bright light at night can block it in people, a fact scientists doubted until 1978.",
+      "The brain reads melatonin through two receptors, MT1 and MT2; in mice, losing MT1 removed melatonin's quieting of the brain's clock, while losing MT2 caused no obvious change in daily rhythms.",
+      "In 2019, X-ray laser structures of human MT1 showed a binding pocket sealed from outside, and a 2012 gene study linked rare broken forms of MT2 to type 2 diabetes."
+     ],
+     "how_sure": "moderate",
+     "how_sure_note": "That light lowers melatonin and that melatonin acts through MT1 and MT2 is well established; which receptor does which job rests on a few small mouse studies, and the diabetes link is an association with very rare gene variants.",
+     "reading_minutes": 4
+    },
+    "claims": [
+     {
+      "claim": "The pineal gland releases melatonin, especially in darkness. Light enters the eyes, even through closed lids, and signals the brain's clock.",
+      "source": "CDC NIOSH 2020",
+      "where": "Circadian Clock page, Figure 2 caption and footnote",
+      "study": "government training page"
+     },
+     {
+      "claim": "Scientists once thought light did not lower melatonin in people. From 1978, studies found bright light at night could block it.",
+      "source": "Kaladchibachi and Fernandez 2018",
+      "where": "History section on light and melatonin, just before Section 4 (Light as a Therapeutic Tool)",
+      "study": "narrative review"
+     },
+     {
+      "claim": "Melatonin acts on two high-affinity receptors, MT1 and MT2, both G protein-coupled receptors.",
+      "source": "Stauch et al. 2019 (RCSB PDB 6ME2); Jin et al. 2003",
+      "where": "Stauch: abstract on the PDB entry; Jin: abstract and introduction",
+      "study": "structure study; mouse gene study"
+     },
+     {
+      "claim": "In mice, melatonin quiets firing in the brain's clock. Mice lacking MT1 lost that quieting; mice lacking MT2 showed no obvious change in daily rhythms.",
+      "source": "Jin et al. 2003",
+      "where": "Abstract; Fig. 3 (MT1 data replotted from Liu et al. 1997); Results",
+      "study": "mouse knockout study, 6 MT2 knockout and 11 normal mice in the clock-slice test"
+     },
+     {
+      "claim": "2019 X-ray laser structures of human MT1 show a loop sealing the binding pocket from outside, with a narrow channel opening into the cell membrane.",
+      "source": "Stauch et al. 2019 (RCSB PDB 6ME2)",
+      "where": "Abstract on the PDB entry",
+      "study": "protein structure study"
+     },
+     {
+      "claim": "MT2 shows a narrow opening toward the outside as well.",
+      "source": "Johansson et al. 2019 (RCSB PDB 6ME6)",
+      "where": "Abstract on the PDB entry and the PDBj summary",
+      "study": "protein structure study"
+     },
+     {
+      "claim": "A 2012 study read the MT2 gene in 7,632 Europeans. Rare variants that impaired the receptor were linked to higher type 2 diabetes risk.",
+      "source": "Bonnefond et al. 2012",
+      "where": "Results (odds ratio 5.67; replication odds ratio 3.88)",
+      "study": "gene sequencing and association study, 7,632 people including 2,186 with type 2 diabetes"
+     },
+     {
+      "claim": "Most lab mouse strains make no melatonin.",
+      "source": "Jin et al. 2003",
+      "where": "Results: targeted disruption of the Mel1b gene",
+      "study": "mouse knockout study"
+     }
+    ],
+    "annotations": [
+     {
+      "source": "CDC NIOSH 2020",
+      "open_access": "https://archive.cdc.gov/www_cdc_gov/niosh/emres/longhourstraining/clock.html",
+      "group": "official",
+      "note": "A page in a NIOSH sleep and fatigue training for emergency responders (last reviewed April 1, 2020). It explains the body clock and says melatonin is released by the pineal gland, especially in darkness. It is a training summary, not a research paper.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     },
+     {
+      "source": "Kaladchibachi and Fernandez 2018",
+      "doi": "https://doi.org/10.1155/2018/5868570",
+      "group": "review",
+      "note": "A review of light as a treatment for psychiatric disorders. Its history section says human melatonin was thought to be unaffected by light through the 1970s, until reports from 1978 showed bright light at night could block it. A narrative review, so it does not pool data.",
+      "funding": "Science Foundation Arizona, the UA BIO5 Institute and the Arizona Department of Health Services (Acknowledgments).",
+      "conflicts": "The authors declare no competing interests."
+     },
+     {
+      "source": "Jin et al. 2003",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC140714",
+      "group": "primary",
+      "note": "Mice lacking MT2 (Mel1b) had no obvious change in daily rhythms, and melatonin still quieted their clock cells; the paper also replots older data showing that quieting is gone in mice lacking MT1. Limits: small groups (6 knockout and 11 normal mice in the slice test), and most lab mouse strains make no melatonin of their own.",
+      "funding": "NIH grants DK42125 and AG09975, an NIH postdoctoral fellowship, the Deutsche Forschungsgemeinschaft, two German foundations, and a sponsored research agreement from Bristol-Myers Squibb (Acknowledgments).",
+      "conflicts": "none declared"
+     },
+     {
+      "source": "Stauch et al. 2019 (RCSB PDB 6ME2)",
+      "open_access": "https://rcsb.org/structure/6me2",
+      "group": "primary",
+      "note": "X-ray free electron laser structures of human MT1 bound to four man-made activators. The binding pocket is sealed from outside by a loop, and a narrow channel links it to the cell membrane. Limits: the structures hold drug-like compounds, not melatonin itself, and are snapshots of a modified receptor.",
+      "funding": "The PDB entry lists NIH/NIGMS as funder. The paper's own funding statement was not re-read: its open copy was behind a bot check on Nov 20, 2026.",
+      "conflicts": "Not re-read: the open copy was behind a bot check on Nov 20, 2026."
+     },
+     {
+      "source": "Johansson et al. 2019 (RCSB PDB 6ME6)",
+      "open_access": "https://www.rcsb.org/structure/6ME6",
+      "group": "primary",
+      "note": "The companion structures of human MT2. Both receptors have a channel from the membrane into the pocket, and MT2 also has a narrow opening toward the outside. The authors suggest ligands may also enter MT2 from outside, which they did not prove.",
+      "funding": "The PDB entry lists NIH/NIGMS as funder. The paper's own funding statement was not re-read: its open copy was behind a bot check on Nov 20, 2026.",
+      "conflicts": "Not re-read: the open copy was behind a bot check on Nov 20, 2026."
+     },
+     {
+      "source": "Bonnefond et al. 2012",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3773908",
+      "group": "primary",
+      "note": "Sequenced the MT2 gene (MTNR1B) in 7,632 Europeans, 2,186 with type 2 diabetes, and found 40 protein-changing variants. Variants that partly or fully broke the receptor were linked to diabetes (odds ratio 5.67), and the link held in a second sample (3.88). Limits: the variants are very rare and the study shows association, not cause. Content from the package's full read (longform-research-log.md).",
+      "funding": "Not re-read: the open copy was behind a bot check on Nov 20, 2026.",
+      "conflicts": "Not re-read: the open copy was behind a bot check on Nov 20, 2026."
+     }
+    ],
+    "could_be_wrong": [
+     {
+      "point": "Most inbred lab mouse strains make no melatonin, so knockout studies test the receptors in animals that may not use the hormone the way people do.",
+      "source": "Jin et al. 2003",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC140714"
+     },
+     {
+      "point": "The MT2 clock-slice test used only 6 knockout mice against 11 normal mice, and the paper finds limited overlap in the two receptors' jobs, so the split between MT1 and MT2 is not clean.",
+      "source": "Jin et al. 2003",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC140714"
+     },
+     {
+      "point": "The 2019 structures hold man-made compounds that switch the receptors on, not melatonin itself, so the shape with the natural hormone may differ.",
+      "source": "Stauch et al. 2019 (RCSB PDB 6ME2)",
+      "url": "https://rcsb.org/structure/6me2"
+     },
+     {
+      "point": "How melatonin gets into its pocket is still open: both receptors show a channel from the membrane, and the MT2 team suggests a second way in from outside that they did not prove.",
+      "source": "Johansson et al. 2019 (RCSB PDB 6ME6)",
+      "url": "https://www.rcsb.org/structure/6ME6"
+     },
+     {
+      "point": "The diabetes link rests on very rare gene variants and shows association, not cause.",
+      "source": "Bonnefond et al. 2012",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3773908"
+     }
+    ],
+    "go_deeper": {
+     "new": [
+      {
+       "title": "Circadian Rhythms (NIH, National Institute of General Medical Sciences)",
+       "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx",
+       "why": "A plain fact sheet on the brain's master clock, the SCN, and how it raises melatonin in the evening based on the light the eyes receive."
+      },
+      {
+       "title": "Melatonin: What You Need To Know (NIH, NCCIH)",
+       "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+       "why": "What research says about melatonin supplements, where evidence is weak, and safety for children, including mislabeled gummies."
+      }
+     ],
+     "serious": [
+      {
+       "title": "RCSB PDB 6ME2: human MT1 structure (Stauch et al., 2019)",
+       "url": "https://rcsb.org/structure/6me2",
+       "why": "Turn the MT1 receptor in 3D and read the paper's abstract on the sealed binding pocket."
+      },
+      {
+       "title": "RCSB PDB 6ME6: human MT2 structure (Johansson et al., 2019)",
+       "url": "https://www.rcsb.org/structure/6ME6",
+       "why": "The companion MT2 structure, with the abstract on how it differs from MT1."
+      }
+     ],
+     "expert": [
+      {
+       "title": "Targeted disruption of the mouse Mel1b melatonin receptor (Jin et al., 2003, Molecular and Cellular Biology)",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC140714",
+       "why": "The open full paper behind the MT1 and MT2 knockout results, with its methods and group sizes."
+      },
+      {
+       "title": "RCSB PDB 7VGZ: MT1 with its G protein (Wang et al., 2022, Nature Communications)",
+       "url": "https://rcsb.org/structure/7vgz",
+       "why": "Cryo-EM structures of MT1 and MT2 coupled to the inhibitory G protein, showing how the signal is passed on."
+      }
+     ]
+    },
+    "listen_watch": [],
     "charts": [
      {
       "title": "Blind participants with non-24-hour sleep-wake disorder who entrained to the 24-hour day: tasimelteon against placebo (long form)",
       "csv": "longform-images/06-chart-tasimelteon-entrainment.csv",
       "source_table": "Auger et al. 2015, AASM clinical practice guideline, text reporting the SET trial",
       "file": "06-chart-tasimelteon-entrainment.csv"
+     }
+    ],
+    "glossary": [
+     {
+      "term": "Melatonin",
+      "plain": "A hormone made mostly at night that helps tell the body it is dark."
+     },
+     {
+      "term": "Pineal gland",
+      "plain": "A small gland deep in the brain that makes melatonin."
+     },
+     {
+      "term": "Receptor",
+      "plain": "A protein on a cell that catches a chemical signal and passes a message inside."
+     },
+     {
+      "term": "G protein-coupled receptor",
+      "plain": "A large family of receptors that pass their message on through partner proteins called G proteins."
+     },
+     {
+      "term": "MT1 and MT2",
+      "plain": "The two main melatonin receptors in mammals, also called Mel1a and Mel1b."
+     },
+     {
+      "term": "Suprachiasmatic nucleus (SCN)",
+      "plain": "A small cluster of nerve cells above where the optic nerves cross that acts as the brain's master clock."
+     },
+     {
+      "term": "Knockout mouse",
+      "plain": "A mouse bred so that one gene no longer works, to see what that gene does."
+     },
+     {
+      "term": "X-ray free electron laser (XFEL)",
+      "plain": "An extremely bright, short X-ray pulse used to work out the shape of proteins from tiny crystals."
+     },
+     {
+      "term": "Loss-of-function variant",
+      "plain": "A change in a gene that makes its protein work less well or not at all."
+     }
+    ],
+    "safety": {
+     "relevant": true,
+     "lines": [
+      "Poison Help (US): 1-800-222-1222",
+      "Ask a clinician before taking melatonin supplements"
+     ],
+     "note": "no dosing; NIH notes children's emergency visits after taking melatonin gummies unsupervised, so store supplements out of reach"
+    },
+    "history_culture": [
+     {
+      "title": "Quote of the Month: Professor Alfred Lewy (History of Modern Biomedicine, Queen Mary University of London)",
+      "url": "https://histmodbiomed.history.qmul.ac.uk/blog/quote-month-professor-alfred-lewy.html",
+      "why": "Lewy recalls that the received wisdom was that light did not suppress melatonin in humans, and that this changed with his team's 1980 Science paper."
+     }
+    ],
+    "corrections": [
+     {
+      "date": "2026-11-20",
+      "change": "Page filled from the post sources (it held only the chart entry): summary, how sure, claims, annotations, critiques, further reading, glossary, safety and history. Sources were re-opened today; the open copies of Stauch 2019, Johansson 2019 and Bonnefond 2012 were behind a bot check, so their funding and conflicts are marked not re-read."
      }
     ]
    },
@@ -1078,7 +1329,7 @@
     },
     {
      "where": "Slide 9",
-     "what": "Melatonin change under each lamp colour",
+     "what": "Chellappa et al. (2011), Fig. 6, right panel: melatonin change under each lamp colour, smallest rise under the 6500 K lamp, larger under 3000 K and 2500 K",
      "credit": "Chellappa et al. (2011), cropped from Fig. 6, CC BY",
      "url": "https://doi.org/10.1371/journal.pone.0016429",
      "card": false
@@ -1107,6 +1358,11 @@
    ],
    "region": "design-materials",
    "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "how_sure": "moderate",
+     "how_sure_note": "Evening light lowering melatonin is shown in several lab and home studies, but the lamp color study had only 16 young men, sleep was not measured, and no study tested these duckweed lamps."
+    },
     "charts": [
      {
       "title": "Melatonin suppression under warm and cool white light at night: teens, adults and children aged 3 to 5 (long form)",
@@ -1120,7 +1376,8 @@
       "source_table": "Terán et al. 2026, Abstract and Results (median Melatonin Suppression Value by lamp type)",
       "file": "07-chart-bulbs.csv"
      }
-    ]
+    ],
+    "corrections": []
    },
    "time": "09:00 HST"
   },
@@ -1838,6 +2095,7 @@
     "url": "https://ddw.nl/en/programme/overload"
    },
    "series": "Dutch Design Week",
+   "disclaimer": "Education, not medical advice.",
    "research": [
     {
      "label": "Lurie R, Fabrizio SP, Westerman DL (2025), The cost of saving: how photos and screenshots impair memory, Memory and Cognition 53(7):2301 to 2311 (full text read Oct 28, 2026, Europe PMC PMC13332969, CC BY)",
@@ -3663,6 +3921,19 @@
     "url": "https://ddw.nl/en/programme/slow-small-ai-banding-together-and-regrouping"
    },
    "series": "Ask a Neuroscientist",
+   "sound": [
+    {
+     "where": "Slideshow Reel (15:00)",
+     "what": "Voyager 1 Jupiter Bowshock (1979), NASA",
+     "credit": "Sound: NASA, Voyager 1 Jupiter Bowshock (1979), Internet Archive, public domain",
+     "url": "https://archive.org/details/V1JupBowshock",
+     "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "OR poiesis (radio aporee) (public domain)",
+      "David J. Ring, Jr. (N1EA) (CC0)"
+     ]
+    }
+   ],
    "research": [
     {
      "label": "Van der Weel, F. R., & Van der Meer, A. L. H. (2024). Handwriting but not typewriting leads to widespread brain connectivity: a high-density EEG study with implications for the classroom. Frontiers in Psychology, 14, 1219945 (read cover to cover Oct 31 and again Nov 11, 2026, Europe PMC PMC10853352 full-text XML and the PMC open-access PDF, CC BY 4.0; figures cut from the PDF's own image files)",
@@ -3673,7 +3944,12 @@
      "url": "https://doi.org/10.3389/fpsyg.2024.1517235"
     }
    ],
-   "other": [],
+   "other": [
+    {
+     "label": "Sound, Slideshow Reel (15:00): Sound: NASA, Voyager 1 Jupiter Bowshock (1979), Internet Archive, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
+     "url": "https://archive.org/details/V1JupBowshock"
+    }
+   ],
    "images": [
     {
      "where": "Slide 1",
@@ -5639,7 +5915,15 @@
      "lines": [],
      "note": "About hemp fibre and design; not a drug or health topic."
     },
-    "corrections": []
+    "corrections": [],
+    "charts": [
+     {
+      "title": "What hemp's cell walls are made of: bast fiber against whole stem, six hemp lines (long form)",
+      "csv": "../../columns/82-hemp-fibre-longform-images/04-wall-chart.csv",
+      "source_table": "Petit et al. 2019, Results (cell wall composition)",
+      "file": "04-wall-chart.csv"
+     }
+    ]
    }
   },
   {
@@ -6235,7 +6519,8 @@
      "url": "https://doi.org/10.1038/s41598-023-39435-5",
      "card": false
     }
-   ]
+   ],
+   "region": "design-materials"
   },
   {
    "slug": "mj01",
@@ -6315,8 +6600,8 @@
      "url": "https://www.rcsb.org/structure/23IV"
     },
     {
-     "label": "Image record: Image from the RCSB PDB (RCSB.org) of PDB ID 23IW, chain A (Liao et al., 2026, Cell), CC BY 4.0",
-     "url": "https://www.rcsb.org/structure/23IW"
+     "label": "Image record: Text: Krishna Kumar et al. (2023), Nature Communications, p. 1, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s41467-023-37864-4"
     },
     {
      "label": "Image record: RCSB PDB (RCSB.org), PDB ID 12IY; Rachman et al. (2026), J Med Chem. CC BY 4.0",
@@ -7139,9 +7424,9 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "FDA prescribing information for the prescription cannabidiol oral solution, Highlights (revised 5/2026): \"(cannabidiol) oral solution\", \"Initial U.S. Approval: 2018\", and the indication \"is indicated for the treatment of seizures associated with Lennox-Gastaut syndrome, Dravet syndrome, or tuberous sclerosis complex in patients 1 year of age and older (1)\"; the brand name before each passage is left out",
+     "what": "FDA, Highlights of the prescribing information: indication and first approval, 2026",
      "credit": "FDA prescribing information, NDA 210365 (revised 5/2026), Highlights, via DailyMed (NLM); public domain; brand name left out",
-     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8bf27097-4870-43fb-94f0-f3d0871d1eec",
+     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/210365s024s029s030lbl.pdf",
      "card": false
     },
     {
@@ -7167,16 +7452,16 @@
     },
     {
      "where": "Slide 5",
-     "what": "Bar chart drawn to scale, values labelled: pooled risk ratios, CBD against control, 9 trials: somnolence 2.29, decreased appetite 2.13, diarrhoea 1.93 (Fazlollahi et al., 2023)",
+     "what": "Bar chart drawn to scale, values labelled: pooled risk ratios, CBD against control, 9 trials: somnolence 2.29, decreased appetite 2.13, diarrhea 1.93 (Fazlollahi et al., 2023)",
      "credit": "Chart: Ask a Neuroscientist, from Fazlollahi et al. (2023) data",
      "url": "https://doi.org/10.1001/jamanetworkopen.2023.9126",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "FDA prescribing information (revised 5/2026), section 12.1 Mechanism of Action: \"Cannabidiol does not appear to exert its anticonvulsant effects through interaction with cannabinoid receptors.\" (the sentence before it names the brand, so it is left out)",
+     "what": "FDA, Prescribing information, section 12.1: Mechanism of Action, 2026",
      "credit": "FDA prescribing information, NDA 210365 (revised 5/2026), section 12.1, via DailyMed (NLM); public domain",
-     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8bf27097-4870-43fb-94f0-f3d0871d1eec",
+     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/210365s024s029s030lbl.pdf",
      "card": false
     },
     {
@@ -7385,7 +7670,7 @@
       "file": "chart-four-trials-enrolled.csv"
      },
      {
-      "title": "Dravet trial seizures before and during treatment (slide 3, Instagram single)",
+      "title": "Dravet trial seizures before and during treatment (slide 3)",
       "csv": "chart-dravet-seizures.csv",
       "source_table": "Devinsky et al. 2017, Results",
       "file": "chart-dravet-seizures.csv"
@@ -7541,7 +7826,12 @@
      ],
      "note": "Education, not medical advice. The post gives no doses. Anyone taking seizure medicines, or medicines processed by the liver, should talk to their doctor before using any CBD product."
     },
-    "corrections": []
+    "corrections": [
+     {
+      "date": "2026-11-20",
+      "change": "Re-checked after the post was revised: the slide 5 chart now reads Diarrhea (US spelling) and Less appetite, so its CSV labels now match; values unchanged (2.29, 2.13, 1.93). The Instagram single now shows Fazlollahi et al. 2023 Fig. 3, not the Dravet chart, so that chart entry now names slide 3 only. Long-form charts were redrawn with the same values. No source added or removed."
+     }
+    ]
    },
    "chart_csvs": [
     {
@@ -9358,6 +9648,12 @@
       "csv": "longform-images/06-ganache-liking-chart.csv",
       "source_table": "Swahn, Nilsen & Baptista 2026 open dataset (CC BY 4.0): means of the liking ratings by ganache and music condition, computed by AaN",
       "file": "06-ganache-liking-chart.csv"
+     },
+     {
+      "title": "Average wine enjoyment in silence and with matched music, 26 tasters (long form)",
+      "csv": "longform-images/04-wine-enjoyment-chart.csv",
+      "source_table": "Spence et al. 2013, Flavour 2:29, Experiment 2 (means stated in the text)",
+      "file": "04-wine-enjoyment-chart.csv"
      }
     ],
     "glossary": [
@@ -9490,7 +9786,7 @@
      "url": "https://maryfrancesoconnor.org/research"
     },
     {
-     "label": "Image record: Photo: TEDx StLouis, Flickr, CC BY 2.0",
+     "label": "Image record: Photo: Matthew Lieberman at TEDxStLouis, TEDx StLouis, Flickr, CC BY 2.0",
      "url": "https://www.flickr.com/photos/56224437@N07/9905581553/"
     }
    ],
@@ -9825,20 +10121,6 @@
       "file": "07-chart-prolonged-grief-prevalence.csv"
      }
     ],
-    "clinical": [
-     {
-      "registry_id": "NCT04547985",
-      "url": "https://clinicaltrials.gov/study/NCT04547985",
-      "what_measured": "Change in prolonged grief symptom severity (PG-13) and diagnosis (structured interview) with naltrexone.",
-      "adverse_events": "Terminated for low accrual after 9 enrolled; no results reported in the record read."
-     },
-     {
-      "registry_id": "NCT06140420",
-      "url": "https://clinicaltrials.gov/study/NCT06140420",
-      "what_measured": "Change in prolonged grief severity (PGD-12) and diagnosis with naltrexone.",
-      "adverse_events": "Terminated, funding withdrawn, after 7 enrolled; no results reported in the record read."
-     }
-    ],
     "glossary": [
      {
       "term": "Grief",
@@ -9889,6 +10171,20 @@
       "plain": "Two things that occur together; it does not prove that one causes the other."
      }
     ],
+    "clinical": [
+     {
+      "registry_id": "NCT04547985",
+      "url": "https://clinicaltrials.gov/study/NCT04547985",
+      "what_measured": "Change in prolonged grief symptom severity (PG-13) and diagnosis (structured interview) with naltrexone.",
+      "adverse_events": "Terminated for low accrual after 9 enrolled; no results reported in the record read."
+     },
+     {
+      "registry_id": "NCT06140420",
+      "url": "https://clinicaltrials.gov/study/NCT06140420",
+      "what_measured": "Change in prolonged grief severity (PGD-12) and diagnosis with naltrexone.",
+      "adverse_events": "Terminated, funding withdrawn, after 7 enrolled; no results reported in the record read."
+     }
+    ],
     "safety": {
      "relevant": true,
      "lines": [
@@ -9898,7 +10194,12 @@
      ],
      "note": "No use, dosing or product guidance; none of these studies tested cannabis. Education, not medical advice; if grief feels unbearable, reach out to a clinician or a crisis line."
     },
-    "corrections": []
+    "corrections": [
+     {
+      "date": "2026-11-20",
+      "change": "Re-checked after the post was revised: the only change to the sources list is the Shorts cover photo credit, which now names Matthew Lieberman at TEDxStLouis. It is a photo credit, not a research source, so no annotation, claim or chart value changed."
+     }
+    ]
    },
    "chart_csvs": [
     {
@@ -9986,8 +10287,8 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Materials for the magical elements, photo courtesy of Jillian de Bie / Dutch Design Week press kit",
-     "credit": "Photo: courtesy of Jillian de Bie / Dutch Design Week press kit",
+     "what": "Materials for the magical elements, photo DDW 2025 press kit",
+     "credit": "Photo: DDW 2025 press kit",
      "url": "https://app-api.ddw.nl/programme/1257/press-kit.zip",
      "card": false
     },
@@ -10028,8 +10329,8 @@
     },
     {
      "where": "Story 1",
-     "what": "Cutting paper at the workshop dinner, photo courtesy of Jillian de Bie / Dutch Design Week press kit",
-     "credit": "Photo: courtesy of Jillian de Bie / Dutch Design Week press kit",
+     "what": "Workshop dinner, photo DDW 2025 press kit",
+     "credit": "Photo: DDW 2025 press kit",
      "url": "https://app-api.ddw.nl/programme/1257/press-kit.zip",
      "card": false
     },
@@ -10908,7 +11209,7 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Night of The Nerds, Phygital Seasoning in use, photograph, June 3, 2026",
+     "what": "Night of The Nerds (DDW press kit, Dutch Design Week), Phygital Seasoning in use, photograph, June 3, 2026",
      "credit": "Photo: Night of The Nerds (DDW press kit, Dutch Design Week)",
      "url": "https://app-api.ddw.nl/programme/2001/press-kit.zip",
      "card": false
@@ -11210,7 +11511,12 @@
      "lines": [],
      "note": "About food design and perception; no diet advice."
     },
-    "corrections": []
+    "corrections": [
+     {
+      "date": "2026-11-20",
+      "change": "Re-checked after the post sources list changed: three image records were added (two DDW Flickr photos by Almicheal Fraay and one SENSOVERSE photo from the DDW 2025 press kit). They are photo credits, not research sources, so no annotation, claim or chart value changed."
+     }
+    ]
    }
   },
   {
@@ -11486,6 +11792,20 @@
       "conflicts": "not stated on the PDB entry"
      },
      {
+      "source": "RCSB PDB 6H3E (Ferré et al., 2019, PNAS, doi 10.1073/pnas.1905105116)",
+      "group": "primary",
+      "note": "NMR structure of ghrelin as it sits bound to its receptor; the RCSB image is slide 2 (RCSB images CC BY 4.0, PDB data CC0).",
+      "funding": "not stated on the PDB entry",
+      "conflicts": "not stated on the PDB entry"
+     },
+     {
+      "source": "RCSB PDB 7F83 (Qin et al., 2022, Nat Commun, doi 10.1038/s41467-022-27975-9)",
+      "group": "primary",
+      "note": "Crystal structure of the ghrelin receptor with an inverse agonist (X-ray, 2.94 Å); the RCSB image is the Threads first reply (RCSB images CC BY 4.0, PDB data CC0).",
+      "funding": "not stated on the PDB entry",
+      "conflicts": "not stated on the PDB entry"
+     },
+     {
       "source": "RCSB PDB policies",
       "group": "official",
       "note": "RCSB PDB's policy page: CC BY 4.0 for its images and CC0 for its data.",
@@ -11730,9 +12050,9 @@
     },
     {
      "where": "Slide 6",
-     "what": "RN Collins, Ketelhuisplein on Strijp-S during DDW 2026: the paved square with pavilions, visitors small, video frame (C01-0007 at 0:21:44), 18 October 2026",
-     "credit": "Photo: RN Collins",
-     "url": "",
+     "what": "TU/e's project title in the DDW 2026 press kit",
+     "credit": "Text: TU/e, Dutch Design Week press kit",
+     "url": "https://app-api.ddw.nl/programme/2529/press-kit.zip",
      "card": false
     },
     {
@@ -11773,8 +12093,8 @@
     "claims": [
      {
       "claim": "Making the Invisible Visible: Designing Healthier Air in Cities, by Stefanie Gillmeier of TU/e, was shown on Ketelhuisplein at Dutch Design Week, Oct 17 to 25.",
-      "source": "DDW listing: Making the Invisible Visible; DDW listing: TU/e at DDW",
-      "where": "Listing pages: project text, location and dates",
+      "source": "DDW listing: Making the Invisible Visible; DDW listing: TU/e at DDW; DDW press release (Aug 2026)",
+      "where": "Listing pages: project text and location; press release: festival dates",
       "study": "event listing"
      },
      {
@@ -11810,6 +12130,14 @@
       "open_access": "https://ddw.nl/en/programme/making-the-invisible-visible-designing-healthier-air-in-cities",
       "group": "official",
       "note": "The project page: wind tunnel experiments on airflow and pollution spread, used to improve computer models and digital twins. The claim that this supports healthier cities is the team's own.",
+      "funding": "not stated",
+      "conflicts": "not stated"
+     },
+     {
+      "source": "DDW press release (Aug 2026)",
+      "open_access": "https://ddw.nl/en/press/press-releases/giant-bird-perched-on-an-egg-by-atelier-van-lieshout-arrives-in-eindhoven-for-dutch-design-week-2026",
+      "group": "official",
+      "note": "Dutch Design Week press release of 25 August 2026 on the Atelier Van Lieshout sculpture for the Markt. It gives the festival dates: during DDW, from 17 to 25 October, with more large works across Eindhoven, including one at Ketelhuisplein. It is a press release, so it states dates, not findings.",
       "funding": "not stated",
       "conflicts": "not stated"
      },
@@ -12012,7 +12340,12 @@
      "lines": [],
      "note": "Education, not medical advice. Questions about your own memory or breathing are best taken to a doctor; local air quality forecasts are published by government agencies."
     },
-    "corrections": []
+    "corrections": [
+     {
+      "date": "2026-11-20",
+      "change": "Re-checked after the post sources list changed: the old DDW update page for the 2026 dates (app-api.ddw.nl, now 404) was replaced by DDW press release of 25 August 2026, which says DDW runs 17 to 25 October. The page did not cite the old link. The press release was read in full and is now annotated and cited for the dates. No chart value changed."
+     }
+    ]
    },
    "chart_csvs": [
     {
@@ -12142,7 +12475,8 @@
      "url": "https://ddw.nl/en/programme/what-we-felt",
      "card": false
     }
-   ]
+   ],
+   "region": "somatosensory"
   },
   {
    "slug": "pb03",
@@ -12487,7 +12821,12 @@
      ],
      "note": "Education, not medical advice. No dosing. Many people recover from addiction, but opioid use carries a high risk of overdose; treatment with medicines for opioid use disorder works and is available."
     },
-    "corrections": []
+    "corrections": [
+     {
+      "date": "2026-11-20",
+      "change": "Re-checked after the post sources list changed: the Robins 1974 entry now quotes p. viii in full (11% had tried a narcotic, but only 1% had used one more than a few times before service). This page and its slide 2 chart (11 and 1) already said this, so no claim, annotation or chart value changed."
+     }
+    ]
    },
    "chart_csvs": [
     {
@@ -13949,7 +14288,7 @@
       "group": "official",
       "note": "RN's Fat Nugs Magazine column on cannabis and meditation, used as the map for this set. Its dose ranges and CBD to THC ratios are not used anywhere in the post.",
       "funding": "not applicable",
-      "conflicts": "The column runs in a cannabis magazine where RN writes."
+      "conflicts": "RN Collins also writes a column for Fat Nugs Magazine, a cannabis magazine; this piece checks her Mar 23, 2026 column there and runs on The Polymath."
      },
      {
       "source": "Brewer et al. 2011",
@@ -16694,6 +17033,7 @@
     "url": "https://ddw.nl/en/programme/huis-een-installatie-over-drempels"
    },
    "series": "Dutch Design Week",
+   "disclaimer": "Education, not medical advice.",
    "research": [
     {
      "label": "Carcel-Lopez M-D, Ferrando-Prieto M (2026), Describing pre-post changes observed during the implementation of a Snoezelen program in a real-school context, European Journal of Investigation in Health, Psychology and Education 16(5):62 (full text read Oct 28, 2026, Europe PMC PMC13205858, CC BY 4.0)",
@@ -24265,8 +24605,8 @@
       "open_access": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76",
       "group": "primary",
       "note": "A medical student's final report: an interviewer-given survey of 68 adults leaving eight clinics in St. Mary Parish over two weeks found 43 had used herbs as medicine in the past year, and 13 of them said their provider knew. Limits named by the author: small convenience sample, one parish, recall bias; no statistical tests were run, and it is a student report, not a peer-reviewed paper.",
-      "funding": "not stated",
-      "conflicts": "not stated"
+      "funding": "not re-checked (Nov 20 honest-client re-read: the Wright State CORE Scholar PDF returned HTTP 403)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: the Wright State CORE Scholar PDF returned HTTP 403)"
      },
      {
       "source": "Clement, Y. N., Williams, A. F., Khan, K., Bernard, T., Bhola, S., Fortuné, M., Medupe, O., Nagee, K., & Seaforth, C. E. (2005). A gap between acceptance and knowledge of herbal remedies by physicians: The need for educational intervention. BMC Complementary and Alternative Medicine, 5, 20. https://doi.org/10.1186/1472-6882-5-20 (CC BY 2.0; read in full Nov 7, 2026, PMC open-access text and PDF, PMC1310610)",
@@ -24288,12 +24628,16 @@
      {
       "point": "The Jamaica survey reached 68 of 278 people invited (24.5%) at clinics in one parish over two weeks, so the people who agreed may differ from those who did not. The author lists small sample, one parish and recall bias as limits.",
       "source": "Jepsen 2021",
-      "url": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76"
+      "url": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76",
+      "funding": "not re-checked (Nov 20 honest-client re-read: the Wright State CORE Scholar PDF returned HTTP 403)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: the Wright State CORE Scholar PDF returned HTTP 403)"
      },
      {
       "point": "In the same survey every herb user ticked aloe vera, bissy and castor nut, a result the report does not explain. It differs from a larger Jamaican survey the report cites, which the author puts down to sample size or location.",
       "source": "Jepsen 2021",
-      "url": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76"
+      "url": "https://corescholar.libraries.wright.edu/scholarship_medicine_all/76",
+      "funding": "not re-checked (Nov 20 honest-client re-read: the Wright State CORE Scholar PDF returned HTTP 403)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: the Wright State CORE Scholar PDF returned HTTP 403)"
      },
      {
       "point": "The Trinidad doctors were chosen by quota and convenience, not at random, and the authors warn of interviewer bias and say the sample may not be truly representative; private-practice doctors were left out.",
@@ -25116,8 +25460,8 @@
       "source": "Rotter et al. (2025), Clinical pathways for secondary care and the effects on professional practice, patient outcomes, length of stay and hospital costs, Cochrane Database of Systematic Reviews, CD006632.pub3, full review read (Europe PMC PMC12076547; longform-research-log.md); doi 10.1002/14651858.CD006632.pub3 (title, authors Rotter, Kinsman et al. and year 2025 checked on Crossref, Nov 20, 2026)",
       "group": "review",
       "note": "A Cochrane review of 58 studies with 24,841 patients in 19 countries: stand-alone pathways inside hospitals likely cut in-hospital complications and stays, both with moderate certainty, while effects on deaths, readmissions and costs were uncertain. Limits: high risk of bias, mostly because staff knew who was on a pathway, and every study was set in a hospital.",
-      "funding": "not recorded here: the review's sources of support could not be reopened on Nov 20, 2026 (Europe PMC full text returned a server error and PMC showed a bot check)",
-      "conflicts": "not recorded here, for the same reason; see the review's declarations of interest"
+      "funding": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, NCBI efetch gives no body because the publisher does not allow full-text download)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, NCBI efetch gives no body because the publisher does not allow full-text download)"
      },
      {
       "source": "Stiggelbout et al. (2023), BMJ Evidence-Based Medicine, full text (PMC), CC BY-NC 4.0 (doi 10.1136/bmjebm-2022-112168, from NCBI's record)",
@@ -25132,12 +25476,16 @@
      {
       "point": "The review judged the overall risk of bias high, mostly because staff knew which patients were on a pathway and could carry habits into the comparison group.",
       "source": "Rotter et al. 2025",
-      "url": "https://doi.org/10.1002/14651858.CD006632.pub3"
+      "url": "https://doi.org/10.1002/14651858.CD006632.pub3",
+      "funding": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, NCBI efetch gives no body because the publisher does not allow full-text download)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, NCBI efetch gives no body because the publisher does not allow full-text download)"
      },
      {
       "point": "Every study in the review was set in a hospital, and no randomized trial of a whole regional pathway between a Dutch hospital and its GPs was found as of November 2026.",
       "source": "Rotter et al. 2025; long form searches",
-      "url": "https://doi.org/10.1002/14651858.CD006632.pub3"
+      "url": "https://doi.org/10.1002/14651858.CD006632.pub3",
+      "funding": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, NCBI efetch gives no body because the publisher does not allow full-text download)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, NCBI efetch gives no body because the publisher does not allow full-text download)"
      },
      {
       "point": "Metro Mapping has no published outcome data yet, and two authors of the methods paper sit on the foundation's board while a third runs a studio that consults on the method.",
@@ -25973,8 +26321,8 @@
       "open_access": "https://hmlpubs.faculty.ucdavis.edu/wp-content/uploads/sites/214/2017/05/2017_Shields.pdf",
       "group": "review",
       "note": "Pools 113 studies with 6,216 people: stress before or during recall impaired memory, and stress before learning helped only with very short gaps and stressor-related material. Limits: lab stressors, and the size of the cortisol rise did not track the memory effects.",
-      "funding": "This research was supported by NIH MH059352 and NEI EY025999 to Andrew P. Yonelinas.",
-      "conflicts": "not stated in the author note"
+      "funding": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, and NCBI was backed off after an HTTP 429)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, and NCBI was backed off after an HTTP 429)"
      },
      {
       "source": "Mani, A., Mullainathan, S., Shafir, E., & Zhao, J. (2013). Poverty impedes cognitive function. Science, 341(6149), 976 to 980. doi:10.1126/science.1238041 (read in full Oct 2026 in the Princeton author PDF, recorded in research.md and dossier.md; that copy answered 403 on Oct 30, 2026)",
@@ -26066,12 +26414,16 @@
      {
       "point": "In the 2017 meta-analysis, the extra harm for negative material over neutral material at recall was only marginal (p = .068); the clearer difference was for positive material.",
       "source": "Shields et al. 2017",
-      "url": "https://hmlpubs.faculty.ucdavis.edu/wp-content/uploads/sites/214/2017/05/2017_Shields.pdf"
+      "url": "https://hmlpubs.faculty.ucdavis.edu/wp-content/uploads/sites/214/2017/05/2017_Shields.pdf",
+      "funding": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, and NCBI was backed off after an HTTP 429)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, and NCBI was backed off after an HTTP 429)"
      },
      {
       "point": "Every stress study here used lab stressors such as ice water or a speech task, which are milder than the stress of a real eviction or court notice.",
       "source": "Shields et al. 2017; Kalia et al. 2018",
-      "url": "https://hmlpubs.faculty.ucdavis.edu/wp-content/uploads/sites/214/2017/05/2017_Shields.pdf"
+      "url": "https://hmlpubs.faculty.ucdavis.edu/wp-content/uploads/sites/214/2017/05/2017_Shields.pdf",
+      "funding": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, and NCBI was backed off after an HTTP 429)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, and NCBI was backed off after an HTTP 429)"
      },
      {
       "point": "The ice-water effect on rule switching appeared in men only, a second small study found no significant difference, and a 2021 follow-up found no change in people with high chronic stress.",
@@ -26086,7 +26438,9 @@
      {
       "point": "A large US study randomly surveyed low-income households just before or after payday and found no difference on four thinking tasks, even though it could detect an effect one tenth the size of the farmer result.",
       "source": "Carvalho et al. 2016",
-      "url": "https://doi.org/10.1257/aer.20140481"
+      "url": "https://doi.org/10.1257/aer.20140481",
+      "funding": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, and NCBI was backed off after an HTTP 429)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500, and NCBI was backed off after an HTTP 429)"
      },
      {
       "point": "A published comment argued the mall result faded when income was treated as a continuous number; the authors replied that pooling three experiments kept the effect. The comment has no open copy, so it is known here only through the reply.",
@@ -35617,6 +35971,7 @@
     "url": "https://ddw.nl/en/programme/bar-mycelium-1"
    },
    "series": "Dutch Design Week",
+   "disclaimer": "Education, not medical advice.",
    "research": [
     {
      "label": "Bergmann Tiest and Kappers (2009), Discrimination of thermal diffusivity, World Haptics, full paper (Utrecht University repository, read in full Oct 30, 2026)",
@@ -99119,7 +99474,6 @@
      {
       "source": "Wardle et al. 2020",
       "doi": "https://doi.org/10.1038/s41467-020-18325-8",
-      "open_access": "https://www.nature.com/articles/s41467-020-18325-8",
       "group": "primary",
       "note": "An NIMH and Macquarie team showed 96 photos of illusory faces, matched objects and human faces in fMRI and MEG. Face areas told illusory faces apart from objects, peaking at about 160 ms, but within about 250 ms the brain grouped them with objects. Limits: small scan samples and one photo set.",
       "funding": "NIMH Intramural Research Program (ZIAMH002909) to C.I.B.; an NHMRC Early Career Fellowship (APP1072245) and a Macquarie University grant to S.G.W.; MEG supported by the KIT-Macquarie Brain Research Laboratory.",
@@ -99152,7 +99506,6 @@
      {
       "source": "Koyano et al. 2025",
       "doi": "https://doi.org/10.1016/j.pneurobio.2024.102709",
-      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11781954/",
       "group": "primary",
       "note": "Recordings from single neurons in four face patches of six monkeys found no general preference for objects with illusory faces over matched objects; a subset of cells did prefer them, and both responses were far below those to real faces. Limits: four face regions only; the authors suggest the attention monkeys give such objects comes from elsewhere in the brain.",
       "funding": "NIMH Intramural Research Program (ZIAMH002838 and ZIAMH002898) to D.A.L. and the Australian Research Council (FT200100843) to J.T.",
@@ -99315,7 +99668,12 @@
      "lines": [],
      "note": "Education, not medical advice. Seeing faces in things is normal. The post does not describe or encourage drug use."
     },
-    "corrections": []
+    "corrections": [
+     {
+      "date": "2026-11-20",
+      "change": "Re-checked against the post sources list after 13 image records (photo credits for the slides) were added; they are not research sources, so no new annotation. Open-access links for Wardle et al. 2020 and Koyano et al. 2025 removed because they are not in the post sources list; the DOI links stay."
+     }
+    ]
    },
    "chart_csvs": [
     {
@@ -99326,7 +99684,11 @@
      "where": "pinterest",
      "file": "PDFT01-d17.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Find the face",
+    "file": "interactives/pdft01/interactive.html"
+   }
   },
   {
    "slug": "pds01",
@@ -99554,7 +99916,6 @@
      {
       "source": "Doeller et al. 2010",
       "doi": "https://doi.org/10.1038/nature08704",
-      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3173857/",
       "group": "primary",
       "note": "Forty-two men explored a virtual arena in an fMRI scanner; the entorhinal cortex showed a six-fold signal that depended on running direction, with orientations clustered in 34, and a more coherent signal went with better spatial memory. Limits: men only, virtual movement, and fMRI sees only an indirect signal of many cells, not grid cells themselves.",
       "funding": "UK Medical Research Council and the European Union (SpaceBrain grant).",
@@ -99563,7 +99924,6 @@
      {
       "source": "Chuquichambi et al. 2022",
       "doi": "https://doi.org/10.1111/nyas.14919",
-      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10091794/",
       "group": "review",
       "note": "A preregistered meta-analysis of 61 studies, 106 samples and 11,023 people found a medium average preference for curved contours (g = 0.39), larger with brief viewing, near zero for interiors and facades, and absent in design experts. Limits: few studies with experts (18 effect sizes) and mostly images rather than real spaces.",
       "funding": "Spanish Ministerio de Ciencia e Innovacion, Agencia Estatal de Investigacion and European Regional Development Fund project PSI2016-77327-P, and an FPU fellowship (FPU18/00365).",
@@ -99580,7 +99940,6 @@
      {
       "source": "Gobbo et al. 2022",
       "doi": "https://doi.org/10.1073/pnas.2212152119",
-      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9636941/",
       "group": "primary",
       "note": "Calcium imaging of place cells in the hippocampus of freely moving rats making spatial decisions; used here for its figures of individual place fields.",
       "funding": "Wellcome Trust Advanced Investigator Grant 207481/Z/17/Z.",
@@ -99589,7 +99948,6 @@
      {
       "source": "Ulsaker-Janke et al. 2023",
       "doi": "https://doi.org/10.1073/pnas.2310820120",
-      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10576132/",
       "group": "primary",
       "note": "Grid cells in rats raised without flat, straight-edged surroundings still formed hexagonal firing patterns; used here for its firing maps.",
       "funding": "European Research Council Advanced Grant 268598, Research Council of Norway (223262 and 295721), K.G. Jebsen Foundation, Kavli Foundation and other prizes to M.-B.M. and E.I.M.",
@@ -99598,7 +99956,6 @@
      {
       "source": "Newton et al. 2024",
       "doi": "https://doi.org/10.1002/alz.13733",
-      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11032581/",
       "group": "primary",
       "note": "Midlife adults at genetic or family risk of Alzheimer's disease watched themselves being passively moved through a virtual room during 7T fMRI; the grid-like signal was not significant across the 53 scanned, though people with stronger signals lost less path-integration accuracy. Limits: a subset of a specific risk cohort.",
       "funding": "Merck Investigator Studies Program (MISP-57175), Alzheimer's Society, NIHR, Alzheimer's Association, Wellcome, UK MRC and NINDS, among others.",
@@ -99607,7 +99964,6 @@
      {
       "source": "Kransberg et al. 2026",
       "doi": "https://doi.org/10.1162/imag.a.1196",
-      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13058850/",
       "group": "primary",
       "note": "A preregistered fMRI study of 110 adults moved passively through virtual space found no group-level grid-like signal in the entorhinal cortex; the authors note that active-navigation studies have repeated it.",
       "funding": "European Research Council (771375) and Research Council of Norway (301395) to K.B.W.",
@@ -99803,7 +100159,12 @@
       "plain": "Finding your way from one place to another."
      }
     ],
-    "corrections": []
+    "corrections": [
+     {
+      "date": "2026-11-20",
+      "change": "Re-checked against the post sources list after 3 image records (Per Henning / NTNU photos of John O'Keefe) were added; they are photo credits, not research sources, so no new annotation. Open-access PMC links for six papers removed because they are not in the post sources list; the DOI links stay."
+     }
+    ]
    },
    "chart_csvs": [
     {
@@ -102132,15 +102493,15 @@
     },
     {
      "where": "Slide 4",
-     "what": "Quesnel D et al. (2018), Frontiers in psychology, FIGURE 11: Awe ratings between the groups ‘goose bump experiencers’ ( N = 7, M = 90.9, SD = 9.8), and ‘non-goose bump experiencers’ ( N = 9, M = 70.9, SD = 16.6). ()",
+     "what": "Quesnel D et al. (2018), Frontiers in psychology, Figure 11: Awe ratings between the groups ‘goose bump experiencers’ ( N = 7, M = 90.9, SD = 9.8), and ‘non-goose bump experiencers’ ( N = 9, M = 70.9, SD = 16.6). ()",
      "credit": "Quesnel D et al. (2018), Frontiers in psychology, FIGURE 11 (CC BY)",
      "url": "https://doi.org/10.3389/fpsyg.2018.02158",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "van Elk M et al. (2019), Human brain mapping, 1: Experimental design and procedure",
-     "credit": "van Elk M et al. (2019), Human brain mapping, 1 (CC BY)",
+     "what": "van Elk M et al. (2019), Human brain mapping, Figure 1: Experimental design and procedure",
+     "credit": "van Elk M et al. (2019), Human brain mapping, Figure 1 (CC BY)",
      "url": "https://doi.org/10.1002/hbm.24616",
      "card": false
     },
@@ -102484,10 +102845,6 @@
     {
      "label": "Olson, J. A., Sandra, D. A., Chmoulevitch, D., Raz, A., & Veissiere, S. P. L. (2022). A nudge-based intervention to reduce problematic smartphone use: Randomised controlled trial. International Journal of Mental Health and Addiction (full text read Nov 6, 2026, Europe PMC PMC9112639, PMC open access subset; facts only)",
      "url": "https://doi.org/10.1007/s11469-022-00826-w"
-    },
-    {
-     "label": "Image record: Hagerty J et al. (2026), Frontiers in digital health, Figure 2 (CC BY)",
-     "url": "https://doi.org/10.3389/fdgth.2026.1816095"
     }
    ],
    "other": [],
@@ -102686,11 +103043,6 @@
       "point": "Participants chose their own strategies and the groups started with different screen time, so it is hard to tell which parts of the nudge worked.",
       "source": "Olson et al. 2022",
       "url": "https://doi.org/10.1007/s11469-022-00826-w"
-     },
-     {
-      "point": "A grayscale trial in 51 medical students cut 28 minutes a day, but it was unblinded, short and had no washout between phases.",
-      "source": "Hagerty et al. 2026",
-      "url": "https://doi.org/10.3389/fdgth.2026.1816095"
      }
     ],
     "go_deeper": {
@@ -102761,12 +103113,6 @@
       "csv": "chart-follow-through.csv",
       "source_table": "Olson et al. 2022, strategy compliance table",
       "file": "chart-follow-through.csv"
-     },
-     {
-      "title": "Link size with screens set at 1, four comparisons (X)",
-      "csv": "chart-association-size-x.csv",
-      "source_table": "Orben & Przybylski 2019, Results (YRBS; glasses from MCS)",
-      "file": "chart-association-size-x.csv"
      },
      {
       "title": "Daily screen time in study 1 (Threads first reply)",
@@ -102844,7 +103190,12 @@
      "lines": [],
      "note": "Education, not medical advice. If phone use is affecting sleep, work or mood, a clinician can help; in the US you can call or text 988 in a crisis."
     },
-    "corrections": []
+    "corrections": [
+     {
+      "date": "2026-11-20",
+      "change": "Re-checked after the post was revised: the Hagerty et al. 2026 image record left the post sources list (its figure no longer appears; the Pinterest image is now Lindström et al. 2021 Fig. 4b, already annotated), so the grayscale trial point under What could be wrong is removed. X is now text only, so its chart entry is removed. Other chart values unchanged."
+     }
+    ]
    },
    "chart_csvs": [
     {
@@ -102875,7 +103226,11 @@
      "where": "tiktok",
      "file": "PDK01-d12.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Fixed or surprise: a learning rule you can play with",
+    "file": "interactives/pdk01/interactive.html"
+   }
   },
   {
    "slug": "pdfr01",
@@ -102937,9 +103292,9 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Spehar et al. (2016), Figure 6, panel C: proportion of times fractal images were chosen against fractal dimension D, peaking in the middle range, for grayscale, thresholded and edge images",
-     "credit": "Spehar et al. (2016), Frontiers in Human Neuroscience, cropped from Fig. 6, CC BY",
-     "url": "https://doi.org/10.3389/fnhum.2016.00350",
+     "what": "Chart of slide 1's own values: where liking peaked on the fractal dimension scale, a peak at D 1.2 in 443 people (Street et al., 2016) and D 1.3 to 1.5 in 220 people (Spehar et al., 2003, as reported by Taylor et al., 2011)",
+     "credit": "Chart: Ask a Neuroscientist, from Taylor et al. (2011) and Street et al. (2016) data",
+     "url": "https://doi.org/10.3389/fnhum.2016.00213",
      "card": false
     },
     {
@@ -102993,7 +103348,7 @@
     },
     {
      "where": "Story 3",
-     "what": "Robles KE et al. (2021), Frontiers in psychology, FIGURE 3: Fractal ‘forests.’ The forests integrate the flights of Figure 1 with the seed design of Figure 2 . (A) is an image of the original (i.e., before randomization) forest pattern with D = 1.6; (B) shows the same forest... ()",
+     "what": "Robles KE et al. (2021), Frontiers in psychology, Figure 3: Fractal ‘forests.’ The forests combine the paper's fractal flights with its seed design. (A) is an image of the original (i.e., before randomization) forest pattern with D = 1.6; (B) shows the same forest... ()",
      "credit": "Robles KE et al. (2021), Frontiers in psychology, FIGURE 3 (CC BY)",
      "url": "https://doi.org/10.3389/fpsyg.2021.699962",
      "card": false
@@ -103282,7 +103637,11 @@
      "where": "linkedin",
      "file": "PDFR01-d13.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Find your fractal: a roughness dial",
+    "file": "interactives/pdfr01/interactive.html"
+   }
   },
   {
    "slug": "pdl01",
@@ -103314,6 +103673,10 @@
      "url": "https://doi.org/10.1037/a0029333"
     },
     {
+     "label": "Elder, J. H., Peterson, M. A., & Walther, D. B. (2024). Editorial: Perceptual organization in computer and biological vision. Frontiers in Computer Science, 6, 1419831 (full text read Nov 20, 2026, frontiersin.org PDF, CC BY 4.0)",
+     "url": "https://doi.org/10.3389/fcomp.2024.1419831"
+    },
+    {
      "label": "Smithsonian American Art Museum. (n.d.). Wes Wilson [artist biography citing T. T. Heyman, Posters American Style, 1998] (page read in full Nov 6, 2026; facts only)",
      "url": "https://americanart.si.edu/node/9520"
     },
@@ -103332,7 +103695,7 @@
      "url": "https://www.loc.gov/item/2016649855/"
     },
     {
-     "label": "Image record: Museum of Arts and Crafts Lithographic asylum Albert Berger, Hamburg via Europeana (CC0)",
+     "label": "Image record: Lithographische Anstalt Albert Berger (printer); Museum of Arts and Crafts (MKG) Hamburg via Europeana, CC0",
      "url": "https://www.europeana.eu/item/2048429/item_SEESDC7TUT5HKDZ744KKXY66SO5ABIBB"
     },
     {
@@ -103387,15 +103750,15 @@
     },
     {
      "where": "Slide 5",
-     "what": "Illustration made for this post: dots grouped into one contour, drawn in code by Claude, persona Split-fountain proof (draft); our own stroke alphabet, no poster or font traced or copied",
-     "credit": "Wagemans et al. (2012), Psychological Bulletin",
-     "url": "https://doi.org/10.1037/a0029333",
+     "what": "Elder and colleagues' 2024 editorial on Baker and Kellman's dot study",
+     "credit": "Text: Elder, Peterson & Walther (2024), Front. Comput. Sci., CC BY 4.0",
+     "url": "https://doi.org/10.3389/fcomp.2024.1419831",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Lithographic asylum Albert Berger, XIV Exhibition of the Association of Austrian Artists, Secession Vienna",
-     "credit": "Museum of Arts and Crafts Lithographic asylum Albert Berger, Hamburg via Europeana (CC0)",
+     "what": "Lithographische Anstalt Albert Berger (printer), Poster for the XIV Vienna Secession exhibition, 1902 (Museum of Arts and Crafts, Hamburg)",
+     "credit": "Lithographische Anstalt Albert Berger (printer); Museum of Arts and Crafts (MKG) Hamburg via Europeana, CC0",
      "url": "https://www.europeana.eu/item/2048429/item_SEESDC7TUT5HKDZ744KKXY66SO5ABIBB",
      "card": false
     },
@@ -103412,13 +103775,6 @@
      "credit": "Dehaene-Lambertz et al. (2018), PLOS Biology",
      "url": "https://doi.org/10.1371/journal.pbio.2004103",
      "card": true
-    },
-    {
-     "where": "Story 3",
-     "what": "Illustration made for this post: tight and tracked-out letter spacing, drawn in code by Claude, persona Split-fountain proof (draft); our own stroke alphabet, no poster or font traced or copied",
-     "credit": "Pelli & Tillman (2008), Nature Neuroscience",
-     "url": "https://doi.org/10.1038/nn.2187",
-     "card": false
     }
    ],
    "region": "visual",
@@ -103614,7 +103970,7 @@
       "file": "chart-bouma-rule-letters.csv"
      },
      {
-      "title": "Word form area response to dot words and dot patterns (Bluesky)",
+      "title": "Word form area response to dot words and dot patterns, 4 adults in the moving-dot test (Bluesky)",
       "csv": "chart-rauschecker2011-dot-words.csv",
       "source_table": "Rauschecker et al. 2011, Results",
       "file": "chart-rauschecker2011-dot-words.csv"
@@ -103630,18 +103986,6 @@
       "csv": "chart-longform-font-accuracy.csv",
       "source_table": "Bursztein et al. 2014",
       "file": "chart-longform-font-accuracy.csv"
-     }
-    ],
-    "history_culture": [
-     {
-      "title": "Wes Wilson: From Art Nouveau to Psychedelic (Poster House)",
-      "url": "https://posterhouse.org/wes-wilson-from-art-nouveau-to-psychedelic/",
-      "why": "How a Vienna Secession typeface by Alfred Roller became the base of Wilson's warped lettering."
-     },
-     {
-      "title": "Jefferson Airplane & Grateful Dead, 1966 (V&A)",
-      "url": "https://collections.vam.ac.uk/item/O1024616/",
-      "why": "A museum-held example of the poster style."
      }
     ],
     "glossary": [
@@ -103691,7 +104035,24 @@
      "lines": [],
      "note": "Education, not medical advice. No drug use is shown or discussed; this post is about reading and lettering."
     },
-    "corrections": []
+    "history_culture": [
+     {
+      "title": "Wes Wilson: From Art Nouveau to Psychedelic (Poster House)",
+      "url": "https://posterhouse.org/wes-wilson-from-art-nouveau-to-psychedelic/",
+      "why": "How a Vienna Secession typeface by Alfred Roller became the base of Wilson's warped lettering."
+     },
+     {
+      "title": "Jefferson Airplane & Grateful Dead, 1966 (V&A)",
+      "url": "https://collections.vam.ac.uk/item/O1024616/",
+      "why": "A museum-held example of the poster style."
+     }
+    ],
+    "corrections": [
+     {
+      "date": "2026-11-20",
+      "change": "Re-checked after the post was revised: the slide 6 poster record now names Lithographische Anstalt Albert Berger as the printer and the Museum of Arts and Crafts (MKG) Hamburg as the holder, via Europeana, CC0. It is an image record, not a research source, so no annotation, claim or chart value changed. The Bluesky chart title now says it shows the 4 adults in the moving-dot test, as the post now does; values unchanged."
+     }
+    ]
    },
    "chart_csvs": [
     {
@@ -103710,7 +104071,11 @@
      "where": "bluesky",
      "file": "pdl01-cbs.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Warp the word",
+    "file": "interactives/pdl01/interactive.html"
+   }
   },
   {
    "slug": "p367",
@@ -103812,7 +104177,8 @@
      "url": "https://app-api.ddw.nl/programme/1954/press-kit.zip",
      "card": false
     }
-   ]
+   ],
+   "region": "hippocampus"
   },
   {
    "slug": "p003",
@@ -103919,7 +104285,8 @@
      "url": "https://app-api.ddw.nl/en/programme/maarten-baptist-studio",
      "card": false
     }
-   ]
+   ],
+   "region": "design-materials"
   },
   {
    "slug": "pdaw02",
@@ -104837,7 +105204,8 @@
      "url": "https://ddw.nl/en/programme/cocktales-10-ddw-jubilee-edition",
      "card": true
     }
-   ]
+   ],
+   "region": "design-materials"
   },
   {
    "slug": "mjbyb08",
@@ -105256,6 +105624,10 @@
      "note": "Education, not medical advice. If gambling is causing harm, free and confidential help is available."
     },
     "corrections": []
+   },
+   "interactive": {
+    "title": "How long was that? A time-guessing demonstration",
+    "file": "interactives/mjbyb08/interactive.html"
    }
   },
   {
@@ -105972,6 +106344,10 @@
      "note": "Education, not medical or legal advice."
     },
     "corrections": []
+   },
+   "interactive": {
+    "title": "The tireless judge: can scheduling alone make rulings fall before a break?",
+    "file": "interactives/mjbyb01/interactive.html"
    }
   },
   {
@@ -106725,7 +107101,11 @@
      "where": "instagram_single",
      "file": "MJBYB05-d20.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Step and think: a tap test of doing two things at once",
+    "file": "interactives/mjbyb05/interactive.html"
+   }
   },
   {
    "slug": "mjbyb10",
@@ -107640,6 +108020,18 @@
       "source": "Leikas 2020",
       "where": "Results",
       "study": "one everyday-life study, 74 students, 1,046 check-ins"
+     },
+     {
+      "claim": "Later: no change in one study, lower mood about 3 hours on in another.",
+      "source": "Leikas 2020; Willinger and Stieger 2025",
+      "where": "Leikas: Results (mood -0.01 later); Willinger and Stieger: Results, continuous-time model, Fig. 2C (peak 3 h 7 min)",
+      "study": "two everyday-life studies, 74 students and 80 adults"
+     },
+     {
+      "claim": "In a 2019 trial, acting outgoing went with more tiredness for the most introverted.",
+      "source": "Jacques-Hamilton, Sun and Smillie 2019",
+      "where": "Results: moderation by trait extraversion (momentary tiredness)",
+      "study": "randomized trial, 147 adults, one week"
      }
     ],
     "annotations": [
@@ -107650,11 +108042,27 @@
       "note": "An experience-sampling study of 74 Helsinki students over four days. Sociable behaviour in the previous hour predicted more tiredness at the next text, 2 to 3 hours later, and better mood at the time. Limits, as the author states: a small sample, many more women than men, one 'sociable' item, and too few people to test whether trait extraversion changes the link. Read in full through the Europe PMC open copy (PMC7260435, CC BY-NC-ND 4.0).",
       "funding": "Academy of Finland (grant 266076) and a 3-year University of Helsinki Science Fund grant to the author.",
       "conflicts": "The authors declare no conflict of interest."
+     },
+     {
+      "source": "Jacques-Hamilton, Sun and Smillie 2019",
+      "doi": "https://doi.org/10.1037/xge0000516",
+      "group": "primary",
+      "note": "A one-week randomized trial in 147 adults: acting bold and outgoing raised positive feelings on average and did not change tiredness on average. The most extraverted felt less tired in the moment and the most introverted more tired. Limits, as the authors state: the tiredness measures were new, and those results are tentative. Read in full as the accepted manuscript on OSF (CC BY 4.0).",
+      "funding": "not stated in the accepted manuscript",
+      "conflicts": "none declared in the accepted manuscript"
+     },
+     {
+      "source": "Willinger and Stieger 2025",
+      "doi": "https://doi.org/10.1016/j.isci.2025.112726",
+      "group": "primary",
+      "note": "80 adults answered an app four times a day for about two weeks while their phones counted nearby Bluetooth devices. More people nearby went with more vigor at once and more fatigue later, with the peak effect on negative mood about 3 hours on. Limits: effects were small, Bluetooth passes through walls, and personality was not measured. Read in full in the Europe PMC copy (PMC12179627, CC BY).",
+      "funding": "No research grant named; open access publishing paid by the Karl Landsteiner University of Health Sciences fund (Acknowledgments).",
+      "conflicts": "The authors declare no competing interests."
      }
     ],
     "could_be_wrong": [
      {
-      "point": "The author writes that the sample was too small to test whether trait extraversion changes the link, so 'not just introverts' rests on finding no difference between people, not on a test built for that question.",
+      "point": "The author writes that the sample was too small to test whether trait extraversion changes the link, so finding no difference between people is not a test built for that question.",
       "source": "Leikas 2020",
       "url": "https://doi.org/10.1016/j.heliyon.2020.e04033"
      },
@@ -107666,7 +108074,7 @@
      {
       "point": "In a one-week trial of 147 adults, acting outgoing did not change tiredness on average, but the most introverted people felt more tired in the moment and the most extraverted less; the authors call the tiredness results tentative.",
       "source": "Jacques-Hamilton, Sun and Smillie 2019",
-      "url": "https://osf.io/8ze6w/"
+      "url": "https://doi.org/10.1037/xge0000516"
      },
      {
       "point": "In the earlier 12-day study by the same group, the number of people met did predict later tiredness and explained 36 percent of the link, unlike the 2020 result for meeting people.",
@@ -107676,7 +108084,7 @@
      {
       "point": "A 2025 study that counted nearby Bluetooth devices found the same pattern, more energy at once and more tiredness later, but the effects were small, Bluetooth can pass through walls, and personality was not measured.",
       "source": "Willinger and Stieger 2025",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12179627/"
+      "url": "https://doi.org/10.1016/j.isci.2025.112726"
      },
      {
       "point": "No study measured a trade show floor. The post's advice to plan a break before the afternoon is its own reading and has not been tested.",
@@ -107880,7 +108288,16 @@
      "lines": [],
      "note": "Education, not medical advice. Tiredness that does not lift with rest, or that comes with low mood, is worth raising with a doctor; in the US, call or text 988 in a crisis."
     },
-    "corrections": []
+    "corrections": [
+     {
+      "date": "2026-11-20",
+      "change": "Re-checked after the post was revised: Jacques-Hamilton, Sun and Smillie 2019 (Threads) and Willinger and Stieger 2025 (slide 6) are now in the post sources, so both were re-read in full, annotated and added to the claims, and their What could be wrong links now point to their DOIs. The caption no longer says the link held for more than introverts, so the first point under What could be wrong is reworded. No chart value changed."
+     }
+    ]
+   },
+   "interactive": {
+    "title": "Talk now, tired later: a demonstration of one study's estimate",
+    "file": "interactives/mjbyb04/interactive.html"
    }
   },
   {
@@ -109916,6 +110333,10 @@
      "note": "If a child may have swallowed or squeezed a detergent packet, medicine or other product, call Poison Help right away, even without symptoms. Store products up, away, out of sight and locked. Education, not medical advice."
     },
     "corrections": []
+   },
+   "interactive": {
+    "title": "Pass, keep testing or fail: the federal child test, step by step",
+    "file": "interactives/mjbpp02/interactive.html"
    }
   },
   {
@@ -111139,6 +111560,7 @@
      "card": false
     }
    ],
+   "region": "design-materials",
    "chart_csvs": [
     {
      "where": "Slide 7",
@@ -111518,6 +111940,10 @@
       "file": "06-chart-koolaid-decoy.csv"
      }
     ]
+   },
+   "interactive": {
+    "title": "Before and after the bias check: how big is the nudge effect?",
+    "file": "interactives/mjbcat05n/interactive.html"
    }
   },
   {
@@ -113098,7 +113524,8 @@
      "url": "https://app-api.ddw.nl/programme/2471/press-kit.zip",
      "card": false
     }
-   ]
+   ],
+   "region": "somatosensory"
   },
   {
    "slug": "bswc01",
@@ -114377,6 +114804,7 @@
      "card": false
     }
    ],
+   "region": "prefrontal",
    "chart_csvs": [
     {
      "where": "Slide 4",
@@ -114864,6 +115292,7 @@
      "card": false
     }
    ],
+   "region": "visual",
    "chart_csvs": [
     {
      "where": "Slide 3",
@@ -115147,7 +115576,9 @@
      {
       "point": "A published letter disputes the idea that tube patterns are memory, arguing the data show a signal and response cascade without a trace of learning. No reply by the original authors was found as of Nov 2026.",
       "source": "Reiber and Nogueira Júnior (2021), PNAS",
-      "url": "https://doi.org/10.1073/pnas.2105928118"
+      "url": "https://doi.org/10.1073/pnas.2105928118",
+      "funding": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500 and no NCBI full text by an honest route)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500 and no NCBI full text by an honest route)"
      },
      {
       "point": "In the second lab, raw crossing speed on quinine did not rise significantly; only speed measured against same-day controls did, and that lab used a weaker quinine solution.",
@@ -115162,7 +115593,9 @@
      {
       "point": "The fusion transfer of learning and habituation that lasts through dormancy both come from one Toulouse group, with no independent replication found as of Nov 2026.",
       "source": "Vogel and Dussutour (2016); Boussard et al. (2019) (both read in full for the long form)",
-      "url": "https://doi.org/10.1098/rspb.2016.2382"
+      "url": "https://doi.org/10.1098/rspb.2016.2382",
+      "funding": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500 and no NCBI full text by an honest route)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500 and no NCBI full text by an honest route)"
      },
      {
       "point": "The only associative learning claim in Physarum has more parsimonious explanations, and some researchers prefer to call all of this information processing.",
@@ -115172,7 +115605,9 @@
      {
       "point": "A review asks whether motion should be read as a cognitive output at all, as opposed to simple biochemical processes.",
       "source": "Boussard et al. (2021), Philosophical Transactions B (read in full for the long form)",
-      "url": "https://doi.org/10.1098/rstb.2019.0757"
+      "url": "https://doi.org/10.1098/rstb.2019.0757",
+      "funding": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500 and no NCBI full text by an honest route)",
+      "conflicts": "not re-checked (Nov 20 honest-client re-read: Europe PMC full text HTTP 500 and no NCBI full text by an honest route)"
      },
      {
       "point": "The lumpfish comparison set stressed fish on one date against different, unstressed fish on an earlier date, with six fish per group, and the paper's abstract and conclusion describe the mucous cell density change in opposite directions.",
@@ -115299,6 +115734,10 @@
      }
     ],
     "corrections": []
+   },
+   "interactive": {
+    "title": "Cross the bridge: a slime mould learns to ignore quinine",
+    "file": "interactives/bsws01/interactive.html"
    }
   },
   {
@@ -116690,7 +117129,8 @@
      "url": "https://app-api.ddw.nl/programme/2065/press-kit.zip",
      "card": false
     }
-   ]
+   ],
+   "region": "prefrontal"
   },
   {
    "slug": "rqa02",
@@ -117273,7 +117713,8 @@
      "url": "https://app-api.ddw.nl/programme/2234/press-kit.zip",
      "card": false
     }
-   ]
+   ],
+   "region": "design-materials"
   },
   {
    "slug": "pdsr01",
@@ -118020,7 +118461,11 @@
      "where": "Slide 3",
      "file": "PSAW01-d3.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "The sun where you are: solstice day length by latitude",
+    "file": "interactives/psaw01/interactive.html"
+   }
   },
   {
    "slug": "pdaw06",
@@ -118785,7 +119230,8 @@
      "url": "https://app-api.ddw.nl/programme/2056/press-kit.zip",
      "card": false
     }
-   ]
+   ],
+   "region": "design-materials"
   },
   {
    "slug": "rqa03",
@@ -119321,7 +119767,8 @@
      "url": "https://doi.org/10.1113/EP091454",
      "card": false
     }
-   ]
+   ],
+   "region": "somatosensory"
   },
   {
    "slug": "hdz01",
@@ -119658,7 +120105,8 @@
      {
       "title": "Change over about 30 years in size-adjusted energy use, US and European adults, 1981 to 2017 (long form)",
       "csv": "longform-images/10-chart-energy-trends-30-years.csv",
-      "source_table": "Speakman et al. 2023, Results (adjusted TEE, BEE and AEE, change over 30 years)",
+      "source_table": "Speakman et al. 2023, Table 1 (adjusted TEE, BEE and AEE, change over 30 years)",
+      "note": "Women's basal energy is drawn as -0.12 MJ/day, the Table 1 value (not significant); the paper's Results text gives 0.11. The chart follows Table 1, like its other bars (checked Nov 20, 2026).",
       "file": "10-chart-energy-trends-30-years.csv"
      }
     ]
@@ -120598,7 +121046,11 @@
      "where": "pinterest",
      "file": "PSAV02-d9.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Join and part the towers: the Leaning Tower illusion",
+    "file": "interactives/psav02/interactive.html"
+   }
   },
   {
    "slug": "pdm02",
@@ -120723,7 +121175,11 @@
      "where": "linkedin",
      "file": "PDM02-d16.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Seeing sound: match the shape, match the shade",
+    "file": "interactives/pdm02/interactive.html"
+   }
   },
   {
    "slug": "psag01",
@@ -121248,7 +121704,11 @@
      "where": "shorts cover",
      "file": "PSAG02-d11.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Swing the lamp: pendulum length and swing width",
+    "file": "interactives/psag02/interactive.html"
+   }
   },
   {
    "slug": "psao01",
@@ -122223,7 +122683,11 @@
      "where": "tiktok",
      "file": "PSAA06-d7.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Seed head: turn the angle",
+    "file": "interactives/psaa06/interactive.html"
+   }
   },
   {
    "slug": "pdt01",
@@ -122464,7 +122928,11 @@
      "where": "tiktok",
      "file": "PSAO03-d10.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Sort by seed: Cesalpino's 1583 key",
+    "file": "interactives/psao03/interactive.html"
+   }
   },
   {
    "slug": "pdse01",
@@ -123240,7 +123708,11 @@
      "where": "x",
      "file": "PDPS01-d16.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Four enzymes, step by step: how a mushroom builds psilocybin",
+    "file": "interactives/pdps01/interactive.html"
+   }
   },
   {
    "slug": "lean01",
@@ -123823,7 +124295,11 @@
      "where": "pinterest",
      "file": "PSAV01-d12.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Rod and frame: set the line upright",
+    "file": "interactives/psav01/interactive.html"
+   }
   },
   {
    "slug": "wotw06",
@@ -124190,7 +124666,11 @@
      "where": "tiktok",
      "file": "ROM01-d12.csv"
     }
-   ]
+   ],
+   "interactive": {
+    "title": "Six neighbours or a fixed reach: spread the flock",
+    "file": "interactives/rom01/interactive.html"
+   }
   },
   {
    "slug": "pdfs01",
@@ -125399,7 +125879,11 @@
      "card": false
     }
    ],
-   "region": "body"
+   "region": "body",
+   "interactive": {
+    "title": "Drag the pace: twenty years at different speeds",
+    "file": "interactives/pace01/interactive.html"
+   }
   },
   {
    "slug": "rqa06",

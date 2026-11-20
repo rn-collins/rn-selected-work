@@ -1,0 +1,3 @@
+label,value,text,axis,source
+Readiness potential begins,500,about 500 ms,Bars start at zero,"Chart: Ask a Neuroscientist, from Libet et al. 1983 timings as reported in Schurger et al. 2021"
+Reported decision,200,about 200 ms,Bars start at zero,"Chart: Ask a Neuroscientist, from Libet et al. 1983 timings as reported in Schurger et al. 2021"

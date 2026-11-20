@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Gas sampled,1.75,1.75 m,"Metres above the street (model: 5 mm, 1 cm, 77 cm)","Chart: AaN, from Gillmeier et al. (2025), ERIES database data"
+"Wind, lowest",3.5,3.5 m,"Metres above the street (model: 5 mm, 1 cm, 77 cm)","Chart: AaN, from Gillmeier et al. (2025), ERIES database data"
+"Wind, highest",270,270 m,"Metres above the street (model: 5 mm, 1 cm, 77 cm)","Chart: AaN, from Gillmeier et al. (2025), ERIES database data"

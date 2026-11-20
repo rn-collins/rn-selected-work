@@ -1,0 +1,7 @@
+label,value,label_as_shown,unit_or_scale
+arousal,0.455,0.455,"partial eta squared, effect of the sound setting"
+liking,0.288,0.288,"partial eta squared, effect of the sound setting"
+acidity,0.279,0.279,"partial eta squared, effect of the sound setting"
+mood (valence),0.263,0.263,"partial eta squared, effect of the sound setting"
+bitterness,0.223,0.223,"partial eta squared, effect of the sound setting"
+sweetness,0.050,0.050,"partial eta squared, effect of the sound setting"

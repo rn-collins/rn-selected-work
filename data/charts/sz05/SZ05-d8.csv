@@ -1,0 +1,4 @@
+label,value,text,axis,source
+0 to 2 positive,1.0,1.00,"odds ratio, reference group is 1","SOURCE: BETHELL ET AL. (2019), JAMA PEDIATR"
+3 to 5 positive,0.5,0.50,"odds ratio, reference group is 1","SOURCE: BETHELL ET AL. (2019), JAMA PEDIATR"
+6 to 7 positive,0.28,0.28,"odds ratio, reference group is 1","SOURCE: BETHELL ET AL. (2019), JAMA PEDIATR"

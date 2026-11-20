@@ -1,0 +1,5 @@
+label,value,text,axis,source
+"China, low",1.7,1.7,"odds ratio, one copy","SOURCE: BROOKS ET AL. (2009), PLOS MEDICINE"
+"China, high",3.1,3.1,"odds ratio, one copy","SOURCE: BROOKS ET AL. (2009), PLOS MEDICINE"
+"Japan, low",3.7,3.7,"odds ratio, one copy","SOURCE: BROOKS ET AL. (2009), PLOS MEDICINE"
+"Japan, high",18.1,18.1,"odds ratio, one copy","SOURCE: BROOKS ET AL. (2009), PLOS MEDICINE"

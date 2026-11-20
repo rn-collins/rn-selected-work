@@ -1,0 +1,4 @@
+label,value,text,axis,source
+Video vs script,0.57,d 0.57,effect size (d),"Chart: Ask a Neuroscientist, from Kobayashi (2022) data"
+Recall vs script,0.65,d 0.65,effect size (d),"Chart: Ask a Neuroscientist, from Kobayashi (2022) data"
+Video vs recall,0.1,d 0.10,effect size (d),"Chart: Ask a Neuroscientist, from Kobayashi (2022) data"

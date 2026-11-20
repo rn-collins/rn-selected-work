@@ -1,0 +1,3 @@
+label,value,low,high,text,axis,source,source_ref
+Women,0.14,0.1,0.19,0.14,"Non-contact ACL injuries per 1,000 player-hours","Chart: Ask a Neuroscientist, from Chia et al. (2022) data.","Chia et al. (2022), Sports Med, PMC9136558, full text read Nov 20, 2026: Results, female athletes 0.14 per 1000 player-hours, 95% CI 0.10-0.19"
+Men,0.05,0.03,0.07,0.05,"Non-contact ACL injuries per 1,000 player-hours","Chart: Ask a Neuroscientist, from Chia et al. (2022) data.","Chia et al. (2022), PMC9136558: Results, male athletes 0.05 per 1000 player-hours, 95% CI 0.03-0.07"

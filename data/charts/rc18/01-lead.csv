@@ -1,0 +1,3 @@
+label,value,text,axis,source,source_ref
+Saline drip,4713,"4,713 kJ (SEM 344)","Energy eaten at the buffet (kJ, mean)","Chart: Ask a Neuroscientist, from Wren et al. (2001) data (author manuscript, Fig. 3a values).","Wren et al. (2001), JCEM 86:5992, author manuscript, Imperial Spiral hdl 10044/1/287, read Nov 20, 2026: Results, 'figure 3a: 5997 ± 413 kJ vs. saline 4713 ± 344 kJ'"
+Ghrelin drip,5997,"5,997 kJ (SEM 413)","Energy eaten at the buffet (kJ, mean)","Chart: Ask a Neuroscientist, from Wren et al. (2001) data (author manuscript, Fig. 3a values).","Wren et al. (2001), JCEM 86:5992, author manuscript, Imperial Spiral hdl 10044/1/287, read Nov 20, 2026: Results, 'figure 3a: 5997 ± 413 kJ vs. saline 4713 ± 344 kJ'"

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Talk now, tired later: a demonstration of one study's estimate · Ask a Neuroscientist</title>
+<style>
+  :root { --bg:#F1ECE0; --ink:#22201C; --red:#A3341B; --grey:#5E5A52; --paper:#FBF8EF; --rule:#B9B09F; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.55 "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:28px 18px 60px; }
+  h1 { font:600 clamp(24px,5.5vw,36px)/1.2 "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace; margin:.2em 0 .4em; }
+  h2 { font:600 19px/1.3 "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace; margin:1.6em 0 .4em; }
+  .tag { font:500 13px "IBM Plex Mono", ui-monospace, monospace; color:var(--grey); letter-spacing:.04em; text-transform:uppercase; }
+  .panel { background:var(--paper); border:1.5px solid var(--rule); border-radius:6px; padding:14px 16px; margin:16px 0; }
+  label { display:block; font-weight:600; margin:8px 0 4px; }
+  input[type=range] { width:100%; height:44px; accent-color:var(--red); }
+  input:focus-visible, button:focus-visible { outline:3px solid var(--red); outline-offset:3px; }
+  .scale { display:flex; justify-content:space-between; font:500 14px "IBM Plex Mono", monospace; color:var(--grey); }
+  .tape { position:relative; height:46px; background:var(--paper); border:1.5px solid var(--rule); margin:6px 0 2px; }
+  .tape .ink { position:absolute; left:0; top:18px; height:22px; background:var(--red); }
+  .tape .ink.grey { background:var(--grey); }
+  .tape .dots { position:absolute; left:6px; right:6px; top:5px; height:6px; background-image:radial-gradient(circle, var(--rule) 2.5px, transparent 3px); background-size:24px 6px; }
+  .num { font:600 22px "IBM Plex Mono", monospace; }
+  .small { font-size:15px; color:var(--grey); }
+  ul { padding-left:1.2em; }
+  a { color:var(--red); }
+  @media (prefers-reduced-motion: reduce) { * { transition:none !important; animation:none !important; } }
+</style>
+</head>
+<body>
+<main>
+  <p class="tag">Ask a Neuroscientist · interactive demonstration · not a measurement</p>
+  <h1>Talk now, tired later</h1>
+  <p>In one study, 74 students answered a text four times a day for four days: how tired are you now, and how sociable were you in the last hour? Being more sociable than your own usual went with better mood at the time and with more tiredness at the next check-in, 2 to 3 hours later (Leikas, 2020).</p>
+  <p>Move the slider to see what the study's average estimates say for one sociable hour. This is a picture of the study's numbers, not a prediction for you.</p>
+
+  <div class="panel">
+    <label for="soc">How sociable was the last hour, compared with your own usual? (points on the study's 1 to 5 scale)</label>
+    <input id="soc" type="range" min="0" max="2" step="0.5" value="1" aria-describedby="socval">
+    <div class="scale" aria-hidden="true"><span>your usual</span><span>+1</span><span>+2</span></div>
+    <p id="socval" class="num">+1 point above your usual</p>
+  </div>
+
+  <h2>Right now: mood</h2>
+  <div class="tape" aria-hidden="true"><div class="dots"></div><div id="moodbar" class="ink grey"></div></div>
+  <p><span id="mood" class="num">+0.13</span> on the 1 to 5 mood scale (estimate 0.13 per point)</p>
+
+  <h2>Right now: tiredness</h2>
+  <div class="tape" aria-hidden="true"><div class="dots"></div><div id="nowbar" class="ink grey"></div></div>
+  <p><span id="now" class="num">-0.02</span> on the 1 to 5 tiredness scale (estimate -0.02 per point, close to zero)</p>
+
+  <h2>2 to 3 hours later: tiredness</h2>
+  <div class="tape" aria-hidden="true"><div class="dots"></div><div id="laterbar" class="ink"></div></div>
+  <p><span id="later" class="num">+0.19</span> on the 1 to 5 tiredness scale; range <span id="range">+0.10 to +0.26</span> (estimate 0.19 per point, 95 percent range 0.10 to 0.26)</p>
+  <p id="live" class="small" aria-live="polite"></p>
+
+  <div class="panel">
+    <h2 style="margin-top:0">How strong is this?</h2>
+    <ul>
+      <li><strong>Early:</strong> one correlational study, replicating one smaller study. It cannot show that talking causes tiredness.</li>
+      <li>74 University of Helsinki students, 58 of them women; sociability was one question, "sociable".</li>
+      <li>The link held when time of day, earlier tiredness, work or study and simply meeting people were counted, and it did not vary between people.</li>
+      <li>No study measured a trade show floor. Our reading, untested: after a sociable morning, take a quiet break before the afternoon.</li>
+    </ul>
+    <p class="small">The estimates are averages across people, each measured against that person's own usual. Nothing you move here is stored or sent.</p>
+  </div>
+
+  <p class="small">Education, not medical advice.</p>
+  <p class="small">Source: Leikas, S. (2020). Sociable behavior is related to later fatigue: Moment-to-moment patterns of behavior and tiredness. <em>Heliyon, 6</em>(5), e04033. <a href="https://doi.org/10.1016/j.heliyon.2020.e04033">https://doi.org/10.1016/j.heliyon.2020.e04033</a> (full text read Nov 7, 2026). Drawn in code by Claude, persona Ticker-tape receiver.</p>
+</main>
+<script>
+(function () {
+  var s = document.getElementById('soc');
+  var MAXW = 0.6; // widest value shown (2 points x 0.26 = 0.52) fits inside the tape
+  function sign(v) { return (v >= 0 ? '+' : '') + v.toFixed(2); }
+  function bar(id, v) { var el = document.getElementById(id); el.style.width = (Math.abs(v) / MAXW * 100).toFixed(1) + '%'; }
+  function draw() {
+    var x = parseFloat(s.value);
+    var mood = 0.13 * x, now = -0.02 * x, later = 0.19 * x;
+    document.getElementById('socval').textContent = x === 0 ? 'your usual level' : '+' + x + ' point' + (x === 1 ? '' : 's') + ' above your usual';
+    document.getElementById('mood').textContent = sign(mood);
+    document.getElementById('now').textContent = sign(now);
+    document.getElementById('later').textContent = sign(later);
+    document.getElementById('range').textContent = sign(0.10 * x) + ' to ' + sign(0.26 * x);
+    bar('moodbar', mood); bar('nowbar', now); bar('laterbar', later);
+    document.getElementById('live').textContent = 'Later tiredness ' + sign(later) + ', mood now ' + sign(mood) + '.';
+  }
+  s.addEventListener('input', draw);
+  draw();
+})();
+</script>
+</body>
+</html>

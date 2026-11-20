@@ -1,0 +1,5 @@
+label,value,label_as_shown,unit_or_scale
+abstract shapes (meaningless),0.56,0.56,"Hedges' g, 0 means no preference"
+objects,0.42,0.42,"Hedges' g, 0 means no preference"
+"logos, type (symbolic design)",0.30,0.30,"Hedges' g, 0 means no preference"
+"interiors, facades (spatial design)",-0.04,-0.04,"Hedges' g, 0 means no preference"
