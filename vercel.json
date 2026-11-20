@@ -115,12 +115,39 @@
     {
       "source": "/hub",
       "destination": "/hub/index.html"
+    },
+    {
+      "source": "/review/mjbizcon-2026-for-fat-nugs",
+      "destination": "/review/mjbizcon-2026-for-fat-nugs/index.html"
+    },
+    {
+      "source": "/review/mjbizcon-2026-for-fat-nugs/scroll/:slug",
+      "destination": "/review/mjbizcon-2026-for-fat-nugs/scroll/:slug/index.html"
+    },
+    {
+      "source": "/review/mjbizcon-2026-for-fat-nugs/interactive/:slug",
+      "destination": "/review/mjbizcon-2026-for-fat-nugs/interactive/:slug/index.html"
     }
   ],
   "crons": [
     {
       "path": "/api/release-day",
       "schedule": "5 10 * * *"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/review/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow, noarchive"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "no-store"
+        }
+      ]
     }
   ]
 }

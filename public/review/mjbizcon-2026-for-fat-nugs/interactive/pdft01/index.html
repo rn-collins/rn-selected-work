@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><base href="/review/mjbizcon-2026-for-fat-nugs/interactive/pdft01/"><meta name="robots" content="noindex,nofollow,noarchive"><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Ctitle%3EAsk a Neuroscientist%3C/title%3E%3Crect x='2' y='2' width='60' height='60' rx='13' fill='%230F7C80' stroke='%23123524' stroke-width='3.5'/%3E%3Cg transform='translate(-10.5 0)' fill='none' stroke='%23FFF4DC' stroke-width='3.2' stroke-linecap='round'%3E%3Cpath d='M41 27 C40 19 35 16 33 12 C32 10 34 9 35.5 10.5'/%3E%3Cpath d='M46 29 C51 21 56 20 57 15 C57.5 12.5 55 12 54 13.5'/%3E%3Cpath d='M38 36 C32 40 31 46 27 48'/%3E%3Cpath d='M45 37 C47 44 52 47 51 53 C50.6 55 48.5 54.6 48.5 53'/%3E%3C/g%3E%3Cellipse cx='20.5' cy='17' rx='3.6' ry='2' transform='rotate(-40 20.5 17)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Cellipse cx='43.5' cy='47' rx='3.6' ry='2' transform='rotate(35 43.5 47)' fill='%232E9E4F' stroke='%23123524' stroke-width='1'/%3E%3Ccircle cx='32' cy='32' r='7.4' fill='%23F4B41A' stroke='%23123524' stroke-width='2.4'/%3E%3C/svg%3E"><link rel="alternate icon" href="/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Find the face | Ask a Neuroscientist</title>
+<style>/* Google Fonts, self-hosted (latin subset, SIL OFL; fetched from fonts.gstatic.com Nov 20, 2026) */
+@font-face{font-family:'Archivo';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/Archivo-variable.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Archivo';font-style:normal;font-weight:700;font-display:swap;src:url(fonts/Archivo-variable.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Archivo';font-style:normal;font-weight:800;font-display:swap;src:url(fonts/Archivo-variable.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Caveat';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/Caveat-600.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+</style>
+<style>
+:root{--bg:#EDF1E4;--ink:#1F2320;--muted:#55605A;--acc:#B5381F;--acc2:#2D6A9A;--card:#F7F7F2}
+*{box-sizing:border-box}
+body{margin:0;color:var(--ink);font:500 18px/1.55 Archivo,system-ui,sans-serif;
+ background-color:var(--bg);
+ background-image:linear-gradient(rgba(45,106,154,.12) 1px,transparent 1px),linear-gradient(90deg,rgba(45,106,154,.12) 1px,transparent 1px);
+ background-size:32px 32px}
+main{max-width:960px;margin:0 auto;padding:28px 18px 60px}
+.tag{font:700 12px/1.2 Archivo,sans-serif;letter-spacing:1.6px;text-transform:uppercase;color:var(--acc)}
+h1{font:800 clamp(34px,6vw,56px)/1.02 Archivo,sans-serif;margin:10px 0 6px}
+.deck{font:600 clamp(24px,3.4vw,32px)/1.2 Caveat,cursive;color:var(--muted);margin:0 0 18px}
+.board{background:var(--card);border:2px solid var(--ink);padding:16px;border-radius:6px}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+@media (max-width:620px){.grid{grid-template-columns:repeat(3,1fr)}}
+.grid button{position:relative;background:#fff;border:1.5px solid rgba(31,35,32,.35);border-radius:6px;padding:6px;cursor:pointer;min-height:44px;aspect-ratio:1/1}
+.grid button:focus-visible,.controls button:focus-visible{outline:3px solid var(--acc2);outline-offset:2px}
+.grid svg{width:100%;height:100%;display:block}
+.ring{position:absolute;inset:4%;border:4px solid var(--acc);border-radius:50%;opacity:0;pointer-events:none}
+.grid button[aria-pressed="true"] .ring{opacity:.9}
+.mark{position:absolute;right:4px;bottom:3px;font:700 11px Archivo,sans-serif;padding:2px 6px;border-radius:4px;background:var(--ink);color:#fff;display:none}
+.revealed .mark{display:block}
+.controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:14px 0 4px}
+.controls button{font:700 15px Archivo,sans-serif;border:2px solid var(--ink);background:var(--ink);color:#fff;padding:10px 16px;border-radius:6px;cursor:pointer;min-height:44px}
+.controls button.ghost{background:transparent;color:var(--ink)}
+#say{font-weight:700}
+.note{background:#fff;padding:14px 16px;margin:16px 0;border-left:5px solid var(--acc2)}
+.label{font:700 12px Archivo,sans-serif;letter-spacing:1.2px;text-transform:uppercase;color:var(--acc)}
+footer{margin-top:28px;border-top:1px solid rgba(31,35,32,.25);padding-top:14px;font-size:15px;color:var(--muted)}
+footer a{color:var(--acc2)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<main>
+<p class="tag">Ask a Neuroscientist · The neuroscience of psychedelic design · Series 12</p>
+<h1>Find the face</h1>
+<p class="deck">Why does a wall socket look surprised?</p>
+
+<div class="board">
+ <p id="howto">Tap or press every object that seems to look back at you. Go with your first impression. Then press Show me.</p>
+ <div class="grid" id="grid" role="group" aria-label="Twelve drawn objects. Select the ones that look like faces."></div>
+ <div class="controls">
+  <button id="check" type="button">Show me</button>
+  <button id="again" type="button" class="ghost">New shuffle</button>
+ </div>
+ <p id="say" aria-live="polite"></p>
+</div>
+
+<div class="note"><span class="label">How the game is built</span><br>Every object is drawn twice from the same parts. In one version the parts sit as two eyes above a mouth. In the other the same parts are moved out of that arrangement. The answer marks show which version is which. Your picks are not stored or sent anywhere.</div>
+
+<div class="note"><span class="label">One small study</span><br>In 7 adults recorded with MEG, objects that looked like faces drew a response in the brain's face area at about 165 thousandths of a second, about when real faces did. Ordinary objects did not (Hadjikhani et al., 2009).</div>
+<div class="note"><span class="label">Two kinds of brain scan agree</span><br>In 22 people, the brain first treated illusory faces as face-like, then within about 250 thousandths of a second as ordinary objects. The authors describe a face detector that favours sensitivity over selectivity (Wardle et al., 2020).</div>
+<div class="note"><span class="label">One small study so far</span><br>Five rhesus monkeys looked longer at objects with illusory faces than at matched objects, and looked at the illusory eyes and mouth (Taubert et al., 2017).</div>
+<div class="note"><span class="label">Scientists still disagree on the details</span><br>One account says perception is the brain's best guess, and strong expectations can make people see what is not there (Corlett et al., 2019). Whether psychedelic states change face pareidolia has not been tested directly.</div>
+
+<p>Your own picks in this game take seconds, because they include deciding and pressing. The brain's first face response comes far sooner than that. This page has no flashing and no timed pressure.</p>
+
+<footer>
+ <p>Game and drawings: drawn in code by Claude, persona Field-sketch spotter (draft, awaiting RN's approval). No photograph, no reproduced image and no image generator.</p>
+ <p>Sources: Hadjikhani, Kveraga, Naik &amp; Ahlfors (2009), <a href="https://doi.org/10.1097/WNR.0b013e328325a8e1">NeuroReport 20(4), 403 to 407</a>; Wardle, Taubert, Teichmann &amp; Baker (2020), <a href="https://doi.org/10.1038/s41467-020-18325-8">Nature Communications 11, 4518</a>; Taubert et al. (2017), <a href="https://doi.org/10.1016/j.cub.2017.06.075">Current Biology 27(16)</a>; Liu et al. (2014), <a href="https://doi.org/10.1016/j.cortex.2014.01.013">Cortex 53, 60 to 77</a>; Corlett et al. (2019), <a href="https://doi.org/10.1016/j.tics.2018.12.001">Trends in Cognitive Sciences 23(2)</a>.</p>
+ <p>#AskANeuro</p>
+</footer>
+</main>
+<script>
+(function(){
+ var S='stroke="#1F2320" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"';
+ var F='fill="#1F2320"';
+ // each object: name, face version, control version (same parts, moved)
+ var OBJ={
+  socket:['wall socket',
+   '<rect x="20" y="10" width="60" height="80" rx="4" '+S+'/><rect x="34" y="30" width="6" height="16" '+F+'/><rect x="60" y="30" width="6" height="16" '+F+'/><path d="M44 70 v-6 a6 6 0 0 1 12 0 v6 z" '+F+'/>',
+   '<rect x="20" y="10" width="60" height="80" rx="4" '+S+'/><rect x="30" y="64" width="6" height="16" '+F+'/><rect x="64" y="22" width="6" height="16" '+F+'/><path d="M30 36 v-6 a6 6 0 0 1 12 0 v6 z" '+F+'/>'],
+  house:['house front',
+   '<path d="M14 42 L50 12 L86 42" '+S+'/><rect x="20" y="42" width="60" height="46" '+S+'/><rect x="28" y="50" width="14" height="12" '+S+'/><rect x="58" y="50" width="14" height="12" '+S+'/><rect x="43" y="68" width="14" height="20" '+S+'/>',
+   '<path d="M14 42 L50 12 L86 42" '+S+'/><rect x="20" y="42" width="60" height="46" '+S+'/><rect x="26" y="70" width="14" height="12" '+S+'/><rect x="62" y="46" width="14" height="12" '+S+'/><rect x="44" y="50" width="14" height="20" '+S+'/>'],
+  tap:['tap with two handles',
+   '<circle cx="28" cy="34" r="10" '+S+'/><circle cx="28" cy="34" r="3" '+F+'/><circle cx="72" cy="34" r="10" '+S+'/><circle cx="72" cy="34" r="3" '+F+'/><rect x="16" y="48" width="68" height="8" '+S+'/><path d="M46 56 v20 q4 6 8 0 v-20" '+S+'/>',
+   '<circle cx="22" cy="70" r="10" '+S+'/><circle cx="22" cy="70" r="3" '+F+'/><circle cx="78" cy="22" r="10" '+S+'/><circle cx="78" cy="22" r="3" '+F+'/><rect x="16" y="44" width="68" height="8" '+S+'/><path d="M46 52 v20 q4 6 8 0 v-20" '+S+'/>'],
+  car:['car, front view',
+   '<path d="M10 70 V54 L22 48 L32 28 H68 L78 48 L90 54 V70 Z" '+S+'/><ellipse cx="26" cy="58" rx="8" ry="6" '+S+'/><ellipse cx="74" cy="58" rx="8" ry="6" '+S+'/><path d="M38 62 L42 67 H58 L62 62" '+S+'/>',
+   '<path d="M10 70 V54 L22 48 L32 28 H68 L78 48 L90 54 V70 Z" '+S+'/><ellipse cx="26" cy="58" rx="8" ry="6" '+S+'/><ellipse cx="40" cy="58" rx="8" ry="6" '+S+'/><path d="M62 54 L66 59 H82 L86 54" '+S+'/>'],
+  bag:['handbag',
+   '<path d="M38 30 q12 -20 24 0" '+S+'/><path d="M18 30 H82 L76 86 H24 Z" '+S+'/><circle cx="38" cy="48" r="5" '+F+'/><circle cx="62" cy="48" r="5" '+F+'/><path d="M40 66 q10 10 20 0" '+S+'/>',
+   '<path d="M38 30 q12 -20 24 0" '+S+'/><path d="M18 30 H82 L76 86 H24 Z" '+S+'/><circle cx="30" cy="76" r="5" '+F+'/><circle cx="70" cy="42" r="5" '+F+'/><path d="M30 46 q10 10 20 0" '+S+'/>'],
+  washer:['washing machine',
+   '<rect x="16" y="10" width="68" height="80" rx="4" '+S+'/><circle cx="34" cy="22" r="5" '+S+'/><circle cx="66" cy="22" r="5" '+S+'/><circle cx="50" cy="58" r="20" '+S+'/>',
+   '<rect x="16" y="10" width="68" height="80" rx="4" '+S+'/><circle cx="26" cy="22" r="5" '+S+'/><circle cx="38" cy="22" r="5" '+S+'/><circle cx="62" cy="58" r="20" '+S+'/>']
+ };
+ var grid=document.getElementById('grid'),say=document.getElementById('say'),items=[];
+ function shuffle(a){for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t;}return a;}
+ function deal(){
+  items=[];Object.keys(OBJ).forEach(function(k){items.push({k:k,face:true});items.push({k:k,face:false});});
+  shuffle(items);grid.innerHTML='';grid.classList.remove('revealed');say.textContent='';
+  items.forEach(function(it,i){
+   var b=document.createElement('button');b.type='button';b.setAttribute('aria-pressed','false');
+   b.setAttribute('aria-label','Object '+(i+1)+': '+OBJ[it.k][0]);
+   b.innerHTML='<svg viewBox="0 0 100 100" aria-hidden="true">'+OBJ[it.k][it.face?1:2]+'</svg><span class="ring"></span><span class="mark">'+(it.face?'face layout':'moved')+'</span>';
+   b.addEventListener('click',function(){b.setAttribute('aria-pressed',b.getAttribute('aria-pressed')==='true'?'false':'true');});
+   grid.appendChild(b);
+  });
+ }
+ document.getElementById('check').addEventListener('click',function(){
+  var btns=grid.querySelectorAll('button'),hit=0,extra=0;
+  items.forEach(function(it,i){var p=btns[i].getAttribute('aria-pressed')==='true';if(p&&it.face)hit++;if(p&&!it.face)extra++;
+   btns[i].setAttribute('aria-label','Object '+(i+1)+': '+OBJ[it.k][0]+(it.face?', drawn as eyes above a mouth':', parts moved')+(p?', you picked it':''));});
+  grid.classList.add('revealed');
+  say.textContent='You picked '+hit+' of the 6 objects drawn as eyes above a mouth, and '+extra+' of the 6 with the parts moved. Same parts, different arrangement.';
+ });
+ document.getElementById('again').addEventListener('click',deal);
+ deal();
+})();
+</script>
+</body>
+</html>
