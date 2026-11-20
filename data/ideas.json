@@ -4237,5 +4237,35 @@
     "expression": "RN’s Dutch Design Week essay uses VENTRA, a student-built electric concept car, to examine the gap between collecting pollution and accounting for its destination. For readers interested in design and environmental claims, RN compares the makers’ simulation figures, descriptions of the collection system and an enamel demonstration with vehicle rules, waste-law terminology, older Dutch emissions estimates and a different company’s reported experiments. The contribution is a documentary comparison and a set of practical reporting questions: what was collected, how much, under which conditions, what entered a new material and where the remainder went. The essay distinguishes the device, the collected material and its next destination.",
     "boundary": "Unpublished essay draft intended for Polymath within RN’s Dutch Design Week coverage. The existing release record is held, and no canonical article link is recorded. The source reports no road test, visit or interview. Simulation figures do not establish street performance or reduced exposure; figures for another company’s device are not a direct comparison. The manuscript identifies missing composition, quantity, durability and material-release evidence, uses older emissions estimates and explicitly notes that its original waste-directive text needs checking against amendments. No independent technical, environmental or legal review was completed here. Supporting image credits are metadata only, not permission or visual acceptance. The manuscript and adaptations remain held and are not linked.",
     "provenance": "Complete existing essay text reviewed, with its current source revision, owner row, release gate and link-only destination reconciled. The owner and release records carry a February 28, 2027 planning date; the manuscript has no publication date. The supporting slide-credit record belongs to this same work. Selected Works describes the essay without relocating the full writing or treating planned publication as completed."
+  },
+  {
+    "id": "who-paid-for-this-study",
+    "title": "Who Paid for This Study?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What can research funding tell a reader about a health study, and what still needs checking in the study itself?",
+    "expression": "RN’s draft explains how to read research about industry sponsorship without treating a funding disclosure as a verdict on an individual paper. For readers evaluating health claims, it compares a Cochrane review of sponsorship and study outcomes with an older review discussed through later sources. The essay separates reported results from authors’ conclusions, examines publication and data-access restrictions, and turns those distinctions into questions a reader can ask about sponsors, methods and the fit between evidence and conclusions. RN’s contribution is an explanatory synthesis of existing research, not a new study or an investigation of a particular company.",
+    "boundary": "Unpublished Ask a Neuroscientist column intended for Fat Nugs Magazine. Associations across groups of studies do not establish why an individual trial reached its result or prove wrongdoing. The older review was not directly accessible in the reported source work; later open sources mediate that discussion, and older affiliation estimates are not current prevalence figures. The manuscript’s blanket abstract-only note conflicts with the research log’s later full-reading claims, while its opening comparison still needs reconciliation with cuts recorded in that log. No underlying scientific paper, historical document, image or reuse right was independently verified here. The essay and its adaptations remain held, with no manuscript or publication link.",
+    "provenance": "Complete manuscript and research-log text reviewed in the preceding continuation, with both current revisions and the owner record reconfirmed. The owner lists a draft, no public URL and a March 1, 2027 planning date; the manuscript is undated. This essay explains research sponsorship evidence and is distinct from the existing proposed civic-sponsorship framework. Supporting platform versions remain attached to this work."
+  },
+  {
+    "id": "fire-1944-putting-a-fresco-back-on-its-wall",
+    "title": "Fire, 1944: Putting a Fresco Back on Its Wall",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "How did the wartime damage to Pisa’s Camposanto lead to decades of rescue, restoration and further repair?",
+    "expression": "RN’s draft traces the relationship between a damaged building, its wall paintings and the materials used to preserve them. For readers interested in art, history and design, it brings together two university accounts and the Pisa section of a postwar preservation report, moving from the 1944 roof fire through emergency protection, removal of paintings, discovery of preparatory drawings and later restoration campaigns. RN’s contribution is a documentary narrative showing why an early rescue can become part of a later conservation problem. The essay distinguishes the long history of the overall campaign from the treatment history of any one painting.",
+    "boundary": "Unpublished Ask a Neuroscientist essay intended for Polymath’s Pisa coverage, prepared before travel rather than documenting an on-site visit. The reviewed manuscript describes a selected source set; the complete European preservation report and official restoration records were not reviewed for this portfolio. Its chronology is not a step-by-step conservation method, and elapsed-year calculations do not establish a uniform history for every object. Historical photographs, report illustrations and a postcard record are described in the source but were not visually inspected or cleared for reuse here. Publication in a government report does not establish rights to every reproduced image. Historical claims, quotations and conservation details remain subject to source review; the manuscript and supporting materials stay held and unlinked.",
+    "provenance": "Complete manuscript and research-log text reviewed in the preceding continuation, with both current revisions reconfirmed. The owner lists a draft, no public URL and a March 1, 2027 planning date; the manuscript date remains pending. The log’s October build and factcheck dates precede its November reading dates, an unresolved provenance issue. This restoration-history essay is distinct from the existing essay about gaze and a large fresco; related images and adaptations are supporting material, not extra works."
   }
 ]
