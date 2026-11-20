@@ -3983,5 +3983,35 @@
     "expression": "RN’s draft distinguishes the association between beliefs and achievement from the effect of an intervention intended to change those beliefs. It compares two pooled analyses with a brief online intervention in United States secondary schools, explaining the differences among studies, samples and individual effect estimates. For readers assessing education claims, RN focuses on average results, lower-achieving students, school context and the limits of extending one short lesson into a universal programme.",
     "boundary": "Unpublished, release-held Ask a Neuroscientist draft intended for Fat Nugs Magazine. The source review is explicitly based on abstracts; full-text effect sizes were not read, and the older headline claim of about one percent is omitted. Subgroup and peer-context findings do not establish a general workplace or year-long programme effect. Strong-subgroup wording, causal interpretations of context and advice to target and measure need further source-owner review. Complete manuscript review is not independent scientific, statistical, disclosure or rights acceptance. No manuscript or publication link is exposed.",
     "provenance": "Complete manuscript and references were read in the preceding continuation. Current source revision and drafted owner record reconfirmed November 19, 2026; Fat Nugs routing, blank public URL and planning-date status retained."
+  },
+  {
+    "id": "left-brain-right-brain",
+    "title": "Left Brain, Right Brain",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "How did evidence that brain regions specialize become a story about two kinds of person?",
+    "expression": "RN’s draft traces the left-brain/right-brain personality story through historical language research, split-brain studies, a Nobel lecture and later brain-imaging work. For readers evaluating popular neuroscience, RN compares regional specialization with claims about a person’s overall thinking style. The essay also examines handedness, creativity and the limits of applying findings from people with surgically separated hemispheres to the general population.",
+    "boundary": "Unpublished, release-held Ask a Neuroscientist draft intended for Fat Nugs Magazine. The complete manuscript, captions and references have been read for this description; the underlying papers, historical quotations, translations, images and rights have not been independently cleared. The 1,011-person resting-network study discussed here did not measure personality or thinking style, so it is not a direct personality test. Split-brain interpretations remain disputed, and the creativity reviews do not establish a simple hemisphere-based rule. Survey-chart labels and comparisons still need review. No manuscript or publication link is supplied.",
+    "provenance": "Complete source reviewed in continuation112; current manuscript and drafted owner record reconfirmed November 19, 2026. The earlier creative-hemisphere title identifies the same work. The owner’s future date is a plan, and its public URL is blank."
+  },
+  {
+    "id": "why-does-a-room-go-still",
+    "title": "Why Does a Room Go Still?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What can measurements of an audience’s heart rhythms and facial expressions tell us about a shared experience?",
+    "expression": "RN’s draft compares a concert study of live and simultaneous livestream audiences with a theater study of facial-expression synchrony. For readers curious about collective attention, RN explains how researchers measure similarity between people over time, distinguishes heart-monitor participants from the broader questionnaire sample, and separates audience reports from a dramaturge’s predictions of engagement. The essay uses these differences to examine what a shared room might add while leaving its opening question about collective stillness unresolved.",
+    "boundary": "Unpublished, release-held Ask a Neuroscientist draft intended for Fat Nugs Magazine. The complete manuscript and references were read, but the underlying studies have not received a complete independent review in this recovery pass. Neither study directly measures shared stillness. Similar responses do not by themselves establish mutual influence, a common feeling or a cause of a room becoming quiet. A failure to detect a seating effect does not establish that seat location never matters. Stronger causal, seating and participant-comparison statements in the manuscript remain for source-owner review. Image and rights acceptance is not established. No manuscript or publication link is supplied.",
+    "provenance": "Complete 8,068-character manuscript reviewed in continuation113. Current source revision and drafted owner record reconfirmed November 19, 2026; Fat Nugs routing, blank public URL and planning-date status retained."
   }
 ]
