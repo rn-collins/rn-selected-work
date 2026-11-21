@@ -3790,6 +3790,28 @@
    },
    "series": "Cannabis Science",
    "disclaimer": "Education, not medical advice.",
+   "sound": [
+    {
+     "where": "Animated Reel (12:00)",
+     "what": "Kathleen Mavourneen (1906), Victor Instrumental Quartet (composer: Crouch, F. Nicholls)",
+     "credit": "Sound: Victor Instrumental Quartet, Kathleen Mavourneen (1906), Library of Congress National Jukebox, public domain",
+     "url": "https://www.loc.gov/item/jukebox-249331/",
+     "house_credit": "Sound logo: collettivocromocinque (radio aporee) and an Internet Archive uploader, public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "Patrick Lauser (CC0)"
+     ]
+    },
+    {
+     "where": "Slideshow Reel (15:00)",
+     "what": "Fountains on a sunday morning., Place Stéphanie, Bruxelles, Belgique (2026), Flavien Gillié (radio aporee)",
+     "credit": "Sound: Flavien Gillié, Fountains on a sunday morning. (2026), radio aporee / Internet Archive, public domain",
+     "url": "https://archive.org/details/aporee_36333_86074",
+     "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "David J. Ring, Jr. (N1EA) (CC0)"
+     ]
+    }
+   ],
    "research": [
     {
      "label": "Hourani W, Alexander SPH (2018), Cannabinoid ligands, receptors and enzymes: pharmacological tools and therapeutic potential, Brain and Neuroscience Advances 2:2398212818783908, doi 10.1177/2398212818783908, PMC7058259 (full text read Oct 30, 2026, Europe PMC, CC BY-NC 4.0)",
@@ -3868,7 +3890,16 @@
      "url": "https://www.rcsb.org/structure/12IZ"
     }
    ],
-   "other": [],
+   "other": [
+    {
+     "label": "Sound, Animated Reel (12:00): Sound: Victor Instrumental Quartet, Kathleen Mavourneen (1906), Library of Congress National Jukebox, public domain. Sound logo: collettivocromocinque (radio aporee) and an Internet Archive uploader, public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: Patrick Lauser (CC0).",
+     "url": "https://www.loc.gov/item/jukebox-249331/"
+    },
+    {
+     "label": "Sound, Slideshow Reel (15:00): Sound: Flavien Gillié, Fountains on a sunday morning. (2026), radio aporee / Internet Archive, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: David J. Ring, Jr. (N1EA) (CC0).",
+     "url": "https://archive.org/details/aporee_36333_86074"
+    }
+   ],
    "images": [
     {
      "where": "Slide 1",
@@ -4265,6 +4296,19 @@
    },
    "series": "MJBIZCON",
    "disclaimer": "Education, not medical advice.",
+   "sound": [
+    {
+     "where": "Slideshow Reel (15:00)",
+     "what": "traditional markets, 龜山區中和南路, Taoyuan City (2017), Wu,Tsan-Cheng (radio aporee)",
+     "credit": "Sound: Wu,Tsan-Cheng, traditional markets (2017), radio aporee / Internet Archive, CC BY 3.0",
+     "url": "https://archive.org/details/aporee_37489_42926",
+     "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "OR poiesis (radio aporee) (public domain)",
+      "an Internet Archive uploader (public domain)"
+     ]
+    }
+   ],
    "research": [
     {
      "label": "Zekveld, A. A., Koelewijn, T., & Kramer, S. E. (2018). The pupil dilation response to auditory stimuli: Current state of knowledge. Trends in Hearing, 22, 2331216518777174. doi 10.1177/2331216518777174. PMC6156203 (full text read Oct 30, 2026, Europe PMC, CC BY-NC 4.0).",
@@ -4307,6 +4351,10 @@
     {
      "label": "Seedless Media (Apr 28, 2026). MJBizCon 2026: The Insider Guide for Cannabis Pros. Third-party guide, not the organiser.",
      "url": "https://seedless.media/mjbizcon-2026-insider-guide-cannabis-pr/"
+    },
+    {
+     "label": "Sound, Slideshow Reel (15:00): Sound: Wu,Tsan-Cheng, traditional markets (2017), radio aporee / Internet Archive, CC BY 3.0. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); an Internet Archive uploader (public domain).",
+     "url": "https://archive.org/details/aporee_37489_42926"
     }
    ],
    "images": [
@@ -6382,13 +6430,13 @@
    "sound": [
     {
      "where": "Slideshow Reel (15:00)",
-     "what": "weavering factory, 107 Rue HLM 28, Dakar, Senegal (2020), stefanrummel (radio aporee)",
-     "credit": "Sound: stefanrummel, weavering factory (2020), radio aporee / Internet Archive, public domain",
-     "url": "https://archive.org/details/aporee_53877_61596",
+     "what": "village church dedicated to Saint Mary Magdalene, 1 Aire Naturelle, 11190 Rennes-le-Château, France (2025), kaoss012 (radio aporee)",
+     "credit": "Sound: kaoss012, village church dedicated to Saint Mary Magdalene (2025), radio aporee / Internet Archive, public domain",
+     "url": "https://archive.org/details/aporee_67097_77627",
      "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
      "effects_credits": [
       "OR poiesis (radio aporee) (public domain)",
-      "an Internet Archive uploader (public domain)"
+      "David J. Ring, Jr. (N1EA) (CC0)"
      ]
     }
    ],
@@ -6420,8 +6468,8 @@
      "url": "https://www.loc.gov/item/2023634442/"
     },
     {
-     "label": "Sound, Slideshow Reel (15:00): Sound: stefanrummel, weavering factory (2020), radio aporee / Internet Archive, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); an Internet Archive uploader (public domain).",
-     "url": "https://archive.org/details/aporee_53877_61596"
+     "label": "Sound, Slideshow Reel (15:00): Sound: kaoss012, village church dedicated to Saint Mary Magdalene (2025), radio aporee / Internet Archive, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
+     "url": "https://archive.org/details/aporee_67097_77627"
     }
    ],
    "images": [
@@ -6858,13 +6906,13 @@
    "sound": [
     {
      "where": "Slideshow Reel (15:00)",
-     "what": "Voyager 1 Jupiter Bowshock (1979), NASA",
-     "credit": "Sound: NASA, Voyager 1 Jupiter Bowshock (1979), Internet Archive, public domain",
-     "url": "https://archive.org/details/V1JupBowshock",
+     "what": "Cavalleria rusticana : Fantaisie (1904), Columbia Band (composer: Mascagni, Pietro)",
+     "credit": "Sound: Columbia Band, Cavalleria rusticana : Fantaisie (1904), Library of Congress National Jukebox, public domain",
+     "url": "https://www.loc.gov/item/jukebox-722963/",
      "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
      "effects_credits": [
       "OR poiesis (radio aporee) (public domain)",
-      "David J. Ring, Jr. (N1EA) (CC0)"
+      "an Internet Archive uploader (public domain)"
      ]
     }
    ],
@@ -6880,8 +6928,8 @@
    ],
    "other": [
     {
-     "label": "Sound, Slideshow Reel (15:00): Sound: NASA, Voyager 1 Jupiter Bowshock (1979), Internet Archive, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
-     "url": "https://archive.org/details/V1JupBowshock"
+     "label": "Sound, Slideshow Reel (15:00): Sound: Columbia Band, Cavalleria rusticana : Fantaisie (1904), Library of Congress National Jukebox, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); an Internet Archive uploader (public domain).",
+     "url": "https://www.loc.gov/item/jukebox-722963/"
     }
    ],
    "images": [
@@ -7253,9 +7301,9 @@
    "sound": [
     {
      "where": "Slideshow Reel (15:00)",
-     "what": "Musée de la dentelle - La machine à \"Wapper\", 1 Rue Sambor, 62100 Calais, France (2023), Jean-François CAVRO (radio aporee)",
-     "credit": "Sound: Jean-François CAVRO, Musée de la dentelle - La machine à \"Wapper\" (2023), radio aporee / Internet Archive, public domain",
-     "url": "https://archive.org/details/aporee_59723_68557",
+     "what": "TGV stuck and going back to Lyon Part-Dieu, 11 Rue de la Scierie, 38070 Saint-Quentin-Fallavier, France (2023), Flavien Gillié (radio aporee)",
+     "credit": "Sound: Flavien Gillié, TGV stuck and going back to Lyon Part-Dieu (2023), radio aporee / Internet Archive, public domain",
+     "url": "https://archive.org/details/aporee_59603_68426",
      "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
      "effects_credits": [
       "OR poiesis (radio aporee) (public domain)",
@@ -7279,8 +7327,8 @@
      "url": "https://wellcomecollection.org/works/w38bxm5s"
     },
     {
-     "label": "Sound, Slideshow Reel (15:00): Sound: Jean-François CAVRO, Musée de la dentelle - La machine à \"Wapper\" (2023), radio aporee / Internet Archive, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
-     "url": "https://archive.org/details/aporee_59723_68557"
+     "label": "Sound, Slideshow Reel (15:00): Sound: Flavien Gillié, TGV stuck and going back to Lyon Part-Dieu (2023), radio aporee / Internet Archive, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
+     "url": "https://archive.org/details/aporee_59603_68426"
     }
    ],
    "images": [
@@ -101402,14 +101450,26 @@
    "disclaimer": "Education, not medical advice.",
    "sound": [
     {
+     "where": "Animated Reel (12:00)",
+     "what": "Dominion Radio Astrophysical Observatory Okanagan-Similkameen D, BC, Canada - Introduction at the gate (2011), piercewar@gma... (radio aporee)",
+     "credit": "Sound: piercewar@gma..., Introduction at the gate (2011), radio aporee / Internet Archive, CC BY 3.0",
+     "url": "https://archive.org/details/aporee_16875_19658",
+     "house_credit": "Sound logo: collettivocromocinque (radio aporee) and an Internet Archive uploader, public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "OR poiesis (radio aporee) (public domain)",
+      "Patrick Lauser (CC0)",
+      "David J. Ring, Jr. (N1EA) (CC0)"
+     ]
+    },
+    {
      "where": "Slideshow Reel (15:00)",
-     "what": "Gipsy airs (1905), Strauss, Jessie (composer: Sarasate, Pablo de)",
-     "credit": "Sound: Strauss, Jessie, Gipsy airs (1905), Library of Congress National Jukebox, public domain",
-     "url": "https://www.loc.gov/item/jukebox-726477/",
+     "what": "57 Meadow Way, Didcot OX11 0AX, UK - pendulum wall clock ... (2021), david m (radio aporee)",
+     "credit": "Sound: david m, pendulum wall clock ... (2021), radio aporee / Internet Archive, CC BY 3.0",
+     "url": "https://archive.org/details/aporee_53155_60739",
      "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
      "effects_credits": [
       "OR poiesis (radio aporee) (public domain)",
-      "an Internet Archive uploader (public domain)"
+      "David J. Ring, Jr. (N1EA) (CC0)"
      ]
     }
    ],
@@ -101425,8 +101485,12 @@
    ],
    "other": [
     {
-     "label": "Sound, Slideshow Reel (15:00): Sound: Strauss, Jessie, Gipsy airs (1905), Library of Congress National Jukebox, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); an Internet Archive uploader (public domain).",
-     "url": "https://www.loc.gov/item/jukebox-726477/"
+     "label": "Sound, Animated Reel (12:00): Sound: piercewar@gma..., Introduction at the gate (2011), radio aporee / Internet Archive, CC BY 3.0. Sound logo: collettivocromocinque (radio aporee) and an Internet Archive uploader, public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); Patrick Lauser (CC0); David J. Ring, Jr. (N1EA) (CC0).",
+     "url": "https://archive.org/details/aporee_16875_19658"
+    },
+    {
+     "label": "Sound, Slideshow Reel (15:00): Sound: david m, pendulum wall clock ... (2021), radio aporee / Internet Archive, CC BY 3.0. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
+     "url": "https://archive.org/details/aporee_53155_60739"
     }
    ],
    "images": [
@@ -101770,6 +101834,30 @@
    "title": "What is MJBizCon? The 2026 floor by the numbers",
    "origin": null,
    "series": "MJBizCon",
+   "sound": [
+    {
+     "where": "Animated Reel (09:00)",
+     "what": "Poznan, R2 office basement, storage room - computer rack (2014), maciej janasik (radio aporee)",
+     "credit": "Sound: maciej janasik, computer rack (2014), radio aporee / Internet Archive, Public Domain Mark",
+     "url": "https://archive.org/details/aporee_23793_27647",
+     "house_credit": "Sound logo: David J. Ring, Jr. (N1EA), Internet Archive, CC0; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "A Clock in the Kingdom (CC0)",
+      "OR poiesis (radio aporee) (public domain)",
+      "Patrick Lauser (CC0)"
+     ]
+    },
+    {
+     "where": "Slideshow Reel (15:00)",
+     "what": "Joseph Haydn · String Quartet In DOp.645H363Lark · 04 · Finale Vivace (2012), Musopen (2012 Kickstarter release; performer not named on the IA page)",
+     "credit": "Sound: Musopen, Joseph Haydn · String Quartet In DOp.645H363Lark · 04 · Finale Vivace (2012), Internet Archive, Public Domain Mark",
+     "url": "https://archive.org/details/MusopenCollectionAsFlac",
+     "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "Michael Mol (public domain)"
+     ]
+    }
+   ],
    "research": [
     {
      "label": "Drug Enforcement Administration. (2026). Schedules of controlled substances: Rescheduling of Food and Drug Administration approved products containing marijuana from schedule I to schedule III; corresponding change to permit requirements. Federal Register, 91(81), 22714-22723 (AG Order No. 6754-2026; govinfo.gov PDF read in full Nov 7, 2026; public domain)",
@@ -101796,6 +101884,14 @@
     {
      "label": "MJBizCon, registration packages and show terms (organiser's page; read Nov 13, 2026, coordinator)",
      "url": "https://mjbizconference.com/registration-packages-pricing/"
+    },
+    {
+     "label": "Sound, Animated Reel (09:00): Sound: maciej janasik, computer rack (2014), radio aporee / Internet Archive, Public Domain Mark. Sound logo: David J. Ring, Jr. (N1EA), Internet Archive, CC0; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: A Clock in the Kingdom (CC0); OR poiesis (radio aporee) (public domain); Patrick Lauser (CC0).",
+     "url": "https://archive.org/details/aporee_23793_27647"
+    },
+    {
+     "label": "Sound, Slideshow Reel (15:00): Sound: Musopen, Joseph Haydn · String Quartet In DOp.645H363Lark · 04 · Finale Vivace (2012), Internet Archive, Public Domain Mark. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: Michael Mol (public domain).",
+     "url": "https://archive.org/details/MusopenCollectionAsFlac"
     }
    ],
    "images": [
@@ -102107,343 +102203,27 @@
    }
   },
   {
-   "slug": "mjbyb06",
-   "date": "2026-12-01",
-   "time": "09:00 HST",
-   "id": "MJBYB06",
-   "title": "Jet lag: why flying east is the harder shift for your body clock",
-   "origin": null,
-   "series": "MJBizCon",
-   "disclaimer": "Education, not medical advice.",
-   "research": [
-    {
-     "label": "Roach, G. D., & Sargent, C. (2019). Interventions to minimize jet lag after westward and eastward flight. Frontiers in Physiology, 10, 927 (full text read Nov 6, 2026, Europe PMC PMC6684967, CC BY)",
-     "url": "https://doi.org/10.3389/fphys.2019.00927"
-    },
-    {
-     "label": "Willoughby, A. R., Vallat, R., Ong, J. L., & Chee, M. W. L. (2025). Insights about travel-related sleep disruption from 1.5 million nights of data. SLEEP, 48(7), zsaf077 (full text read Nov 6, 2026, Europe PMC PMC12246376, CC BY-NC; facts only; one author is employed by and one advises Oura Health, which owns the data)",
-     "url": "https://doi.org/10.1093/sleep/zsaf077"
-    },
-    {
-     "label": "Janse van Rensburg, D. C., Jansen van Rensburg, A., Fowler, P. M., Bender, A. M., Stevens, D., Sullivan, K. O., Fullagar, H. H. K., Alonso, J. M., Biggins, M., Claassen-Smithers, A., Collins, R., Dohi, M., Driller, M. W., Dunican, I. C., Gupta, L., Halson, S. L., Lastella, M., Miles, K. H., Nedelec, M.,... Botha, T. (2021). Managing travel fatigue and jet lag in athletes: A review and consensus statement. Sports Medicine, 51(10), 2029-2050 (full text read Nov 6, 2026, Europe PMC PMC8279034, PMC open access subset; facts only)",
-     "url": "https://doi.org/10.1007/s40279-021-01502-0"
-    }
-   ],
-   "other": [
-    {
-     "label": "Image record: NASA (NASA image, public domain)",
-     "url": "https://images.nasa.gov/details/iss056e032756"
-    }
-   ],
-   "images": [
-    {
-     "where": "Slide 1",
-     "what": "The eastward panel of Roach and Sargent's Figure 2",
-     "credit": "Roach & Sargent (2019), cropped from Fig. 2B, CC BY",
-     "url": "https://doi.org/10.3389/fphys.2019.00927",
-     "card": false
-    },
-    {
-     "where": "Slide 2",
-     "what": "Roach GD et al. (2019), Figure 2: Desynchrony between the circadian system and the desired timing of sleep/wake immediately after time zone shifts to the west (A) and east (B) . In both panels, the sinusoid-shaped line represents core body temperature;... (Frontiers in physiology)",
-     "credit": "Roach GD et al. (2019), Frontiers in physiology, Figure 2 (CC BY)",
-     "url": "https://doi.org/10.3389/fphys.2019.00927",
-     "card": false
-    },
-    {
-     "where": "Slide 3",
-     "what": "Bars drawn to scale for this post, drawn in code by Claude, persona Phosphor terminal (draft): realignment hours per day by direction",
-     "credit": "Chart: Ask a Neuroscientist, from Janse van Rensburg et al. (2021) data",
-     "url": "https://doi.org/10.1007/s40279-021-01502-0",
-     "card": false
-    },
-    {
-     "where": "Slide 4",
-     "what": "From Roach and Sargent's section on the light phase response curve",
-     "credit": "Text: Roach & Sargent (2019), Frontiers in Physiology, CC BY 4.0",
-     "url": "https://doi.org/10.3389/fphys.2019.00927",
-     "card": false
-    },
-    {
-     "where": "Slide 5",
-     "what": "Roach GD et al. (2019), Figure 3: Re-entrainment of the circadian system to local time cues after time zone shifts to the west (A) and east (B) . In both panels, the solid sinusoid-shaped line with black inverted triangles represent core body... (Frontiers in physiology)",
-     "credit": "Roach GD et al. (2019), Frontiers in physiology, Figure 3 (CC BY)",
-     "url": "https://doi.org/10.3389/fphys.2019.00927",
-     "card": false
-    },
-    {
-     "where": "Slide 6",
-     "what": "Bars drawn to scale in days for this post, drawn in code by Claude, persona Phosphor terminal (draft): what recovered when",
-     "credit": "Chart: Ask a Neuroscientist, from Willoughby et al. (2025) data",
-     "url": "https://doi.org/10.1093/sleep/zsaf077",
-     "card": false
-    },
-    {
-     "where": "Slide 7",
-     "what": "NASA, Las Vegas from the International Space Station (ISS056-E-32756), photograph, 2018",
-     "credit": "NASA (NASA image, public domain)",
-     "url": "https://images.nasa.gov/details/iss056e032756",
-     "card": false
-    },
-    {
-     "where": "Story 1",
-     "what": "Number card made for this post",
-     "credit": "Willoughby et al. (2025), SLEEP",
-     "url": "https://doi.org/10.1093/sleep/zsaf077",
-     "card": true
-    },
-    {
-     "where": "Story 2",
-     "what": "Number card made for this post",
-     "credit": "Willoughby et al. (2025), SLEEP",
-     "url": "https://doi.org/10.1093/sleep/zsaf077",
-     "card": true
-    },
-    {
-     "where": "Story 3",
-     "what": "Light timing in Roach and Sargent's Figure 1",
-     "credit": "Roach & Sargent (2019), cropped from Fig. 1, CC BY",
-     "url": "https://doi.org/10.3389/fphys.2019.00927",
-     "card": false
-    }
-   ],
-   "region": "brainstem",
-   "extra": {
-    "last_checked": "2026-11-20",
-    "start_here": {
-     "summary": [
-      "Jet lag is a body clock out of step with local time: after flying west it must run later, after flying east it must run earlier.",
-      "A sports expert panel's rule of thumb says the clock catches up about 2 hours a day going west but only 1 hour a day going east.",
-      "Light timing decides the direction of the shift, and in 64,847 Oura ring trips, sleep length recovered in about 2 days while sleep timing had not by day 15."
-     ],
-     "how_sure": "moderate",
-     "how_sure_note": "The light-timing rules come from decades of lab work, but field tests of light for jet lag are few and mixed, the speeds are a rule of thumb, and the ring data come from one study tied to the ring maker.",
-     "reading_minutes": 4
-    },
-    "claims": [
-     {
-      "claim": "After a westward flight the body clock runs ahead of local time and must delay; after an eastward flight it runs behind and must advance.",
-      "source": "Roach, G. D., & Sargent, C. (2019)",
-      "where": "Section on adapting to a new time zone",
-      "study": "opinion article by two sleep researchers, citing lab studies"
-     },
-     {
-      "claim": "A sports expert panel's rule of thumb: the clock catches up about 2 hours a day going west, 1 hour a day going east.",
-      "source": "Janse van Rensburg, D. C., et al. (2021)",
-      "where": "Section on jet lag and re-entrainment; Fig. 2",
-      "study": "expert consensus statement, 26 authors"
-     },
-     {
-      "claim": "Light before your daily body temperature low pushes the clock later; light after it pushes the clock earlier.",
-      "source": "Roach, G. D., & Sargent, C. (2019)",
-      "where": "Section on the phase response to light; Fig. 1",
-      "study": "opinion article summarising lab phase-response studies"
-     },
-     {
-      "claim": "Soaking up daylight works well after flying west; after flying east it can push the wrong way.",
-      "source": "Roach, G. D., & Sargent, C. (2019)",
-      "where": "Section on maximising sunlight in a new time zone",
-      "study": "opinion article"
-     },
-     {
-      "claim": "Oura rings, 64,847 trips by 57,240 wearers: sleep length recovered in about 2 days; sleep timing had not by day 15. Two authors work with Oura.",
-      "source": "Willoughby, A. R., Vallat, R., Ong, J. L., & Chee, M. W. L. (2025)",
-      "where": "Methods, Results, Table 1; Disclosure statement",
-      "study": "observational study of wearable data, 64,847 trips"
-     }
-    ],
-    "annotations": [
-     {
-      "source": "Roach, G. D., & Sargent, C. (2019). Interventions to minimize jet lag after westward and eastward flight. Frontiers in Physiology, 10, 927",
-      "doi": "https://doi.org/10.3389/fphys.2019.00927",
-      "group": "review",
-      "note": "A short opinion article by two Australian sleep researchers on why westward and eastward jet lag need different plans, built on the phase response of the body clock to light. Limit: an opinion piece, and it says only a few field studies have tested light for jet lag, with mixed results.",
-      "funding": "Australian Research Council Discovery Project scheme (DP160104909).",
-      "conflicts": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
-     },
-     {
-      "source": "Willoughby, A. R., Vallat, R., Ong, J. L., & Chee, M. W. L. (2025). Insights about travel-related sleep disruption from 1.5 million nights of data. SLEEP, 48(7), zsaf077",
-      "doi": "https://doi.org/10.1093/sleep/zsaf077",
-      "group": "primary",
-      "note": "Sleep data from 15 days before and after 64,847 trips by 57,240 Oura ring users. Sleep length bounced back in about 2 days, sleep timing had not returned by day 15, and eastward trips across more zones were worst. Limits: observational, ring-estimated sleep, trips people chose themselves, and the data belong to Oura and are not shared.",
-      "funding": "Funds from the Yong Loo Lin School of Medicine and the Lee Foundation awarded to Dr Michael W.L. Chee.",
-      "conflicts": "MWLC is a member of the Oura Health Oy Medical Advisory Board; RV is a full-time employee of Oura Health Oy; ARW and JLO declare no competing interests."
-     },
-     {
-      "source": "Janse van Rensburg, D. C., et al. (2021). Managing travel fatigue and jet lag in athletes: A review and consensus statement. Sports Medicine, 51(10), 2029-2050",
-      "doi": "https://doi.org/10.1007/s40279-021-01502-0",
-      "group": "review",
-      "note": "A review and consensus statement on travel fatigue and jet lag in athletes by 26 sports medicine and sleep authors. It gives the rule of thumb of 0.5 days per time zone westward and 1 day per time zone eastward. Limit: a rule of thumb for average travellers, drawn from earlier studies, not a measured value for any one person.",
-      "funding": "No sources of funding were used to assist in the preparation of this article.",
-      "conflicts": "The authors declare that they have no conflicts of interest relevant to the content of this review."
-     }
-    ],
-    "could_be_wrong": [
-     {
-      "point": "Light advice for jet lag rests mostly on lab studies. The same paper notes that only a few field studies have tested light-based treatments for jet lag, and their results are equivocal.",
-      "source": "Roach and Sargent 2019",
-      "url": "https://doi.org/10.3389/fphys.2019.00927"
-     },
-     {
-      "point": "The catch-up speeds are averages, and sources differ. The CDC Yellow Book gives about 1.5 hours a day westward and 1 hour a day eastward, not 2 and 1.",
-      "source": "CDC Yellow Book, Jet Lag Disorder",
-      "url": "https://www.cdc.gov/yellow-book/hcp/travel-air-sea/jet-lag-disorder.html"
-     },
-     {
-      "point": "The ring study is observational and tied to the ring maker. Sleep was estimated by the ring, people chose their own trips, one author works for Oura and another advises it, and the data are not public.",
-      "source": "Willoughby et al. 2025",
-      "url": "https://doi.org/10.1093/sleep/zsaf077"
-     },
-     {
-      "point": "The post's last slide is our own reading for an East Coast traveller to Las Vegas; no study has tested it at a trade show.",
-      "source": "Ask a Neuroscientist (post text)",
-      "url": "https://doi.org/10.3389/fphys.2019.00927"
-     }
-    ],
-    "go_deeper": {
-     "new": [
-      {
-       "title": "Circadian Rhythms fact sheet (NIGMS, NIH)",
-       "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx",
-       "why": "A plain NIH primer on the body clock, including how jet lag and shift work throw it off."
-      },
-      {
-       "title": "Circadian Rhythm Disorders: causes and risk factors (NHLBI, NIH)",
-       "url": "https://www.nhlbi.nih.gov/health/circadian-rhythm-disorders/causes",
-       "why": "Explains why some people adjust more easily than others and who is most prone to jet lag disorder."
-      }
-     ],
-     "serious": [
-      {
-       "title": "Interventions to minimize jet lag after westward and eastward flight (Roach and Sargent, 2019, Frontiers in Physiology)",
-       "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2019.00927/full",
-       "why": "The short, open paper behind slides 2, 4 and 5, with its figure of how light timing shifts the clock."
-      },
-      {
-       "title": "The 2017 Nobel Prize in Physiology or Medicine, press release (NobelPrize.org)",
-       "url": "https://www.nobelprize.org/prizes/medicine/2017/press-release/",
-       "why": "How Hall, Rosbash and Young found the molecular gears of the body clock."
-      }
-     ],
-     "expert": [
-      {
-       "title": "Managing travel fatigue and jet lag in athletes: a review and consensus statement (Janse van Rensburg et al., 2021, Sports Medicine)",
-       "url": "https://link.springer.com/article/10.1007/s40279-021-01502-0",
-       "why": "The full consensus, with its tables on light, sleep and travel timing for teams."
-      },
-      {
-       "title": "Jet Lag Disorder (CDC Yellow Book, for health professionals)",
-       "url": "https://www.cdc.gov/yellow-book/hcp/travel-air-sea/jet-lag-disorder.html",
-       "why": "The CDC's clinical chapter, with adaptation rates and the sleep medicine guideline it follows; written for clinicians."
-      }
-     ]
-    },
-    "listen_watch": [],
-    "charts": [
-     {
-      "title": "Catch-up rate, rule of thumb (slide 3)",
-      "csv": "chart-catchup-rule-of-thumb.csv",
-      "source_table": "Janse van Rensburg et al. 2021, section on re-entrainment",
-      "file": "chart-catchup-rule-of-thumb.csv"
-     },
-     {
-      "title": "Days needed per time zone (Threads)",
-      "csv": "chart-days-per-zone.csv",
-      "source_table": "Janse van Rensburg et al. 2021, section on re-entrainment",
-      "file": "chart-days-per-zone.csv"
-     },
-     {
-      "title": "Sleep length versus sleep timing recovery (slide 6 and long form)",
-      "csv": "chart-willoughby-recovery.csv",
-      "source_table": "Willoughby et al. 2025, Results",
-      "file": "chart-willoughby-recovery.csv"
-     },
-     {
-      "title": "Trips by direction (X)",
-      "csv": "chart-willoughby-trips-by-direction.csv",
-      "source_table": "Willoughby et al. 2025, Table 1 (west and east are our sums of the table rows)",
-      "file": "chart-willoughby-trips-by-direction.csv"
-     },
-     {
-      "title": "Sleep lost on the travel day (Shorts cover)",
-      "csv": "chart-travel-day-sleep-loss.csv",
-      "source_table": "Willoughby et al. 2025, Results, Figure 1C values",
-      "file": "chart-travel-day-sleep-loss.csv"
-     },
-     {
-      "title": "The slow way round is east (long form)",
-      "csv": "chart-catchup-rate-longform.csv",
-      "source_table": "Eastman and Burgess 2009 (reporting Aschoff et al. 1975); Janse van Rensburg et al. 2021",
-      "file": "chart-catchup-rate-longform.csv"
-     }
-    ],
-    "glossary": [
-     {
-      "term": "Jet lag",
-      "plain": "Tiredness and poor sleep when the body clock is out of step with the local time after crossing time zones."
-     },
-     {
-      "term": "Body clock (circadian clock)",
-      "plain": "The brain's roughly 24-hour timer that sets when you feel sleepy, alert and hungry."
-     },
-     {
-      "term": "Phase delay",
-      "plain": "Shifting the body clock later, as needed after flying west."
-     },
-     {
-      "term": "Phase advance",
-      "plain": "Shifting the body clock earlier, as needed after flying east; most people find this harder."
-     },
-     {
-      "term": "Core body temperature low",
-      "plain": "The coolest point of your daily body temperature cycle, usually a few hours before you normally wake."
-     },
-     {
-      "term": "Phase response curve",
-      "plain": "A graph of how light at different times of day shifts the clock later or earlier."
-     },
-     {
-      "term": "Re-entrainment",
-      "plain": "The body clock resetting itself to the new local day."
-     },
-     {
-      "term": "Consensus statement",
-      "plain": "A paper in which a panel of experts agrees on advice based on the evidence they reviewed."
-     },
-     {
-      "term": "Cortisol",
-      "plain": "A hormone made by the adrenal glands and released in larger amounts during stress. It helps the body use sugar, protein and fat."
-     },
-     {
-      "term": "Hormone",
-      "plain": "A substance made by a gland that travels in the blood and changes how certain cells or organs work. Cortisol and melatonin are hormones."
-     },
-     {
-      "term": "REM sleep",
-      "plain": "The sleep stage with rapid eye movements and the most vivid dreams. THC reduces it in the short term."
-     },
-     {
-      "term": "Systematic review",
-      "plain": "A review that uses clear, planned methods to find, select and combine the results of all the studies on a clearly stated question. A meta-analysis is often part of one."
-     }
-    ],
-    "safety": {
-     "relevant": false,
-     "lines": [],
-     "note": "Education, not medical advice. The post gives no medicines or doses; ask a doctor before using sleep aids or melatonin for travel."
-    },
-    "corrections": []
-   }
-  },
-  {
    "slug": "mjbyb07",
-   "date": "2026-12-02",
+   "date": "2026-12-01",
    "time": "09:00 HST",
    "id": "MJBYB07",
    "title": "The first-night effect: why your first night in a new bed sleeps worse",
    "origin": null,
    "series": "MJBizCon",
    "disclaimer": "Education, not medical advice.",
+   "sound": [
+    {
+     "where": "Slideshow Reel (15:00)",
+     "what": "Sioulin Township, Hualien County - Sound of the waves (2014), Wu,Tsan-Cheng (radio aporee)",
+     "credit": "Sound: Wu,Tsan-Cheng, Sound of the waves (2014), radio aporee / Internet Archive, CC BY 3.0",
+     "url": "https://archive.org/details/aporee_24610_28549",
+     "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "OR poiesis (radio aporee) (public domain)",
+      "an Internet Archive uploader (public domain)"
+     ]
+    }
+   ],
    "research": [
     {
      "label": "Wick, A. Z., Combertaldi, S. L., & Rasch, B. (2024). The first-night effect of sleep occurs over nonconsecutive nights in unfamiliar and familiar environments. SLEEP, 47(10), zsae179 (full text read Nov 6, 2026, Europe PMC PMC11467056, CC BY-NC; facts only)",
@@ -102458,7 +102238,12 @@
      "url": "https://doi.org/10.1016/j.cub.2016.02.063"
     }
    ],
-   "other": [],
+   "other": [
+    {
+     "label": "Sound, Slideshow Reel (15:00): Sound: Wu,Tsan-Cheng, Sound of the waves (2014), radio aporee / Internet Archive, CC BY 3.0. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); an Internet Archive uploader (public domain).",
+     "url": "https://archive.org/details/aporee_24610_28549"
+    }
+   ],
    "images": [
     {
      "where": "Slide 1",
@@ -102804,6 +102589,368 @@
    }
   },
   {
+   "slug": "mjbyb06",
+   "date": "2026-12-02",
+   "time": "09:00 HST",
+   "id": "MJBYB06",
+   "title": "Jet lag: why flying east is the harder shift for your body clock",
+   "origin": null,
+   "series": "MJBizCon",
+   "disclaimer": "Education, not medical advice.",
+   "sound": [
+    {
+     "where": "Animated Reel (09:00)",
+     "what": "Tranquility (1906), Victor Instrumental Quartet (composer: Menzel, Fr.)",
+     "credit": "Sound: Victor Instrumental Quartet, Tranquility (1906), Library of Congress National Jukebox, public domain",
+     "url": "https://www.loc.gov/item/jukebox-123316/",
+     "house_credit": "Sound logo: David J. Ring, Jr. (N1EA), Internet Archive, CC0; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "Patrick Lauser (CC0)",
+      "OR poiesis (radio aporee) (public domain)",
+      "an Internet Archive uploader (public domain)"
+     ]
+    },
+    {
+     "where": "Slideshow Reel (15:00)",
+     "what": "Love's dreamland (1908), Columbia Band (composer: Roeder, Otto)",
+     "credit": "Sound: Columbia Band, Love's dreamland (1908), Library of Congress National Jukebox, public domain",
+     "url": "https://www.loc.gov/item/jukebox-763249/",
+     "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
+     "effects_credits": [
+      "OR poiesis (radio aporee) (public domain)",
+      "an Internet Archive uploader (public domain)"
+     ]
+    }
+   ],
+   "research": [
+    {
+     "label": "Roach, G. D., & Sargent, C. (2019). Interventions to minimize jet lag after westward and eastward flight. Frontiers in Physiology, 10, 927 (full text read Nov 6, 2026, Europe PMC PMC6684967, CC BY)",
+     "url": "https://doi.org/10.3389/fphys.2019.00927"
+    },
+    {
+     "label": "Willoughby, A. R., Vallat, R., Ong, J. L., & Chee, M. W. L. (2025). Insights about travel-related sleep disruption from 1.5 million nights of data. SLEEP, 48(7), zsaf077 (full text read Nov 6, 2026, Europe PMC PMC12246376, CC BY-NC; facts only; one author is employed by and one advises Oura Health, which owns the data)",
+     "url": "https://doi.org/10.1093/sleep/zsaf077"
+    },
+    {
+     "label": "Janse van Rensburg, D. C., Jansen van Rensburg, A., Fowler, P. M., Bender, A. M., Stevens, D., Sullivan, K. O., Fullagar, H. H. K., Alonso, J. M., Biggins, M., Claassen-Smithers, A., Collins, R., Dohi, M., Driller, M. W., Dunican, I. C., Gupta, L., Halson, S. L., Lastella, M., Miles, K. H., Nedelec, M.,... Botha, T. (2021). Managing travel fatigue and jet lag in athletes: A review and consensus statement. Sports Medicine, 51(10), 2029-2050 (full text read Nov 6, 2026, Europe PMC PMC8279034, PMC open access subset; facts only)",
+     "url": "https://doi.org/10.1007/s40279-021-01502-0"
+    }
+   ],
+   "other": [
+    {
+     "label": "Image record: NASA (NASA image, public domain)",
+     "url": "https://images.nasa.gov/details/iss056e032756"
+    },
+    {
+     "label": "Sound, Animated Reel (09:00): Sound: Victor Instrumental Quartet, Tranquility (1906), Library of Congress National Jukebox, public domain. Sound logo: David J. Ring, Jr. (N1EA), Internet Archive, CC0; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: Patrick Lauser (CC0); OR poiesis (radio aporee) (public domain); an Internet Archive uploader (public domain).",
+     "url": "https://www.loc.gov/item/jukebox-123316/"
+    },
+    {
+     "label": "Sound, Slideshow Reel (15:00): Sound: Columbia Band, Love's dreamland (1908), Library of Congress National Jukebox, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); an Internet Archive uploader (public domain).",
+     "url": "https://www.loc.gov/item/jukebox-763249/"
+    }
+   ],
+   "images": [
+    {
+     "where": "Slide 1",
+     "what": "The eastward panel of Roach and Sargent's Figure 2",
+     "credit": "Roach & Sargent (2019), cropped from Fig. 2B, CC BY",
+     "url": "https://doi.org/10.3389/fphys.2019.00927",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Roach GD et al. (2019), Figure 2: Desynchrony between the circadian system and the desired timing of sleep/wake immediately after time zone shifts to the west (A) and east (B) . In both panels, the sinusoid-shaped line represents core body temperature;... (Frontiers in physiology)",
+     "credit": "Roach GD et al. (2019), Frontiers in physiology, Figure 2 (CC BY)",
+     "url": "https://doi.org/10.3389/fphys.2019.00927",
+     "card": false
+    },
+    {
+     "where": "Slide 3",
+     "what": "Bars drawn to scale for this post, drawn in code by Claude, persona Phosphor terminal (draft): realignment hours per day by direction",
+     "credit": "Chart: Ask a Neuroscientist, from Janse van Rensburg et al. (2021) data",
+     "url": "https://doi.org/10.1007/s40279-021-01502-0",
+     "card": false
+    },
+    {
+     "where": "Slide 4",
+     "what": "From Roach and Sargent's section on the light phase response curve",
+     "credit": "Text: Roach & Sargent (2019), Frontiers in Physiology, CC BY 4.0",
+     "url": "https://doi.org/10.3389/fphys.2019.00927",
+     "card": false
+    },
+    {
+     "where": "Slide 5",
+     "what": "Roach GD et al. (2019), Figure 3: Re-entrainment of the circadian system to local time cues after time zone shifts to the west (A) and east (B) . In both panels, the solid sinusoid-shaped line with black inverted triangles represent core body... (Frontiers in physiology)",
+     "credit": "Roach GD et al. (2019), Frontiers in physiology, Figure 3 (CC BY)",
+     "url": "https://doi.org/10.3389/fphys.2019.00927",
+     "card": false
+    },
+    {
+     "where": "Slide 6",
+     "what": "Bars drawn to scale in days for this post, drawn in code by Claude, persona Phosphor terminal (draft): what recovered when",
+     "credit": "Chart: Ask a Neuroscientist, from Willoughby et al. (2025) data",
+     "url": "https://doi.org/10.1093/sleep/zsaf077",
+     "card": false
+    },
+    {
+     "where": "Slide 7",
+     "what": "NASA, Las Vegas from the International Space Station (ISS056-E-32756), photograph, 2018",
+     "credit": "NASA (NASA image, public domain)",
+     "url": "https://images.nasa.gov/details/iss056e032756",
+     "card": false
+    },
+    {
+     "where": "Story 1",
+     "what": "Number card made for this post",
+     "credit": "Willoughby et al. (2025), SLEEP",
+     "url": "https://doi.org/10.1093/sleep/zsaf077",
+     "card": true
+    },
+    {
+     "where": "Story 2",
+     "what": "Number card made for this post",
+     "credit": "Willoughby et al. (2025), SLEEP",
+     "url": "https://doi.org/10.1093/sleep/zsaf077",
+     "card": true
+    },
+    {
+     "where": "Story 3",
+     "what": "Light timing in Roach and Sargent's Figure 1",
+     "credit": "Roach & Sargent (2019), cropped from Fig. 1, CC BY",
+     "url": "https://doi.org/10.3389/fphys.2019.00927",
+     "card": false
+    }
+   ],
+   "region": "brainstem",
+   "extra": {
+    "last_checked": "2026-11-20",
+    "start_here": {
+     "summary": [
+      "Jet lag is a body clock out of step with local time: after flying west it must run later, after flying east it must run earlier.",
+      "A sports expert panel's rule of thumb says the clock catches up about 2 hours a day going west but only 1 hour a day going east.",
+      "Light timing decides the direction of the shift, and in 64,847 Oura ring trips, sleep length recovered in about 2 days while sleep timing had not by day 15."
+     ],
+     "how_sure": "moderate",
+     "how_sure_note": "The light-timing rules come from decades of lab work, but field tests of light for jet lag are few and mixed, the speeds are a rule of thumb, and the ring data come from one study tied to the ring maker.",
+     "reading_minutes": 4
+    },
+    "claims": [
+     {
+      "claim": "After a westward flight the body clock runs ahead of local time and must delay; after an eastward flight it runs behind and must advance.",
+      "source": "Roach, G. D., & Sargent, C. (2019)",
+      "where": "Section on adapting to a new time zone",
+      "study": "opinion article by two sleep researchers, citing lab studies"
+     },
+     {
+      "claim": "A sports expert panel's rule of thumb: the clock catches up about 2 hours a day going west, 1 hour a day going east.",
+      "source": "Janse van Rensburg, D. C., et al. (2021)",
+      "where": "Section on jet lag and re-entrainment; Fig. 2",
+      "study": "expert consensus statement, 26 authors"
+     },
+     {
+      "claim": "Light before your daily body temperature low pushes the clock later; light after it pushes the clock earlier.",
+      "source": "Roach, G. D., & Sargent, C. (2019)",
+      "where": "Section on the phase response to light; Fig. 1",
+      "study": "opinion article summarising lab phase-response studies"
+     },
+     {
+      "claim": "Soaking up daylight works well after flying west; after flying east it can push the wrong way.",
+      "source": "Roach, G. D., & Sargent, C. (2019)",
+      "where": "Section on maximising sunlight in a new time zone",
+      "study": "opinion article"
+     },
+     {
+      "claim": "Oura rings, 64,847 trips by 57,240 wearers: sleep length recovered in about 2 days; sleep timing had not by day 15. Two authors work with Oura.",
+      "source": "Willoughby, A. R., Vallat, R., Ong, J. L., & Chee, M. W. L. (2025)",
+      "where": "Methods, Results, Table 1; Disclosure statement",
+      "study": "observational study of wearable data, 64,847 trips"
+     }
+    ],
+    "annotations": [
+     {
+      "source": "Roach, G. D., & Sargent, C. (2019). Interventions to minimize jet lag after westward and eastward flight. Frontiers in Physiology, 10, 927",
+      "doi": "https://doi.org/10.3389/fphys.2019.00927",
+      "group": "review",
+      "note": "A short opinion article by two Australian sleep researchers on why westward and eastward jet lag need different plans, built on the phase response of the body clock to light. Limit: an opinion piece, and it says only a few field studies have tested light for jet lag, with mixed results.",
+      "funding": "Australian Research Council Discovery Project scheme (DP160104909).",
+      "conflicts": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+     },
+     {
+      "source": "Willoughby, A. R., Vallat, R., Ong, J. L., & Chee, M. W. L. (2025). Insights about travel-related sleep disruption from 1.5 million nights of data. SLEEP, 48(7), zsaf077",
+      "doi": "https://doi.org/10.1093/sleep/zsaf077",
+      "group": "primary",
+      "note": "Sleep data from 15 days before and after 64,847 trips by 57,240 Oura ring users. Sleep length bounced back in about 2 days, sleep timing had not returned by day 15, and eastward trips across more zones were worst. Limits: observational, ring-estimated sleep, trips people chose themselves, and the data belong to Oura and are not shared.",
+      "funding": "Funds from the Yong Loo Lin School of Medicine and the Lee Foundation awarded to Dr Michael W.L. Chee.",
+      "conflicts": "MWLC is a member of the Oura Health Oy Medical Advisory Board; RV is a full-time employee of Oura Health Oy; ARW and JLO declare no competing interests."
+     },
+     {
+      "source": "Janse van Rensburg, D. C., et al. (2021). Managing travel fatigue and jet lag in athletes: A review and consensus statement. Sports Medicine, 51(10), 2029-2050",
+      "doi": "https://doi.org/10.1007/s40279-021-01502-0",
+      "group": "review",
+      "note": "A review and consensus statement on travel fatigue and jet lag in athletes by 26 sports medicine and sleep authors. It gives the rule of thumb of 0.5 days per time zone westward and 1 day per time zone eastward. Limit: a rule of thumb for average travellers, drawn from earlier studies, not a measured value for any one person.",
+      "funding": "No sources of funding were used to assist in the preparation of this article.",
+      "conflicts": "The authors declare that they have no conflicts of interest relevant to the content of this review."
+     }
+    ],
+    "could_be_wrong": [
+     {
+      "point": "Light advice for jet lag rests mostly on lab studies. The same paper notes that only a few field studies have tested light-based treatments for jet lag, and their results are equivocal.",
+      "source": "Roach and Sargent 2019",
+      "url": "https://doi.org/10.3389/fphys.2019.00927"
+     },
+     {
+      "point": "The catch-up speeds are averages, and sources differ. The CDC Yellow Book gives about 1.5 hours a day westward and 1 hour a day eastward, not 2 and 1.",
+      "source": "CDC Yellow Book, Jet Lag Disorder",
+      "url": "https://www.cdc.gov/yellow-book/hcp/travel-air-sea/jet-lag-disorder.html"
+     },
+     {
+      "point": "The ring study is observational and tied to the ring maker. Sleep was estimated by the ring, people chose their own trips, one author works for Oura and another advises it, and the data are not public.",
+      "source": "Willoughby et al. 2025",
+      "url": "https://doi.org/10.1093/sleep/zsaf077"
+     },
+     {
+      "point": "The post's last slide is our own reading for an East Coast traveller to Las Vegas; no study has tested it at a trade show.",
+      "source": "Ask a Neuroscientist (post text)",
+      "url": "https://doi.org/10.3389/fphys.2019.00927"
+     }
+    ],
+    "go_deeper": {
+     "new": [
+      {
+       "title": "Circadian Rhythms fact sheet (NIGMS, NIH)",
+       "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx",
+       "why": "A plain NIH primer on the body clock, including how jet lag and shift work throw it off."
+      },
+      {
+       "title": "Circadian Rhythm Disorders: causes and risk factors (NHLBI, NIH)",
+       "url": "https://www.nhlbi.nih.gov/health/circadian-rhythm-disorders/causes",
+       "why": "Explains why some people adjust more easily than others and who is most prone to jet lag disorder."
+      }
+     ],
+     "serious": [
+      {
+       "title": "Interventions to minimize jet lag after westward and eastward flight (Roach and Sargent, 2019, Frontiers in Physiology)",
+       "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2019.00927/full",
+       "why": "The short, open paper behind slides 2, 4 and 5, with its figure of how light timing shifts the clock."
+      },
+      {
+       "title": "The 2017 Nobel Prize in Physiology or Medicine, press release (NobelPrize.org)",
+       "url": "https://www.nobelprize.org/prizes/medicine/2017/press-release/",
+       "why": "How Hall, Rosbash and Young found the molecular gears of the body clock."
+      }
+     ],
+     "expert": [
+      {
+       "title": "Managing travel fatigue and jet lag in athletes: a review and consensus statement (Janse van Rensburg et al., 2021, Sports Medicine)",
+       "url": "https://link.springer.com/article/10.1007/s40279-021-01502-0",
+       "why": "The full consensus, with its tables on light, sleep and travel timing for teams."
+      },
+      {
+       "title": "Jet Lag Disorder (CDC Yellow Book, for health professionals)",
+       "url": "https://www.cdc.gov/yellow-book/hcp/travel-air-sea/jet-lag-disorder.html",
+       "why": "The CDC's clinical chapter, with adaptation rates and the sleep medicine guideline it follows; written for clinicians."
+      }
+     ]
+    },
+    "listen_watch": [],
+    "charts": [
+     {
+      "title": "Catch-up rate, rule of thumb (slide 3)",
+      "csv": "chart-catchup-rule-of-thumb.csv",
+      "source_table": "Janse van Rensburg et al. 2021, section on re-entrainment",
+      "file": "chart-catchup-rule-of-thumb.csv"
+     },
+     {
+      "title": "Days needed per time zone (Threads)",
+      "csv": "chart-days-per-zone.csv",
+      "source_table": "Janse van Rensburg et al. 2021, section on re-entrainment",
+      "file": "chart-days-per-zone.csv"
+     },
+     {
+      "title": "Sleep length versus sleep timing recovery (slide 6 and long form)",
+      "csv": "chart-willoughby-recovery.csv",
+      "source_table": "Willoughby et al. 2025, Results",
+      "file": "chart-willoughby-recovery.csv"
+     },
+     {
+      "title": "Trips by direction (X)",
+      "csv": "chart-willoughby-trips-by-direction.csv",
+      "source_table": "Willoughby et al. 2025, Table 1 (west and east are our sums of the table rows)",
+      "file": "chart-willoughby-trips-by-direction.csv"
+     },
+     {
+      "title": "Sleep lost on the travel day (Shorts cover)",
+      "csv": "chart-travel-day-sleep-loss.csv",
+      "source_table": "Willoughby et al. 2025, Results, Figure 1C values",
+      "file": "chart-travel-day-sleep-loss.csv"
+     },
+     {
+      "title": "The slow way round is east (long form)",
+      "csv": "chart-catchup-rate-longform.csv",
+      "source_table": "Eastman and Burgess 2009 (reporting Aschoff et al. 1975); Janse van Rensburg et al. 2021",
+      "file": "chart-catchup-rate-longform.csv"
+     }
+    ],
+    "glossary": [
+     {
+      "term": "Jet lag",
+      "plain": "Tiredness and poor sleep when the body clock is out of step with the local time after crossing time zones."
+     },
+     {
+      "term": "Body clock (circadian clock)",
+      "plain": "The brain's roughly 24-hour timer that sets when you feel sleepy, alert and hungry."
+     },
+     {
+      "term": "Phase delay",
+      "plain": "Shifting the body clock later, as needed after flying west."
+     },
+     {
+      "term": "Phase advance",
+      "plain": "Shifting the body clock earlier, as needed after flying east; most people find this harder."
+     },
+     {
+      "term": "Core body temperature low",
+      "plain": "The coolest point of your daily body temperature cycle, usually a few hours before you normally wake."
+     },
+     {
+      "term": "Phase response curve",
+      "plain": "A graph of how light at different times of day shifts the clock later or earlier."
+     },
+     {
+      "term": "Re-entrainment",
+      "plain": "The body clock resetting itself to the new local day."
+     },
+     {
+      "term": "Consensus statement",
+      "plain": "A paper in which a panel of experts agrees on advice based on the evidence they reviewed."
+     },
+     {
+      "term": "Cortisol",
+      "plain": "A hormone made by the adrenal glands and released in larger amounts during stress. It helps the body use sugar, protein and fat."
+     },
+     {
+      "term": "Hormone",
+      "plain": "A substance made by a gland that travels in the blood and changes how certain cells or organs work. Cortisol and melatonin are hormones."
+     },
+     {
+      "term": "REM sleep",
+      "plain": "The sleep stage with rapid eye movements and the most vivid dreams. THC reduces it in the short term."
+     },
+     {
+      "term": "Systematic review",
+      "plain": "A review that uses clear, planned methods to find, select and combine the results of all the studies on a clearly stated question. A meta-analysis is often part of one."
+     }
+    ],
+    "safety": {
+     "relevant": false,
+     "lines": [],
+     "note": "Education, not medical advice. The post gives no medicines or doses; ask a doctor before using sleep aids or melatonin for travel."
+    },
+    "corrections": []
+   }
+  },
+  {
    "slug": "mjbex14",
    "date": "2026-12-03",
    "time": "09:00 HST",
@@ -102815,13 +102962,13 @@
    "sound": [
     {
      "where": "Slideshow Reel (15:00)",
-     "what": "Long, long ago (1902), Schweinfest, George (composer: Bayly, Thomas Haynes)",
-     "credit": "Sound: Schweinfest, George, Long, long ago (1902), Library of Congress National Jukebox, public domain",
-     "url": "https://www.loc.gov/item/jukebox-718082/",
+     "what": "Rainy Day, 青蛙ㄚ 婆的家, Puli Township (2015), Wu,Tsan-Cheng (radio aporee)",
+     "credit": "Sound: Wu,Tsan-Cheng, Rainy Day (2015), radio aporee / Internet Archive, CC BY 3.0",
+     "url": "https://archive.org/details/aporee_27829_32073",
      "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
      "effects_credits": [
       "OR poiesis (radio aporee) (public domain)",
-      "David J. Ring, Jr. (N1EA) (CC0)"
+      "an Internet Archive uploader (public domain)"
      ]
     }
    ],
@@ -102877,8 +103024,8 @@
      "url": "https://mjbizconference.com/show-overview/"
     },
     {
-     "label": "Sound, Slideshow Reel (15:00): Sound: Schweinfest, George, Long, long ago (1902), Library of Congress National Jukebox, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
-     "url": "https://www.loc.gov/item/jukebox-718082/"
+     "label": "Sound, Slideshow Reel (15:00): Sound: Wu,Tsan-Cheng, Rainy Day (2015), radio aporee / Internet Archive, CC BY 3.0. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); an Internet Archive uploader (public domain).",
+     "url": "https://archive.org/details/aporee_27829_32073"
     }
    ],
    "images": [
@@ -103309,9 +103456,9 @@
    "sound": [
     {
      "where": "Slideshow Reel (15:00)",
-     "what": "Passage d’un train… simplement écouter, Palaiseau, Île-de-France, France (2026), antoine.ac (radio aporee)",
-     "credit": "Sound: antoine.ac, Passage d’un train… simplement écouter (2026), radio aporee / Internet Archive, public domain",
-     "url": "https://archive.org/details/aporee_73907_86441",
+     "what": "Mechanical Birdcall, Köln, Nordrhein-Westfalen, Deutschland (2026), soundinfo (radio aporee)",
+     "credit": "Sound: soundinfo, Mechanical Birdcall (2026), radio aporee / Internet Archive, public domain",
+     "url": "https://archive.org/details/aporee_73462_85854",
      "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
      "effects_credits": [
       "OR poiesis (radio aporee) (public domain)",
@@ -103399,8 +103546,8 @@
      "url": "https://www.flickr.com/photos/95142644@N00/51972271434"
     },
     {
-     "label": "Sound, Slideshow Reel (15:00): Sound: antoine.ac, Passage d’un train… simplement écouter (2026), radio aporee / Internet Archive, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
-     "url": "https://archive.org/details/aporee_73907_86441"
+     "label": "Sound, Slideshow Reel (15:00): Sound: soundinfo, Mechanical Birdcall (2026), radio aporee / Internet Archive, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
+     "url": "https://archive.org/details/aporee_73462_85854"
     }
    ],
    "images": [
@@ -103775,9 +103922,9 @@
    "sound": [
     {
      "where": "Slideshow Reel (15:00)",
-     "what": "Golden memories (1925), Manhattan Dance Makers (composer: Stevens, Robert L.)",
-     "credit": "Sound: Manhattan Dance Makers, Golden memories (1925), Library of Congress National Jukebox, public domain",
-     "url": "https://www.loc.gov/item/jukebox-675775/",
+     "what": "Carillon Cornille Havard, Villedieu-les-Poêles-Rouffigny, Normandie, France (2026), Nicolas Germain (radio aporee)",
+     "credit": "Sound: Nicolas Germain, Carillon Cornille Havard (2026), radio aporee / Internet Archive, public domain",
+     "url": "https://archive.org/details/aporee_73958_86507",
      "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
      "effects_credits": [
       "OR poiesis (radio aporee) (public domain)",
@@ -103833,8 +103980,8 @@
      "url": "https://www.flickr.com/photos/92416586@N05/15204258691"
     },
     {
-     "label": "Sound, Slideshow Reel (15:00): Sound: Manhattan Dance Makers, Golden memories (1925), Library of Congress National Jukebox, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
-     "url": "https://www.loc.gov/item/jukebox-675775/"
+     "label": "Sound, Slideshow Reel (15:00): Sound: Nicolas Germain, Carillon Cornille Havard (2026), radio aporee / Internet Archive, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
+     "url": "https://archive.org/details/aporee_73958_86507"
     }
    ],
    "images": [
@@ -104315,13 +104462,13 @@
    "sound": [
     {
      "where": "Slideshow Reel (15:00)",
-     "what": "Carillon, Dunkerque, France - Carillon of the Beffroi, Dunkerque, 3 p.m. (2013), fotoralf@... (radio aporee)",
-     "credit": "Sound: fotoralf@..., Carillon of the Beffroi, Dunkerque, 3 p.m. (2013), radio aporee / Internet Archive, CC BY 3.0",
-     "url": "https://archive.org/details/aporee_30219_34787",
+     "what": "The herd girl's dream, El sueño de la pastora, Der pashtushke's traum (דער פאסטעכינס טרוים) (1908), Stehl, George (composer: Labitzky, August)",
+     "credit": "Sound: Stehl, George, The herd girl's dream, El sueño de la pastora, Der pashtushke's traum (דער פאסטעכינס טרוים) (1908), Library of Congress National Jukebox, public domain",
+     "url": "https://www.loc.gov/item/jukebox-730595/",
      "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
      "effects_credits": [
       "OR poiesis (radio aporee) (public domain)",
-      "David J. Ring, Jr. (N1EA) (CC0)"
+      "an Internet Archive uploader (public domain)"
      ]
     }
    ],
@@ -104349,8 +104496,8 @@
    ],
    "other": [
     {
-     "label": "Sound, Slideshow Reel (15:00): Sound: fotoralf@..., Carillon of the Beffroi, Dunkerque, 3 p.m. (2013), radio aporee / Internet Archive, CC BY 3.0. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
-     "url": "https://archive.org/details/aporee_30219_34787"
+     "label": "Sound, Slideshow Reel (15:00): Sound: Stehl, George, The herd girl's dream, El sueño de la pastora, Der pashtushke's traum (דער פאסטעכינס טרוים) (1908), Library of Congress National Jukebox, public domain. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); an Internet Archive uploader (public domain).",
+     "url": "https://www.loc.gov/item/jukebox-730595/"
     }
    ],
    "images": [
