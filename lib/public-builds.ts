@@ -228,7 +228,7 @@ const publicBuildRecords: PublicBuild[] = [
     category: "Science communication + education",
     practice: "Ask a Neuroscientist",
     status: "Live · series publishing from October 2026",
-    purpose: "Explain how people, places, plants and ideas act on the brain, with the mechanism and the sources for every claim.",
+    purpose: "Explain how people, places, plants and everyday things act on the brain, with the mechanism and the sources for every claim.",
     noticed: "A post about what a plant does to the brain has room for a claim and almost nothing else: not the receptor it acts on, not the interaction that makes it dangerous with a prescription, not the law where the reader lives. The link under the post used to lead to the same words again, animated, and nothing more.",
     built: "A companion site whose public archive is the Fat Nugs series. Each page carries what the piece found, its sources, and a link to the original. Readers can send a question.",
     serves: "Readers of the Ask a Neuroscientist posts who want the mechanism, the warning and the sources behind a post.",
