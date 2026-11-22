@@ -4513,5 +4513,20 @@
     "parentId": "herbal-histories",
     "releaseHeld": true,
     "holdScope": "derivatives"
+  },
+  {
+    "id": "word-of-the-week-neurotransmitter",
+    "title": "Word of the Week: Neurotransmitter",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "How can readers understand a neurotransmitter by following the cells that release it and the receptors that receive it?",
+    "expression": "RN’s Ask a Neuroscientist glossary explainer follows acetylcholine from packaging inside a nerve cell to release and reception by other cells. For general readers encountering neuroscience terminology, RN connects a short definition with worm nerve-to-muscle experiments, human protein structures and the different ways receptors respond. Her contribution is educational framing, research synthesis and explanatory writing. The recovered work combines a long-form draft, a six-slide teaching sequence, source notes and social and video scripts. It distinguishes observations in worms from evidence about a human brain, and isolated protein structures from a working connection between cells. These adaptations support one editorial work.",
+    "boundary": "Draft editorial work with prepared supporting material; schedule dates differ between records. The source package reports image preparation and fact checks, but this portfolio review has not independently verified the scientific claims, rendered structures, figures or reuse rights. Two cited structure papers were not fully read during source preparation, and the muscle-receptor image represents a desensitized state, not a channel captured open. The explanation of how the messenger is cleared still needs review. Scripts do not establish recorded video, and the proposed interactive remains a candidate. The essay and its adaptations remain held together, without public draft or media links.",
+    "provenance": "Complete manuscript, research, dossier and image-audit text reviewed in the preceding intake; relevant package fields reconciled. Manuscript revision checked November 22, 2026. The current editorial catalogue’s complete data and existing gallery were searched for duplicate title, term and package identifiers. Source fact-check labels are not independent science, visual or rights acceptance."
   }
 ]
