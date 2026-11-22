@@ -27,6 +27,8 @@ export const metadata: Metadata = {
     siteName: "RN Selected Work",
   },
   twitter: { card: "summary_large_image" },
+  // Pinterest site claim for RN's Pinterest (Renaissance Woman 3000), Nov 21, 2026.
+  other: { "p:domain_verify": "c7c5e406829bf0ef0998229d5e81809b" },
 };
 
 export const viewport: Viewport = {
