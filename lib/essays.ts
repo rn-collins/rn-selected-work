@@ -93,7 +93,7 @@ export function essayRobots() {
 }
 
 // Open Graph and Twitter cards for the essay pages. The image is the site-wide card (app/opengraph-image.tsx).
-const shareImage = { url: "/opengraph-image", width: 1200, height: 630, alt: "RN Selected Work by Rayven-Nikkita Collins" };
+const shareImage = { url: "/opengraph-image", width: 1200, height: 630, alt: "RN Selected Work by RN Collins" };
 export function essayShare(title: string, description: string, path: string, type: "article" | "website", extra: { authors?: string[]; publishedTime?: string } = {}) {
   return {
     openGraph: { title, description, type, url: path, siteName: "RN Selected Work", images: [shareImage], ...extra },

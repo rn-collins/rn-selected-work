@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "RN Selected Work by Rayven-Nikkita Collins";
+export const alt = "RN Selected Work by RN Collins";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -28,7 +28,7 @@ export default function OpenGraphImage() {
         <div style={{ display: "flex", fontFamily: "serif", fontSize: 104, lineHeight: 0.92, letterSpacing: "-0.055em", color: "#db5c48" }}>for a single discipline.</div>
       </div>
       <div style={{ display: "flex", justifyContent: "space-between", fontSize: 25 }}>
-        <div style={{ display: "flex" }}>Rayven-Nikkita (RN) Collins</div>
+        <div style={{ display: "flex" }}>RN Collins</div>
         <div style={{ display: "flex" }}>Research · systems · working builds</div>
       </div>
     </div>,

@@ -7,7 +7,7 @@ import { builds } from "../../lib/builds";
 export const metadata: Metadata = {
   title: "About RN",
   description:
-    "Rayven-Nikkita (RN) Collins, neuroscientist, knowledge content creator, and builder. Chair of FlexJD Interests, Student Bar Association, Northeastern University School of Law, Class of 2029.",
+    "RN Collins, neuroscientist, knowledge content creator, and builder. Chair of FlexJD Interests, Student Bar Association, Northeastern University School of Law, Class of 2029.",
   alternates: { canonical: "/about" },
 };
 
@@ -22,7 +22,7 @@ export default function Page() {
           <em>across the boundaries.</em>
         </h1>
         <p>
-          Rayven-Nikkita (RN) Collins is a neuroscientist, knowledge content
+          RN Collins is a neuroscientist, knowledge content
           creator, and builder in Honolulu, Hawaiʻi. She is Chair of FlexJD
           Interests, Student Bar Association, Northeastern University School of
           Law, Class of 2029.
@@ -34,7 +34,7 @@ export default function Page() {
           <figure className="caseImage portrait">
             <Image
               src="/rn-collins-portrait.svg"
-              alt="Rayven-Nikkita (RN) Collins"
+              alt="RN Collins"
               width={1122}
               height={1402}
               sizes="(max-width: 800px) 100vw, 38vw"

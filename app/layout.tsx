@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://rn-selected-work.vercel.app"),
   title: { default: "RN Selected Work", template: "%s | RN Selected Work" },
   description:
-    "Builds, research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.",
+    "Builds, research, institutional frameworks, working systems, public resources, and published analysis by RN Collins.",
   applicationName: "RN Selected Work",
   manifest: "/site.webmanifest",
   // Every page carries the full favicon set (RN's standing rule, Nov 20, 2026); scripts/check-favicons.mjs fails the

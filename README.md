@@ -1,7 +1,7 @@
 # Selected Work — RN Collins
 
 Selected research, institutional frameworks, working systems, public resources, and
-published analysis by Rayven-Nikkita (RN) Collins.
+published analysis by RN Collins.
 
 Public portfolio: https://rn-selected-work.vercel.app
 Complete build index: https://rn-selected-work.vercel.app/builds

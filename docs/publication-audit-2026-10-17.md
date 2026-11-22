@@ -11,6 +11,6 @@ Additional publisher cross-check: https://journalofbiophilicdesign.com/contribut
 
 ## Daily Pennsylvanian addition
 
-RN confirmed authorship of the Nikkita Collins archive on October 17, 2026 and requested links or full text without requiring displayed dates. Added all 29 distinct article titles and publisher URLs from both pages of the publisher author search. The archive now contains 129 publication records. These entries link to the publisher full text; no full-text copies or publisher images were imported. A year remains in source metadata, but dates are hidden on these entries. The homepage includes the outlet, three representative articles, and a link to all 29.
+RN confirmed authorship of the Daily Pennsylvanian archive under an earlier byline on October 17, 2026 and requested links or full text without requiring displayed dates. Added all 29 distinct article titles and publisher URLs from both pages of the publisher author search. The archive now contains 129 publication records. These entries link to the publisher full text; no full-text copies or publisher images were imported. A year remains in source metadata, but dates are hidden on these entries. The homepage includes the outlet, three representative articles, and a link to all 29.
 
-Source: https://www.thedp.com/search?a=1&au=Nikkita+Collins&o=date&ty=article and its second page.
+Source: the Daily Pennsylvanian author search (two pages).

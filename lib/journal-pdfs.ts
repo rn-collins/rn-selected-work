@@ -12,7 +12,7 @@ export const journalPdfs: JournalPdf[] = [
   { slug: "trauma-informed-architecture", issue: 17, section: "Architecture", issueDate: "September 2025", byline: "R N Collins", printedPages: "120 to 125", pdfPages: 3, bytes: 1505936 },
   { slug: "designing-for-cognitive-clarity", issue: 18, section: "Interior Design", issueDate: "November 2025", byline: "R N Collins", printedPages: "62 to 67", pdfPages: 3, bytes: 841041 },
   { slug: "biophilic-landscapes-as-cognitive-infrastructure", issue: 20, section: "Landscape Architecture", issueDate: "March 2026", byline: "R N Collins", printedPages: "116 to 137", pdfPages: 11, bytes: 4216368 },
-  { slug: "biophilic-design-and-climate-change", issue: 21, section: "Climate Change", issueDate: "May 2026", byline: "Rayven-Nikkita Collins", printedPages: "104 to 121", pdfPages: 9, bytes: 1806147 },
+  { slug: "biophilic-design-and-climate-change", issue: 21, section: "Climate Change", issueDate: "May 2026", byline: "RN Collins", printedPages: "104 to 121", pdfPages: 9, bytes: 1806147 },
   { slug: "wood-the-multisensory-physiological-magician", issue: 22, section: "Wood", issueDate: "July 2026", byline: "RN Collins", printedPages: "166 to 177", pdfPages: 6, bytes: 2700116 },
 ];
 

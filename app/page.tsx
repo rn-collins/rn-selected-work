@@ -9,7 +9,7 @@ import { journalArticles, journalName } from "../lib/journal-articles";
 import { publicationArchive, publicationCounts } from "../lib/publication-archive";
 
 const homeDescription =
-  "Questions too messy for a single discipline — research, institutional frameworks, working systems, public resources, and published analysis by Rayven-Nikkita (RN) Collins.";
+  "Questions too messy for a single discipline — research, institutional frameworks, working systems, public resources, and published analysis by RN Collins.";
 
 export const metadata: Metadata = {
   title: { absolute: "RN Selected Work" },
@@ -34,7 +34,7 @@ export default function Home() {
         </div>
       </nav>
       <header className="hero shell">
-        <p className="eyebrow">Selected work · Rayven-Nikkita (RN) Collins · 2026</p>
+        <p className="eyebrow">Selected work · RN Collins · 2026</p>
         <h1>
           I work on questions
           <br />
@@ -351,7 +351,7 @@ export default function Home() {
           </div>
           <div className="contact">
             <p>
-              Rayven-Nikkita (RN) Collins
+              RN Collins
               <br />
               Honolulu, Hawaiʻi
             </p>

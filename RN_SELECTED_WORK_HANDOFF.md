@@ -4,7 +4,7 @@ Last updated: August 12, 2026 (HST)
 
 ## 1. Read this first
 
-This is the controlling continuation document for **RN Selected Work**, the public portfolio and recipient-specific selected-work system for Rayven-Nikkita (RN) Collins.
+This is the controlling continuation document for **RN Selected Work**, the public portfolio and recipient-specific selected-work system for RN Collins.
 
 Production site: https://rn-selected-work.vercel.app/
 
@@ -162,8 +162,7 @@ Current verified archive through August 12, 2026:
 The search included these names:
 
 - RN Collins
-- Rayven-Nikkita Collins
-- Nikkita Collins
+- earlier bylines (not printed here; RN, Nov 22: never her legal name)
 - RN Williams
 
 Important publication rule: the site RN referred to as “Cannabis Law Review” currently identifies itself as **Cannabis Law Journal**. Use the publication’s actual current name unless primary evidence changes.

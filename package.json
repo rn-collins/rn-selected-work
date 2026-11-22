@@ -11,7 +11,7 @@
     "releases:sync": "python3 scripts/sync_releases.py",
     "releases:check": "python3 scripts/sync_releases.py --check",
     "sources:refresh": "node scripts/refresh-source-links.mjs",
-    "postbuild": "node scripts/check-favicons.mjs"
+    "postbuild": "node scripts/check-favicons.mjs && node scripts/check-names.mjs"
   },
   "dependencies": {
     "next": "16.2.6",
