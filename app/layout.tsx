@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import { PortfolioWayfinding } from "../components/portfolio-wayfinding";
+import { Metricool } from "../components/metricool";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://rn-selected-work.vercel.app"),
@@ -54,6 +55,7 @@ export default function RootLayout({
         <PortfolioWayfinding />
         <div id="portfolio-content">{children}</div>
         <PortfolioWayfinding bottom />
+        <Metricool />
       </body>
     </html>
   );
