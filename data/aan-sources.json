@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21",
+ "generated": "2026-11-22",
  "host": "rn-selected-work.vercel.app",
  "posts": [
   {
@@ -101463,13 +101463,12 @@
     },
     {
      "where": "Slideshow Reel (15:00)",
-     "what": "57 Meadow Way, Didcot OX11 0AX, UK - pendulum wall clock ... (2021), david m (radio aporee)",
-     "credit": "Sound: david m, pendulum wall clock ... (2021), radio aporee / Internet Archive, CC BY 3.0",
-     "url": "https://archive.org/details/aporee_53155_60739",
+     "what": "Franz Schubert · Sonata In AMajor D.664 · 02 · Andante (2012), Musopen (2012 Kickstarter release; performer not named on the IA page)",
+     "credit": "Sound: Musopen, Franz Schubert · Sonata In AMajor D.664 · 02 · Andante (2012), Internet Archive, Public Domain Mark",
+     "url": "https://archive.org/details/MusopenCollectionAsFlac",
      "house_credit": "Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page)",
      "effects_credits": [
-      "OR poiesis (radio aporee) (public domain)",
-      "David J. Ring, Jr. (N1EA) (CC0)"
+      "Michael Mol (public domain)"
      ]
     }
    ],
@@ -101489,8 +101488,8 @@
      "url": "https://archive.org/details/aporee_16875_19658"
     },
     {
-     "label": "Sound, Slideshow Reel (15:00): Sound: david m, pendulum wall clock ... (2021), radio aporee / Internet Archive, CC BY 3.0. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: OR poiesis (radio aporee) (public domain); David J. Ring, Jr. (N1EA) (CC0).",
-     "url": "https://archive.org/details/aporee_53155_60739"
+     "label": "Sound, Slideshow Reel (15:00): Sound: Musopen, Franz Schubert · Sonata In AMajor D.664 · 02 · Andante (2012), Internet Archive, Public Domain Mark. Sound logo: Patrick Lauser, A Clock in the Kingdom and D. D. Teoli Jr., Internet Archive, CC0 and public domain; Sound effects: real recordings from radio aporee and the Internet Archive (credits on the sources page) Sound effects by: Michael Mol (public domain).",
+     "url": "https://archive.org/details/MusopenCollectionAsFlac"
     }
    ],
    "images": [
