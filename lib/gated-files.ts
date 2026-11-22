@@ -11,6 +11,8 @@ const TYPES: Record<string, string> = {
   ".css": "text/css; charset=utf-8", ".json": "application/json", ".svg": "image/svg+xml", ".png": "image/png",
   ".jpg": "image/jpeg", ".webp": "image/webp", ".woff2": "font/woff2", ".woff": "font/woff", ".mp3": "audio/mpeg",
 };
+// Metricool web analytics, RN Collins brand (cookieless; see components/metricool.tsx).
+const METRICOOL = '<script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"942052526b50735b83e53bcddc0da7be"})});</script>';
 const FAVICON = '<link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon-v2.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest">';
 
 export async function gatedFile(kind: "charts" | "interactives", slug: string, parts: string[], download = false) {
@@ -28,6 +30,7 @@ export async function gatedFile(kind: "charts" | "interactives", slug: string, p
     // RN's rule: every page carries a favicon.
     let html = body.toString("utf8");
     if (!/rel="(shortcut )?icon"/.test(html)) html = /<head[^>]*>/i.test(html) ? html.replace(/<head[^>]*>/i, (m) => m + FAVICON) : html.replace(/<html[^>]*>/i, (m) => m + FAVICON);
+    if (!html.includes("tracker.metricool.com")) html = /<\/body>/i.test(html) ? html.replace(/<\/body>/i, METRICOOL + "</body>") : html + METRICOOL;
     return new Response(html, { headers });
   }
   return new Response(new Uint8Array(body), { headers });
