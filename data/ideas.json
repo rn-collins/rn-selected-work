@@ -4922,5 +4922,20 @@
     "workStatus": "Draft",
     "releaseHeld": true,
     "parentId": "ask-a-neuroscientist"
+  },
+  {
+    "id": "same-birthday-different-speeds",
+    "title": "Same Birthday, Different Speeds: What the Dunedin Study Learned About the Pace of Aging",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "question": "How do researchers measure the pace of aging, and what can a changing research marker tell us about health?",
+    "expression": "RN's Ask a Neuroscientist essay explains how the Dunedin Study followed changes within a birth cohort and how later research developed a blood-based measure using chemical marks on DNA. Written for general readers interested in aging and scientific measurement, it compares the original repeated body measurements, the later methylation measure and a subsequent analysis of a randomized trial. RN's contribution is explanatory research synthesis: distinguishing measurement reliability, associations with health and changes in a trial, rather than presenting them as interchangeable evidence. Research notes, a six-slide sequence, platform adaptations and filming scripts support the draft. An existing coded slider illustrates how different example rates accumulate over twenty calendar years; its arithmetic and preset handlers received bounded checks, but it is not a personal aging test.",
+    "boundary": "Unpublished draft intended for Polymath, with no verified reading destination. RN did not conduct the underlying studies or develop the research biomarker. The essay retains the development cohort's geographic limits, small and variable trial effects, observational associations and the distinction between a research marker and later illness or lifespan. It does not recommend calorie restriction, endorse a commercial test or estimate an individual's health. Some shorter adaptations blur the distinction between the earlier and later measures. Planning dates, figure licences, sample descriptions and image assignments still need reconciliation. Primary papers, finished media and rights have not been independently cleared in this portfolio review, and the slider has not received browser or accessibility acceptance.",
+    "held": true,
+    "provenance": "The complete manuscript, research notes, dossier, filming brief and interactive source were reviewed in the preceding intake. Remaining production copy, claim cards and eighteen image descriptions and credit records were subsequently compared with those sources. Earlier arithmetic, clamping and preset-handler checks used a simulated document, not a rendered browser. The editorial owner lists a draft with no public URL. The essay, adaptations and illustrative slider remain one recovered work; private discovery material and working artifacts are not linked.",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist"
   }
 ]
