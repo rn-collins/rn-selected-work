@@ -4907,5 +4907,20 @@
     "workStatus": "Draft",
     "releaseHeld": true,
     "parentId": "ask-a-neuroscientist"
+  },
+  {
+    "id": "names-labels-and-the-brain",
+    "title": "Names, Labels and the Brain",
+    "category": "Learning",
+    "stage": "Editorial package draft",
+    "question": "What can a music box that turns names into notes help readers ask about attention, sound and personal meaning?",
+    "expression": "RN's Ask a Neuroscientist editorial package takes Iji Shin's Play the name installation as a starting point for explaining research on spoken names and sound. For general readers and designers, RN connects a study of brain responses to a person's own name with work on matching sounds to shapes and on synaesthesia, in which one kind of sensation is associated with another. The recovered material includes an eight-slide sequence, platform copy, a newsletter item, a maker spotlight, short-video scripts and a longer outline intended for Polymath and YouTube. The longer outline also considers music and autobiographical memory. RN's contribution is research synthesis, explanatory writing and editorial planning; the installation and its letter-to-note mechanism are the designer's work. The package keeps the central question open: findings about hearing a spoken name do not establish what happens when that name is encoded as a melody.",
+    "boundary": "An unpublished editorial package with drafted short-form copy and a queued long-form outline. The manuscript file explicitly says that the full essay has not been written, despite a broader register label of drafted. RN did not visit or record the installation, and the recovered materials do not establish a filmed interview, finished video, delivered installation or published article. The letter-to-note rule is unpublished, so no authentic melody of a name is supplied or invented. Planned dates, slide counts, image assignments and some condensed claims differ across versions. Scientific claims, source quotations, image permissions and rendered media still require review. Source-owner review and licensing notes are evidence to inspect, not independent clearance from this intake.",
+    "held": true,
+    "provenance": "The complete manuscript placeholder, extra-pieces document, research notes and filming brief were read, alongside production copy and 20 image metadata rows. The explicit long-form queue was checked against the owner register, and related terms were compared with the existing gallery and editorial catalogue. Actual image files, audio, finished layouts and primary research papers were not independently inspected. No draft source, private outreach, invented melody or unverified publication link is reproduced.",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist"
   }
 ]
