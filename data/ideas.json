@@ -4937,5 +4937,20 @@
     "workStatus": "Draft",
     "releaseHeld": true,
     "parentId": "ask-a-neuroscientist"
+  },
+  {
+    "id": "what-does-grief-do-to-the-body",
+    "title": "What Does Grief Do to the Body?",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "parentId": "ask-a-neuroscientist",
+    "held": true,
+    "releaseHeld": true,
+    "question": "What can research on bereavement explain about physical health after a loss, and where does that evidence stop?",
+    "expression": "RN’s prepared Reader Q&A essay for Ask a Neuroscientist and Polymath answers a general reader’s question about grief and the body. It follows a review of bereavement research and a meta-analysis of widowhood and mortality, explaining how researchers study stress hormones, inflammation, immune responses, sleep and changing health risks. The manuscript distinguishes grief from bereavement, explains relative risk and follows different patterns of adjustment after a spouse dies. It also examines what studies measured before a loss, how caregiving and other circumstances can affect comparisons, and why group averages cannot describe every person. RN’s evidenced role is research synthesis and explanatory writing. The supporting package includes a six-slide sequence, platform adaptations, chart and figure plans, interview questions and short-video scripts. These are supporting forms of the same essay, not additional works or evidence of completed filming.",
+    "boundary": "An unpublished draft in the current owner register, with no publication URL. Its evidence is chiefly about spouses and observational studies, so the essay does not establish a single biological mechanism, predict an individual’s health or automatically describe other kinds of loss. The source package contains conflicting time windows for a vaccine-response finding and needs reconciliation of some statistical, image and adaptation details. Its planning dates also differ across files. Source-owner fact-check and image-audit labels are not independent scientific or rights clearance. This portfolio review does not verify the cited primary studies, finished media, licences or a clinical recommendation. The essay and its adaptations remain held for editorial review.",
+    "provenance": "The complete manuscript was reviewed in the preceding intake; its current revision was confirmed unchanged. Current research notes, dossier, filming plan, image-audit text, production copy, claim cards and eighteen image metadata records were read and compared with the owner register. The review preserves the source’s spouse-focused scope and unresolved discrepancies. No private experiences, full manuscript, images, draft reading link or individual health advice are reproduced."
   }
 ]
