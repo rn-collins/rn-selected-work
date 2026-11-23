@@ -10,6 +10,7 @@ import { ESSAYS_INDEXABLE } from "../lib/essays-config";
 import { essayAccounts, essayPath, releasedEssays } from "../lib/essays";
 import { essayPath as ddwEssayPath, releasedDdwEssays } from "../lib/ddw-essays";
 import { journalPagePath, journalPdfs } from "../lib/journal-pdfs";
+import { publicPosts } from "../lib/post-pages";
 
 export const revalidate = 3600;
 
@@ -47,6 +48,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/advisory/aloha-intelligence-institute`, changeFrequency: "monthly", priority: 0.8 },
     ...journalArticles.map((a) => ({ url: `${base}/writing/journal-of-biophilic-design/${a.slug}`, changeFrequency: "yearly" as const, priority: 0.6 })),
     ...builds.map((b) => ({ url: `${base}/builds/${b.repo}`, changeFrequency: "monthly" as const, priority: 0.5 })),
+    ...(publicPosts().length ? [{ url: `${base}/p`, changeFrequency: "daily" as const, priority: 0.7 }] : []),
+    ...publicPosts().map((p) => ({ url: `${base}/p/${p.slug}`, changeFrequency: "monthly" as const, priority: 0.6 })),
     { url: `${base}/sources`, changeFrequency: "daily", priority: 0.6 },
     ...postedSoFar().map((p) => ({ url: `${base}/sources/${p.slug}`, changeFrequency: "monthly" as const, priority: 0.4 })),
     ...accounts.flatMap((a) => [

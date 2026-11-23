@@ -5,7 +5,7 @@ import social from "../../../data/social-links.json";
 import { CanonicalPage } from "../../../components/canonical-page";
 import { POLYMATH_SUBSCRIBE } from "../../../lib/essays";
 import { isReleased } from "../../../lib/releases";
-import { isPublicPost, isReviewBuild, longDate, visiblePost, visiblePosts } from "../../../lib/post-pages";
+import { isPublicPost, isReviewBuild, longDate, relatedPosts, visiblePost, visiblePosts } from "../../../lib/post-pages";
 import styles from "../posts.module.css";
 
 export const dynamicParams = true;
@@ -35,6 +35,7 @@ export default async function PostPageView({ params }: Params) {
   if (!p) notFound();
   const order = visiblePosts(); const at = order.findIndex((q) => q.slug === p.slug);
   const prev = order[at - 1]; const next = order[at + 1];
+  const related = relatedPosts(p);
   const sourcesId = p.sourcesPage.replace("/sources/", "");
   const follow = (social as { rn: { accounts: { id: string; label: string; url: string }[] } }).rn.accounts.filter((a) => FOLLOW.has(a.id));
   return (
@@ -62,6 +63,26 @@ export default async function PostPageView({ params }: Params) {
                 </li>
               ))}
             </ol>
+          </section>
+        )}
+
+        {p.reel && (
+          <section className={styles.block} aria-labelledby="reel">
+            <h2 id="reel">The Reel</h2>
+            {p.reel.url ? <p><a href={p.reel.url} target="_blank" rel="noreferrer">Watch the Reel <span aria-hidden="true">↗</span></a> ({p.reel.seconds} seconds)</p> : <p className={styles.quiet}>{p.reel.seconds} seconds. The transcript is below.</p>}
+            <details className={styles.transcript} open>
+              <summary>Transcript</summary>
+              {p.reel.onScreen.length > 0 && <><h3>On screen</h3><ol>{p.reel.onScreen.map((l, i) => <li key={i}>{l}</li>)}</ol></>}
+              {p.reel.spoken.length > 0 && <><h3>Heard in the Reel</h3><blockquote>{p.reel.spoken.join(" ")}</blockquote></>}
+              {p.reel.sound.length > 0 && <><h3>Sound</h3>{p.reel.sound.map((l) => <p key={l}>{l}</p>)}</>}
+            </details>
+          </section>
+        )}
+
+        {p.glossary.length > 0 && (
+          <section className={styles.block} aria-labelledby="terms">
+            <h2 id="terms">Key terms</h2>
+            <dl className={styles.terms}>{p.glossary.map((g) => <div key={g.term}><dt>{g.term}</dt><dd>{g.definition}</dd></div>)}</dl>
           </section>
         )}
 
@@ -93,6 +114,13 @@ export default async function PostPageView({ params }: Params) {
           {p.legalNote && <p>Education, not legal advice.</p>}
           <p>Spotted an error? <Link href="/contact">Send a correction</Link> and the fix will be noted here.</p>
         </section>
+
+        {related.length > 0 && (
+          <section className={styles.block} aria-labelledby="related">
+            <h2 id="related">Related posts</h2>
+            <ul className={styles.related}>{related.map((q) => <li key={q.slug}><Link href={`/p/${q.slug}`}><b>{q.title}</b><small>{longDate(q.date)}</small></Link></li>)}</ul>
+          </section>
+        )}
 
         <section className={styles.block} aria-labelledby="follow">
           <h2 id="follow">Follow RN Collins</h2>

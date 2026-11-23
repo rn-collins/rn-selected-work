@@ -9,12 +9,29 @@ export type PostPage = {
   id: string; slug: string; date: string; time: string; title: string; series: string; summary: string;
   slides: PostSlide[]; sources: { label: string; url: string }[]; sourcesPage: string; longForm: string;
   legalNote: boolean; hold: boolean; holdReason: string;
+  reel: PostReel | null; glossary: { term: string; definition: string }[];
 };
+export type PostReel = { seconds: number; onScreen: string[]; spoken: string[]; sound: string[]; url: string };
 
 const all = data.posts as PostPage[];
 export const isReviewBuild = () => process.env.VERCEL_ENV !== "production";
 export const isPublicPost = (p: PostPage, now = new Date()) => !p.hold && p.date <= hawaiiToday(now);
 export const visiblePosts = () => all.filter((p) => isReviewBuild() || isPublicPost(p));
 export const visiblePost = (slug: string) => visiblePosts().find((p) => p.slug === slug);
+export const publicPosts = () => all.filter((p) => isPublicPost(p));
+
+// Related posts: same series first, then the most shared title and summary words. Only pages this build may show.
+const STOP = new Set("about after again their there these those which while where would could should under other first still being because what when with from that this have into your they them were been than then only most more some such does over".split(" "));
+const words = (p: PostPage) => new Set(`${p.title} ${p.summary}`.toLowerCase().match(/[a-z]{4,}/g)?.filter((w) => !STOP.has(w)) ?? []);
+export function relatedPosts(post: PostPage, count = 3) {
+  const own = words(post);
+  return visiblePosts()
+    .filter((p) => p.slug !== post.slug)
+    .map((p) => ({ p, score: (p.series === post.series ? 100 : 0) + [...words(p)].filter((w) => own.has(w)).length, gap: Math.abs(Date.parse(p.date) - Date.parse(post.date)) }))
+    .sort((a, b) => b.score - a.score || a.gap - b.gap)
+    .slice(0, count)
+    .map(({ p }) => p);
+}
+
 export const longDate = (d: string) =>
   new Intl.DateTimeFormat("en-US", { month: "long", day: "numeric", year: "numeric", timeZone: "UTC" }).format(new Date(`${d}T00:00:00Z`));
