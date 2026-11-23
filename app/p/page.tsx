@@ -17,6 +17,7 @@ export default function PostsIndex() {
         <p className="eyebrow">RN Collins</p>
         <h1 className={styles.title}>Posts</h1>
         <p className={styles.summary}>Every post has its own page, with the slides, sources and image credits.</p>
+        <p><Link href="/p/archive">The archive: earlier essays and articles</Link></p>
         {posts.length === 0 ? <p>The first posts arrive on November 30, 2026.</p> : (
           <ol className={styles.index}>
             {posts.map((p) => (
