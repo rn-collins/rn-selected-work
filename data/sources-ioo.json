@@ -1699,7 +1699,7 @@
   },
   {
    "slug": "c01-p06",
-   "date": "2027-02-06",
+   "date": "2026-12-28",
    "id": "P06",
    "title": "A voice can sound like someone who said no, and the company can say it doesn’t",
    "series": "Institutions of One, Cycle 01",
@@ -1710,234 +1710,142 @@
    },
    "research": [
     {
-     "label": "Smithsonian Open Access (Smithsonian Institution)",
-     "url": "https://www.si.edu/OpenAccess"
+     "label": "OpenAI, \"How the voices for ChatGPT were chosen,\" May 19, 2024, as first archived May 21, 2024",
+     "url": "http://web.archive.org/web/20240521233628/https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/"
     },
     {
-     "label": "Smithsonian 3D Digitization (Smithsonian Institution)",
-     "url": "https://3d.si.edu/"
+     "label": "OpenAI, the same post as updated May 22, 2024, archived Dec. 18, 2025",
+     "url": "http://web.archive.org/web/20251218140819/https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/"
     },
     {
-     "label": "Smithsonian Learning Lab (Smithsonian Institution)",
-     "url": "https://learninglab.si.edu/"
+     "label": "OpenAI, \"ChatGPT can now see, hear, and speak,\" Sept. 25, 2023, archived",
+     "url": "http://web.archive.org/web/20240505040140/https://openai.com/index/chatgpt-can-now-see-hear-and-speak"
+    },
+    {
+     "label": "OpenAI, \"Hello GPT-4o,\" May 13, 2024, archived",
+     "url": "http://web.archive.org/web/20240514235217/https://openai.com/index/hello-gpt-4o/"
+    },
+    {
+     "label": "OpenAI, \"Navigating the challenges and opportunities of synthetic voices,\" March 29, 2024, archived",
+     "url": "http://web.archive.org/web/20240502211523/https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices"
+    },
+    {
+     "label": "OpenAI, GPT-4o System Card, Aug. 8, 2024",
+     "url": "https://cdn.openai.com/gpt-4o-system-card.pdf"
+    },
+    {
+     "label": "Scarlett Johansson, statement of May 20, 2024, printed in full in Aisha Malik, TechCrunch, May 20, 2024",
+     "url": "https://techcrunch.com/2024/05/20/scarlett-johansson-says-that-openai-approached-her-to-use-her-voice/"
+    },
+    {
+     "label": "Bobby Allyn, \"Scarlett Johansson says she is 'shocked, angered' over new ChatGPT voice,\" NPR, May 20, 2024",
+     "url": "https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her"
+    },
+    {
+     "label": "Nitasha Tiku, \"OpenAI didn't copy Scarlett Johansson's voice for ChatGPT, records show,\" The Washington Post, May 22, 2024, syndicated in The Spokesman-Review",
+     "url": "https://www.spokesman.com/stories/2024/may/22/openai-didnt-copy-scarlett-johanssons-voice-for-ch/"
+    },
+    {
+     "label": "Maxwell Zeff, \"OpenAI rolls out Advanced Voice Mode with more voices and a new look,\" TechCrunch, Sept. 24, 2024",
+     "url": "https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/"
+    },
+    {
+     "label": "Midler v. Ford Motor Co., 849 F.2d 460 (9th Cir. 1988)",
+     "url": "https://law.resource.org/pub/us/case/reporter/F2/849/849.F2d.460.87-6168.html"
+    },
+    {
+     "label": "Waits v. Frito-Lay, Inc., 978 F.2d 1093 (9th Cir. 1992), Caselaw Access Project text",
+     "url": "https://static.case.law/f2d/978/cases/1093-01.json"
+    },
+    {
+     "label": "California Civil Code section 3344, as amended 1984, archived from leginfo.legislature.ca.gov",
+     "url": "http://web.archive.org/web/20250403082852/https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3344&lawCode=CIV"
+    },
+    {
+     "label": "Tennessee Public Chapter No. 588 (2024), House Bill 2091, ELVIS Act",
+     "url": "https://publications.tnsosfiles.com/acts/113/pub/pc0588.pdf"
+    },
+    {
+     "label": "U.S. Copyright Office, Copyright and Artificial Intelligence, Part 1: Digital Replicas, July 2024",
+     "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf"
+    },
+    {
+     "label": "Lehrman v. Lovo, Inc., No. 24-CV-3770 (JPO), Opinion and Order, Dkt. 45 (S.D.N.Y. July 10, 2025)",
+     "url": "https://www.nysd.uscourts.gov/sites/default/files/2025-07/Lovo%20v%20Lehrman.pdf"
+    },
+    {
+     "label": "California Assembly Bill 2602 (2024), chapter 259, adding Labor Code section 927, archived from leginfo",
+     "url": "http://web.archive.org/web/20250527024510/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB2602"
+    },
+    {
+     "label": "S. 1367, NO FAKES Act of 2025, as introduced April 9, 2025",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1367is/html/BILLS-119s1367is.htm"
+    },
+    {
+     "label": "S. 4591, NO FAKES Act of 2026, as reported June 24, 2026",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4591rs/html/BILLS-119s4591rs.htm"
+    },
+    {
+     "label": "Congress.gov, S. 4591 bill page and actions, checked Nov. 16, 2026",
+     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591"
     }
    ],
    "other": [
     {
-     "label": "Name, image, and likeness (United States Patent and Trademark Office)",
-     "url": "https://www.uspto.gov/trademarks/name-image-and-likeness"
-    },
-    {
-     "label": "Copyright and Artificial Intelligence — Part 1: Digital Replicas (United States Copyright Office)",
+     "label": "U.S. Copyright Office, Copyright and Artificial Intelligence, all parts of the report, with the digital replicas part first",
      "url": "https://www.copyright.gov/ai/"
     },
     {
-     "label": "Rights Clearance: A Guide for Independent Filmmakers (World Intellectual Property Organization)",
-     "url": "https://www.wipo.int/web-publications/rights-clearance-a-guide-for-independent-filmmakers/en/index.html"
+     "label": "The full text and status of the NO FAKES Act of 2026 on Congress.gov, to see whether it has moved since this essay",
+     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591"
     },
     {
-     "label": "Disclosures 101 for Social Media Influencers (Federal Trade Commission)",
-     "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+     "label": "Tennessee's ELVIS Act as signed, four pages, for the exact wording of the voice definition",
+     "url": "https://publications.tnsosfiles.com/acts/113/pub/pc0588.pdf"
     },
     {
-     "label": "FTC Approves Final Lord & Taylor Order Prohibiting Deceptive Advertising Techniques (Federal Trade Commission)",
-     "url": "https://www.ftc.gov/news-events/news/press-releases/2016/05/ftc-approves-final-lord-taylor-order-prohibiting-deceptive-advertising-techniques"
+     "label": "California Labor Code section 927 (AB 2602), the state's rule on digital replica clauses in work contracts, as chaptered",
+     "url": "http://web.archive.org/web/20250527024510/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB2602"
     },
     {
-     "label": "Balancing Act: The Role of Digital Platforms in Shaping the Conditions of Creative Work (International Labour Organization)",
-     "url": "https://www.ilo.org/publications/balancing-act-role-digital-platforms-shaping-conditions-creative-work"
+     "label": "SAG-AFTRA's own explainer on digital replicas under its contracts",
+     "url": "https://www.sagaftra.org/files/sa_documents/DigitalReplicas.pdf"
     },
     {
-     "label": "Artists & Photographers (Library of Congress)",
-     "url": "https://www.loc.gov/free-to-use/artists-and-photographers/"
+     "label": "The Ninth Circuit's opinion in Midler v. Ford, short enough to read in ten minutes and the clearest statement of why a voice can be part of who a person is",
+     "url": "https://law.resource.org/pub/us/case/reporter/F2/849/849.F2d.460.87-6168.html"
     },
     {
-     "label": "Wanna Work Together? (Creative Commons)",
-     "url": "https://creativecommons.org/about/videos/wanna-work-together/"
+     "label": "Waits v. Frito-Lay, for a detailed account of how an ad agency's own warnings became the evidence against it",
+     "url": "https://static.case.law/f2d/978/cases/1093-01.json"
     },
     {
-     "label": "Creative Commons Video Library (Creative Commons)",
-     "url": "https://creativecommons.org/about/videos/"
+     "label": "Judge Oetken's opinion in Lehrman v. Lovo, the most complete court discussion so far of voice clones under copyright, trademark and state identity law",
+     "url": "https://www.nysd.uscourts.gov/sites/default/files/2025-07/Lovo%20v%20Lehrman.pdf"
     },
     {
-     "label": "ILO World of Work Photo Library (International Labour Organization)",
-     "url": "https://www.ilo.org/resource/view-and-download-world-work-photos"
+     "label": "OpenAI's March 2024 post on Voice Engine, for the company's own account of the risks of voice cloning before the Sky dispute",
+     "url": "http://web.archive.org/web/20240502211523/https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices"
     },
     {
-     "label": "Openverse (Openverse / WordPress)",
-     "url": "https://openverse.org/about"
+     "label": "NPR's May 20, 2024, story, the first to report Johansson's lawyers' letters",
+     "url": "https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her"
     },
     {
-     "label": "Advice for Social Media Influencers (Federal Trade Commission)",
-     "url": "https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews"
+     "label": "TechCrunch's September 24, 2024, report on ChatGPT's new lineup of nine voices, without Sky",
+     "url": "https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/"
     },
     {
-     "label": "FTC Paid-Influencer Enforcement Archive (Federal Trade Commission)",
-     "url": "https://www.ftc.gov/news-events/news/press-releases/2017/09/csgo-lotto-owners-settle-ftcs-first-ever-complaint-against-individual-social-media-influencers"
+     "label": "U.S. District Court for the Southern District of New York",
+     "url": "https://www.nysd.uscourts.gov/"
     },
     {
-     "label": "Meta Ad Library (Meta)",
-     "url": "https://www.facebook.com/ads/library/"
+     "label": "U.S. Court of Appeals for the Ninth Circuit",
+     "url": "https://www.ca9.uscourts.gov/"
     },
     {
-     "label": "LinkedIn Ad Library (LinkedIn)",
-     "url": "https://www.linkedin.com/ad-library/"
-    },
-    {
-     "label": "TikTok Creative Center — Top Ads (TikTok)",
-     "url": "https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en"
-    },
-    {
-     "label": "Openverse (Openverse / WordPress project)",
-     "url": "https://openverse.org/"
-    },
-    {
-     "label": "Europeana APIs and IIIF (Europeana Foundation)",
-     "url": "https://api.europeana.eu/en"
-    },
-    {
-     "label": "Creative Commons Search Portal (Creative Commons)",
-     "url": "https://search.creativecommons.org/"
-    },
-    {
-     "label": "C2PA Conformance Explorer (Coalition for Content Provenance and Authenticity)",
-     "url": "https://c2pa.org/conformance/"
-    },
-    {
-     "label": "Content Credentials Verify (Content Authenticity Initiative)",
-     "url": "https://contentcredentials.org/verify"
-    },
-    {
-     "label": "c2patool (Content Authenticity Initiative contributors)",
-     "url": "https://github.com/contentauth/c2patool"
-    },
-    {
-     "label": "Digimarc C2PA Browser Extension (Digimarc)",
-     "url": "https://github.com/digimarc-corp/c2pa-content-credentials-extension"
-    },
-    {
-     "label": "Internet Archive Save Page Now (Internet Archive)",
-     "url": "https://web.archive.org/save/"
-    },
-    {
-     "label": "Perma.cc (Perma.cc / Harvard Library Innovation Lab)",
-     "url": "https://perma.cc/"
-    },
-    {
-     "label": "Zotero and Web API (Corporation for Digital Scholarship)",
-     "url": "https://www.zotero.org/support/dev/web_api/v3/start"
-    },
-    {
-     "label": "Crossref REST API (Crossref)",
-     "url": "https://www.crossref.org/documentation/retrieve-metadata/rest-api/"
-    },
-    {
-     "label": "Unpaywall API (OurResearch)",
-     "url": "https://unpaywall.org/products/api"
-    },
-    {
-     "label": "DataCite Commons and API (DataCite)",
-     "url": "https://commons.datacite.org/"
-    },
-    {
-     "label": "Flourish (Flourish / Canva)",
-     "url": "https://flourish.studio/visualisations/"
-    },
-    {
-     "label": "Datawrapper (Datawrapper)",
-     "url": "https://www.datawrapper.de/"
-    },
-    {
-     "label": "Google Dataset Search (Google)",
-     "url": "https://datasetsearch.research.google.com/"
-    },
-    {
-     "label": "GitHub Repository REST API (GitHub)",
-     "url": "https://docs.github.com/en/rest/repos/repos"
-    },
-    {
-     "label": "LinkedIn Publishing Platform Guidelines (LinkedIn)",
-     "url": "https://www.linkedin.com/help/linkedin/answer/a519782"
-    },
-    {
-     "label": "LinkedIn Article and Newsletter Publishing Help (LinkedIn)",
-     "url": "https://www.linkedin.com/help/linkedin/answer/a569569"
-    },
-    {
-     "label": "FTC Endorsement Guides and Disclosures 101 (U.S. Federal Trade Commission)",
-     "url": "https://www.ftc.gov/influencers"
-    },
-    {
-     "label": "Volunteer Lawyers for the Arts — New York (Volunteer Lawyers for the Arts)",
-     "url": "https://vlany.org/"
-    },
-    {
-     "label": "Copyright Public Records System (U.S. Copyright Office)",
-     "url": "https://publicrecords.copyright.gov/"
-    },
-    {
-     "label": "Virtual Card Catalog (U.S. Copyright Office)",
-     "url": "https://www.copyright.gov/vcc/"
-    },
-    {
-     "label": "IP Basic Toolkits (U.S. Patent and Trademark Office)",
-     "url": "https://www.uspto.gov/learning-and-resources/inventors-and-entrepreneurs/ip-basic-toolkits"
-    },
-    {
-     "label": "Library of Congress IIIF Image Services (Library of Congress)",
-     "url": "https://www.loc.gov/apis/micro-services/image-services/"
-    },
-    {
-     "label": "JuxtaposeJS (Northwestern University Knight Lab)",
-     "url": "https://juxtapose.knightlab.com/"
-    },
-    {
-     "label": "SoundCiteJS (Northwestern University Knight Lab)",
-     "url": "https://soundcite.knightlab.com/"
-    },
-    {
-     "label": "Mirador (Community-driven IIIF project)",
-     "url": "https://projectmirador.org/"
-    },
-    {
-     "label": "Hypothesis Project (Hypothesis nonprofit/open-standards project)",
-     "url": "https://hypothesis-project.org/"
-    },
-    {
-     "label": "H5P Content Types and Accessibility Matrix (H5P core team)",
-     "url": "https://help.h5p.com/hc/en-us/articles/7505649072797-Content-types-recommendations"
-    },
-    {
-     "label": "Data.gov API and Catalog (U.S. General Services Administration)",
-     "url": "https://data.gov/developers/apis"
-    },
-    {
-     "label": "OK2Use (OK2Use)",
-     "url": "https://ok2use.com/"
-    },
-    {
-     "label": "Redline — Content Creator Contract App (Redline)",
-     "url": "https://redlineapp.co/"
-    },
-    {
-     "label": "Calliope creator-rights workspace (Traijx / Calliope)",
-     "url": "https://calliopecreators.com/"
-    },
-    {
-     "label": "FTC Endorsements and Testimonials Hub (Federal Trade Commission)",
-     "url": "https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements"
-    },
-    {
-     "label": "The Person Inside the Asset (Institutions of One Reader)",
-     "url": "https://institutions-of-one-reader.vercel.app/stories/edition-2"
-    },
-    {
-     "label": "Choose the Consequence (Institutions of One Reader)",
-     "url": "https://institutions-of-one-reader.vercel.app/experiences/choose-the-consequence"
-    },
-    {
-     "label": "How the voices for chatgpt were chosen (openai.com)",
-     "url": "https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/"
+     "label": "U.S. Copyright Office",
+     "url": "https://www.copyright.gov/"
     }
    ],
    "images": [
@@ -1985,7 +1893,7 @@
     },
     {
      "where": "Slide 4b",
-     "what": "Illustrative photo: a June 1920 photograph of young people crowded around an early radio set, several wearing earphones to listen",
+     "what": "Illustrative photo: a May 1920 photograph of young people crowded around an early radio set, several wearing earphones to listen",
      "credit": "Source: Radio Amateur News, 1920",
      "url": "https://commons.wikimedia.org/wiki/File:Club_holds_radio_dance_wearing_earphones_1920.jpg",
      "card": false
@@ -2051,6 +1959,97 @@
      "what": "Illustrative photo: a vocal microphone behind a pop filter in a sound-treated booth, in black and white (photographer Tim Sheerman-Chase, 2012)",
      "credit": "Photo: Tim Sheerman-Chase",
      "url": "https://commons.wikimedia.org/wiki/File:Condenser_Microphone_with_Pop_Filter_and_Reflection_Filter.jpg",
+     "card": false
+    },
+    {
+     "where": "Long form image 1",
+     "what": "Scarlett Johansson on stage at San Diego Comic-Con, July 20, 2019, holding a microphone.",
+     "credit": "Photo: Gage Skidmore, CC BY-SA 2.0, via Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_by_Gage_Skidmore_2.jpg",
+     "card": false
+    },
+    {
+     "where": "Long form image 2",
+     "what": "Sam Altman, chief executive of OpenAI, seated outdoors at an event in November 2022.",
+     "credit": "Photo: Village Global, CC BY 2.0, via Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Sam_Altman_November_2022.jpg",
+     "card": false
+    },
+    {
+     "where": "Long form image 3",
+     "what": "A timeline chart of eleven dated events from May 10, 2023, to May 22, 2024, each marked with the side that gave the date.",
+     "credit": "Chart: RN Collins, from OpenAI (May 19 and 22, 2024) and Johansson (May 20, 2024) data",
+     "url": "",
+     "card": false
+    },
+    {
+     "where": "Long form image 4",
+     "what": "A 1973 publicity photograph of Bette Midler, seated on a sofa, issued by her manager.",
+     "credit": "Photo: Aaron Russo (Midler's manager), public domain, via Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Bette_Midler_1973.JPG",
+     "card": false
+    },
+    {
+     "where": "Long form image 5",
+     "what": "A 1973 publicity photograph of Tom Waits issued by his label, Asylum.",
+     "credit": "Photo: Asylum (Waits's label), photographer unknown, public domain, via Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Tom_Waits_(1973_publicity_photo).jpg",
+     "card": false
+    },
+    {
+     "where": "Long form image 6",
+     "what": "The first page of Tennessee Public Chapter 588, House Bill 2091, as enacted in 2024.",
+     "credit": "State of Tennessee, Public Chapter No. 588 (2024), Tennessee Secretary of State",
+     "url": "https://publications.tnsosfiles.com/acts/113/pub/pc0588.pdf",
+     "card": false
+    },
+    {
+     "where": "Long form image 7",
+     "what": "The signature page of Tennessee Public Chapter 588, showing the passage date and the governor's signature.",
+     "credit": "State of Tennessee, Public Chapter No. 588 (2024), Tennessee Secretary of State",
+     "url": "https://publications.tnsosfiles.com/acts/113/pub/pc0588.pdf",
+     "card": false
+    },
+    {
+     "where": "Long form image 8",
+     "what": "The first page of the July 10, 2025, opinion and order in Lehrman v. Lovo, Inc., U.S. District Court for the Southern District of New York.",
+     "credit": "U.S. District Court for the Southern District of New York, Lehrman v. Lovo, Inc., 24-CV-3770, Dkt. 45 (July 10, 2025), a U.S. government work",
+     "url": "https://www.nysd.uscourts.gov/sites/default/files/2025-07/Lovo%20v%20Lehrman.pdf",
+     "card": false
+    },
+    {
+     "where": "Long form image 9",
+     "what": "Striking screenwriters and actors picketing outside the Paramount Pictures gate in Hollywood on August 16, 2023.",
+     "credit": "Photo: Chris Long, CC BY 2.0, via Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hollywood,_CA,_USA_(53124099308).jpg",
+     "card": false
+    },
+    {
+     "where": "Long form image 10",
+     "what": "The cover of the U.S. Copyright Office report Copyright and Artificial Intelligence, Part 1: Digital Replicas, July 2024.",
+     "credit": "U.S. Copyright Office, Copyright and Artificial Intelligence, Part 1: Digital Replicas (July 2024), a U.S. government work",
+     "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf",
+     "card": false
+    },
+    {
+     "where": "Long form image 11",
+     "what": "The first page of Senate bill S. 4591, the NO FAKES Act of 2026, as reported to the Senate on June 24, 2026.",
+     "credit": "U.S. Government Publishing Office, S. 4591, 119th Congress, reported in Senate (June 24, 2026), a U.S. government work",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4591rs/html/BILLS-119s4591rs.htm",
+     "card": false
+    },
+    {
+     "where": "Long form image 12",
+     "what": "Scarlett Johansson at a photocall at the Cannes Film Festival on May 21, 2025.",
+     "credit": "Photo: Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson-8591.jpg",
+     "card": false
+    },
+    {
+     "where": "Long form image 13",
+     "what": "An empty dubbing booth with a microphone, 2008.",
+     "credit": "Photo: Andres Moreno, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Sala_de_doblaje.jpg",
      "card": false
     }
    ]
