@@ -22,6 +22,7 @@ const nextConfig: NextConfig = {
   outputFileTracingIncludes: {
     "/charts/[slug]/[file]": ["./data/charts/**/*"],
     "/interactives/[slug]/[...path]": ["./data/interactives/**/*"],
+    "/p/[slug]/slides/[file]": ["./data/post-pages/**/*"],
   },
   // Keep the production build within the existing deployment memory budget.
   // A one-CPU cap in dev leaves the first compile running until the request times out.
