@@ -1,4 +1,5 @@
 import Link from "next/link";
+import type { SoundCredit } from "../lib/source-sound";
 import type { ReactNode } from "react";
 import { host, type SourceLink, type SourcePost } from "../lib/aan-sources";
 import styles from "../app/sources/sources.module.css";
@@ -30,7 +31,7 @@ function Links({ items }: { items: SourceLink[] }) {
 const AAN_INTRO = "The studies, records and images behind this post, each linked to the original. Where a slide shows a number card, the number is quoted from the study named on the card.";
 
 // `links` (the piece's link set, components/piece-links.tsx) takes the place of the plain back link when given.
-export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = AAN_INTRO, social = "aan", links, clientLine = true }: { p: SourcePost; eyebrow: string; meta: string; backHref: string; backLabel: string; intro?: string; social?: "rn" | "aan"; links?: ReactNode; clientLine?: boolean }) {
+export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = AAN_INTRO, social = "aan", links, clientLine = true, sound = [] }: { p: SourcePost; eyebrow: string; meta: string; backHref: string; backLabel: string; intro?: string; social?: "rn" | "aan"; links?: ReactNode; clientLine?: boolean; sound?: SoundCredit[] }) {
   return (
       <article className={`${styles.page} shell`}>
         <p className="eyebrow">{eyebrow}</p>
@@ -75,6 +76,19 @@ export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = A
                 </div>
               ))}
             </dl>
+          </section>
+        )}
+        {sound.length > 0 && (
+          <section className={styles.block} aria-labelledby="sound">
+            <h2 id="sound">Sound</h2>
+            <ul className={styles.sound}>
+              {sound.map((c) => (
+                <li key={c.credit}>
+                  <span>{c.credit}</span>
+                  {c.url && <a href={c.url} target="_blank" rel="noreferrer">Sound page <span aria-hidden="true">↗</span></a>}
+                </li>
+              ))}
+            </ul>
           </section>
         )}
         <section className="socialFollow" aria-label="Follow">

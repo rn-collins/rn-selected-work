@@ -4,6 +4,7 @@ import { CanonicalPage } from "../../../../components/canonical-page";
 import { SourcesDetail, entryCount } from "../../../../components/sources-detail";
 import { PieceLinks } from "../../../../components/piece-links";
 import { tfhId } from "../../../../lib/releases";
+import { soundFor } from "../../../../lib/source-sound";
 import { isBeyond, releasedTfhPost, tfhPostedSoFar } from "../../../../lib/tfh-sources";
 
 // Only released sets (data/releases.json) are built. Any other address returns 404 until the set's release day;
@@ -37,7 +38,7 @@ export default async function TfhSourcePage({ params }: { params: Promise<{ slug
   const ref = (q?: { slug: string; title: string }) => q && { href: `/sources/tfh/${q.slug}`, title: q.title };
   return (
     <CanonicalPage>
-      <SourcesDetail p={p} eyebrow="Tech From Here: NL · Sources" meta={isBeyond(p) ? p.series : `${p.series} · Dutch Design Week 2026`} backHref="/sources/tfh" backLabel="All Tech From Here posts and their sources" intro="The work this post covers and every source it draws on, each linked to the original." social="rn" clientLine={false}
+      <SourcesDetail p={p} eyebrow="Tech From Here: NL · Sources" meta={isBeyond(p) ? p.series : `${p.series} · Dutch Design Week 2026`} backHref="/sources/tfh" backLabel="All Tech From Here posts and their sources" intro="The work this post covers and every source it draws on, each linked to the original." social="rn" clientLine={false} sound={soundFor(tfhId(p.slug))}
         links={<PieceLinks id={tfhId(p.slug)} index={{ href: "/sources/tfh", title: "All Tech From Here posts and their sources" }} prev={ref(order[at - 1])} next={ref(at >= 0 ? order[at + 1] : undefined)} />} />
     </CanonicalPage>
   );
