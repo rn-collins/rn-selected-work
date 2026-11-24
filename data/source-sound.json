@@ -168,6 +168,90 @@
     "url": "",
     "licence": "CC0"
    }
+  ],
+  "tfh/ddw26-rnc-008": [
+   {
+    "credit": "Sound: RN Collins, field audio, Dutch Design Week 2026, Eindhoven (own audio)",
+    "url": "",
+    "licence": "Own audio (RN Collins)"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-009": [
+   {
+    "credit": "Sound: kyles (Freesound 453569, CC0), amandasal1478 (Freesound 827450, CC0) and Riley_Garinger, \"METLMvmt-Big Tor Rolling Stool, Rolling on Concrete\" (Freesound 720852, CC BY 4.0)",
+    "url": "https://freesound.org/people/kyles/sounds/453569/",
+    "licence": "453569 CC0 1.0 (https://freesound.org/people/kyles/sounds/453569/); 827450 CC0 1.0 (https://freesound.org/people/amandasal1478/sounds/827450/); 720852 CC BY 4.0 (https://freesound.org/people/Riley_Garinger/sounds/720852/); all"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-011": [
+   {
+    "credit": "Sound: \"turkish-baglama\", Xavier Serra, 2011, Freesound (CC BY 4.0)",
+    "url": "https://freesound.org/people/xserra/sounds/115227/",
+    "licence": "CC BY 4.0"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-012": [
+   {
+    "credit": "Sound: RN Collins, field audio, Dutch Design Week 2026, Eindhoven (own audio)",
+    "url": "",
+    "licence": "Own audio (RN Collins)"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-013": [
+   {
+    "credit": "Sound: RN Collins, field audio, Dutch Design Week 2026, Eindhoven (own audio)",
+    "url": "",
+    "licence": "Own audio (RN Collins)"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-015": [
+   {
+    "credit": "Sound: RN Collins, field audio, Dutch Design Week 2026, Eindhoven (own audio)",
+    "url": "",
+    "licence": "Own audio (RN Collins)"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-101": [
+   {
+    "credit": "Sound: RN Collins, field audio, Dutch Design Week 2026, Eindhoven (own audio)",
+    "url": "",
+    "licence": "Own audio (RN Collins)"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
   ]
  }
 }
