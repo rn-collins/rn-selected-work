@@ -16,6 +16,7 @@ import makers from "../data/sources-makers.json";
 import museum from "../data/sources-museum.json";
 import polymath from "../data/sources-polymath.json";
 import polymathRnc from "../data/sources-polymath-rnc.json";
+import polymathIdeas from "../data/sources-polymath-ideas.json";
 import psychonautBookworm from "../data/sources-psychonaut-bookworm.json";
 import venues from "../data/sources-venues.json";
 import { isReleased, pieceId } from "./releases";
@@ -41,6 +42,8 @@ import { isReleased, pieceId } from "./releases";
 // page shows. Its long-form is the dossier chapter and its gallery page (galleryUrl) is /packages/<id> on that site.
 // The takeover packages (Polymath PM-RNC, museum, film) come from scripts/export_takeover_sources.py instead:
 // data/sources-polymath-rnc.json (joins the polymath account), data/sources-museum.json, data/sources-film.json.
+// Polymath idea posts with no package doc (/sources/polymath/<slug>) come from RN_COLLINS hq/site/build_sources_ideas.py:
+// data/sources-polymath-ideas.json, from each idea package's sources_extra.json and credits.csv; do not edit it by hand.
 // A takeover reference may have no url (a source with no public copy, such as a recorded conversation); it is
 // then listed without a link. `note` is the partnership line the package itself carries.
 export type SourceLink = { label: string; url: string };
@@ -77,7 +80,7 @@ export const accounts: Account[] = [
     blurb: "Stories about the technology Hawaiʻi gave the world: the sources and where each image comes from." },
   { key: "ioo", name: "Institutions of One", timeZone: "Pacific/Honolulu", posts: sorted(ioo, iooSite),
     blurb: "The I/1 Edit editions, the Observatory case records and tools, and the Cycle 01 packages on ownership in creative and independent work: sources and image credits." },
-  { key: "polymath", name: "The Polymath", timeZone: "Pacific/Honolulu", posts: sorted(polymath, polymathRnc),
+  { key: "polymath", name: "The Polymath", timeZone: "Pacific/Honolulu", posts: sorted(polymath, polymathRnc, polymathIdeas),
     blurb: "Posts from RN Collins' Polymath essays: the research cited and the image credits." },
   { key: "fatnugs", name: "Fat Nugs Magazine", timeZone: "Pacific/Honolulu", posts: sorted(fatnugs),
     blurb: "Posts from RN Collins' Fat Nugs Magazine articles: the research cited and the image credits." },

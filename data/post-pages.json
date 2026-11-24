@@ -10631,7 +10631,7 @@
     }
    ],
    "sources": [],
-   "sourcesPage": "",
+   "sourcesPage": "/sources/polymath/you-have-two-strikes-against-you",
    "longForm": "",
    "reel": {
     "seconds": 51,
@@ -11624,7 +11624,7 @@
     }
    ],
    "sources": [],
-   "sourcesPage": "",
+   "sourcesPage": "/sources/polymath/three-questions",
    "longForm": "",
    "reel": {
     "seconds": 44,
@@ -15243,7 +15243,7 @@
     }
    ],
    "sources": [],
-   "sourcesPage": "",
+   "sourcesPage": "/sources/polymath/two-strikes-at-once",
    "longForm": "",
    "reel": null,
    "glossary": [],
@@ -21311,6 +21311,201 @@
    "reel": null,
    "glossary": [],
    "legalNote": true,
+   "hold": true,
+   "holdReason": "awaiting RN's approval"
+  },
+  {
+   "id": "tfh-nl-ddw26-s48",
+   "slug": "what-would-you-pack-if-you-moved-out-of-a-platform",
+   "date": "2027-01-24",
+   "time": "10:30 HST",
+   "title": "The Internet Used To Be A Home",
+   "series": "Dutch Design Week 2026",
+   "summary": "Trisha Koevoets framed leaving Big Tech as a house move. EU law gives you two ways to take your data with you. The European Commission's own papers suggest the harder part is finding the door.",
+   "slides": [
+    {
+     "file": "01.jpg",
+     "w": 720,
+     "h": 900,
+     "alt": "A screenshot of the project website: huge white letters Big Tech Verhuis Service over a blue sky, a red starburst reading Claim back your web, and pop-up windows titled Claim back the web and Alert, Verhuis je data, with a blue button reading Niet mijn data (Not my data). Slide text: What would you pack if you moved out of a platform? Trisha Koevoets's project posed as a Big Tech moving service, at Dutch Design Week 2026.",
+     "credit": "",
+     "url": "https://ddw.nl/en/programme/archive/2026/the-internet-used-to-be-a-home"
+    },
+    {
+     "file": "02.jpg",
+     "w": 720,
+     "h": 900,
+     "alt": "Bar chart titled Which internet do you prefer? The internet of the past got 20 dots, the middle line 3 and the internet of now 3, from dots on the maker's posters in public space in 2026. Slide text: On her street posters, 20 dots went to the old internet. 3 went to today's. A small, self-selected sample. She warned that nostalgia may explain much of it.",
+     "credit": "",
+     "url": "https://trish.hotglue.me/?Fieldresearch/"
+    },
+    {
+     "file": "03.jpg",
+     "w": 720,
+     "h": 900,
+     "alt": "The opening words of GDPR Article 20(1), set in type on a pale card, with provided to a controller and without hindrance highlighted, and the Official Journal reference below. Slide text: Since 2018, EU law has let you take the data you gave a service. GDPR Article 20: in a machine-readable format, sent on without hindrance.",
+     "credit": "",
+     "url": "http://data.europa.eu/eli/reg/2016/679/oj"
+    },
+    {
+     "file": "04.jpg",
+     "w": 720,
+     "h": 900,
+     "alt": "A crop of page 10 of the data portability guidelines: a printed paragraph saying the term provided by the data subject should exclude inferred data and derived data, for example algorithmic results. Slide text: What a platform works out about you stays behind. EU guidance leaves inferred and derived data, such as algorithmic results, out of that right.",
+     "credit": "",
+     "url": "https://www.autoriteitpersoonsgegevens.nl/uploads/imported/wp242_rev01_enpdf_0.pdf"
+    },
+    {
+     "file": "05.jpg",
+     "w": 720,
+     "h": 900,
+     "alt": "Digital Markets Act Article 6(9), set in type on a pale card with marked omissions, with free of charge, tools and continuous and real-time access highlighted. Slide text: The EU's Digital Markets Act asks the biggest platforms for more. Free tools, and continuous and real-time access to your data. Article 6(9).",
+     "credit": "",
+     "url": "http://data.europa.eu/eli/reg/2022/1925/oj"
+    },
+    {
+     "file": "06.jpg",
+     "w": 720,
+     "h": 900,
+     "alt": "Bar chart of designated core platform services per gatekeeper: Alphabet 8, Meta 5, Apple 4, Amazon 2, Microsoft 2, Booking 1 and ByteDance 1. Slide text: Seven companies run the 23 services the law covers. Alphabet runs eight of them, from Search to YouTube.",
+     "credit": "",
+     "url": "https://digital-markets-act.ec.europa.eu/gatekeepers-portal_en"
+    },
+    {
+     "file": "07.jpg",
+     "w": 720,
+     "h": 900,
+     "alt": "A crop of page 10 of the Commission staff working document: a printed paragraph saying thousands of end users are using the data portability solutions to download their data, and around 40 authorised third parties have integrated with the gatekeepers' APIs. Slide text: What We Actually Know. What we know: Thousands of users and about 40 third parties use the tools, the Commission says. What we don't: What share of users that is, or how easy the tools are.",
+     "credit": "",
+     "url": "https://digital-markets-act.ec.europa.eu/document/download/788ff6d9-f0bf-47d2-80a8-611d5ee5bc51_en?filename=DMA+Review_Commission+Staff+Working+Document_SWD_2026_123_1_EN.pdf"
+    },
+    {
+     "file": "08.jpg",
+     "w": 720,
+     "h": 900,
+     "alt": "A screenshot of the Commission's DMA web page headed What does Article 6(9) mean?, listing three duties: data portability, free tools to make it easy, and continuous and real-time access. Slide text: Pick one account. What would you pack, and where would you go? The Commission lists each gatekeeper's tools on its DMA website.",
+     "credit": "",
+     "url": "https://digital-markets-act.ec.europa.eu/businesses-portal/end-user-data-portability_en"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Draft joint guidelines on the interplay between the DMA and the GDPR",
+     "url": "https://www.edpb.europa.eu/system/files/2025-10/joint_com-edpb_gls_interplay_dma_gdpr_for_public_consultation_en.pdf"
+    },
+    {
+     "label": "Guidelines on the right to data portability (WP242 rev.01)",
+     "url": "https://www.autoriteitpersoonsgegevens.nl/uploads/imported/wp242_rev01_enpdf_0.pdf"
+    },
+    {
+     "label": "Report on the review of the Digital Markets Act, COM(2026) 178 final",
+     "url": "https://digital-markets-act.ec.europa.eu/system/files/2026-04/DMA%20Review%20Report_COM_2026_178_1_EN.pdf"
+    },
+    {
+     "label": "Staff Working Document SWD(2026) 123 final, DMA review",
+     "url": "https://digital-markets-act.ec.europa.eu/document/download/788ff6d9-f0bf-47d2-80a8-611d5ee5bc51_en?filename=DMA+Review_Commission+Staff+Working+Document_SWD_2026_123_1_EN.pdf"
+    },
+    {
+     "label": "DDW program listing, The Internet Used To Be a Home",
+     "url": "https://ddw.nl/en/programme/the-internet-used-to-be-a-home"
+    },
+    {
+     "label": "The Internet Used To Be a Place / home, research site: start page",
+     "url": "https://trish.hotglue.me/?Startpage"
+    },
+    {
+     "label": "Research site: introduction",
+     "url": "https://trish.hotglue.me/introductie"
+    },
+    {
+     "label": "Research site: Inleiding and Hoofd- & deelvragen",
+     "url": "https://trish.hotglue.me/?vragen/"
+    },
+    {
+     "label": "Research site: eindwerk (final work)",
+     "url": "https://trish.hotglue.me/?eindwerk/"
+    },
+    {
+     "label": "Research site: deskresearch",
+     "url": "https://trish.hotglue.me/?deskresearch/"
+    },
+    {
+     "label": "Research site: fieldresearch",
+     "url": "https://trish.hotglue.me/?Fieldresearch/"
+    },
+    {
+     "label": "Research site: prototypes",
+     "url": "https://trish.hotglue.me/?prototypes/"
+    },
+    {
+     "label": "Research site: designcriteria",
+     "url": "https://trish.hotglue.me/?designcriteria/"
+    },
+    {
+     "label": "Portfolio, Mijn werk page",
+     "url": "https://trishakoevoets.com/mijn-werk/"
+    },
+    {
+     "label": "End user data portability, Questions and answers (Article 6(9))",
+     "url": "https://digital-markets-act.ec.europa.eu/developer-portal/end-user-data-portability_en"
+    },
+    {
+     "label": "Gatekeepers Portal",
+     "url": "https://digital-markets-act.ec.europa.eu/gatekeepers_en"
+    },
+    {
+     "label": "Tiktok's enshittification",
+     "url": "https://pluralistic.net/2023/01/21/potemkin-ai/"
+    },
+    {
+     "label": "How monopoly enshittified Amazon",
+     "url": "https://pluralistic.net/2022/11/28/enshittification/"
+    },
+    {
+     "label": "Announcing the Enshittification tour (colophon)",
+     "url": "https://pluralistic.net/2025/09/30/enshittification-tour/"
+    },
+    {
+     "label": "GeoCities",
+     "url": "https://wiki.archiveteam.org/index.php/GeoCities"
+    },
+    {
+     "label": "Social media apps are 'deliberately' addictive to users",
+     "url": "https://www.bbc.com/news/technology-44640959"
+    },
+    {
+     "label": "Licensing the Web",
+     "url": "https://home.cern/science/computing/the-birth-of-the-web/licensing-web/"
+    },
+    {
+     "label": "Moving or leaving accounts",
+     "url": "https://docs.joinmastodon.org/user/moving/"
+    },
+    {
+     "label": "Commission and EDPB publish contributions to the consultation on the draft joint guidelines",
+     "url": "https://digital-markets-act.ec.europa.eu/commission-and-edpb-publish-contributions-consultation-draft-joint-guidelines-interplay-between-dma-2026-03-12_en"
+    }
+   ],
+   "sourcesPage": "/sources/ddw26/s48",
+   "longForm": "",
+   "reel": {
+    "seconds": 32,
+    "onScreen": [
+     "What would you pack if you moved out of a platform? Trisha Koevoets's project posed as a Big Tech moving service, at Dutch Design Week 2026.",
+     "On her street posters, 20 dots went to the old internet. 3 went to today's. A small, self-selected sample. She warned that nostalgia may explain much of it.",
+     "Since 2018, EU law has let you take the data you gave a service. GDPR Article 20: in a machine-readable format, sent on without hindrance.",
+     "What a platform works out about you stays behind. EU guidance leaves inferred and derived data, such as algorithmic results, out of that right.",
+     "The EU's Digital Markets Act asks the biggest platforms for more. Free tools, and continuous and real-time access to your data. Article 6(9).",
+     "Seven companies run the 23 services the law covers. Alphabet runs eight of them, from Search to YouTube.",
+     "What We Actually Know",
+     "Pick one account. What would you pack, and where would you go? The Commission lists each gatekeeper's tools on its DMA website."
+    ],
+    "spoken": [],
+    "sound": [],
+    "url": ""
+   },
+   "glossary": [],
+   "legalNote": false,
    "hold": true,
    "holdReason": "awaiting RN's approval"
   },

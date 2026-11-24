@@ -39,7 +39,7 @@ SUBSCRIBE = "https://polymath-rn-collins.beehiiv.com/subscribe"
 ACCOUNTS = {
     "ddw26": ["ddw26"], "venues": ["venues"], "makers": ["makers"], "editions": ["editions"],
     "ddw27": ["ddw27"], "dda": ["dda"], "htw": ["htw"], "ioo": ["ioo", "ioo-site"],
-    "polymath": ["polymath", "polymath-rnc"], "fatnugs": ["fatnugs"], "clr": ["clr"],
+    "polymath": ["polymath", "polymath-rnc", "polymath-ideas"], "fatnugs": ["fatnugs"], "clr": ["clr"],
     "museum": ["museum"], "film": ["film"], "kbyg": ["kbyg"], "jbd": ["jbd"],
     "aan-f": ["aan-f"], "ioo-fashion": ["ioo-fashion"], "psychonaut-bookworm": ["psychonaut-bookworm"],
 }
