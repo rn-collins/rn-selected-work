@@ -64,6 +64,19 @@ function Links({ items }: { items: SourceLink[] }) {
   );
 }
 
+const URL_RE = /(https?:\/\/[^\s)]+)/g;
+// Plain-text notes can carry a bare URL; show it as a link that wraps on a phone.
+function linkify(text: string) {
+  return text.split(URL_RE).map((part, i) =>
+    i % 2 === 1 ? <a key={i} href={part} target="_blank" rel="noreferrer" className={styles.wrapUrl}>{part}</a> : part,
+  );
+}
+
+function longDate(iso: string) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return new Date(Date.UTC(y, m - 1, d)).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
+}
+
 export default async function SourcePage({ params }: Params) {
   const { slug, id } = await params;
   const a = account(slug);
@@ -104,6 +117,20 @@ export default async function SourcePage({ params }: Params) {
             <span className={styles.host}>{host(origin.url)}</span>
           </a>
         ))}
+
+        {p.corrections && p.corrections.length > 0 && (
+          <section className={styles.corrections} aria-labelledby="corrections">
+            <h2 id="corrections">Correction note</h2>
+            <ul>
+              {p.corrections.map((c, i) => (
+                <li key={i}>
+                  <time dateTime={c.date}>{longDate(c.date)}</time>
+                  <p>{linkify(c.change)}</p>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
 
         {p.research.length > 0 && (
           <section className={styles.block} aria-labelledby="research">

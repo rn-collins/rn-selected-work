@@ -176,7 +176,7 @@
   },
   {
    "slug": "s3-02",
-   "date": "2026-12-06",
+   "date": "",
    "id": "CLR-S3-02",
    "title": "Patent Prior Art, Indigenous Knowledge, and the Nagoya Gap",
    "series": "Cannabis Law Report",
@@ -187,164 +187,160 @@
    },
    "research": [
     {
-     "label": "35 U.S.C. 102 and 122, Cornell LII",
-     "url": "https://www.law.cornell.edu/uscode/text/35/102"
-    },
-    {
-     "label": "42 U.S.C. 1996a and 21 C.F.R. 1307.31",
-     "url": "https://www.law.cornell.edu/uscode/text/42/1996a"
-    },
-    {
-     "label": "Hofmann et al., Experientia 14:107 (1958), DOI 10.1007/BF02159243",
-     "url": "https://doi.org/10.1007/BF02159243"
-    },
-    {
-     "label": "Public Law 112-29, Leahy-Smith America Invents Act (September 16, 2011), GovInfo",
-     "url": "https://www.govinfo.gov/content/pkg/PLAW-112publ29/pdf/PLAW-112publ29.pdf"
-    },
-    {
      "label": "35 U.S.C. 102 (conditions for patentability; novelty), 2024 edition, GovInfo",
      "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title35/pdf/USCODE-2024-title35-partII-chap10-sec102.pdf"
-    },
-    {
-     "label": "35 U.S.C. 122 (confidential status of applications; publication; preissuance submissions), 2024 edition, GovInfo",
-     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title35/pdf/USCODE-2024-title35-partII-chap11-sec122.pdf"
     },
     {
      "label": "USPTO, Manual of Patent Examining Procedure, chapter 2100 (Rev. 01.2024, November 2024), section 2152.02",
      "url": "https://www.uspto.gov/web/offices/pac/mpep/mpep-2100.pdf"
     },
     {
+     "label": "35 U.S.C. 122 (confidential status of applications; publication; preissuance submissions), 2024 edition, GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title35/pdf/USCODE-2024-title35-partII-chap11-sec122.pdf"
+    },
+    {
+     "label": "Public Law 112-29, Leahy-Smith America Invents Act (September 16, 2011), GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-112publ29/pdf/PLAW-112publ29.pdf"
+    },
+    {
+     "label": "42 U.S.C. 1996a and 21 C.F.R. 1307.31",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title42/pdf/USCODE-2024-title42-chap21-subchapI-sec1996a.pdf"
+    },
+    {
      "label": "21 C.F.R. 1307.31 (Native American Church), April 1, 2024 edition, GovInfo",
      "url": "https://www.govinfo.gov/content/pkg/CFR-2024-title21-vol9/pdf/CFR-2024-title21-vol9-sec1307-31.pdf"
-    }
-   ],
-   "other": [
+    },
     {
-     "label": "USPTO, MPEP 2152 (no geographic limitation under AIA 102(a)(1))",
-     "url": "https://www.uspto.gov/web/offices/pac/mpep/s2152.html"
+     "label": "Regulation (EU) No 511/2014, Article 4, Official Journal of the European Union L 150, 20.5.2014, p. 65 (EUR-Lex)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0511"
     },
     {
      "label": "CBD Secretariat, Nagoya Protocol Parties list",
      "url": "https://www.cbd.int/abs/nagoya-protocol/signatories/"
     },
     {
-     "label": "Regulation (EU) No 511/2014, Article 4",
-     "url": "https://www.legislation.gov.uk/eur/2014/511/article/4/data.htm?view=plain"
+     "label": "CBD Secretariat, Report of the tenth meeting of the Conference of the Parties, UNEP/CBD/COP/10/27, para. 1 (held at the Nagoya Congress Centre, 18 to 29 October 2010)",
+     "url": "https://www.cbd.int/doc/meetings/cop/cop-10/official/cop-10-27-en.pdf"
+    },
+    {
+     "label": "Hofmann et al., Experientia 14:107 (1958), DOI 10.1007/BF02159243",
+     "url": "https://doi.org/10.1007/BF02159243"
+    },
+    {
+     "label": "Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal, 546 U.S. 418 (2006)",
+     "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep546/usrep546418/usrep546418.pdf"
+    },
+    {
+     "label": "35 U.S.C. 102, 2011 edition (before the AIA took effect), GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2011-title35/pdf/USCODE-2011-title35-partII-chap10-sec102.pdf"
+    },
+    {
+     "label": "42 U.S.C. 2000bb-1 (RFRA)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title42/pdf/USCODE-2024-title42-chap21B-sec2000bb-1.pdf"
     }
    ],
+   "other": [],
    "images": [
     {
      "where": "Slide 1",
-     "what": "The glass-fronted atrium entrance of the Madison Building, headquarters of the United States Patent and Trademark Office in Alexandria, Virginia, seen across a lawn on a clear day",
-     "credit": "Photo: RadioFan",
+     "what": "The glass-fronted atrium entrance of the Madison Building, headquarters of the United States Patent and Trademark Office in Alexandria, Virginia, seen across a lawn on a clear day. It is the agency where the patent prior art rules discussed in the article are applied.",
+     "credit": "Photo: RadioFan, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:US_Patent_Office_main_building.jpg",
      "card": false
     },
     {
      "where": "Slide 2a",
-     "what": "Illustrative photo: a hazy view of Cerro Rabón, a flat-topped mountain of the Mazatec region of Oaxaca, Mexico, across the reservoir at San Pedro Ixcatlán, with rooftops in the foreground",
-     "credit": "Photo: Koffermejia",
-     "url": "https://commons.wikimedia.org/wiki/File:Vista_del_cerro_rab%C3%B3n_desde_San_Pedro_Ixcatl%C3%A1n,_Oaxaca.jpg",
+     "what": "Psilocybe mexicana, the mushroom named in the title of the 1958 paper on psilocybin by Hofmann and coauthors, in a field photograph from Veracruz, Mexico, July 2, 2019: a cluster of small tan conical caps on slender stems growing in grass.",
+     "credit": "Photo: Alan Rockefeller, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Psilocybe_mexicana_Veracruz.jpg",
      "card": false
     },
     {
      "where": "Slide 2b",
-     "what": "Illustrative photo: a red and cream woven huipil, a tunic made of three joined strips with woven bird and diamond bands, photographed flat as a museum object by the Wereldmuseum",
-     "credit": "Source: Wereldmuseum",
-     "url": "https://commons.wikimedia.org/wiki/File:Collectie_Wereldmuseum,_RV-4880-190,_%27Huipil%27.jpg",
+     "what": "Peyote, Lophophora williamsii, in a field photograph from south Texas, April 30, 2020: a blue-green spineless cactus with rounded ribs and tufts of wool, flowering with two pale pink blossoms at its crown, beside a second plant, on dry ground. It is one of the plants the article names.",
+     "credit": "Photo: Eric Knight, CC BY 4.0",
+     "url": "https://www.inaturalist.org/observations/44803336",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustrative photo: the lobby of the Public Search Facility inside the USPTO Madison Building in Alexandria, Virginia, with etched glass lettering in the foreground and the atrium beyond",
-     "credit": "Photo: Hamaxides",
-     "url": "https://commons.wikimedia.org/wiki/File:PSF_at_USPTO_Madison_Bldg.jpg",
+     "what": "The first page of Public Law 112-29, the Leahy-Smith America Invents Act, signed September 16, 2011, 125 Stat. 284, as published by the U.S. Government Publishing Office.",
+     "credit": "Source: Public Law 112-29 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-112publ29/pdf/PLAW-112publ29.pdf",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "The first page of Public Law 112-29, the Leahy-Smith America Invents Act, signed September 16, 2011, 125 Stat. 284, as published by the U.S. Government Publishing Office",
-     "credit": "Source: Public Law 112-29 (GovInfo)",
-     "url": "https://www.govinfo.gov/content/pkg/PLAW-112publ29/pdf/PLAW-112publ29.pdf",
-     "card": false
-    },
-    {
-     "where": "Slide 5",
-     "what": "A crop of 35 U.S.C. 102, Conditions for patentability; novelty, in the 2024 edition of the U.S. Code, with the new subsection (a)(1) text as amended by the America Invents Act",
-     "credit": "Source: 35 U.S.C. 102 (GovInfo)",
+     "what": "A crop of 35 U.S.C. 102 in the 2024 edition of the U.S. Code: the section heading, Conditions for patentability; novelty, and subsection (a)(1), which bars a patent when the claimed invention was patented, described in a printed publication, or in public use, on sale, or otherwise available to the public before the effective filing date.",
+     "credit": "Source: 35 U.S.C. 102 (GovInfo), PD",
      "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title35/pdf/USCODE-2024-title35-partII-chap10-sec102.pdf",
      "card": false
     },
     {
-     "where": "Slide 6",
-     "what": "A crop of the Manual of Patent Examining Procedure, chapter 2100, section 2152.02, stating that under AIA 35 U.S.C. 102(a)(1) there is no geographic limitation on where prior public use or public availability occurs",
-     "credit": "Source: USPTO, MPEP chapter 2100",
+     "where": "Slide 5",
+     "what": "A crop of the Manual of Patent Examining Procedure, section 2152.02(d), with the sentence: Under AIA 35 U.S.C. 102(a)(1), there is no geographic limitation on where prior public use or public availability occurs.",
+     "credit": "Source: USPTO, MPEP chapter 2100, PD",
      "url": "https://www.uspto.gov/web/offices/pac/mpep/mpep-2100.pdf",
      "card": false
     },
     {
-     "where": "Slide 7",
-     "what": "Illustrative photo: aisles of dark bound journal volumes with gold-lettered spines on library shelves",
-     "credit": "Photo: Kavitha G. Kana",
-     "url": "https://commons.wikimedia.org/wiki/File:Journal_Bound_volumes_on_the_Shelves.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 8",
-     "what": "A crop of 35 U.S.C. 122(e), Preissuance submissions by third parties, in the 2024 edition of the U.S. Code, which lets any third party submit prior art on a pending application within the statute’s window",
-     "credit": "Source: 35 U.S.C. 122 (GovInfo)",
+     "where": "Slide 6",
+     "what": "A crop of 35 U.S.C. 122(e), Preissuance submissions by third parties, in the 2024 edition of the U.S. Code: any third party may submit a patent, published application or other printed publication for consideration in a pending application, in writing, within the time the statute sets.",
+     "credit": "Source: 35 U.S.C. 122 (GovInfo), PD",
      "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title35/pdf/USCODE-2024-title35-partII-chap11-sec122.pdf",
      "card": false
     },
     {
-     "where": "Slide 9",
-     "what": "The page of 21 C.F.R. 1307.31, Native American Church, in the April 1, 2024 edition of the Code of Federal Regulations, stating that the Schedule I listing of peyote does not apply to nondrug use in bona fide ceremonies of the Native American Church",
-     "credit": "Source: 21 CFR 1307.31 (GovInfo)",
+     "where": "Slide 7",
+     "what": "The page of 21 C.F.R. 1307.31, Native American Church, in the April 1, 2024 edition of the Code of Federal Regulations, stating that the Schedule I listing of peyote does not apply to the nondrug use of peyote in bona fide religious ceremonies of the Native American Church.",
+     "credit": "Source: 21 CFR 1307.31 (GovInfo), PD",
      "url": "https://www.govinfo.gov/content/pkg/CFR-2024-title21-vol9/pdf/CFR-2024-title21-vol9-sec1307-31.pdf",
      "card": false
     },
     {
-     "where": "Slide 10",
-     "what": "The twin towers and bridge of the Nagoya Congress Center in Nagoya, Japan, seen up a stepped plaza on a clear day",
-     "credit": "Photo: Lombroso",
-     "url": "https://commons.wikimedia.org/wiki/File:Nagoya_Congress_Center,_at_Atsuta-nishimachi,_Atsuta,_Nagoya_(2018-06-01)_08.jpg",
+     "where": "Slide 8",
+     "what": "A crop of page L 150/65 of the Official Journal of the European Union, 20 May 2014: Regulation (EU) No 511/2014, with the definition of traditional knowledge associated with genetic resources and Article 4, Obligations of users, which requires users to exercise due diligence that genetic resources and associated traditional knowledge were accessed under applicable access and benefit-sharing rules, and to pass the documents on to later users.",
+     "credit": "Source: Regulation (EU) No 511/2014 (EUR-Lex), © European Union",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0511",
      "card": false
     },
     {
-     "where": "Slide 11",
-     "what": "Illustrative photo: a side wing of the Nagoya Congress Center in Nagoya, Japan, with a blue sail-shaped clock sculpture and a raised walkway under a clear sky",
-     "credit": "Photo: Lombroso",
+     "where": "Slide 9",
+     "what": "A side wing of the Nagoya Congress Center in Nagoya, Japan, with a blue sail-shaped clock sculpture and a raised walkway under a clear sky, photographed in 2018. The tenth meeting of the parties to the Convention on Biological Diversity was held here from 18 to 29 October 2010 and adopted the Nagoya Protocol on 29 October 2010, the first date on the card.",
+     "credit": "Photo: Lombroso, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Nagoya_Congress_Center,_at_Atsuta-nishimachi,_Atsuta,_Nagoya_(2018-06-01)_12.jpg",
      "card": false
     },
     {
-     "where": "Slide 12",
-     "what": "Illustrative photo: the empty WIPO Conference Hall in Geneva, with rows of delegate desks and chairs under a pale wood ceiling with globe lights",
-     "credit": "Photo: Emmanuel Berrod",
-     "url": "https://commons.wikimedia.org/wiki/File:The_1,600_square_meter_WIPO_Conference_Hall_features_900_seats,_and_state-of-the-art_interpretation_and_projection_facilities_2.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 13a",
-     "what": "Illustrative photo: a close view of the glass and brick atrium tower on the Madison Building, headquarters of the United States Patent and Trademark Office in Alexandria, Virginia",
-     "credit": "Photo: SMSemler",
-     "url": "https://commons.wikimedia.org/wiki/File:Uspto2016.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 13b",
-     "what": "A crop of Public Law 112-29, section 3, 125 Stat. 285 to 286, with the new text of 35 U.S.C. 102, including the phrase otherwise available to the public before the effective filing date",
-     "credit": "Source: Public Law 112-29 (GovInfo)",
+     "where": "Slide 10a",
+     "what": "A crop of Public Law 112-29, section 3, 125 Stat. 285 to 286, with the new text of 35 U.S.C. 102, including the phrase otherwise available to the public before the effective filing date.",
+     "credit": "Source: Public Law 112-29 (GovInfo), PD",
      "url": "https://www.govinfo.gov/content/pkg/PLAW-112publ29/pdf/PLAW-112publ29.pdf",
      "card": false
     },
     {
-     "where": "Slide 14",
-     "what": "Illustrative photo: the United States Capitol seen from the northeast on a clear day, with the dome, the east front and the Senate wing steps",
-     "credit": "Photo: Beethoven (Commons)",
+     "where": "Slide 10b",
+     "what": "A crop of Public Law 112-29, section 3, 125 Stat. 285 to 286, with the new text of 35 U.S.C. 102, including the phrase otherwise available to the public before the effective filing date.",
+     "credit": "Source: Public Law 112-29 (GovInfo), PD",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-112publ29/pdf/PLAW-112publ29.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 11",
+     "what": "The East Front of the United States Capitol seen from the northeast on a clear day, with the dome and the Senate wing steps. Congress would have to pass the first direction on the list, a domestic benefit-sharing statute.",
+     "credit": "Photo: Beethoven (Commons), CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:2018-03-26_%E2%80%93_United_States_Capitol_East_Front,_viewed_from_the_northeast_%E2%80%93_Washington,_D.C.,_United_States.jpg",
      "card": false
+    }
+   ],
+   "corrections": [
+    {
+     "date": "2026-11-22",
+     "change": "Before posting: this post was corrected against primary sources. It now says the AIA removed the \"in this country\" limit on public use and sale (printed publications from any country already counted), describes the federal peyote exemption and RFRA separately, limits prior art submissions to patents and printed publications, and gives 143 Nagoya Parties on November 22, 2026."
+    },
+    {
+     "date": "2026-11-22",
+     "change": "Note on the linked article: the Cannabis Law Report article, published August 21, 2026, says Colombia ratified the Nagoya Protocol in 2020. The CBD and UN treaty lists show Colombia as a signatory (February 2, 2011) that has not ratified. The article also differs from primary sources on Brazil's Law 13,123, the EU Regulation's dates and scope, the Green Guides, and 35 U.S.C. 122(e). Where they differ, this page and the post follow the primary sources. Credit: RN Collins, Cannabis Law Report, Series 3, No. 2 (August 21, 2026): https://cannabislaw.report/rn-collins-series-3-no-2-patent-prior-art-indigenous-knowledge-and-the-nagoya-gap-where-the-america-invents-acts-prior-art-standard-may-reach-traditional-knowledge-in-the-psychedelic-indu/"
     }
    ]
   },

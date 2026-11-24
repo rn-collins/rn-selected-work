@@ -49,6 +49,8 @@ export type Origin = { kind: "article" | "listing" | "main"; label: string; url:
 export type SourcePost = {
   slug: string; date: string; id: string; title: string; series: string; origin: Origin;
   research: SourceLink[]; other: SourceLink[]; images: ImageCredit[]; note?: string;
+  // Dated correction notes, shown beside the article link (e.g. where a published article differs from primary sources).
+  corrections?: { date: string; change: string }[];
 };
 export type Account = {
   key: string; name: string; blurb: string; timeZone: string; posts: SourcePost[]; intro?: string;
