@@ -158,7 +158,7 @@ export default function BuildIndexPage() {
                           Read the case study <span aria-hidden="true">→</span>
                         </Link>
                       )}
-                      {build.repoUrl && (
+                      {!build.linkHeld && build.repoUrl && (
                         <a href={build.repoUrl} target="_blank" rel="noreferrer">
                           GitHub <span aria-hidden="true">↗</span>
                         </a>
