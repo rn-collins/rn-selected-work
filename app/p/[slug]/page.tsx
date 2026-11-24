@@ -44,7 +44,7 @@ export default async function PostPageView({ params }: Params) {
         {isReviewBuild() && !isPublicPost(p) && <p className={styles.review}>Review copy. Not public: {p.holdReason}.</p>}
         <p className="eyebrow">{p.series}</p>
         <h1 className={styles.title}>{p.title}</h1>
-        <p className={styles.date}><time dateTime={p.date}>{longDate(p.date)}</time></p>
+        <p className={styles.date}>{/^\d{4}-\d{2}-\d{2}$/.test(p.date) ? <time dateTime={p.date}>{longDate(p.date)}</time> : longDate(p.date)}</p>
         <p className={styles.summary}>{p.summary}</p>
         <div className={styles.actions}>
           {p.longForm && <a className={styles.primary} href={p.longForm} target="_blank" rel="noreferrer">Read the long form <span aria-hidden="true">↗</span></a>}
