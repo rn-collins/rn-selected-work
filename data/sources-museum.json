@@ -4,7 +4,7 @@
  "posts": [
   {
    "slug": "mus-cul-01",
-   "date": "2027-09-28",
+   "date": "2027-09-27",
    "id": "MUS-CUL-01",
    "title": "Hōkūleʻa: the voyage that proved the way",
    "series": "Exhibit in Progress",
@@ -51,7 +51,7 @@
   },
   {
    "slug": "mus-eip-01",
-   "date": "2027-05-08",
+   "date": "2027-05-07",
    "id": "MUS-EIP-01",
    "title": "The building that sold electricity",
    "series": "Exhibit in Progress",
@@ -154,7 +154,7 @@
   },
   {
    "slug": "mus-eip-04",
-   "date": "2027-05-16",
+   "date": "2027-05-15",
    "id": "MUS-EIP-04",
    "title": "From Hilo High to the Nobel Prize",
    "series": "Exhibit in Progress",
@@ -276,7 +276,7 @@
   },
   {
    "slug": "mus-eip-06",
-   "date": "2027-05-19",
+   "date": "2027-05-18",
    "id": "MUS-EIP-06",
    "title": "Alice Ball, and the credit she didn't get",
    "series": "Exhibit in Progress",
@@ -332,7 +332,7 @@
   },
   {
    "slug": "mus-eip-07",
-   "date": "2027-05-22",
+   "date": "2027-05-21",
    "id": "MUS-EIP-07",
    "title": "The steel guitarist behind the Stratocaster",
    "series": "Exhibit in Progress",
@@ -383,7 +383,7 @@
   },
   {
    "slug": "mus-eip-08",
-   "date": "2027-06-07",
+   "date": "2027-06-06",
    "id": "MUS-EIP-08",
    "title": "Women of Courage: Patsy Mink",
    "series": "Exhibit in Progress",
@@ -550,7 +550,7 @@
   },
   {
    "slug": "mus-enm-01",
-   "date": "2027-09-23",
+   "date": "2027-09-21",
    "id": "MUS-ENM-01",
    "title": "Jason Momoa: from Honolulu to Chief of War",
    "series": "Exhibit in Progress",
@@ -608,7 +608,7 @@
   },
   {
    "slug": "mus-enm-02",
-   "date": "2027-08-18",
+   "date": "2027-08-17",
    "id": "MUS-ENM-02",
    "title": "Bruno Mars: Roosevelt High, class of 2003",
    "series": "Exhibit in Progress",
@@ -662,7 +662,7 @@
   },
   {
    "slug": "mus-enm-03",
-   "date": "2027-08-20",
+   "date": "2027-08-19",
    "id": "MUS-ENM-03",
    "title": "Jack Johnson: Kahuku High, class of 1993",
    "series": "Exhibit in Progress",
@@ -709,7 +709,7 @@
   },
   {
    "slug": "mus-enm-04",
-   "date": "2027-08-22",
+   "date": "2027-08-21",
    "id": "MUS-ENM-04",
    "title": "Iam Tongi: the first American Idol winner from Hawaiʻi",
    "series": "Exhibit in Progress",
@@ -769,7 +769,7 @@
   },
   {
    "slug": "mus-enm-05",
-   "date": "2027-08-23",
+   "date": "2027-08-22",
    "id": "MUS-ENM-05",
    "title": "Dwayne Johnson's donated movie memorabilia",
    "series": "Exhibit in Progress",
@@ -816,7 +816,7 @@
   },
   {
    "slug": "mus-enm-06",
-   "date": "2027-08-25",
+   "date": "2027-08-24",
    "id": "MUS-ENM-06",
    "title": "Bette Midler: Radford High, class of 1963",
    "series": "Exhibit in Progress",
@@ -959,7 +959,7 @@
   },
   {
    "slug": "mus-enm-08",
-   "date": "2027-08-27",
+   "date": "2027-08-26",
    "id": "MUS-ENM-08",
    "title": "David Friedman's art of President Obama",
    "series": "Exhibit in Progress",
@@ -1000,7 +1000,7 @@
   },
   {
    "slug": "mus-ent-01",
-   "date": "2027-08-14",
+   "date": "2027-08-13",
    "id": "MUS-ENT-01",
    "title": "Steve Case: AOL started at Punahou",
    "series": "Exhibit in Progress",
@@ -1066,7 +1066,7 @@
   },
   {
    "slug": "mus-ent-02",
-   "date": "2027-08-11",
+   "date": "2027-08-10",
    "id": "MUS-ENT-02",
    "title": "Pierre Omidyar: eBay and Honolulu",
    "series": "Exhibit in Progress",
@@ -1139,7 +1139,7 @@
   },
   {
    "slug": "mus-ent-03",
-   "date": "2027-08-16",
+   "date": "2027-08-15",
    "id": "MUS-ENT-03",
    "title": "Guy Kawasaki: the evangelist from ʻIolani",
    "series": "Exhibit in Progress",
@@ -1197,7 +1197,7 @@
   },
   {
    "slug": "mus-ent-04",
-   "date": "2027-05-24",
+   "date": "2027-05-23",
    "id": "MUS-ENT-04",
    "title": "Robert Kiyosaki: Rich Dad Poor Dad from Hilo",
    "series": "Exhibit in Progress",
@@ -1300,7 +1300,7 @@
   },
   {
    "slug": "mus-ent-06",
-   "date": "2027-08-17",
+   "date": "2027-08-16",
    "id": "MUS-ENT-06",
    "title": "King's Hawaiian: a bakery named after a street",
    "series": "Exhibit in Progress",
@@ -1403,7 +1403,7 @@
   },
   {
    "slug": "mus-inv-01",
-   "date": "2027-09-18",
+   "date": "2027-09-17",
    "id": "MUS-INV-01",
    "title": "ʻIolani Palace had electric light before the White House",
    "series": "Exhibit in Progress",
@@ -1517,7 +1517,7 @@
   },
   {
    "slug": "mus-inv-02",
-   "date": "2027-09-20",
+   "date": "2027-09-19",
    "id": "MUS-INV-02",
    "title": "The Hawaiian Kingdom had its own patent law",
    "series": "Exhibit in Progress",
@@ -1831,7 +1831,7 @@
   },
   {
    "slug": "mus-mus-01",
-   "date": "2027-09-17",
+   "date": "2027-09-16",
    "id": "MUS-MUS-01",
    "title": "Why this museum exists: 2008",
    "series": "Exhibit in Progress",
@@ -1942,7 +1942,7 @@
   },
   {
    "slug": "mus-spt-02",
-   "date": "2027-08-28",
+   "date": "2027-08-27",
    "id": "MUS-SPT-02",
    "title": "Carissa Moore: the first Olympic surfing gold",
    "series": "Exhibit in Progress",
@@ -2077,7 +2077,7 @@
   },
   {
    "slug": "mus-spt-04",
-   "date": "2027-08-31",
+   "date": "2027-08-30",
    "id": "MUS-SPT-04",
    "title": "Bryan Clay and the Wheaties box",
    "series": "Exhibit in Progress",
@@ -2139,7 +2139,7 @@
   },
   {
    "slug": "mus-spt-05",
-   "date": "2027-09-04",
+   "date": "2027-08-31",
    "id": "MUS-SPT-05",
    "title": "2008 Beijing: Natasha Kai and Clay Stanley",
    "series": "Exhibit in Progress",
@@ -2270,7 +2270,7 @@
   },
   {
    "slug": "mus-spt-08",
-   "date": "2027-09-08",
+   "date": "2027-09-06",
    "id": "MUS-SPT-08",
    "title": "159 professional football players from Hawaiʻi",
    "series": "Exhibit in Progress",
@@ -2310,7 +2310,7 @@
   },
   {
    "slug": "mus-spt-09",
-   "date": "2027-09-14",
+   "date": "2027-09-08",
    "id": "MUS-SPT-09",
    "title": "Women Sports Pioneers: Hawaiʻi went first",
    "series": "Exhibit in Progress",
@@ -2355,7 +2355,7 @@
   },
   {
    "slug": "mus-st-01",
-   "date": "2027-06-14",
+   "date": "2027-06-13",
    "id": "MUS-ST-01",
    "title": "Coming soon: books for children",
    "series": "Exhibit in Progress",
@@ -2384,7 +2384,7 @@
   },
   {
    "slug": "mus-woc-01",
-   "date": "2027-09-29",
+   "date": "2027-09-28",
    "id": "MUS-WOC-01",
    "title": "Haunani-Kay Trask: scholar, poet, voice for sovereignty",
    "series": "Exhibit in Progress",
@@ -2429,7 +2429,7 @@
   },
   {
    "slug": "mus-woc-02",
-   "date": "2027-09-27",
+   "date": "2027-09-26",
    "id": "MUS-WOC-02",
    "title": "Kahoʻolawe: the movement that stopped the bombing",
    "series": "Exhibit in Progress",
@@ -2488,7 +2488,7 @@
   },
   {
    "slug": "mus-woc-03",
-   "date": "2027-09-25",
+   "date": "2027-09-24",
    "id": "MUS-WOC-03",
    "title": "Wilhelmine Dowsett and the fight for the vote",
    "series": "Exhibit in Progress",
@@ -2539,7 +2539,7 @@
   },
   {
    "slug": "mus-yt-01",
-   "date": "2027-06-10",
+   "date": "2027-06-09",
    "id": "MUS-YT-01",
    "title": "A two-time national yo-yo champion",
    "series": "Exhibit in Progress",
@@ -2588,7 +2588,7 @@
   },
   {
    "slug": "mus-yt-02",
-   "date": "2027-06-22",
+   "date": "2027-06-21",
    "id": "MUS-YT-02",
    "title": "Under five seconds",
    "series": "Exhibit in Progress",
@@ -2624,7 +2624,7 @@
   },
   {
    "slug": "mus-yt-03",
-   "date": "2027-06-30",
+   "date": "2027-06-29",
    "id": "MUS-YT-03",
    "title": "B-Boy Hi Jack",
    "series": "Exhibit in Progress",
