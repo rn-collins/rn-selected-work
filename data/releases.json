@@ -12331,6 +12331,33 @@
    "galleryUrl": ""
   },
   {
+   "id": "polymath/three-questions",
+   "releasedAt": "2026-12-27",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/polymath/three-questions",
+   "galleryUrl": ""
+  },
+  {
+   "id": "polymath/two-strikes-at-once",
+   "releasedAt": "2027-01-06",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/polymath/two-strikes-at-once",
+   "galleryUrl": ""
+  },
+  {
+   "id": "polymath/you-have-two-strikes-against-you",
+   "releasedAt": "2026-12-25",
+   "hold": false,
+   "postUrls": {},
+   "longFormUrl": "",
+   "sourcePageUrl": "https://rn-selected-work.vercel.app/sources/polymath/you-have-two-strikes-against-you",
+   "galleryUrl": ""
+  },
+  {
    "id": "psychonaut-bookworm/annotations-sa-001",
    "releasedAt": "2026-08-15",
    "hold": false,

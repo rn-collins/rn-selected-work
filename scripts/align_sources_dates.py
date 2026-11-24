@@ -20,7 +20,7 @@ import json, pathlib, sys, collections, datetime
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 BASE = "https://rn-selected-work.vercel.app/sources/"
-FILES = {"ioo": ["ioo", "ioo-site"], "polymath": ["polymath", "polymath-rnc"]}
+FILES = {"ioo": ["ioo", "ioo-site"], "polymath": ["polymath", "polymath-rnc", "polymath-ideas"]}
 ALWAYS_MOVE = {"film", "museum"}
 write, retire_live = "--write" in sys.argv, "--retire-live" in sys.argv
 today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-10))).date().isoformat()
