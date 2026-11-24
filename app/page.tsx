@@ -51,8 +51,9 @@ export default function Home() {
           <Link href="/work">
             <h2>Read the work →</h2>
             <p>
-              {projects.length} case studies. Each one keeps the question, the reasoning,
-              and what was made. Open a live build from the case study when one is public.
+              {projects.length} primary case studies, plus the NARCH and Women’s Neuro-Health
+              workbenches. Each one keeps the question, the reasoning, and what was made.
+              Open a live build from the case study when one is public.
             </p>
           </Link>
           <Link href="/writing">
