@@ -1,6 +1,6 @@
 /* The specimen design system (redesign brief, RN approved Nov 18, 2026). Every page reads like a museum plate: a large,
-   quiet subject, a fine label, and the evidence underneath. Two faces only: Bodoni Moda for names and headlines,
-   Outfit for everything read (both loaded by the root layout, with system fallbacks). One accent per brand.
+   quiet subject, a fine label, and the evidence underneath. Two faces only: Playfair Display for names and headlines,
+   Inter for everything read (both loaded by the root layout, with system fallbacks). One accent per brand.
    Motion is an extra: it only runs for readers who have not asked for reduced motion, and nothing needs JavaScript. */
 
 .page {
@@ -13,8 +13,8 @@
   --aan: #1f5c4a;
   --accent: var(--ink);
   --s1: .5rem; --s2: 1rem; --s3: 1.5rem; --s4: 2rem; --s6: 3rem; --s8: 4rem;
-  --display: "Bodoni Moda", "Didot", "Bodoni 72", Georgia, serif;
-  --text: Outfit, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --display: "Playfair Display", Georgia, serif;
+  --text: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 
   min-height: 100vh;
   padding: var(--s4) clamp(1.1rem, 5vw, 3rem) var(--s8);
