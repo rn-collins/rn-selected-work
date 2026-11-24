@@ -433,9 +433,9 @@
      "file": "07.jpg",
      "w": 720,
      "h": 900,
-     "alt": "The west front of the U.S. Supreme Court building at dusk, its white columns lit from inside above wide steps.",
-     "credit": "Photo: Joe Ravi, CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg"
+     "alt": "The Supreme Court's docket page for No. 26-445, adidas America, Inc., et al., Petitioners v. Thom Browne, Inc., docketed October 2, 2026, with entries showing the petition filed September 28, 2026 and the time for a response extended to December 2, 2026.",
+     "credit": "Source: Supreme Court docket, No. 26-445",
+     "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-445.html"
     }
    ],
    "sources": [
@@ -1455,7 +1455,23 @@
    ],
    "sourcesPage": "/sources/polymath/pm-rnc-06",
    "longForm": "https://polymath-rn-collins.beehiiv.com/p/why-institutions-automate-existing-confusion",
-   "reel": null,
+   "reel": {
+    "seconds": 37,
+    "onScreen": [
+     "Robodebt wasn't a rogue algorithm. Annual income was averaged across fortnights, and an unanswered question became a debt.",
+     "The Commission's own description: not AI, but rigid business rules that stayed in place until humans changed them.",
+     "A system can't execute 'it depends.' Every unresolved case needs a default, a branch, a queue or a refusal.",
+     "The seam is part of the system: Colorado ended eligibility in one system; the status didn't always reach the other.",
+     "A data match directs attention. It doesn't decide what the institution knows.",
+     "Bias can live in procedures and practices, not only in code.",
+     "Before automating: name the category, evidence, rule, handoff and authority. Then resolve, preserve, bound, escalate or refuse."
+    ],
+    "spoken": [],
+    "sound": [
+     "Sound effects: RN Collins foley kit, made in code (CC0)"
+    ],
+    "url": ""
+   },
    "glossary": [
     {
      "term": "income averaging",
@@ -3060,7 +3076,29 @@
    ],
    "sourcesPage": "/sources/polymath/pm-rnc-01",
    "longForm": "https://polymath-rn-collins.beehiiv.com/p/law-happens-somewhere",
-   "reel": null,
+   "reel": {
+    "seconds": 33,
+    "onScreen": [
+     "The law said appear. Nobody said where the entrance was.",
+     "Law happens somewhere: a room, a queue, a portal, a form, a wait. A hearing set for 9:00 that starts at 11:40 costs a day of wages, childcare and transport.",
+     "Same record, two routes: PACER charges 10 cents a page, capped at $3 a document. Courthouse terminal viewing is free.",
+     "Federal criminal courtrooms can't be photographed (Fed. R. Crim. P. 53). You can see the building, not the proceeding.",
+     "The ADA requires effective communication. Compliance is the floor, not the whole picture.",
+     "In Hawaiʻi, board meetings are open to the public, with written and oral testimony allowed (HRS § 92-3).",
+     "The justice question comes first: should this demand exist at all? Sometimes the answer is to remove it."
+    ],
+    "spoken": [
+     "Most federal court case files are available",
+     "online through the Public Access to Court",
+     "Electronic Records service,",
+     "also known as PACER."
+    ],
+    "sound": [
+     "Voice: Javier Hernandez, United States Courts, \"Federal Judiciary Makes Improvements to PACER Service\", 2010 (public domain)",
+     "Sound effects: RN Collins foley kit, made in code (CC0)"
+    ],
+    "url": ""
+   },
    "glossary": [
     {
      "term": "administrative-burden",
@@ -3645,9 +3683,9 @@
      "file": "01.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Photograph of Shepard Fairey's original Obama HOPE collage on the wall of the National Portrait Gallery's New Arrivals display in February 2009. It is the poster the sentence names, the work that began with a photograph of Obama.",
-     "credit": "Photo: Adam Fagen, CC BY-NC-SA 2.0",
-     "url": "https://www.flickr.com/photos/afagen/3249819668/"
+     "alt": "A framed print of Shepard Fairey's HOPE poster, Obama's face in red, beige and blue above the word HOPE, hanging on an office wall in Washington in April 2011. It is the poster the sentence names.",
+     "credit": "Photo: George Miller, CC BY 2.0, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Richmond_ONS_Washington,_DC_Visit_(5613891649).jpg"
     },
     {
      "file": "02.jpg",
@@ -3717,25 +3755,25 @@
      "file": "10.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Photograph of a wall pasted over with dozens of printed copies of the HOPE poster, taken October 29, 2008. It shows the poster itself in the form that spread, the thing whose use a credit line would not settle.",
-     "credit": "Photo: Thomas Hawk, CC BY-NC 2.0",
-     "url": "https://www.flickr.com/photos/thomashawk/3218906224/"
+     "alt": "A HOPE portrait of Obama rebuilt in thousands of plastic bricks, shown at BrickCon in Seattle in October 2010. It is the HOPE image copied again by someone else, the kind of use a credit line would not settle.",
+     "credit": "Photo: Bill Ward, CC BY 2.0, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Mosaics_(5045942537).jpg"
     },
     {
      "file": "11.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Shepard Fairey's HOPE collage hanging behind a rope at the National Portrait Gallery, photographed January 19, 2013 by Victoria Pickering. It shows the artwork whose ownership questions the sentence says the AP documents do not resolve; it is not evidence of ownership, infringement, fair use or the settlement terms.",
-     "credit": "Photo: Victoria Pickering, CC BY-NC-ND 2.0",
-     "url": "https://www.flickr.com/photos/vpickering/8516854063/"
+     "alt": "Page 1 of Judge Hellerstein's order of January 10, 2011 in Fairey v. Associated Press, dismissing the settled claims: a suggestion of settlement having been made between the AP and Fairey, the claims arising between them are dismissed.",
+     "credit": "Source: S.D.N.Y. order, Jan. 10, 2011",
+     "url": "https://cases.justia.com/federal/district-courts/new-york/nysdce/1:2009cv01123/340121/166/0.pdf"
     },
     {
      "file": "12.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Shepard Fairey's HOPE collage hanging behind a rope at the National Portrait Gallery, photographed January 19, 2013 by Victoria Pickering. It shows the artwork whose ownership questions the sentence says the AP documents do not resolve; it is not evidence of ownership, infringement, fair use or the settlement terms.",
-     "credit": "Photo: Victoria Pickering, CC BY-NC-ND 2.0",
-     "url": "https://www.flickr.com/photos/vpickering/8516854063/"
+     "alt": "Page 1 of Judge Hellerstein's order of January 10, 2011 in Fairey v. Associated Press, dismissing the settled claims: a suggestion of settlement having been made between the AP and Fairey, the claims arising between them are dismissed.",
+     "credit": "Source: S.D.N.Y. order, Jan. 10, 2011",
+     "url": "https://cases.justia.com/federal/district-courts/new-york/nysdce/1:2009cv01123/340121/166/0.pdf"
     }
    ],
    "sources": [
@@ -14494,9 +14532,9 @@
      "file": "03.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Typewritten list entries from Hassink's 1995 project text: the meeting tables of Peugeot, Paris, 2 November 1994, black photo; Philips, Eindhoven, 15 July 1993, photo; PREUSSAG, Hannover, 17 May 1995, black photo.",
+     "alt": "Page 1 of the Dutch Design Week press kit for Table of Power, by the designers collective SHOW NOT SHOW: the title refers to Jacqueline Hassink's project The Table of Power, in which she photographed the boardroom tables of major multinationals as symbols of institutional power.",
      "credit": "",
-     "url": "https://web.archive.org/web/20190507093517id_/http://www.jacquelinehassink.com/jh/media/original/24/the_table_of_power_press.pdf"
+     "url": "https://ddw.nl/en/programme/table-of-power"
     },
     {
      "file": "04.jpg",
@@ -15245,7 +15283,16 @@
    "sources": [],
    "sourcesPage": "/sources/polymath/two-strikes-at-once",
    "longForm": "",
-   "reel": null,
+   "reel": {
+    "seconds": 41,
+    "onScreen": [],
+    "spoken": [],
+    "sound": [
+     "Music: Marcus Denight, \"New Horizons\" (2018), CC BY 4.0, archive.org/details/marcus-denight-legends-of-imminent",
+     "Sound effects: RN Collins foley kit, made in code (CC0)"
+    ],
+    "url": ""
+   },
    "glossary": [],
    "legalNote": false,
    "hold": true,
@@ -15672,7 +15719,7 @@
      "file": "08.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Illustrative photo: Two visitors seen from behind stand close to the yellow-orange timber frame of Factory 5.0 and read the white packets it carries, in front of a glass facade. It is a 2025 photograph from the Factory 5.0 album and stands behind the record card; it does not show the counts.",
+     "alt": "Illustrative photo: Two visitors seen from behind stand close to the yellow-orange timber frame of Factory 5.0 and read the white packets it carries, in front of a glass facade. It is a 2025 photograph from the Factory 5.0 album and stands behind the fact card; it does not show the counts.",
      "credit": "Photo: Cleo Goossens/Dutch Design Week",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54901441191/"
     },
@@ -15680,7 +15727,7 @@
      "file": "09.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Illustrative photo: A view from above into the Klokgebouw hall. A visitor with headphones sits on a wooden bench at a platform with a screen, a mannequin in a white ruffled dress stands behind, and a tall banner shows a person in a pink dress with small cans attached to the legs. It is a 2025 photograph from the Class of 25 album and stands in for the limits of the record; it does not show them.",
+     "alt": "Illustrative photo: A view from above into the Klokgebouw hall. A visitor with headphones sits on a wooden bench at a platform with a screen, a mannequin in a white ruffled dress stands behind, and a tall banner shows a person in a pink dress with small cans attached to the legs. It is a 2025 photograph from the Class of 25 album and stands in for the limits of the archive; it does not show them.",
      "credit": "Photo: B. Bollmann/Dutch Design Week",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54905659109/"
     },
@@ -16676,7 +16723,7 @@
      "file": "08.jpg",
      "w": 720,
      "h": 900,
-     "alt": "The Wayne L. Morse United States Courthouse in Eugene, Oregon, a glass and steel building with a long flag-flying facade and wide concrete steps. The case record lists the federal court's Eugene office; the photo shows no hearing, document or person.",
+     "alt": "The Wayne L. Morse United States Courthouse in Eugene, Oregon, a glass and steel building with a long flag-flying facade and wide concrete steps. The case docket lists the federal court's Eugene office; the photo shows no hearing, document or person.",
      "credit": "Photo: Another Believer",
      "url": "https://commons.wikimedia.org/wiki/File:Wayne_L._Morse_United_States_Courthouse,_Eugene,_Oregon_(2012)_-_05.JPG"
     },
@@ -16684,7 +16731,7 @@
      "file": "09.jpg",
      "w": 720,
      "h": 900,
-     "alt": "The Wayne L. Morse United States Courthouse in Eugene, Oregon, seen from the side, with a curved steel-clad end wall and a metal sculpture on the plaza. The case record lists the federal court's Eugene office; the photo shows no hearing, document or person.",
+     "alt": "The Wayne L. Morse United States Courthouse in Eugene, Oregon, seen from the side, with a curved steel-clad end wall and a metal sculpture on the plaza. The case docket lists the federal court's Eugene office; the photo shows no hearing, document or person.",
      "credit": "Photo: Another Believer",
      "url": "https://commons.wikimedia.org/wiki/File:Wayne_L._Morse_United_States_Courthouse,_Eugene,_Oregon_(2012)_-_04.JPG"
     },
@@ -16716,7 +16763,7 @@
      "file": "13.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Psilocybe cyanescens, a psilocybin mushroom, in a field photograph taken in Oregon on October 20, 2021: two caramel brown caps with wavy edges on whitish stems in wood chips and conifer needles, one turned to show its brown gills. Psilocybin, the substance these service centers are licensed to provide, is made by this fungus and its relatives.",
+     "alt": "Illustrative photo: the Colorado State Capitol in Denver seen across a flower garden, its gold dome in the distance. The boundary frame has no physical subject.",
      "credit": "Photo: Michele Wiseman",
      "url": "https://www.inaturalist.org/photos/164644618"
     },
@@ -17259,7 +17306,7 @@
      "Josh Senior is credited as Inside's producer, with Bo Burnham credited as executive producer and performer,",
      "both listed on the Television Academy's own page for the special.",
      "The Television Academy nominated both Burnham and Senior for the 2021 Emmy",
-     "for Outstanding Variety Special (Pre-Recorded), a category Hamilton went on to win."
+     "for Outstanding Variety Special, a category Hamilton went on to win."
     ],
     "spoken": [],
     "sound": [
@@ -17286,7 +17333,7 @@
      "w": 720,
      "h": 900,
      "alt": "Illustrative photo: A night view from above of a lit city square, with a tower of stacked colored cubes, striped red and orange canopies, a white tent and the bright sign AlwaysAllover KetelHuis, and office blocks and apartment towers around it. It is a 2024 photograph from the Ketelhuisplein album and stands in for the dates and the theme; it does not show them.",
-     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "credit": "Photo: Max Kneefel/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54131770061/"
     },
     {
@@ -17294,7 +17341,7 @@
      "w": 720,
      "h": 900,
      "alt": "Strips of paper printed REAL UNREAL hang in rows from a truss over the entrance to a gray hall. Beyond the doorway visitors stand in a lit room, and a woman in a black coat in the foreground photographs the banner with her phone. It is a 2024 photograph from the Klokgebouw album, used because the sentence is about the theme and the banner shows its name.",
-     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "credit": "Photo: Max Kneefel/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54135221588/"
     },
     {
@@ -17302,7 +17349,7 @@
      "w": 720,
      "h": 900,
      "alt": "A gray wooden chair with an easel-shaped back stands against a white wall behind the corner of a blue block. It is a 2024 photograph from the Piet Hein Eek album, one of two titled Dirk Duif PHE. It does not show Teunland 2.0.",
-     "credit": "Photo: Jeroen van der Wielen/DDW",
+     "credit": "Photo: Jeroen van der Wielen/DDW, perm.",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54131796396/"
     },
     {
@@ -17310,7 +17357,7 @@
      "w": 720,
      "h": 900,
      "alt": "Free-standing white partitions and wall panels printed with long Dutch and English texts, a mirror between them and several visitors, two blurred by movement, in a bright room with exposed pipes. It is a 2024 photograph titled Lighting-for-Wellbeing from the NRE album, used because the sentence is about that title.",
-     "credit": "Photo: Anwyn Howarth/Dutch Design Week",
+     "credit": "Photo: Anwyn Howarth/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54132082408/"
     },
     {
@@ -17318,7 +17365,7 @@
      "w": 720,
      "h": 900,
      "alt": "Ornamental grasses with pale plumes, pink flowers and a young tree with green and orange leaves grow along the black edge of a roof against a blue sky with white clouds, with scaffolding poles in the foreground. No people appear. It is a 2024 photograph titled Cooling-Down-the-City from the NRE album, used because the sentence is about this project.",
-     "credit": "Photo: Anwyn Howarth/Dutch Design Week",
+     "credit": "Photo: Anwyn Howarth/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54132264915/"
     },
     {
@@ -17326,7 +17373,7 @@
      "w": 720,
      "h": 900,
      "alt": "Three tall bamboo canopies shaped like wide mushrooms, lit orange at dusk, stand on a paved square. A group of visitors talks at the left and two people walk past at the right, with a container marked Drivers of Change behind. It is a 2024 photograph from the Ketelhuisplein album, used because the sentence is about the bamboo pavilion; no title names it.",
-     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "credit": "Photo: Max Kneefel/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54132101984/"
     },
     {
@@ -17334,23 +17381,23 @@
      "w": 720,
      "h": 900,
      "alt": "Two visitors seen from behind read large wall boards, one headed Geleerde lessen, which is Dutch for learned lessons, and one headed Facts & figures over an aerial photograph of a river and fields. It is a 2024 photograph from the Designing Society album, used because the sentence is about this project.",
-     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "credit": "Photo: Max Kneefel/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54151320224/"
     },
     {
      "file": "08.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Illustrative photo: A small white tent on stilts on a lawn, wrapped in long white streamers printed with Dutch sentences, with visitors' legs visible under it, a brick chimney and apartment towers behind and a yellow chair sculpture in the distance. It is a 2024 photograph from the Ketelhuisplein album and stands behind the record card; it does not show the counts.",
-     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "alt": "Illustrative photo: A small white tent on stilts on a lawn, wrapped in long white streamers printed with Dutch sentences, with visitors' legs visible under it, a brick chimney and apartment towers behind and a yellow chair sculpture in the distance. It is a 2024 photograph from the Ketelhuisplein album and stands behind the fact card; it does not show the counts.",
+     "credit": "Photo: Max Kneefel/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54132118854/"
     },
     {
      "file": "09.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Illustrative photo: Two visitors seen from behind reach toward a wall of colored relief shapes in red, yellow, blue, green and pink, lit from behind. It is a 2024 photograph from the Klokgebouw album and stands in for the limits of the record; it does not show them.",
-     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "alt": "Illustrative photo: Two visitors seen from behind reach toward a wall of colored relief shapes in red, yellow, blue, green and pink, lit from behind. It is a 2024 photograph from the Klokgebouw album and stands in for the limits of the archive; it does not show them.",
+     "credit": "Photo: Max Kneefel/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54134935736/"
     },
     {
@@ -17358,7 +17405,7 @@
      "w": 720,
      "h": 900,
      "alt": "Illustrative photo: An orange racing car stands inside a glass-walled shipping container under a sign reading Drivers of Change, with visitors behind the glass and a man on a mobility scooter in front. It is a 2024 photograph from the Ketelhuisplein album and stands in for the checklist questions; it does not show them.",
-     "credit": "Photo: Max Kneefel/Dutch Design Week",
+     "credit": "Photo: Max Kneefel/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/54132219965/"
     }
    ],
@@ -18654,7 +18701,7 @@
      "file": "14.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Page 850-100 and 850-101 area of the compiled chapter 11-850, section 11-850-128, recordkeeping for quality control, including the written record of every product complaint and every adverse event.",
+     "alt": "Page 850-100 and 850-101 area of the compiled chapter 11-850, section 11-850-128, on quality-control documentation, including the written log of every product complaint and every adverse event.",
      "credit": "Source: DOH, HAR 11-850 (2025), p. 850-101",
      "url": "https://health.hawaii.gov/medicalcannabis/files/2025/12/Chapter11-850-HAR-Nov17-2025.pdf"
     }
@@ -19238,7 +19285,7 @@
      "file": "09.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Illustrative photo: A close view of timber beams edged in glowing pink, with a thin white light strip along one beam and a steel bracket at a joint, in a tall hall with a plywood wall behind. No people appear. It is a 2023 photograph from the Kiki & Joost album and stands behind the record card; it does not show the counts.",
+     "alt": "Illustrative photo: A close view of timber beams edged in glowing pink, with a thin white light strip along one beam and a steel bracket at a joint, in a tall hall with a plywood wall behind. No people appear. It is a 2023 photograph from the Kiki & Joost album and stands behind the fact card; it does not show the counts.",
      "credit": "Photo: Nick Bookelaar/Dutch Design Week",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/53322758990/"
     },
@@ -19246,7 +19293,7 @@
      "file": "10.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Illustrative photo: A terracotta tower of stacked 3D-printed rings in different textures, topped by a pot with a small green plant and surrounded by grass, in a greenhouse where visitors talk out of focus behind it. It is a 2023 photograph from the Embassy of Circular & Biobased Building album and stands in for the limits of the record; it does not show them.",
+     "alt": "Illustrative photo: A terracotta tower of stacked 3D-printed rings in different textures, topped by a pot with a small green plant and surrounded by grass, in a greenhouse where visitors talk out of focus behind it. It is a 2023 photograph from the Embassy of Circular & Biobased Building album and stands in for the limits of the archive; it does not show them.",
      "credit": "Photo: Cleo Goossens/Dutch Design Week",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/53322155661/"
     },
@@ -19917,7 +19964,7 @@
      "file": "13.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Psilocybe cubensis, a psilocybin mushroom, in a field photograph from Alachua County, Florida, May 31, 2020: one small mushroom with a cream cap and a brown center growing from a dark dung pat among grass and pine needles. Psilocybin, which federal law lists in Schedule I, is made by this fungus and its relatives.",
+     "alt": "The second page of the syllabus in Wyeth v. Levine, 555 U.S. 555 (2009), where the Court rejects the argument that a state-law duty to give a stronger warning would obstruct Congress's purpose of leaving drug labeling to FDA.",
      "credit": "Photo: Alex Abair",
      "url": "https://www.inaturalist.org/photos/76243310"
     },
@@ -20013,9 +20060,9 @@
      "file": "03.jpg",
      "w": 720,
      "h": 900,
-     "alt": "name cards for \"VIBA 40 jaar\" pinned to a wooden board at the association's anniversary symposium. It is not the chronology the sentence mentions.",
+     "alt": "The exhibition's DDW press kit: this exhibition is inspired by 50 years of the Association for Integral Bio-logical Architecture (VIBA), with examples of research, design and construction by the pioneers of bio-logical building in the 1970s and 1980s.",
      "credit": "",
-     "url": "https://vibavereniging.nl/viba-sinds-1976/"
+     "url": "https://ddw.nl/en/programme/50-jaar-biologisch-en-biobased-bouwen-in-nederland"
     },
     {
      "file": "04.jpg",
@@ -20077,9 +20124,9 @@
      "file": "11.jpg",
      "w": 720,
      "h": 900,
-     "alt": "The Gruyterfabriek building in 's-Hertogenbosch with its red rooftop sign, the longtime home of the VIBA Expo and VIBA Cafe, as shown on VIBA's own history page.",
+     "alt": "The exhibition's press-kit sheet, captioned Professor Peter Schmid and the VIBA heritage: a portrait of Schmid beside a drawing of the spiral stand, whose transparent panels present the early history of bio-logical and biobased building in the Netherlands.",
      "credit": "",
-     "url": "https://vibavereniging.nl/viba-sinds-1976/"
+     "url": "https://ddw.nl/en/programme/50-jaar-biologisch-en-biobased-bouwen-in-nederland"
     },
     {
      "file": "12.jpg",
@@ -20203,7 +20250,7 @@
      "file": "08.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Illustrative photo: the exterior of Building 31 at the FDA White Oak campus, a brick and stone building with glass. The record card sets out the article's four tiers of evidence, a proposal for how FDA might weigh data; this is an agency building, not a document.",
+     "alt": "Illustrative photo: the exterior of Building 31 at the FDA White Oak campus, a brick and stone building with glass. The fact card sets out the article's four tiers of evidence, a proposal for how FDA might weigh data; this is an agency building, not a document.",
      "credit": "Source: U.S. FDA, Public domain",
      "url": "https://commons.wikimedia.org/wiki/File:FDA_Bldg_31_-_Exterior_(5161375422).jpg"
     },
@@ -20251,7 +20298,7 @@
      "file": "14.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Close view of a flowering top of Cannabis sativa against a dark background: pale, hair-like pistils and leaves covered in tiny glandular trichomes, the resin glands where the plant makes cannabinoids such as THC. Photograph by Alex Abair, United States, 2016.",
+     "alt": "Illustrative photo: the entrance area of the Tokyo Metropolitan Medicinal Plants Garden, with greenhouses and trees behind a parking area. The don't box notes that the 2019 study examined herbal ingredients and that living-organism studies are still needed; this garden stands for plant-derived medicines.",
      "credit": "Photo: Alex Abair, CC BY 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Cannabis_sativa_54896760.jpg"
     },
@@ -20521,7 +20568,7 @@
      "file": "10.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Illustrative photo: A close view of a sculpture of polished metal plates fitted together like armor, with warm light behind. No people appear. It is a 2021 photograph from the Manifestations album and stands behind the record card; it does not show the counts.",
+     "alt": "Illustrative photo: A close view of a sculpture of polished metal plates fitted together like armor, with warm light behind. No people appear. It is a 2021 photograph from the Manifestations album and stands behind the fact card; it does not show the counts.",
      "credit": "Photo: Tommy Kohlbrugge/Dutch Design Week",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/51626958952/"
     },
@@ -22490,7 +22537,7 @@
      "w": 720,
      "h": 900,
      "alt": "Illustrative photo: A high view of a large industrial hall lit in red, with a long wooden table on a yellow base in the middle under a huge screen showing the diamond logo of the Dutch Design Awards in pale green, gray and orange. A host sits at the head of the table with a guest at the right, and six more guests sit on stools and chairs around it, with several camera operators and crew standing around the edges. It is a 2020 photograph from the DDA Award Show Live album and stands in for the dates and the show; it does not show them.",
-     "credit": "Photo: Oscar Vinck/Dutch Design Week",
+     "credit": "Photo: Oscar Vinck/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/50528637162/"
     },
     {
@@ -22498,7 +22545,7 @@
      "w": 720,
      "h": 900,
      "alt": "Close view of a television camera in a dark studio, its viewfinder showing a miniature of the lit table in the red hall with the logo screen behind. Out of focus, a large screen with the diamond logo of the Dutch Design Awards and two people at a wooden table are visible in the blur. No faces are readable. It is a 2020 photograph titled DDA Award Show Live_Habitat from the DDA Award Show Live album, used because the sentence is about the live show.",
-     "credit": "Photo: Oscar Vinck/Dutch Design Week",
+     "credit": "Photo: Oscar Vinck/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/50528635817/"
     },
     {
@@ -22506,7 +22553,7 @@
      "w": 720,
      "h": 900,
      "alt": "Four adults sit at a long wooden table on a yellow base in a red-lit hall, three of them with microphones and one holding a tablet, with a large screen behind them showing a building and a .NL logo. A small screen under the table reads NL Architects X deMunnik-deJong-Steinhauser architectencollectief e.a. and a Dutch quote beginning Het Forum Groningen verbindt zich op talloze manieren met de Groningers. It is a 2020 photograph titled DDA Award Show Live_Habitat from the DDA Award Show Live album, used because the sentence is about this screen.",
-     "credit": "Photo: Jeroen van der Wielen/DDW",
+     "credit": "Photo: Jeroen van der Wielen/DDW, perm.",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/50527742808/"
     },
     {
@@ -22514,7 +22561,7 @@
      "w": 720,
      "h": 900,
      "alt": "A host with short blond hair smiles at the head of a long wooden table, with a woman with dark curly hair seen from behind at the left and a man in dark clothes at the right. A huge screen behind them and a monitor under the table show a garden with pink curved walls, a gravel path and masses of pink and purple flowers, and a small trophy stands on a white plinth at the left. It is a 2020 photograph titled DDA Award Show Live_Habitat from the DDA Award Show Live album, used because the sentence is about these screens.",
-     "credit": "Photo: Jeroen van der Wielen/DDW",
+     "credit": "Photo: Jeroen van der Wielen/DDW, perm.",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/50527747228/"
     },
     {
@@ -22522,7 +22569,7 @@
      "w": 720,
      "h": 900,
      "alt": "A wide view of a red-lit industrial hall with a long wooden table at the center and about eight adults, some seated at the table, some on stools and one standing, spread around it. A huge gray screen above them reads Korthtielens and the Dutch quote De transformatie van De Molenwiek door Korthtielens laat zien hoe een bestaand ontwerp met een zorgvuldige aanpak en visie naar een hoger niveau getild kan worden, and the same words appear on a screen under the table and on small screens at both sides. It is a 2020 photograph titled DDA Award Show Live_Habitat from the DDA Award Show Live album, used because the sentence is about this screen.",
-     "credit": "Photo: Jeroen van der Wielen/DDW",
+     "credit": "Photo: Jeroen van der Wielen/DDW, perm.",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/50528632232/"
     },
     {
@@ -22530,7 +22577,7 @@
      "w": 720,
      "h": 900,
      "alt": "Two monitors on white plinths show a pale school building with a stone-clad entrance block under a blue sky, with a few tiny figures at its entrance. In front, a long wooden table on a yellow base holds microphones, and seven adults, two of them seen from behind, sit and stand around it and at its edges. It is a 2020 photograph titled DDA Award Show Live_Habitat from the DDA Award Show Live album, used because the sentence is about these monitors.",
-     "credit": "Photo: Jeroen van der Wielen/DDW",
+     "credit": "Photo: Jeroen van der Wielen/DDW, perm.",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/50527747913/"
     },
     {
@@ -22538,15 +22585,15 @@
      "w": 720,
      "h": 900,
      "alt": "Orange streamers hang from the ceiling over a long wooden table in a red-lit hall. A huge gray screen reads Winnaar, NL Architects X deMunnik-deJong-Steinhauser architectencollectief e.a., a small screen under the table repeats it, and six adults on stools and chairs applaud, one with raised fists, at mid distance. A host stands behind the table. It is a 2020 photograph titled DDA Award Show Live_Habitat from the DDA Award Show Live album, used because the sentence is about the announcement.",
-     "credit": "Photo: Jeroen van der Wielen/DDW",
+     "credit": "Photo: Jeroen van der Wielen/DDW, perm.",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/50528633107/"
     },
     {
      "file": "08.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Illustrative photo: A very wide view of a dark industrial hall. At the left, four adults sit at a wooden table on a yellow base with a monitor behind them showing a pale building interior and an orange triangle. At the right, a camera operator in silhouette stands at a camera on a tripod, with a second operator behind a second camera. No faces are readable. It is a 2020 photograph from the DDA Award Show Live album and stands in for the limits of the record; it does not show them.",
-     "credit": "Photo: Jeroen van der Wielen/DDW",
+     "alt": "Illustrative photo: A very wide view of a dark industrial hall. At the left, four adults sit at a wooden table on a yellow base with a monitor behind them showing a pale building interior and an orange triangle. At the right, a camera operator in silhouette stands at a camera on a tripod, with a second operator behind a second camera. No faces are readable. It is a 2020 photograph from the DDA Award Show Live album and stands in for the limits of the archive; it does not show them.",
+     "credit": "Photo: Jeroen van der Wielen/DDW, perm.",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/50527744863/"
     },
     {
@@ -22554,7 +22601,7 @@
      "w": 720,
      "h": 900,
      "alt": "Illustrative photo: A high view of the red-lit studio during the winner announcement. Orange streamers hang over the table, a large gray screen reads Winnaar, NL Architects X deMunnik-deJong-Steinhauser architectencollectief e.a., six adults applaud at mid distance on stools and chairs, and four camera operators and a photographer stand around the edges. It is a 2020 photograph from the DDA Award Show Live album and stands in for the checklist questions; it does not show them.",
-     "credit": "Photo: Oscar Vinck/Dutch Design Week",
+     "credit": "Photo: Oscar Vinck/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/50528637427/"
     }
    ],
@@ -23053,9 +23100,9 @@
      "file": "08.jpg",
      "w": 720,
      "h": 900,
-     "alt": "A white gallery room of the Biomaterials Library with labeled samples mounted on the walls, two visitors seen from behind, and hanging strips of dark, golden material in the foreground. It shows the curated arrangement the slide asks about: whose contribution is named beside each sample, and whose is missing. The visitors are not identifiable.",
+     "alt": "Rectangular tiles and slabs of Amber Waste is Bliss, a material by Agnė Kučerenkaitė, in shades of amber, brown and gray, some ribbed, floating against a dark background. In the Biomaterials Library's DDW press kit the image list names one credit for it, the maker's; no photographer is named separately.",
      "credit": "",
-     "url": "https://www.biomaterialslibrary.com/news"
+     "url": "https://ddw.nl/en/programme/biomaterials-library-lithuanian-baltic-creators"
     },
     {
      "file": "09.jpg",
@@ -23295,7 +23342,7 @@
      "w": 720,
      "h": 900,
      "alt": "Illustrative photo: A long concrete hall with yellow pillars and red pipes on the ceiling, with tall banners in orange, navy and white hanging from the pillars on both sides, one of them headed Communication, and one visitor in a blue jacket walking far along the aisle toward a white wall. It is a 2019 photograph from the Dutch Design Awards album and stands in for the dates and the exhibition; it does not show them.",
-     "credit": "Photo: Britt Roelse/Dutch Design Week",
+     "credit": "Photo: Britt Roelse/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/48947010187/"
     },
     {
@@ -23303,7 +23350,7 @@
      "w": 720,
      "h": 900,
      "alt": "Two tall translucent banners, one headed Partners with company logos and one headed Colophon with lists of committee and jury names, hang on either side of a black frame holding a screen. The screen shows a woman with short hair and glasses in an orange top, with a subtitle that reads are integrating design and creative thinking into their organizations. A black table with a stack of orange papers stands in front. No visitors appear. It is a 2019 photograph from the Dutch Design Awards album, used because the sentence is about the colophon banner.",
-     "credit": "Photo: Britt Roelse/Dutch Design Week",
+     "credit": "Photo: Britt Roelse/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/48947017717/"
     },
     {
@@ -23311,7 +23358,7 @@
      "w": 720,
      "h": 900,
      "alt": "A low black table with a red steel frame holds a round rug of beige and white stripes, with a dark board headed Winner Simone Post with Dutch and English text, a tall print of piled sneakers in black and white, and a print of colored stripes with rug shapes, all in red frames. A hanging banner headed Young Designer lists Winner: Simone Post, Amber Jae Slooten and Ninamounah. No visitors appear. It is a 2019 photograph from the Dutch Design Awards album, used because the sentence is about the Young Designer corner.",
-     "credit": "Photo: Britt Roelse/Dutch Design Week",
+     "credit": "Photo: Britt Roelse/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/48946805071/"
     },
     {
@@ -23319,7 +23366,7 @@
      "w": 720,
      "h": 900,
      "alt": "A woman with short blond hair, glasses and a dark hooded coat stands at mid distance with a hand at her chin, looking at a display in a dim hall. In front, a dark board headed Marjan van Aubel Studio, Power Plant carries Dutch and English text with a red jury line, and a glass case on a black table holds a small white greenhouse model with green plants. It is a 2019 photograph from the Dutch Design Awards album, used because the sentence is about this board.",
-     "credit": "Photo: Britt Roelse/Dutch Design Week",
+     "credit": "Photo: Britt Roelse/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/48946819831/"
     },
     {
@@ -23327,7 +23374,7 @@
      "w": 720,
      "h": 900,
      "alt": "Looking along a glass-topped table covered with printed matter, brochures and a folded shirt, toward a black-framed board headed Stichting het Paleis van Typografisch Metselwerk, Het Paleis van Typografisch Metselwerk, with Dutch and English text and a red jury line, in a dim hall with blue windows. No people appear. It is a 2019 photograph from the Dutch Design Awards album, used because the sentence is about this board.",
-     "credit": "Photo: Britt Roelse/Dutch Design Week",
+     "credit": "Photo: Britt Roelse/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/48946274683/"
     },
     {
@@ -23335,15 +23382,15 @@
      "w": 720,
      "h": 900,
      "alt": "A black-framed board headed The Rodina, Sonic Acts Identity with Dutch and English text and a screen showing colorful circular images stands in a corner of a hall with high windows, next to a black table with a small white object. In the foreground a translucent banner shows large letters of text in Dutch and English. An orange object hangs at the far left. No people appear. It is a 2019 photograph from the Dutch Design Awards album, used because the sentence is about this board.",
-     "credit": "Photo: Britt Roelse/Dutch Design Week",
+     "credit": "Photo: Britt Roelse/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/48946817336/"
     },
     {
      "file": "07.jpg",
      "w": 720,
      "h": 900,
-     "alt": "Illustrative photo: A tall white print headed HEREAFTER with colorful circular images and the letters SA stands beside an orange vest with a green and gray circular patch and the number 29, hung on a red ladder inside a black frame, in a dim hall. No people appear. It is a 2019 photograph from the Dutch Design Awards album and stands in for the limits of the record; it does not show them.",
-     "credit": "Photo: Britt Roelse/Dutch Design Week",
+     "alt": "Illustrative photo: A tall white print headed HEREAFTER with colorful circular images and the letters SA stands beside an orange vest with a green and gray circular patch and the number 29, hung on a red ladder inside a black frame, in a dim hall. No people appear. It is a 2019 photograph from the Dutch Design Awards album and stands in for the limits of the archive; it does not show them.",
+     "credit": "Photo: Britt Roelse/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/48946819046/"
     },
     {
@@ -23351,7 +23398,7 @@
      "w": 720,
      "h": 900,
      "alt": "Illustrative photo: A hanging translucent banner with orange and navy shapes and the Dutch Design Awards diamond logo stands at the left of a dim room with a black-framed board, a low table of books and tall windows, with a yellow pillar at the right and a small shelf with an orange booklet on it. No people appear. It is a 2019 photograph from the Dutch Design Awards album and stands in for the checklist questions; it does not show them.",
-     "credit": "Photo: Britt Roelse/Dutch Design Week",
+     "credit": "Photo: Britt Roelse/DDW, by permission",
      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/48946819466/"
     }
    ],
