@@ -16,7 +16,7 @@ export type PostReel = { seconds: number; onScreen: string[]; spoken: string[]; 
 
 const all = data.posts as PostPage[];
 export const isReviewBuild = () => process.env.VERCEL_ENV !== "production";
-export const isPublicPost = (p: PostPage, now = new Date()) => !p.hold && p.date <= hawaiiToday(now);
+export const isPublicPost = (p: PostPage, now = new Date()) => !p.hold && p.date !== "" && p.date <= hawaiiToday(now);
 export const visiblePosts = () => all.filter((p) => isReviewBuild() || isPublicPost(p));
 export const visiblePost = (slug: string) => visiblePosts().find((p) => p.slug === slug);
 export const publicPosts = () => all.filter((p) => isPublicPost(p));
@@ -34,7 +34,8 @@ export function relatedPosts(post: PostPage, count = 3) {
     .map(({ p }) => p);
 }
 
-export const longDate = (d: string) =>
+// An undated post (date "") shows "Date to be set" in review builds; production never shows one (hold).
+export const longDate = (d: string) => !d ? "Date to be set" :
   new Intl.DateTimeFormat("en-US", { month: "long", day: "numeric", year: "numeric", timeZone: "UTC" }).format(new Date(`${d}T00:00:00Z`));
 
 // The archive at /p/archive: pieces already public elsewhere. A card links its RN Collins /p/ page once that page is
