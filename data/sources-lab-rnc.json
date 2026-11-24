@@ -1876,7 +1876,7 @@
       "Written standards from medical journals, CRediT, IPTC and Creative Commons each cover part of what a credit can carry."
      ],
      "how_sure": "moderate",
-     "how_sure_note": "The festival and school pages, the scanned 1858 book and the standards were read directly, with the research log last updated October 28, 2026. This post has no independent fact check yet. Accounts of Gray's royalties and his request about Carter's titles come from later histories, not the book.",
+     "how_sure_note": "The festival and school pages, the scanned 1858 book and the standards were read directly, with the research log last updated October 28, 2026. Accounts of Gray's royalties and his request about Carter's titles come from later histories, not the book. Independently fact checked Nov 24, 2026.",
      "reading_minutes": 22
     },
     "claims": [
@@ -8519,6 +8519,11 @@
       "point": "Nothing could be found about Yamuna Forzani beyond the festival's description of the room; her press kit held no project text and no images.",
       "source": "Dutch Design Week press kit 2523, It Takes a Village",
       "url": "https://ddw.nl/programme/2523/press-kit.zip"
+     },
+     {
+      "point": "A possible conflict to know about: the 2024 Creative Independent interview this piece quotes was told to Elliott Cost and Tiana Dueck, and Extra Practice's own site lists Elliott Cost as one of its six members. The interview's quotes are the members' own words, but the interviewer was not an outside reporter.",
+      "source": "Elliott Cost and Tiana Dueck, \"Extra Practice on conjuring a collective and keeping your friends close,\" The Creative Independent, 23 April 2024; Extra Practice, extrapractice.space member list",
+      "url": "https://thecreativeindependent.com/people/extra-practice-on-conjuring-a-collective-and-keeping-your-friends-close/"
      }
     ],
     "go_deeper": {
@@ -45765,7 +45770,7 @@
    "title": "No Organic Seal for Cannabis",
    "series": "Know Before You Grow",
    "extra": {
-    "last_checked": "2026-11-08",
+    "last_checked": "2026-11-24",
     "start_here": {
      "summary": [
       "Hawaiʻi's dispensary rule bars an organic label on cannabis unless USDA permits it, and USDA's organic program covers hemp, not marijuana.",
@@ -45773,7 +45778,7 @@
       "A public OMCCR deck says cannabis gets no organic certification, while state newsletters still encourage organic growing methods."
      ],
      "how_sure": "moderate",
-     "how_sure_note": "The Hawaiʻi rule, federal statutes and rules, USDA instructions and state pages were read directly, with the research log last updated November 8, 2026. This post has no independent fact check yet. USDA's reason for excluding marijuana comes from reported statements, not a published USDA rule, and the rescheduling hearing's outcome was not found.",
+     "how_sure_note": "The Hawaiʻi rule, federal statutes and rules, USDA instructions and state pages were read directly, with the research log last updated November 8, 2026. USDA's reason for excluding marijuana comes from reported statements, not a published USDA rule, and the rescheduling hearing's outcome was not found. Independently fact checked Nov 24, 2026.",
      "reading_minutes": 22
     },
     "claims": [
@@ -46028,6 +46033,10 @@
      {
       "date": "2026-11-08",
       "change": "An earlier draft placed the Know Before You Grow session in Kona. No public source places it there, and that detail was cut."
+     },
+     {
+      "date": "2026-11-24",
+      "change": "Independent fact check: the hemp dates now say the exclusion for cannabinoids a plant cannot naturally make took effect November 12, 2026, and the rest of the new definition is set to take effect December 11, 2026. The organic sales paragraph now says vegetables led among crops. Slide 3 now notes the exemption from certification."
      }
     ],
     "safety": "Education, not legal advice. For your own situation, ask a Hawaiʻi attorney.",
@@ -48975,6 +48984,13 @@
       "change": "When the package was built, the published article's description of Proposition 122 as a constitutional amendment, its two-agency split, its Measure 110 history and one section citation were found wrong or incomplete. The post follows the primary texts. The published article is not edited."
      }
     ],
+    "safety": {
+     "relevant": true,
+     "lines": [
+      "If you or someone you know is in crisis, call or text 988 (Suicide and Crisis Lifeline, U.S.). In an emergency, call 911. SAMHSA's National Helpline: 1-800-662-HELP (4357)."
+     ],
+     "note": "No dosing, use or sourcing information. Education, not legal advice. Crisis lines added November 24, 2026 (sensitive-topics rule): the same line the platform copy carries."
+    },
     "history_culture": []
    }
   },
@@ -52439,9 +52455,10 @@
     "safety": {
      "relevant": true,
      "lines": [
-      "Education, not legal advice. Education, not medical advice."
+      "Education, not legal advice. Education, not medical advice.",
+      "If you or someone you know is in crisis, call or text 988 (Suicide and Crisis Lifeline, U.S.). In an emergency, call 911."
      ],
-     "note": "No dosing, use or sourcing information."
+     "note": "No dosing, use or sourcing information. Crisis lines added November 24, 2026 at RN's request (approvals/approved/2026-11-24_rn-yes-to-all-nine.md, item 7): slide 10 shows a page of Washington v. Glucksberg, an assisted-suicide case. Sources page only; the social copy carries no crisis line."
     },
     "history_culture": []
    }
@@ -53310,7 +53327,7 @@
     "safety": {
      "relevant": true,
      "lines": [
-      "If you're thinking about suicide, call or text 988 (US) or find a line where you live at findahelpline.com. In an emergency, call 911."
+      "If you or someone you know is in crisis, call or text 988 (Suicide and Crisis Lifeline, U.S.). In an emergency, call 911."
      ],
      "note": "No dosing, use, product or sourcing information. Education, not legal or medical advice."
     },
@@ -59551,7 +59568,7 @@
    "title": "Dutch Design Awards 2019 in the official photo archive",
    "series": "Dutch Design Awards",
    "extra": {
-    "last_checked": "2026-10-13",
+    "last_checked": "2026-11-24",
     "start_here": {
      "summary": [
       "The 2019 Dutch Design Awards named eight winners from 24 nominees at a private Award Night on June 12, 2019, chosen by the eight committee chairs.",
@@ -59559,7 +59576,7 @@
       "The public chose Power Plant, a Design Research nominee that had not won its category."
      ],
      "how_sure": "moderate",
-     "how_sure_note": "The organizer's rules, updates, jury report and entry pages, the festival's releases and the official photo album were read directly. This post has no independent fact check yet. No vote count beyond more than 5,000 is public, and sources differ on how close the vote was.",
+     "how_sure_note": "The organizer's rules, updates, jury report and entry pages, the festival's releases and the official photo album were read directly. No vote count beyond more than 5,000 is public, and sources differ on how close the vote was. Independently fact checked Nov 24, 2026.",
      "reading_minutes": 24
     },
     "claims": [
@@ -59594,7 +59611,7 @@
       "study": "news report"
      },
      {
-      "claim": "The jury report names four themes and closes on a contagious kind of optimism.",
+      "claim": "The jury report names four themes, and its introduction closes on a contagious kind of optimism.",
       "source": "DDA jury report, 2019",
       "where": "report",
       "study": "jury report"
@@ -59754,7 +59771,7 @@
    "title": "Dutch Design Awards 2020 in the official photo archive",
    "series": "Dutch Design Awards",
    "extra": {
-    "last_checked": "2026-10-28",
+    "last_checked": "2026-11-24",
     "start_here": {
      "summary": [
       "In 2020 the Dutch Design Awards named one winner per afternoon for eight days, October 17 to 24, on DDW TV, and put the exhibition off to 2021.",
@@ -59762,7 +59779,7 @@
       "The jury praised MONNIE, a debt app, while writing that its design deserved a serious upgrade."
      ],
      "how_sure": "moderate",
-     "how_sure_note": "The organizer's rules, schedule, committee statements and updates, and the festival's releases, were read directly. This post has no independent fact check yet. The festival's reach figure is its own estimate, and no page says whether the promised 2021 exhibition took place.",
+     "how_sure_note": "The organizer's rules, schedule, committee statements and updates, and the festival's releases, were read directly. The festival's reach figure is its own estimate, and no page says whether the promised 2021 exhibition took place. Independently fact checked Nov 24, 2026.",
      "reading_minutes": 29
     },
     "claims": [
@@ -59798,7 +59815,7 @@
      },
      {
       "claim": "The jury wrote that MONNIE's app and platform deserve a serious upgrade.",
-      "source": "DDA winners, October 24, 2020",
+      "source": "DDA entry, MONNIE, 2020",
       "where": "MONNIE entry",
       "study": "jury statement"
      },
@@ -60444,7 +60461,7 @@
    "title": "Dutch Design Week 2024 in the official photo archive",
    "series": "Dutch Design Week editions",
    "extra": {
-    "last_checked": "2026-11-09",
+    "last_checked": "2026-11-24",
     "start_here": {
      "summary": [
       "Dutch Design Week 2024 ran from October 19 to 27 in Eindhoven under the theme Real Unreal.",
@@ -60452,7 +60469,7 @@
       "The organizer's annual report gives rounded figures of more than 300,000 visitors and 2,800 designers and studios, with no outside count to check them."
      ],
      "how_sure": "moderate",
-     "how_sure_note": "Every claim rests on a DDW, academy, foundation or press source read in full by November 9, 2026. This post has no independent fact check yet, and the visitor and maker figures are the organizer's own rounded numbers.",
+     "how_sure_note": "Every claim rests on a DDW, academy, foundation or press source read in full by November 9, 2026. The visitor and maker figures are the organizer's own rounded numbers. Independently fact checked Nov 24, 2026.",
      "reading_minutes": 22
     },
     "claims": [
@@ -60568,7 +60585,7 @@
      {
       "point": "The full count of 2024 photo albums is not visible to a reader who is not logged in, so 26 albums is a floor, not a total.",
       "source": "DDW Flickr account",
-      "url": "https://ddw.nl"
+      "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/albums/"
      }
     ],
     "go_deeper": {
