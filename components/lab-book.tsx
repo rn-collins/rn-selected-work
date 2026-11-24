@@ -28,7 +28,7 @@ const SURE: Record<string, { label: string; tone: string }> = {
   early: { label: "Early evidence", tone: s.sun },
   mixed: { label: "Mixed evidence", tone: s.coral },
 };
-const GROUPS: [string, string][] = [["primary", "Primary studies"], ["review", "Reviews and meta-analyses"], ["official", "Official documents"], ["book", "Books"]];
+const GROUPS: [string, string][] = [["primary", "Primary studies"], ["review", "Reviews and meta-analyses"], ["official", "Official documents"], ["book", "Books"], ["secondary", "Reporting and commentary"]];
 
 // The 16 sections: fixed number, anchor, title, and the part of the page they sit in.
 const PARTS = [
@@ -104,7 +104,9 @@ function Fold<T>({ items, show, label, wrap, render }: { items: T[]; show: numbe
 const cite = (label: string) => label.replace(/\s*\((?:read|seen|checked)[^)]*\)\s*$/i, "").trim();
 
 // brand "fnm": a Fat Nugs article's source page (/sources/fnm/<slug>, short link /fn/<n>), RN Collins's byline.
-export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p: SourcePost; links: ReactNode; brand?: "aan" | "fnm"; shortPath?: string; page?: string }) {
+// brand "rnc": an RN Collins post's source page from its package record (lib/sources-lab-rnc.ts). Its annotated sources
+// may have no link (an archive record, a conversation), so those draw from the annotation alone; no AaN question links.
+export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p: SourcePost; links: ReactNode; brand?: "aan" | "fnm" | "rnc"; shortPath?: string; page?: string }) {
   const x = p.extra ?? {};
   // The post's own slides, from its page on the AaN site, once that page is released and actually up.
   const site = aanSite as unknown as { base: string; posts: Record<string, { path: string; releasedAt: string; hold: boolean }> };
@@ -118,7 +120,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
   const url = `${SITE}${page ?? `/sources/${p.slug}`}`;
   const sp = shortPath ?? `/s/${p.slug}`;
   const short = `${SITE.replace("https://", "")}${sp}`;
-  const venue = brand === "fnm" ? "Fat Nugs Magazine" : "Ask a Neuroscientist";
+  const venue = brand === "fnm" ? "Fat Nugs Magazine" : brand === "rnc" ? "RN Collins" : "Ask a Neuroscientist";
   const qr = await QRCode.toString(`${SITE}${sp}`, { type: "svg", margin: 1, errorCorrectionLevel: "M", color: { dark: "#123524", light: "#ffffff" } });
   const sure = x.start_here?.how_sure ? SURE[x.start_here.how_sure] : undefined;
   const sureNote = x.start_here?.how_sure_note || p.how_sure;
@@ -129,8 +131,8 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
   const apaDate = d.toLocaleDateString("en-US", { month: "long", day: "numeric", timeZone: "UTC" });
 
   // Annotations attach to the reference whose link is their DOI; references with none still list, plainly.
-  const notes = new Map((x.annotations ?? []).map((a) => [a.doi ?? "", a]));
-  const annotated = (x.annotations ?? []).filter((a) => a.doi && p.research.some((r) => r.url === a.doi));
+  const notes = new Map((x.annotations ?? []).filter((a) => brand !== "rnc" || a.doi).map((a) => [a.doi ?? "", a]));
+  const annotated = (x.annotations ?? []).filter((a) => a.doi ? p.research.some((r) => r.url === a.doi) : brand === "rnc");
   const plain = p.research.filter((r) => !notes.has(r.url));
   const charts = [...(x.charts ?? []).map((c) => ({ title: c.title, file: c.file ?? c.csv.split("/").pop()!, from: c.source_table })),
     ...(p.chart_csvs ?? []).filter((c) => !(x.charts ?? []).some((e) => (e.file ?? e.csv.split("/").pop()) === c.file)).map((c) => ({ title: `Chart, ${c.where}`, file: c.file, from: undefined }))];
@@ -153,7 +155,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
     related: true,
     corrections: !!(x.corrections?.length || x.last_checked),
     cite: true,
-    ask: true,
+    ask: brand !== "rnc",
   };
   // Why a section is missing: the ones only some posts need are "not needed"; the others are still being written
   // for posts whose reader layers have not landed yet.
@@ -190,7 +192,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
       <header className={s.cover}>
         <div className={slidesUp ? s.hero : undefined}>
           <div>
-            <p className={s.kicker}>{brand === "aan" && <img className={s.mark} src="/stickers/brand-brain.svg" alt="" width={44} height={33} />}{brand === "fnm" ? "Fat Nugs Magazine · RN Collins · Sources" : "Ask a Neuroscientist · Lab book · Sources"}</p>
+            <p className={s.kicker}>{brand === "aan" && <img className={s.mark} src="/stickers/brand-brain.svg" alt="" width={44} height={33} />}{brand === "fnm" ? "Fat Nugs Magazine · RN Collins · Sources" : brand === "rnc" ? "RN Collins · Sources" : "Ask a Neuroscientist · Lab book · Sources"}</p>
             <h1 className={s.title}>{p.title}</h1>
             <p className={s.meta}>
               <span>{p.series}</span>
@@ -232,7 +234,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
           <Section id="start">
             <div className={s.startGrid}>
               <div>
-                {x.start_here?.summary?.length ? <ul className={s.summary}>{x.start_here.summary.map((l) => <li key={l}>{l}</li>)}</ul> : <p className={s.lede}>{brand === "fnm" ? "Every source behind this article, and further resources, each linked to the original." : "The studies, records and images behind this post, each linked to the original."}</p>}
+                {x.start_here?.summary?.length ? <ul className={s.summary}>{x.start_here.summary.map((l) => <li key={l}>{l}</li>)}</ul> : <p className={s.lede}>{brand === "fnm" ? "Every source behind this article, and further resources, each linked to the original." : brand === "rnc" ? "Every source behind this post, and further resources, each linked to the original." : "The studies, records and images behind this post, each linked to the original."}</p>}
                 {p.origin && <p className={s.small}><Out href={p.origin.url}>Read the article: {p.origin.label}</Out></p>}
                 {p.interactive && (
                   <p className={s.tryit}><a className={`${s.sticker} ${s.sun}`} href={`/${p.interactive.file}`}>Try it yourself: {p.interactive.title} <span aria-hidden="true">→</span></a></p>
@@ -300,11 +302,11 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
                   <div key={g} className={s.group}>
                     <h3>{label}</h3>
                     <ol className={s.refs}>
-                      {items.map((a) => {
-                        const r = p.research.find((q) => q.url === a.doi)!;
+                      {items.map((a, i) => {
+                        const r = p.research.find((q) => a.doi && q.url === a.doi) ?? { label: a.source, url: "" };
                         return (
-                          <li key={a.doi} className={s.card}>
-                            <p className={s.ref}><Out href={r.url}>{cite(r.label)}</Out></p>
+                          <li key={a.doi ?? `${a.source}-${i}`} className={s.card}>
+                            <p className={s.ref}>{r.url ? <Out href={r.url}>{cite(r.label)}</Out> : cite(r.label)}</p>
                             {a.open_access && <p className={s.oa}><Out href={a.open_access}>Free full text</Out></p>}
                             {a.note && <p>{a.note}</p>}
                             {(a.funding || a.conflicts) && (
@@ -411,7 +413,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
           {has.corrections && (
             <Section id="corrections">
               {x.corrections?.length ? <ul className={s.log}>{x.corrections.map((c, i) => <li key={i}><time dateTime={c.date}>{longDate(c.date)}</time> {c.change}</li>)}</ul> : <p className={s.small}>No corrections so far.</p>}
-              {x.last_checked && <p className={s.small}>Last checked {longDate(x.last_checked)}. Spotted an error? Use “Suggest a source” below.</p>}
+              {x.last_checked && <p className={s.small}>Last checked {longDate(x.last_checked)}.{has.ask ? " Spotted an error? Use “Suggest a source” below." : ""}</p>}
             </Section>
           )}
 
@@ -428,17 +430,17 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
             </div>
           </Section>
 
-          <Section id="ask">
+          {has.ask && <Section id="ask">
             <div className={s.askRow}>
               <a className={`${s.sticker} ${s.teal}`} href={`${AAN}/questions/?from=src-${p.slug}`}>Ask me a brain question</a>
               <a className={`${s.sticker} ${s.sun}`} href={`${AAN}/questions/?from=suggest-${p.slug}`}>Suggest a source</a>
             </div>
             <p className={s.small}>Only what you type is kept. No trackers on this page.</p>
-          </Section>
+          </Section>}
 
           <section className="socialFollow" aria-label="Follow">
-            <p>{brand === "fnm" ? "Follow RN Collins" : "Follow Ask a Neuroscientist"}</p>
-            <SocialRow set={brand === "fnm" ? "rn" : "aan"} />
+            <p>{brand !== "aan" ? "Follow RN Collins" : "Follow Ask a Neuroscientist"}</p>
+            <SocialRow set={brand !== "aan" ? "rn" : "aan"} />
           </section>
           <ClientLine />
         </div>
