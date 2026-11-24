@@ -67,7 +67,7 @@ export default function Culturalyst() {
               Work site is the verified portfolio layer; RN Builds remains in
               development.
             </p>
-            <Link className="inlineCaseLink" href="/#build-atlas">Explore the current build atlas →</Link>
+            <Link className="inlineCaseLink" href="/builds">Explore the current build atlas →</Link>
           </section>
           <section>
             <p className="eyebrow">NSAG</p>
@@ -203,7 +203,7 @@ export default function Culturalyst() {
           ))}
         </div>
         <p className="allwork">
-          <Link href="/#writing">See the full selected writing list →</Link>
+          <Link href="/writing">See the full selected writing list →</Link>
         </p>
       </section>
       <footer className="footer">

@@ -30,7 +30,7 @@ export default function WritingArchivePage() {
     <main>
       <nav className="nav shell" aria-label="Writing archive navigation">
         <Link className="mark" href="/">RN<span>↗</span></Link>
-        <div className="navlinks"><Link href="/#work">Work</Link><Link href="/writing">Writing</Link></div>
+        <div className="navlinks"><Link href="/work">Work</Link><Link href="/writing">Writing</Link></div>
       </nav>
       <header className="archiveHero shell">
         <p className="eyebrow">Publication archive · checked October 17, 2026</p>

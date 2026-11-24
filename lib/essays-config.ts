@@ -5,6 +5,7 @@
 //        header, set in next.config.ts) and none is in sitemap.xml. The pages still open for anyone with the address.
 // true:  the pages are indexable and listed in sitemap.xml, and the PDFs lose the noindex header.
 //
-// RN's packages post after October 17, 2026. To turn indexing on, change this one value to true, commit, and
-// deploy. See "Essay pages" in PORTFOLIO_CONTROL.md.
-export const ESSAYS_INDEXABLE = false;
+// The October 17, 2026 hold is lifted. Unreleased pieces still 404: sitemap and indexes use releasedEssays
+// and the Hawaii date in data/releases.json. Set this back to false to take the essay and journal PDF pages
+// out of search results again. See "Essay pages" in PORTFOLIO_CONTROL.md.
+export const ESSAYS_INDEXABLE = true;

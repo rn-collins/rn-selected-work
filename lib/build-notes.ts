@@ -438,17 +438,15 @@ export const buildNotes: BuildNote[] = [
     institutional: true,
     title: "NARCH Spatial Evidence Workbench",
     category: "tools",
-    status: "Release review open · public link held",
-    statusKind: "paused",
+    status: "Live · local-first workbench",
+    statusKind: "live",
     problem:
-      "Neuro-aware design claims are easy to make and rarely tested. A building gets described as calming, and nothing in the process ever asks what observation would have shown otherwise. The workbench is for architects, designers, developers, and the institutions commissioning the space. The public link is held, so this record does not offer the address.",
+      "Neuro-aware design claims are easy to make and rarely tested. A building gets described as calming, and nothing in the process ever asks what observation would have shown otherwise. The workbench is for architects, designers, developers, and the institutions commissioning the space.",
     does:
       "For architects, designers, developers, and the institutions commissioning a space, it structures spatial observation into evidence-aware design hypotheses, runs an accessibility review, prioritises the resulting changes, and sets up post-occupancy measurement so a hypothesis can be checked after the space is occupied.",
     builtOn: "A static browser application with local persistence, plus privacy and terms pages, served from Vercel.",
     limits:
       "A local-first inquiry tool. It does not establish medical benefit, legal or code compliance, accessibility compliance, or architectural or engineering adequacy.",
-    linkHeld:
-      "The public link is held pending the release review recorded against this build. The deployment answers, and its content is described above, but it is not promoted from this site until that review clears.",
     caseStudy: "narch",
   },
   {
@@ -456,8 +454,8 @@ export const buildNotes: BuildNote[] = [
     institutional: true,
     title: "Women's Neuro-Health Evidence Navigator",
     category: "tools",
-    status: "Release review open · public link held",
-    statusKind: "paused",
+    status: "Live · local-first navigator",
+    statusKind: "live",
     problem:
       "Neuro-health questions that cross life stages, cannabis, psychedelics, medications and symptoms tend to get one appointment's worth of attention, and the patient arrives without the specific questions that would make that appointment useful.",
     does:
@@ -465,8 +463,6 @@ export const buildNotes: BuildNote[] = [
     builtOn: "A static browser application with local persistence, plus privacy and terms pages, served from Vercel.",
     limits:
       "Evidence orientation and appointment preparation. Not medical advice, not a diagnosis, not a treatment recommendation, and not emergency care.",
-    linkHeld:
-      "The public link is held pending the release review recorded against this build. Health-facing guidance is promoted only after that review clears, whatever the deployment currently returns.",
     caseStudy: "womens-neuro-health",
   },
   {

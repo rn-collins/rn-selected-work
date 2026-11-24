@@ -15,7 +15,7 @@ export default function ConnectPage() {
     <main>
       <nav className="nav shell" aria-label="Portfolio navigation">
         <Link className="mark" href="/" aria-label="RN Selected Works home">RN<span>↗</span></Link>
-        <div className="navlinks"><Link href="/#work">Work</Link><Link href="/writing">Writing</Link></div>
+        <div className="navlinks"><Link href="/work">Work</Link><Link href="/writing">Writing</Link></div>
       </nav>
 
       <header className="connectHero shell">
@@ -47,7 +47,7 @@ export default function ConnectPage() {
 
       <section className="connectSection shell">
         <div className="connectRoutes">
-          <Link href="/#work"><span className="eyebrow">Technology, systems, and case studies</span><h2>Built by RN</h2><p>See the platforms, tools, institutional proposals, and experiments on this site. Private client work is not named. The link opens the work on this site.</p><b>See what I have built →</b></Link>
+          <Link href="/work"><span className="eyebrow">Technology, systems, and case studies</span><h2>Built by RN</h2><p>See the platforms, tools, institutional proposals, and experiments on this site. Private client work is not named. The link opens the work on this site.</p><b>See what I have built →</b></Link>
           <Link href="/writing"><span className="eyebrow">Editorial and published work</span><h2>Writing by RN</h2><p>Read RN’s reporting, analysis, and public scholarship across neuroscience, cannabis, law, technology, design, and institutions.</p><b>Read my work →</b></Link>
         </div>
       </section>
