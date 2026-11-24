@@ -104,7 +104,9 @@ function Fold<T>({ items, show, label, wrap, render }: { items: T[]; show: numbe
 const cite = (label: string) => label.replace(/\s*\((?:read|seen|checked)[^)]*\)\s*$/i, "").trim();
 
 // brand "fnm": a Fat Nugs article's source page (/sources/fnm/<slug>, short link /fn/<n>), RN Collins's byline.
-// brand "rnc": an RN Collins post's source page from its package record (lib/sources-lab-rnc.ts). Its annotated sources
+// brand "rnc": an RN Collins post's source page in the RN Collins sticker look (RN, Nov 24: no find-your-way
+// stickers; more puffy stickers, RN Collins's own, not AaN's). A sticker row under the title gives the page's counts.
+// An RN Collins post's source page from its package record (lib/sources-lab-rnc.ts). Its annotated sources
 // may have no link (an archive record, a conversation), so those draw from the annotation alone; no AaN question links.
 export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p: SourcePost; links: ReactNode; brand?: "aan" | "fnm" | "rnc"; shortPath?: string; page?: string }) {
   const x = p.extra ?? {};
@@ -161,7 +163,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
   // for posts whose reader layers have not landed yet.
   const why = (id: Id) => SITUATIONAL.includes(id) ? "Not needed for this one" : p.extra ? "None for this one" : "Coming soon";
   const present = PARTS.flatMap((pt) => pt.items.filter(([, id]) => has[id]));
-  const readers = READERS.map((r) => ({ ...r, go: r.to.find((id) => has[id]) })).filter((r) => r.go && (r.who !== "Policy or law" || has.law) && (r.who !== "Clinician or patient" || has.clinical || has.safety));
+  const readers = brand === "rnc" ? [] : READERS.map((r) => ({ ...r, go: r.to.find((id) => has[id]) })).filter((r) => r.go && (r.who !== "Policy or law" || has.law) && (r.who !== "Clinician or patient" || has.clinical || has.safety));
 
   const indexList = (
     <div className={s.indexParts}>
@@ -188,7 +190,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
   );
 
   return (
-    <article className={`${s.book} shell`}>
+    <article className={`${s.book} ${brand === "rnc" ? s.rnc : ""} shell`}>
       <header className={s.cover}>
         <div className={slidesUp ? s.hero : undefined}>
           <div>
@@ -210,14 +212,24 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
           )}
         </div>
 
+        {brand === "rnc" && (
+          <ul className={s.chips} aria-label="This page at a glance">
+            {x.claims?.length ? <li className={s.chipLime}>{x.claims.length} claims, each sourced</li> : null}
+            {p.research.length + p.other.length > 0 && <li className={s.chipInk}>{p.research.length + p.other.length} sources</li>}
+            {p.images.length > 0 && <li className={s.chipPaper}>{p.images.length} image credits</li>}
+            {x.could_be_wrong?.length ? <li className={s.chipKraft}>{x.could_be_wrong.length} ways this could be wrong</li> : null}
+            {x.last_checked && <li className={s.chipPaper}>Checked {longDate(x.last_checked)}</li>}
+          </ul>
+        )}
+
         {/* Wide screens: the index card, open. Phones: the same list, folded behind one sticker. */}
-        <nav className={`${s.index} ${s.wideOnly}`} aria-label="What's in this lab book">
-          <p className={s.indexHead}>What&apos;s in this lab book</p>
+        <nav className={`${s.index} ${s.wideOnly}`} aria-label={brand === "rnc" ? "What's on this page" : "What's in this lab book"}>
+          <p className={s.indexHead}>{brand === "rnc" ? "What\u2019s on this page" : <>What&apos;s in this lab book</>}</p>
           {indexList}
         </nav>
         <details className={`${s.fold} ${s.narrowOnly}`}>
-          <summary>What&apos;s in this lab book: {present.length} of 16</summary>
-          <nav className={s.index} aria-label="What's in this lab book">{indexList}</nav>
+          <summary>{brand === "rnc" ? "What\u2019s on this page" : <>What&apos;s in this lab book</>}: {present.length} of 16</summary>
+          <nav className={s.index} aria-label={brand === "rnc" ? "What's on this page" : "What's in this lab book"}>{indexList}</nav>
         </details>
 
         {readers.length > 0 && (
@@ -366,7 +378,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
                       <b>{im.where}</b>
                       <span>{im.card ? `Number card made for this post, citing ${im.credit}.` : im.what}</span>
                       {!im.card && im.credit && <span className={s.small}>{im.credit}</span>}
-                      {im.url && <Out href={im.url}>{im.card ? "The study" : "Record"}</Out>}
+                      {im.url && <Out href={im.url}>{im.card ? "The study" : brand === "rnc" ? "Source" : "Record"}</Out>}
                     </li>
                   )} />
                 </>

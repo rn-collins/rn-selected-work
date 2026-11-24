@@ -240,3 +240,92 @@
 /* "Try it yourself": the post's interactive page, when it has one */
 .tryit { margin: 16px 0 4px; }
 .tryit .sticker { transform: rotate(-1.5deg); }
+
+/* RN Collins look (brand "rnc"; RN, Nov 24, 2026: "more puffy stickers as long as they're on brand with us and not Ask a
+   Neuro"). RN Collins palette and sticker grammar from the carousel sticker strip (render-kit/render.py STRIP_CSS):
+   ink #17251D, lime #D9FF4F, paper #F3EFE4, kraft #E9E1D0, kraft line #D6CCB6, graphite #2B2D31, muted #5A5C60.
+   Stickers are flat pills with an ink border, a soft top highlight and a hard ink shadow. Type: Playfair Display for
+   titles, Inter for reading, IBM Plex Mono for labels (RN, Nov 24). Everything here is scoped to .rnc. */
+.rnc {
+  --inkr: #17251D; --lime: #D9FF4F; --paperr: #F3EFE4; --kraft: #E9E1D0; --kline: #D6CCB6; --muted: #5A5C60;
+  --forest: #17251D; --tealc: #17251D; --inkc: #17251D;
+  --grid: rgba(43, 45, 49, .08);
+  font-family: "Inter", system-ui, sans-serif;
+  background:
+    linear-gradient(var(--grid) 1px, transparent 1px) 0 0 / 24px 24px,
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px) 0 0 / 24px 24px,
+    #F7F6F2;
+  border: 2px solid var(--inkr); border-radius: 10px; box-shadow: 6px 7px 0 var(--inkr);
+}
+.rnc .title, .rnc .partBand, .rnc .partName, .rnc .num { font-family: "Playfair Display", Georgia, serif; }
+.rnc .title { font-weight: 500; }
+.rnc .kicker, .rnc .indexHead, .rnc .group h3, .rnc .level h3, .rnc .chartTab h3, .rnc .subhead, .rnc .cites dt, .rnc .polaroid b {
+  font-family: "IBM Plex Mono", ui-monospace, monospace; font-weight: 500; color: var(--inkr); }
+.rnc .meta, .rnc .small, .rnc .rests, .rnc .host, .rnc .blurb, .rnc .disc, .rnc .level span, .rnc .plainList span { color: var(--muted); }
+.rnc .meta a { color: var(--inkr) !important; }
+
+/* The sticker itself, shared by every RN Collins sticker below */
+.rnc .tape, .rnc .chips li, .rnc .fold > summary, .rnc .sticker, .rnc .sure, .rnc .oa a, .rnc .claims li::before, .rnc .wrong li::before {
+  border: 2.5px solid var(--inkr); background: var(--paperr); color: var(--inkr);
+  box-shadow: inset 0 2px 0 rgba(255, 255, 255, .55), inset 0 -3px 0 rgba(23, 37, 29, .14), 3px 4px 0 var(--inkr);
+}
+.rnc .sure::before, .rnc .sticker::before { display: none; }
+
+/* Section labels: pill stickers in turn lime, paper and kraft, with the number on an ink dot */
+.rnc .tape, .rnc .section:nth-of-type(3n+2) .tape, .rnc .section:nth-of-type(3n) .tape {
+  clip-path: none; border-radius: 999px; padding: 6px 18px 6px 6px; font: 600 14px/1.2 "IBM Plex Mono", ui-monospace, monospace;
+  letter-spacing: .04em; background: var(--lime); transform: rotate(-1deg); }
+.rnc .section:nth-of-type(3n+2) .tape { background: var(--paperr); transform: rotate(.8deg); }
+.rnc .section:nth-of-type(3n) .tape { background: var(--kraft); transform: rotate(-.4deg); }
+.rnc .num { display: inline-grid; place-items: center; min-width: 30px; height: 30px; padding: 0 6px; border-radius: 999px;
+  background: var(--inkr); color: var(--lime); font: 700 14px "IBM Plex Mono", ui-monospace, monospace; }
+.rnc .blurb { font-style: normal; }
+
+/* The page-at-a-glance sticker row under the title */
+.rnc .chips { list-style: none; margin: 6px 0 4px; padding: 0; display: flex; flex-wrap: wrap; gap: 12px 12px; }
+.rnc .chips li { display: inline-flex; align-items: center; min-height: 36px; padding: 0 14px; border-radius: 999px; font: 800 14px/1 "Inter", system-ui, sans-serif; }
+.rnc .chips li:nth-child(odd) { transform: rotate(-1.5deg); }
+.rnc .chips li:nth-child(even) { transform: rotate(1.2deg); }
+.rnc .chips .chipLime { background: var(--lime); }
+.rnc .chips .chipInk { background: var(--inkr); color: var(--lime); box-shadow: inset 0 2px 0 rgba(255, 255, 255, .18), 3px 4px 0 var(--lime), 3px 4px 0 2.5px var(--inkr); }
+.rnc .chips .chipPaper { background: var(--paperr); }
+.rnc .chips .chipKraft { background: var(--kraft); }
+
+/* How-sure badge, buttons and folds */
+.rnc .sure { border-radius: 20px; padding: 14px 16px; transform: rotate(1.5deg); }
+.rnc .forest { --face: #17251D; --text: #D9FF4F; }
+.rnc .teal { --face: #D9FF4F; --text: #17251D; }
+.rnc .sun { --face: #F3EFE4; --text: #17251D; }
+.rnc .coral { --face: #E9E1D0; --text: #17251D; }
+.rnc .paper { --face: #F3EFE4; --text: #17251D; }
+.rnc .sure { background: var(--face); color: var(--text); }
+.rnc .fold > summary { border-radius: 999px; background: var(--lime); }
+.rnc .fold > summary:focus-visible, .rnc a:focus-visible { outline: 3px solid var(--inkr); outline-offset: 3px; }
+.rnc .oa a { display: inline-flex; align-items: center; min-height: 30px; padding: 0 12px; border-radius: 999px; background: var(--lime);
+  font-size: 13px; font-weight: 800; text-decoration: none; transform: rotate(-1deg); }
+
+/* Numbered claims and caveats: the number and the "?" become small stickers */
+.rnc .claims li, .rnc .card, .rnc .level, .rnc .gloss div, .rnc .cites div, .rnc .index {
+  background: #FFFFFF; border: 1.5px solid var(--kline); border-radius: 12px; box-shadow: none; }
+.rnc .index { border: 2px solid var(--inkr); box-shadow: 4px 5px 0 var(--inkr); }
+.rnc .claims li::before { background: var(--lime); color: var(--inkr); font-family: "IBM Plex Mono", ui-monospace, monospace; }
+.rnc .wrong li { background: #FFFFFF; border: 1.5px dashed var(--inkr); }
+.rnc .wrong li::before { background: var(--kraft); color: var(--inkr); top: 10px; }
+.rnc .study { color: var(--inkr); }
+.rnc .gloss dt { color: var(--inkr); }
+.rnc .disc dt { color: var(--inkr); }
+
+/* Image credits: polaroids keep their tilt, with an RN Collins label sticker */
+.rnc .polaroid { border: 1.5px solid var(--kline); box-shadow: 4px 5px 0 rgba(23, 37, 29, .85); }
+.rnc .polaroid b { justify-self: start; padding: 3px 10px; border: 2px solid var(--inkr); border-radius: 999px; background: var(--lime); font-size: 12px; }
+.rnc .chartTab { background: var(--kraft); }
+.rnc .safetyNote { background: #FFFFFF; border-left-color: var(--inkr); }
+.rnc .partBand { color: var(--inkr); border-top-color: var(--kline); }
+.rnc .indexParts li::marker, .rnc .sideList li::marker { color: var(--inkr); }
+.rnc .off, .rnc .off small { color: var(--muted); }
+.rnc .qr { border: 2.5px solid var(--inkr); box-shadow: 4px 5px 0 var(--inkr); }
+.rnc :global(.socialRow) a { color: var(--lime); background: var(--inkr); }
+@media (prefers-reduced-motion: no-preference) {
+  .rnc .chips li, .rnc .oa a { transition: transform .18s cubic-bezier(.3, 1.6, .5, 1); }
+  .rnc .chips li:hover, .rnc .oa a:hover { transform: rotate(0deg) scale(1.04); }
+}
