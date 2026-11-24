@@ -84,6 +84,90 @@
     "url": "",
     "licence": "CC0"
    }
+  ],
+  "tfh/ddw26-rnc-222": [
+   {
+    "credit": "Sound: rocdonald, \"Lathe dull tool\", Freesound 530768, CC0",
+    "url": "https://freesound.org/people/rocdonald/sounds/530768/",
+    "licence": "CC0 1.0"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-221": [
+   {
+    "credit": "Sound: Benboncan, \"Splitting Oak Logs\", Freesound 65944, CC BY 4.0",
+    "url": "https://freesound.org/people/Benboncan/sounds/65944/",
+    "licence": "CC BY 4.0"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-223": [
+   {
+    "credit": "Sound: RN Collins, field audio, Dutch Design Week 2026, Eindhoven (own audio)",
+    "url": "",
+    "licence": "Own audio (RN Collins)"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-001": [
+   {
+    "credit": "Sound: GLE2152646, \"glass grinder\", Freesound 533997, CC0",
+    "url": "https://freesound.org/people/GLE2152646/sounds/533997/",
+    "licence": "CC0 1.0"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-002": [
+   {
+    "credit": "Music: Jan Pieterszoon Sweelinck, \"Est-ce Mars\", played by Ashtar Moïra on the Isnard organ, Wikimedia Commons, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Est-ce_Mars_Sweelinck.ogg",
+    "licence": "CC BY 2.5"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-003": [
+   {
+    "credit": "Sound: RN Collins, field audio, Dutch Design Week 2026, Eindhoven (own audio)",
+    "url": "",
+    "licence": "Own audio (RN Collins)"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
+  ],
+  "tfh/ddw26-rnc-004": [
+   {
+    "credit": "Sound: RN Collins, field audio, Dutch Design Week 2026, Eindhoven (own audio)",
+    "url": "",
+    "licence": "Own audio (RN Collins)"
+   },
+   {
+    "credit": "Sound effects: RN Collins foley kit, made in code (CC0)",
+    "url": "",
+    "licence": "CC0"
+   }
   ]
  }
 }
