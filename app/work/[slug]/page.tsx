@@ -2,6 +2,7 @@ import { publicSourceLink } from "../../../lib/source-links";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+import { notFound } from "next/navigation";
 import { getProject, projects } from "../../../lib/portfolio";
 import { getPublicBuild, publicBuilds } from "../../../lib/public-builds";
 import { VerifiedRecord } from "../../../components/verified-record";
@@ -41,13 +42,7 @@ export default async function ProjectPage({
   const projectRecord = buildByCaseStudy.get(slug);
   const source = publicSourceLink(p?.repo || projectRecord?.repoUrl, p?.live);
   if (build) return <PublicBuildCase build={build} />;
-  if (!p)
-    return (
-      <main className="case shell">
-        <p>Project not found.</p>
-        <Link href="/">Return to selected work</Link>
-      </main>
-    );
+  if (!p) notFound();
   return (
     <main>
       <nav className="nav shell">

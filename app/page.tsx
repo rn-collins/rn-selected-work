@@ -150,8 +150,8 @@ export default function Home() {
         <div className="sectionhead">
           <p className="eyebrow">Complete build index</p>
           <p>
-            {shippedBuilds.length} shipped builds, one URL each. {studioBuilds.length} are in the studio.
-            {shelfCounts.hold} deployments are held off this site.
+            {shippedBuilds.length} shipped builds, one URL each. {studioBuilds.length} are in the studio.{" "}
+            {shelfCounts.hold + shelfCounts.cut} deployments are held off this site.
           </p>
         </div>
         <div className="indexSummaryIntro">
@@ -171,7 +171,7 @@ export default function Home() {
         <div className="indexSummaryGrid">
           {populatedCategories.map((category) => (
             <article key={category.id}>
-              <p className="eyebrow">{category.builds.length} builds</p>
+              <p className="eyebrow">{category.builds.length} {category.builds.length === 1 ? "build" : "builds"}</p>
               <h3>{category.title}</h3>
               <p>{category.blurb}</p>
               <Link href={`/builds#${category.id}`}>

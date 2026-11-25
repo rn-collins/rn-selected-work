@@ -14,7 +14,7 @@ export function VerifiedRecord({ build }: { build: Build }) {
         <h2 id="verified-record">What is actually running, and what it is not.</h2>
         <p className={`indexStatus indexStatus--${build.statusKind}`}>
           <span className="indexStatusTag">{statusLabels[build.statusKind]}</span>
-          {build.status}
+          {build.status.replace(new RegExp(`^${statusLabels[build.statusKind]}\\s*[·:,-]?\\s*`, "i"), "")}
         </p>
       </div>
       <div className="verifiedRecordBody">

@@ -117,7 +117,7 @@ export default function WritingArchivePage() {
               <div className="publicationArchiveHead">
                 <p className="eyebrow">Publication</p>
                 <h2>{publication}</h2>
-                <span>{articles.length} records</span>
+                <span>{articles.length} {articles.length === 1 ? "record" : "records"}</span>
               </div>
               {publication === "The Daily Pennsylvanian" && <p className="archiveDisclosure">Reporting on health care, education, public policy, business, and campus life. Read each article in full at The Daily Pennsylvanian.</p>}
               {publication === "Cannabis Law Journal" ? (

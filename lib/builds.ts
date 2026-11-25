@@ -89,12 +89,15 @@ export const shippedBuilds = builds.filter((build) => build.shelf === "shipped")
 export const studioBuilds = builds.filter((build) => build.shelf === "studio");
 
 export const shelfGeneratedAt = shelvesFile.generatedAt as string;
-export const shelfCounts = shelvesFile.counts as {
-  projects: number;
-  shipped: number;
-  studio: number;
-  hold: number;
-  cut: number;
+// Counts come from the public project list, so they match what the page lists.
+// The file's own `counts` field also includes client and private projects that
+// the public file omits; those are not shown on this site.
+export const shelfCounts = {
+  projects: shelfProjects.length,
+  shipped: shelfProjects.filter((p) => p.shelf === "shipped").length,
+  studio: shelfProjects.filter((p) => p.shelf === "studio").length,
+  hold: shelfProjects.filter((p) => p.shelf === "hold" && !p.cut).length,
+  cut: shelfProjects.filter((p) => p.shelf === "hold" && p.cut).length,
 };
 
 /** Public projects on a shelf that still have no write-up. Hold is not listed. */

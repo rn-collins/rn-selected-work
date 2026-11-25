@@ -44,12 +44,12 @@ export default function Page() {
       <div className="shell">
         <div className="canonicalSectionHead">
           <div><p className="eyebrow">Public work gallery</p><h2>Tools, systems, resources,<br/>courses, and experiments.</h2></div>
-          <p>{builds.length} entries from the existing public build inventory.</p>
+          <p>{builds.length} {builds.length === 1 ? "entry" : "entries"} from the existing public build inventory.</p>
         </div>
         <p className="rosterNote">Browse the individual works below, including proposals, prototypes and maintained resources. Each card retains the status from its project record and opens a fuller account with its own site link. The inventory was generated on {inventoryDate}; it is a dated record, not a claim that every deployment was checked today. Private work and excluded projects remain outside this public gallery.</p>
         <nav className="workCollectionLinks workCategoryLinks" aria-label="Work gallery categories">
           {populatedCategories.map(category => <Link href={`#gallery-${category.id}`} key={category.id}>
-            {category.title}<span>{category.builds.length} entries</span>
+            {category.title}<span>{category.builds.length} {category.builds.length === 1 ? "entry" : "entries"}</span>
           </Link>)}
         </nav>
         <div className="canonicalActions"><Link className="button" href="/builds">Read the detailed build index →</Link></div>
@@ -57,7 +57,7 @@ export default function Page() {
     </section>
     {populatedCategories.map(category => <section id={`gallery-${category.id}`} className="canonicalSection shell" key={category.id} aria-labelledby={`gallery-title-${category.id}`}>
       <div className="canonicalSectionHead">
-        <div><p className="eyebrow">{category.builds.length} entries</p><h2 id={`gallery-title-${category.id}`}>{category.title}</h2></div>
+        <div><p className="eyebrow">{category.builds.length} {category.builds.length === 1 ? "entry" : "entries"}</p><h2 id={`gallery-title-${category.id}`}>{category.title}</h2></div>
         <p>{category.blurb}</p>
       </div>
       <div className="canonicalCards">{category.builds.map(build => <article key={build.repo}>

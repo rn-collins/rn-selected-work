@@ -56,7 +56,7 @@ export default function RootLayout({
       <body>
         <a className="skipLink" href="#portfolio-content">Skip to main content</a>
         <PortfolioWayfinding />
-        <div id="portfolio-content">{children}</div>
+        <div id="portfolio-content" tabIndex={-1}>{children}</div>
         <PortfolioWayfinding bottom />
         <Metricool />
       </body>

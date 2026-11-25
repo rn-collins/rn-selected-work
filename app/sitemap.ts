@@ -54,7 +54,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/sources`, changeFrequency: "daily", priority: 0.6 },
     ...postedSoFar().map((p) => ({ url: `${base}/sources/${p.slug}`, changeFrequency: "monthly" as const, priority: 0.4 })),
     ...accounts.flatMap((a) => [
-      { url: `${base}/sources/${a.key}`, changeFrequency: "daily" as const, priority: 0.5 },
+      ...(listed(a).length ? [{ url: `${base}/sources/${a.key}`, changeFrequency: "daily" as const, priority: 0.5 }] : []),
       ...listed(a).map((p) => ({ url: `${base}/sources/${a.key}/${p.slug}`, changeFrequency: "monthly" as const, priority: 0.4 })),
     ]),
     { url: `${base}/sources/tfh`, changeFrequency: "weekly", priority: 0.5 },

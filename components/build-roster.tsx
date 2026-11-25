@@ -38,7 +38,7 @@ export function BuildRoster({
             <h3>{build.title}</h3>
             <p className={`indexStatus indexStatus--${build.statusKind}`}>
               <span className="indexStatusTag">{statusLabels[build.statusKind]}</span>
-              {build.status}
+              {build.status.replace(new RegExp(`^${statusLabels[build.statusKind]}\\s*[·:,-]?\\s*`, "i"), "")}
             </p>
             <p className="rosterDoes">{build.does}</p>
             {build.linkHeld && <p className="indexHeld">{build.linkHeld}</p>}

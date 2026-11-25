@@ -69,11 +69,10 @@ export default function BuildIndexPage() {
               thin. Nothing here is written from a meta description.
             </p>
             <p className="indexProvenance">
-              Assigned {generated} from {shelfCounts.projects} live Vercel projects. {shelfCounts.shipped}{" "}
-              are shipped, {shelfCounts.studio} are in the studio, and {shelfCounts.hold} are on hold.
+              Assigned {generated}. {shelfCounts.shipped}{" "}
+              are shipped, {shelfCounts.studio} are in the studio, and {shelfCounts.hold} are on hold.{" "}
               {shelfCounts.cut} probe and preview projects are marked for removal and are not linked.
-              The Netherlands field kit stays deployed while its build is repaired. Refresh the shelves
-              with <code>node scripts/assign-shelves.mjs</code>.
+              The Netherlands field kit stays deployed while its build is repaired.
             </p>
           </div>
         </div>
@@ -124,7 +123,7 @@ export default function BuildIndexPage() {
                     <h3>{build.title}</h3>
                     <p className={`indexStatus indexStatus--${build.statusKind}`}>
                       <span className="indexStatusTag">{statusLabels[build.statusKind]}</span>
-                      {build.status}
+                      {build.status.replace(new RegExp(`^${statusLabels[build.statusKind]}\\s*[·:,-]?\\s*`, "i"), "")}
                     </p>
                   </div>
 
@@ -191,7 +190,7 @@ export default function BuildIndexPage() {
                     <h3>{build.title}</h3>
                     <p className={`indexStatus indexStatus--${build.statusKind}`}>
                       <span className="indexStatusTag">{statusLabels[build.statusKind]}</span>
-                      {build.status}
+                      {build.status.replace(new RegExp(`^${statusLabels[build.statusKind]}\\s*[·:,-]?\\s*`, "i"), "")}
                     </p>
                   </div>
                   <div className="indexEntryBody">
@@ -246,9 +245,7 @@ export default function BuildIndexPage() {
             </dl>
             <p>
               Separately, a number of client engagements, private workspaces and credential-gated
-              deployments are excluded by name in <code>data/exclusions.json</code> and are not
-              identified anywhere on this site. The regeneration script reads that file, so an
-              excluded build cannot reappear by being forgotten about.
+              deployments are excluded by name and are not identified anywhere on this site.
             </p>
           </div>
         </div>
