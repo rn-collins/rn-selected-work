@@ -883,121 +883,65 @@
    "images": [
     {
      "where": "Slide 1a",
-     "what": "Illustrative photo: Three people at a console in a dark television control room, below a wall of monitors showing camera views",
-     "credit": "Photo: Ryan Hagerty",
-     "url": "https://commons.wikimedia.org/wiki/File:Video_production_workers_in_studio_studying_bank_of_monitors_showing_camera_views.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 1b",
-     "what": "Illustrative photo: A Panasonic AF100 camcorder on a tripod with a monitor and shoulder rig attached",
-     "credit": "Photo: Troy Sankey",
-     "url": "https://commons.wikimedia.org/wiki/File:Camcorder_with_monitor_and_shoulder_rig.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 2",
-     "what": "Illustrative photo: Two fanned stacks of printed guide booklets in orange, purple, green, blue and yellow on a gray cloth",
-     "credit": "Photo: Wiki Education Foundation",
-     "url": "https://commons.wikimedia.org/wiki/File:Wiki_Education_Foundation_brochures_in_two_stacks,_on_gray_background.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 3a",
-     "what": "Photo of two computer monitors on a desk running Adobe Premiere Pro, with the project panel and timeline open on the left screen and the program monitor on the right",
-     "credit": "Photo: Punya",
+     "what": "Two computer monitors running Adobe Premiere Pro, a video editor: the project panel and timeline of an open edit on the left screen, the program monitor on the right. This is the kind of project file that sits behind a finished video",
+     "credit": "Photo: Punya, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Adobe_Premiere_Pro_01.jpg",
      "card": false
     },
     {
+     "where": "Slide 1b",
+     "what": "Two computer monitors running Adobe Premiere Pro, a video editor: the project panel and timeline of an open edit on the left screen, the program monitor on the right. This is the kind of project file that sits behind a finished video",
+     "credit": "Photo: Punya, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Adobe_Premiere_Pro_01.jpg",
+     "card": false
+    },
+    {
+     "where": "Slide 2",
+     "what": "Screenshot from the Kdenlive manual of the Rendering dialog of the open-source video editor Kdenlive. The MP4-H264/AAC preset is selected and the output file ends in .mp4: the step that turns a project into a finished video file",
+     "credit": "Source: Kdenlive Manual, CC BY-SA 4.0",
+     "url": "https://docs.kdenlive.org/en/exporting/render.html",
+     "card": false
+    },
+    {
+     "where": "Slide 3a",
+     "what": "Screenshot of the open-source video editor Kdenlive with a project file named Editing.kdenlive open: two source video clips in the project bin, color effects in the effect stack, and a timeline of many cuts on video and audio tracks",
+     "credit": "Screenshot: Ddeepeshkumar, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Kdenlive_20.04.1.png",
+     "card": false
+    },
+    {
      "where": "Slide 3b",
-     "what": "Illustrative photo: A recording-studio control room where a computer monitor shows a multitrack Pro Tools session above a mixing console",
-     "credit": "Photo: H. Michael Miley",
-     "url": "https://commons.wikimedia.org/wiki/File:Control_room_-_Pro_Tools,_Mackie_B328_32x8x2_recording_console_-_District_54_Jazz_Band_Recording_Session_22_-_Solid_Sound_Recording_Studio,_Hoffman_Estates,_IL,_2011.jpg",
+     "what": "Screenshot of the open-source video editor Kdenlive with a project file named Editing.kdenlive open: two source video clips in the project bin, color effects in the effect stack, and a timeline of many cuts on video and audio tracks",
+     "credit": "Screenshot: Ddeepeshkumar, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Kdenlive_20.04.1.png",
      "card": false
     },
     {
      "where": "Slide 4a",
-     "what": "Illustrative photo: The open card bay of a Nikon Z8 camera holding a CFexpress Type B card slot and an SD card",
-     "credit": "Photo: 4300streetcar",
-     "url": "https://commons.wikimedia.org/wiki/File:CFexpress_Type_B_and_SD_slots_on_Nikon_Z8_1.jpg",
+     "what": "The Kdenlive manual page Project File Details: for most media, such as video, audio and images, Kdenlive stores only a reference in a project, not the media itself",
+     "credit": "Source: Kdenlive Manual, CC BY-SA 4.0",
+     "url": "https://docs.kdenlive.org/en/project_and_asset_management/file_management/project_files.html",
      "card": false
     },
     {
      "where": "Slide 4b",
-     "what": "Illustrative photo: Rows of shelving in a Department of Defense warehouse that stores motion picture film and videotape",
-     "credit": "Source: Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:An_overview_of_the_motion_picture_and_videotape_storage_area_in_the_warehouse_of_the_Joint_Visual_Information_Agency_-_DPLA_-_12db1a7f329d31e12c15fea7cb0bea6d.jpeg",
+     "what": "The Kdenlive manual page Project File Details: for most media, such as video, audio and images, Kdenlive stores only a reference in a project, not the media itself",
+     "credit": "Source: Kdenlive Manual, CC BY-SA 4.0",
+     "url": "https://docs.kdenlive.org/en/project_and_asset_management/file_management/project_files.html",
      "card": false
     },
     {
-     "where": "Slide 5a",
-     "what": "Illustrative photo: A Blackmagic Design DaVinci Resolve editor keyboard with colored keys and a jog wheel on a wooden desk",
-     "credit": "Photo: TaurusEmerald",
-     "url": "https://commons.wikimedia.org/wiki/File:Blackmagic_Design_DaVinci_Resolve_Editor_Keyboard.jpg",
+     "where": "Slide 5",
+     "what": "Court opinion text: Gagnon had to express an intent to retain control over the programs and limit the client's license if he intended to do so",
+     "credit": "Source: Gagnon opinion, 9th Cir., cropped",
+     "url": "https://static.case.law/f3d/542/case-pdfs/0748-01.pdf",
      "card": false
     },
     {
-     "where": "Slide 5b",
-     "what": "Illustrative photo: A white Synology DS223j network storage server standing on a wooden table",
-     "credit": "Photo: DYVER",
-     "url": "https://commons.wikimedia.org/wiki/File:Synology_Disk_Station_DS223J_-_NAS-Server.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 5c",
-     "what": "Illustrative photo: A row of external hard drives on the floor beside a rack of recorders in a recording studio",
-     "credit": "Photo: H. Michael Miley",
-     "url": "https://commons.wikimedia.org/wiki/File:Recorders_-_Otari_MX-80_analog_24tr_multitrack_recorder_&_Pro_Tools_harddisks_-_District_54_Jazz_Band_Recording_Session_6_-_Solid_Sound_Recording_Studio,_Hoffman_Estates,_IL,_2011.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 6a",
-     "what": "Illustrative photo: A DVD in an open case, a black USB flash drive and a red external hard drive on a white surface",
-     "credit": "Photo: Santeri Viinamäki",
-     "url": "https://commons.wikimedia.org/wiki/File:DVD,_USB_flash_drive_and_external_hard_drive.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 6b",
-     "what": "Illustrative photo: Four different data storage cartridges laid side by side: an LTO, an 8 mm Exabyte, a DDS-3 and a Verbatim cassette",
-     "credit": "Photo: Mister rf",
-     "url": "https://commons.wikimedia.org/wiki/File:Magnetic-tape_data_storage.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 7a",
-     "what": "Illustrative photo: A keyboard with color-coded Adobe Premiere Pro editing shortcuts printed on its keys, standing on a display table",
-     "credit": "Photo: TaurusEmerald",
-     "url": "https://commons.wikimedia.org/wiki/File:KB_Keyboards_Adobe_Premiere_Editing_Cover.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 7b",
-     "what": "Illustrative photo: An empty editing room with tape decks, a mixer and a bank of monitors at an audiovisual school in Algeria",
-     "credit": "Photo: Gorka Andraka",
-     "url": "https://commons.wikimedia.org/wiki/File:Editing_room_at_EFA_Abidin_Kaid_Saleh.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 7c",
-     "what": "Illustrative photo: A film crew's equipment truck open at night on a New York street, with shelves of gear visible inside",
-     "credit": "Photo: Billie Grace Ward",
-     "url": "https://commons.wikimedia.org/wiki/File:Equipment_Truck_(38350132131).jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 8",
-     "what": "Illustrative photo: A hand holds three vintage hard drives stacked together against a dark background",
-     "credit": "Photo: Shixart1985",
-     "url": "https://commons.wikimedia.org/wiki/File:A_hand_grips_three_vintage_hard_drives,_highlighting_their_unique_designs_and_connectors.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 9",
-     "what": "Illustrative photo: Editors at shared desks in a brick-walled studio, with DaVinci Resolve timelines and color pages open on their monitors (Blackmagic Design product photograph, cropped)",
-     "credit": "Source: Blackmagic Design",
-     "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+     "where": "Slide 6",
+     "what": "The text of 17 U.S.C. section 204(a): a transfer of copyright ownership is not valid unless a note or memorandum of the transfer is in writing and signed by the owner of the rights",
+     "credit": "Source: 17 U.S.C. § 204, GovInfo, cropped",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chap2-sec204.pdf",
      "card": false
     }
    ]
@@ -1276,79 +1220,58 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustrative photo: A close-up of an iPhone home screen showing the TikTok icon among other app icons, in a dark scene",
-     "credit": "Photo: Solen Feyissa",
+     "what": "A close-up of an iPhone home screen showing the TikTok icon among other app icons, in a dark scene. It identifies the platform only; no share button, edit button or permission screen is visible",
+     "credit": "Photo: Solen Feyissa, CC BY-SA 2.0",
      "url": "https://commons.wikimedia.org/wiki/File:TikTok_app.jpg",
      "card": false
     },
     {
      "where": "Slide 2a",
-     "what": "Photo of In-Do Mansion, a glass office building in Beijing's Zhongguancun area that Wikimedia Commons describes as a former headquarters of ByteDance",
-     "credit": "Photo: N509FZ",
-     "url": "https://commons.wikimedia.org/wiki/File:In%C2%B7Do_Mansion_(20220411152216).jpg",
+     "what": "Photo of In-Do Mansion, a glass office building in Beijing's Zhongguancun area that Wikimedia Commons describes as a former headquarters of ByteDance. It is the company that created TikTok; the photo does not show TikTok's creation or any video",
+     "credit": "Photo: N509FZ, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:In%C2%B7Do_Mansion_(20220411152216",
      "card": false
     },
     {
      "where": "Slide 2b",
-     "what": "TikTok's U.S. headquarters building at 5800 Bristol Parkway in Culver City, California, photographed in 2024",
-     "credit": "Photo: Coolcaesar",
+     "what": "TikTok's U.S. headquarters building at 5800 Bristol Parkway in Culver City, California, photographed in 2024. The TikTok USDS Joint Venture was established in Culver City in January 2026; the sources do not show that the venture itself occupies this building",
+     "credit": "Photo: Coolcaesar, CC BY 4.0, cropped",
      "url": "https://commons.wikimedia.org/wiki/File:TikTok_Headquarters.jpg",
      "card": false
     },
     {
      "where": "Slide 2c",
-     "what": "Illustrative photo: A crowd gathered in front of a lit stage and screens under a large TikTok sign at the 2022 Gamescom trade fair in Cologne",
-     "credit": "Photo: dronepicr",
-     "url": "https://commons.wikimedia.org/wiki/File:TikTok_exhibition_stand_at_Gamescom_2022_in_Cologne,_Germany_(52760217055).jpg",
+     "what": "The text of 17 U.S.C. section 106 (4) and (5): the copyright owner's separate rights to perform and to display a work publicly",
+     "credit": "Source: 17 U.S.C. § 106, GovInfo, cropped",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chap1-sec106.pdf",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustrative photo: A hand holds an iPhone showing its app library sorted into folders, with social, entertainment and photo-and-video apps including TikTok",
-     "credit": "Photo: Theresepersonne",
-     "url": "https://commons.wikimedia.org/wiki/File:Social_media_apps.jpg",
+     "what": "The opening of 17 U.S.C. section 106: the owner of copyright has the exclusive rights to do and to authorize the uses that follow",
+     "credit": "Source: 17 U.S.C. § 106, GovInfo, cropped",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chap1-sec106.pdf",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustrative photo: A 1914 halftone photograph of women and a man at tables with film reels and strips in the assembling and joining room of a Philadelphia film studio",
-     "credit": "Photo: Anonymous photographer",
-     "url": "https://commons.wikimedia.org/wiki/File:A_Corner_of_the_Assembling_and_Joining_Room_at_the_Philadelphia_Studio_of_the_Lubin_Company.jpg",
+     "what": "The definition of a derivative work in 17 U.S.C. section 101: a work recast, transformed or adapted from an earlier one",
+     "credit": "Source: 17 U.S.C. § 101, GovInfo, cropped",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chap1-sec101.pdf",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustrative photo: A German dating and status rubber stamp with a list of status words and rotating date wheels, photographed face-up",
-     "credit": "Photo: Reinhard Kirchner",
-     "url": "https://commons.wikimedia.org/wiki/File:Buchungsstempel.JPG",
+     "what": "Text of 17 U.S.C. section 101: where a work has been prepared in different versions, each version constitutes a separate work",
+     "credit": "Source: 17 U.S.C. § 101, GovInfo, cropped",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chap1-sec101.pdf",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustrative photo: A baton handover between two vintage Ford Model A speedsters side by side on grass during the 2019 Vintage Race Days in Rastede, Germany, with spectators behind",
-     "credit": "Photo: Jacek Rużyczka",
-     "url": "https://commons.wikimedia.org/wiki/File:Ford_A_Speedster_Vintage_Race_Days_Rastede.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 7a",
-     "what": "Illustrative photo: A television video editor, seen from behind, at a multi-monitor editing station with speakers and drives, in a 2007 U.S. government stock photograph",
-     "credit": "Photo: U.S. Department of Labor",
-     "url": "https://commons.wikimedia.org/wiki/File:Television_Video_Editor_-_DPLA_-_040c895c408dc81a968ddc1c27aefb86.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 7b",
-     "what": "Illustrative photo: the yellowed paper label on a 35mm film print can, reading 'Every Day's a Holiday', 'Domestic version', 'Optical Cinemascope', with print and reel numbers",
-     "credit": "Photo: Moomooj",
-     "url": "https://commons.wikimedia.org/wiki/File:35mm_Film_Label.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 8",
-     "what": "Illustrative photo: A large outdoor video screen on a steel frame above a street in Osaka, showing a weather information board, against a gray sky",
-     "credit": "Photo: Mr.ちゅらさん",
-     "url": "https://commons.wikimedia.org/wiki/File:Kowa-Vision_Osaka-Umeda_(1).jpg",
+     "what": "The text of 17 U.S.C. section 106 (1) to (3): the separate rights to copy, to prepare derivative works and to distribute",
+     "credit": "Source: 17 U.S.C. § 106, GovInfo, cropped",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chap1-sec106.pdf",
      "card": false
     }
    ]
@@ -1599,100 +1522,86 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Photograph of a framed print of Shepard Fairey's HOPE poster on an office wall in Washington, April 2011",
-     "credit": "Photo: George Miller, CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Richmond_ONS_Washington,_DC_Visit_(5613891649).jpg",
+     "what": "A framed print of Shepard Fairey's HOPE poster, Obama's face in red, beige and blue above the word HOPE, hanging on an office wall in Washington in April 2011. It is the poster the sentence names",
+     "credit": "Photo: George Miller, CC BY 2.0, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Richmond_ONS_Washington,_DC_Visit_(5613891649",
      "card": false
     },
     {
      "where": "Slide 2a",
-     "what": "Illustrative photo: an aerial photograph of storm-damaged downtown buildings beside a river in Tennessee, January 25, 1999, credited to Mannie Garcia in the FEMA Photo Library",
-     "credit": "Photo: Mannie Garcia, FEMA",
+     "what": "an aerial photograph of storm-damaged downtown buildings beside a river in Tennessee, January 25, 1999, credited to Mannie Garcia in the FEMA Photo Library. It is a different photograph by the same photographer, not the Obama photograph, and it is here only to show a photograph made by Garcia",
+     "credit": "Photo: Mannie Garcia, FEMA, Public domain",
      "url": "https://commons.wikimedia.org/wiki/File:FEMA_-_241_-_Photograph_by_Mannie_Garcia_taken_on_01-25-1999_in_Tennessee.jpg",
      "card": false
     },
     {
      "where": "Slide 2b",
-     "what": "Illustrative photo: news photographers with long lenses shooting an Obama event in Nashua, New Hampshire, on April 20, 2007, with seated spectators behind them",
-     "credit": "Photo: Roger H. Goun",
-     "url": "https://commons.wikimedia.org/wiki/File:Press_photographers_record_Obama_(466632815).jpg",
+     "what": "The raised letters The Associated Press Building and a round black and gold AP medallion on a stone wall in New York",
+     "credit": "Photo: Alterego, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:The_associated_press_building_in_new_york_city.jpg",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "The storefront of an Obama campaign office in Palo Alto, California, on October 31, 2008, with Fairey’s red, beige and blue HOPE portrait poster in the window beside other campaign signs and an Obama ’08 banner above the door",
-     "credit": "Photo: BrokenSphere",
+     "what": "The storefront of an Obama campaign office in Palo Alto, California, on October 31, 2008, with Fairey’s red, beige and blue HOPE portrait poster in the window beside other campaign signs and an Obama ’08 banner above the door. It shows the poster in use at the 2008 campaign, which is the icon the sentence describes",
+     "credit": "Photo: BrokenSphere, CC BY-SA 3.0",
      "url": "https://commons.wikimedia.org/wiki/File:Obama_2008_campaign_HQ,_Palo_Alto.JPG",
      "card": false
     },
     {
      "where": "Slide 4a",
-     "what": "Illustrative photo: an open AP Leafax 35 portable photo-transmission case with the AP logo on its lid, photographed at the CP+ camera show in 2014",
-     "credit": "Photo: Morio",
-     "url": "https://commons.wikimedia.org/wiki/File:AP_Leafax_35_side1_2014_CP%2B.jpg",
+     "what": "Photograph of the building at 450 West 33rd Street in Manhattan, seen from the corner of Tenth Avenue and West 31st Street on February 11, 2009, by Jim Henderson. The Associated Press moved its headquarters into this building in 2004 and was based here in 2009, so it is the home of the organization the card names as the party asserting photo rights. No AP sign is in view",
+     "credit": "Photo: Jim Henderson, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:406_10th_Ave_YAI_NIfPwD_jeh.JPG",
      "card": false
     },
     {
      "where": "Slide 4b",
-     "what": "Photograph of the entrance of the Daniel Patrick Moynihan United States Courthouse at 500 Pearl Street in lower Manhattan, taken in 2012",
-     "credit": "Photo: Ken Lund",
-     "url": "https://commons.wikimedia.org/wiki/File:Daniel_Patrick_Moynihan_U.S._Courthouse,_Manhattan,_New_York_(7237347688).jpg",
+     "what": "Photograph of the entrance of the Daniel Patrick Moynihan United States Courthouse at 500 Pearl Street in lower Manhattan, taken in 2012. It houses the U.S. District Court for the Southern District of New York, the court where Fairey filed his 2009 suit against AP",
+     "credit": "Photo: Ken Lund, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Daniel_Patrick_Moynihan_U.S._Courthouse,_Manhattan,_New_York_(7237347688",
      "card": false
     },
     {
      "where": "Slide 4c",
-     "what": "Photograph of the Associated Press headquarters building at 450 West 33rd Street in Manhattan, taken August 22, 2015 (Flickr user Brechtbug, titled 'Associated Press Headquarters - AP Building')",
-     "credit": "Photo: Brechtbug",
-     "url": "https://www.flickr.com/photos/93779577@N00/20761775456/",
+     "what": "Photograph of the building at 450 West 33rd Street in Manhattan, seen from the corner of Tenth Avenue and West 31st Street on February 11, 2009, by Jim Henderson. The Associated Press moved its headquarters into this building in 2004 and was based here in 2009, so it is the home of the organization the card names as the party asserting photo rights. No AP sign is in view",
+     "credit": "Photo: Jim Henderson, public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:406_10th_Ave_YAI_NIfPwD_jeh.JPG",
      "card": false
     },
     {
      "where": "Slide 4d",
-     "what": "Shepard Fairey standing in paint-stained jeans and a T-shirt against a tiled wall, photographed June 17, 2012 by Lucie Lesvenan",
-     "credit": "Photo: Lucie Lesvenan",
+     "what": "Shepard Fairey standing in paint-stained jeans and a T-shirt against a tiled wall, photographed June 17, 2012 by Lucie Lesvenan. The card names him as the adapter of the photograph who sued AP in 2009 and settled in January 2011; the photo shows him only and says nothing about the case",
+     "credit": "Photo: Lucie Lesvenan, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Shepard-Fairey_by-Lucie-Lesvenan.JPG",
      "card": false
     },
     {
      "where": "Slide 5a",
-     "what": "Shepard Fairey in a black T-shirt in West Hollywood, November 26, 2011 (photographer Fuzheado)",
-     "credit": "Photo: Fuzheado",
+     "what": "Shepard Fairey in a black T-shirt in West Hollywood, November 26, 2011 (photographer Fuzheado). The sentence names both Garcia and Fairey; only Fairey is shown, and the photo says nothing about credit lines or either person’s work",
+     "credit": "Photo: Fuzheado, CC BY-SA 3.0",
      "url": "https://commons.wikimedia.org/wiki/File:Shepard-fairey-2011-westhollywood.jpg",
      "card": false
     },
     {
      "where": "Slide 5b",
-     "what": "A HOPE portrait of Obama rebuilt in plastic bricks, BrickCon, Seattle, October 2010",
-     "credit": "Photo: Bill Ward, CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Mosaics_(5045942537).jpg",
+     "what": "A HOPE portrait of Obama rebuilt in thousands of plastic bricks, shown at BrickCon in Seattle in October 2010. It is the HOPE image copied again by someone else, the kind of use a credit line would not settle",
+     "credit": "Photo: Bill Ward, CC BY 2.0, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Mosaics_(5045942537",
      "card": false
     },
     {
      "where": "Slide 5c",
-     "what": "Page 1 of the order of January 10, 2011 in Fairey v. Associated Press, dismissing the settled claims between the AP and Fairey",
-     "credit": "Source: S.D.N.Y. order, Jan. 10, 2011 (public domain)",
+     "what": "Page 1 of Judge Hellerstein's order of January 10, 2011 in Fairey v. Associated Press, dismissing the settled claims: a suggestion of settlement having been made between the AP and Fairey, the claims arising between them are dismissed",
+     "credit": "Source: S.D.N.Y. order, Jan. 10, 2011",
      "url": "https://cases.justia.com/federal/district-courts/new-york/nysdce/1:2009cv01123/340121/166/0.pdf",
      "card": false
     },
     {
      "where": "Slide 5d",
-     "what": "Page 1 of the order of January 10, 2011 in Fairey v. Associated Press, dismissing the settled claims between the AP and Fairey",
-     "credit": "Source: S.D.N.Y. order, Jan. 10, 2011 (public domain)",
+     "what": "Page 1 of Judge Hellerstein's order of January 10, 2011 in Fairey v. Associated Press, dismissing the settled claims: a suggestion of settlement having been made between the AP and Fairey, the claims arising between them are dismissed",
+     "credit": "Source: S.D.N.Y. order, Jan. 10, 2011",
      "url": "https://cases.justia.com/federal/district-courts/new-york/nysdce/1:2009cv01123/340121/166/0.pdf",
-     "card": false
-    },
-    {
-     "where": "Slide 6",
-     "what": "Illustrative photo: a man standing beside enlarging equipment in a red-lit newspaper darkroom, about 1985",
-     "credit": "Photo: Robert Couse-Baker",
-     "url": "https://commons.wikimedia.org/wiki/File:Newspaper_darkroom_circa_1985_(4220296875).jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 7",
-     "what": "Illustrative photo: the inside of a web-fed offset press with printed newspapers running up through the rollers",
-     "credit": "Photo: Tom T",
-     "url": "https://commons.wikimedia.org/wiki/File:Web-fed_offset_press_printing_newspapers.jpg",
      "card": false
     }
    ]
@@ -1851,205 +1760,114 @@
    "images": [
     {
      "where": "Slide 1a",
-     "what": "Illustrative photo: a hand holding a smartphone that shows a ChatGPT page, with a laptop behind it (photographer Jernej Furman, May 2023)",
-     "credit": "Photo: Jernej Furman",
-     "url": "https://commons.wikimedia.org/wiki/File:Smartphone_with_ChatGPT_app_(52917381673).jpg",
+     "what": "a hand holding a smartphone that shows a ChatGPT page, with a laptop behind it (photographer Jernej Furman, May 2023). It shows the product the Sky voice belonged to; it is not the Sky voice, ChatGPT’s voice mode or the 2024 pause",
+     "credit": "Photo: Jernej Furman, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Smartphone_with_ChatGPT_app_(52917381673",
      "card": false
     },
     {
      "where": "Slide 1b",
-     "what": "Scarlett Johansson smiling at a microphone during a panel at San Diego Comic-Con, July 2013 (photographer Gage Skidmore)",
-     "credit": "Photo: Gage Skidmore",
+     "what": "Scarlett Johansson smiling at a microphone during a panel at San Diego Comic-Con, July 2013 (photographer Gage Skidmore). The sentence reports her statement that Sky sounded like her own voice; the photo shows her only and says nothing about OpenAI, Sky or the dispute",
+     "credit": "Photo: Gage Skidmore, CC BY-SA 3.0",
      "url": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_SDCC_2013_by_Gage_Skidmore_1.jpg",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Illustrative photo: the Pioneer Building in San Francisco’s Mission District, photographed in 2019 when it housed offices of OpenAI and Neuralink",
-     "credit": "Photo: HaeB",
-     "url": "https://commons.wikimedia.org/wiki/File:Pioneer_Building,_San_Francisco_(2019)_-1.jpg",
+     "what": "the Pioneer Building in San Francisco’s Mission District, photographed in 2019 when it housed offices of OpenAI and Neuralink. It shows the company that made the voices; it is not Sky, ChatGPT or any voice track",
+     "credit": "Photo: HaeB, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Pioneer_Building,_San_Francisco_(2019",
      "card": false
     },
     {
      "where": "Slide 3a",
-     "what": "Illustrative photo: an empty dubbing booth with a microphone on a stand, a script stand and a monitor, photographed in 2008",
-     "credit": "Photo: Andres Moreno",
+     "what": "an empty dubbing booth with a microphone on a stand, a script stand and a monitor, photographed in 2008. It shows the kind of room where a professional voice actor works; it does not show or identify the actor behind Sky",
+     "credit": "Photo: Andres Moreno, CC BY 2.0",
      "url": "https://commons.wikimedia.org/wiki/File:Sala_de_doblaje.jpg",
      "card": false
     },
     {
      "where": "Slide 3b",
-     "what": "Sam Altman seated outdoors in a gray sweater, November 17, 2022 (Village Global)",
-     "credit": "Photo: Village Global",
+     "what": "Sam Altman seated outdoors in a gray sweater, November 17, 2022 (Village Global). The sentence reports what Altman said about the casting of the Sky actor; the photo shows him only and is not tied to that statement",
+     "credit": "Photo: Village Global, CC BY 2.0",
      "url": "https://commons.wikimedia.org/wiki/File:Sam_Altman_November_2022.jpg",
      "card": false
     },
     {
      "where": "Slide 4a",
-     "what": "Illustrative photo: a studio condenser microphone and pop filter lit against a dark background (photographer Dejan Krsmanovic, 2018)",
-     "credit": "Photo: Dejan Krsmanovic",
-     "url": "https://commons.wikimedia.org/wiki/File:Microphone_And_Popup_Filter_(43271978552).jpg",
+     "what": "a studio condenser microphone and pop filter lit against a dark background (photographer Dejan Krsmanovic, 2018). It shows the equipment of the voice work Johansson says she was asked to do; it is not the request, Johansson or OpenAI",
+     "credit": "Photo: Dejan Krsmanovic, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Microphone_And_Popup_Filter_(43271978552",
      "card": false
     },
     {
      "where": "Slide 4b",
-     "what": "Illustrative photo: a May 1920 photograph of young people crowded around an early radio set, several wearing earphones to listen",
-     "credit": "Source: Radio Amateur News, 1920",
+     "what": "a 1920 photograph of young people crowded around an early radio set, several wearing earphones to listen. It shows listening to a voice that comes from a machine; it is not the 2024 demo and not Johansson",
+     "credit": "Source: Radio Amateur News, 1920, PD",
      "url": "https://commons.wikimedia.org/wiki/File:Club_holds_radio_dance_wearing_earphones_1920.jpg",
      "card": false
     },
     {
      "where": "Slide 4c",
-     "what": "Scarlett Johansson holding a microphone on stage at San Diego Comic-Con, July 20, 2019 (photographer Gage Skidmore; file re-saved at lower JPEG quality to stay under 8 MB)",
-     "credit": "Photo: Gage Skidmore",
+     "what": "Scarlett Johansson holding a microphone on stage at San Diego Comic-Con, July 20, 2019 (photographer Gage Skidmore; file re-saved at lower JPEG quality to stay under 8 MB). The card reports her statement that the May 2024 Sky demo sounded eerily like her own voice; the photo shows her only and says nothing about OpenAI, Sky or the dispute",
+     "credit": "Photo: Gage Skidmore, CC BY-SA 2.0",
      "url": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_by_Gage_Skidmore_2.jpg",
      "card": false
     },
     {
      "where": "Slide 4d",
-     "what": "Illustrative photo: the office building at 1515 Third Street in San Francisco's Mission Bay, photographed June 15, 2025, which was OpenAI's headquarters at that time",
-     "credit": "Photo: Coolcaesar",
+     "what": "the office building at 1515 Third Street in San Francisco's Mission Bay, photographed June 15, 2025, which was OpenAI's headquarters at that time. It is not where the May 2024 announcement was made and does not show the voice or the pause; it stands only for the company named on the card",
+     "credit": "Photo: Coolcaesar, CC BY 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:1515_Third_Street.jpg",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustrative photo: a close-up of an Imperial “The Good Companion” typewriter",
-     "credit": "Photo: Bhullargraphic",
+     "what": "a close-up of an Imperial “The Good Companion” typewriter. It stands for letters written on a client’s behalf; the attorneys’ letters are not shown here, and the photo is not connected to OpenAI or Sky",
+     "credit": "Photo: Bhullargraphic, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Vintage_Imperial_Typewriter_The_Good_Companion_Close_Up.jpg",
      "card": false
     },
     {
      "where": "Slide 6a",
-     "what": "Illustrative photo: a Kay Real Time Sona-Graph, an electronic sound spectrograph, showing a trace of speech on its screen",
-     "credit": "Photo: Falott",
+     "what": "a Kay Real Time Sona-Graph, an electronic sound spectrograph, showing a trace of speech on its screen. Instruments like it were used to analyze speech and voices; it is not tied to Sky or Johansson",
+     "credit": "Photo: Falott, CC BY 3.0",
      "url": "https://commons.wikimedia.org/wiki/File:Sonagraph_old.jpg",
      "card": false
     },
     {
      "where": "Slide 6b",
-     "what": "Illustrative photo: a dubbing studio recording room with a desk, microphone, headphones and monitor in it (photographer Tamirsofer, 2018)",
-     "credit": "Photo: Tamirsofer",
+     "what": "a dubbing studio vocal booth with a desk, microphone, headphones and monitor, and no one in it (photographer Tamirsofer, 2018). It shows the place where a voice belongs to the performer who speaks it; it does not show whose voice Sky is",
+     "credit": "Photo: Tamirsofer, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:%D7%97%D7%93%D7%A8_%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA_%D7%A9%D7%9C_%D7%94%D7%9E%D7%93%D7%91%D7%91%D7%99%D7%9D_2017.jpg",
      "card": false
     },
     {
      "where": "Slide 6c",
-     "what": "Portrait of Scarlett Johansson at a photocall on May 21, 2025 (photographer Harald Krichel)",
-     "credit": "Photo: Harald Krichel",
+     "what": "Portrait of Scarlett Johansson at a photocall on May 21, 2025 (photographer Harald Krichel). The sentence says OpenAI's account does not replace Johansson's own response; the photo shows her only and says nothing about Sky, OpenAI or the dispute",
+     "credit": "Photo: Harald Krichel, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson-8591.jpg",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustrative photo: a Voice-O-Graph disc, a record on which a person’s voice was cut in a booth, photographed by Dietmar Rabich in 2015",
-     "credit": "Photo: Dietmar Rabich",
+     "what": "a Voice-O-Graph disc, on which a person’s voice was cut in a booth, photographed by Dietmar Rabich in 2015. It shows a voice captured as an object apart from the speaker’s face or name; it is not a session contract",
+     "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Sprechender_Brief_--_2015_--_6008.jpg",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "Illustrative photo: the recording and control room of Muscle Shoals Sound Studio in Alabama, photographed in 2025",
-     "credit": "Photo: Peter K Burian",
+     "what": "the live room and control room of Muscle Shoals Sound Studio in Alabama, photographed in 2025. It shows where a performer’s session is made and logged; it is not connected to OpenAI or Sky",
+     "credit": "Photo: Peter K Burian, CC BY 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Muscle_Shoals_Sound_Studio,_recording_booth,_2025.jpg",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Illustrative photo: a vocal microphone behind a pop filter in a sound-treated booth, in black and white (photographer Tim Sheerman-Chase, 2012)",
-     "credit": "Photo: Tim Sheerman-Chase",
+     "what": "a vocal microphone behind a pop filter in a sound-treated booth, in black and white (photographer Tim Sheerman-Chase, 2012). It stands for the voice track and the person who speaks into it; it is not a picture of Sky, a performer or OpenAI",
+     "credit": "Photo: Tim Sheerman-Chase, CC BY 2.0",
      "url": "https://commons.wikimedia.org/wiki/File:Condenser_Microphone_with_Pop_Filter_and_Reflection_Filter.jpg",
-     "card": false
-    },
-    {
-     "where": "Long form image 1",
-     "what": "Scarlett Johansson on stage at San Diego Comic-Con, July 20, 2019, holding a microphone.",
-     "credit": "Photo: Gage Skidmore, CC BY-SA 2.0, via Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_by_Gage_Skidmore_2.jpg",
-     "card": false
-    },
-    {
-     "where": "Long form image 2",
-     "what": "Sam Altman, chief executive of OpenAI, seated outdoors at an event in November 2022.",
-     "credit": "Photo: Village Global, CC BY 2.0, via Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Sam_Altman_November_2022.jpg",
-     "card": false
-    },
-    {
-     "where": "Long form image 3",
-     "what": "A timeline chart of eleven dated events from May 10, 2023, to May 22, 2024, each marked with the side that gave the date.",
-     "credit": "Chart: RN Collins, from OpenAI (May 19 and 22, 2024) and Johansson (May 20, 2024) data",
-     "url": "",
-     "card": false
-    },
-    {
-     "where": "Long form image 4",
-     "what": "A 1973 publicity photograph of Bette Midler, seated on a sofa, issued by her manager.",
-     "credit": "Photo: Aaron Russo (Midler's manager), public domain, via Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Bette_Midler_1973.JPG",
-     "card": false
-    },
-    {
-     "where": "Long form image 5",
-     "what": "A 1973 publicity photograph of Tom Waits issued by his label, Asylum.",
-     "credit": "Photo: Asylum (Waits's label), photographer unknown, public domain, via Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Tom_Waits_(1973_publicity_photo).jpg",
-     "card": false
-    },
-    {
-     "where": "Long form image 6",
-     "what": "The first page of Tennessee Public Chapter 588, House Bill 2091, as enacted in 2024.",
-     "credit": "State of Tennessee, Public Chapter No. 588 (2024), Tennessee Secretary of State",
-     "url": "https://publications.tnsosfiles.com/acts/113/pub/pc0588.pdf",
-     "card": false
-    },
-    {
-     "where": "Long form image 7",
-     "what": "The signature page of Tennessee Public Chapter 588, showing the passage date and the governor's signature.",
-     "credit": "State of Tennessee, Public Chapter No. 588 (2024), Tennessee Secretary of State",
-     "url": "https://publications.tnsosfiles.com/acts/113/pub/pc0588.pdf",
-     "card": false
-    },
-    {
-     "where": "Long form image 8",
-     "what": "The first page of the July 10, 2025, opinion and order in Lehrman v. Lovo, Inc., U.S. District Court for the Southern District of New York.",
-     "credit": "U.S. District Court for the Southern District of New York, Lehrman v. Lovo, Inc., 24-CV-3770, Dkt. 45 (July 10, 2025), a U.S. government work",
-     "url": "https://www.nysd.uscourts.gov/sites/default/files/2025-07/Lovo%20v%20Lehrman.pdf",
-     "card": false
-    },
-    {
-     "where": "Long form image 9",
-     "what": "Striking screenwriters and actors picketing outside the Paramount Pictures gate in Hollywood on August 16, 2023.",
-     "credit": "Photo: Chris Long, CC BY 2.0, via Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Hollywood,_CA,_USA_(53124099308).jpg",
-     "card": false
-    },
-    {
-     "where": "Long form image 10",
-     "what": "The cover of the U.S. Copyright Office report Copyright and Artificial Intelligence, Part 1: Digital Replicas, July 2024.",
-     "credit": "U.S. Copyright Office, Copyright and Artificial Intelligence, Part 1: Digital Replicas (July 2024), a U.S. government work",
-     "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf",
-     "card": false
-    },
-    {
-     "where": "Long form image 11",
-     "what": "The first page of Senate bill S. 4591, the NO FAKES Act of 2026, as reported to the Senate on June 24, 2026.",
-     "credit": "U.S. Government Publishing Office, S. 4591, 119th Congress, reported in Senate (June 24, 2026), a U.S. government work",
-     "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4591rs/html/BILLS-119s4591rs.htm",
-     "card": false
-    },
-    {
-     "where": "Long form image 12",
-     "what": "Scarlett Johansson at a photocall at the Cannes Film Festival on May 21, 2025.",
-     "credit": "Photo: Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson-8591.jpg",
-     "card": false
-    },
-    {
-     "where": "Long form image 13",
-     "what": "An empty dubbing booth with a microphone, 2008.",
-     "credit": "Photo: Andres Moreno, CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Sala_de_doblaje.jpg",
      "card": false
     }
    ]
@@ -3909,86 +3727,65 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "A black McDonald's Canada burger box for the 2026 World Menu Heist, photographed on a table in a Canadian restaurant: a gold globe printed with 'Spain Espagne' and 'Australia Australie', and the McDonald's arches with a small red maple leaf",
-     "credit": "Photo: Michael Eats",
-     "url": "https://michaeleats.com/2026/08/20/chicken-parmi-burger/",
+     "what": "Chart with two rows. 2025: International Menu Heist, release June 23, on sale June 24, six items. 2026: World Menu Heist, release and on sale August 18, seven items. Chart: RN Collins, from McDonald's data",
+     "credit": "Chart: RN Collins, from McDonald's data",
+     "url": "https://web.archive.org/web/20260608120352/https://www.mcdonalds.com/ca/en-ca/newsroom/article/International-Menu-Heist--Global-McDonald-s-Inspired-Icons-Appear-in-Canada.html",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "McDonald's Canada's own press photograph of the Big Rösti, the Germany item in the 2025 International Menu Heist: a beef patty under a Rösti hash brown, melted cheese, bacon and sauce, in an oat-topped bun",
-     "credit": "Source: McDonald's Canada",
-     "url": "https://dailyhive.com/toronto/mcdonalds-canada-international-menu-items",
+     "what": "McDonald's Japan's Teriyaki Chicken Filet-O meal on a tray in Japan, October 2018: a chicken sandwich glazed with dark teriyaki sauce and lettuce in its open wrapper, with fries and an orange drink. It is the Japanese menu item behind the 'Japan' label on Canada's 2025 Teriyaki Chicken Sandwich",
+     "credit": "Photo: Tokumeigakarinoaoshima CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:McDonald%27s_Teriyaki_Chicken_Filet-O_set_(Fried_potato_%26_MinuteMaid_Orange",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "McDonald's Canada's own press photograph of McPizza Bites, the Italy item in the 2025 International Menu Heist: golden pizza-dough pockets, one pulled open to show tomato sauce and stretched mozzarella",
-     "credit": "Source: McDonald's Canada",
-     "url": "https://dailyhive.com/toronto/mcdonalds-canada-international-menu-items",
+     "what": "A Biscoff caramel McFlurry in a white McDonald's cup with a spoon, photographed in Belgium on February 2, 2025: soft serve topped with brown speculoos cookie crumbs and caramel. It is the Belgian McFlurry behind the 'Belgium' label on Canada's 2025 Biscoff McFlurry",
+     "credit": "Photo: Le Sharkoïste, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:McFlurry_Biscoff_Caramel.jpeg",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "The Chicken Parmi Burger from the 2026 World Menu Heist as served at a McDonald's in Canada: breaded chicken under marinara, melted white cheese and shredded lettuce in a glossy bun, sitting on its black box",
-     "credit": "Photo: Michael Eats",
-     "url": "https://michaeleats.com/2026/08/20/chicken-parmi-burger/",
+     "what": "List chart of McDonald's Canada's World Menu Heist from August 18, 2026, seven items: Chicken Parmi Burger, Australia; McExtreme Pulled Pork, Spain; Cheesy Bacon McFlavour Fries, France; Garlic and Black Pepper Chicken McNuggets, Japan; Stroopwafel McFlurry, Netherlands; Truffle Flavoured Mayo-Style Sauce, Sweden; Black Garlic Sauce, Japan",
+     "credit": "Chart: RN Collins, from McDonald's data",
+     "url": "https://web.archive.org/web/20260608120352/https://www.mcdonalds.com/ca/en-ca/newsroom/article/International-Menu-Heist--Global-McDonald-s-Inspired-Icons-Appear-in-Canada.html",
      "card": false
     },
     {
      "where": "Slide 5a",
-     "what": "McDonald's Canada's own press photograph of the Teriyaki Chicken Sandwich, the Japan item in the 2025 International Menu Heist: a breaded chicken fillet glazed in teriyaki sauce with lettuce and mayo-style sauce on a sesame bun",
-     "credit": "Source: McDonald's Canada",
-     "url": "https://dailyhive.com/toronto/mcdonalds-canada-international-menu-items",
+     "what": "Two-column chart. 2025 International Menu Heist: Teriyaki Chicken Sandwich, Japan; Big Rösti, Germany; McPizza Bites, Italy; Biscoff McFlurry, Belgium; Garlic Mayo-Style Sauce, UK; Sweet Tangy Chili Dip, Australia. 2026 World Menu Heist: seven different items. No item appears in both columns; Japan and Australia appear in both years",
+     "credit": "Chart: RN Collins, from McDonald's data",
+     "url": "https://web.archive.org/web/20260608120352/https://www.mcdonalds.com/ca/en-ca/newsroom/article/International-Menu-Heist--Global-McDonald-s-Inspired-Icons-Appear-in-Canada.html",
      "card": false
     },
     {
      "where": "Slide 5b",
-     "what": "Michael Eats's photograph of a Chicken Parmi Burger cut in half in its open box, showing the breaded chicken fillet, lettuce and sauces",
-     "credit": "Photo: Michael Eats",
-     "url": "https://michaeleats.com/2026/08/20/chicken-parmi-burger/",
+     "what": "The same two-column chart of the 2025 and 2026 Canadian lineups: the Teriyaki Chicken Sandwich is only in the 2025 column and the Chicken Parmi Burger only in the 2026 column",
+     "credit": "Chart: RN Collins, from McDonald's data",
+     "url": "https://web.archive.org/web/20260608120352/https://www.mcdonalds.com/ca/en-ca/newsroom/article/International-Menu-Heist--Global-McDonald-s-Inspired-Icons-Appear-in-Canada.html",
      "card": false
     },
     {
      "where": "Slide 6a",
-     "what": "The International Menu Heist poster on the wall of a McDonald's Canada restaurant in June 2025",
-     "credit": "Photo: Michael Eats",
-     "url": "https://michaeleats.com/2025/06/28/mcpizza-bites-at-mcdonalds/",
+     "what": "Table chart of twelve dated launches in nine markets from June 5, 2019 to September 22, 2026, each with the name its release used, such as Worldwide Favorites, International Menu Heist, Croquez Le Monde, Menu Heist, Mission: World Menu and World Menu Heist. Canada's two rows, June 24, 2025 and August 18, 2026, are in bold",
+     "credit": "Chart: RN Collins, from McDonald's data",
+     "url": "https://rn-selected-work.vercel.app/sources/ioo/c01-p11",
      "card": false
     },
     {
      "where": "Slide 6b",
-     "what": "The ordering counter of a McDonald's restaurant in Canada in August 2026, with the digital menu board above it carrying a 'World Menu Heist' panel for that campaign's own menu list",
-     "credit": "Photo: Michael Eats",
-     "url": "https://michaeleats.com/2026/08/18/mcextreme-pulled-pork/",
+     "what": "The same table of twelve dated launches; Canada's 2025 International Menu Heist and 2026 World Menu Heist are separate rows with separate dates",
+     "credit": "Chart: RN Collins, from McDonald's data",
+     "url": "https://rn-selected-work.vercel.app/sources/ioo/c01-p11",
      "card": false
     },
     {
      "where": "Slide 6c",
-     "what": "Illustrative photo: McDonald's Canada's press photograph of a stack of Chicken McNuggets with a bowl of Sweet Tangy Chili Dip, the Australian sauce in the 2025 International Menu Heist",
-     "credit": "Source: McDonald's Canada",
-     "url": "https://dailyhive.com/toronto/mcdonalds-canada-international-menu-items",
-     "card": false
-    },
-    {
-     "where": "Slide 7",
-     "what": "Illustrative photo: McDonald's Canada's own press photograph of the Biscoff McFlurry, the Belgium item in the 2025 International Menu Heist, a cup of vanilla soft serve with crumbled Lotus Biscoff biscuit and a whole biscuit beside it",
-     "credit": "Source: McDonald's Canada",
-     "url": "https://dailyhive.com/toronto/mcdonalds-canada-international-menu-items",
-     "card": false
-    },
-    {
-     "where": "Slide 8a",
-     "what": "Illustrative photo: the McExtreme Pulled Pork burger from the 2026 World Menu Heist as served at a McDonald's in Canada, with pulled pork, bacon and a sesame bun on its black box",
-     "credit": "Photo: Michael Eats",
-     "url": "https://michaeleats.com/2026/08/18/mcextreme-pulled-pork/",
-     "card": false
-    },
-    {
-     "where": "Slide 8b",
-     "what": "Michael Eats's photograph, taken from inside a McDonald's restaurant in Canada, of the 2026 World Menu Heist poster in the window, with France's Cheesy Bacon McFlavour Fries and a caramel-topped McFlurry under the campaign title",
-     "credit": "Photo: Michael Eats",
-     "url": "https://michaeleats.com/2026/08/20/chicken-parmi-burger/",
+     "what": "The same table of twelve dated launches: each market's release is its own dated document, so no single row shows that products, markets or rights carried over from one campaign to the next",
+     "credit": "Chart: RN Collins, from McDonald's data",
+     "url": "https://rn-selected-work.vercel.app/sources/ioo/c01-p11",
      "card": false
     }
    ]
@@ -4616,79 +4413,65 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "A finished IKEA BILLY bookcase in birch veneer standing against a wall at home, its shelves full of CDs, DVDs and books, photographed in 2008",
-     "credit": "Photo: Magnus Bäck",
-     "url": "https://commons.wikimedia.org/wiki/File:IKEA_Billy_bookshelf_(80x106_cm_birch_veneer).jpg",
+     "what": "A finished IKEA BILLY bookcase in birch veneer standing against a wall at home, its shelves full of CDs and books, photographed in 2008. It is the finished object the instructions lead a stranger to, which is what the sentence describes",
+     "credit": "Photo: Magnus Bäck, Public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:IKEA_Billy_bookshelf_(80x106_cm_birch_veneer",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "A real BILLY bookcase kit laid out on a carpet before assembly: the beech-effect side, top, shelf and back panels, a small bag of fittings and the folded BILLY instruction sheet",
-     "credit": "Source: Instructables",
-     "url": "https://www.instructables.com/IKEA-Billy-Bookshelf-Assembly-How-To-&-Help/",
+     "what": "Chart of what IKEA's BILLY booklet shows before step 1. Tools on page 6: flat screwdriver, cross-head screwdriver, pencil, hammer, measuring rule. Parts on page 7, each with its count: 16 wooden dowels, 12 cam bolts, 12 cam locks, 18 and 18 back-panel fasteners, 2 wall brackets with 2 screws and 4 washers, 16 shelf pins. Chart: RN Collins, from IKEA data",
+     "credit": "Chart: RN Collins, from IKEA data",
+     "url": "https://www.ikea.com/us/en/assembly_instructions/billy-bookcase-black-oak-effect__AA-2289108-3-100.pdf",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "A real BILLY bookcase mid-assembly on a carpet: the side, top and bottom panels joined into a rectangular frame, the back panel and instruction sheet waiting beside it",
-     "credit": "Source: Instructables",
-     "url": "https://www.instructables.com/IKEA-Billy-Bookshelf-Assembly-How-To-&-Help/",
+     "what": "Chart of the BILLY booklet's twelve numbered steps in order, from 16 dowels into the shelf edges in step 1 to 4 loose shelves set on their pins in step 12; the frame is built lying down and raised in step 10. Chart: RN Collins, from IKEA data",
+     "credit": "Chart: RN Collins, from IKEA data",
+     "url": "https://www.ikea.com/us/en/assembly_instructions/billy-bookcase-black-oak-effect__AA-2289108-3-100.pdf",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustrative photo: a real BILLY bookcase frame on a carpet with its thin back panel laid across it, ready to be fitted",
-     "credit": "Source: Instructables",
-     "url": "https://www.instructables.com/IKEA-Billy-Bookshelf-Assembly-How-To-&-Help/",
+     "what": "Chart of every place the BILLY booklet draws a large X beside the right way: page 6, one person alone and boards on a hard floor; pages 7 and 14, a bookcase tipping over because it is not fixed to the wall; page 8, step 3, a panel turned the wrong way, shown twice; page 10, step 5, the end panel with its holes facing out. Chart: RN Collins, from IKEA data",
+     "credit": "Chart: RN Collins, from IKEA data",
+     "url": "https://www.ikea.com/us/en/assembly_instructions/billy-bookcase-black-oak-effect__AA-2289108-3-100.pdf",
      "card": false
     },
     {
      "where": "Slide 5a",
-     "what": "A finished BILLY bookcase standing upright in a library room: beech-effect carcass, three shelves, square and level",
-     "credit": "Source: Instructables",
-     "url": "https://www.instructables.com/IKEA-Billy-Bookshelf-Assembly-How-To-&-Help/",
+     "what": "A tall white BILLY bookcase in a home in May 2020, standing upright with six shelves crammed with hardbacks and paperbacks. It is a finished BILLY doing its job, the finished state the card describes",
+     "credit": "Photo: Nathan Kramer, CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Billy_Bookcase.jpg",
      "card": false
     },
     {
      "where": "Slide 5b",
-     "what": "IKEA's own photograph of two finished white BILLY bookcases standing side by side, upright and level, with every shelf loaded with books, boxes and photographs",
-     "credit": "Source: IKEA",
-     "url": "https://www.ikea.com/us/en/p/billy-bookcase-white-00263850/",
-     "card": false
-    },
-    {
-     "where": "Slide 6",
-     "what": "Illustrative photo: a real IKEA BILLY bookcase in dark brown with glass doors and a corner section, standing in a home with models and books on its shelves",
-     "credit": "Photo: Jan Polák",
-     "url": "https://commons.wikimedia.org/wiki/File:IKEA,_knihovna_Billy.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 7a",
-     "what": "Illustrative photo: a real slim IKEA BILLY bookcase in a dark brown wood-effect finish standing beside a door in a bedroom, with a few books on its shelves",
-     "credit": "Photo: Jakub Súkeník",
+     "what": "A narrow dark brown BILLY bookcase built and standing straight beside a door in August 2022, its shelves level, a row of books on one of them. It shows the finished state: the bookcase stands, aligns and works",
+     "credit": "Photo: Jakub Súkeník, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Ikea_Billy_bookcase.jpg",
      "card": false
     },
     {
+     "where": "Slide 6",
+     "what": "Chart setting the BILLY booklet beside a creator brief in four rows. Inputs: page 7's counted parts; in a brief, files, facts, allowed claims, rate and the disclosure line. Sequence: steps 1 to 12; in a brief, dates for draft, review, posting and take-down. Checks: the X marks at steps 3 and 5; in a brief, claims not to make and places a disclosure must not hide. Finished state: the cover drawing; in a brief, what the finished post looks like and how it is judged",
+     "credit": "Chart: RN Collins, from IKEA, FTC and TikTok data",
+     "url": "https://www.ikea.com/us/en/assembly_instructions/billy-bookcase-black-oak-effect__AA-2289108-3-100.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 7a",
+     "what": "Bar chart from the 2021 BetterBriefs survey of more than 1,700 marketers and agency staff. Briefs are good: 80 percent of marketers agree, 10 percent of creative agencies. Clear strategic direction: 78 and 5 percent. Clear, concise language: 83 and 7 percent. The figures are opinions, not a test of real briefs",
+     "credit": "Chart: RN Collins, from BetterBriefs data",
+     "url": "https://ipa.co.uk/news/betterbriefs",
+     "card": false
+    },
+    {
      "where": "Slide 7b",
-     "what": "Illustrative photo: IKEA's photograph of a white BILLY bookcase in a styled living room with an armchair, a framed print, a lamp, a guitar and a window",
-     "credit": "Source: IKEA",
-     "url": "https://www.ikea.com/us/en/p/billy-bookcase-white-00263850/",
-     "card": false
-    },
-    {
-     "where": "Slide 8",
-     "what": "Illustrative photo: Gillis Lundgren, the IKEA designer credited with drawing BILLY, standing beside about fifteen BILLY bookcases in different finishes, sizes and door styles",
-     "credit": "Source: IKEA Museum",
-     "url": "https://ikeamuseum.com/en/explore/designer-portraits/gillis-lundgren/",
-     "card": false
-    },
-    {
-     "where": "Slide 9",
-     "what": "Illustrative photo: a close-up of a real BILLY bookcase corner being fastened, with an Allen key turning a fitting in the top panel while loose panels lie behind",
-     "credit": "Source: Instructables",
-     "url": "https://www.instructables.com/IKEA-Billy-Bookshelf-Assembly-How-To-&-Help/",
+     "what": "Bar chart from the 2021 BetterBriefs survey of more than 1,700 marketers and agency staff. Briefs are good: 80 percent of marketers agree, 10 percent of creative agencies. Clear strategic direction: 78 and 5 percent. Clear, concise language: 83 and 7 percent. The figures are opinions, not a test of real briefs",
+     "credit": "Chart: RN Collins, from BetterBriefs data",
+     "url": "https://ipa.co.uk/news/betterbriefs",
      "card": false
     }
    ]
@@ -5276,72 +5059,79 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustrative photo: a person in costume kneeling in front of a smartphone mounted on a stand, livestreaming at a convention hall",
-     "credit": "Photo: Leiem, CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:BW2023_coser直播中.jpg",
+     "what": "Two pieces of one Federal Register column, September 13, 2017, from the FTC's CSGO Lotto case: according to the complaint, YouTube creators Trevor Martin and Tom Cassell were president and vice president, and both owned the company behind the gambling site their videos promoted",
+     "credit": "Source: Federal Register, 82 FR 43021",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2017-09-13/pdf/2017-19390.pdf",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Illustrative photo: a hand holding a smartphone that shows a post in the Instagram app, a Meta product",
-     "credit": "Photo: Santeri Viinamäki",
-     "url": "https://commons.wikimedia.org/wiki/File:Instagram_app_on_smartphone_(grass_background)_(cropped).jpg",
+     "what": "A column of the Federal Register, March 23, 2016: the FTC's summary of its Lord and Taylor complaint. The store paid fifty fashion influencers to wear one dress and post it on Instagram, and in most posts nothing mentioned the connection",
+     "credit": "Source: Federal Register, 81 FR 15524",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2016-03-23/pdf/2016-06573.pdf",
      "card": false
     },
     {
      "where": "Slide 3a",
-     "what": "Illustrative photo: the faders and buttons of a mixing console in a music studio, with studio monitors behind",
-     "credit": "Photo: Network118, CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Ak1_Music_Studio.jpg",
+     "what": "Lines from the FTC's Endorsement Guides, 2023, as printed in the Federal Register: believing the lotion cleared up their eczema, a paid influencer says in a video review, This lotion cures eczema, a claim the brand never made",
+     "credit": "Source: Federal Register, 88 FR 48106",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2023-07-26/pdf/2023-14795.pdf",
      "card": false
     },
     {
      "where": "Slide 3b",
-     "what": "Illustrative photo: a narrow corridor between two steel shelving units holding black binders on the left and cardboard archive boxes on the right",
-     "credit": "Photo: Samuel Zeller",
-     "url": "https://commons.wikimedia.org/wiki/File:Archive_storage_(Unsplash).jpg",
+     "what": "The top of the 2026 IRS Schedule C, Profit or Loss From Business (Sole Proprietorship), with the question about filing Forms 1099 and Part I, Income, lines 1 to 7 from gross receipts to gross income",
+     "credit": "Source: IRS, Schedule C (2026)",
+     "url": "https://www.irs.gov/pub/irs-pdf/f1040sc.pdf",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustrative photo: the back of a large LED video wall, a dense frame of boards and cables behind the picture an audience sees, with colored stage lights above",
-     "credit": "Photo: Pinkypun, CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Backstage_of_a_college_event.jpg",
+     "what": "Bar chart from Census Bureau data: in 2024, 1,069,754 of the 1,115,783 U.S. businesses with no paid employees in the industry of independent artists, writers and performers, 95.9 percent, were sole proprietorships run by one person. S corporations, partnerships and C corporations make three very short bars",
+     "credit": "Chart: RN Collins, from Census Bureau data",
+     "url": "https://www2.census.gov/programs-surveys/nonemployer-statistics/datasets/2024/historical-datasets/nonemp24us.zip",
      "card": false
     },
     {
-     "where": "Slide 5",
-     "what": "Illustrative photo: a printed manuscript marked with handwritten edits, with a pen lying on it, on a desk",
-     "credit": "Photo: Phoebe, CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Example_of_copyedited_manuscript.jpg",
+     "where": "Slide 5a",
+     "what": "Lines from the FTC's Endorsement Guides, 2023, as printed in the Federal Register: after a paint brand changes its formula, an old endorsement post can stay up as long as its date is clear and conspicuous to viewers",
+     "credit": "Source: Federal Register, 88 FR 48105",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2023-07-26/pdf/2023-14795.pdf",
+     "card": false
+    },
+    {
+     "where": "Slide 5b",
+     "what": "Lines from the FTC's Endorsement Guides, 2023, as printed in the Federal Register: after a paint brand changes its formula, an old endorsement post can stay up as long as its date is clear and conspicuous to viewers",
+     "credit": "Source: Federal Register, 88 FR 48105",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2023-07-26/pdf/2023-14795.pdf",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustrative photo: an open drawer of labeled file folders and papers from a dictionary research project",
-     "credit": "Photo: Alarichall, CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Archived_files_of_research_materials_from_the_creation_of_the_Dictionary_of_Old_English.jpg",
+     "what": "A heading and opening line from page 11 of IRS Publication 583, Starting a Business, revised December 2024: everyone in business must keep the papers behind the work, and good files help the owner run it",
+     "credit": "Source: IRS, Publication 583",
+     "url": "https://www.irs.gov/pub/irs-pdf/p583.pdf",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustrative photo: a blue ring binder open on a stand, holding typed briefing pages with tabbed sections for a 1976 political campaign",
-     "credit": "Photo: Ford Museum, public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:1976_Campaign_binder.JPG",
+     "what": "A column of the Federal Register, March 23, 2016: the Lord and Taylor order requires the company to keep copies of its ads, its contracts with endorsers, its messages about disclosures, consumer complaints and proof that it followed the order",
+     "credit": "Source: Federal Register, 81 FR 15524",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2016-03-23/pdf/2016-06573.pdf",
      "card": false
     },
     {
      "where": "Slide 8a",
-     "what": "Illustrative photo: a man lifting a folder of papers from a labeled shelf of archive boxes at The National Archives in the United Kingdom",
-     "credit": "Photo: The National Archives UK, CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:A_reader_at_The_National_Archives.jpg",
+     "what": "Table 3, Period of Limitations, from IRS Publication 583, revised December 2024: how long the files behind a tax return matter, from 3 years in most cases to 6 years when income is left out, and no limit when no return is filed",
+     "credit": "Source: IRS, Publication 583, Table 3",
+     "url": "https://www.irs.gov/pub/irs-pdf/p583.pdf",
      "card": false
     },
     {
      "where": "Slide 8b",
-     "what": "Illustrative photo: a projector screen at the front of a hall showing a pale-blue slide of production credits for a Cardiff performance titled Tair Llythyren, photographed in December 2024",
-     "credit": "Photo: Owen Blacker",
-     "url": "https://commons.wikimedia.org/wiki/File:Tair_Llythyren_credits_at_Cardiff_World_Aids_Day_memorial_2024.jpg",
+     "what": "Two paragraphs of the IRS instructions for Forms 1099-MISC and 1099-NEC, revised December 2026: the reporting threshold rose to 2,000 dollars, and Form 1099-NEC is due by January 31, or the next business day",
+     "credit": "Source: IRS, Form 1099 instructions",
+     "url": "https://www.irs.gov/pub/irs-pdf/i1099mec.pdf",
      "card": false
     }
    ]
