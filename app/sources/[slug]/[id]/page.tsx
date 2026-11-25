@@ -11,6 +11,8 @@ import { aanSiteLinks } from "../../../../lib/aan-site";
 import { imageSourceLink } from "../../../../lib/image-source-link";
 import { sourceLinkTargets } from "../../../../lib/source-link-targets";
 import { account, accounts, entryCount, host, listed, releasedPost, type SourceLink } from "../../../../lib/sources";
+import { LabBook } from "../../../../components/lab-book";
+import { labForPage } from "../../../../lib/sources-lab-rnc";
 import styles from "../../sources.module.css";
 
 // In this folder [slug] is the account (ddw26, venues, makers, editions) and [id] the post. Next.js allows one
@@ -92,6 +94,24 @@ export default async function SourcePage({ params }: Params) {
   const order = listed(a);
   const at = order.findIndex((q) => q.slug === p.slug);
   const ref = (q?: { slug: string; title: string }) => q && { href: `/sources/${slug}/${q.slug}`, title: q.title };
+  const pieceLinks = (
+    <PieceLinks
+      id={pieceId(slug, p.slug)}
+      longForm={essayHref ? { href: essayHref, label: `The essay: ${e!.title}` } : undefined}
+      more={slug === "fatnugs" ? aanSiteLinks(`fatnugs/${p.slug}`) : undefined}
+      index={{ href: `/sources/${slug}`, title: `${a.name}: all posts and their sources` }}
+      prev={ref(order[at - 1])}
+      next={ref(at >= 0 ? order[at + 1] : undefined)}
+    />
+  );
+  // RN Collins sticker look (RN, Nov 24, 2026) for every page with a 16-section record; the rest keep the design below.
+  const lab = labForPage(`${slug}/${p.slug}`, p, origin);
+  if (lab) return (
+    <CanonicalPage>
+      <LabBook p={lab} brand="rnc" page={`/sources/${slug}/${p.slug}`} shortPath={`/sources/${slug}/${p.slug}`} note={p.note} links={pieceLinks} />
+      <PortfolioBlock />
+    </CanonicalPage>
+  );
   return (
     <CanonicalPage>
       <article className={`${styles.page} shell`}>

@@ -6,6 +6,8 @@ import { PieceLinks } from "../../../../components/piece-links";
 import { tfhId } from "../../../../lib/releases";
 import { soundFor } from "../../../../lib/source-sound";
 import { isBeyond, releasedTfhPost, tfhPostedSoFar } from "../../../../lib/tfh-sources";
+import { LabBook } from "../../../../components/lab-book";
+import { labForPage } from "../../../../lib/sources-lab-rnc";
 
 // Only released sets (data/releases.json) are built. Any other address returns 404 until the set's release day;
 // pages are rechecked hourly, and the daily cron (app/api/release-day) refreshes them all.
@@ -36,6 +38,15 @@ export default async function TfhSourcePage({ params }: { params: Promise<{ slug
   const order = tfhPostedSoFar();
   const at = order.findIndex((q) => q.slug === p.slug);
   const ref = (q?: { slug: string; title: string }) => q && { href: `/sources/tfh/${q.slug}`, title: q.title };
+  const links = <PieceLinks id={tfhId(p.slug)} index={{ href: "/sources/tfh", title: "All Tech From Here posts and their sources" }} prev={ref(order[at - 1])} next={ref(at >= 0 ? order[at + 1] : undefined)} />;
+  // RN Collins sticker look (RN, Nov 24, 2026) where the post has a 16-section record. No client line on these pages
+  // (DDW Flickr photos are non-commercial), the same as the earlier design.
+  const lab = labForPage(`tfh/${p.slug}`, p);
+  if (lab) return (
+    <CanonicalPage>
+      <LabBook p={lab} brand="rnc" page={`/sources/tfh/${p.slug}`} shortPath={`/sources/tfh/${p.slug}`} clientLine={false} sound={soundFor(tfhId(p.slug))} links={links} />
+    </CanonicalPage>
+  );
   return (
     <CanonicalPage>
       <SourcesDetail p={p} eyebrow="Tech From Here: NL · Sources" meta={isBeyond(p) ? p.series : `${p.series} · Dutch Design Week 2026`} backHref="/sources/tfh" backLabel="All Tech From Here posts and their sources" intro="The work this post covers and every source it draws on, each linked to the original." social="rn" clientLine={false} sound={soundFor(tfhId(p.slug))}

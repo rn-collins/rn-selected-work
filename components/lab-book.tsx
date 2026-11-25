@@ -4,6 +4,7 @@ import { host, longDate, type SourcePost } from "../lib/aan-sources";
 import { hawaiiToday } from "../lib/releases";
 import aanSite from "../data/aan-site.json";
 import { ClientLine } from "./sources-detail";
+import type { SoundCredit } from "../lib/source-sound";
 import { SocialRow } from "./social-row";
 import s from "./lab-book.module.css";
 
@@ -108,7 +109,7 @@ const cite = (label: string) => label.replace(/\s*\((?:read|seen|checked)[^)]*\)
 // stickers; more puffy stickers, RN Collins's own, not AaN's). A sticker row under the title gives the page's counts.
 // An RN Collins post's source page from its package record (lib/sources-lab-rnc.ts). Its annotated sources
 // may have no link (an archive record, a conversation), so those draw from the annotation alone; no AaN question links.
-export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p: SourcePost; links: ReactNode; brand?: "aan" | "fnm" | "rnc"; shortPath?: string; page?: string }) {
+export async function LabBook({ p, links, brand = "aan", shortPath, page, clientLine = true, note, sound = [] }: { p: SourcePost; links: ReactNode; brand?: "aan" | "fnm" | "rnc"; shortPath?: string; page?: string; clientLine?: boolean; note?: string; sound?: SoundCredit[] }) {
   const x = p.extra ?? {};
   // The post's own slides, from its page on the AaN site, once that page is released and actually up.
   const site = aanSite as unknown as { base: string; posts: Record<string, { path: string; releasedAt: string; hold: boolean }> };
@@ -148,7 +149,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
     "go-deeper": deeper.length > 0,
     "listen-watch": !!x.listen_watch?.length,
     bibliography: p.research.length + p.other.length > 0,
-    images: p.images.length + charts.length > 0,
+    images: p.images.length + charts.length + sound.length > 0,
     glossary: !!x.glossary?.length,
     law: !!x.law_policy?.length,
     clinical: !!x.clinical?.length,
@@ -251,7 +252,8 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
                 {p.interactive && (
                   <p className={s.tryit}><a className={`${s.sticker} ${s.sun}`} href={`/${p.interactive.file}`}>Try it yourself: {p.interactive.title} <span aria-hidden="true">→</span></a></p>
                 )}
-                <p className={s.small}>{p.disclaimer || "Education, not medical advice."} Not legal advice.</p>
+                {note && <p className={s.small}>{note}</p>}
+                {brand === "rnc" ? (p.disclaimer && <p className={s.small}>{p.disclaimer}</p>) : <p className={s.small}>{p.disclaimer || "Education, not medical advice."} Not legal advice.</p>}
               </div>
               {sticker && <div className={s.sureInline}>{sticker}</div>}
             </div>
@@ -354,7 +356,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
           )}
 
           {has.images && (
-            <Section id="images" title={charts.length ? "Images and charts" : "Images"}>
+            <Section id="images" title={sound.length ? (charts.length ? "Images, charts and sound" : "Images and sound") : charts.length ? "Images and charts" : "Images"}>
               {charts.length > 0 && (
                 <div className={s.chartTab}>
                   <h3>Chart data</h3>
@@ -381,6 +383,12 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
                       {im.url && <Out href={im.url}>{im.card ? "The study" : brand === "rnc" ? "Source" : "Record"}</Out>}
                     </li>
                   )} />
+                </>
+              )}
+              {sound.length > 0 && (
+                <>
+                  <h3 className={s.subhead}>Sound</h3>
+                  <ul className={s.plainList}>{sound.map((c) => <li key={c.credit}>{c.url ? <Out href={c.url}>{c.credit}</Out> : c.credit}</li>)}</ul>
                 </>
               )}
             </Section>
@@ -454,7 +462,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page }: { p:
             <p>{brand !== "aan" ? "Follow RN Collins" : "Follow Ask a Neuroscientist"}</p>
             <SocialRow set={brand !== "aan" ? "rn" : "aan"} />
           </section>
-          <ClientLine />
+          {clientLine && <ClientLine />}
         </div>
 
         {/* Wide screens only: stays in view while the page scrolls. */}
