@@ -43,7 +43,7 @@ const publicBuildRecords: PublicBuild[] = [
     title: "Authority Layer",
     category: "AI governance + community authority",
     practice: "Aloha AI",
-    status: "Browser-local proposal prototype · independently initiated · release-blocked",
+    status: "Browser-local proposal prototype · independently initiated",
     purpose: "Keep one permitted use tied to the decision that authorized it when the purpose, data, model, vendor, audience, or operators change.",
     noticed: "Purple Maiʻa's public work described a technical stack involving local compute, open models, edge hardware, place-based environmental observation, and Indigenous approaches to technology. The design question was whether authority, knowledge boundaries, accountability, withdrawal, and refusal could travel through that technical body in a durable form.",
     researched: "The proposal was grounded in Purple Maiʻa's public descriptions of the Sovereign Stack, KILO, Kānāwai, Kula, Waiw.AI, and Rooted Futures, then organized around the unresolved governance questions a community-authorized process would still have to answer.",

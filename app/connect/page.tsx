@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { SocialRow } from "../../components/social-row";
-import { builds } from "../../lib/builds";
+import { builds, shippedBuilds } from "../../lib/builds";
 
 export const metadata: Metadata = {
   alternates: { canonical: "/connect" },
@@ -65,7 +65,7 @@ export default function ConnectPage() {
             </p>
             <p>
               In practice that means the work usually starts as research and ends as
-              something that runs. There are {builds.length} reachable builds across the
+              something that runs. There are {shippedBuilds.length} reachable builds across the
               practice — regulatory monitors that report their own staleness rather than
               presenting a frozen snapshot as current, research atlases that keep
               provenance attached to every record, browser-local decision tools that state

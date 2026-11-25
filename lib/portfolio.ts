@@ -104,7 +104,7 @@ export const projects: Project[] = [
     kind: "Organization-specific concept build",
     title: "Claude for Small Business",
     shortTitle: "Claude for Small Business",
-    status: "Independent product-translation concept · release-blocked",
+    status: "Independent product-translation concept",
     thesis:
       "How could a small business understand a complex AI product without mistaking a static guide for a working integration?",
     summary:
@@ -131,7 +131,7 @@ export const projects: Project[] = [
     kind: "Organization-specific concept build",
     title: "Keiki Robotics / Oʻahu AI",
     shortTitle: "Keiki Robotics / Oʻahu AI",
-    status: "Independent static family-resource concept · release-blocked",
+    status: "Independent static family-resource concept",
     thesis:
       "Design an emerging-technology resource around Hawaiʻi's children, families, educators, and actual pathways into robotics.",
     summary:

@@ -21,6 +21,7 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
+    <>
     <main>
       <nav className="nav shell" aria-label="Portfolio navigation">
         <Link className="mark" href="/">
@@ -54,11 +55,11 @@ export default function Home() {
           </p>
         </div>
       </header>
-      <nav className="pathways shell" aria-label="Choose a path through the portfolio">{pathways.map(p=><Link key={p.href} href={p.href}><h2>{p.title} →</h2><p>{p.description}</p></Link>)}</nav>
+      <nav className="pathways shell" aria-label="Choose a path through the portfolio">{pathways.map(p=><Link key={p.href} href={p.href}><h3>{p.title} →</h3><p>{p.description}</p></Link>)}</nav>
       <section className="shell curatedSelection" aria-labelledby="curated-title"><p className="eyebrow">Three ways the disciplines meet</p><h2 id="curated-title">Start with a question.</h2><div className="pathways">
-        <Link href="/work/ownership-platform"><h2>Who owns the value of independent work? →</h2><p>Institutions of One connects research on ownership to a working platform.</p></Link>
-        <Link href="/writing#journal-of-biophilic-design"><h2>How does a space affect a mind? →</h2><p>Writing on neuroscience, architecture, cognitive clarity, and biophilic design.</p></Link>
-        <Link href="/explore?topic=Law+%2B+governance"><h2>What changes when a rule becomes a system? →</h2><p>Follow law and governance through published analysis, case studies, and builds.</p></Link>
+        <Link href="/work/ownership-platform"><h3>Who owns the value of independent work? →</h3><p>Institutions of One connects research on ownership to a working platform.</p></Link>
+        <Link href="/writing#journal-of-biophilic-design"><h3>How does a space affect a mind? →</h3><p>Writing on neuroscience, architecture, cognitive clarity, and biophilic design.</p></Link>
+        <Link href="/explore?topic=Law+%2B+governance"><h3>What changes when a rule becomes a system? →</h3><p>Follow law and governance through published analysis, case studies, and builds.</p></Link>
       </div></section>
       <section className="method">
         <div className="shell methodgrid">
@@ -337,6 +338,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+    </main>
       <footer className="footer">
         <div className="shell footergrid">
           <div>
@@ -371,7 +373,7 @@ export default function Home() {
           </div>
         </div>
       </footer>
-    </main>
+    </>
   );
 }
 
