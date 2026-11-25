@@ -30,7 +30,7 @@ export default function ConnectPage() {
           <div className="connectActions" aria-label="Contact options">
             <a className="button" href="https://www.instagram.com/rn_collins/" target="_blank" rel="noreferrer">Instagram DM ↗</a>
             <a className="button secondary" href="https://www.linkedin.com/in/rn-collins" target="_blank" rel="noreferrer">LinkedIn ↗</a>
-            <a className="button secondary" href="/rn-collins.vcf" download>Save contact</a>
+            <a className="button secondary" href="/rn-collins-card.vcf" download="RN-Collins.vcf">Save contact</a>
           </div>
           <p className="dmLine">DMs are open on Instagram at @rn_collins.</p>
           <SocialRow set="rn" />
