@@ -30,7 +30,7 @@ export default function SourcesIndex() {
         <p className="eyebrow">Ask a Neuroscientist</p>
         <h1 className={styles.title}>Sources</h1>
         <p className={styles.intro}>
-          Every Ask a Neuroscientist post has a page here listing the studies it cites and where each image comes
+          Ask a Neuroscientist posts have a page here that lists the studies they cite and where each image comes
           from, linked to the original papers, museum records and listings. The address printed on a slide leads to
           that post&apos;s page.
         </p>

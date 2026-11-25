@@ -65,7 +65,7 @@ const BLURB: Record<Id, string> = {
   glossary: "The terms in this post, in plain words.",
   law: "The laws and rules, with the date their status was checked.",
   clinical: "Trial registrations, what was measured, and side effects.",
-  safety: "Where to get help. No dosing information, ever.",
+  safety: "Where to get help. No dosing information.",
   history: "Archives, museum objects and community sources.",
   related: "This piece on every platform, and the ones either side of it.",
   corrections: "Every change since publishing, dated.",
@@ -418,7 +418,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page, client
             <Section id="safety">
               {(x.safety!.lines ?? []).length > 0 && <ul className={s.safetyList}>{x.safety!.lines!.map((l) => <li key={l}>{l}</li>)}</ul>}
               {x.safety!.note && <p className={s.safetyNote}>{x.safety!.note}</p>}
-              <p className={s.small}>In an emergency, call 911. Possible poisoning (US): Poison Help, <a href="tel:18002221222">1-800-222-1222</a>. No dosing information is given here.</p>
+              {x.safety!.relevant && <p className={s.small}>In an emergency, call 911. Possible poisoning (US): Poison Help, <a href="tel:18002221222">1-800-222-1222</a>. No dosing information is given here.</p>}
             </Section>
           )}
           {has.history && (
