@@ -35,7 +35,7 @@ export default function SourcesIndex() {
           that post&apos;s page.
         </p>
         {posts.length === 0 ? (
-          <p className={styles.meta}>The first post goes up on October 8, 2026.</p>
+          <p className={styles.meta}>Each post appears here on its release day.</p>
         ) : (
           <ul className={styles.index}>
             {posts.map((p) => (
