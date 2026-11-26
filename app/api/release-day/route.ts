@@ -8,12 +8,24 @@ import { hawaiiToday } from "../../../lib/releases";
 // Vercel cron agent. A stray call can only refresh pages early, never show an unreleased piece.
 export const dynamic = "force-dynamic";
 
-export function GET(request: Request) {
+export async function GET(request: Request) {
   const secret = process.env.CRON_SECRET;
   const ok = secret
     ? request.headers.get("authorization") === `Bearer ${secret}`
     : (request.headers.get("user-agent") ?? "").startsWith("vercel-cron/");
   if (!ok) return new Response("Not found", { status: 404 });
   revalidatePath("/", "layout");
-  return Response.json({ refreshed: true, hawaiiDate: hawaiiToday() });
+  // The Ask a Neuroscientist site is static and opens each day's pages by rebuilding. Its Vercel deploy hook (a
+  // private URL in AAN_DEPLOY_HOOK, set in this project's settings, never in git) is called here once a day.
+  let aanRebuild: string = "not configured";
+  const hook = process.env.AAN_DEPLOY_HOOK;
+  if (hook) {
+    try {
+      const r = await fetch(hook, { method: "POST" });
+      aanRebuild = r.ok ? "requested" : `failed (${r.status})`;
+    } catch {
+      aanRebuild = "failed (network)";
+    }
+  }
+  return Response.json({ refreshed: true, hawaiiDate: hawaiiToday(), aanRebuild });
 }
