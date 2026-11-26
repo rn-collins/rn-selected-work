@@ -122,7 +122,7 @@ export default async function ProjectPage({
 function CaseBlock({ label, text }: { label: string; text: string }) {
   return (
     <section>
-      <p className="eyebrow">{label}</p>
+      <h2 className="eyebrow">{label}</h2>
       <p>{text}</p>
     </section>
   );

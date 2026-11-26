@@ -105,3 +105,4 @@ a.button{color:var(--paper);background:var(--ink)}
 
 /* Draft lines on /work-with-me that wait for RN (removed before publishing). */
 .draftCheck { background: #fff1b8; outline: 1px dashed #b08900; padding: 0 .2em; }
+h2.eyebrow{font-family:inherit;line-height:inherit;color:inherit}
