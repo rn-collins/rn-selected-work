@@ -383,100 +383,100 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustrative photo: mature trees in Golden Gate Park, a large public park in San Francisco. It does not show the study, place or finding the slide names.",
-     "credit": "Photo: Vaishakh1234, CC BY-SA 4.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Park_trees.jpg",
+     "what": "The title block of RN Collins's article Biophilic Landscapes as Cognitive Infrastructure on her own site: Journal of Biophilic Design, Issue 20, Landscape Architecture; subtitle Neuroscience, Equity, and Design Practice; by RN Collins",
+     "credit": "Source: RN Collins, JBD Issue 20 web text",
+     "url": "https://rn-selected-work.vercel.app/writing/journal-of-biophilic-design/biophilic-landscapes-as-cognitive-infrastructure",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Illustrative photo: a residential street in Amersfoort, the Netherlands, lined on both sides with flowering cherry trees in full white bloom, with brick houses and parked cars at the edges. It does not show the study, place or finding the slide names.",
-     "credit": "Photo: JopkeB, CC BY-SA 4.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Hendrick_de_Keyserlaan,_Amersfoort.jpg",
+     "what": "Chart drawn by RN Collins from the Maas 2009 abstract: Dutch family-doctor records for 345,143 people; 15 of 24 disease clusters were less common with more green space within 1 km, strongest for anxiety disorder and depression",
+     "credit": "Chart: RN Collins, from Maas 2009 data",
+     "url": "https://doi.org/10.1136/jech.2008.079038",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustrative photo: houses facing the central garden of Fassett Square, a residential garden square in Hackney, London. It does not show the study, place or finding the slide names.",
-     "credit": "Photo: Ethan Doyle White, CC BY-SA 4.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:View_of_Garden_and_Houses_in_Fassett_Square.jpg",
+     "what": "The paragraph of RN Collins's article on her own site: Alcock and colleagues (2014) found that moving to greener urban areas was associated with better mental-health questionnaire scores in a British longitudinal sample",
+     "credit": "Source: RN Collins, JBD Issue 20 web text",
+     "url": "https://rn-selected-work.vercel.app/writing/journal-of-biophilic-design/biophilic-landscapes-as-cognitive-infrastructure",
      "card": false
     },
     {
-     "where": "Slide 4",
-     "what": "Page 1 of Gascon and colleagues, Mental Health Benefits of Long-Term Exposure to Residential Green and Blue Spaces: A Systematic Review (International Journal of Environmental Research and Public Health, 2015): the title, authors and the start of the abstract, which says 28 studies were included.",
-     "credit": "Source: IJERPH (MDPI), CC BY 4.0, CC BY 4.0, International Journal of Environmental Research and Public Health (MDPI); copy from the University of Barcelona repository",
+     "where": "Slide 4a",
+     "what": "Page 1 of Gascon and colleagues, Mental Health Benefits of Long-Term Exposure to Residential Green and Blue Spaces: A Systematic Review (International Journal of Environmental Research and Public Health, 2015): the title, authors and the start of the abstract, which says 28 studies were included",
+     "credit": "Source: IJERPH (MDPI), CC BY 4.0",
+     "url": "https://doi.org/10.3390/ijerph120404354",
+     "card": false
+    },
+    {
+     "where": "Slide 4b",
+     "what": "Page 1 of Gascon and colleagues, Mental Health Benefits of Long-Term Exposure to Residential Green and Blue Spaces: A Systematic Review (International Journal of Environmental Research and Public Health, 2015): the title, authors and the start of the abstract, which says 28 studies were included",
+     "credit": "Source: IJERPH (MDPI), CC BY 4.0",
      "url": "https://doi.org/10.3390/ijerph120404354",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "A paved walking path running up green grassland hills at the Stanford Dish near Stanford University in California, with one walker far in the distance and the radio telescope on the horizon.",
-     "credit": "Photo: Deodandem, CC BY-SA 4.0, Wikimedia Commons",
+     "what": "A paved walking path running up green grassland hills at the Stanford Dish near Stanford University in California, with one walker far in the distance and the radio telescope on the horizon",
+     "credit": "Photo: Deodandem, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Stanford_Dish_Road.jpg",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustrative photo: a path lined with trees in autumn in Vondelpark, Amsterdam. It does not show the study, place or finding the slide names.",
-     "credit": "Photo: Karmela Kortizija, CC BY 3.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Autumn_In_Vondelpark_(127412401).jpeg",
+     "what": "The paragraph of RN Collins's article on her own site: Fuller and colleagues (2007) found associations between species richness and reported psychological benefits in urban green spaces",
+     "credit": "Source: RN Collins, JBD Issue 20 web text",
+     "url": "https://rn-selected-work.vercel.app/writing/journal-of-biophilic-design/biophilic-landscapes-as-cognitive-infrastructure",
      "card": false
     },
     {
-     "where": "Slide 7",
-     "what": "Illustrative photo: a grassy urban meadow in Nieder-Olm, Germany, with an information sign, a parked car and two people far from the camera beside beehives. It does not show the study, place or finding the slide names.",
-     "credit": "Photo: Bodow, CC BY-SA 4.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Honigbienenprojekt_st%C3%A4dtische_Bl%C3%BChwiese_Nieder-Olm.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 8",
-     "what": "Illustrative photo: a small stream running over rocks through a forest. It does not show the study, place or finding the slide names.",
-     "credit": "Photo: Vincent, CC BY-SA 4.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Stream_in_a_forest.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 9",
-     "what": "Page 1 of Hedblom and colleagues, Reduction of physiological stress by urban green space in a multisensory virtual experiment (Scientific Reports, 2019): the title, authors and abstract, which reports 154 participants and that park and forest settings, not the urban one, reduced stress.",
-     "credit": "Source: Scientific Reports, CC BY 4.0, CC BY 4.0, Scientific Reports (Springer Nature)",
+     "where": "Slide 7a",
+     "what": "Page 1 of Hedblom and colleagues, Reduction of physiological stress by urban green space in a multisensory virtual experiment (Scientific Reports, 2019): the title, authors and abstract, which reports 154 participants and that park and forest settings, not the urban one, reduced stress",
+     "credit": "Source: Scientific Reports, CC BY 4.0",
      "url": "https://www.nature.com/articles/s41598-019-46099-7",
      "card": false
     },
     {
-     "where": "Slide 10",
-     "what": "Page 1 of Hunter, Gillespie and Chen, Urban Nature Experiences Reduce Stress in the Context of Daily Life Based on Salivary Biomarkers (Frontiers in Psychology, 2019): the title, authors and abstract, which reports 36 urban adults over 8 weeks and a 21.3 percent per hour extra cortisol drop.",
-     "credit": "Source: Frontiers in Psychology, CC BY, CC BY 4.0, Frontiers in Psychology",
+     "where": "Slide 7b",
+     "what": "Page 1 of Hedblom and colleagues, Reduction of physiological stress by urban green space in a multisensory virtual experiment (Scientific Reports, 2019): the title, authors and abstract, which reports 154 participants and that park and forest settings, not the urban one, reduced stress",
+     "credit": "Source: Scientific Reports, CC BY 4.0",
+     "url": "https://www.nature.com/articles/s41598-019-46099-7",
+     "card": false
+    },
+    {
+     "where": "Slide 8",
+     "what": "Page 1 of Hunter, Gillespie and Chen, Urban Nature Experiences Reduce Stress in the Context of Daily Life Based on Salivary Biomarkers (Frontiers in Psychology, 2019): the title, authors and abstract, which reports 36 urban adults over 8 weeks and a 21.3 percent per hour extra cortisol drop",
+     "credit": "Source: Frontiers in Psychology, CC BY 4.0",
      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00722/full",
      "card": false
     },
     {
+     "where": "Slide 9",
+     "what": "Figure 1 of South and colleagues 2018: a map of Philadelphia with the randomly selected vacant lots in the trial, marked by group: greening, trash cleanup, or no intervention",
+     "credit": "Source: JAMA Netw Open, CC BY",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2018.0298",
+     "card": false
+    },
+    {
+     "where": "Slide 10",
+     "what": "Chart drawn by RN Collins from the Holtan 2015 abstract: for 361 Baltimore residents, the correlation between neighborhood tree canopy and social capital was r = .241 (p < .01), shown on a scale from 0 to 1",
+     "credit": "Chart: RN Collins, from Holtan 2015 data",
+     "url": "https://doi.org/10.1177/0013916513518064",
+     "card": false
+    },
+    {
      "where": "Slide 11",
-     "what": "Illustrative photo: a community garden on a neighborhood lot in North Philadelphia with plantings and trees. It does not show a LandCare greened vacant lot with post and rail fencing.",
-     "credit": "Photo: Tony Fischer, CC BY 2.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:2009_Glenwood_community_garden_Philadelphia_3496476276.jpg",
+     "what": "The Conclusions section of Gascon and colleagues' 2015 systematic review: limited evidence of long-term mental health benefits of surrounding greenness, and a call for research on which characteristics of green and blue spaces matter",
+     "credit": "Source: IJERPH (MDPI), CC BY 4.0, cropped",
+     "url": "https://doi.org/10.3390/ijerph120404354",
      "card": false
     },
     {
      "where": "Slide 12",
-     "what": "Brick rowhouses with porches and street trees along a block of North Calvert Street in the Charles Village area of Baltimore, Maryland, with the trees bare and snow on the ground.",
-     "credit": "Photo: Baltimore Heritage, CC0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:2600_block_of_N._Calvert_Street_(east_side),_Baltimore,_MD_21218_(33339746512).jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 13",
-     "what": "Illustrative photo: the east courtyard of a general hospital in Stratford, Ontario, with planting and paths. It does not show the study, place or finding the slide names.",
-     "credit": "Photo: Robert Taylor, CC BY 2.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:The_East_Courtyard,_Stratford_General_Hospital,_Stratford_Ontario_(4805378905).jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 14",
-     "what": "Illustrative photo: a paved walking path among mature trees and lawn in a neighborhood park in Fairfax County, Virginia. It does not show the study, place or finding the slide names.",
-     "credit": "Photo: Ser Amantio di Nicolao, CC BY-SA 4.0, Wikimedia Commons",
-     "url": "https://commons.wikimedia.org/wiki/File:Trees_and_walking_path,_Colonel_John_R._Byers_Park.jpg",
+     "what": "A paragraph from the close of RN Collins's article on her own site: imagine cities where every neighbourhood has access to high-quality biophilic landscapes within a 10-minute walk, and where healthcare campuses, schools and civic buildings use outdoor space with intent",
+     "credit": "Source: RN Collins, JBD Issue 20 web text",
+     "url": "https://rn-selected-work.vercel.app/writing/journal-of-biophilic-design/biophilic-landscapes-as-cognitive-infrastructure",
      "card": false
     }
    ]

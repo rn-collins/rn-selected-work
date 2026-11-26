@@ -1487,72 +1487,65 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "A polished steel disc with a round hole in its center, tilted on a pale grey surface: the hero image on the Dutch Design Week listing, captioned \"memory platter\" there, which does not say what the object is",
-     "credit": "Photo: Dutch Design Week",
-     "url": "https://ddw.nl/en/programme/dust-vessel-for-a-lasting-memory",
+     "what": "",
+     "credit": "Photo: Xiaotong Li, DDW press kit",
+     "url": "https://ddw.nl/en/programme/archive/2026/dust-vessel-for-a-lasting-memory",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Illustrative photo: two technicians in full cleanroom suits at a lab bench in a photolithography cleanroom, faces covered",
-     "credit": "Photo: UCL, CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Cleanroom_-_photolithography_lab_(9148355951).jpg",
+     "what": "",
+     "credit": "Source: Xiaotong Li, DDW press kit",
+     "url": "https://ddw.nl/programme/2275/press-kit.zip",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustrative photo: dust settled on a ceramic lamp base and on the wood beside it, close up",
-     "credit": "Photo: Insect photographer, CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Dusty_old_lamp-stand.jpg",
+     "what": "",
+     "credit": "Photo: Fletcher6, CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Hard_Disk_Head,_Seagate_80GB.jpg",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustrative photo: a clean room at Jefferson Lab with grey floor tiles, steel assembly frames and a worker in a full clean suit in the distance",
-     "credit": "Photo: Aileen Devlin/Jefferson Lab",
-     "url": "https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg",
+     "what": "",
+     "credit": "Source: NIST SP 800-88 Rev. 2",
+     "url": "https://csrc.nist.gov/pubs/sp/800/88/r2/final",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustrative photo: an opened hard disk drive on white: the mirror-finished platter, the spindle and the read arm",
-     "credit": "Photo: Mk2010, CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Hard_disk_drive_platter,_Samsung_MP0402H.jpg",
+     "what": "",
+     "credit": "Source: Official Journal, © European Union",
+     "url": "http://data.europa.eu/eli/dir/2023/1791/oj",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustrative photo: a large grey data center hall in Luleå, Sweden, with a small service building and a gravel path under a cloudy sky",
-     "credit": "Photo: Christopher Down, CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Lulea_Facebook_datacenter_building.jpg",
+     "what": "",
+     "credit": "Chart: RN Collins, from RVO data",
+     "url": "https://www.rvo.nl/sites/default/files/2026-10/Rapportages%20energie-effici%C3%ABntie%20van%20datacentra.xlsx",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustrative photo: an aerial view at dusk of a Google data center in Council Bluffs, Iowa: a long gray hall beside a row of cooling towers, with steam rising from some of them, and chiller units along the side",
-     "credit": "Photo: Chad Davis, CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Google_Data_Center,_Council_Bluffs_Iowa_(49062863796).jpg",
+     "what": "",
+     "credit": "Chart: RN Collins, from EU report data",
+     "url": "https://data.europa.eu/doi/10.2833/3168794",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "A bright hall at PLAN B in Eindhoven in 2019: a round ceramic table of colored vessels in the middle, a row of ceramics along a bench, tall windows behind",
-     "credit": "Photo: Iris Rijskamp/Dutch Design Week",
-     "url": "https://www.flickr.com/photos/dutchdesignweekeindhoven/49033471367/",
+     "what": "",
+     "credit": "Source: European Commission FAQ, © EU",
+     "url": "https://energy.ec.europa.eu/document/download/2597a32b-c791-4d87-a9da-57b64a3c4d7d_en?filename=2026_07_03%20FAQ%20on%20European%20database%20on%20data%20centres%201v7-AA%281%29.pdf",
      "card": false
     },
     {
      "where": "Slide 9",
-     "what": "Illustrative photo: two black server cabinets behind glass in a data room, cables running overhead",
-     "credit": "Photo: Raysonho, public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:SunRackMountServers.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 10",
-     "what": "Illustrative photo: a large grey data center building in Frankfurt with a fenced perimeter and a tower of service stairs",
-     "credit": "Photo: KaiKemmann, CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:EXA_Infrastructure,_Data_center,_Weism%C3%BCllerstra%C3%9Fe,_60314_Frankfurt,_Germany_01.jpg",
+     "what": "",
+     "credit": "Source: European Commission, © EU",
+     "url": "https://energy.ec.europa.eu/publications/commission-delegated-regulation-establishing-common-union-rating-scheme-data-centres-and-annexes_en",
      "card": false
     }
    ]

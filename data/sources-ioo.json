@@ -1760,9 +1760,9 @@
    "images": [
     {
      "where": "Slide 1a",
-     "what": "a hand holding a smartphone that shows a ChatGPT page, with a laptop behind it (photographer Jernej Furman, May 2023). It shows the product the Sky voice belonged to; it is not the Sky voice, ChatGPT’s voice mode or the 2024 pause",
-     "credit": "Photo: Jernej Furman, CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Smartphone_with_ChatGPT_app_(52917381673",
+     "what": "Scarlett Johansson smiling at a microphone during a panel at San Diego Comic-Con, July 2013 (photographer Gage Skidmore). The sentence reports her statement that Sky sounded like her own voice; the photo shows her only and says nothing about OpenAI, Sky or the dispute",
+     "credit": "Photo: Gage Skidmore, CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_SDCC_2013_by_Gage_Skidmore_1.jpg",
      "card": false
     },
     {
@@ -1774,16 +1774,16 @@
     },
     {
      "where": "Slide 2",
-     "what": "the Pioneer Building in San Francisco’s Mission District, photographed in 2019 when it housed offices of OpenAI and Neuralink. It shows the company that made the voices; it is not Sky, ChatGPT or any voice track",
-     "credit": "Photo: HaeB, CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Pioneer_Building,_San_Francisco_(2019",
+     "what": "a hand holding a smartphone open on the ChatGPT app, with a laptop behind it (photographer Jernej Furman, May 2023). The slide names ChatGPT's spoken interface, the app Sky was one of the voices for; the photo shows the app itself, not the Sky voice",
+     "credit": "Photo: Jernej Furman, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Smartphone_with_ChatGPT_app_(52917381673",
      "card": false
     },
     {
      "where": "Slide 3a",
-     "what": "an empty dubbing booth with a microphone on a stand, a script stand and a monitor, photographed in 2008. It shows the kind of room where a professional voice actor works; it does not show or identify the actor behind Sky",
-     "credit": "Photo: Andres Moreno, CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Sala_de_doblaje.jpg",
+     "what": "Sam Altman, OpenAI's chief executive, photographed in November 2022",
+     "credit": "Photo: Village Global, CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Sam_Altman_November_2022.jpg",
      "card": false
     },
     {
@@ -1795,79 +1795,65 @@
     },
     {
      "where": "Slide 4a",
-     "what": "a studio condenser microphone and pop filter lit against a dark background (photographer Dejan Krsmanovic, 2018). It shows the equipment of the voice work Johansson says she was asked to do; it is not the request, Johansson or OpenAI",
-     "credit": "Photo: Dejan Krsmanovic, CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Microphone_And_Popup_Filter_(43271978552",
-     "card": false
-    },
-    {
-     "where": "Slide 4b",
-     "what": "a 1920 photograph of young people crowded around an early radio set, several wearing earphones to listen. It shows listening to a voice that comes from a machine; it is not the 2024 demo and not Johansson",
-     "credit": "Source: Radio Amateur News, 1920, PD",
-     "url": "https://commons.wikimedia.org/wiki/File:Club_holds_radio_dance_wearing_earphones_1920.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 4c",
-     "what": "Scarlett Johansson holding a microphone on stage at San Diego Comic-Con, July 20, 2019 (photographer Gage Skidmore; file re-saved at lower JPEG quality to stay under 8 MB). The card reports her statement that the May 2024 Sky demo sounded eerily like her own voice; the photo shows her only and says nothing about OpenAI, Sky or the dispute",
+     "what": "Scarlett Johansson speaking at a microphone at San Diego Comic-Con in 2019",
      "credit": "Photo: Gage Skidmore, CC BY-SA 2.0",
      "url": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_by_Gage_Skidmore_2.jpg",
      "card": false
     },
     {
-     "where": "Slide 4d",
-     "what": "the office building at 1515 Third Street in San Francisco's Mission Bay, photographed June 15, 2025, which was OpenAI's headquarters at that time. It is not where the May 2024 announcement was made and does not show the voice or the pause; it stands only for the company named on the card",
-     "credit": "Photo: Coolcaesar, CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:1515_Third_Street.jpg",
+     "where": "Slide 4b",
+     "what": "A June 5, 2024 House Oversight subcommittee letter inviting Scarlett Johansson to testify, citing her concerns about the resemblance between her voice and the \"Sky\" chatbot",
+     "credit": "Source: U.S. House Oversight, June 5, 2024",
+     "url": "https://mace.house.gov/media/in-the-news/icymi-nancy-mace-invites-scarlett-johansson-testify-openais-chatgpt-assistant-sky",
      "card": false
     },
     {
-     "where": "Slide 5",
-     "what": "a close-up of an Imperial “The Good Companion” typewriter. It stands for letters written on a client’s behalf; the attorneys’ letters are not shown here, and the photo is not connected to OpenAI or Sky",
-     "credit": "Photo: Bhullargraphic, CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Vintage_Imperial_Typewriter_The_Good_Companion_Close_Up.jpg",
+     "where": "Slide 4c",
+     "what": "Scarlett Johansson holding a microphone on stage at San Diego Comic-Con, July 20, 2019 (photographer Gage Skidmore; file re-saved at lower JPEG quality to stay under 8 MB). The card reports her statements that the May 2024 Sky demo sounded eerily like her own voice and that her attorneys wrote OpenAI twice asking how the voice was created, and that OpenAI announced it was pausing the voice; the photo shows her only and says nothing about OpenAI, Sky or the dispute",
+     "credit": "Photo: Gage Skidmore, CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_by_Gage_Skidmore_2.jpg",
      "card": false
     },
     {
-     "where": "Slide 6a",
+     "where": "Slide 5a",
      "what": "a Kay Real Time Sona-Graph, an electronic sound spectrograph, showing a trace of speech on its screen. Instruments like it were used to analyze speech and voices; it is not tied to Sky or Johansson",
      "credit": "Photo: Falott, CC BY 3.0",
      "url": "https://commons.wikimedia.org/wiki/File:Sonagraph_old.jpg",
      "card": false
     },
     {
-     "where": "Slide 6b",
-     "what": "a dubbing studio vocal booth with a desk, microphone, headphones and monitor, and no one in it (photographer Tamirsofer, 2018). It shows the place where a voice belongs to the performer who speaks it; it does not show whose voice Sky is",
-     "credit": "Photo: Tamirsofer, CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%D7%97%D7%93%D7%A8_%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA_%D7%A9%D7%9C_%D7%94%D7%9E%D7%93%D7%91%D7%91%D7%99%D7%9D_2017.jpg",
+     "where": "Slide 5b",
+     "what": "Sam Altman, OpenAI's chief executive, seated on stage at TED in April 2025",
+     "credit": "Photo: Steve Jurvetson, CC BY 2.0, cropped",
+     "url": "https://commons.wikimedia.org/wiki/File:Sam_Altman_speaking_at_TED.jpg",
      "card": false
     },
     {
-     "where": "Slide 6c",
+     "where": "Slide 5c",
      "what": "Portrait of Scarlett Johansson at a photocall on May 21, 2025 (photographer Harald Krichel). The sentence says OpenAI's account does not replace Johansson's own response; the photo shows her only and says nothing about Sky, OpenAI or the dispute",
      "credit": "Photo: Harald Krichel, CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson-8591.jpg",
      "card": false
     },
     {
+     "where": "Slide 6",
+     "what": "Paragraph from the U.S. Copyright Office's 2024 Digital Replicas report explaining that unauthorized digital replicas, including soundalikes, may support false endorsement claims under the Lanham Act",
+     "credit": "Source: U.S. Copyright Office, 2024",
+     "url": "https://www.copyright.gov/ai/",
+     "card": false
+    },
+    {
      "where": "Slide 7",
-     "what": "a Voice-O-Graph disc, on which a person’s voice was cut in a booth, photographed by Dietmar Rabich in 2015. It shows a voice captured as an object apart from the speaker’s face or name; it is not a session contract",
-     "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Sprechender_Brief_--_2015_--_6008.jpg",
+     "what": "The \"Informed Consent\" paragraph of the U.S. Copyright Office's 2024 Digital Replicas report, saying people licensing their likeness should have full disclosure of the intended uses",
+     "credit": "Source: U.S. Copyright Office, 2024",
+     "url": "https://www.copyright.gov/ai/",
      "card": false
     },
     {
      "where": "Slide 8",
-     "what": "the live room and control room of Muscle Shoals Sound Studio in Alabama, photographed in 2025. It shows where a performer’s session is made and logged; it is not connected to OpenAI or Sky",
-     "credit": "Photo: Peter K Burian, CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Muscle_Shoals_Sound_Studio,_recording_booth,_2025.jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 9",
-     "what": "a vocal microphone behind a pop filter in a sound-treated booth, in black and white (photographer Tim Sheerman-Chase, 2012). It stands for the voice track and the person who speaks into it; it is not a picture of Sky, a performer or OpenAI",
-     "credit": "Photo: Tim Sheerman-Chase, CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Condenser_Microphone_with_Pop_Filter_and_Reflection_Filter.jpg",
+     "what": "Paragraph from the U.S. Copyright Office's 2024 Digital Replicas report noting that agreements set consent and compensation terms for replicas, with similar protections negotiated for voice actors",
+     "credit": "Source: U.S. Copyright Office, 2024",
+     "url": "https://www.copyright.gov/ai/",
      "card": false
     }
    ]
@@ -5157,58 +5143,51 @@
    "images": [
     {
      "where": "Slide 1",
-     "what": "Illustrative photo: a gloved hand holds a smartphone recording video of a band on a stage lit in magenta, at a live show in Nashville",
-     "credit": "Photo: Pingnova, CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Fan_recording_Protomen_show_June_2026.jpg",
+     "what": "Page 484 of Boosey and Hawkes v. Disney (1998): Stravinsky's 1939 grant to Disney, for 6,000 dollars, of the right to record his music in any manner, medium or form",
+     "credit": "Source: Boosey v. Disney, 145 F.3d 481",
+     "url": "https://static.case.law/f3d/145/cases/0481-01.json",
      "card": false
     },
     {
      "where": "Slide 2",
-     "what": "Illustrative photo: two hands hold a smartphone over a restaurant table of plates and glasses to photograph it, taken in Toronto in 2016",
-     "credit": "Photo: Eaters Collective, CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Person_snapping_food_(Unsplash).jpg",
+     "what": "Page 152 of Bartsch v. MGM (1968), quoting the 1930 grant: all other rights now in existence or which may hereafter come into existence shall be reserved to the owner",
+     "credit": "Source: Bartsch v. MGM, 391 F.2d 150",
+     "url": "https://static.case.law/f2d/391/cases/0150-01.json",
      "card": false
     },
     {
      "where": "Slide 3",
-     "what": "Illustrative photo: close view of a hand holding a red pen over a printed contract form at a desk, from a 2011 military reenlistment signing",
-     "credit": "Photo: Pfc. Franklin E. Mercado, USMC",
-     "url": "https://commons.wikimedia.org/wiki/File:USMC-110310-M-5396M-008.jpg",
+     "what": "Page 154 of Bartsch v. MGM (1968): the court reads the assignment's words as giving the broadest rights, since exhibit means to show by any method",
+     "credit": "Source: Bartsch v. MGM, 391 F.2d 150",
+     "url": "https://static.case.law/f2d/391/cases/0150-01.json",
      "card": false
     },
     {
      "where": "Slide 4",
-     "what": "Illustrative photo: the curved wall of digital advertising screens at Piccadilly Circus in London at dusk, with people on the steps below, photographed in 2017",
-     "credit": "Photo: Garry Knight, CC BY",
-     "url": "https://commons.wikimedia.org/wiki/File:Piccadilly_Circus_New_Screens_2017_-_3_(26315399359).jpg",
+     "what": "Page 483 of Boosey and Hawkes v. Disney (1998): Stravinsky's 1939 licence for The Rite of Spring, and the suit over Fantasia's later release on videocassette and laser disc",
+     "credit": "Source: Boosey v. Disney, 145 F.3d 481",
+     "url": "https://static.case.law/f3d/145/cases/0481-01.json",
      "card": false
     },
     {
      "where": "Slide 5",
-     "what": "Illustrative photo: a faded painted advertisement on a brick wall in Dallas, a diamond emblem with the letters T and P beside the words 23 hours to St",
-     "credit": "Photo: Carol M. Highsmith, public domain",
-     "url": "https://www.loc.gov/pictures/item/2014633009/",
+     "what": "Page 1 of the U.S. Copyright Office's Circular 12, Recordation of Transfers and Other Documents: owners can record transfers and other agreements about their works with the Office",
+     "credit": "Source: U.S. Copyright Office, Circular 12",
+     "url": "https://www.copyright.gov/circs/circ12.pdf",
      "card": false
     },
     {
      "where": "Slide 6",
-     "what": "Illustrative photo: a hand flips through a deep wooden drawer of typed index cards in a library card catalog, the front card a publication record with columns of dates",
-     "credit": "Photo: TheEngineerHistorian, CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Engineering_Societies_Library_card_catalog_621.3.jpg",
+     "what": "Page 484 of Boosey and Hawkes v. Disney (1998), quoting the 1939 agreement's type-of-use terms: one motion picture, any length, music that may be adapted or changed, and the title that may be used",
+     "credit": "Source: Boosey v. Disney, 145 F.3d 481",
+     "url": "https://static.case.law/f3d/145/cases/0481-01.json",
      "card": false
     },
     {
      "where": "Slide 7",
-     "what": "Illustrative photo: a black aluminum pilot's kneeboard with a plastic sleeve holding a typed checklist of engine start procedures, two ring clips, a pencil and a black leg strap, from a Grumman TA-4F Skyhawk, about 1965 to 1968",
-     "credit": "Photo: San Diego Air & Space Museum",
-     "url": "https://commons.wikimedia.org/wiki/File:041409gal005_Curatorial_Collection_Image_(55181954489).jpg",
-     "card": false
-    },
-    {
-     "where": "Slide 8",
-     "what": "Illustrative photo: an orange Land Rover parked on bare ground at dusk below a mountain at Paranal, Chile, with a small crew and camera tripod at the left, shooting a car commercial in January 2007",
-     "credit": "Photo: ESO, CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Land_Rover_commercial_shooting_at_Paranal_(one-life-paranal-5049).jpg",
+     "what": "Page 620 of Random House v. Rosetta Books (2001): the court finds the grant to print, publish and sell the work in book form does not include the right to publish it as an ebook",
+     "credit": "Source: Random House v. Rosetta Books",
+     "url": "https://static.case.law/f-supp-2d/150/cases/0613-01.json",
      "card": false
     }
    ]
