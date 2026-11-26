@@ -5403,5 +5403,20 @@
     "expression": "A draft explanatory essay for readers trying to understand Florida's red-tide forecasts. RN brings together agency explanations, a historical satellite image and a published study comparing beach cough reports with algae counts and wind conditions. The essay explains how the algae's toxins can enter the air, how observers recorded irritation, and why a strong overall accuracy figure can hide weaker performance for the middle risk categories. It distinguishes observed coughing from direct measurements of airborne toxin. RN's contribution is the research synthesis and explanation; the monitoring programme, forecasting model and original study belong to their cited researchers and agencies.",
     "boundary": "The manuscript exists as an Ask a Neuroscientist research-writing draft intended for Polymath; publication and an accepted release date are not confirmed. Research notes and scheduling fields contain conflicting dates. It is not a live forecast, a safety guarantee for any beach, or personal medical advice. The source does not include RN's own account of experiencing red tide, so the essay should not be presented as first-person field reporting. A repository abstract was checked against the essay's broad account, but the full study, supporting information, detailed numerical claims, images and reuse rights have not received a complete independent review.",
     "provenance": "Complete manuscript, research notes and source dossier reviewed November 26, 2026, with selected production metadata and checklist fields. Exact matching against the current gallery and editorial catalogue found no corresponding entry; current Polymath title and slug matching and targeted public searches did not establish publication. Supporting assets and adaptations remain to be reviewed."
+  },
+  {
+    "id": "where-does-your-conscious-mind-end",
+    "title": "Where Does Your Conscious Mind End? An Inner World and a Theory Test",
+    "category": "Learning",
+    "stage": "Essay draft",
+    "workType": "Writing",
+    "workStatus": "Draft",
+    "held": true,
+    "releaseHeld": true,
+    "parentId": "ask-a-neuroscientist",
+    "question": "What can an exhibition about inner life and a comparison of two consciousness theories tell us about awareness?",
+    "expression": "A draft essay connecting a Dutch Design Week 2025 archive listing with neuroscience research for readers curious about art and awareness. RN starts with Beings from my familiar inner world, shown by Metlery x HiSchmuck, then explains two accounts of consciousness: information becoming widely available across the brain, and consciousness depending on how a network is connected. The essay follows a study that compared predictions from both theories, explaining its design, mixed results and limitations. RN's contribution is the research synthesis and interpretive connection between the exhibition and the science. The jewelry, exhibition and original experiments are the work of their credited makers and researchers.",
+    "boundary": "Prepared as an Ask a Neuroscientist essay intended for Fat Nugs Magazine; publication and an accepted release date are not confirmed. This is an archive-based account, not evidence that RN attended the exhibition. The listing does not identify the individual maker of the featured piece. The experiment used clearly visible, attended images and did not test the exhibition or the boundary between noticed and unnoticed experience. It did not establish a winning theory. Shorter supporting adaptations need to preserve these limits. Original papers, quotations, exhibition details, images and reuse rights have not received a complete independent review; permission to reproduce the featured work is not established.",
+    "provenance": "Complete manuscript, research history and dossier reviewed, with current planning notes and selected production fields, November 26, 2026. No matching entry was found in the current gallery; targeted publication searches did not establish a published article. Carousel and video plans are supporting drafts of this essay, not additional completed works."
   }
 ]
