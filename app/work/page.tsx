@@ -1,28 +1,36 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../components/canonical-page";
+import { buildByCaseStudy } from "../../lib/builds";
 import { projects } from "../../lib/portfolio";
-import { builds, inventoryGeneratedAt, populatedCategories } from "../../lib/builds";
+import { getPublicBuild } from "../../lib/public-builds";
 
 export const metadata: Metadata = {
   alternates: { canonical: "/work" },
   title: "Selected Work",
-  description: "Explore RN Collins's case studies and public work gallery: research, systems, frameworks, resources, proposals, and working builds.",
+  description:
+    "Case studies by RN Collins: the question, the reasoning, and what was made. Open a live build from the case study when one is public. The full build inventory is the build index.",
 };
 
-export default function Page() {
-  const inventoryDate = new Intl.DateTimeFormat("en-US", {
-    month: "long", day: "numeric", year: "numeric", timeZone: "UTC",
-  }).format(new Date(inventoryGeneratedAt));
+const appliedSlugs = ["narch", "womens-neuro-health"] as const;
+const appliedCases = appliedSlugs.map((slug) => {
+  const build = getPublicBuild(slug);
+  if (!build) throw new Error(`Missing case study: ${slug}`);
+  return build;
+});
 
+export default function Page() {
   return <CanonicalPage>
     <header className="canonicalSubhero shell">
       <p className="eyebrow">Selected Work</p>
       <h1>See the problem.<br/><em>See what I made.</em></h1>
-      <p>Explore the work across research, writing, systems, and independent practice. Each project keeps its own home; this gallery connects the question, the work, and its current status.</p>
+      <p>
+        These are the case studies. Each one keeps the question, the reasoning, and what was made.
+        The full list of public builds, category by category, is the build index.
+      </p>
       <div className="canonicalActions">
         <Link className="button" href="#primary-cases">Start with the case studies →</Link>
-        <Link className="button secondary" href="#build-atlas">Browse the public work gallery →</Link>
+        <Link className="button secondary" href="/builds">Open the build index →</Link>
         <Link className="button secondary" href="/writing">Explore published writing →</Link>
       </div>
     </header>
@@ -40,45 +48,37 @@ export default function Page() {
         </div>
       </article>)}</div>
     </section>
-    <section id="build-atlas" className="canonicalBand">
-      <div className="shell">
-        <div className="canonicalSectionHead">
-          <div><p className="eyebrow">Public work gallery</p><h2>Tools, systems, resources,<br/>courses, and experiments.</h2></div>
-          <p>{builds.length} entries from the existing public build inventory.</p>
-        </div>
-        <p className="rosterNote">Browse the individual works below, including proposals, prototypes and maintained resources. Each card retains the status from its project record and opens a fuller account with its own site link. The inventory was generated on {inventoryDate}; it is a dated record, not a claim that every deployment was checked today. Private work and excluded projects remain outside this public gallery.</p>
-        <nav className="workCollectionLinks workCategoryLinks" aria-label="Work gallery categories">
-          {populatedCategories.map(category => <Link href={`#gallery-${category.id}`} key={category.id}>
-            {category.title}<span>{category.builds.length} entries</span>
-          </Link>)}
-        </nav>
-        <div className="canonicalActions"><Link className="button" href="/builds">Read the detailed build index →</Link></div>
-      </div>
-    </section>
-    {populatedCategories.map(category => <section id={`gallery-${category.id}`} className="canonicalSection shell" key={category.id} aria-labelledby={`gallery-title-${category.id}`}>
+    <section id="applied-cases" className="canonicalSection shell" aria-labelledby="applied-cases-title">
       <div className="canonicalSectionHead">
-        <div><p className="eyebrow">{category.builds.length} entries</p><h2 id={`gallery-title-${category.id}`}>{category.title}</h2></div>
-        <p>{category.blurb}</p>
+        <div><p className="eyebrow">Applied case studies</p><h2 id="applied-cases-title">Workbenches with a stated limit.</h2></div>
+        <p>The live workbench opens from the case study. The limit stays on the card.</p>
       </div>
-      <div className="canonicalCards">{category.builds.map(build => <article key={build.repo}>
-        <p className="eyebrow">{build.status}</p>
-        <h2>{build.title}</h2>
-        <p>{build.problem}</p>
-        <div className="atlasActions">
-          <Link href={`/builds/${build.repo}`}>Explore the work and its site →</Link>
-          {!build.linkHeld && build.live && (
-            <a href={build.live} target="_blank" rel="noreferrer">Open the build ↗</a>
-          )}
-        </div>
-      </article>)}</div>
-    </section>)}
+      <div className="canonicalCards">{appliedCases.map(build => {
+        const limits = buildByCaseStudy.get(build.slug)?.limits;
+        return <article key={build.slug}>
+          <p className="eyebrow">{build.category} · {build.status}</p>
+          <h2>{build.title}</h2>
+          <p>{build.purpose}</p>
+          {limits && <p>{limits}</p>}
+          <div className="atlasActions">
+            <Link href={`/work/${build.slug}`}>Read the case study →</Link>
+            {build.promoteLive !== false && build.live && (
+              <a href={build.live} target="_blank" rel="noreferrer">Open the live workbench ↗</a>
+            )}
+          </div>
+        </article>;
+      })}</div>
+    </section>
     <section className="canonicalBand"><div className="shell">
-      <div className="canonicalSectionHead"><div><p className="eyebrow">Across the practice</p><h2>Follow the writing and the ideas.</h2></div><p>Publications, initiatives and concepts have their own collections.</p></div>
+      <div className="canonicalSectionHead">
+        <div><p className="eyebrow">Every public build</p><h2>The inventory is the build index.</h2></div>
+        <p>Tools, systems, resources, courses, and experiments, one record each. Private work stays off that index.</p>
+      </div>
       <div className="canonicalActions">
-        <Link className="button" href="/writing">Published writing →</Link>
+        <Link className="button" href="/builds">Open the build index →</Link>
+        <Link className="button secondary" href="/writing">Published writing →</Link>
         <Link className="button secondary" href="/ideas">Concept gallery →</Link>
         <Link className="button secondary" href="/initiatives">Initiatives →</Link>
-        <Link className="button secondary" href="/explore">Search across the portfolio →</Link>
       </div>
     </div></section>
   </CanonicalPage>;

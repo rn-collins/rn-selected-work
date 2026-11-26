@@ -55,7 +55,7 @@ export default async function ProjectPage({
           RN<span>↗</span>
         </Link>
         <div className="navlinks">
-          <Link href="/#work">All work</Link>
+          <Link href="/work">All work</Link>
         </div>
       </nav>
       <article className="case shell">
@@ -116,7 +116,7 @@ export default async function ProjectPage({
               View source on GitHub ↗
             </a>
           )}
-          <Link className="textlink" href="/#work">
+          <Link className="textlink" href="/work">
             Return to all work →
           </Link>
         </div>
@@ -143,7 +143,7 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
           RN<span>↗</span>
         </Link>
         <div className="navlinks">
-          <Link href="/#build-atlas">All builds</Link>
+          <Link href="/builds">All builds</Link>
           {build.promoteLive !== false ? (
             <a href={build.live} target="_blank" rel="noreferrer">Open audited artifact ↗</a>
           ) : (
@@ -187,7 +187,7 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
               {artifact.label} ↗
             </a>
           ))}
-          <Link className="textlink" href="/#build-atlas">Return to all builds →</Link>
+          <Link className="textlink" href="/builds">Return to all builds →</Link>
         </div>
       </article>
     </main>

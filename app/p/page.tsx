@@ -21,7 +21,7 @@ export default function PostsIndex() {
         {posts.length === 0 ? <p>The first posts arrive on November 30, 2026.</p> : (
           <ol className={styles.index}>
             {posts.map((p) => (
-              <li key={p.id}><Link href={`/p/${p.slug}`}><time dateTime={p.date}>{longDate(p.date)}</time><b>{p.title}</b>{isReviewBuild() && !isPublicPost(p) && <small>Not public</small>}</Link></li>
+              <li key={p.id}><Link href={`/p/${p.slug}`}>{/^\d{4}-\d{2}-\d{2}$/.test(p.date) ? <time dateTime={p.date}>{longDate(p.date)}</time> : <span>{longDate(p.date)}</span>}<b>{p.title}</b>{isReviewBuild() && !isPublicPost(p) && <small>Not public</small>}</Link></li>
             ))}
           </ol>
         )}

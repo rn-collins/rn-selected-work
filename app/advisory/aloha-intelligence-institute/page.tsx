@@ -17,7 +17,7 @@ export default function AiiCase() {
           RN<span>↗</span>
         </Link>
         <div className="navlinks">
-          <Link href="/#work">Selected work</Link>
+          <Link href="/work">Selected work</Link>
         </div>
       </nav>
       <article className="case shell">
