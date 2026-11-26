@@ -9566,15 +9566,11 @@
      "url": ""
     },
     {
-     "label": "WHO ECDD Critical Review of LSD (2019) [Source not found; under review]",
+     "label": "WHO Expert Committee on Drug Dependence, Thirty-third Report (WHO Technical Report Series 915)",
      "url": ""
     },
     {
-     "label": "Holze et al., Biological Psychiatry (2023)",
-     "url": ""
-    },
-    {
-     "label": "DEA Scheduling Database (2026)",
+     "label": "WHO ECDD Repository, LSD (lysergide) record",
      "url": ""
     }
    ],
@@ -10539,7 +10535,11 @@
      "url": ""
     },
     {
-     "label": "Egea et al., Antiquity (2020) [Source not found; under review]: Mas Castellar analysis [Source not found; under review]",
+     "label": "Juan-Tresserras, Mas Castellar de Pontós residue analysis (2002)",
+     "url": ""
+    },
+    {
+     "label": "Investigating the psychedelic hypothesis of kykeon, Scientific Reports (2026)",
      "url": ""
     }
    ],
@@ -10660,10 +10660,6 @@
     },
     {
      "label": "Shanon, Journal of Consciousness Studies (2002)",
-     "url": ""
-    },
-    {
-     "label": "Erspamer, Ancient Greek Pharmacology and Philosophy (2022) [Source not found; under review]",
      "url": ""
     }
    ],
@@ -10820,7 +10816,15 @@
    },
    "research": [
     {
-     "label": "Eyerman, Journal of Transpersonal Psychology (2020) [Source not found; under review]",
+     "label": "Eyerman, A clinical report of Holotropic Breathwork in 11,000 psychiatric inpatients (2013), MAPS Bulletin",
+     "url": ""
+    },
+    {
+     "label": "Brewerton et al., International Journal of Mental Health and Addiction (2011)",
+     "url": ""
+    },
+    {
+     "label": "Fincham et al., Scientific Reports (2023)",
      "url": ""
     }
    ],
@@ -11340,15 +11344,15 @@
    },
    "research": [
     {
-     "label": "Industry Phase 3 psilocybin trial data (2025-2026)",
+     "label": "Compass Pathways, COMP005 and COMP006 week-6 results (17 February 2026)",
      "url": ""
     },
     {
-     "label": "TGA psilocybin approval (February 2023)",
+     "label": "Reuters, Compass Pathways second late-stage study (17 February 2026)",
      "url": ""
     },
     {
-     "label": "Griffiths et al. psilocybin studies (2006-2022) [Source not found; under review]",
+     "label": "Compass Pathways, NDA submission completed (9 November 2026)",
      "url": ""
     }
    ],
@@ -11630,7 +11634,7 @@
    },
    "research": [
     {
-     "label": "Nichols (2016); Carhart-Harris et al. (multiple; no specific paper named) [Source not found; under review]",
+     "label": "Carhart-Harris et al., PNAS (2012); Carhart-Harris et al., PNAS (2016)",
      "url": ""
     }
    ],
@@ -11730,7 +11734,7 @@
    },
    "research": [
     {
-     "label": "Huxley (1954); Nichols (2016); Carhart-Harris et al. [Source not found; under review]",
+     "label": "Huxley (1954); Carhart-Harris & Friston (2019)",
      "url": ""
     }
    ],
@@ -11896,7 +11900,7 @@
    "slug": "claimsorter-cs-007",
    "date": "2026-08-15",
    "id": "claimSorter/cs-007",
-   "title": "Mystical experience quality predicts therapeutic outcomes better than drug dose alone",
+   "title": "Mystical experience during psilocybin sessions predicts some therapeutic outcomes",
    "series": "Psychonaut Bookworm, claim on LSD: My Problem Child",
    "origin": {
     "kind": "article",
@@ -11905,7 +11909,7 @@
    },
    "research": [
     {
-     "label": "Barrett & Griffiths (2018); Gukasyan et al. (2022); Viljoen et al. (2025) [Source not found; under review]",
+     "label": "Barrett & Griffiths (2018); Gukasyan et al. (2022)",
      "url": ""
     }
    ],
@@ -11921,7 +11925,7 @@
    "slug": "claimsorter-cs-008",
    "date": "2026-08-15",
    "id": "claimSorter/cs-008",
-   "title": "Set and setting (mindset and environment) are primary determinants of psychedelic outcomes",
+   "title": "Set and setting (mindset and environment) are associated with the outcomes of psychedelic experiences",
    "series": "Psychonaut Bookworm, claim on Moksha: Letters of Huxley & Osmond",
    "origin": {
     "kind": "article",
@@ -11930,7 +11934,7 @@
    },
    "research": [
     {
-     "label": "Borkel et al. (2024); Thal & Lommen (2024) [Source not found; under review]; Johnson et al. (2008)",
+     "label": "Borkel et al. (2024)",
      "url": ""
     }
    ],
@@ -12005,7 +12009,7 @@
    },
    "research": [
     {
-     "label": "Stevens (1987); WHO ECDD (2019); FDA (2018)",
+     "label": "Stevens (1987); WHO ECDD Repository, LSD (lysergide) record",
      "url": ""
     }
    ],
@@ -12021,16 +12025,16 @@
    "slug": "claimsorter-cs-012",
    "date": "2026-08-15",
    "id": "claimSorter/cs-012",
-   "title": "The machine elves McKenna described are consistently encountered by DMT users across cultures",
+   "title": "Similar entity encounters are reported by people who have taken DMT",
    "series": "Psychonaut Bookworm, claim on True Hallucinations",
    "origin": {
     "kind": "article",
-    "label": "McKenna's Machine Elves: What the Research Has Found",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/scijour-mckenna-entity-verdict"
+    "label": "After McKenna: The Entity Research",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/mckenna-dmt-entities-research"
    },
    "research": [
     {
-     "label": "Sexton et al., J. Psychopharmacol. 33(9) (2019) [Source not found; under review]; Timmermann et al. (2023)",
+     "label": "Davis et al., Journal of Psychopharmacology (2020); Timmermann et al. (2023)",
      "url": ""
     }
    ],
@@ -12246,16 +12250,16 @@
    "slug": "claimsorter-cs-021",
    "date": "2026-08-15",
    "id": "claimSorter/cs-021",
-   "title": "The Eleusinian Mysteries were a theatrical experience, no pharmacological agent was required to produce the described visions",
+   "title": "Whether the visions described at Eleusis required a pharmacological agent is unresolved",
    "series": "Psychonaut Bookworm, claim on The Road to Eleusis",
    "origin": {
     "kind": "article",
-    "label": "How the Classicists Responded",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/ruck-and-classical-reception"
+    "label": "The Hypothesis in 2026: What the Evidence Has Become",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/deep-dive-road-eleusis-2026"
    },
    "research": [
     {
-     "label": "Burkert (1987); Wasson, Hofmann & Ruck (1978); Juan-Tresserras (2019-2020) [Source not found; under review]",
+     "label": "Wasson, Hofmann & Ruck, The Road to Eleusis (1978); Juan-Tresserras, Mas Castellar de Pontós residue analysis (2002); Investigating the psychedelic hypothesis of kykeon, Scientific Reports (2026)",
      "url": ""
     }
    ],
@@ -12470,8 +12474,8 @@
    "series": "Psychonaut Bookworm, claim on LSD: My Problem Child",
    "origin": {
     "kind": "article",
-    "label": "Schedule I at Fifty-Five: The Science vs. the Scheduling",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/policy-lsd-schedule-one"
+    "label": "The Discoverer's Dilemma: Hofmann, LSD, and the Problem of Intention",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/deep-dive-hofmann-legacy"
    },
    "research": [],
    "other": [
@@ -13500,7 +13504,7 @@
      "url": ""
     },
     {
-     "label": "Various, Chasing the Scream (Critical Review) [Source not found; under review] (2015)",
+     "label": "Michael Brull, Chasing the Scream Review Part III: Does Decriminalisation Work? (2016)",
      "url": ""
     },
     {
@@ -13845,16 +13849,16 @@
    "slug": "annotations-sa-005",
    "date": "2026-08-15",
    "id": "annotations/sa-005",
-   "title": "Timewave Zero: history accelerates toward a final moment of \"maximum novelty\" predicted for December 21, 2012.",
+   "title": "Timewave Zero: McKenna's graph of 'novelty' in history was said to peak in 2012, which the 1993 edition of The Invisible Landscape dates to December 21, 2012.",
    "series": "Psychonaut Bookworm, science annotation",
    "origin": {
     "kind": "article",
-    "label": "The Bipartisan Moment: Veterans, Ibogaine, and the New Political Map",
-    "url": "https://psychonaut-bookworm.vercel.app/item/writing/policy-storming-heaven-bipartisan"
+    "label": "State vs. Federal: The Legal Landscape After Oregon and Colorado",
+    "url": "https://psychonaut-bookworm.vercel.app/item/writing/policy-storming-heaven-state-federal"
    },
    "research": [
     {
-     "label": "Observation; McKenna own writings [Source not found; under review]",
+     "label": "McKenna & McKenna, The Invisible Landscape (1975; 1993 edition)",
      "url": ""
     }
    ],
@@ -14504,7 +14508,7 @@
      "url": ""
     },
     {
-     "label": "Medical History of Psychedelic Drugs, Cambridge HPS (2007) [Source not found; under review]",
+     "label": "Medical History of Psychedelic Drugs, Cambridge HPS dissertation (2007), copy hosted by MAPS",
      "url": ""
     }
    ],
