@@ -1,5 +1,5 @@
 {
- "about": "Ask a Neuroscientist Reels for the Gallery's screening room. Built Nov 27, 2026 from aan-studio/site-data/reel-video-urls.json (web copies on Vercel Blob), reel-sound-credits.json (music, status used only) and ddw/slideshow_plan.json (slideshow dates). Each shows from its own date in Hawaii.",
+ "about": "Ask a Neuroscientist Reels for the Gallery's screening room and Every-app room, built by scripts/gallery_reels.py from aan-studio/site-data/reel-video-urls.json (web copies on Vercel Blob), reel-sound-credits.json (music, status used only) and ddw/slideshow_plan.json (slideshow dates). Each shows from its own date in Hawaii.",
  "reels": [
   {
    "id": "MJBPRE02",
@@ -127,7 +127,7 @@
    "date": "2026-12-03",
    "title": "CBD as a medicine",
    "medium": "2026 · Reel, 39 s, sound on",
-   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-03-MJ03-reel-720-ZIkxHZEKVYSNOemcmZA6lJtgKfahGq.mp4",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-03-MJ03-reel-720-t6VnUZM9vSEkgEa5EKkZgJJzM3Qnrk.mp4",
    "poster": "",
    "music": "Sound: Musopen, Johannes Brahms · Symphony No. 1 in C minor, Op. 68 · 3. Un poco allegretto e grazioso (2012), Internet Archive, Public Domain Mark"
   },
@@ -287,7 +287,7 @@
    "date": "2026-12-07",
    "title": "John Dalton described his own color vision in 1794, and asked for his eye to be examined",
    "medium": "2026 · Reel, 51 s, sound on",
-   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-07-CV14-reel-720-VDg48UT6cknGE1C5emsRXoXubIIY3o.mp4",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-07-CV14-reel-720-Lp2q7mvSvLtvqwNeDUiZRxfH36Eaqx.mp4",
    "poster": "",
    "music": "Sound: Musopen, Johann Sebastian Bach · Goldberg Variations, BWV 988 · Variation 30: Quodlibet (2012), Internet Archive, Public Domain Mark"
   },
