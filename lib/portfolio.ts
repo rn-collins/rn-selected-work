@@ -1,3 +1,4 @@
+import { monitorStatus } from "./freshness";
 export type Project = {
   slug: string;
   number: string;
@@ -78,7 +79,7 @@ export const projects: Project[] = [
     kind: "Source tracker",
     title: "Psychedelic Operations Intelligence",
     shortTitle: "Psychedelic Operations",
-    status: "Live source monitor · sweep current 9 November 2026",
+    status: monitorStatus("Live source monitor", "2026-11-09"),
     thesis:
       "Track new psychedelic rules without wading through press releases.",
     summary:

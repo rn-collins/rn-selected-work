@@ -258,7 +258,7 @@
     "category": "Systems",
     "stage": "Documented build",
     "question": "Families and schools are asked whether children should use AI as though the tool, the task, the child's age, the data practices and the level of adult oversight all raised the same question. They do not, and the general answer is useless for the specific decision in front of someone.",
-    "expression": "Evaluates one specific child-facing AI use across five age-aware stages: context, the role AI will play, what cognitive work it may substitute for, adult involvement, consequence level, and data and human safeguards. The decision logic is inspectable rather than hidden, and the output names the developmental capacities to protect, the questions to put to a vendor or school, and the signals to monitor.",
+    "expression": "Evaluates one specific child-facing AI use in five steps: context, use, safeguards, decision and sources. Along the way it weighs the role the AI will play, the thinking it may replace, which adult stays involved, how much is at stake, and the data and safety protections. The decision logic is inspectable rather than hidden, and the output names the developmental capacities to protect, the questions to put to a vendor or school, and the signals to monitor.",
     "boundary": "It does not diagnose children, certify products, determine legal compliance, or claim that long-term neurological effects are settled.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."

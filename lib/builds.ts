@@ -149,3 +149,9 @@ export function getBuild(repo: string): Build | undefined {
 export { categories };
 export type { CategoryId, BuildNote };
 
+
+// One count for the whole site (RN, Nov 27, 2026: "go with your advice"): live projects and those in progress,
+// both counted from the same list, so no page carries a hand-typed number that can drift.
+export const liveCount = shippedBuilds.length;
+export const inProgressCount = studioBuilds.length;
+export const projectCountLine = `${liveCount} live projects, plus ${inProgressCount} in progress`;

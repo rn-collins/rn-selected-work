@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { SocialRow } from "../../components/social-row";
-import { builds } from "../../lib/builds";
+import { projectCountLine } from "../../lib/builds";
 
 export const metadata: Metadata = {
   alternates: { canonical: "/connect" },
@@ -25,7 +25,7 @@ export default function ConnectPage() {
         <div className="connectIdentity">
           <p className="eyebrow">Connect with RN</p>
           <h1>RN <em>Collins</em></h1>
-          <p className="connectRoles">Neuroscientist, knowledge content creator, and builder. Chair of FlexJD Interests, Student Bar Association, Northeastern University School of Law, Class of 2029.</p>
+          <p className="connectRoles">Neuroscientist, content creator and analyst. M.S. Anatomy &amp; Neurobiology.</p>
           <p className="connectPositioning">I work across science, law, technology and culture, and I build what’s missing between them.</p>
           <div className="connectActions" aria-label="Contact options">
             <a className="button" href="https://www.instagram.com/rn_collins/" target="_blank" rel="noreferrer">Instagram DM ↗</a>
@@ -65,7 +65,7 @@ export default function ConnectPage() {
             </p>
             <p>
               In practice that means the work usually starts as research and ends as
-              something that runs. There are {builds.length} reachable builds across the
+              something that runs. There are {projectCountLine} across the
               practice — regulatory monitors that report their own staleness rather than
               presenting a frozen snapshot as current, research atlases that keep
               provenance attached to every record, browser-local decision tools that state

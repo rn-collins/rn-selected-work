@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../components/canonical-page";
 import { projects } from "../../lib/portfolio";
-import { builds, inventoryGeneratedAt, populatedCategories } from "../../lib/builds";
+import { builds, inventoryGeneratedAt, populatedCategories, projectCountLine } from "../../lib/builds";
 
 export const metadata: Metadata = {
   alternates: { canonical: "/work" },
@@ -44,7 +44,7 @@ export default function Page() {
       <div className="shell">
         <div className="canonicalSectionHead">
           <div><p className="eyebrow">Tools and guides</p><h2>Every tool, guide, course<br/>and experiment I’ve built</h2></div>
-          <p>{builds.length} entries from the existing public build inventory.</p>
+          <p>{projectCountLine}.</p>
         </div>
         <p className="rosterNote">Browse the individual works below, including proposals, prototypes and maintained resources. Each card retains the status from its project record and opens a fuller account with its own site link. The inventory was generated on {inventoryDate}; it is a dated record, not a claim that every deployment was checked today. Private work and excluded projects remain outside this public gallery.</p>
         <nav className="workCollectionLinks workCategoryLinks" aria-label="Work gallery categories">

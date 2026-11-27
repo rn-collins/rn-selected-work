@@ -8,7 +8,7 @@ export function PreviewGrid() {
   const tiles = shippedBuilds.filter((build) => !build.linkHeld && canPreview(build.live));
   return (
     <section className="previewGridSection shell" aria-labelledby="preview-grid">
-      <p className="eyebrow">Public sites · {tiles.length} shipped</p>
+      <p className="eyebrow">{tiles.length} live sites you can open here</p>
       <h2 id="preview-grid">Every live site, as it looks today.</h2>
       <p className="previewGridIntro">
         Each preview is the live page today. All of NSAG is on one site.

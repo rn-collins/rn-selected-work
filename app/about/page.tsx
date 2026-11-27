@@ -2,12 +2,12 @@ import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../components/canonical-page";
-import { builds } from "../../lib/builds";
+import { projectCountLine } from "../../lib/builds";
 
 export const metadata: Metadata = {
   title: "About RN Collins",
   description:
-    "RN Collins, neuroscientist, knowledge content creator, and builder. Chair of FlexJD Interests, Student Bar Association, Northeastern University School of Law, Class of 2029.",
+    "RN Collins, neuroscientist, content creator and analyst in Honolulu, Hawaiʻi. M.S. Anatomy & Neurobiology.",
   alternates: { canonical: "/about" },
 };
 
@@ -22,9 +22,10 @@ export default function Page() {
           <em>wherever it leads.</em>
         </h1>
         <p>
-          I’m RN Collins, a neuroscientist, knowledge content creator and builder
-          in Honolulu, Hawaiʻi. I’m Chair of FlexJD Interests for the Student Bar
-          Association at Northeastern University School of Law, Class of 2029.
+          I’m RN Collins, a neuroscientist, content creator and analyst in Honolulu,
+          Hawaiʻi, with an M.S. in Anatomy &amp; Neurobiology. I’m also a law student
+          at Northeastern University School of Law (Class of 2029), where I chair
+          FlexJD Interests for the Student Bar Association.
         </p>
       </header>
 
@@ -65,7 +66,7 @@ export default function Page() {
           <div>
             <h2>Tools and guides you can open today.</h2>
             <p className="bigcopy">
-              There are currently {builds.length} reachable builds across the practice:
+              There are {projectCountLine} across the practice:
               monitors that watch official sources and report their own staleness,
               research atlases that keep provenance attached, browser-local decision tools
               that state what they cannot decide for you, and public guides written for a
@@ -88,18 +89,11 @@ export default function Page() {
           <div>
             <h2>Anyone should be able to check my work and get the same answer.</h2>
             <p>
-              An audit across six builds found the same failure each time: the prose was
-              accurate and the pointer to the source was not. Real articles with fabricated
-              identifiers. DOIs registered nowhere. A tobacco statute cited as the source of
-              an employment protection that does not exist. None of that is catchable by a
-              link checker, because a link checker only asks whether a URL returns 200 —
-              not whether the source says what the citation claims it says.
-            </p>
-            <p>
-              So every project now runs checkers that anyone can run on their own computer
-              and get the same result. I hold this site’s writing to the same rule. If a
-              tool is out of date, the site says so. If a prototype is one screen, it says
-              one screen. If a claim would need a study, I don’t make it.
+              A link that opens isn’t the same as a source that says what I claim. So I check
+              that every citation points to a real source and that the source actually says it,
+              and every project runs checkers anyone can rerun on their own computer and get the
+              same result. If a tool is out of date, the site says so. If a prototype is one
+              screen, it says one screen. If a claim would need a study, I don’t make it.
             </p>
             <div className="canonicalActions">
               <Link className="button" href="/practice">See how the work is done →</Link>

@@ -61,7 +61,7 @@ export default function BuildIndexPage() {
   return (
     <CanonicalPage>
       <header className="canonicalSubhero shell">
-        <p className="eyebrow">Build index · {shippedBuilds.length} shipped · {studioBuilds.length} in the studio · {generated}</p>
+        <p className="eyebrow">{shippedBuilds.length} live · {studioBuilds.length} in progress · updated {generated}</p>
         <h1>
           Everything I’ve built,
           <br />
@@ -83,13 +83,6 @@ export default function BuildIndexPage() {
             <p className="bigcopy">
               Each status repeats what the tool reports about itself: the date of its last check, a
               group still forming, or a page with nothing released yet.
-            </p>
-            <p className="indexProvenance">
-              Assigned {generated} from {shelfCounts.projects} live Vercel projects. {shelfCounts.shipped}{" "}
-              are shipped, {shelfCounts.studio} are in the studio, and {shelfCounts.hold} are on hold.
-              {shelfCounts.cut} probe and preview projects are marked for removal and are not linked.
-              The Netherlands field kit stays deployed while its build is repaired. Refresh the shelves
-              with <code>node scripts/assign-shelves.mjs</code>.
             </p>
           </div>
         </div>

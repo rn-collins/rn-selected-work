@@ -1,3 +1,4 @@
+import { monitorKind, monitorStatus } from "./freshness";
 /**
  * Curated write-ups, keyed by repository name.
  *
@@ -163,8 +164,8 @@ export const buildNotes: BuildNote[] = [
     repo: "aloha-ai-governance",
     title: "AI Governance Tracker",
     category: "monitoring",
-    status: "Live · weekly automated collection · last sweep 9 November 2026",
-    statusKind: "live",
+    status: monitorStatus("Live · weekly automated collection", "2026-11-09"),
+    statusKind: monitorKind("2026-11-09"),
     problem:
       "AI rules come from five places at once: Congress, the FTC, state bars, the ABA and the EU AI Act. No single feed covers all five.",
     does:
@@ -178,8 +179,8 @@ export const buildNotes: BuildNote[] = [
     repo: "aloha-legal-ai-monitor",
     title: "Legal AI Guidance Monitor",
     category: "monitoring",
-    status: "Live · 8 sources confirmed August 17, 2026 · last search November 9, 2026",
-    statusKind: "live",
+    status: monitorStatus("Live · 8 sources confirmed August 17, 2026", "2026-11-09"),
+    statusKind: monitorKind("2026-11-09"),
     problem:
       "When a court sanctions a lawyer for fake AI citations, the news travels much further than the order. Lawyers need the actual rulings and guidance, kept apart from commentary.",
     does:
@@ -193,8 +194,8 @@ export const buildNotes: BuildNote[] = [
     repo: "psychops-intel",
     title: "Psych Ops Source Watch",
     category: "monitoring",
-    status: "Live · all 6 sources working · last check November 9, 2026",
-    statusKind: "live",
+    status: monitorStatus("Live · 6 official sources", "2026-11-09"),
+    statusKind: monitorKind("2026-11-09"),
     problem:
       "Psychedelic rules change on state program pages that publish on no fixed schedule. Most trackers mix official rule changes with press releases and advocacy.",
     does:
@@ -479,7 +480,7 @@ export const buildNotes: BuildNote[] = [
     problem:
       "Families and schools get asked whether kids should use AI as if the tool, the task, the child’s age, the data practices and adult supervision were all one question. They aren’t, and a general answer doesn’t help with a specific decision.",
     does:
-      "Evaluates one specific child-facing AI use across five age-aware stages: context, the role AI will play, what cognitive work it may substitute for, adult involvement, consequence level, and data and human safeguards. The decision logic is inspectable rather than hidden, and the output names the developmental capacities to protect, the questions to put to a vendor or school, and the signals to monitor.",
+      "Evaluates one specific child-facing AI use in five steps: context, use, safeguards, decision and sources. Along the way it weighs the role the AI will play, the thinking it may replace, which adult stays involved, how much is at stake, and the data and safety protections. The decision logic is inspectable rather than hidden, and the output names the developmental capacities to protect, the questions to put to a vendor or school, and the signals to monitor.",
     builtOn:
       "A static browser application with local persistence and dated source links, served from Vercel. The decision model draws on the AAP 2026 state-of-the-art review, UNICEF child-centred AI guidance, UNESCO guidance for education, US Department of Education FERPA guidance, the FTC's amended COPPA Rule, and the NIST Generative AI Profile.",
     limits:
@@ -895,7 +896,7 @@ export const buildNotes: BuildNote[] = [
     repo: "institutions-of-one-reader",
     title: "Institutions of One — Public Reader",
     category: "records",
-    status: "Live · nine editions",
+    status: "Live · editions 005 to 009 of nine",
     statusKind: "live",
     problem:
       "A research project that publishes for the public while running a private review has to keep the two apart in the code, not just in a policy.",
