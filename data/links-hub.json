@@ -1,6 +1,6 @@
 {
  "note": "The /links page (RN's business card: QR code and NFC point to /links, the printed text is /l; MJBizCon Dec 1 to 4, 2026). Edit this file, not the page. Platform accounts come from data/social-links.json (X dropped and Threads paused for both brands, RN Nov 9), minus the ids in 'leaveOut'. Email: the three addresses below are public by RN's decision (Nov 9, 2026), on /links and its vCards only. No phone numbers. No place or real-time location anywhere, except the dated MJBizCon block RN chose (location-delay rule, Nov 11).",
- "title": "neuroscientist, builder and content creator",
+ "title": "neuroscientist, content creator and analyst",
  "leaveOut": {
   "rn": [
    "website",

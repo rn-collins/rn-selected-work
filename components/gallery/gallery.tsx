@@ -125,7 +125,7 @@ export function Gallery() {
                     <div className="igacts"><span><Heart /><Bubble /><Plane /></span><span className="dots">{Array.from({ length: c ? c.slides : 1 }, (_, n) => <i key={n} className={!c ? "a" : undefined} />)}</span><Bookmark /></div>
                     <p className="igcap"><b>{accounts.instagram}</b> {c ? c.title : "Every claim, read in full"}</p>
                   </div>
-                  <div className="plinth">{c && <Pre on={later(c.date)} />}</div>
+                  <div className="plinth"><span className="app">Instagram</span>{c && <Pre on={later(c.date)} />}</div>
                 </div>
               ))}
               <span className="note mk">swipe <Arrow /></span>
@@ -325,14 +325,14 @@ export function Gallery() {
               <h2>Show me the receipts.</h2>
               <p className="lede">Every post has a sources page. Each claim is listed with the paper it comes from and where in the paper to look.</p>
               <video className="howvid" src="/gallery/video/claim-check.mp4" poster="/gallery/video/claim-check.jpg" muted playsInline loop autoPlay preload="metadata" aria-label="Every claim, read in full: the six checks between a study and your feed" />
-              <p className="more"><a className="btn" href={`/sources/${receipt.slug}`}>See this post’s sources →</a></p>
+              <p className="more"><a className="btn" href={isReleased(aanId(receipt.slug)) ? `/sources/${receipt.slug}` : `/sources/preview/${receipt.slug}`}>See this post’s sources →</a></p>
             </div>
             <div className="paper reveal" aria-label={`Sources receipt for ${receipt.title}`}>
               <p className="rh">ASK A NEUROSCIENTIST<br />{receipt.title.toUpperCase()}</p>
               <p className="dash" />
               {receipt.extra!.claims!.slice(0, 5).map((c, k) => <div className="line" key={k}><span>{c.claim}</span><b>{c.source}</b></div>)}
               <p className="dash" />
-              <p className="tot"><span>CLAIMS</span><b>{receipt.extra!.claims!.length}</b></p>
+              <p className="tot"><span>CLAIMS ON THIS RECEIPT</span><b>{Math.min(5, receipt.extra!.claims!.length)} OF {receipt.extra!.claims!.length}</b></p>
               <p className="tot"><span>EACH ONE SOURCED</span><b>YES</b></p>
               <p className="thanks">Thank you. Check our work.</p>
               <Pre on={later(receipt.date)} />

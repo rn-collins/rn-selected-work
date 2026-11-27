@@ -3,6 +3,7 @@
 // in Hawaii; a preview deployment shows everything, marked "Preview", so RN can review the rooms early.
 import { hawaiiToday } from "./releases";
 import { publicationCounts } from "./publication-archive";
+import { journalArticles } from "./journal-articles";
 import reelData from "../data/gallery-reels.json";
 
 export type Dated = { date: string };
@@ -75,7 +76,8 @@ export const zines = [
   { id: "2026-12-14", date: "2026-12-20" }, { id: "made-world-2026-12-14", date: "2026-12-20" },
 ];
 export const outlets = Object.entries(publicationCounts).sort((a, b) => b[1] - a[1]);
-export const pieceCount = outlets.reduce((n, [, c]) => n + c, 0);
+// The same total /writing shows: the publication archive plus the full-text journal articles.
+export const pieceCount = outlets.reduce((n, [, c]) => n + c, 0) + journalArticles.length;
 
 // Room 7, AMA: what you can hire RN for.
 export const offers = [
