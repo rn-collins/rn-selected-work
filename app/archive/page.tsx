@@ -1,0 +1,400 @@
+import { pathways } from "../../lib/discovery";
+import { publicSourceLink } from "../../lib/source-links";
+import type { Metadata } from "next";
+import Link from "next/link";
+import { SocialIcons } from "../../components/social-icons";
+import { projects, writing } from "../../lib/portfolio";
+import { institutionalBuilds, populatedCategories, shelfCounts, shippedBuilds, studioBuilds } from "../../lib/builds";
+import { journalArticles, journalName } from "../../lib/journal-articles";
+import { publicationArchive, publicationCounts } from "../../lib/publication-archive";
+
+const homeDescription =
+  "Questions too messy for a single discipline — research, institutional frameworks, working systems, public resources, and published analysis by RN Collins.";
+
+export const metadata: Metadata = {
+  title: "Archive",
+  description: homeDescription,
+  alternates: { canonical: "/archive" },
+  openGraph: { title: "Archive", description: homeDescription, url: "/archive" },
+  twitter: { card: "summary_large_image", title: "Archive", description: homeDescription },
+};
+
+export default function Archive() {
+  return (
+    <main>
+      <nav className="nav shell" aria-label="Portfolio navigation">
+        <Link className="mark" href="/">
+          RN<span>↗</span>
+        </Link>
+        <div className="navlinks">
+          <a href="#work">Work</a>
+          <Link href="/builds">Build index</Link>
+          <Link href="/ideas">Zero to One ↗</Link>
+          <a href="#writing">Writing</a>
+        </div>
+      </nav>
+      <header className="hero shell">
+        <p className="eyebrow">Selected work · RN Collins · 2026</p>
+        <h1>
+          I work on questions
+          <br />
+          too messy for a<br />
+          <em>single discipline.</em>
+        </h1>
+        <div className="herofoot">
+          <p>
+            Neuroscientist, knowledge content creator, and builder. Chair of
+            FlexJD Interests, Student Bar Association, Northeastern University
+            School of Law, Class of 2029.
+          </p>
+          <p className="lede">
+            Selected research, institutional frameworks, working systems, public resources,
+            and published analysis across law, science, technology, governance,
+            education, and Hawaiʻi.
+          </p>
+        </div>
+      </header>
+      <nav className="pathways shell" aria-label="Choose a path through the portfolio">{pathways.map(p=><Link key={p.href} href={p.href}><h2>{p.title} →</h2><p>{p.description}</p></Link>)}</nav>
+      <section className="shell curatedSelection" aria-labelledby="curated-title"><p className="eyebrow">Three ways the disciplines meet</p><h2 id="curated-title">Start with a question.</h2><div className="pathways">
+        <Link href="/work/ownership-platform"><h2>Who owns the value of independent work? →</h2><p>Institutions of One connects research on ownership to a working platform.</p></Link>
+        <Link href="/writing#journal-of-biophilic-design"><h2>How does a space affect a mind? →</h2><p>Writing on neuroscience, architecture, cognitive clarity, and biophilic design.</p></Link>
+        <Link href="/explore?topic=Law+%2B+governance"><h2>What changes when a rule becomes a system? →</h2><p>Follow law and governance through published analysis, case studies, and builds.</p></Link>
+      </div></section>
+      <section className="method">
+        <div className="shell methodgrid">
+          <p className="eyebrow">How I work</p>
+          <div className="steps">
+            <span>
+              <b>01</b>Study the system
+            </span>
+            <i>→</i>
+            <span>
+              <b>02</b>Find the hidden constraint
+            </span>
+            <i>→</i>
+            <span>
+              <b>03</b>Make it concrete
+            </span>
+            <i>→</i>
+            <span>
+              <b>04</b>Build what can be tested
+            </span>
+          </div>
+        </div>
+      </section>
+      <section className="work shell" aria-labelledby="source-desk-title">
+        <div className="sectionhead">
+          <p className="eyebrow">Source Desk / Interactive field guide</p>
+          <p>Research, visual explanation, and a public question pathway.</p>
+        </div>
+        <div className="projects">
+          <article className="project">
+            <div className="projecttop">
+              <span className="num">01</span>
+              <span className="kind">Science communication · independently initiated</span>
+            </div>
+            <h2 id="source-desk-title">What a Color Plate Can Tell Us</h2>
+            <p className="status">Live educational resource · September 2026</p>
+            <p className="thesis">A childhood eye appointment becomes a guide to what color plates measure, how X-linked inheritance works, and how to make color-coded information accessible.</p>
+            <p className="copy">Historic test imagery with clear rights, interactive conceptual models, source and limitation notes, and a public route for questions. The demonstrations are educational, not diagnostic.</p>
+            <div className="projectfoot">
+              <div className="tags"><span>Science communication</span><span>Interactive education</span><span>Accessible design</span></div>
+              <div className="projectActions" aria-label="Color Vision Field Guide links">
+                <a href="https://color-vision-field-guide.vercel.app/" target="_blank" rel="noreferrer">Explore the field guide <span>↗</span></a>
+                <a href="https://github.com/rn-collins/color-vision-field-guide" target="_blank" rel="noreferrer">Inspect sources and code <span>↗</span></a>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+      <section id="work" className="work shell">
+        <div className="sectionhead">
+          <p className="eyebrow">Builds</p>
+          <p>Read the work. Open the build. Follow the evidence.</p>
+        </div>
+        <div className="projects">
+          {projects.map((p) => (
+            <article className="project" key={p.slug}>
+              <div className="projecttop">
+                <span className="num">{p.number}</span>
+                <span className="kind">{p.kind}</span>
+              </div>
+              <h2>{p.title}</h2>
+              <p className="status">{p.status}</p>
+              <p className="thesis">{p.thesis}</p>
+              <p className="copy">{p.summary}</p>
+              <div className="projectfoot">
+                <div className="tags">
+                  {p.tags.map((t) => (
+                    <span key={t}>{t}</span>
+                  ))}
+                </div>
+                <div className="projectActions" aria-label={`${p.shortTitle} links`}>
+                  <Link href={`/work/${p.slug}`}>
+                    Read case study <span>→</span>
+                  </Link>
+                  {p.live ? (
+                    <a href={p.live} target="_blank" rel="noreferrer">
+                      Open live build <span>↗</span>
+                    </a>
+                  ) : (
+                    <span className="availability">Case study available · system private</span>
+                  )}
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+      <section id="build-atlas" className="atlas shell">
+        <div className="sectionhead">
+          <p className="eyebrow">Complete build index</p>
+          <p>
+            {shippedBuilds.length} shipped builds, one URL each. {studioBuilds.length} are in the studio.
+            {shelfCounts.hold} deployments are held off this site.
+          </p>
+        </div>
+        <div className="indexSummaryIntro">
+          <p className="bigcopy">
+            The index behind this section is generated. A script asks GitHub what
+            repositories exist and Vercel what is deployed, checks that each production
+            URL answers, and writes the result to a data file the pages render from.
+            The previous hand-maintained list had drifted to 32 entries.
+          </p>
+          <p>
+            Each entry states the problem it addresses, what it does, what it runs on,
+            and an honest status. Retired prototypes are listed as retired, paused work
+            as paused, and thin work as thin. Client engagements, private workspaces and
+            credential-gated deployments are excluded on purpose, and the index says so.
+          </p>
+        </div>
+        <div className="indexSummaryGrid">
+          {populatedCategories.map((category) => (
+            <article key={category.id}>
+              <p className="eyebrow">{category.builds.length} builds</p>
+              <h3>{category.title}</h3>
+              <p>{category.blurb}</p>
+              <Link href={`/builds#${category.id}`}>
+                Open this section <span aria-hidden="true">→</span>
+              </Link>
+            </article>
+          ))}
+        </div>
+        <div className="indexSummaryFoot">
+          <Link className="button" href="/builds">
+            Read the complete build index <span aria-hidden="true">→</span>
+          </Link>
+          <p>
+            Six of these carry a longer case study, linked from their entry in the index.
+          </p>
+        </div>
+      </section>
+      <section className="advisory">
+        <div className="shell advisorygrid">
+          <div>
+            <p className="eyebrow">Frameworks + institutional work</p>
+            <h2>
+              Original systems,
+              <br />
+              made operational.
+            </h2>
+          </div>
+          <div className="advisoryitems">
+            <article>
+              <h3>Neurocognitive Systems Advisory Group</h3>
+              <p>
+                A research framework for institutions that need to see how policy,
+                technology, procedure, language, environment, and power shape
+                thinking and the body. The public site publishes fifteen module
+                scopes. Assessment collection is paused on all fifteen. Those
+                pages do not collect answers, calculate findings, or send reports.
+              </p>
+              <Link href="/work/neurocognitive-systems-advisory-group">
+                Read the NSAG case study →
+              </Link>
+              <small>
+                The link stays on this site. Human advisory work is separate from
+                the public pages. Other parts of NSAG are switched off, and the
+                site says which.
+              </small>
+            </article>
+            <article>
+              <h3>Applied governance systems</h3>
+              <p>
+                NSAG’s institutional work is not one website. The links below
+                open the record for each build: governance tools, neuroarchitecture,
+                sport, women’s health, developing brains, health education,
+                creator rights, and applied nervous-system design.
+              </p>
+              <div className="institutionalLinks">
+                {institutionalBuilds.map((build) =>
+                  build.caseStudy ? (
+                    <Link href={`/work/${build.caseStudy}`} key={build.repo}>
+                      {build.title} →
+                    </Link>
+                  ) : (
+                    <Link href={`/builds#${build.category}`} key={build.repo}>
+                      {build.title} →
+                    </Link>
+                  ),
+                )}
+              </div>
+              <small>
+                These {institutionalBuilds.length} builds are listed here because each one
+                carries an institutional or governance question. The link opens that
+                build’s record on this site. The record says what it refuses, and a
+                held public link is not offered.
+              </small>
+            </article>
+            <article>
+              <h3>Inflection Radar</h3>
+              <p>
+                An independent proposal for reviewers deciding whether to
+                authorize a governed public-source pilot. The decision room,
+                brief, report, and deck are the proposal. They were not
+                commissioned, and they do not report pilot results. Open
+                decision room leaves this site for that proposal. The case
+                study link stays here.
+              </p>
+              <div className="actionrow">
+                <Link href="/work/inflection-radar">Read case study →</Link>
+                <a href="https://inflection-radar-real-chemistry.vercel.app/" target="_blank" rel="noreferrer">
+                  Open decision room ↗
+                </a>
+              </div>
+            </article>
+            <article>
+              <h3>Aloha Intelligence Institute</h3>
+              <p>
+                An independently developed institutional-design proposal
+                examining how a Hawaiʻi-focused AI institute could move from
+                legislative concept toward a defined mandate, governance model,
+                stakeholder process, and implementable launch.
+              </p>
+              <div className="actionrow">
+                <Link href="/advisory/aloha-intelligence-institute">
+                  Read case study →
+                </Link>
+                <a
+                  href="/documents/aloha-intelligence-institute-decision-brief.pdf"
+                  download
+                >
+                  Download brief ↓
+                </a>
+              </div>
+              <small>
+                Prepared for consideration by Senator Stanley Chang's office.
+                Not commissioned by or produced on behalf of the State of
+                Hawaiʻi.
+              </small>
+            </article>
+          </div>
+        </div>
+      </section>
+      <section id="writing" className="writing shell">
+        <div className="sectionhead">
+          <p className="eyebrow">Published work</p>
+          <p>Journalism, design writing, and research · {publicationArchive.length + journalArticles.length} located publication records.</p>
+        </div>
+        <nav className="publicationJump" aria-label="Publication outlets">
+          <Link href="/writing#journal-of-biophilic-design">Journal of Biophilic Design <span>{journalArticles.length}</span></Link>
+          <Link href="/writing#fat-nugs-magazine">Fat Nugs Magazine <span>{publicationCounts["Fat Nugs Magazine"]}</span></Link>
+          <Link href="/writing#cannabis-law-report">Cannabis Law Report <span>{publicationCounts["Cannabis Law Report"]}</span></Link>
+          <Link href="/writing#the-daily-pennsylvanian">The Daily Pennsylvanian <span>{publicationCounts["The Daily Pennsylvanian"]}</span></Link>
+          <Link href="/writing#new-bones-mag">New Bones Mag</Link>
+          <Link href="/writing#mit-science-policy-review">Academic + policy writing</Link>
+        </nav>
+        <div className="articlecols">
+          <Publication
+            title="Fat Nugs Magazine · Ask a Neuroscientist"
+            items={writing.fnm}
+          />
+          <Publication title="Cannabis Law Report" items={writing.clr} />
+          <Publication title={journalName} items={journalArticles.map((article) => ({ title: article.title, href: `/writing/journal-of-biophilic-design/${article.slug}`, blurb: `Issue ${article.issue} · ${article.theme} · Read the full article` }))} />
+          <Publication title="The Daily Pennsylvanian" items={[
+            ...publicationArchive.filter((article) => article.publication === "The Daily Pennsylvanian" && ["Michelle Obama and Jill Biden 'Join Forces' at Penn", "HUP adjusts to implementation of Affordable Care Act", "Nursing students create games to teach about healthcare issues"].includes(article.title)).map((article) => ({ title: article.title, href: article.href, blurb: "Read the full article at The Daily Pennsylvanian." })),
+            { title: "Explore all 29 articles", href: "/writing#the-daily-pennsylvanian", blurb: "Health care, education, public policy, business, and campus life." },
+          ]} />
+          <Publication title="Research, policy + independent writing" items={[
+            { title: "New Bones Mag", href: "/writing#new-bones-mag", blurb: "Neuroscience and abolition." },
+            { title: "Academic papers + policy reports", href: "/writing#mit-science-policy-review", blurb: "MIT Science Policy Review, Academic Radiology, Frontiers in Education, Policy Insights from the Behavioral and Brain Sciences, and Mothers in Science." },
+            { title: "POLYMATH", href: "https://polymath-rn-collins.beehiiv.com/", blurb: "Independent essays and the newsletter archive." },
+          ]} />
+        </div>
+        <div className="archiveCallout">
+          <div>
+            <p className="eyebrow">Publication archive</p>
+            <h2>Follow the work across publications.</h2>
+          </div>
+          <div>
+            <p>
+              {journalArticles.length} Journal of Biophilic Design articles · {publicationCounts["Fat Nugs Magazine"]} Fat Nugs Magazine articles · {publicationCounts["Cannabis Law Report"]} Cannabis Law Report publication records · {publicationCounts["Cannabis Law Journal"]} Cannabis Law Journal editions · {publicationCounts["The Daily Pennsylvanian"]} Daily Pennsylvanian articles.
+            </p>
+            <p className="archiveNote">
+              Checked October 17, 2026. Includes academic papers, policy work, and a thesis. Separate editions and republications are labeled; unindexed and print-only work may still be missing.
+            </p>
+            <Link className="button" href="/writing">Browse the publication archive →</Link>
+          </div>
+        </div>
+      </section>
+      <footer className="footer">
+        <div className="shell footergrid">
+          <div>
+            <p className="eyebrow">Work with RN</p>
+            <h2>
+              What system are you
+              <br />
+              trying to understand
+              <br />
+              <em>or change?</em>
+            </h2>
+          </div>
+          <div className="contact">
+            <p>
+              RN Collins
+              <br />
+              Honolulu, Hawaiʻi
+            </p>
+            <a
+              href="https://www.linkedin.com/in/rn-collins"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Continue on LinkedIn ↗
+            </a>
+            <SocialIcons />
+            {publicSourceLink("https://github.com/rn-collins/rn-selected-work") && <p><a href={publicSourceLink("https://github.com/rn-collins/rn-selected-work")} target="_blank" rel="noopener noreferrer">View source on GitHub ↗</a></p>}
+            <p className="note">
+              Explore the research, systems, and public work here, then begin with
+              the question or institutional problem that matters most.
+            </p>
+          </div>
+        </div>
+      </footer>
+    </main>
+  );
+}
+
+function Publication({
+  title,
+  items,
+}: {
+  title: string;
+  items: { title: string; href: string; blurb: string }[];
+}) {
+  return (
+    <section className="articlecolumn">
+      <h2>{title}</h2>
+      {items.map((item) => (
+        <article className="articleitem" key={item.href}>
+          <h3>
+            <a href={item.href} target="_blank" rel="noreferrer">
+              {item.title} ↗
+            </a>
+          </h3>
+          <p>{item.blurb}</p>
+        </article>
+      ))}
+    </section>
+  );
+}
