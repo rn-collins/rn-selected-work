@@ -69,44 +69,44 @@ export type CategoryId =
 export const categories: { id: CategoryId; title: string; blurb: string }[] = [
   {
     id: "monitoring",
-    title: "Regulatory and governance monitoring",
+    title: "Trackers for new laws and rules",
     blurb:
-      "Scheduled collectors that watch a defined set of official sources and report their own collection health. Each one separates a verified authority from an unreviewed candidate, and says out loud when its last sweep is overdue.",
+      "Trackers that check a fixed list of official sources on a schedule. Each one keeps confirmed sources apart from unchecked finds, and says when its last check is overdue.",
   },
   {
     id: "atlases",
     title: "Research atlases and libraries",
     blurb:
-      "Catalogues of a field, built so the provenance survives the summarising. Each record carries where it came from and what it does not settle.",
+      "Reference collections on one field. Each entry says where it came from and what it doesn’t prove.",
   },
   {
     id: "tools",
-    title: "Decision tools and workbenches",
+    title: "Tools for working through one decision",
     blurb:
-      "Browser-local instruments for working through one decision. Nothing is transmitted, nothing needs an account, and each one states the judgement it cannot make for you.",
+      "Tools that run in your browser and help with one decision. Nothing is sent anywhere, no account is needed, and each says what it can’t decide for you.",
   },
   {
     id: "education",
     title: "Education and public guides",
     blurb:
-      "Courses, first-steps guides and public explainers, written for a named audience and sourced well enough that a reader can check the claim rather than trust the author.",
+      "Courses and guides, each written for one audience, with sources you can check yourself.",
   },
   {
     id: "legal",
-    title: "Legal-information resources",
+    title: "Legal information",
     blurb:
-      "Resources for people navigating a legal system or a legal career. Independent of the institutions they describe, and explicit about it.",
+      "For people dealing with the law or starting a legal career. Each one says plainly that it isn’t run by the school or agency it covers.",
   },
   {
     id: "records",
-    title: "Field investigations and published records",
+    title: "Field reporting",
     blurb:
-      "Reader-facing editorial systems with the evidence, revisions and rights records kept attached to the published work.",
+      "Reporting from events, with the evidence, edits and image rights kept with each story.",
   },
   {
     id: "practice",
-    title: "Practice and organisation sites",
-    blurb: "The public front doors of the practices this work runs under.",
+    title: "Sites for my practices",
+    blurb: "The main sites for the practices this work comes out of.",
   },
 ];
 
@@ -166,7 +166,7 @@ export const buildNotes: BuildNote[] = [
     status: "Live · weekly automated collection · last sweep 9 November 2026",
     statusKind: "live",
     problem:
-      "AI regulation arrives from five directions at once — Congressional legislation, FTC enforcement, state bar ethics guidance, ABA guidance, and the EU AI Act — and no single feed covers them together.",
+      "AI rules come from five places at once: Congress, the FTC, state bars, the ABA and the EU AI Act. No single feed covers all five.",
     does:
       "Runs a scheduled sweep every Monday, files what it finds into those five categories, and publishes the result as a dashboard and a JSON endpoint. The API returns a collection-health block alongside the documents: last sweep time, age in days, failed-search count, newest item date, and a stale flag that trips after two missed cycles. A stale register is shown as stale rather than presented as the current picture.",
     builtOn:
@@ -303,7 +303,7 @@ export const buildNotes: BuildNote[] = [
     status: "Live · 143 articles",
     statusKind: "live",
     problem:
-      "Oregon and Colorado wrote new statutes and rules, and facilitators, applicants, and small operators are reading them without a plain-English layer that still points at the authority.",
+      "Oregon and Colorado wrote new psychedelic laws and rules, and facilitators, applicants and small operators are reading them with no plain-English guide that still cites the law.",
     does:
       "Publishes 143 plain-English articles on Oregon and Colorado law, facilitator requirements, and psychedelic business questions, each carrying its sources, with a separate sources index across the whole library and a per-article manifest.",
     builtOn: "An Astro-built static site with prebuilt output committed to the repository, served from Vercel.",
@@ -366,7 +366,7 @@ export const buildNotes: BuildNote[] = [
     problem:
       "Custom AI projects get quoted as one number, even though discovery, research, architecture, implementation, testing, documentation, launch and maintenance are different kinds and amounts of work. That opacity hurts the buyer and the builder equally.",
     does:
-      "Walks seven stages: brief, labor, runtime, other costs, risk, results, and compare. Labor lines are editable assumptions. Rates are scenario inputs. The page returns a build range, a monthly run rate, and a year-one range. Scenarios save locally, share by URL, print, and export.",
+      "Walks you through seven steps: brief, labor, runtime, other costs, risk, results and compare. Labor lines and rates are your own assumptions, and you can edit them. It returns a build cost range, a monthly running cost and a first-year range. Scenarios save in your browser, and you can share them by link, print them or export them.",
     builtOn: "A static browser application with local persistence and URL-encoded scenario sharing, served from Vercel.",
     limits:
       "Outputs are the user's own planning scenarios. They are not quotes, and they are not independently validated market benchmarks.",
@@ -409,7 +409,7 @@ export const buildNotes: BuildNote[] = [
     status: "Live · local-first workbench",
     statusKind: "live",
     problem:
-      "An organisation deploying an AI agent needs an inventory, a risk triage, and an evidence packet before a regulator or a customer asks for one.",
+      "An organization using an AI agent needs an inventory, a risk review and an evidence file before a regulator or customer asks for one.",
     does:
       "Works through AI system inventory, risk triage, controls, evaluation, incidents and human oversight, and exports the result as an evidence pack. Everything stays in the browser.",
     builtOn: "A static browser application with local persistence, plus privacy and terms pages, served from Vercel.",
@@ -443,12 +443,12 @@ export const buildNotes: BuildNote[] = [
     problem:
       "Neuro-aware design claims are easy to make and rarely tested. A building gets described as calming, and nothing in the process ever asks what observation would have shown otherwise. The workbench is for architects, designers, developers, and the institutions commissioning the space. The public link is held, so this record does not offer the address.",
     does:
-      "For architects, designers, developers, and the institutions commissioning a space, it structures spatial observation into evidence-aware design hypotheses, runs an accessibility review, prioritises the resulting changes, and sets up post-occupancy measurement so a hypothesis can be checked after the space is occupied.",
+      "For architects, designers, developers and the organizations that commission buildings. It turns observations of a place into design hypotheses tied to the evidence, runs an accessibility review, ranks the changes, and sets up measurement after move-in so each hypothesis can be checked once people use the place.",
     builtOn: "A static browser application with local persistence, plus privacy and terms pages, served from Vercel.",
     limits:
       "A local-first inquiry tool. It does not establish medical benefit, legal or code compliance, accessibility compliance, or architectural or engineering adequacy.",
     linkHeld:
-      "The public link is held pending the release review recorded against this build. The deployment answers, and its content is described above, but it is not promoted from this site until that review clears.",
+      "The public link stays off this site until this tool passes its release review. The tool is live and described above; it will be linked here once the review is done.",
     caseStudy: "narch",
   },
   {
@@ -466,7 +466,7 @@ export const buildNotes: BuildNote[] = [
     limits:
       "Evidence orientation and appointment preparation. Not medical advice, not a diagnosis, not a treatment recommendation, and not emergency care.",
     linkHeld:
-      "The public link is held pending the release review recorded against this build. Health-facing guidance is promoted only after that review clears, whatever the deployment currently returns.",
+      "The public link stays off this site until this tool passes its release review. Health guidance gets linked here only after that review, even if the tool is already live.",
     caseStudy: "womens-neuro-health",
   },
   {
@@ -538,7 +538,7 @@ export const buildNotes: BuildNote[] = [
     problem:
       "Attention signals from screen culture get converted into consumer-behaviour conclusions with no step in between where someone writes down what would have to be true for the inference to hold.",
     does:
-      "Takes one named culture moment and sets a cautious consumer-behaviour hypothesis next to public attention samples, including Wikipedia pageviews.",
+      "Takes one named cultural moment and sets a cautious consumer-behavior hypothesis next to samples of public attention, including Wikipedia pageviews.",
     builtOn: "A Next.js pages-router application on Vercel.",
     limits:
       "An exploratory issue-spotter. It does not measure an individual, predict behaviour, or establish that media exposure caused a purchase. The hypotheses are untested.",
@@ -628,7 +628,7 @@ export const buildNotes: BuildNote[] = [
     status: "Live · free relationship-building lab for law students",
     statusKind: "live",
     problem:
-      "Law students are told to network and given no way to plan targets, write a specific message, and keep a follow-up record.",
+      "Law students are told to network but given no way to pick people to contact, write a specific message and track follow-ups.",
     does:
       "A free, no-account lab for law students: map targets, draft outreach, and track follow-up in the browser. The page shows RN's self-reported outreach record and labels those figures as one person's record.",
     builtOn: "A static site served from Vercel. The lab keeps its records in the browser.",
@@ -700,7 +700,7 @@ export const buildNotes: BuildNote[] = [
     status: "Live · two programmes available for licensing",
     statusKind: "live",
     problem:
-      "Institutions that need a degree programme in a fast-moving field face a build-or-wait choice, and building one from nothing is a multi-year commitment they usually cannot make in time. The page licenses curriculum to those institutions. It does not enroll a student or confer the degree.",
+      "Schools that need a degree program in a fast-moving field can build one, which takes years, or wait. This site licenses ready-made curriculum to them.",
     does:
       "Offers two delivery-ready programmes — a B.S. in AI and Machine Learning and a B.S. in Cybersecurity and Critical Infrastructure Protection — for institutional licensing, alongside a commissioned-development path. The link opens that licensing site.",
     limits:
@@ -796,7 +796,7 @@ export const buildNotes: BuildNote[] = [
     status: "Live · Fat Nugs companion archive",
     statusKind: "live",
     problem:
-      "A short post can carry a claim and leave out the mechanism, the sources, and what the evidence does not settle.",
+      "A short post can make a claim and leave out how it works, the sources and what the evidence doesn’t settle.",
     does:
       "A companion site for Ask a Neuroscientist. The public archive is the Fat Nugs series: each page carries what the piece found, its sources, and a link to the original. More pages are added as pieces are posted. Readers can send a question.",
     builtOn: "A static site on Vercel.",
@@ -870,7 +870,7 @@ export const buildNotes: BuildNote[] = [
     status: "Public page live · no pieces released",
     statusKind: "live",
     problem:
-      "Fashion Week coverage describes the spectacle and leaves the technical city underneath it undocumented.",
+      "Fashion Week coverage describes the spectacle and skips the technology running the city underneath it.",
     does:
       "A release page for readers following the technology behind fashion week. No pieces have been released. Each piece appears on its release day.",
     builtOn: "A static release page on Vercel.",
@@ -900,7 +900,7 @@ export const buildNotes: BuildNote[] = [
     problem:
       "A research programme that publishes for a public audience and runs a private review process at the same time has to keep the two apart in a way that survives a build, not just a policy.",
     does:
-      "Publishes editions 005 through 009, including The $2,000 Video, The Person Inside the Asset, and The Asset's Afterlife, with visual stories and a public Source Desk. Editions 001 through 004 are read on the main Institutions of One site.",
+      "Publishes editions 005 through 009, including The $2,000 Video, The Person Inside the Asset, and The Asset’s Afterlife, with visual stories and a public Source Desk. Editions 001 through 004 are on the main Institutions of One site.",
     builtOn: "A reader application on Vercel.",
     limits: "Educational information, not legal advice.",
   },
@@ -927,7 +927,7 @@ export const buildNotes: BuildNote[] = [
     status: "Live · gallery open, no packages released",
     statusKind: "live",
     problem:
-      "A field trip produces essays, research, and pictures on different clocks, and a download package is a later decision than the page a reader can already open.",
+      "A trip produces essays, research and photos on different timelines, and deciding what to offer as a download comes later than the page people can already visit.",
     does:
       "Opens the Dutch Design Week gallery. The entrance is public. A story appears there when it is released, with image descriptions, credits, and sources. The essay collection and the research collection stay behind the owner sign-in, and nothing is offered as a download from this card.",
     builtOn: "A Next.js gallery on Vercel. The owner workspace is a separate sign-in.",
@@ -960,7 +960,7 @@ export const buildNotes: BuildNote[] = [
     problem:
       "Organisations are pushed from a vague intention to use AI straight into vendor selection. The step that gets skipped is deciding what the bounded problem is, what the non-AI alternatives are, who is affected, who owns it, and in advance, what would make a pilot stop.",
     does:
-      "The practice site, plus fifteen browser-local releases: four standalone builders and eleven Decision Desk instruments inside courses. The four builders are Opportunity Studio (23 prompts, answers stay in the browser), a decision record, a vendor comparison, and a pilot designer. Aloha AI does not receive what you enter.",
+      "The main Aloha AI site, plus 15 tools that run in your browser: four standalone builders and 11 Decision Desk tools inside the courses. The four builders are Opportunity Studio (23 prompts), a decision record, a vendor comparison and a pilot designer. What you enter stays in your browser; Aloha AI never receives it.",
     builtOn:
       "A Next.js application on Vercel with a clinic inquiry form that fails closed unless its mail and anti-abuse environment variables are configured. Decision tools keep working data in the visitor's browser.",
     limits:
@@ -1017,7 +1017,7 @@ export const buildNotes: BuildNote[] = [
     status: "Live · practice front door",
     statusKind: "live",
     problem:
-      "Most engagements start from a solution someone has already chosen, which means the actual question never gets examined. This page is the front door for founders, creators, portfolio professionals, and organizations who have the situation and not the brief.",
+      "Most projects start from a solution someone already picked, so the real question never gets examined. This page is for founders, creators, independent professionals and organizations who know the situation but don’t have a brief.",
     does:
       "A one-page practice front door for founders, creators, portfolio professionals, and organizations. It asks for the question before the brief. The link opens that page, where a first note can go by email or LinkedIn.",
     limits:
@@ -1031,7 +1031,7 @@ export const buildNotes: BuildNote[] = [
     status: "Live · public build exhibition",
     statusKind: "live",
     problem:
-      "The questions behind a build disappear once the build is finished. RN Builds is a separate exhibition from this site.",
+      "The questions behind a build get lost once it’s finished.",
     does:
       "A separate public exhibition for a visitor who wants to use a build or see why it exists, without already knowing the field. Each numbered build opens on its release day, with a working thing and a visual story. The page describes a project of building 100 and labels released work, lab builds, and incomplete layers separately. The link leaves this site for that exhibition.",
     builtOn: "A Next.js application on Vercel.",

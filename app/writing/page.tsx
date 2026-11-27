@@ -121,7 +121,7 @@ export default function WritingArchivePage() {
               </div>
               {publication === "The Daily Pennsylvanian" && <p className="archiveDisclosure">Reporting on health care, education, public policy, business, and campus life. Read each article in full at The Daily Pennsylvanian.</p>}
               {publication === "Cannabis Law Journal" ? (
-                <p className="archiveDisclosure">The publication’s current site identifies itself as Cannabis Law Journal. These are separately located Journal editions of work also published by Cannabis Law Report; they are not represented as three additional original articles.</p>
+                <p className="archiveDisclosure">The publication now calls itself Cannabis Law Journal. These are Journal editions of pieces also published in Cannabis Law Report, not three extra articles.</p>
               ) : null}
               {series.map((seriesName) => (
                 <section className="seriesGroup" key={seriesName}>

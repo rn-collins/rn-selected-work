@@ -4,7 +4,7 @@ import { useSearchParams } from 'next/navigation';
 import type { DiscoveryItem } from '../lib/discovery';
 type DiscoveryProps = {items:DiscoveryItem[];title?:string};
 export function DiscoveryBrowser(props:DiscoveryProps) {
- return <Suspense fallback={<p className="shell" role="status">Loading portfolio search…</p>}><DiscoveryBrowserContent {...props}/></Suspense>;
+ return <Suspense fallback={<p className="shell" role="status">Loading search…</p>}><DiscoveryBrowserContent {...props}/></Suspense>;
 }
 function DiscoveryBrowserContent({items,title='Find your way through the work'}:DiscoveryProps) {
  const searchParams = useSearchParams();

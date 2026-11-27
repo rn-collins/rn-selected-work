@@ -6,7 +6,7 @@ import { BuildRoster } from "../../../components/build-roster";
 export const metadata: Metadata = {
   title: "Neurocognitive Systems Advisory Group",
   description:
-    "Nervous-system-aware governance and research-led institutional design: the framework, its workbenches, and fifteen modules consolidated on the NSAG site.",
+    "Nervous-system-aware governance: my research on how an organization’s rules, tools and buildings affect people’s nervous systems. This page covers the framework, its workbenches, and the 15 modules now gathered on the NSAG site.",
   alternates: { canonical: "/initiatives/nsag" },
 };
 
@@ -58,8 +58,8 @@ export default function Page() {
       </section>
 
       <BuildRoster
-        heading="The framework, operationalised."
-        intro="Each of these takes one domain and turns the framework into a pass someone can actually run. All are browser-local; none transmits what you enter."
+        heading="The framework, put to work."
+        intro="Each tool takes one area and turns the framework into a check someone can actually run. They all run in your browser, and none sends what you enter anywhere."
         repos={["nsag-site", "sport-nsag", "narch-advisory", "wnh-guide", "gapi-governance", "kids-developing-brains"]}
       />
 
@@ -87,7 +87,7 @@ export default function Page() {
                 Read the NSAG case study →
               </Link>
               <Link className="button secondary" href="/builds#retired">
-                Browse the retired addresses →
+                See the old addresses →
               </Link>
             </div>
           </div>
@@ -98,7 +98,7 @@ export default function Page() {
         <div className="canonicalSplit">
           <p className="eyebrow">Evidence boundary</p>
           <div>
-            <h2>Frameworks must stay attached to their boundaries.</h2>
+            <h2>A framework should say what it can’t do.</h2>
             <p>
               The case study documents the framework, the assessment modules, the evidence,
               the intelligence, the education and the advisory architecture without treating
@@ -108,7 +108,7 @@ export default function Page() {
               each says so on its own page rather than only here.
             </p>
             <Link href="/initiatives/institutions-of-one">
-              See the sibling initiative, Institutions of One →
+              See the related project, Institutions of One →
             </Link>
           </div>
         </div>

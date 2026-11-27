@@ -7,7 +7,7 @@ import { builds } from "../../lib/builds";
 export const metadata: Metadata = {
   title: "Initiatives",
   description:
-    "Long-running questions that outlast any single engagement — Aloha AI, NSAG, and Institutions of One — each with the builds that currently exist under it.",
+    "Three long-running projects by RN Collins: Aloha AI, NSAG and Institutions of One, each with the tools built for it so far.",
   alternates: { canonical: "/initiatives" },
 };
 
@@ -21,9 +21,9 @@ export default function Page() {
       <header className="canonicalSubhero shell">
         <p className="eyebrow">Initiatives</p>
         <h1>
-          Long-running questions.
+          Long-running questions
           <br />
-          <em>Work that keeps growing.</em>
+          <em>I keep working on.</em>
         </h1>
         <p>
           Some questions are larger than one client engagement or one build. These

@@ -19,7 +19,7 @@ export default function Page() {
         <h1>
           I follow the question
           <br />
-          <em>across the boundaries.</em>
+          <em>wherever it leads.</em>
         </h1>
         <p>
           RN Collins is a neuroscientist, knowledge content
@@ -43,7 +43,7 @@ export default function Page() {
           </figure>
           <div>
             <p className="eyebrow">The throughline</p>
-            <h2>I make difficult systems easier to see and use.</h2>
+            <h2>I make confusing rules, science and tools easier to understand and use.</h2>
             <p className="bigcopy">
               The work crosses technology, law, neuroscience, governance, education,
               institutional design and public knowledge because the problems themselves
@@ -66,7 +66,7 @@ export default function Page() {
         <div className="shell canonicalSplit">
           <p className="eyebrow">What that produces</p>
           <div>
-            <h2>Not opinions about a field. Things that run in it.</h2>
+            <h2>Tools and guides you can open today.</h2>
             <p className="bigcopy">
               There are currently {builds.length} reachable builds across the practice:
               monitors that watch official sources and report their own staleness,
@@ -82,7 +82,7 @@ export default function Page() {
               that collects that in order to demonstrate its own sophistication has traded
               away the condition that made it usable.
             </p>
-            <Link href="/builds">Read the complete build index →</Link>
+            <Link href="/builds">See all the projects →</Link>
           </div>
         </div>
       </section>
@@ -91,7 +91,7 @@ export default function Page() {
         <div className="canonicalSplit">
           <p className="eyebrow">How the work is disciplined</p>
           <div>
-            <h2>A quality claim should be reproducible by someone who does not trust me.</h2>
+            <h2>Anyone should be able to check my work and get the same answer.</h2>
             <p>
               An audit across six builds found the same failure each time: the prose was
               accurate and the pointer to the source was not. Real articles with fabricated

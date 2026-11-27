@@ -14,11 +14,11 @@ export function PortfolioBlock() {
   return (
     <aside className={styles.block} aria-labelledby="portfolio-links">
       <h2 id="portfolio-links">RN Collins, selected work</h2>
-      <p>Research, systems and writing, with the evidence behind each piece.</p>
+      <p>Research, tools and writing, with the sources behind each piece.</p>
       <ul>
         <li><Link href="/">RN Selected Work home</Link></li>
-        <li><Link href="/work">Selected work index</Link></li>
-        <li><Link href="/sources">All sources pages</Link></li>
+        <li><Link href="/work">All work</Link></li>
+        <li><Link href="/sources">All source pages</Link></li>
       </ul>
     </aside>
   );

@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Aloha Intelligence Institute",
   description:
-    "An independently developed institutional-design brief testing whether a proposed Hawaiʻi AI institute should exist, and in what form. Prepared for consideration; not commissioned.",
+    "A brief I wrote on my own that tests whether a proposed Hawaiʻi AI institute should exist, and in what form. Prepared for consideration; not commissioned.",
   alternates: { canonical: "/advisory/aloha-intelligence-institute" },
 };
 import Link from "next/link";
@@ -149,7 +149,7 @@ export default function AiiCase() {
             target="_blank"
             rel="noreferrer"
           >
-            Read the brief in browser ↗
+            Read the brief in your browser ↗
           </a>
           <a
             className="button secondary"

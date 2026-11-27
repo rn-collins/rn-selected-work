@@ -9,9 +9,9 @@ export function PreviewGrid() {
   return (
     <section className="previewGridSection shell" aria-labelledby="preview-grid">
       <p className="eyebrow">Public sites · {tiles.length} shipped</p>
-      <h2 id="preview-grid">A window for every live build.</h2>
+      <h2 id="preview-grid">Every live site, as it looks today.</h2>
       <p className="previewGridIntro">
-        Each window is the current public page. NSAG is one site, at nsag-site.vercel.app.
+        Each preview is the live page today. All of NSAG is on one site.
       </p>
       <div className="previewGrid">
         {tiles.map((build) => (

@@ -27,7 +27,7 @@ export function PreviewFrame({
         <div className="buildPreviewHeader">
           <div>
             <p className="eyebrow">Public site</p>
-            <h2>Current public page</h2>
+            <h2>The site as it looks today</h2>
           </div>
           <a href={url} target="_blank" rel="noreferrer">
             Open full site ↗
@@ -51,7 +51,7 @@ export function PreviewFrame({
       </div>
       {compact ? null : (
         <p className="buildPreviewNote">
-          This window shows the current public page. Open the full site to use the build.
+          A live view of the site. Open it to use it.
         </p>
       )}
     </section>

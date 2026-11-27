@@ -20,7 +20,7 @@ export const revalidate = 3600;
 export const metadata: Metadata = {
   title: "Build index",
   description:
-    "Every reachable build in the estate, generated from the GitHub and Vercel APIs rather than kept by hand: what each one addresses, what it does, what it runs on, and its honest status.",
+    "Every live tool, guide and tracker RN Collins has built: what each one does, who it’s for and its current status.",
   alternates: { canonical: "/builds" },
 };
 
@@ -39,9 +39,9 @@ export default function BuildIndexPage() {
       <header className="canonicalSubhero shell">
         <p className="eyebrow">Build index · {shippedBuilds.length} shipped · {studioBuilds.length} in the studio · {generated}</p>
         <h1>
-          Three shelves.
+          Everything I’ve built,
           <br />
-          <em>One URL each.</em>
+          <em>with its real status.</em>
         </h1>
         <p>
           Shipped is one project and one production URL. Studio is a real prototype, prelaunch,
@@ -56,7 +56,7 @@ export default function BuildIndexPage() {
         <div className="canonicalSplit">
           <p className="eyebrow">How to read it</p>
           <div>
-            <h2 id="method">Status is the part worth trusting.</h2>
+            <h2 id="method">Each status line comes from the tool itself.</h2>
             <p className="bigcopy">
               Status lines repeat what each build says about itself: a sweep date, a founding
               cohort still forming, a lab that is not legal advice, or a public page that has
@@ -174,7 +174,7 @@ export default function BuildIndexPage() {
 
       <div className="indexBody shell" id="studio">
         <p className="eyebrow">Studio</p>
-        <h2>Real prototypes. No probe addresses.</h2>
+        <h2>Prototypes and paused projects</h2>
         {studioCategories.map((category) => (
           <section className="indexCategory" id={`studio-${category.id}`} key={category.id}>
             <div className="indexCategoryHead">

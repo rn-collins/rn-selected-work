@@ -6,7 +6,7 @@ import { BuildRoster } from "../../../components/build-roster";
 export const metadata: Metadata = {
   title: "Institutions of One",
   description:
-    "Research and systems concerning ownership, portability, independent practice, and institutional legibility — and the builds that currently exist under it.",
+    "Institutions of One is my research on what independent workers own, what they can take with them, and how institutions can read their work. This page lists the tools built under it.",
   alternates: { canonical: "/initiatives/institutions-of-one" },
 };
 
@@ -57,8 +57,8 @@ export default function Page() {
       </section>
 
       <BuildRoster
-        heading="What exists under Institutions of One."
-        intro="The research platform, the public reader that publishes out of it, and the practice-architecture workbench that came out of the same inquiry."
+        heading="What Institutions of One has built so far."
+        intro="The research site, the public reader that publishes from it, and a workbench for organizing your practice that grew out of the same research."
         repos={["ownership-platform", "institutions-of-one-reader", "opfos-firm"]}
       />
 
@@ -66,7 +66,7 @@ export default function Page() {
         <div className="canonicalSplit">
           <p className="eyebrow">Evidence boundary</p>
           <div>
-            <h2>The instruments are candidates, and stay candidates.</h2>
+            <h2>The assessments aren’t validated, and the site says so.</h2>
             <p>
               The Ownership Index and the Portfolio Professional instrument are candidate
               instruments. Neither is validated, normed or activated, and neither should be
@@ -87,7 +87,7 @@ export default function Page() {
                 Read the case study →
               </Link>
               <Link className="button secondary" href="/initiatives/nsag">
-                See the sibling initiative, NSAG →
+                See the related project, NSAG →
               </Link>
             </div>
           </div>

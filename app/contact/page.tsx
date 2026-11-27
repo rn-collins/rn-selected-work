@@ -6,7 +6,7 @@ import { CanonicalPage } from "../../components/canonical-page";
 export const metadata: Metadata = {
   title: "Start a Conversation",
   description:
-    "Begin a conversation with RN about a consequential question, system, or organizational decision — what to send, what happens next, and what does not fit.",
+    "How to start a conversation with RN Collins: what to send, what happens next and what doesn’t fit.",
   alternates: { canonical: "/contact" },
 };
 
@@ -34,8 +34,8 @@ export default function Page() {
           <div>
             <h2>Send the problem in your own words.</h2>
             <ul className="canonicalList">
-              <li>What organisation, system, or group of people is involved?</li>
-              <li>What keeps happening — or keeps failing to happen?</li>
+              <li>Which organization or group of people is involved?</li>
+              <li>What keeps happening, or keeps not happening?</li>
               <li>Why does it matter now, rather than last year?</li>
               <li>What have you already tried, and what did you learn from it?</li>
             </ul>

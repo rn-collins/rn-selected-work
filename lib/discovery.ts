@@ -46,11 +46,11 @@ export function discoveryItems(now=new Date()):DiscoveryItem[] {
  return Array.from(new Map(rows.map(r=>[r.href,r])).values());
 }
 export const pathways=[
- {title:"Enter the concept collection",href:"/ideas",description:"Zero to One: the questions, the connections, and the worlds they become."},
- {title:'Understand how I work',href:'/work',description:'Case studies: the question, the reasoning, and what I made.'},
- {title:'Try something I built',href:'/explore?kind=Build',description:'Tools, observatories, learning resources, and experiments—with their status.'},
+ {title:"Enter the concept collection",href:"/ideas",description:"Proposals, prototypes and paused ideas that aren’t products yet."},
+ {title:'Understand how I work',href:'/work',description:'Six projects in depth: the question, my reasoning and what I made.'},
+ {title:'Try something I built',href:'/explore?kind=Build',description:'Tools, guides and experiments you can open, each with its current status.'},
  {title:'Read across disciplines',href:'/writing',description:'Journalism, design writing, scientific papers, and policy work.'},
- {title:'Follow the evidence',href:'/sources',description:'Research references, original records, and image credits for released work.'},
+ {title:'Follow the evidence',href:'/sources',description:'The studies, source records and image credits behind each post.'},
  {title:'Explore an ongoing inquiry',href:'/initiatives',description:'The larger questions behind Aloha AI and Institutions of One.'},
- {title:'Work with me',href:'/for-organizations',description:'Find a useful starting point for your organization or project.'},
+ {title:'Work with me',href:'/for-organizations',description:'See how a project with me starts, and what to send first.'},
 ];

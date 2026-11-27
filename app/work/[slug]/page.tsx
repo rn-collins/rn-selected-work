@@ -103,7 +103,7 @@ export default async function ProjectPage({
               target="_blank"
               rel="noreferrer"
             >
-              Open live experience ↗
+              Open the site ↗
             </a>
           )}
           {source && (
@@ -187,7 +187,7 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
               {artifact.label} ↗
             </a>
           ))}
-          <Link className="textlink" href="/#build-atlas">Return to all builds →</Link>
+          <Link className="textlink" href="/#build-atlas">See all projects →</Link>
         </div>
       </article>
     </main>

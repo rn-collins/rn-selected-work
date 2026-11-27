@@ -100,7 +100,7 @@ export const accounts: Account[] = [
     intro: "The dossier chapter, the sources behind it, further reading and the collection images, each linked to the original.",
     blurb: "RN Collins' 44 dossiers on how a fashion practice becomes an institution: the sources behind each one, further reading and the collection images with their credits." },
   { key: "psychonaut-bookworm", name: "The Psychonaut Bookworm", timeZone: "Pacific/Honolulu", posts: sorted(psychonautBookworm),
-    intro: "The sources this item names, its long-form draft, and its record in the library's public provenance ledger.",
+    intro: "The sources this piece names, its long-form draft, and its entry in the library’s public provenance ledger.",
     blurb: "Every published object in RN Collins' Psychonaut Bookworm research library: the books and studies it names, its long-form draft and its provenance record." },
 ];
 

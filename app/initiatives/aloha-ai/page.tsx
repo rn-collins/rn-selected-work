@@ -6,7 +6,7 @@ import { BuildRoster } from "../../../components/build-roster";
 export const metadata: Metadata = {
   title: "Aloha AI",
   description:
-    "An RN initiative for AI-specific education, decision support, tools, and implementation work — with the builds that currently exist under it, and their honest status.",
+    "Aloha AI is my practice for AI courses, decision tools and hands-on help for organizations adopting AI. This page lists every tool built under it and its real status.",
   alternates: { canonical: "/initiatives/aloha-ai" },
 };
 
@@ -53,8 +53,8 @@ export default function Page() {
       </section>
 
       <BuildRoster
-        heading="What exists under Aloha AI right now."
-        intro="Each of these was checked and answered at the last regeneration of the build index. Two are prototypes and one is a proposal; they are labelled as such rather than folded into the same present tense as the released tools."
+        heading="What Aloha AI has built so far."
+        intro="Every link below loaded the last time I updated the full list of my builds. Two are prototypes and one is a proposal, and each is labeled that way."
         repos={[
           "aloha-ai-consulting",
           "ai-budget-calc",
@@ -97,7 +97,7 @@ export default function Page() {
             </p>
             <div className="canonicalActions">
               <Link className="button" href="/work/aloha-ai">
-                Read the verified case study →
+                Read the case study →
               </Link>
               <a
                 className="button secondary"
@@ -105,7 +105,7 @@ export default function Page() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Open the current platform ↗
+                Open the Aloha AI site ↗
               </a>
             </div>
           </div>

@@ -11,7 +11,7 @@ export function VerifiedRecord({ build }: { build: Build }) {
     <section className="verifiedRecord" aria-labelledby="verified-record">
       <div className="verifiedRecordHead">
         <p className="eyebrow">Verified build record</p>
-        <h2 id="verified-record">What is actually running, and what it is not.</h2>
+        <h2 id="verified-record">What works today, and what it doesn’t do.</h2>
         <p className={`indexStatus indexStatus--${build.statusKind}`}>
           <span className="indexStatusTag">{statusLabels[build.statusKind]}</span>
           {build.status}

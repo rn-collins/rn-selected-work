@@ -7,7 +7,7 @@ import { builds } from "../../lib/builds";
 export const metadata: Metadata = {
   alternates: { canonical: "/connect" },
   title: "Connect with RN",
-  description: "Contact RN Collins and find her technology builds, selected work, and published writing.",
+  description: "How to reach RN Collins, with links to her tools and published writing.",
 };
 
 export default function ConnectPage() {
@@ -26,7 +26,7 @@ export default function ConnectPage() {
           <p className="eyebrow">Connect with RN</p>
           <h1>RN <em>Collins</em></h1>
           <p className="connectRoles">Neuroscientist, knowledge content creator, and builder. Chair of FlexJD Interests, Student Bar Association, Northeastern University School of Law, Class of 2029.</p>
-          <p className="connectPositioning">I work across—and in between—science, law, technology, culture, and institutions. I connect the dots, reveal the gaps, and build what is missing.</p>
+          <p className="connectPositioning">I work across science, law, technology and culture, and I build what’s missing between them.</p>
           <div className="connectActions" aria-label="Contact options">
             <a className="button" href="https://www.instagram.com/rn_collins/" target="_blank" rel="noreferrer">Instagram DM ↗</a>
             <a className="button secondary" href="https://www.linkedin.com/in/rn-collins" target="_blank" rel="noreferrer">LinkedIn ↗</a>
@@ -47,8 +47,8 @@ export default function ConnectPage() {
 
       <section className="connectSection shell">
         <div className="connectRoutes">
-          <Link href="/#work"><span className="eyebrow">Technology, systems, and case studies</span><h2>Built by RN</h2><p>See the platforms, tools, institutional proposals, and experiments on this site. Private client work is not named. The link opens the work on this site.</p><b>See what I have built →</b></Link>
-          <Link href="/writing"><span className="eyebrow">Editorial and published work</span><h2>Writing by RN</h2><p>Read RN’s reporting, analysis, and public scholarship across neuroscience, cannabis, law, technology, design, and institutions.</p><b>Read my work →</b></Link>
+          <Link href="/#work"><span className="eyebrow">Technology, systems, and case studies</span><h2>Built by RN</h2><p>Tools, proposals and experiments I’ve built, each with its current status.</p><b>See what I have built →</b></Link>
+          <Link href="/writing"><span className="eyebrow">Editorial and published work</span><h2>Writing by RN</h2><p>My reporting and research on neuroscience, cannabis, law, technology and design.</p><b>Read my work →</b></Link>
         </div>
       </section>
 
@@ -56,7 +56,7 @@ export default function ConnectPage() {
         <div className="canonicalSplit">
           <p className="eyebrow">What I actually do</p>
           <div>
-            <h2>Three disciplines, one habit.</h2>
+            <h2>What neuroscience, law and building taught me</h2>
             <p className="bigcopy">
               Neuroscience taught me to ask what observation would show the claim was
               wrong. Law taught me that a source either says the thing or it does not, and
@@ -78,7 +78,7 @@ export default function ConnectPage() {
               have to decide are working from whichever fragment reached them last. The
               deliverable varies. The problem rarely does.
             </p>
-            <Link href="/builds">See the complete build index →</Link>
+            <Link href="/builds">See everything I’ve built →</Link>
           </div>
         </div>
       </section>
@@ -87,7 +87,7 @@ export default function ConnectPage() {
         <div className="canonicalSplit">
           <p className="eyebrow">Working together</p>
           <div>
-            <h2>A message with the situation rather than the brief.</h2>
+            <h2>Start by describing the situation.</h2>
             <p>
               Instagram is the quickest route; LinkedIn is fine for an introduction. What
               helps most in a first message is the situation itself — what keeps happening,
@@ -105,7 +105,7 @@ export default function ConnectPage() {
 
       <footer className="footer">
         <div className="shell footergrid">
-          <div><p className="eyebrow">RN Selected Works</p><h2>Research, writing,<br /><em>systems, and builds.</em></h2></div>
+          <div><p className="eyebrow">RN Selected Works</p><h2>Research, writing,<br /><em>and tools.</em></h2></div>
           <div className="contact"><SocialRow set="rn" /><a href="https://www.linkedin.com/in/rn-collins" target="_blank" rel="noreferrer">LinkedIn ↗</a><Link href="/">Return to RN Selected Works →</Link></div>
         </div>
       </footer>

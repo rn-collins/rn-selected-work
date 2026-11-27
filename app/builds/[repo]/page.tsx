@@ -57,7 +57,7 @@ export default async function BuildPage({ params }: { params: Promise<{ repo: st
             </Link>
           )}
           <Link className="textlink" href={`/builds#${build.category}`}>
-            Return to the build index →
+            See all projects →
           </Link>
         </div>
       </article>

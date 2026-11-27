@@ -9,7 +9,7 @@ import { journalArticles, journalName } from "../../lib/journal-articles";
 import { publicationArchive, publicationCounts } from "../../lib/publication-archive";
 
 const homeDescription =
-  "Questions too messy for a single discipline — research, institutional frameworks, working systems, public resources, and published analysis by RN Collins.";
+  "RN Collins researches questions that cross law, science, technology and Hawaiʻi, then turns them into guides, tools and published writing.";
 
 export const metadata: Metadata = {
   title: "Archive",
@@ -56,9 +56,9 @@ export default function Archive() {
       </header>
       <nav className="pathways shell" aria-label="Choose a path through the portfolio">{pathways.map(p=><Link key={p.href} href={p.href}><h2>{p.title} →</h2><p>{p.description}</p></Link>)}</nav>
       <section className="shell curatedSelection" aria-labelledby="curated-title"><p className="eyebrow">Three ways the disciplines meet</p><h2 id="curated-title">Start with a question.</h2><div className="pathways">
-        <Link href="/work/ownership-platform"><h2>Who owns the value of independent work? →</h2><p>Institutions of One connects research on ownership to a working platform.</p></Link>
-        <Link href="/writing#journal-of-biophilic-design"><h2>How does a space affect a mind? →</h2><p>Writing on neuroscience, architecture, cognitive clarity, and biophilic design.</p></Link>
-        <Link href="/explore?topic=Law+%2B+governance"><h2>What changes when a rule becomes a system? →</h2><p>Follow law and governance through published analysis, case studies, and builds.</p></Link>
+        <Link href="/work/ownership-platform"><h2>Who owns the value of independent work? →</h2><p>Institutions of One: research on who owns an independent career, plus a public site with 41 career profiles.</p></Link>
+        <Link href="/writing#journal-of-biophilic-design"><h2>How does a space affect a mind? →</h2><p>Five Journal of Biophilic Design columns on how rooms, landscapes and wood affect the brain.</p></Link>
+        <Link href="/explore?topic=Law+%2B+governance"><h2>What happens after a law is written? →</h2><p>Follow law and governance through published analysis, case studies, and builds.</p></Link>
       </div></section>
       <section className="method">
         <div className="shell methodgrid">
@@ -110,7 +110,7 @@ export default function Archive() {
       <section id="work" className="work shell">
         <div className="sectionhead">
           <p className="eyebrow">Builds</p>
-          <p>Read the work. Open the build. Follow the evidence.</p>
+          <p>Each one opens live, with a write-up and its sources.</p>
         </div>
         <div className="projects">
           {projects.map((p) => (
@@ -185,7 +185,7 @@ export default function Archive() {
             Read the complete build index <span aria-hidden="true">→</span>
           </Link>
           <p>
-            Six of these carry a longer case study, linked from their entry in the index.
+            Six have a longer case study, linked from their entry.
           </p>
         </div>
       </section>
@@ -219,7 +219,7 @@ export default function Archive() {
               </small>
             </article>
             <article>
-              <h3>Applied governance systems</h3>
+              <h3>Tools from NSAG</h3>
               <p>
                 NSAG’s institutional work is not one website. The links below
                 open the record for each build: governance tools, neuroarchitecture,
@@ -315,7 +315,7 @@ export default function Archive() {
             ...publicationArchive.filter((article) => article.publication === "The Daily Pennsylvanian" && ["Michelle Obama and Jill Biden 'Join Forces' at Penn", "HUP adjusts to implementation of Affordable Care Act", "Nursing students create games to teach about healthcare issues"].includes(article.title)).map((article) => ({ title: article.title, href: article.href, blurb: "Read the full article at The Daily Pennsylvanian." })),
             { title: "Explore all 29 articles", href: "/writing#the-daily-pennsylvanian", blurb: "Health care, education, public policy, business, and campus life." },
           ]} />
-          <Publication title="Research, policy + independent writing" items={[
+          <Publication title="Research, policy and other writing" items={[
             { title: "New Bones Mag", href: "/writing#new-bones-mag", blurb: "Neuroscience and abolition." },
             { title: "Academic papers + policy reports", href: "/writing#mit-science-policy-review", blurb: "MIT Science Policy Review, Academic Radiology, Frontiers in Education, Policy Insights from the Behavioral and Brain Sciences, and Mothers in Science." },
             { title: "POLYMATH", href: "https://polymath-rn-collins.beehiiv.com/", blurb: "Independent essays and the newsletter archive." },
@@ -324,16 +324,16 @@ export default function Archive() {
         <div className="archiveCallout">
           <div>
             <p className="eyebrow">Publication archive</p>
-            <h2>Follow the work across publications.</h2>
+            <h2>See everything I’ve published.</h2>
           </div>
           <div>
             <p>
               {journalArticles.length} Journal of Biophilic Design articles · {publicationCounts["Fat Nugs Magazine"]} Fat Nugs Magazine articles · {publicationCounts["Cannabis Law Report"]} Cannabis Law Report publication records · {publicationCounts["Cannabis Law Journal"]} Cannabis Law Journal editions · {publicationCounts["The Daily Pennsylvanian"]} Daily Pennsylvanian articles.
             </p>
             <p className="archiveNote">
-              Checked October 17, 2026. Includes academic papers, policy work, and a thesis. Separate editions and republications are labeled; unindexed and print-only work may still be missing.
+              Last checked October 17, 2026. Includes academic papers, policy reports and a thesis. Reprints are labeled. Print-only work may be missing.
             </p>
-            <Link className="button" href="/writing">Browse the publication archive →</Link>
+            <Link className="button" href="/writing">See all published work →</Link>
           </div>
         </div>
       </section>

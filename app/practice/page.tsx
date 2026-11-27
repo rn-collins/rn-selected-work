@@ -5,26 +5,26 @@ import { CanonicalPage } from "../../components/canonical-page";
 export const metadata: Metadata = {
   title: "Practice",
   description:
-    "How RN studies systems, identifies the consequential break, and chooses the form the work should take — brief, evidence system, curriculum, prototype, or working tool.",
+    "How RN Collins studies a problem, finds what’s really broken and picks what to make: a brief, a guide, a course, a prototype or a working tool.",
   alternates: { canonical: "/practice" },
 };
 
 const stages = [
   {
     title: "Study the system",
-    text: "Read the organisation, the field, or the process as it actually operates rather than as its documentation describes it. This is where most of the time goes, and it is the part that cannot be skipped without producing confident work about the wrong problem.",
+    text: "I read the organization, field or process as it really runs, not as its documents describe it. This takes the most time, and skipping it produces confident work on the wrong problem.",
   },
   {
-    title: "Find the consequential break",
-    text: "Not every gap matters. The one that matters is the one that keeps producing the symptom people are complaining about, and it is frequently not where the complaint points. Naming it precisely is most of the value; everything after is execution.",
+    title: "Find what’s really broken",
+    text: "Not every gap matters. The one that does keeps causing the symptom people complain about, and it’s often not where the complaint points. Naming it precisely is most of the value.",
   },
   {
-    title: "Make it concrete and visible",
-    text: "A break that can only be described in a meeting will be re-argued in the next meeting. Making it visible — as a map, a ledger, a scored assessment, a worked example — is what converts a recurring disagreement into a decision someone can actually take.",
+    title: "Make it visible",
+    text: "A problem described only in a meeting gets re-argued at the next one. Showing it as a map, a log, a scored assessment or a worked example turns a recurring argument into a decision someone can make.",
   },
   {
     title: "Build what can be tested",
-    text: "The output is chosen last, from the problem. Sometimes a decision brief. Sometimes an evidence system, a strategy, a curriculum, a prototype, a working tool, a facilitated inquiry, or an implementation plan. Whatever it is, it should be possible to find out whether it worked.",
+    text: "I pick the format last, from the problem: a decision brief, a strategy, a course, a prototype, a working tool, a facilitated session or a plan. Whatever it is, you should be able to tell whether it worked.",
   },
 ];
 
@@ -51,7 +51,7 @@ export default function Page() {
             <p className="eyebrow">The method</p>
             <h2>Four steps, in this order.</h2>
           </div>
-          <p>The order is the method. Reversing any two of these produces a deliverable in search of a problem.</p>
+          <p>The order matters. Swap any two steps and you get a deliverable looking for a problem.</p>
         </div>
         <ol className="stageList">
           {stages.map((stage, index) => (
@@ -70,7 +70,7 @@ export default function Page() {
         <div className="shell canonicalSplit">
           <p className="eyebrow">Why the form varies</p>
           <div>
-            <h2>I do not force every problem into the same consulting package.</h2>
+            <h2>I don’t force every problem into the same package.</h2>
             <p className="bigcopy">
               A practice that only sells one shape of engagement will find that every
               client turns out to need that shape. The alternative is to determine first
@@ -85,7 +85,7 @@ export default function Page() {
               transmitted it. The variation is not eclecticism. It is the consequence of
               letting the constraint pick the form.
             </p>
-            <Link href="/builds">See the range in the build index →</Link>
+            <Link href="/builds">See everything I’ve built →</Link>
           </div>
         </div>
       </section>
@@ -109,7 +109,7 @@ export default function Page() {
             <div className="canonicalActions">
               <Link className="button" href="/contact">Bring me the problem →</Link>
               <Link className="button secondary" href="/for-organizations">
-                How an engagement begins →
+                How a project starts →
               </Link>
             </div>
           </div>

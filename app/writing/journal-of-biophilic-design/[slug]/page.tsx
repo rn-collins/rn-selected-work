@@ -81,7 +81,7 @@ export default async function JournalArticlePage({ params }: { params: Promise<{
         {a.references.length > 0 ? (
           <section className={styles.refs} aria-labelledby="references">
             <h2 id="references">References as printed</h2>
-            <p className={styles.refnote}>Citations below preserve the publication record. Sources supporting amendments appear beside each corrected passage. Verified replacement links are identified below. Unverified or mismatched links are withheld. These verification notes are additions to this web edition.</p>
+            <p className={styles.refnote}>The references below are as printed. Where I corrected a passage, its source sits beside it. Checked replacement links are marked. Links I couldn’t check, or that point to the wrong work, are left out. These notes are new to the web edition.</p>
             <ol>
               {a.references.map((r) => (
                 <li key={r}>{linkify(r)}</li>
@@ -106,7 +106,7 @@ const fixes = linkFixes.links as Record<string, string | null>;
 type Amendment = { section: number; original: string; text: string; reason: string; sources: { label: string; url: string; note?: string }[] };
 function AmendmentNote({ change }: { change: Amendment }) {
   return <details className={styles.amendment}>
-    <summary>Web edition correction · 18 October 2026 · sources and original wording</summary>
+    <summary>Web edition correction · October 18, 2026 · sources and original wording</summary>
     <p>{change.reason}</p>
     {change.sources.length ? <ul>{change.sources.map((source) => <li key={source.url}><a href={source.url} target="_blank" rel="noreferrer">{source.label}</a>{source.note ? ` — ${source.note}` : ""}</li>)}</ul> : null}
     <p><strong>As first published</strong></p>
