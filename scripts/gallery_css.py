@@ -154,6 +154,7 @@ h1 .x{position:relative;white-space:nowrap}
 .outs{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:36px}
 .outs div{background:var(--paper);border:3px solid var(--ink);padding:18px 20px;box-shadow:8px 8px 0 var(--ink);transform:rotate(var(--r))}
 .outs b{font:800 76px/1 'Playfair Display',serif;display:block;letter-spacing:-.04em}
+.track .lobbyvid{width:100%;height:100%;object-fit:cover;margin:0;border:0;box-shadow:none}
 .howvid{width:min(100%,380px);margin-top:28px;border:3px solid var(--ink);box-shadow:8px 8px 0 var(--ink)}
 .also{margin:26px 0 0;font-size:16px;max-width:70ch}
 .receipts{background:var(--paper);padding:90px 0;border-top:6px solid var(--ink)}
