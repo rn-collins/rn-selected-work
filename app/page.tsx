@@ -113,7 +113,8 @@ export default function Home() {
           <p>Read the work. Open the build. Follow the evidence.</p>
         </div>
         <div className="projects">
-          {projects.map((p) => (
+          {/* Release-blocked concepts stay off the home page (coordinator pitch audit, Nov 27, 2026); they keep their own pages. */}
+          {projects.filter((p) => !/release-blocked/i.test(p.status)).map((p) => (
             <article className="project" key={p.slug}>
               <div className="projecttop">
                 <span className="num">{p.number}</span>
