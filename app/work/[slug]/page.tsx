@@ -2,7 +2,7 @@ import { publicSourceLink } from "../../../lib/source-links";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { getProject, projects } from "../../../lib/portfolio";
+import { canPromoteProject, getProject, projects } from "../../../lib/portfolio";
 import { getPublicBuild, publicBuilds } from "../../../lib/public-builds";
 import { VerifiedRecord } from "../../../components/verified-record";
 import { LivePreview } from "../../../components/live-preview";
@@ -37,7 +37,8 @@ export default async function ProjectPage({
   const p = getProject(slug);
   const build = getPublicBuild(slug);
   const projectRecord = buildByCaseStudy.get(slug);
-  const source = publicSourceLink(p?.repo || projectRecord?.repoUrl, p?.live);
+  const promote = p ? canPromoteProject(p) : false;
+  const source = promote ? publicSourceLink(p?.repo || projectRecord?.repoUrl, p?.live) : undefined;
   if (build) return <PublicBuildCase build={build} />;
   if (!p)
     return (
@@ -63,10 +64,10 @@ export default async function ProjectPage({
         <h1>{p.title}</h1>
         <p className="caseStatus">{p.status}</p>
         <p className="caseThesis">{p.thesis}</p>
-        {p.live ? (
+        {promote && p.live ? (
           <LivePreview url={p.live} title={p.shortTitle || p.title} />
         ) : (
-          p.image && (
+          promote && p.image && (
             <div className="caseImage">
               <Image
                 src={p.image}
@@ -94,7 +95,8 @@ export default async function ProjectPage({
           </aside>
         )}
         <div className="caseActions">
-          {p.live && (
+          {!promote && <p className="availability">Public artifact links and previews are held pending release review.</p>}
+          {promote && p.live && (
             <a
               className="button"
               href={p.live}

@@ -13,6 +13,7 @@ export type Project = {
   built: string;
   serves: string;
   demonstrates: string;
+  releaseHeld?: boolean;
   live?: string;
   repo?: string;
   image?: string;
@@ -100,6 +101,7 @@ export const projects: Project[] = [
   },
   {
     slug: "buechler-pacific",
+    releaseHeld: true,
     number: "04",
     kind: "Organization-specific concept build",
     title: "Claude for Small Business",
@@ -127,6 +129,7 @@ export const projects: Project[] = [
   },
   {
     slug: "keiki-robotics",
+    releaseHeld: true,
     number: "05",
     kind: "Organization-specific concept build",
     title: "Keiki Robotics / Oʻahu AI",
@@ -263,4 +266,9 @@ export const writing = {
 
 export function getProject(slug: string) {
   return projects.find((project) => project.slug === slug);
+}
+
+/** A responding public URL does not override an existing release hold. */
+export function canPromoteProject(project: Project): boolean {
+  return project.releaseHeld !== true && !/release[- ]blocked/i.test(project.status);
 }

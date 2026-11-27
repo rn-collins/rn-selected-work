@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: "Work selected for its relevance to Culturalyst's ecosystem questions.",
   alternates: { canonical: "/for/culturalyst/work" },
 };
-import { projects } from "../../../../lib/portfolio";
+import { canPromoteProject, projects } from "../../../../lib/portfolio";
 
 const selections = [
   {
@@ -19,7 +19,7 @@ const selections = [
   },
   {
     slug: "keiki-robotics",
-    why: "Keiki Robotics shows RN translating a one-time Hawaiʻi technology event into a durable pathway for children, families, educators, and local organizations.",
+    why: "An independently initiated static family guide shows RN translating robotics concepts for Hawaiʻi families. It is an early resource concept, not a maintained pathway, enrollment service or official event resource.",
   },
 ].map((item) => ({ ...item, project: projects.find((project) => project.slug === item.slug)! }));
 
@@ -30,7 +30,7 @@ const widerPortfolio = [
   },
   {
     slug: "buechler-pacific",
-    why: "An independently initiated organization-specific concept showing how RN studies a business from public information, identifies field-work friction, and makes a tailored AI workflow concrete enough to evaluate.",
+    why: "A generic static Claude product guide shows RN explaining possible AI workflows and review boundaries in plain language. Its concept lineage does not establish business-specific tailoring, a working integration or an organizational relationship.",
   },
   {
     slug: "patent-first-steps",
@@ -52,11 +52,13 @@ export default function CulturalystWork() {
           <article className="recipientWork" key={project.slug}>
             <p className="eyebrow">0{index + 1} · {project.kind}</p>
             <h2>{project.title}</h2>
+            <p className="caseStatus">{project.status}</p>
             <p className="recipientWhy">{why}</p>
             <p>{project.demonstrates}</p>
             <div className="atlasActions">
               <Link href={`/work/${project.slug}`}>Read case study →</Link>
-              {project.live && <a href={project.live} target="_blank" rel="noreferrer">Open live build ↗</a>}
+              {!canPromoteProject(project) && <span className="availability">Public artifact link held pending release review</span>}
+              {canPromoteProject(project) && project.live && <a href={project.live} target="_blank" rel="noreferrer">Open live build ↗</a>}
             </div>
           </article>
         ))}
@@ -71,11 +73,13 @@ export default function CulturalystWork() {
           <article className="recipientWork" key={project.slug}>
             <p className="eyebrow">0{index + 4} · {project.kind}</p>
             <h2>{project.title}</h2>
+            <p className="caseStatus">{project.status}</p>
             <p className="recipientWhy">{why}</p>
             <p>{project.demonstrates}</p>
             <div className="atlasActions">
               <Link href={`/work/${project.slug}`}>Read case study →</Link>
-              {project.live && <a href={project.live} target="_blank" rel="noreferrer">Open live build ↗</a>}
+              {!canPromoteProject(project) && <span className="availability">Public artifact link held pending release review</span>}
+              {canPromoteProject(project) && project.live && <a href={project.live} target="_blank" rel="noreferrer">Open live build ↗</a>}
             </div>
           </article>
         ))}
