@@ -807,7 +807,7 @@ export const buildNotes: BuildNote[] = [
     repo: "ask-a-neuroscientist-fashion",
     title: "The Dressed Nervous System",
     category: "atlases",
-    status: "Live · seven rooms, fifty sourced findings",
+    status: "Live · seven rooms, sourced findings",
     statusKind: "live",
     problem:
       "Clothing and the nervous system is a subject that rewards a confident sentence and punishes a careful one. The striking findings — that a garment measurably changes how you think — are the ones that travelled furthest and replicated worst, and popular writing repeats them in the same voice it uses for the settled material.",

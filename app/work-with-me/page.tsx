@@ -92,11 +92,11 @@ export default function WorkWithMePage() {
           <h2 id="ddw" className={s.label}>Case study</h2>
           <div className={s.prose}>
             <p className={s.headline}>Dutch Design Week 2026, Eindhoven</p>
-            <p>Dutch Design Week ran from October 17 to 25, 2026. I covered it for Ask a Neuroscientist: the design, science and health work on show, explained through what it does to the brain and body, with every claim sourced.</p>
+            <p>Dutch Design Week ran from October 17 to 25, 2026. I covered it for Ask a Neuroscientist: the design, science and health work on show, explained through what it does to the brain and body, with each claim linked to its source.</p>
             <p>What I captured: photo and video on three camera cards and an iPhone, recorded interviews with makers, and stills chosen for each exhibit, across the venues of the festival.</p>
             <p>How: one shot list per venue, makers credited by name, visitors kept out of frame unless they agreed, and interviews transcribed so every quote is checked against the recording.</p>
             <p className={s.evidence}>
-              {ddwAll.length} posts, each with a public sources page, from {longDate(ddwAll[0].date)} to {longDate(ddwAll[ddwAll.length - 1].date)}. They appear here as they go live.
+              {ddwAll.length} posts, each with a public sources page, scheduled through {longDate(ddwAll[ddwAll.length - 1].date)}. They appear here as they go live.
             </p>
             {ddw.length ? (
               <ul className={s.tiles}>
