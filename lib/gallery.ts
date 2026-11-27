@@ -3,6 +3,7 @@
 // in Hawaii; a preview deployment shows everything, marked "Preview", so RN can review the rooms early.
 import { hawaiiToday } from "./releases";
 import { publicationCounts } from "./publication-archive";
+import reelData from "../data/gallery-reels.json";
 
 export type Dated = { date: string };
 export const isPreviewDeploy = process.env.VERCEL_ENV === "preview" || process.env.NODE_ENV === "development";
@@ -56,17 +57,15 @@ export const sites = [
   { host: "keiki-robotics-oahu-ai", title: "Keiki Robotics, Oʻahu", medium: "2026 · parent guide", note: "How to get your kid into competitive robotics on Oʻahu.", frame: "blue", size: "c6" },
 ];
 
-// Room 4, Screening room: Ask a Neuroscientist video only (RN, Nov 27: no Aloha AI reels here): motion pieces, the
-// slideshow Reel, carousels set in motion from their own slides, and Reel stills until the Reel files arrive.
-export const channels = [
-  { kind: "video", src: "/gallery/video/claim-check.mp4", poster: "/gallery/video/claim-check.jpg", title: "Every claim, read in full", medium: "2026 · motion piece, 12 s", date: "2026-11-01" },
-  { kind: "video", src: "/review/mjbizcon-2026-for-fat-nugs/video/mjbpre02-slideshow.mp4", poster: "", title: "What is MJBizCon?", medium: "2026 · slideshow Reel", date: "2026-11-30" },
-  { kind: "video", src: "/gallery/video/carousel-mjbyb07.mp4", poster: "/gallery/video/carousel-mjbyb07-poster.webp", title: "The first-night effect", medium: "2026 · carousel in motion, 7 slides", date: "2026-12-01" },
-  { kind: "video", src: "/gallery/video/carousel-pdft01.mp4", poster: "/gallery/video/carousel-pdft01-poster.webp", title: "Faces in things", medium: "2026 · carousel in motion, 6 slides", date: "2026-12-04" },
-  { kind: "video", src: "/gallery/video/carousel-mj04.mp4", poster: "/gallery/video/carousel-mj04-poster.webp", title: "Do terpenes change your mood?", medium: "2026 · carousel in motion, 7 slides", date: "2026-12-04" },
-  { kind: "still", src: "/gallery/reel/pda01.webp", title: "What awe does to your body", medium: "Reel", date: "2026-12-10" },
-  { kind: "still", src: "/gallery/reel/p367.webp", title: "Why you forget things at the door", medium: "Reel", date: "2026-12-16" },
-  { kind: "still", src: "/gallery/reel/pdl01.webp", title: "Reading the 1960s poster", medium: "Reel", date: "2026-12-15" },
+// Room 4, Screening room: Ask a Neuroscientist video only (RN, Nov 27; no Aloha AI reels here). The studio's motion
+// piece, then every released Reel, newest first, from data/gallery-reels.json (web copies on Vercel Blob, with sound).
+export type Channel = { kind: "video" | "still"; src: string; poster?: string; title: string; medium: string; date: string; music?: string };
+const studioPiece: Channel = { kind: "video", src: "/gallery/video/claim-check.mp4", poster: "/gallery/video/claim-check.jpg", title: "Every claim, read in full", medium: "2026 · motion piece, 12 s", date: "2026-11-01" };
+export const channels: Channel[] = [
+  studioPiece,
+  ...(reelData.reels as { lane: string; date: string; title: string; medium: string; src: string; poster: string; music: string }[])
+    .filter((r) => r.lane === "reel").slice().reverse()
+    .map((r) => ({ kind: "video" as const, src: r.src, poster: r.poster || undefined, title: r.title, medium: r.medium, date: r.date, music: r.music })),
 ];
 
 // Room 5, TL;DR: zines (open on their release day) and publication counts from the archive.

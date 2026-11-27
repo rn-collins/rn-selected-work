@@ -134,10 +134,12 @@ h1 .x{position:relative;white-space:nowrap}
 .chbtn{display:flex;gap:12px;align-items:center;margin-top:20px;background:none;border:0;color:var(--paper);cursor:pointer;font:500 13px 'IBM Plex Mono',monospace;text-transform:uppercase;letter-spacing:.08em}
 .chbtn .knob{transition:transform .3s;width:46px;height:46px;border-width:4px;position:relative}
 .chbtn .knob:after{content:"";position:absolute;left:50%;top:3px;width:4px;height:14px;background:#ddd;margin-left:-2px}
+.music{color:#aab;margin:14px 0 0;max-width:46ch;min-height:2.9em}
+.bigtv .screen video{object-fit:contain}
 .wall8{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
 .mini{background:#262626;border-radius:16px;padding:10px 10px 14px;border:3px solid #000;position:relative;cursor:pointer;text-align:left;color:var(--paper)}
 .mini .s{display:block;border-radius:10px/16px;overflow:hidden;aspect-ratio:4/3;position:relative;background:#000}
-.mini img,.mini video{width:100%;height:100%;object-fit:cover;transition:transform .3s}
+.mini img,.mini video{width:100%;height:100%;object-fit:cover;object-position:50% 30%;transition:transform .3s}
 .mini:hover img,.mini:hover video{transform:scale(1.05)}
 .mini .s:after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(0deg,rgba(0,0,0,.18) 0 2px,transparent 2px 4px)}
 .mini em{position:absolute;right:8px;bottom:6px;z-index:2;font-style:normal;color:var(--lime);font-size:20px}

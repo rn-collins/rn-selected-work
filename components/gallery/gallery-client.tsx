@@ -23,6 +23,7 @@ export function GalleryClient() {
     snd?.addEventListener("click", () => {
       soundOn = !soundOn; snd.setAttribute("aria-pressed", String(soundOn)); snd.textContent = soundOn ? "Sound on" : "Sound off";
       play("chime-clock-bell-01", 0.25);
+      const tvv = root.querySelector<HTMLVideoElement>(".bigtv video"); if (tvv) { tvv.muted = !soundOn; if (soundOn) tvv.play().catch(() => {}); }
     });
 
     // Reveal on scroll, and the marker underline drawing in.
@@ -107,7 +108,7 @@ export function GalleryClient() {
     // Screening room: channels with static between them.
     const scr = root.querySelector<HTMLElement>(".bigtv .screen");
     if (scr) {
-      const chans: [string, string, string, string][] = JSON.parse(scr.dataset.channels || "[]");
+      const chans: [string, string, string, string, string][] = JSON.parse(scr.dataset.channels || "[]");
       const st = scr.querySelector<HTMLElement>(".static")!, cap = scr.querySelector<HTMLElement>(".cap")!, chn = scr.querySelector<HTMLElement>(".ch")!;
       const kn = root.querySelector<HTMLElement>(".chbtn .knob");
       let ci = 0, rot = 0;
@@ -115,9 +116,9 @@ export function GalleryClient() {
         ci = (i + chans.length) % chans.length; rot += 45; if (kn) kn.style.transform = `rotate(${rot}deg)`;
         st.classList.remove("go"); void st.offsetWidth; st.classList.add("go"); play("click-rotary-dial-01", 0.5);
         window.setTimeout(() => {
-          const [kind, src, title, poster] = chans[ci];
+          const [kind, src, title, poster, music] = chans[ci]; const mu = root.querySelector<HTMLElement>(".music"); if (mu) mu.textContent = music;
           const old = scr.querySelector("video,img"); const el = kind === "video" ? document.createElement("video") : document.createElement("img");
-          if (el instanceof HTMLVideoElement) { el.muted = true; el.playsInline = true; el.loop = true; el.autoplay = !rm; if (poster) el.poster = poster; }
+          if (el instanceof HTMLVideoElement) { el.muted = !soundOn; el.playsInline = true; el.loop = true; el.autoplay = !rm; if (poster) el.poster = poster; }
           el.src = src; old?.replaceWith(el); if (el instanceof HTMLVideoElement && !rm) el.play().catch(() => {}); cap.textContent = title; chn.textContent = "CH " + String(ci + 3).padStart(2, "0");
         }, 140);
       };

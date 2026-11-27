@@ -195,7 +195,7 @@ export function Gallery() {
             <h2>Now playing.</h2>
             <div className="bigtv">
               <div className="tv">
-                <div className="screen" data-channels={JSON.stringify(ch.map((c) => [c.kind, c.src, c.title, c.poster ?? ""]))}>
+                <div className="screen" data-channels={JSON.stringify(ch.map((c) => [c.kind, c.src, c.title, c.poster ?? "", c.music ?? ""]))}>
                   {ch[0].kind === "video"
                     ? <video src={ch[0].src} poster={ch[0].poster || undefined} muted playsInline loop autoPlay preload="metadata" />
                     : <img src={ch[0].src} alt="" />}
@@ -204,14 +204,15 @@ export function Gallery() {
                 <span className="grill" /><span className="knobs"><i /></span>
               </div>
               <div>
-                <p className="lede">Motion pieces and Reels, made from the research. Change the channel, or tap a screen below to put it on the big one.</p>
+                <p className="lede">Every Ask a Neuroscientist post becomes a Reel. Change the channel, or tap a screen below to put it on the big one. Press Sound on, up top, to hear it.</p>
                 <button className="chbtn" type="button"><span className="knob" />Change the channel</button>
+                <p className="music mono">{ch[0].music ?? ""}</p>
               </div>
             </div>
             <div className="wall8">
-              {ch.map((c, k) => (
+              {ch.slice(0, 8).map((c, k) => (
                 <button type="button" className="mini reveal" data-ch={k} key={c.src}>
-                  <span className="s">{c.kind === "video" ? (c.poster ? <img src={c.poster} alt="" loading="lazy" /> : <video src={c.src} muted playsInline preload="metadata" />) : <img src={c.src} alt="" loading="lazy" />}{c.kind === "video" && <em>▶</em>}</span>
+                  <span className="s">{c.kind === "video" ? <video src={`${c.src}#t=4`} muted playsInline preload="metadata" aria-hidden="true" /> : <img src={c.src} alt="" loading="lazy" />}{c.kind === "video" && <em>▶</em>}</span>
                   <span className="t">{c.title}</span><span className="mono">{c.medium}</span><Pre on={later(c.date)} />
                 </button>
               ))}

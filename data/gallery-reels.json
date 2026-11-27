@@ -1,0 +1,315 @@
+{
+ "about": "Ask a Neuroscientist Reels for the Gallery's screening room. Built Nov 27, 2026 from aan-studio/site-data/reel-video-urls.json (web copies on Vercel Blob), reel-sound-credits.json (music, status used only) and ddw/slideshow_plan.json (slideshow dates). Each shows from its own date in Hawaii.",
+ "reels": [
+  {
+   "id": "MJBPRE02",
+   "lane": "reel",
+   "date": "2026-11-30",
+   "title": "What is MJBizCon?",
+   "medium": "2026 · Reel, 38 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-11-30-MJBPRE02-reel-720-fcpbSkGyaxfuRfFNA82EH7J8DKvEVY.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Wolfgang Amadeus Mozart · String Quartet No. 15 in D minor, K. 421 · 3. Menuetto: Allegretto (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJBPRE02",
+   "lane": "slideshow",
+   "date": "2026-12-02",
+   "title": "What is MJBizCon?",
+   "medium": "2026 · Slideshow Reel, 26 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-11-30-MJBPRE02-slideshow-720-6B2R5SWDamdk4B2YfntkwotZJp8WVW.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Joseph Haydn · String Quartet in D major, Op. 64 No. 5, \"Lark\" · 4. Finale: Vivace (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJBYB12",
+   "lane": "reel",
+   "date": "2026-11-30",
+   "title": "Smell adaptation",
+   "medium": "2026 · Reel, 37 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-11-30-MJBYB12-reel-720-12AT75ZbQYvES5noSiN7pUJP0K5sQ3.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Franz Schubert · Piano Sonata in E-flat major, D. 568 · 3. Menuetto: Allegretto (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJBYB12",
+   "lane": "slideshow",
+   "date": "2026-12-03",
+   "title": "Smell adaptation",
+   "medium": "2026 · Slideshow Reel, 29 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-11-30-MJBYB12-slideshow-720-fxa9Hf9uevS3SmnhPBWDWBXRsT00Bx.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Franz Schubert · Piano Sonata in A major, D. 664 · 2. Andante (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJ01",
+   "lane": "reel",
+   "date": "2026-12-01",
+   "title": "Your body's own cannabinoids",
+   "medium": "2026 · Reel, 40 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-01-MJ01-reel-720-dsWbrN2tcYcDeTsevvOBc8aQfgbWYc.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Felix Mendelssohn · Symphony No. 4 in A major, Op. 90, \"Italian\" · 2. Andante con moto (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJ01",
+   "lane": "slideshow",
+   "date": "2026-12-12",
+   "title": "Your body's own cannabinoids",
+   "medium": "2026 · Slideshow Reel, 29 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-01-MJ01-slideshow-720-rZs3g68PcmA9e8sgHRpADIKpufyUre.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Felix Mendelssohn · Symphony No. 4 in A major, Op. 90, \"Italian\" · 3. Con moto moderato (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJBYB07",
+   "lane": "reel",
+   "date": "2026-12-01",
+   "title": "The first-night effect",
+   "medium": "2026 · Reel, 34 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-01-MJBYB07-reel-720-xcIU6PHQ3ElxU51plNwDU8EFcNl9Uz.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Antonín Dvořák · String Quartet No. 10 in E-flat major, Op. 51 · 3. Romanza (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJBYB07",
+   "lane": "slideshow",
+   "date": "2026-12-04",
+   "title": "The first-night effect",
+   "medium": "2026 · Slideshow Reel, 24 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-01-MJBYB07-slideshow-720-GW2NfaKjYsQDGowEzMwcHZMXFbQSk0.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Wolfgang Amadeus Mozart · String Quartet No. 19 in C major, K. 465, \"Dissonance\" · 2. Andante cantabile (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJ02",
+   "lane": "reel",
+   "date": "2026-12-02",
+   "title": "Noise, choices and long days standing",
+   "medium": "2026 · Reel, 41 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-02-MJ02-reel-720-04j2N7sOuT07WXw1WeBAQwHX79V07q.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Alexander Borodin · String Quartet No. 2 in D major · 4. Finale: Andante, Vivace (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJ02",
+   "lane": "slideshow",
+   "date": "2026-12-06",
+   "title": "Noise, choices and long days standing",
+   "medium": "2026 · Slideshow Reel, 27 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-02-MJ02-slideshow-720-OaYdb7Mwk3Qw4o48HwKoadCQYoOzHr.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Wolfgang Amadeus Mozart · String Quartet No. 15 in D minor, K. 421 · 2. Andante (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJBYB06",
+   "lane": "reel",
+   "date": "2026-12-02",
+   "title": "Jet lag",
+   "medium": "2026 · Reel, 41 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-02-MJBYB06-reel-720-vJgv5TOdvhCIWKwuYC04hrGQezDQ4O.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Johann Sebastian Bach · Goldberg Variations, BWV 988 · Aria (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJBYB06",
+   "lane": "slideshow",
+   "date": "2026-12-05",
+   "title": "Jet lag",
+   "medium": "2026 · Slideshow Reel, 25 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-02-MJBYB06-slideshow-720-02cNpzws2bgFV4Zd4iCexc3x5vl776.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Joseph Haydn · String Quartet in D major, Op. 64 No. 5, \"Lark\" · 2. Adagio cantabile (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJ03",
+   "lane": "reel",
+   "date": "2026-12-03",
+   "title": "CBD as a medicine",
+   "medium": "2026 · Reel, 39 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-03-MJ03-reel-720-ZIkxHZEKVYSNOemcmZA6lJtgKfahGq.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Johannes Brahms · Symphony No. 1 in C minor, Op. 68 · 3. Un poco allegretto e grazioso (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJ03",
+   "lane": "slideshow",
+   "date": "2026-12-17",
+   "title": "CBD as a medicine",
+   "medium": "2026 · Slideshow Reel, 30 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-03-MJ03-slideshow-720-vV69Borh3ULImcgTe6lQs5KhTgenkC.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Wolfgang Amadeus Mozart · String Quartet No. 15 in D minor, K. 421 · 4. Allegro ma non troppo (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJBEX14",
+   "lane": "reel",
+   "date": "2026-12-03",
+   "title": "A first-timer's guide to a big trade show, brain edition",
+   "medium": "2026 · Reel, 38 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-03-MJBEX14-reel-720-9SNRCI6m6RXTj9CdUZKRhGcy37BOWT.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Edvard Grieg · Peer Gynt Suite No. 1, Op. 46 · 1. Morning (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJBEX14",
+   "lane": "slideshow",
+   "date": "2026-12-07",
+   "title": "A first-timer's guide to a big trade show, brain edition",
+   "medium": "2026 · Slideshow Reel, 29 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-03-MJBEX14-slideshow-720-4l4Tw2IYIiUPQxrzR8GCng05qexMde.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Franz Schubert · Piano Sonata in A major, D. 959 · 2. Andantino (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJ04",
+   "lane": "reel",
+   "date": "2026-12-04",
+   "title": "Do terpenes change your mood?",
+   "medium": "2026 · Reel, 37 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-04-MJ04-reel-720-RQ4oXhJ24AzndFVoNOnufokg296Zyv.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Ludwig van Beethoven · String Quartet No. 6 in B-flat major, Op. 18 No. 6 · 2. Adagio ma non troppo (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJ04",
+   "lane": "slideshow",
+   "date": "2026-12-19",
+   "title": "Do terpenes change your mood?",
+   "medium": "2026 · Slideshow Reel, 30 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-04-MJ04-slideshow-720-EsAEanvxJXGFkMbtoYbqqUIAWTzgpz.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Franz Schubert · Piano Sonata in E-flat major, D. 568 · 4. Allegro moderato (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "PDFT01",
+   "lane": "reel",
+   "date": "2026-12-04",
+   "title": "Faces in things",
+   "medium": "2026 · Reel, 39 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-04-PDFT01-reel-720-uOBg4SpLvvWtY5aZNB5kJVrVD98Ted.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Edvard Grieg · Peer Gynt Suite No. 1, Op. 46 · 3. Anitra's Dance (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "PDFT01",
+   "lane": "slideshow",
+   "date": "2026-12-08",
+   "title": "Faces in things",
+   "medium": "2026 · Slideshow Reel, 30 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-04-PDFT01-slideshow-720-WUaQug9hQJ8usmVQ6OIIlsasfij4YJ.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Franz Schubert · Piano Sonata in A minor, D. 845 · 3. Scherzo: Allegro vivace, Trio: Un poco più lento (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJ05",
+   "lane": "reel",
+   "date": "2026-12-05",
+   "title": "What cannabis science still does not know",
+   "medium": "2026 · Reel, 41 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-05-MJ05-reel-720-kAmlisUAp5CpOvlaPRzKtECUtSHVFO.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Franz Schubert · Piano Sonata in A major, D. 664 · 3. Allegro (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "MJ05",
+   "lane": "slideshow",
+   "date": "2026-12-29",
+   "title": "What cannabis science still does not know",
+   "medium": "2026 · Slideshow Reel, 29 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-05-MJ05-slideshow-720-JRZo45WZFAnIeLj3RiILNeevy1HeGl.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Johann Sebastian Bach · Goldberg Variations, BWV 988 · Variation 26 (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "PDS01",
+   "lane": "reel",
+   "date": "2026-12-05",
+   "title": "How does your brain map a building?",
+   "medium": "2026 · Reel, 45 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-05-PDS01-reel-720-ZqQyVhcgBxIBw7owxf0VJrER3CdsWf.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Antonín Dvořák · String Quartet No. 12 in F major, Op. 96, \"American\" · 2. Lento (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "PDS01",
+   "lane": "slideshow",
+   "date": "2026-12-09",
+   "title": "How does your brain map a building?",
+   "medium": "2026 · Slideshow Reel, 25 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-05-PDS01-slideshow-720-KR9cD3dmQL5R0BuOomRYPmnYZcm62M.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Alexander Borodin · String Quartet No. 1 in A major · 2. Andante con moto (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "FA03",
+   "lane": "reel",
+   "date": "2026-12-06",
+   "title": "Your skin cannot read a fiber label",
+   "medium": "2026 · Reel, 35 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-06-FA03-reel-720-g9qO9EY0hBL1ZDFsZAtFcb2MfQE4c1.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Franz Schubert · Piano Sonata in E-flat major, D. 568 · 2. Andante molto (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "FA03",
+   "lane": "slideshow",
+   "date": "2026-12-11",
+   "title": "Your skin cannot read a fiber label",
+   "medium": "2026 · Slideshow Reel, 26 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-06-FA03-slideshow-720-i4U8LNUzMDyBVbishcqyflg23jEp22.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Antonín Dvořák · String Quartet No. 10 in E-flat major, Op. 51 · 2. Dumka (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "PDM01",
+   "lane": "reel",
+   "date": "2026-12-06",
+   "title": "How music moves the brain",
+   "medium": "2026 · Reel, 33 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-06-PDM01-reel-720-OTnHsQQutUIKGd73hgWqH83woIYEkw.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Franz Schubert · Piano Sonata in D major, D. 850 · 2. Con moto (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "PDM01",
+   "lane": "slideshow",
+   "date": "2026-12-10",
+   "title": "How music moves the brain",
+   "medium": "2026 · Slideshow Reel, 30 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-06-PDM01-slideshow-720-xRmvzhhjjl8LiRkN1sJWE1UJ7IA2di.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Bedřich Smetana · Má vlast · Vltava (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "CV14",
+   "lane": "reel",
+   "date": "2026-12-07",
+   "title": "John Dalton described his own color vision in 1794, and asked for his eye to be examined",
+   "medium": "2026 · Reel, 51 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-07-CV14-reel-720-VDg48UT6cknGE1C5emsRXoXubIIY3o.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Johann Sebastian Bach · Goldberg Variations, BWV 988 · Variation 30: Quodlibet (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "N502",
+   "lane": "reel",
+   "date": "2026-12-07",
+   "title": "What a handwriting EEG study can and cannot show",
+   "medium": "2026 · Reel, 47 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-07-N502-reel-720-5RkXojJxR72U96QsG4btZBcC9CnSZg.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Johannes Brahms · Symphony No. 4 in E minor, Op. 98 · 2. Andante moderato (2012), Internet Archive, Public Domain Mark"
+  },
+  {
+   "id": "N502",
+   "lane": "slideshow",
+   "date": "2026-12-13",
+   "title": "What a handwriting EEG study can and cannot show",
+   "medium": "2026 · Slideshow Reel, 27 s, sound on",
+   "src": "https://xsuzoma3b5dwvut1.public.blob.vercel-storage.com/reels-web/2026-12-07-N502-slideshow-720-THDwjvqwMEn0ckzN6B1QMZpwXxjVR1.mp4",
+   "poster": "",
+   "music": "Sound: Musopen, Felix Mendelssohn · String Quartet No. 6 in F minor, Op. 80 · 3. Adagio (2012), Internet Archive, Public Domain Mark"
+  }
+ ]
+}
