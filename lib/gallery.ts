@@ -92,3 +92,18 @@ export const soundCredits = [
   "Film projector: collettivocromocinque, radio aporee, Public Domain Mark",
   "Clock bell: Seth Thomas clock, 1862–65, Internet Archive, Public Domain Mark",
 ];
+
+// Room "Every app": one released post as it looks on each platform Ask a Neuroscientist posts to, with the real
+// account names (data/social-links.json). Newest released post that has both a Reel and a slideshow Reel.
+type ReelRow = { id: string; lane: string; date: string; title: string; src: string; music: string };
+export function everyAppPost(now = new Date()) {
+  const rows = reelData.reels as ReelRow[];
+  const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Pacific/Honolulu" }).format(now);
+  const ok = (r?: ReelRow) => !!r && (isPreviewDeploy || r.date <= today);
+  const ids = [...new Set(rows.map((r) => r.id))];
+  const posts = ids.map((id) => ({ id, reel: rows.find((r) => r.id === id && r.lane === "reel"), show: rows.find((r) => r.id === id && r.lane === "slideshow") }))
+    .filter((p) => ok(p.reel) && ok(p.show));
+  const pick = posts.find((p) => p.id === "PDFT01") ?? posts[posts.length - 1];
+  return pick ? { id: pick.id, title: pick.reel!.title, reel: pick.reel!.src, show: pick.show!.src, music: pick.reel!.music, date: pick.show!.date } : null;
+}
+export const accounts = { instagram: "ask_a_neuroscientist", tiktok: "askaneuro", youtube: "@ask_a_neuroscientist", pinterest: "ask_a_neuroscientist", bluesky: "askaneuro.bsky.social" };

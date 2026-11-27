@@ -2,7 +2,7 @@ import Link from "next/link";
 import { sourcePosts } from "../../lib/aan-sources";
 import { isReleased, aanId } from "../../lib/releases";
 import {
-  carousels, channels, guesses, isPreviewDeploy, offers, outlets, pieceCount, shown, sites, soundCredits, tils, zines,
+  accounts, carousels, channels, everyAppPost, guesses, isPreviewDeploy, offers, outlets, pieceCount, shown, sites, soundCredits, tils, zines,
 } from "../../lib/gallery";
 import { GalleryClient } from "./gallery-client";
 
@@ -22,6 +22,17 @@ const Under = () => (
 const Arrow = () => (
   <svg className="arr" viewBox="0 0 80 40" aria-hidden="true"><path d="M4 8 C30 2 50 18 70 30 M58 32 L71 31 L66 19" fill="none" stroke="currentColor" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" /></svg>
 );
+
+
+// Line icons in the style of the apps' own (drawn here, not copied).
+const Heart = () => <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7-4.4-9.2-8.6C1.2 8 3.2 4.5 6.6 4.5c2 0 3.4 1.1 4.4 2.5 1-1.4 2.4-2.5 4.4-2.5 3.4 0 5.4 3.5 3.8 6.9C19 15.6 12 20 12 20z" fill="none" stroke="currentColor" strokeWidth="1.9" strokeLinejoin="round" /></svg>;
+const Bubble = () => <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 12a8.5 8.5 0 1 1-3.2-6.6A8.4 8.4 0 0 1 20.5 12c0 1.6-.4 3-1.2 4.3l1.2 4.2-4.3-1.2" fill="none" stroke="currentColor" strokeWidth="1.9" strokeLinejoin="round" /></svg>;
+const Plane = () => <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.5 3 10 14.5M21.5 3l-7 18-4.5-6.5L3 10z" fill="none" stroke="currentColor" strokeWidth="1.9" strokeLinejoin="round" /></svg>;
+const Bookmark = () => <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-5-6 5z" fill="none" stroke="currentColor" strokeWidth="1.9" strokeLinejoin="round" /></svg>;
+const Share = () => <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13 5l8 7-8 7v-4c-5 0-8 1.5-10 5 .5-6 3.5-10 10-11z" fill="currentColor" /></svg>;
+const Repost = () => <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h11l-3-3M17 17H6l3 3M18 7v5M6 17v-5" fill="none" stroke="currentColor" strokeWidth="1.9" strokeLinecap="round" strokeLinejoin="round" /></svg>;
+const ThumbUp = () => <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 21V10l5-7c1.5 0 2.3 1.1 2 2.6L13.4 9H20c1.2 0 2 1 1.8 2.2l-1.5 7.6A2.6 2.6 0 0 1 17.7 21zM3 10h4v11H3z" fill="currentColor" /></svg>;
+const Music = () => <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V5l11-2v13" fill="none" stroke="currentColor" strokeWidth="2" /><circle cx="6" cy="18" r="3" fill="currentColor" /><circle cx="17" cy="16" r="3" fill="currentColor" /></svg>;
 
 // Seeded splatter, so the server and the browser draw the same picture.
 function splatter() {
@@ -64,6 +75,7 @@ export function Gallery() {
   const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Pacific/Honolulu" }).format(new Date());
   const later = (d: string) => d > today;
   const cs = shown(carousels), ts = shown(tils), ch = shown(channels), zs = shown(zines);
+  const app = everyAppPost();
   // The Warhol grid repeats the first released carousel (Faces in Things once it is out).
   const pop = cs.find((c) => c.id === "pdft01") ?? cs[0];
   const sleep = shown([guesses.sleep])[0], jams = shown([guesses.jams])[0];
@@ -97,38 +109,93 @@ export function Gallery() {
               </div>
               <span className="grill" /><span className="knobs"><i /><i /></span>
             </div>
-            {cs.length > 0 && (
-              <div className="phones">
-                {cs.map((c) => (
-                  <div className="ph" key={c.id}>
-                    <div className="phone" aria-label={`${c.title}, a carousel. Tap for the next slide.`} role="img">
-                      <div className="bar"><i /></div><div className="hd"><b />askaneuroscientist</div>
-                      <div className="track"><div>{Array.from({ length: c.slides }, (_, k) => <img key={k} src={`/gallery-slides/${c.id}/slide-${String(k + 1).padStart(2, "0")}.webp`} alt="" />)}</div></div>
-                      <div className="dots">{Array.from({ length: c.slides }, (_, k) => <i key={k} />)}</div>
-                    </div>
-                    <div className="plinth"><Pre on={later(c.date)} /></div>
+            {/* Instagram carousels, as they look on @ask_a_neuroscientist (RN, Nov 27: the real account, the real app look). */}
+            <div className="phones">
+              {(cs.length > 0 ? cs : [null]).map((c, k, all) => (
+                <div className={`ph${k === Math.floor(all.length / 2) ? " mid" : ""}`} key={c?.id ?? "ig"}>
+                  <div className="phone ig" role="img" aria-label={c ? `Instagram post by @${accounts.instagram}: ${c.title}, a carousel. Tap for the next slide.` : `Instagram post by @${accounts.instagram}: Every claim, read in full`}>
+                    <div className="bar"><i /></div>
+                    <div className="hd"><span className="ring"><span /></span><span className="h">{accounts.instagram}</span><em>•••</em></div>
+                    {c ? (
+                      <div className="track"><div>{Array.from({ length: c.slides }, (_, n) => <img key={n} src={`/gallery-slides/${c.id}/slide-${String(n + 1).padStart(2, "0")}.webp`} alt="" />)}</div></div>
+                    ) : (
+                      <div className="track"><video src="/gallery/video/claim-check.mp4" poster="/gallery/video/claim-check.jpg" muted playsInline loop autoPlay preload="metadata" className="howvid lobbyvid" /></div>
+                    )}
+                    <div className="igacts"><span><Heart /><Bubble /><Plane /></span><span className="dots">{Array.from({ length: c ? c.slides : 1 }, (_, n) => <i key={n} className={!c ? "a" : undefined} />)}</span><Bookmark /></div>
+                    <p className="igcap"><b>{accounts.instagram}</b> {c ? c.title : "Every claim, read in full"}</p>
                   </div>
-                ))}
-                <span className="note mk">swipe <Arrow /></span>
-              </div>
-            )}
-            {cs.length === 0 && (
-              <div className="phones">
-                <div className="ph">
-                  <div className="phone" role="img" aria-label="Every claim, read in full: the six checks between a study and your feed">
-                    <div className="bar"><i /></div><div className="hd"><b />askaneuroscientist</div>
-                    <div className="track"><video src="/gallery/video/claim-check.mp4" poster="/gallery/video/claim-check.jpg" muted playsInline loop autoPlay preload="metadata" className="howvid lobbyvid" /></div>
-                    <div className="dots"><i className="a" /></div>
-                  </div>
-                  <div className="plinth" />
+                  <div className="plinth">{c && <Pre on={later(c.date)} />}</div>
                 </div>
-              </div>
-            )}
+              ))}
+              <span className="note mk">swipe <Arrow /></span>
+            </div>
           </div>
         </div>
         <div className="crawl" aria-hidden="true"><div>{crawl.repeat(4)}</div></div>
       </section>
 
+
+      {app && (
+        <section className="apps">
+          <div className="w">
+            <span className="plaque">Room {room()} · <b>Every app</b></span>
+            <h2>Same study, <i>every app.</i></h2>
+            <p className="lede">Each Ask a Neuroscientist post goes out on YouTube, TikTok, Instagram, Pinterest and Bluesky. Here’s one post, “{app.title}”, on all five, from the real accounts.</p>
+            <div className="appgrid">
+              <figure className="reveal">
+                <div className="phone yt" role="img" aria-label={`YouTube Shorts, ${accounts.youtube}: ${app.title}`}>
+                  <video className="appv" src={app.show} muted playsInline loop preload="metadata" />
+                  <div className="ytTop"><b>Shorts</b></div>
+                  <div className="ytRail" aria-hidden="true"><span><ThumbUp /><small>Like</small></span><span className="flip"><ThumbUp /><small>Dislike</small></span><span><Bubble /><small>Comment</small></span><span><Share /><small>Share</small></span></div>
+                  <div className="ytCap"><p className="acct"><b className="av" />{accounts.youtube}<em>Subscribe</em></p><p>{app.title}</p></div>
+                </div>
+                <figcaption className="mono">YouTube Shorts · {accounts.youtube}</figcaption>
+              </figure>
+              <figure className="reveal">
+                <div className="phone tt" role="img" aria-label={`TikTok, @${accounts.tiktok}: ${app.title}`}>
+                  <video className="appv" src={app.reel} muted playsInline loop preload="metadata" />
+                  <div className="ttTop" aria-hidden="true"><span>Following</span><b>For You</b></div>
+                  <div className="ttRail" aria-hidden="true"><span className="av"><i>+</i></span><span><Heart /></span><span><Bubble /></span><span><Bookmark /></span><span><Share /></span></div>
+                  <div className="ttCap"><b>@{accounts.tiktok}</b><p>{app.title}</p>{app.music && <p className="snd"><Music /><span>{app.music.replace(/^Sound: /, "")}</span></p>}</div>
+                </div>
+                <figcaption className="mono">TikTok · @{accounts.tiktok}</figcaption>
+              </figure>
+              <figure className="reveal mid">
+                <div className="phone igr" role="img" aria-label={`Instagram Reels, @${accounts.instagram}: ${app.title}`}>
+                  <video className="appv" src={app.reel} muted playsInline loop preload="metadata" />
+                  <div className="igTop" aria-hidden="true"><b>Reels</b></div>
+                  <div className="igRail" aria-hidden="true"><span><Heart /></span><span><Bubble /></span><span><Plane /></span><span>•••</span></div>
+                  <div className="igCap"><p className="acct"><span className="ring"><span /></span>{accounts.instagram}<em>Follow</em></p><p>{app.title}</p>{app.music && <p className="snd"><Music /><span>{app.music.replace(/^Sound: /, "")}</span></p>}</div>
+                </div>
+                <figcaption className="mono">Instagram · @{accounts.instagram}</figcaption>
+              </figure>
+              <figure className="reveal">
+                <div className="phone pin" role="img" aria-label={`Pinterest, ${accounts.pinterest}: ${app.title}`}>
+                  <div className="pinTop" aria-hidden="true"><span>⌕ Search for ideas</span></div>
+                  <div className="pinMedia"><video className="appv" src={app.show} muted playsInline loop preload="metadata" /></div>
+                  <div className="pinBar" aria-hidden="true"><span><Heart /><Bubble /><Share /></span><em>Save</em></div>
+                  <p className="pinTitle">{app.title}</p>
+                  <p className="acct"><b className="av" />{accounts.pinterest}</p>
+                </div>
+                <figcaption className="mono">Pinterest · {accounts.pinterest}</figcaption>
+              </figure>
+              <figure className="reveal">
+                <div className="phone bsky" role="img" aria-label={`Bluesky, @${accounts.bluesky}: ${app.title}`}>
+                  <div className="bsTop" aria-hidden="true"><b>Discover</b><span>Following</span></div>
+                  <div className="bsPost">
+                    <p className="acct"><b className="av" /><span><b>Ask a Neuroscientist</b><i>@{accounts.bluesky}</i></span></p>
+                    <p className="txt">{app.title}. Every claim in this one is sourced, and the sources are linked in the thread.</p>
+                    <div className="bsMedia"><video className="appv" src={app.reel} muted playsInline loop preload="metadata" /></div>
+                    <p className="acts" aria-hidden="true"><Bubble /><Repost /><Heart /><span>•••</span></p>
+                  </div>
+                </div>
+                <figcaption className="mono">Bluesky · @{accounts.bluesky}</figcaption>
+              </figure>
+            </div>
+            <Pre on={later(app.date)} />
+          </div>
+        </section>
+      )}
       {ts.length > 0 && pop && (
         <section className="til" id="work">
           <div className="w"><div className="tilgrid">

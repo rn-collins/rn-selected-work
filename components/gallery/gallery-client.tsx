@@ -133,10 +133,17 @@ export function GalleryClient() {
       if (rm) scr.querySelector("video")?.pause();
     }
 
+    // Every-app room: each phone's video plays only while it's on screen.
+    const appIo = new IntersectionObserver((es) => es.forEach((e) => {
+      const v = e.target as HTMLVideoElement; v.muted = true;
+      if (e.isIntersecting && !rm) v.play().catch(() => {}); else v.pause();
+    }), { threshold: 0.4 });
+    root.querySelectorAll("video.appv").forEach((v) => appIo.observe(v));
+
     // Zines rustle on hover.
     root.querySelectorAll(".rack a").forEach((a) => a.addEventListener("pointerenter", () => play("page-turn-01", 0.25)));
 
-    return () => { timers.forEach((t) => { clearInterval(t); clearTimeout(t); }); io.disconnect(); if (lob && onMove) lob.removeEventListener("pointermove", onMove); };
+    return () => { timers.forEach((t) => { clearInterval(t); clearTimeout(t); }); io.disconnect(); appIo.disconnect(); if (lob && onMove) lob.removeEventListener("pointermove", onMove); };
   }, []);
   return null;
 }
