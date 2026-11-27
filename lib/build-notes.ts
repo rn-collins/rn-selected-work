@@ -158,7 +158,7 @@ export const buildNotes: BuildNote[] = [
     builtOn:
       "An admin-key gate in front of the dashboard; the lead data is not served until the key is accepted.",
     limits:
-      "This is internal tooling, not a public product. It is listed here because it is part of the estate and reachable, not because there is anything on it for a visitor to use — without the key it shows only the sign-in.",
+      "This is internal tooling, not a public product. It is listed here because it is part of the estate and reachable, not because there is anything on it for a visitor to use. Without the key it shows only the sign-in.",
   },
   {
     repo: "aloha-ai-governance",
@@ -675,7 +675,7 @@ export const buildNotes: BuildNote[] = [
     problem:
       "Small business owners are told AI will help and handed a blank prompt box. For someone with payroll to run on Friday, an open-ended assistant is not an opportunity, it is one more thing to work out. The gap is not enthusiasm; it is a first workflow concrete enough to finish in an afternoon and useful enough to repeat the following week.",
     does:
-      "Says what the tool actually is before recommending anything, names the systems it connects to, then walks three starter workflows an owner can pick from on the day: a Monday cash-and-invoices reset, a month close, and a morning brief. It ends where most quick-starts begin — what to connect first, and a short, unglamorous section on safety and cost.",
+      "Says what the tool actually is before recommending anything, names the systems it connects to, then walks three starter workflows an owner can pick from on the day: a Monday cash-and-invoices reset, a month close, and a morning brief. It ends where most quick-starts begin: what to connect first, and a short, unglamorous section on safety and cost.",
     builtOn: "A static single-page site with an installable web manifest, served from Vercel.",
     limits: "Independent. Not affiliated with, endorsed by, or produced for Anthropic.",
     caseStudy: "buechler-pacific",

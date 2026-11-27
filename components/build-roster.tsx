@@ -59,9 +59,9 @@ export function BuildRoster({
         ))}
       </div>
       <p className="rosterNote">
-        Statuses come from the generated inventory behind the{" "}
-        <Link href="/builds">complete build index</Link>, not from this page, so an
-        initiative page cannot describe more than is actually deployed.
+        Each status comes from the same self-updating list as{" "}
+        <Link href="/builds">every project</Link>, so this page can’t claim more than
+        is actually live.
       </p>
     </section>
   );

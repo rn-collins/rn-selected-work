@@ -159,10 +159,9 @@ export default function Archive() {
         </div>
         <div className="indexSummaryIntro">
           <p className="bigcopy">
-            The index behind this section is generated. A script asks GitHub what
-            repositories exist and Vercel what is deployed, checks that each production
-            URL answers, and writes the result to a data file the pages render from.
-            The previous hand-maintained list had drifted to 32 entries.
+            This list updates itself. A script checks which projects exist and which are
+            live, confirms each live site opens, and the pages read from that, so the
+            list can’t drift the way the old hand-kept one did.
           </p>
           <p>
             Each entry says what problem it solves, what it does and its real status. Client
@@ -183,7 +182,7 @@ export default function Archive() {
         </div>
         <div className="indexSummaryFoot">
           <Link className="button" href="/builds">
-            Read the complete build index <span aria-hidden="true">→</span>
+            See every project <span aria-hidden="true">→</span>
           </Link>
           <p>
             Six have a longer case study, linked from their entry.

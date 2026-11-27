@@ -69,7 +69,7 @@ export const projects: Project[] = [
     serves:
       "FlexJD students at Northeastern University School of Law, especially those balancing law school with work, caregiving, distance and classes on their own schedule.",
     demonstrates:
-      "Community-centered service design, information governance, operational maintenance, and the discipline to state clearly what a resource is—and is not.",
+      "Community-centered service design, information governance, operational maintenance, and the discipline to state clearly what a resource is, and is not.",
     live: "https://flexjd-site.vercel.app/",
     repo: "https://github.com/rn-collins/flexjd-site",
   },

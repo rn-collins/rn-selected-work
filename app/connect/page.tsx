@@ -66,7 +66,7 @@ export default function ConnectPage() {
             <p>
               In practice that means the work usually starts as research and ends as
               something that runs. There are {projectCountLine} across the
-              practice — regulatory monitors that report their own staleness rather than
+              practice: regulatory monitors that report their own staleness rather than
               presenting a frozen snapshot as current, research atlases that keep
               provenance attached to every record, browser-local decision tools that state
               plainly what they cannot decide for you, and public guides written for one

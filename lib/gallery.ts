@@ -46,16 +46,16 @@ export const guesses = {
 };
 
 // Room 3, The rabbit hole: live sites RN built. image = the site's own screenshot in /previews.
-export const sites = [
-  { host: "htw-field-kit", title: "Tech From Here: Field Kit", medium: "2026 · website", note: "Five days, five venues, five looks. I photographed it, then built the site that holds it all.", frame: "coral", size: "c7" },
+export const sites = [ // science and design first (RN, Nov 27)
   { host: "color-vision-field-guide", title: "Color Vision Field Guide", medium: "2026 · interactive guide", note: "How your eyes build color, and why your colors aren’t mine.", frame: "lime", size: "c5 tilt2" },
   { host: "ask-a-neuroscientist-fashion", title: "The Dressed Nervous System", medium: "2026 · essay site", note: "What clothes do to the body: pressure, texture, memory and rhythm.", frame: "blue", size: "c4" },
-  { host: "tech-from-here-mjbizcon", title: "The Technology Is Already Governing the Plant", medium: "2026 · investigation", note: "Tags, tests and rules. How cannabis became a regulated technical system.", frame: "lime", size: "c4 tilt1" },
-  { host: "entheogen-atlas", title: "Entheogen Atlas", medium: "2026 · atlas", note: "Plants, the people who used them, and the papers behind each one.", frame: "coral", size: "c4" },
-  { host: "tech-from-here-fashion-week", title: "Signal / Seam", medium: "2026 · field report", note: "Fashion week, looked at as a technical system.", frame: "blue", size: "c5 tilt2" },
-  { host: "institutions-of-one-reader", title: "Institutions of One", medium: "2026 · reader", note: "What one person can run when they work like an institution.", frame: "coral", size: "c7" },
+  { host: "htw-field-kit", title: "Tech From Here: Field Kit", medium: "2026 · website", note: "Five days, five venues, five looks. I photographed it, then built the site that holds it all.", frame: "coral", size: "c7" },
   { host: "tech-from-here-amsterdam-eindhoven", title: "Look Closer", medium: "2026 · 48 investigations", note: "Amsterdam and Eindhoven, where the technology is already in the room.", frame: "lime", size: "c6 tilt1" },
   { host: "keiki-robotics-oahu-ai", title: "Keiki Robotics, Oʻahu", medium: "2026 · parent guide", note: "How to get your kid into competitive robotics on Oʻahu.", frame: "blue", size: "c6" },
+  { host: "institutions-of-one-reader", title: "Institutions of One", medium: "2026 · reader", note: "What one person can run when they work like an institution.", frame: "coral", size: "c7" },
+  { host: "tech-from-here-fashion-week", title: "Signal / Seam", medium: "2026 · field report", note: "Fashion week, looked at as a technical system.", frame: "blue", size: "c5 tilt2" },
+  { host: "entheogen-atlas", title: "Entheogen Atlas", medium: "2026 · atlas", note: "Plants, the people who used them, and the papers behind each one.", frame: "coral", size: "c4" },
+  { host: "tech-from-here-mjbizcon", title: "The Technology Is Already Governing the Plant", medium: "2026 · investigation", note: "Tags, tests and rules. How cannabis became a regulated technical system.", frame: "lime", size: "c4 tilt1" },
 ];
 
 // Room 4, Screening room: Ask a Neuroscientist video only (RN, Nov 27; no Aloha AI reels here). The studio's motion
@@ -110,3 +110,26 @@ export function everyAppPost(now = new Date()) {
   return pick ? { id: pick.id, title: pick.reel!.title, reel: pick.reel!.src, show: pick.show!.src, music: pick.reel!.music, date: pick.show!.date } : null;
 }
 export const accounts = { instagram: "ask_a_neuroscientist", tiktok: "askaneuro", youtube: "@ask_a_neuroscientist", pinterest: "ask_a_neuroscientist", bluesky: "askaneuro.bsky.social" };
+
+// Room "Samples": what RN would hand a museum and an AI company, written for this site from one released post
+// (MJBYB12, smell adaptation, Nov 30). Clearly marked as samples, not client work (RN, Nov 27). Shown from the
+// post's release day.
+export const samples = {
+  date: "2026-11-30",
+  post: "Smell adaptation: why a steady smell fades, and what brings it back",
+  sources: "/sources/mjbyb12",
+  wallLabel: {
+    title: "Why the room stops smelling",
+    line: "Ask a Neuroscientist, 2026 · sample wall label, 74 words",
+    body: "Walk into a room that smells of roses and within minutes you barely notice it. In a 2021 lab study, half of 68 adults stopped noticing a steady smell within about 6 to 7 minutes. Much of that fading seems to happen in the brain, not the nose: when another team recorded inside the nose, the signal held steady while people rated some smells as weaker.",
+    credit: "Sources: Xiao et al. 2021; Mignot et al. 2022",
+  },
+  aiCheck: {
+    question: "Why do I stop smelling my own perfume?",
+    answer: "Your smell receptors get tired and stop sending signals, so your nose simply switches the smell off.",
+    verdict: "Overstated",
+    note: "In a 2022 study the signal inside the nose did not drop significantly over ten puffs, while people rated two of four smells as weaker. That points to the brain doing much of the fading. A few people did show a shrinking nose signal, so it isn’t settled.",
+    fixed: "Much of it happens in your brain, not just your nose. Your brain turns down a smell that doesn’t change, and some studies suggest the nose plays a smaller part than people assume.",
+    credit: "Source: Mignot et al. 2022",
+  },
+};

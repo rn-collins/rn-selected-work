@@ -2,6 +2,8 @@ import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../components/canonical-page";
+import { GalleryBar } from "../../components/gallery/gallery-bar";
+import "../gallery-skin.css";
 import { projectCountLine } from "../../lib/builds";
 
 export const metadata: Metadata = {
@@ -14,6 +16,8 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <CanonicalPage>
+      <GalleryBar room="About · RN Collins" />
+      <div className="glskin">
       <header className="canonicalSubhero shell">
         <p className="eyebrow">About RN</p>
         <h1>
@@ -102,6 +106,7 @@ export default function Page() {
           </div>
         </div>
       </section>
+      </div>
     </CanonicalPage>
   );
 }

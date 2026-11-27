@@ -253,6 +253,25 @@ h1 .x{position:relative;white-space:nowrap}
 .paper .line b{font-weight:500;color:#56645a;text-align:right}
 .paper .tot{display:flex;justify-content:space-between;margin:4px 0;font-weight:700}
 .paper .thanks{text-align:center;margin:18px 0 0}
+.samples{background:var(--blue);padding:90px 0;border-top:6px solid var(--ink)}
+.sgrid{display:grid;grid-template-columns:1fr 1fr;gap:40px;margin-top:44px;align-items:start}
+.sgrid figure{margin:0}
+.sgrid figcaption{margin-top:16px;font-size:15px;max-width:44ch}
+.walllabel{background:#fff;padding:30px 32px 26px;border-left:10px solid var(--ink);box-shadow:0 26px 34px -22px rgba(0,0,0,.5)}
+.wl-t{font:800 30px/1.1 'Playfair Display',serif;margin:0}
+.wl-l{color:#56645a;margin:8px 0 16px}
+.wl-b{font:400 19px/1.5 Inter,sans-serif;margin:0 0 16px}
+.wl-c{margin:0;color:#56645a}
+.aicheck{background:var(--ink);color:var(--paper);padding:24px 26px;border:3px solid var(--ink);box-shadow:10px 10px 0 var(--coral);position:relative}
+.aicheck .q{color:var(--lime);margin:14px 0 4px}
+.aicheck .q:first-child{margin-top:0}
+.aicheck p{margin:0}
+.aicheck .qq{font:800 20px/1.25 'Playfair Display',serif}
+.aicheck .ans1{text-decoration:line-through;text-decoration-color:var(--coral);text-decoration-thickness:2px;opacity:.8}
+.aicheck .stamp{display:inline-block;margin:14px 0 8px;border:3px solid var(--coral);color:var(--coral);font:700 13px 'IBM Plex Mono',monospace;text-transform:uppercase;letter-spacing:.12em;padding:4px 10px;transform:rotate(-4deg)}
+.aicheck .note2{font-size:15px;line-height:1.45}
+.aicheck .fixed{background:var(--lime);color:var(--ink);padding:10px 12px;font-weight:600}
+.aicheck .c{color:#aab;margin-top:12px}
 .ama{background:var(--ink);color:var(--paper);padding:100px 0}
 .swirl{position:absolute;inset:0;width:100%;height:100%;opacity:.42}
 .sg{animation:gldrift 30s ease-in-out infinite alternate}
@@ -265,7 +284,7 @@ h1 .x{position:relative;white-space:nowrap}
 .gift p{margin:0 0 8px}
 .gift ul{font-size:13px;margin:8px 0 0;padding-left:18px}
 @media(max-width:900px){
-.stage,.tilgrid,.bigtv,.rgrid,.games{grid-template-columns:1fr}
+.stage,.tilgrid,.bigtv,.rgrid,.games,.sgrid{grid-template-columns:1fr}
 .salon{grid-template-columns:1fr}
 .salon figure{grid-column:auto!important;transform:none!important}
 .wall8{grid-template-columns:1fr 1fr}

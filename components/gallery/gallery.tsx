@@ -2,7 +2,7 @@ import Link from "next/link";
 import { sourcePosts } from "../../lib/aan-sources";
 import { isReleased, aanId } from "../../lib/releases";
 import {
-  accounts, carousels, channels, everyAppPost, guesses, isPreviewDeploy, offers, outlets, pieceCount, shown, sites, soundCredits, tils, zines,
+  accounts, carousels, samples, channels, everyAppPost, guesses, isPreviewDeploy, offers, outlets, pieceCount, shown, sites, soundCredits, tils, zines,
 } from "../../lib/gallery";
 import { GalleryClient } from "./gallery-client";
 
@@ -69,6 +69,9 @@ function Label({ title, medium, children }: { title: string; medium: string; chi
   return <div className="label"><b>{title}</b><span className="mono">RN Collins · {medium}</span>{children && <p>{children}</p>}</div>;
 }
 
+// Salon hang by position: each row adds up to 12 columns.
+const SALON = ["c7", "c5 tilt2", "c4", "c4 tilt1", "c4", "c5 tilt2", "c7", "c6 tilt1", "c6"];
+
 const Pre = ({ on }: { on: boolean }) => (isPreviewDeploy && on ? <span className="pre">Preview: not out yet</span> : null);
 
 export function Gallery() {
@@ -76,6 +79,7 @@ export function Gallery() {
   const later = (d: string) => d > today;
   const cs = shown(carousels), ts = shown(tils), ch = shown(channels), zs = shown(zines);
   const app = everyAppPost();
+  const smp = shown([{ date: samples.date }])[0];
   // The Warhol grid repeats the first released carousel (Faces in Things once it is out).
   const pop = cs.find((c) => c.id === "pdft01") ?? cs[0];
   const sleep = shown([guesses.sleep])[0], jams = shown([guesses.jams])[0];
@@ -258,8 +262,8 @@ export function Gallery() {
           <span className="plaque">Room {room()} · <b>The rabbit hole</b></span>
           <h2>Went down a rabbit hole. <i>Built a website about it.</i></h2>
           <div className="salon">
-            {sites.map((s) => (
-              <figure className={`${s.size} reveal`} key={s.host}>
+            {sites.map((s, k) => (
+              <figure className={`${SALON[k % SALON.length]} reveal`} key={s.host}>
                 <a className="win" style={{ ["--fc" as string]: `var(--${s.frame})` }} href={`https://${s.host}.vercel.app/`} rel="noopener">
                   <span className="tb"><i /><i /><i />&nbsp;{s.host}.vercel.app</span>
                   <img src={`/previews/${s.host}.jpg`} alt={`${s.title}, home page`} loading="lazy" />
@@ -310,7 +314,7 @@ export function Gallery() {
           <span className="plaque">Room {room()} · <b>TL;DR</b></span>
           <h2>I write <i>a lot.</i></h2>
           <p className="lede">{pieceCount} published pieces across {outlets.length} publications{zs.length ? ", and two zines a week" : ""}.</p>
-          {zs.length > 0 && <div className="rack">{zs.map((z, k) => <a key={z.id} href={`https://askaneuroscientist.vercel.app/zines/${z.id}/`} style={{ ["--r" as string]: `${[-3, 2, -1, 3, -2, 1][k % 6]}deg` }}><img src={`/gallery-zines/${z.id}.webp`} alt="Zine cover" loading="lazy" /><Pre on={later(z.date)} /></a>)}</div>}
+          {zs.length > 0 && <div className="rack">{zs.map((z, k) => <a key={z.id} href={later(z.date) ? undefined : `https://askaneuroscientist.vercel.app/zines/${z.id}/`} style={{ ["--r" as string]: `${[-3, 2, -1, 3, -2, 1][k % 6]}deg` }}><img src={`/gallery-zines/${z.id}.webp`} alt="Zine cover" loading="lazy" /><Pre on={later(z.date)} /></a>)}</div>}
           <div className="outs">{outlets.slice(0, 4).map(([o, n], k) => <div className="reveal" key={o} style={{ ["--r" as string]: `${[-1.5, 1, -0.5, 1.5][k % 4]}deg` }}><b>{n}</b>{o}</div>)}</div>
           {outlets.length > 4 && <p className="also">Also in {outlets.slice(4).map(([o]) => o).join(", ")}.</p>}
           <p className="more"><Link className="btn" href="/writing">Read the writing →</Link></p>
@@ -341,6 +345,40 @@ export function Gallery() {
         </section>
       )}
 
+
+      {smp && (
+        <section className="samples">
+          <div className="w">
+            <span className="plaque">Room {room()} · <b>Samples</b></span>
+            <h2>What I’d hand you.</h2>
+            <p className="lede">Two samples I wrote for this site from one post, “{samples.post}”. They’re examples of the work, not past client work.</p>
+            <div className="sgrid">
+              <figure className="reveal">
+                <div className="walllabel">
+                  <p className="wl-t">{samples.wallLabel.title}</p>
+                  <p className="wl-l mono">{samples.wallLabel.line}</p>
+                  <p className="wl-b">{samples.wallLabel.body}</p>
+                  <p className="wl-c mono">{samples.wallLabel.credit}</p>
+                </div>
+                <figcaption><b>For museums and science centers.</b> A wall label people finish, with its sources on the wall.</figcaption>
+              </figure>
+              <figure className="reveal">
+                <div className="aicheck">
+                  <p className="mono q">Prompt</p><p className="qq">{samples.aiCheck.question}</p>
+                  <p className="mono q">AI answer (made up for this sample)</p><p className="ans1">{samples.aiCheck.answer}</p>
+                  <p className="stamp">{samples.aiCheck.verdict}</p>
+                  <p className="note2">{samples.aiCheck.note}</p>
+                  <p className="mono q">Rewrite</p><p className="fixed">{samples.aiCheck.fixed}</p>
+                  <p className="mono c">{samples.aiCheck.credit}</p>
+                </div>
+                <figcaption><b>For AI companies.</b> I check what a model says about the brain against the papers, then fix it.</figcaption>
+              </figure>
+            </div>
+            <p className="more"><a className="btn" href={samples.sources}>See every source for this post →</a></p>
+            <Pre on={later(samples.date)} />
+          </div>
+        </section>
+      )}
       <section className="ama dark" id="ama">
         <Swirl />
         <div className="w">

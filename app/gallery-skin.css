@@ -1,0 +1,28 @@
+/* The Gallery look for inner pages (/about, /work-with-me): lime top band, Playfair 800 headings, plaque labels,
+   3px ink rules and hard-shadow buttons, in the five brand colours. Scoped to .glskin. (Nov 27, 2026) */
+.glbar{background:#d9ff4f;color:#17251d;padding:0 clamp(18px,4vw,28px) 22px;border-bottom:6px solid #17251d}
+.glbar nav{max-width:1300px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;gap:14px;padding:16px 0;flex-wrap:wrap}
+.glbar-logo{font:italic 800 28px 'Playfair Display',serif;text-decoration:none;color:inherit;position:relative;padding-left:14px}
+.glbar-logo svg{position:absolute;width:30px;left:-4px;top:-15px;color:#ff826d;transform:rotate(-14deg)}
+.glbar-tix{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.glbar-tix a{text-decoration:none;color:#17251d;font:500 12px 'IBM Plex Mono',monospace;text-transform:uppercase;letter-spacing:.06em;border:2px dashed #17251d;padding:8px 12px;background:#f3efe4}
+.glbar-tix a.h{background:#17251d;color:#d9ff4f;border-style:solid}
+.glbar-plaque{max-width:1300px;margin:6px auto 0;font:500 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;text-transform:uppercase}
+.glbar-plaque::before{content:"";display:inline-block;width:10px;height:10px;border-radius:50%;background:#ff3b2f;margin-right:8px;vertical-align:0}
+@media(max-width:700px){.glbar-tix a{padding:6px 8px;font-size:10px}}
+.glskin{background:#f3efe4;color:#17251d}
+.glskin h1{font-family:'Playfair Display',serif!important;font-weight:800!important;letter-spacing:-.03em}
+.glskin h1{line-height:1.12!important}
+.glskin h1 em,.glskin h2 em{font-weight:400;font-style:italic;background:linear-gradient(transparent 58%,#d9ff4f 58%,#d9ff4f 92%,transparent 92%);padding:0 .06em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.glskin h2{font-family:'Playfair Display',serif;font-weight:800;letter-spacing:-.02em}
+.glskin .eyebrow{display:inline-block;background:#17251d;color:#f3efe4;padding:6px 10px;font-family:'IBM Plex Mono',monospace;letter-spacing:.12em}
+.glskin .button,.glskin .canonicalActions a{background:#d9ff4f!important;color:#17251d!important;border:3px solid #17251d!important;box-shadow:6px 6px 0 #17251d;font-weight:800;text-decoration:none}
+.glskin .button.secondary{background:#f3efe4!important}
+.glskin .canonicalSection{border-top:3px solid #17251d}
+.glskin .caseImage img{border:3px solid #17251d;box-shadow:10px 10px 0 #ff826d}
+/* /work-with-me (specimen styles): bigger Playfair hero, lime-marked headline, hard-shadow rows */
+.wwm h1{font-size:clamp(3.4rem,12vw,7.5rem)}
+.wwm [class*="headline"]{font-family:'Playfair Display',serif;font-weight:800}
+.wwm [class*="row"]{border-color:#17251d}
+.wwm [class*="row"]:hover{background:#d9ff4f}
+.wwm [class*="label"]{font-family:'IBM Plex Mono',monospace;text-transform:uppercase;letter-spacing:.1em;font-size:12px}

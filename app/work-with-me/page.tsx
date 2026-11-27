@@ -4,6 +4,8 @@ import hub from "../../data/links-hub.json";
 import { postedSoFar, longDate, sourcePosts } from "../../lib/aan-sources";
 import { hawaiiToday } from "../../lib/releases";
 import s from "../../components/specimen.module.css";
+import { GalleryBar } from "../../components/gallery/gallery-bar";
+import "../gallery-skin.css";
 
 // Work with me, in the specimen design system (RN approved the brief Nov 18, 2026). Every pitch links this page.
 // Service lines come from the proposal menu (names and descriptions only: prices stay in private proposals). The DDW
@@ -16,12 +18,17 @@ export const metadata: Metadata = {
   alternates: { canonical: "/work-with-me" },
 };
 
+// A general address for museums, brands, science institutions and AI companies (RN, Nov 27). It lives only in
+// the Vercel env var RN_GENERAL_EMAIL, never in git; with no value set, the row is left out.
+const GENERAL = process.env.RN_GENERAL_EMAIL?.trim() ?? "";
+
 const SERVICES = [
   { name: "Brand direction", what: "A workshop, voice and visual direction, and a one-page brand guide for science content." },
   { name: "Content strategy", what: "Content pillars, a 3- or 12-month calendar, a platform plan, an archive map and the measures that show it is working." },
   { name: "Content production", what: "Carousels, single image posts, Reels, articles and newsletters, every one fact-checked and every image's licence recorded. Includes on-site capture days: photo and video at your event." },
   { name: "Content operations", what: "Posting kits, scheduling set-up, licence audits, workflow design, a brand kit and templates, and training for your team." },
   { name: "Content management", what: "Weekly running of your accounts, replies to your community on business days, scheduling and a basic monthly report." },
+  { name: "AI expert work", what: "Checking and writing what AI tools say about the brain and health: each claim traced to the paper, then rewritten so it's accurate and clear." },
 ];
 
 const PROCESS = [
@@ -44,7 +51,9 @@ export default function WorkWithMePage() {
   // The schedule comes from the sources data, so the dates here move when the posting calendar moves.
   const ddwAll = sourcePosts.filter((p) => p.series === "Dutch Design Week");
   return (
-    <main className={s.page}>
+    <>
+    <GalleryBar room="Work with me · Commissions open" />
+    <main className={`${s.page} glskin wwm`}>
       <div className={s.wide}>
         <header className={s.plate}>
           <p className={s.label}>Work with me</p>
@@ -56,7 +65,7 @@ export default function WorkWithMePage() {
         <section className={`${s.section} ${s.split}`} aria-labelledby="services">
           <h2 id="services" className={s.label}>Services</h2>
           <div>
-            <p className={s.headline}>Five lines, bought alone or together.</p>
+            <p className={s.headline}>Six lines, bought alone or together.</p>
             <ol className={s.entries}>
               {SERVICES.map((x) => (
                 <li key={x.name} className={s.reveal}>
@@ -126,7 +135,7 @@ export default function WorkWithMePage() {
           <div>
             <p className={s.headline}>Tell me about the project.</p>
             <ul className={s.rows}>
-              {hub.email.map((m) => (
+              {[...(GENERAL ? [{ label: "Museums, brands, science institutions and AI", address: GENERAL }] : []), ...hub.email].map((m) => (
                 <li
                   key={m.label}
                   dangerouslySetInnerHTML={{
@@ -157,5 +166,6 @@ export default function WorkWithMePage() {
         </footer>
       </div>
     </main>
+    </>
   );
 }
