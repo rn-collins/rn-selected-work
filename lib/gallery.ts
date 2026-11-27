@@ -103,7 +103,8 @@ export function everyAppPost(now = new Date()) {
   const ids = [...new Set(rows.map((r) => r.id))];
   const posts = ids.map((id) => ({ id, reel: rows.find((r) => r.id === id && r.lane === "reel"), show: rows.find((r) => r.id === id && r.lane === "slideshow") }))
     .filter((p) => ok(p.reel) && ok(p.show));
-  const pick = posts.find((p) => p.id === "PDFT01") ?? posts[posts.length - 1];
+  // Not "Faces in things", which the lobby and the TIL room already show; the newest other post instead.
+  const pick = [...posts].reverse().find((p) => p.id !== "PDFT01") ?? posts[posts.length - 1];
   return pick ? { id: pick.id, title: pick.reel!.title, reel: pick.reel!.src, show: pick.show!.src, music: pick.reel!.music, date: pick.show!.date } : null;
 }
 export const accounts = { instagram: "ask_a_neuroscientist", tiktok: "askaneuro", youtube: "@ask_a_neuroscientist", pinterest: "ask_a_neuroscientist", bluesky: "askaneuro.bsky.social" };

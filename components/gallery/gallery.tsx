@@ -94,9 +94,9 @@ export function Gallery() {
           <nav aria-label="Main">
             <Link className="logo" href="/"><Star />RN Collins</Link>
             <span className="tix">
-              <a href="#work">Work</a><Link href="/writing">Writing</Link><Link href="/about">About</Link>
+              <Link href="/work">Work</Link><Link href="/writing">Writing</Link><Link href="/about">About</Link><Link href="/archive">Archive</Link>
               <button type="button" className="snd" aria-pressed="false">Sound off</button>
-              <a className="h" href="#ama">AMA</a>
+              <Link className="h" href="/work-with-me">Work with me</Link>
             </span>
           </nav>
           <div className="stage">
@@ -106,6 +106,7 @@ export function Gallery() {
                 <p className="who">RN Collins · neuroscientist, content creator, analyst</p>
                 <h1>TIL, but <span className="x">every fact<Under /></span> has a source.</h1>
                 <p className="intro">I turn neuroscience studies into posts, sites and exhibits that people read to the end. I work with museums, science institutions, brands and AI companies.</p>
+                <p className="herocta"><Link className="btn" href="/work-with-me">Work with me →</Link><a className="seework" href="#work">See the work ↓</a></p>
               </div>
               <span className="grill" /><span className="knobs"><i /><i /></span>
             </div>

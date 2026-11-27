@@ -56,6 +56,9 @@ nav{display:flex;justify-content:space-between;align-items:center;padding:16px 0
 .tc{position:absolute;top:16px;right:22px;font:500 14px 'IBM Plex Mono',monospace;color:var(--lime)}
 h1{font:800 clamp(46px,5.8vw,92px)/.98 'Playfair Display',serif;letter-spacing:-.03em;margin:6px 0 20px}
 h1 .x{position:relative;white-space:nowrap}
+.herocta{display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin:26px 0 0;position:relative;z-index:3}
+.herocta .btn{font-size:17px;padding:13px 20px;box-shadow:6px 6px 0 #000}
+.seework{color:var(--lime);font:500 13px 'IBM Plex Mono',monospace;text-transform:uppercase;letter-spacing:.06em}
 .who{font:500 13px 'IBM Plex Mono',monospace;letter-spacing:.05em;text-transform:uppercase;color:var(--lime);margin:0}
 .intro{font-size:20px;margin:0;max-width:36ch}
 .phones{display:flex;justify-content:center;align-items:flex-end;gap:0;position:relative;padding-top:40px}
@@ -271,7 +274,10 @@ h1 .x{position:relative;white-space:nowrap}
 .cards{grid-template-columns:1fr}
 .appgrid{grid-template-columns:repeat(5,72%);overflow-x:auto;scroll-snap-type:x mandatory;padding:20px 4px 24px;margin:30px -28px 0;padding-left:28px}
 .appgrid figure{scroll-snap-align:center}
-.tix a:not(.h){display:none}
+.tix{flex-wrap:wrap;justify-content:flex-end;gap:6px}
+.tix a:not(.h){padding:6px 8px;font-size:10px}
+.tix .snd{padding:6px 8px;font-size:10px}
+.hole .salon figure:nth-child(n+4){display:none}
 .screen{padding:48px 20px 28px}
 .tv{padding:14px 14px 46px;border-radius:24px}
 h1{font-size:44px}
