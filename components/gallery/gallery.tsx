@@ -64,10 +64,14 @@ export function Gallery() {
   const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Pacific/Honolulu" }).format(new Date());
   const later = (d: string) => d > today;
   const cs = shown(carousels), ts = shown(tils), ch = shown(channels), zs = shown(zines);
+  // The Warhol grid repeats the first released carousel (Faces in Things once it is out).
+  const pop = cs.find((c) => c.id === "pdft01") ?? cs[0];
   const sleep = shown([guesses.sleep])[0], jams = shown([guesses.jams])[0];
   // The newest released post with at least 3 sourced claims; a preview with none released yet shows the first upcoming one.
   const withClaims = sourcePosts.filter((p) => (p.extra?.claims?.length ?? 0) >= 3);
   const receipt = withClaims.slice().reverse().find((p) => isReleased(aanId(p.slug))) ?? (isPreviewDeploy ? withClaims[0] : undefined);
+  let roomNo = 0;
+  const room = () => ++roomNo; // rooms are numbered in page order, so a hidden room leaves no gap
   const crawl = ["Now showing: RN Collins", "Neuroscience for museums, science institutions, brands and AI", "M.S. Anatomy & Neurobiology", "Every claim sourced", "Admission free"].join(" ✦ ") + " ✦ ";
   return (
     <div className="gl">
@@ -99,7 +103,7 @@ export function Gallery() {
                   <div className="ph" key={c.id}>
                     <div className="phone" aria-label={`${c.title}, a carousel. Tap for the next slide.`} role="img">
                       <div className="bar"><i /></div><div className="hd"><b />askaneuroscientist</div>
-                      <div className="track"><div>{Array.from({ length: c.slides }, (_, k) => <img key={k} src={`/gallery/sl/${c.id}/slide-${String(k + 1).padStart(2, "0")}.webp`} alt="" />)}</div></div>
+                      <div className="track"><div>{Array.from({ length: c.slides }, (_, k) => <img key={k} src={`/gallery-slides/${c.id}/slide-${String(k + 1).padStart(2, "0")}.webp`} alt="" />)}</div></div>
                       <div className="dots">{Array.from({ length: c.slides }, (_, k) => <i key={k} />)}</div>
                     </div>
                     <div className="plinth"><Pre on={later(c.date)} /></div>
@@ -108,20 +112,32 @@ export function Gallery() {
                 <span className="note mk">swipe <Arrow /></span>
               </div>
             )}
+            {cs.length === 0 && (
+              <div className="phones">
+                <div className="ph">
+                  <div className="phone" role="img" aria-label="Every claim, read in full: the six checks between a study and your feed">
+                    <div className="bar"><i /></div><div className="hd"><b />askaneuroscientist</div>
+                    <div className="track"><video src="/gallery/video/claim-check.mp4" poster="/gallery/video/claim-check.jpg" muted playsInline loop autoPlay preload="metadata" className="howvid lobbyvid" /></div>
+                    <div className="dots"><i className="a" /></div>
+                  </div>
+                  <div className="plinth" />
+                </div>
+              </div>
+            )}
           </div>
         </div>
         <div className="crawl" aria-hidden="true"><div>{crawl.repeat(4)}</div></div>
       </section>
 
-      {ts.length > 0 && (
+      {ts.length > 0 && pop && (
         <section className="til" id="work">
           <div className="w"><div className="tilgrid">
             <div className="reveal">
-              <div className="warhol" title="Tap to change the colors">{[0, 1, 2, 3].map((k) => <div key={k}><img src="/gallery/sl/pdft01/slide-01.webp" alt="" /></div>)}</div>
-              <Label title="Faces in Things (×4)" medium="2026 · carousel, 6 slides, shown four times">One study a day on Instagram, TikTok, YouTube and Pinterest, as Ask a Neuroscientist.</Label>
+              <div className="warhol" title="Tap to change the colors">{[0, 1, 2, 3].map((k) => <div key={k}><img src={`/gallery-slides/${pop.id}/slide-01.webp`} alt="" /></div>)}</div>
+              <Label title={`${pop.title} (×4)`} medium={`2026 · carousel, ${pop.slides} slides, shown four times`}>One study a day on Instagram, TikTok, YouTube and Pinterest, as Ask a Neuroscientist.</Label>
             </div>
             <div>
-              <span className="plaque">Room 1 · <b>TIL</b></span>
+              <span className="plaque">Room {room()} · <b>TIL</b></span>
               <h2>Today I learned<i>…</i></h2>
               <p className="lede">That’s the idea behind Ask a Neuroscientist. One study a day, cut down to fit a phone screen, with every source attached.</p>
               <div className="tilbox" data-tils={JSON.stringify(ts.map((t) => [t.text, t.source]))}><div className="t"><b>TIL</b> <span>{ts[0].text}</span><i className="caret" /></div><span className="src">Source: {ts[0].source}</span></div>
@@ -134,7 +150,7 @@ export function Gallery() {
       {(sleep || jams) && (
         <section className="try">
           <div className="w">
-            <span className="plaque">Room 2 · <b>Try it yourself</b></span>
+            <span className="plaque">Room {room()} · <b>Try it yourself</b></span>
             <h2>Guess first.</h2>
             <p className="lede">Then see what the study found. Both of these come from Ask a Neuroscientist posts.</p>
             <div className="games">
@@ -171,7 +187,7 @@ export function Gallery() {
 
       <section className="hole">
         <div className="w">
-          <span className="plaque">Room 3 · <b>The rabbit hole</b></span>
+          <span className="plaque">Room {room()} · <b>The rabbit hole</b></span>
           <h2>Went down a rabbit hole. <i>Built a website about it.</i></h2>
           <div className="salon">
             {sites.map((s) => (
@@ -191,7 +207,7 @@ export function Gallery() {
       {ch.length > 0 && (
         <section className="screening dark">
           <div className="w">
-            <span className="plaque">Room 4 · <b>Screening room</b></span>
+            <span className="plaque">Room {room()} · <b>Screening room</b></span>
             <h2>Now playing.</h2>
             <div className="bigtv">
               <div className="tv">
@@ -223,10 +239,10 @@ export function Gallery() {
 
       <section className="tldr">
         <div className="w">
-          <span className="plaque">Room 5 · <b>TL;DR</b></span>
+          <span className="plaque">Room {room()} · <b>TL;DR</b></span>
           <h2>I write <i>a lot.</i></h2>
           <p className="lede">{pieceCount} published pieces across {outlets.length} publications{zs.length ? ", and two zines a week" : ""}.</p>
-          {zs.length > 0 && <div className="rack">{zs.map((z, k) => <a key={z.id} href={`https://askaneuroscientist.vercel.app/zines/${z.id}/`} style={{ ["--r" as string]: `${[-3, 2, -1, 3, -2, 1][k % 6]}deg` }}><img src={`/gallery/zine/${z.id}.webp`} alt="Zine cover" loading="lazy" /><Pre on={later(z.date)} /></a>)}</div>}
+          {zs.length > 0 && <div className="rack">{zs.map((z, k) => <a key={z.id} href={`https://askaneuroscientist.vercel.app/zines/${z.id}/`} style={{ ["--r" as string]: `${[-3, 2, -1, 3, -2, 1][k % 6]}deg` }}><img src={`/gallery-zines/${z.id}.webp`} alt="Zine cover" loading="lazy" /><Pre on={later(z.date)} /></a>)}</div>}
           <div className="outs">{outlets.slice(0, 4).map(([o, n], k) => <div className="reveal" key={o} style={{ ["--r" as string]: `${[-1.5, 1, -0.5, 1.5][k % 4]}deg` }}><b>{n}</b>{o}</div>)}</div>
           {outlets.length > 4 && <p className="also">Also in {outlets.slice(4).map(([o]) => o).join(", ")}.</p>}
           <p className="more"><Link className="btn" href="/writing">Read the writing →</Link></p>
@@ -237,7 +253,7 @@ export function Gallery() {
         <section className="receipts">
           <div className="w rgrid">
             <div>
-              <span className="plaque">Room 6 · <b>Receipts</b></span>
+              <span className="plaque">Room {room()} · <b>Receipts</b></span>
               <h2>Show me the receipts.</h2>
               <p className="lede">Every post has a sources page. Each claim is listed with the paper it comes from and where in the paper to look.</p>
               <video className="howvid" src="/gallery/video/claim-check.mp4" poster="/gallery/video/claim-check.jpg" muted playsInline loop autoPlay preload="metadata" aria-label="Every claim, read in full: the six checks between a study and your feed" />
@@ -260,11 +276,11 @@ export function Gallery() {
       <section className="ama dark" id="ama">
         <Swirl />
         <div className="w">
-          <span className="plaque">Room 7 · <b>AMA</b></span>
+          <span className="plaque">Room {room()} · <b>AMA</b></span>
           <h2>Ask me anything.</h2>
           <p className="lede">Is there a question your audience keeps asking? Send it to me. This is what I can make from it:</p>
           <div className="cards">{offers.map((o) => <div className="reveal" key={o.title}><b>{o.title}</b>{o.text}</div>)}</div>
-          <Link className="btn" href="/contact">Send me the question →</Link>
+          <Link className="btn" href="/work-with-me">Send me the question →</Link>
         </div>
       </section>
 

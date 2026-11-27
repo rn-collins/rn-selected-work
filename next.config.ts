@@ -33,6 +33,8 @@ const nextConfig: NextConfig = {
     "/charts/[slug]/[file]": ["./data/charts/**/*"],
     "/interactives/[slug]/[...path]": ["./data/interactives/**/*"],
     "/p/[slug]/slides/[file]": ["./data/post-pages/**/*"],
+    "/gallery-slides/[id]/[file]": ["./data/gallery-slides/**/*"],
+    "/gallery-zines/[file]": ["./data/gallery-zines/**/*"],
   },
   // Keep the production build within the existing deployment memory budget.
   // A one-CPU cap in dev leaves the first compile running until the request times out.

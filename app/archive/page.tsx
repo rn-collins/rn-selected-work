@@ -27,32 +27,37 @@ export default function Archive() {
           RN<span>↗</span>
         </Link>
         <div className="navlinks">
-          <a href="#work">Work</a>
-          <Link href="/builds">Build index</Link>
-          <Link href="/ideas">Zero to One ↗</Link>
-          <a href="#writing">Writing</a>
+          <Link href="/">Home</Link>
+          <Link href="/work">Work</Link>
+          <Link href="/writing">Writing</Link>
+          <Link href="/work-with-me">Work with me</Link>
         </div>
       </nav>
       <header className="hero shell">
-        <p className="eyebrow">Selected work · RN Collins · 2026</p>
+        <p className="eyebrow">Archive · RN Collins</p>
         <h1>
-          I work on questions
+          Everything else
           <br />
-          too messy for a<br />
-          <em>single discipline.</em>
+          <em>I’ve made.</em>
         </h1>
         <div className="herofoot">
-          <p>
-            Neuroscientist, knowledge content creator, and builder. Chair of
-            FlexJD Interests, Student Bar Association, Northeastern University
-            School of Law, Class of 2029.
-          </p>
           <p className="lede">
-            Research, tools, public guides and published writing on law, science,
-            technology, governance, education and Hawaiʻi.
+            Every project, idea, long-running initiative, essay and source page, kept at the same addresses.
           </p>
         </div>
       </header>
+      <nav className="pathways shell" aria-label="Archive sections">
+        {[
+          ["Every project", "/builds", "All the sites and tools I’ve built, with their real status."],
+          ["Ideas in progress", "/ideas", "Proposals, research notes, prototypes and paused ideas."],
+          ["Long-running projects", "/initiatives", "Aloha AI, NSAG and Institutions of One."],
+          ["Essays", "/essays", "The essay series, by account."],
+          ["Sources", "/sources", "The sources page behind every post."],
+          ["How I work", "/practice", "How I study a problem and decide what to make."],
+          ["For organizations", "/for-organizations", "How a project with me starts."],
+          ["Search everything", "/explore", "Search across the whole site."],
+        ].map(([t, h, d]) => <Link key={h} href={h}><h2>{t} →</h2><p>{d}</p></Link>)}
+      </nav>
       <nav className="pathways shell" aria-label="Choose a path through the portfolio">{pathways.map(p=><Link key={p.href} href={p.href}><h2>{p.title} →</h2><p>{p.description}</p></Link>)}</nav>
       <section className="shell curatedSelection" aria-labelledby="curated-title"><p className="eyebrow">Three questions I keep coming back to</p><h2 id="curated-title">Start with a question.</h2><div className="pathways">
         <Link href="/work/ownership-platform"><h2>Who owns the value of independent work? →</h2><p>Institutions of One: research on who owns an independent career, plus a public site with 41 career profiles.</p></Link>

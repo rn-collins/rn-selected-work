@@ -1,7 +1,7 @@
 'use client';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-const destinations=[['Home','/'],['Explore','/explore'],['Work','/work'],['Ideas','/ideas'],['Writing','/writing'],['Essays','/essays'],['Sources','/sources'],['Initiatives','/initiatives'],['About','/about'],['Contact','/contact']];
+const destinations=[['Home','/'],['Work','/work'],['Writing','/writing'],['About','/about'],['Work with me','/work-with-me'],['Archive','/archive']]; // five pages plus the Archive (redesign, Nov 27)
 export function PortfolioWayfinding({bottom=false}:{bottom?:boolean}){
  const path=usePathname();
  // The business-card hub (/links) starts at the top of a phone screen: no portfolio bar or 'Where next?' there.

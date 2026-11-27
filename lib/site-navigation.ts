@@ -1,13 +1,12 @@
 export type SiteLink = { label: string; href: string };
 
 export const primaryNavigation: readonly SiteLink[] = [
-  { label: "Practice", href: "/practice" },
+  { label: "Home", href: "/" },
   { label: "Work", href: "/work" },
-  { label: "For Organizations", href: "/for-organizations" },
-  { label: "Initiatives", href: "/initiatives" },
   { label: "Writing", href: "/writing" },
   { label: "About", href: "/about" },
+  { label: "Archive", href: "/archive" },
 ];
 
-export const conversationLink = { label: "Start a Conversation", href: "/contact" } as const;
+export const conversationLink = { label: "Work with me", href: "/work-with-me" } as const;
 export const footerNavigation: readonly SiteLink[] = [...primaryNavigation, conversationLink];

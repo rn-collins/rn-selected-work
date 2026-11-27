@@ -38,7 +38,8 @@ export function GalleryClient() {
 
     // Carousels swipe themselves; tap for the next slide.
     root.querySelectorAll<HTMLElement>(".phone").forEach((ph, k) => {
-      const tr = ph.querySelector<HTMLElement>(".track > div")!, n = tr.children.length, dots = ph.querySelectorAll(".dots i");
+      const tr = ph.querySelector<HTMLElement>(".track > div"); if (!tr) return; // the lobby's video phone has no slides
+      const n = tr.children.length, dots = ph.querySelectorAll(".dots i");
       let i = 0;
       const go = () => { tr.style.transform = `translateX(${-100 * i}%)`; dots.forEach((d, j) => d.classList.toggle("a", j === i)); };
       go();
