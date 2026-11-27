@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { CanonicalPage } from "../../components/canonical-page";
 import { siteProperties } from "../../lib/site-properties";
-import { builds } from "../../lib/builds";
 
 export const metadata: Metadata = {
   title: "Initiatives",
@@ -21,14 +20,14 @@ export default function Page() {
       <header className="canonicalSubhero shell">
         <p className="eyebrow">Initiatives</p>
         <h1>
-          Long-running questions
+          Three questions
           <br />
           <em>I keep working on.</em>
         </h1>
         <p>
-          Some questions are larger than one client engagement or one build. These
-          initiatives give the practice a place to keep researching, testing, publishing
-          and building around them.
+          Some questions are bigger than one client project or one tool. These three
+          projects give me a place to keep researching, testing, publishing and building
+          around them.
         </p>
       </header>
 
@@ -38,24 +37,14 @@ export default function Page() {
           <div>
             <h2>A question that keeps recurring deserves somewhere to live.</h2>
             <p className="bigcopy">
-              Consulting work ends. The question underneath it usually does not — it
-              arrives again, at a different organisation, wearing different clothes, and
-              the second engagement starts from nothing because the first one produced a
-              deliverable rather than a body of work.
+              Consulting work ends, but the question under it usually comes back at another
+              organization in a different form. Without a place to keep what I learned, the
+              second project starts from nothing.
             </p>
             <p>
-              An initiative is the correction. It holds the framework, the evidence, the
-              instruments and the builds in one place across engagements, so the tenth time
-              a question appears there is something to bring to it. It also creates an
-              obligation the practice would otherwise avoid: an initiative has to say what
-              it has actually established, and what it has only proposed.
-            </p>
-            <p>
-              Each of these pages therefore lists its real deployments, drawn from the same
-              generated inventory as the{" "}
-              <Link href="/builds">build index</Link> — {builds.length} builds across the
-              estate — with the same status lines. An initiative page cannot claim more
-              than exists, because it is rendering the same data.
+              Each initiative keeps the research, evidence, tools and builds in one place, so
+              there’s something to bring the tenth time a question comes up. It also has to
+              say what it has actually shown and what it has only proposed.
             </p>
           </div>
         </div>
@@ -72,7 +61,7 @@ export default function Page() {
         <div className="canonicalCards">
           {initiatives.map((initiative) => (
             <article key={initiative.id}>
-              <p className="eyebrow">{initiative.lifecycle}</p>
+              <p className="eyebrow">{initiative.lifecycle.replace("-", " ")}</p>
               <h3>{initiative.name}</h3>
               <p>{initiative.purpose}</p>
               {initiative.evidenceBoundary && <small>{initiative.evidenceBoundary}</small>}

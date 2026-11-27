@@ -64,23 +64,22 @@ export default function NSAGCaseStudy() {
 
       <section className="fit">
         <div className="shell fitgrid">
-          <p className="eyebrow">The governing proposition</p>
+          <p className="eyebrow">The main idea</p>
           <div>
             <p className="bigcopy">Organizations already shape how the nervous systems of their people respond. NSAG makes those effects something you can see, write down, measure and manage.</p>
             <p>
-              Policies, technologies, procedures, language, built environments,
-              cognitive load, relationships, identity, agency, and power are not
-              neutral administrative details. They create conditions of threat,
-              safety, stress, trust, recovery, attention, and participation.
-              NSAG translates that premise into governance criteria and
-              institutional action.
+              Policies, technology, procedures, wording, buildings, workload,
+              relationships, identity, control and power are not neutral details.
+              They make people feel threatened or safe, stressed or trusting, and
+              they affect recovery, attention and whether people take part. NSAG
+              turns that idea into criteria an organization can assess and act on.
             </p>
           </div>
         </div>
       </section>
 
       <section className="work shell">
-        <div className="sectionhead"><p className="eyebrow">What RN built</p><p>A working practice with six parts, not a placeholder consulting page.</p></div>
+        <div className="sectionhead"><p className="eyebrow">What I built</p><p>A working practice with six parts, not a placeholder consulting page.</p></div>
         <div className="featurecards">
           <article><span>01</span><h2>Framework</h2><p>Sixteen principles across foundation, mechanisms, social infrastructure, and governance accountability.</p></article>
           <article><span>02</span><h2>Assessments</h2><p>Fifteen modules, one for each sector. Each uses scenarios, six areas of review, evidence, maturity levels, recommendations, a radar chart of results and a report.</p></article>
@@ -92,7 +91,7 @@ export default function NSAGCaseStudy() {
       </section>
 
       <section className="writing shell">
-        <div className="sectionhead"><p className="eyebrow">Fifteen governance domains</p><p>Each link opens that module on the NSAG site.</p></div>
+        <div className="sectionhead"><p className="eyebrow">Fifteen modules</p><p>Each link opens that module on the NSAG site.</p></div>
         <div className="miniarticles">
           {modules.map((module, index) => (
             <article key={module.title}>
@@ -109,7 +108,7 @@ export default function NSAGCaseStudy() {
 
       <section className="advisory">
         <div className="shell advisorygrid">
-          <div><p className="eyebrow">Inspect the system</p><h2>Framework,<br /><em>evidence, and use.</em></h2></div>
+          <div><p className="eyebrow">Go deeper</p><h2>Framework,<br /><em>evidence, and use.</em></h2></div>
           <div className="advisoryitems">
             {surfaces.map(([label, href]) => <article key={href}><h3>{label}</h3><a href={href} target="_blank" rel="noreferrer">Open {label} ↗</a></article>)}
           </div>
@@ -124,7 +123,7 @@ export default function NSAGCaseStudy() {
         </div>
       </section>
 
-      <footer className="footer"><div className="shell footergrid"><div><p className="eyebrow">Primary destination</p><h2>See NSAG<br /><em>in use.</em></h2></div><div className="contact"><a href="https://nsag-site.vercel.app/" target="_blank" rel="noreferrer">Explore NSAG ↗</a><Link href="/">Return to selected work →</Link></div></div></footer>
+      <footer className="footer"><div className="shell footergrid"><div><p className="eyebrow">Next step</p><h2>See NSAG<br /><em>in use.</em></h2></div><div className="contact"><a href="https://nsag-site.vercel.app/" target="_blank" rel="noreferrer">Explore NSAG ↗</a><Link href="/">Return to selected work →</Link></div></div></footer>
     </main>
   );
 }

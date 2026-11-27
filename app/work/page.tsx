@@ -28,8 +28,8 @@ export default function Page() {
     </header>
     <section id="primary-cases" className="canonicalSection shell">
       <div className="canonicalSectionHead">
-        <div><p className="eyebrow">Primary case studies</p><h2>Read the reasoning,<br/>not just the result.</h2></div>
-        <p>{projects.length} substantial project records.</p>
+        <div><p className="eyebrow">Case studies</p><h2>How I got from the question<br/>to the result</h2></div>
+        
       </div>
       <div className="canonicalCards">{projects.map(project => <article key={project.slug}>
         <p className="eyebrow">{project.kind} · {project.status}</p>
@@ -43,13 +43,13 @@ export default function Page() {
     <section id="build-atlas" className="canonicalBand">
       <div className="shell">
         <div className="canonicalSectionHead">
-          <div><p className="eyebrow">Public work gallery</p><h2>Tools, systems, resources,<br/>courses, and experiments.</h2></div>
+          <div><p className="eyebrow">Tools and guides</p><h2>Every tool, guide, course<br/>and experiment I’ve built</h2></div>
           <p>{builds.length} entries from the existing public build inventory.</p>
         </div>
         <p className="rosterNote">Browse the individual works below, including proposals, prototypes and maintained resources. Each card retains the status from its project record and opens a fuller account with its own site link. The inventory was generated on {inventoryDate}; it is a dated record, not a claim that every deployment was checked today. Private work and excluded projects remain outside this public gallery.</p>
         <nav className="workCollectionLinks workCategoryLinks" aria-label="Work gallery categories">
           {populatedCategories.map(category => <Link href={`#gallery-${category.id}`} key={category.id}>
-            {category.title}<span>{category.builds.length} entries</span>
+            {category.title}<span>{category.builds.length} {category.builds.length === 1 ? "entry" : "entries"}</span>
           </Link>)}
         </nav>
         <div className="canonicalActions"><Link className="button" href="/builds">See the full list with details →</Link></div>
@@ -57,7 +57,7 @@ export default function Page() {
     </section>
     {populatedCategories.map(category => <section id={`gallery-${category.id}`} className="canonicalSection shell" key={category.id} aria-labelledby={`gallery-title-${category.id}`}>
       <div className="canonicalSectionHead">
-        <div><p className="eyebrow">{category.builds.length} entries</p><h2 id={`gallery-title-${category.id}`}>{category.title}</h2></div>
+        <div><p className="eyebrow">{category.builds.length} {category.builds.length === 1 ? "entry" : "entries"}</p><h2 id={`gallery-title-${category.id}`}>{category.title}</h2></div>
         <p>{category.blurb}</p>
       </div>
       <div className="canonicalCards">{category.builds.map(build => <article key={build.repo}>
@@ -73,7 +73,7 @@ export default function Page() {
       </article>)}</div>
     </section>)}
     <section className="canonicalBand"><div className="shell">
-      <div className="canonicalSectionHead"><div><p className="eyebrow">Across the practice</p><h2>Read the writing, or see ideas in progress.</h2></div><p>Publications, initiatives and concepts have their own collections.</p></div>
+      <div className="canonicalSectionHead"><div><p className="eyebrow">More to explore</p><h2>Read the writing, or see ideas in progress.</h2></div></div>
       <div className="canonicalActions">
         <Link className="button" href="/writing">Published writing →</Link>
         <Link className="button secondary" href="/ideas">Ideas in progress →</Link>

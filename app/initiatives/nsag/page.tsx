@@ -38,20 +38,19 @@ export default function Page() {
               A scheduling policy, an escalation path, a lighting specification, a consent
               form and a piece of internal language are all interventions on a human
               nervous system. They are almost never designed as though they were, and they
-              are almost never measured that way afterwards.
+              are almost never measured that way afterward.
             </p>
             <p>
-              The framework asks a governance question that most governance frameworks
-              skip: not whether a policy is defensible, but what it does to the people
-              living inside it, and what observation would have shown otherwise. That is a
-              measurable question, which is the point — it turns a value into something a
-              programme can be held to.
+              Most governance guides ask whether a policy can be defended. This framework
+              asks what the policy does to the people living under it, and what you would
+              have to observe to show otherwise. That can be measured, which is the point:
+              it turns a value into something a program can be held to.
             </p>
             <p>
-              What that produces is not a policy document. It produces workbenches: a
-              structured pass over a real programme that ends in an owned action register
-              with named responsibility, a review date and an escalation path that does not
-              depend on the goodwill of the person being escalated about.
+              The output is a set of workbenches, not a policy document. Each one walks
+              through a real program step by step and ends in a list of actions, each with a
+              named owner, a review date, and an escalation path that doesn’t depend on the
+              goodwill of the person the complaint is about.
             </p>
           </div>
         </div>
@@ -69,18 +68,18 @@ export default function Page() {
           <div>
             <h2>Fifteen modules, now together on the NSAG site.</h2>
             <p className="bigcopy">
-              The modules set out evidence and governance questions across fifteen
-              institutional design domains. Each originally had its own deployment;
-              the collection now lives together on the NSAG site.
+              The 15 modules set out the evidence and governance questions for 15 areas of
+              how organizations are designed. Each one used to have its own website; now
+              they’re all on the NSAG site.
             </p>
             <p>
-              The standalone deployments were consolidated on 15 August 2026. The
-              modules remain current; it is the separate hosting that was retired.
+              The separate sites were merged on August 15, 2026. The modules are still
+              current; only the separate websites were retired.
             </p>
             <p>
-              The old addresses remain online as signposts to the current modules,
-              preserving links published before consolidation. The build index retains
-              their records and explains the status and destination of each one.
+              The old addresses still work and point to the current modules, so links shared
+              before the merge don’t break. The full list of my builds keeps an entry for
+              each one, with its status and where it now points.
             </p>
             <div className="canonicalActions">
               <Link className="button" href="/work/neurocognitive-systems-advisory-group">
@@ -96,7 +95,7 @@ export default function Page() {
 
       <section className="canonicalSection shell">
         <div className="canonicalSplit">
-          <p className="eyebrow">Evidence boundary</p>
+          <p className="eyebrow">What the evidence supports</p>
           <div>
             <h2>A framework should say what it can’t do.</h2>
             <p>

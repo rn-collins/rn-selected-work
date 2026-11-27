@@ -26,7 +26,7 @@ export function PreviewFrame({
       {compact ? null : (
         <div className="buildPreviewHeader">
           <div>
-            <p className="eyebrow">Public site</p>
+            <p className="eyebrow">Live preview</p>
             <h2>The site as it looks today</h2>
           </div>
           <a href={url} target="_blank" rel="noreferrer">

@@ -18,7 +18,7 @@ import {
 export const revalidate = 3600;
 
 export const metadata: Metadata = {
-  title: "Build index",
+  title: "Everything I’ve built",
   description:
     "Every live tool, guide and tracker RN Collins has built: what each one does, who it’s for and its current status.",
   alternates: { canonical: "/builds" },
@@ -29,6 +29,30 @@ const generated = new Date(shelfGeneratedAt).toLocaleDateString("en-GB", {
   month: "long",
   year: "numeric",
 });
+
+// Copy audit (Nov 27, 2026): on this index the "Built on" line is cut where it was only a tech-stack
+// detail. Each project page (/builds/[repo]) still shows it.
+const builtOnCutFromIndex = new Set([
+  "rn-ask-a-neuroscientist",
+  "set-for-life",
+  "flexjd-site",
+  "tech-from-here-netherlands-field-kit",
+  "htw-field-kit",
+  "institutions-of-one-reader",
+  "ownership-platform",
+  "tech-from-here-fashion-week",
+  "aloha-ai-consulting",
+  "bm-intel",
+  "creator-brand-evidence",
+  "nsag-site",
+  "aloha-culture-monitor",
+  "nervous-system-studio",
+  "aiapc-site",
+  "clerking-site",
+  "tech-from-here-mjbizcon",
+  "future-professional-profiles",
+  "sovereign-stack",
+]);
 
 const shippedCategories = categoriesFor(shippedBuilds);
 const studioCategories = categoriesFor(studioBuilds);
@@ -44,9 +68,8 @@ export default function BuildIndexPage() {
           <em>with its real status.</em>
         </h1>
         <p>
-          Shipped is one project and one production URL. Studio is a real prototype, prelaunch,
-          proposal, or paused build, on its own address. Hold is tests, failed previews, duplicates,
-          signposts, and client deploys. Hold is not linked from this page, and client work is not named.
+          Live projects come first. Prototypes, proposals and paused work follow. Tests, duplicates
+          and client work aren’t listed.
         </p>
       </header>
       <PreviewGrid />
@@ -54,19 +77,12 @@ export default function BuildIndexPage() {
 
       <section className="canonicalSection shell" aria-labelledby="method">
         <div className="canonicalSplit">
-          <p className="eyebrow">How to read it</p>
+          <p className="eyebrow">About the status lines</p>
           <div>
             <h2 id="method">Each status line comes from the tool itself.</h2>
             <p className="bigcopy">
-              Status lines repeat what each build says about itself: a sweep date, a founding
-              cohort still forming, a lab that is not legal advice, or a public page that has
-              not released its pieces.
-            </p>
-            <p>
-              Where a build reports its own health — the monitors publish their last successful sweep
-              and a staleness flag — the status line here repeats what the build says about itself,
-              including when that is &ldquo;overdue&rdquo;. Where a build is thin, it is described as
-              thin. Nothing here is written from a meta description.
+              Each status repeats what the tool reports about itself: the date of its last check, a
+              group still forming, or a page with nothing released yet.
             </p>
             <p className="indexProvenance">
               Assigned {generated} from {shelfCounts.projects} live Vercel projects. {shelfCounts.shipped}{" "}
@@ -106,14 +122,14 @@ export default function BuildIndexPage() {
       </nav>
 
       <div className="indexBody shell">
-        <p className="eyebrow">Shipped</p>
+        <p className="eyebrow">Live</p>
         {shippedCategories.map((category) => (
           <section className="indexCategory" id={category.id} key={category.id}>
             <div className="indexCategoryHead">
               <h2>{category.title}</h2>
               <p>{category.blurb}</p>
               <p className="eyebrow">
-                {category.builds.length} {category.builds.length === 1 ? "build" : "builds"}
+                {category.builds.length} {category.builds.length === 1 ? "project" : "projects"}
               </p>
             </div>
 
@@ -135,12 +151,14 @@ export default function BuildIndexPage() {
                     <p>
                       <b>What it does.</b> {build.does}
                     </p>
-                    <p>
-                      <b>Built on.</b> {build.builtOn}
-                    </p>
+                    {!builtOnCutFromIndex.has(build.repo) && (
+                      <p>
+                        <b>Built on.</b> {build.builtOn}
+                      </p>
+                    )}
                     {build.limits && (
                       <p className="indexLimits">
-                        <b>What it does not establish.</b> {build.limits}
+                        <b>Limits.</b> {build.limits}
                       </p>
                     )}
                     {build.linkHeld && <p className="indexHeld">{build.linkHeld}</p>}
@@ -173,7 +191,7 @@ export default function BuildIndexPage() {
       </div>
 
       <div className="indexBody shell" id="studio">
-        <p className="eyebrow">Studio</p>
+        <p className="eyebrow">In progress</p>
         <h2>Prototypes and paused projects</h2>
         {studioCategories.map((category) => (
           <section className="indexCategory" id={`studio-${category.id}`} key={category.id}>
@@ -181,7 +199,7 @@ export default function BuildIndexPage() {
               <h2>{category.title}</h2>
               <p>{category.blurb}</p>
               <p className="eyebrow">
-                {category.builds.length} {category.builds.length === 1 ? "build" : "builds"}
+                {category.builds.length} {category.builds.length === 1 ? "project" : "projects"}
               </p>
             </div>
             <div className="indexList">
@@ -201,12 +219,14 @@ export default function BuildIndexPage() {
                     <p>
                       <b>What it does.</b> {build.does}
                     </p>
-                    <p>
-                      <b>Built on.</b> {build.builtOn}
-                    </p>
+                    {!builtOnCutFromIndex.has(build.repo) && (
+                      <p>
+                        <b>Built on.</b> {build.builtOn}
+                      </p>
+                    )}
                     {build.limits && (
                       <p className="indexLimits">
-                        <b>What it does not establish.</b> {build.limits}
+                        <b>Limits.</b> {build.limits}
                       </p>
                     )}
                     <div className="indexActions">
@@ -244,12 +264,6 @@ export default function BuildIndexPage() {
                 </div>
               ))}
             </dl>
-            <p>
-              Separately, a number of client engagements, private workspaces and credential-gated
-              deployments are excluded by name in <code>data/exclusions.json</code> and are not
-              identified anywhere on this site. The regeneration script reads that file, so an
-              excluded build cannot reappear by being forgotten about.
-            </p>
           </div>
         </div>
       </section>

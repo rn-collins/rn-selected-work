@@ -82,7 +82,7 @@
     "category": "Intelligence",
     "stage": "Prototype",
     "question": "Brand and campaign teams treat a film or television moment as a demand signal long before anyone has asked what would make that inference testable, or what governance questions an AI-assisted read of culture raises.",
-    "expression": "Tracks film, television and cultural moments alongside consumer style and spending signals, and attaches an AI governance risk score to each read so the inference and its reliability travel together rather than the score arriving alone.",
+    "expression": "Tracks film, TV and cultural moments next to signs of what people buy and wear. Each reading comes with an AI governance risk score, so you see how reliable the inference is alongside the inference itself.",
     "boundary": "Exploratory. The public page reports the signal set stale, with last successful data on 17 August 2026. The signals are hypotheses about consumer behaviour, not measured outcomes.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
@@ -170,7 +170,7 @@
     "category": "Research",
     "stage": "Prototype",
     "question": "Claims about screen media reshaping how people see themselves circulate as either dismissal or alarm, with the actual evidence rarely laid out in a form where a reader can see how far it reaches.",
-    "expression": "Sets out a sourced hypothesis about how screen worlds may become self-relevant, presented as an interactive research note with an evidence ledger attached and its limits stated in the body rather than in a footnote.",
+    "expression": "An interactive research note with a sourced hypothesis about how worlds on screen may become self-relevant. It comes with a list of its evidence, and it states its limits in the main text, not in a footnote.",
     "boundary": "A hypothesis with an evidence ledger. It is not a finding, and it reports no original study.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
@@ -203,7 +203,7 @@
     "category": "Systems",
     "stage": "Documented build",
     "question": "Independent professionals accumulate disconnected notes, task managers, client records, AI conversations and automations. The tools are not the constraint; deciding what belongs where, what happens next, and how the system stays current is, and that work never leaves the operator.",
-    "expression": "A six-stage practice-architecture workbench: a maturity and friction map, editable workflow and tool inventories, governed AI role cards, a weekly review builder, a prioritised 30-day implementation sequence, and five portable data schemas. Includes an example mode, browser persistence, and Markdown, JSON, CSV and print exports.",
+    "expression": "A six-step workbench for setting up how your practice runs: a maturity and friction map, editable lists of your workflows and tools, AI role cards with rules for each role, a weekly review builder, a prioritized 30-day plan, and five data formats you can take anywhere. It has an example mode, saves in your browser, and exports to Markdown, JSON, CSV and print.",
     "boundary": "A planning tool, not a certification and not an autonomous operating system.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
@@ -214,7 +214,7 @@
     "category": "Systems",
     "stage": "Documented build",
     "question": "Organisations deploying AI agents are asked for an inventory, a risk assessment and an evidence trail at the moment a regulator or a customer asks, which is the worst possible moment to start assembling one.",
-    "expression": "Works through AI system inventory, risk triage, controls, evaluation, incidents and human oversight, and exports the result as an evidence pack. Everything stays in the browser.",
+    "expression": "Walks through listing your AI systems, sorting them by risk, setting controls, evaluation, incidents and human oversight, then exports the result as an evidence pack. Everything stays in your browser.",
     "boundary": "Local-first issue-spotting. Not a compliance certification and not a legal assessment.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
@@ -225,7 +225,7 @@
     "category": "Systems",
     "stage": "Documented build",
     "question": "Athlete welfare policies are written at the level of principle and then have to survive contact with scheduling, recovery, safeguarding and a young person's actual ability to raise a concern. The gap between the policy and the week is where the harm lives.",
-    "expression": "Runs a programme and decision scan across scheduling, recovery, safeguarding, environment, athlete voice and escalation, then produces an owned action register and a 90-day governance roadmap with named responsibility and an independent response and review path.",
+    "expression": "Checks a program’s decisions on scheduling, recovery, safeguarding, environment, athlete voice and escalation. It then produces an action list with a named owner for each item, a 90-day governance plan, and an independent path for responses and review.",
     "boundary": "Issue-spotting for a governance conversation. Not a safeguarding audit and not a clinical or legal determination.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
@@ -247,7 +247,7 @@
     "category": "Systems",
     "stage": "Paused",
     "question": "Neuro-health questions that cross life stages, cannabis, psychedelics, medications and symptoms tend to get one appointment's worth of attention, and the patient arrives without the specific questions that would make that appointment useful.",
-    "expression": "Helps a person assemble what they are actually asking, what is known about it, and what to raise with a clinician, and produces a prepared set of appointment questions. Everything stays in the browser.",
+    "expression": "Helps you work out what you’re really asking, what’s known about it, and what to raise with a clinician, then gives you a list of questions to bring to the appointment. Everything stays in your browser.",
     "boundary": "Evidence orientation and appointment preparation. Not medical advice, not a diagnosis, not a treatment recommendation, and not emergency care.",
     "held": true,
     "provenance": "Existing portfolio record; catalogued October 2026."
@@ -269,7 +269,7 @@
     "category": "Systems",
     "stage": "Documented build",
     "question": "Governance questions on an AI-enabled campaign surface after it ships, when the answer is an apology rather than a change.",
-    "expression": "Runs a browser-local checklist over a cultural or AI-enabled campaign, linking each question to its official source and stating where the checklist stops.",
+    "expression": "A checklist for cultural or AI-assisted campaigns that runs in your browser. Each question links to its official source, and the tool says where the checklist stops.",
     "boundary": "Issue-spotting. Not a legal review and not a clearance.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
@@ -280,7 +280,7 @@
     "category": "Systems",
     "stage": "Documented build",
     "question": "A creator using AI runs into disclosure duties, likeness rights, music licensing, platform policy and jurisdiction all at once, usually without knowing which of the five is the one that will actually bite.",
-    "expression": "Asks seven questions and returns the issue areas they implicate across creator rights, AI use, disclosure, likeness, music, jurisdiction and platform review.",
+    "expression": "Asks seven questions and shows which issues your answers raise: creator rights, AI use, disclosure, likeness, music, jurisdiction and platform review.",
     "boundary": "Educational issue-spotting. Not legal advice and not a jurisdiction-specific answer.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."
@@ -291,7 +291,7 @@
     "category": "Systems",
     "stage": "Documented build",
     "question": "Creative teams adopting synthetic media move faster than the decisions about provenance, disclosure and what happens when something goes wrong — and those decisions are then made under incident conditions.",
-    "expression": "A browser-local workbench for mapping synthetic-media, creator-rights, disclosure, provenance and incident-response decisions before they are needed, so the incident plan exists in advance of the incident.",
+    "expression": "A browser tool for making decisions about synthetic media, creator rights, disclosure, provenance and incident response before you need them, so the plan exists before the incident does.",
     "boundary": "A governance mapping tool. Not a legal review.",
     "held": false,
     "provenance": "Existing portfolio record; catalogued October 2026."

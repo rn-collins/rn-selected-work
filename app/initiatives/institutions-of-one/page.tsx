@@ -21,10 +21,9 @@ export default function Page() {
           <em>of One.</em>
         </h1>
         <p>
-          Research and systems concerning ownership, portability, independent practice and
-          institutional legibility — the conditions under which one person&rsquo;s work,
-          capability, relationships and intellectual assets become portable, cumulative and
-          legible to institutions that were not built to read them.
+          Research and tools on what independent workers own and can take with them. It
+          asks when one person’s work, skills, relationships and ideas can move with them,
+          add up over time, and make sense to institutions that weren’t built to read them.
         </p>
       </header>
 
@@ -34,23 +33,23 @@ export default function Page() {
           <div>
             <h2>What does an independent practice actually own?</h2>
             <p className="bigcopy">
-              Independent professionals are assessed through institutional proxies —
-              employer, title, credential, network — while the things that actually
-              constitute the practice stay invisible.
+              Independent professionals get judged by stand-ins: employer, title,
+              credential, network. The work that actually makes up their practice stays
+              invisible.
             </p>
             <p>
-              The work exists, often across a dozen systems. The relationships exist. The
-              capability is demonstrable. None of it is legible as a coherent whole, and
-              none of it travels well: it is held in platforms that can close, formats that
-              can rot, and reputations that live inside a company someone else owns.
+              The work exists, often spread across a dozen apps and platforms. The
+              relationships exist. The skill can be shown. But none of it reads as one
+              whole, and none of it travels well: it sits on platforms that can close, in
+              file formats that can stop opening, and in reputations that live inside a
+              company someone else owns.
             </p>
             <p>
-              The initiative treats that as a measurement and governance problem rather
-              than a personal-branding one. What would have to be true for a body of
-              independent work to compound? What evidence would a person need to carry
-              with them? And what are the ethics of measuring any of it — because an
-              instrument that scores a person&rsquo;s worth is not a neutral object, and
-              the programme&rsquo;s own gates say so.
+              This project treats that as a problem of measurement and governance, not
+              personal branding. It asks what it would take for a body of independent work
+              to add up over time, what evidence a person would need to carry, and whether
+              measuring any of it is ethical. A tool that scores a person’s worth isn’t
+              neutral, and the project’s own release rules say so.
             </p>
           </div>
         </div>
@@ -64,7 +63,7 @@ export default function Page() {
 
       <section className="canonicalSection shell">
         <div className="canonicalSplit">
-          <p className="eyebrow">Evidence boundary</p>
+          <p className="eyebrow">What the evidence supports</p>
           <div>
             <h2>The assessments aren’t validated, and the site says so.</h2>
             <p>
@@ -75,12 +74,11 @@ export default function Page() {
               not a measurement.
             </p>
             <p>
-              Participant data and research operations remain private while the evidence and
-              participation safeguards develop. The public reader is built with a
-              build-time boundary check so that the private studio, review records,
-              unreleased audio and uncleared assets cannot reach the deployment by
-              accident — the separation is enforced by the build, not by a policy someone
-              has to remember.
+              Participant data and research work stay private while the evidence and the
+              protections for participants are developed. The public reader runs a check
+              every time it’s built, so private drafts, review notes, unreleased audio and
+              material not yet cleared for use can’t go live by accident. The code enforces
+              that line, not a rule someone has to remember.
             </p>
             <div className="canonicalActions">
               <Link className="button" href="/work/ownership-platform">

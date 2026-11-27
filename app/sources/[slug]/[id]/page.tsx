@@ -176,7 +176,7 @@ export default async function SourcePage({ params }: Params) {
                   <dd>
                     {im.card ? <span>Number card made for this post, citing {im.credit}.</span> : <span>{im.what}</span>}
                     {!im.card && im.credit && <span className={styles.credit}>{im.credit}</span>}
-                    {source.href && <a href={source.href} target="_blank" rel="noreferrer">{im.card ? "The study" : "Photo record"} <span aria-hidden="true">↗</span></a>}
+                    {source.href && <a href={source.href} target="_blank" rel="noreferrer">{im.card ? "The study" : "Photo source"} <span aria-hidden="true">↗</span></a>}
                     {source.note && <span className={styles.credit}>{source.note}</span>}
                   </dd>
                 </div>

@@ -24,10 +24,10 @@ export const projects: Project[] = [
   {
     slug: "ownership-platform",
     number: "01",
-    kind: "Independent research + applied inquiry",
+    kind: "Research project",
     title: "Institutions of One",
     shortTitle: "Institutions of One",
-    status: "Independent research and applied-research practice · active development",
+    status: "In development",
     thesis:
       "How do you keep the value of your work when you leave a job, a platform or a title?",
     summary:
@@ -50,10 +50,10 @@ export const projects: Project[] = [
   {
     slug: "flexjd-resource-hub",
     number: "02",
-    kind: "Community + ecosystem infrastructure",
+    kind: "Student resource",
     title: "FlexJD Resource Hub",
     shortTitle: "FlexJD Resource Hub",
-    status: "Community infrastructure · independently maintained",
+    status: "Run independently",
     thesis:
       "Puts scattered law-school information in one place, without pretending to be official.",
     summary:
@@ -75,7 +75,7 @@ export const projects: Project[] = [
   {
     slug: "psychedelic-operations-intelligence",
     number: "03",
-    kind: "Research + intelligence systems",
+    kind: "Source tracker",
     title: "Psychedelic Operations Intelligence",
     shortTitle: "Psychedelic Operations",
     status: "Live source monitor · sweep current 9 November 2026",
@@ -101,10 +101,10 @@ export const projects: Project[] = [
   {
     slug: "buechler-pacific",
     number: "04",
-    kind: "Organization-specific concept build",
+    kind: "Concept for one company",
     title: "Claude for Small Business",
     shortTitle: "Claude for Small Business",
-    status: "Independent product-translation concept · release-blocked",
+    status: "Unofficial concept · not released",
     thesis:
       "How can a small business understand an AI product before plugging it into its work?",
     summary:
@@ -128,10 +128,10 @@ export const projects: Project[] = [
   {
     slug: "keiki-robotics",
     number: "05",
-    kind: "Organization-specific concept build",
+    kind: "Concept for one company",
     title: "Keiki Robotics / Oʻahu AI",
     shortTitle: "Keiki Robotics / Oʻahu AI",
-    status: "Independent static family-resource concept · release-blocked",
+    status: "Unofficial family guide · not released",
     thesis:
       "Show Hawaiʻi kids, families and teachers real ways into robotics.",
     summary:
@@ -155,7 +155,7 @@ export const projects: Project[] = [
   {
     slug: "patent-first-steps",
     number: "06",
-    kind: "Independent build",
+    kind: "Legal guide",
     title: "So You Have an Invention: First Steps",
     shortTitle: "Patent First Steps",
     status: "Independent legal-education guide · live",

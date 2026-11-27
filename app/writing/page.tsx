@@ -23,6 +23,19 @@ const totalRecords = publicationArchive.length + journalArticles.length;
 
 const publications = [...new Set(publicationArchive.map((article) => article.publication))];
 
+// What each publication's count is a count of: reprints for the Journal editions, and the one thesis,
+// preprint and report by their own names, so a count never calls a thesis an "article".
+function countLabel(publication: string, n: number) {
+  const noun =
+    publication === "Cannabis Law Journal" ? "reprint"
+    : publication === "Boston University" ? "thesis"
+    : publication === "SocArXiv" ? "preprint"
+    : publication === "Mothers in Science" ? "report"
+    : "article";
+  if (n === 1) return noun;
+  return noun === "thesis" ? "theses" : `${noun}s`;
+}
+
 export default function WritingArchivePage() {
   const ddwEssays = releasedDdwEssays();
   const totalWords = releasedWords();
@@ -33,7 +46,7 @@ export default function WritingArchivePage() {
         <div className="navlinks"><Link href="/#work">Work</Link><Link href="/writing">Writing</Link></div>
       </nav>
       <header className="archiveHero shell">
-        <p className="eyebrow">Publication archive · checked October 17, 2026</p>
+        <p className="eyebrow">Published work · last checked October 17, 2026</p>
         <h1>Published work,<br /><em>across disciplines.</em></h1>
         <div className="archiveIntro">
           <p>{totalRecords} located publication records across law, governance, neuroscience, cannabis, psychedelics, culture, institutional accountability, and Hawaiʻi.</p>
@@ -117,7 +130,7 @@ export default function WritingArchivePage() {
               <div className="publicationArchiveHead">
                 <p className="eyebrow">Publication</p>
                 <h2>{publication}</h2>
-                <span>{articles.length} records</span>
+                <span>{articles.length} {countLabel(publication, articles.length)}</span>
               </div>
               {publication === "The Daily Pennsylvanian" && <p className="archiveDisclosure">Reporting on health care, education, public policy, business, and campus life. Read each article in full at The Daily Pennsylvanian.</p>}
               {publication === "Cannabis Law Journal" ? (

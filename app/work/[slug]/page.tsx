@@ -85,13 +85,13 @@ export default async function ProjectPage({
           <CaseBlock label="What I noticed" text={p.noticed} />
           <CaseBlock label="What I researched" text={p.researched} />
           <CaseBlock label="What I built" text={p.built} />
-          <CaseBlock label="Who it serves" text={p.serves} />
-          <CaseBlock label="What it demonstrates" text={p.demonstrates} />
+          <CaseBlock label="Who it’s for" text={p.serves} />
+          <CaseBlock label="What it shows" text={p.demonstrates} />
         </div>
         {projectRecord && <VerifiedRecord build={projectRecord} />}
         {p.evidenceNote && (
           <aside className="evidenceNote">
-            <b>Evidence boundary</b>
+            <b>What the evidence supports</b>
             <p>{p.evidenceNote}</p>
           </aside>
         )}
@@ -143,9 +143,9 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
           RN<span>↗</span>
         </Link>
         <div className="navlinks">
-          <Link href="/#build-atlas">All builds</Link>
+          <Link href="/#build-atlas">All projects</Link>
           {build.promoteLive !== false ? (
-            <a href={build.live} target="_blank" rel="noreferrer">Open audited artifact ↗</a>
+            <a href={build.live} target="_blank" rel="noreferrer">Open the site ↗</a>
           ) : (
             <span className="availability">Public link held pending remediation</span>
           )}
@@ -160,11 +160,11 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
         <div className="caseGrid">
           {build.noticed && <CaseBlock label="What I noticed" text={build.noticed} />}
           {build.researched && <CaseBlock label="What I researched" text={build.researched} />}
-          <CaseBlock label="What exists" text={build.built} />
-          <CaseBlock label="Who it serves" text={build.serves} />
-          <CaseBlock label="What it demonstrates" text={build.demonstrates} />
+          <CaseBlock label="What I built" text={build.built} />
+          <CaseBlock label="Who it’s for" text={build.serves} />
+          <CaseBlock label="What it shows" text={build.demonstrates} />
           <CaseBlock
-            label="Current evidence"
+            label="Where it stands"
             text={build.evidence || "This portfolio record describes the verified public build and its current production destination. The underlying build remains subject to its own separate content, functional, responsive, accessibility, privacy, and release audit."}
           />
         </div>
@@ -172,7 +172,7 @@ function PublicBuildCase({ build }: { build: (typeof publicBuilds)[number] }) {
         <div className="caseActions">
           {build.promoteLive !== false ? (
             <a className="button" href={build.live} target="_blank" rel="noreferrer">
-              Open audited artifact ↗
+              Open the site ↗
             </a>
           ) : (
             <span className="availability">Public link held pending remediation</span>

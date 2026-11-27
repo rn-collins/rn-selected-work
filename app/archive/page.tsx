@@ -48,14 +48,13 @@ export default function Archive() {
             School of Law, Class of 2029.
           </p>
           <p className="lede">
-            Selected research, institutional frameworks, working systems, public resources,
-            and published analysis across law, science, technology, governance,
-            education, and Hawaiʻi.
+            Research, tools, public guides and published writing on law, science,
+            technology, governance, education and Hawaiʻi.
           </p>
         </div>
       </header>
       <nav className="pathways shell" aria-label="Choose a path through the portfolio">{pathways.map(p=><Link key={p.href} href={p.href}><h2>{p.title} →</h2><p>{p.description}</p></Link>)}</nav>
-      <section className="shell curatedSelection" aria-labelledby="curated-title"><p className="eyebrow">Three ways the disciplines meet</p><h2 id="curated-title">Start with a question.</h2><div className="pathways">
+      <section className="shell curatedSelection" aria-labelledby="curated-title"><p className="eyebrow">Three questions I keep coming back to</p><h2 id="curated-title">Start with a question.</h2><div className="pathways">
         <Link href="/work/ownership-platform"><h2>Who owns the value of independent work? →</h2><p>Institutions of One: research on who owns an independent career, plus a public site with 41 career profiles.</p></Link>
         <Link href="/writing#journal-of-biophilic-design"><h2>How does a space affect a mind? →</h2><p>Five Journal of Biophilic Design columns on how rooms, landscapes and wood affect the brain.</p></Link>
         <Link href="/explore?topic=Law+%2B+governance"><h2>What happens after a law is written? →</h2><p>Follow law and governance through published analysis, case studies, and builds.</p></Link>
@@ -84,17 +83,16 @@ export default function Archive() {
       </section>
       <section className="work shell" aria-labelledby="source-desk-title">
         <div className="sectionhead">
-          <p className="eyebrow">Source Desk / Interactive field guide</p>
-          <p>Research, visual explanation, and a public question pathway.</p>
+          <p className="eyebrow">Featured: interactive guide</p>
         </div>
         <div className="projects">
           <article className="project">
             <div className="projecttop">
               <span className="num">01</span>
-              <span className="kind">Science communication · independently initiated</span>
+              <span className="kind">Science communication · my own project</span>
             </div>
             <h2 id="source-desk-title">What a Color Plate Can Tell Us</h2>
-            <p className="status">Live educational resource · September 2026</p>
+            <p className="status">Live guide · September 2026</p>
             <p className="thesis">A childhood eye appointment becomes a guide to what color plates measure, how X-linked inheritance works, and how to make color-coded information accessible.</p>
             <p className="copy">Historic test imagery with clear rights, interactive conceptual models, source and limitation notes, and a public route for questions. The demonstrations are educational, not diagnostic.</p>
             <div className="projectfoot">
@@ -109,7 +107,7 @@ export default function Archive() {
       </section>
       <section id="work" className="work shell">
         <div className="sectionhead">
-          <p className="eyebrow">Builds</p>
+          <p className="eyebrow">Things I’ve built</p>
           <p>Each one opens live, with a write-up and its sources.</p>
         </div>
         <div className="projects">
@@ -148,7 +146,7 @@ export default function Archive() {
       </section>
       <section id="build-atlas" className="atlas shell">
         <div className="sectionhead">
-          <p className="eyebrow">Complete build index</p>
+          <p className="eyebrow">Everything I’ve built</p>
           <p>
             {shippedBuilds.length} shipped builds, one URL each. {studioBuilds.length} are in the studio.
             {shelfCounts.hold} deployments are held off this site.
@@ -162,16 +160,14 @@ export default function Archive() {
             The previous hand-maintained list had drifted to 32 entries.
           </p>
           <p>
-            Each entry states the problem it addresses, what it does, what it runs on,
-            and an honest status. Retired prototypes are listed as retired, paused work
-            as paused, and thin work as thin. Client engagements, private workspaces and
-            credential-gated deployments are excluded on purpose, and the index says so.
+            Each entry says what problem it solves, what it does and its real status. Client
+            work and private projects are left out.
           </p>
         </div>
         <div className="indexSummaryGrid">
           {populatedCategories.map((category) => (
             <article key={category.id}>
-              <p className="eyebrow">{category.builds.length} builds</p>
+              <p className="eyebrow">{category.builds.length} {category.builds.length === 1 ? "project" : "projects"}</p>
               <h3>{category.title}</h3>
               <p>{category.blurb}</p>
               <Link href={`/builds#${category.id}`}>
@@ -192,39 +188,32 @@ export default function Archive() {
       <section className="advisory">
         <div className="shell advisorygrid">
           <div>
-            <p className="eyebrow">Frameworks + institutional work</p>
-            <h2>
-              Original systems,
-              <br />
-              made operational.
-            </h2>
+            <p className="eyebrow">Work for organizations and government</p>
+            <h2>Plans and tools for organizations</h2>
           </div>
           <div className="advisoryitems">
             <article>
               <h3>Neurocognitive Systems Advisory Group</h3>
               <p>
-                A research framework for institutions that need to see how policy,
-                technology, procedure, language, environment, and power shape
-                thinking and the body. The public site publishes fifteen module
-                scopes. Assessment collection is paused on all fifteen. Those
-                pages do not collect answers, calculate findings, or send reports.
+                NSAG is my research method for organizations that want to see how their
+                rules, tools, language and spaces affect people’s minds and bodies. The
+                public site describes 15 modules. All 15 assessments are paused, so the
+                pages don’t collect answers or send reports.
               </p>
               <Link href="/work/neurocognitive-systems-advisory-group">
                 Read the NSAG case study →
               </Link>
               <small>
-                The link stays on this site. Human advisory work is separate from
-                the public pages. Other parts of NSAG are switched off, and the
-                site says which.
+                Advisory work with me is separate from the public pages. Some parts of
+                NSAG are switched off, and the site says which.
               </small>
             </article>
             <article>
               <h3>Tools from NSAG</h3>
               <p>
-                NSAG’s institutional work is not one website. The links below
-                open the record for each build: governance tools, neuroarchitecture,
-                sport, women’s health, developing brains, health education,
-                creator rights, and applied nervous-system design.
+                NSAG covers more than one site. Each link below opens the page for one
+                tool: governance, building design, sport, women’s health, children’s
+                brains, health education, creator rights and nervous-system design.
               </p>
               <div className="institutionalLinks">
                 {institutionalBuilds.map((build) =>
@@ -239,22 +228,14 @@ export default function Archive() {
                   ),
                 )}
               </div>
-              <small>
-                These {institutionalBuilds.length} builds are listed here because each one
-                carries an institutional or governance question. The link opens that
-                build’s record on this site. The record says what it refuses, and a
-                held public link is not offered.
-              </small>
             </article>
             <article>
               <h3>Inflection Radar</h3>
               <p>
-                An independent proposal for reviewers deciding whether to
-                authorize a governed public-source pilot. The decision room,
-                brief, report, and deck are the proposal. They were not
-                commissioned, and they do not report pilot results. Open
-                decision room leaves this site for that proposal. The case
-                study link stays here.
+                A proposal I wrote on my own for reviewers deciding whether to
+                approve a public-source pilot. The decision room, brief, report
+                and deck make up the proposal. Nobody commissioned it, and it
+                reports no pilot results.
               </p>
               <div className="actionrow">
                 <Link href="/work/inflection-radar">Read case study →</Link>
@@ -266,10 +247,9 @@ export default function Archive() {
             <article>
               <h3>Aloha Intelligence Institute</h3>
               <p>
-                An independently developed institutional-design proposal
-                examining how a Hawaiʻi-focused AI institute could move from
-                legislative concept toward a defined mandate, governance model,
-                stakeholder process, and implementable launch.
+                A proposal I developed on my own for how a Hawaiʻi AI institute could
+                go from an idea in the legislature to a clear mandate, a governing
+                structure, a public input process and a launch plan.
               </p>
               <div className="actionrow">
                 <Link href="/advisory/aloha-intelligence-institute">
@@ -323,7 +303,7 @@ export default function Archive() {
         </div>
         <div className="archiveCallout">
           <div>
-            <p className="eyebrow">Publication archive</p>
+            <p className="eyebrow">Published work</p>
             <h2>See everything I’ve published.</h2>
           </div>
           <div>
@@ -342,7 +322,7 @@ export default function Archive() {
           <div>
             <p className="eyebrow">Work with RN</p>
             <h2>
-              What system are you
+              What are you
               <br />
               trying to understand
               <br />

@@ -116,31 +116,31 @@ export const buildNotes: BuildNote[] = [
     repo: "legal-risk-monitor",
     title: "Founder Legal Radar",
     category: "monitoring",
-    status: "Live · register checked 19 August 2026",
+    status: "Live · list checked August 19, 2026",
     statusKind: "live",
     problem:
-      "A founder does not have a legal department, and the legal exposures that matter to an early company are scattered across agencies that each publish separately. The usual answer is a long checklist that nobody owns, so nothing on it ever becomes an action.",
+      "Startups don’t have a legal department, and the legal risks that matter early are spread across agencies that each publish on their own. The usual fix is a long checklist nobody owns.",
     does:
-      "Keeps a selected register of United States startup legal exposures, each one linked to the official source and labelled by source type. Every record can be moved through a review status — unreviewed, watching, ask counsel, closed — so the register becomes a set of owned decisions rather than reading. Records can be filtered by operating profile and product exposure, saved, and exported as JSON.",
+      "A selected list of US startup legal risks, each linked to its official source. You can mark each one unreviewed, watching, ask counsel or closed, filter by company type and product, save, and export as JSON.",
     builtOn:
       "A static workspace with all review state held in the browser. No account, no tracking, and nothing about which records you read leaves the machine.",
     limits:
-      "Deliberately selected rather than comprehensive, and educational issue spotting only. It is not legal advice, creates no attorney-client relationship, and the register does not attempt to cover every exposure a company may have.",
+      "A selected list, not a complete one, for spotting issues. Not legal advice, and it creates no attorney-client relationship.",
   },
   {
     repo: "aloha-dea-tracker",
     title: "DEA Scheduling Monitor",
     category: "monitoring",
-    status: "Live · reads the Federal Register API directly",
+    status: "Live · reads the Federal Register directly",
     statusKind: "live",
     problem:
-      "Controlled-substance scheduling moves through the Federal Register in several document types at once, and the ones that decide anything — final rules, proposed rules, temporary orders, quotas — arrive mixed in with registrations and routine notices. Reading it raw means sorting signal from filing traffic by hand.",
+      "DEA scheduling changes reach the Federal Register mixed in with routine notices. The ones that matter (final rules, proposed rules, temporary orders and quotas) are hard to pick out by hand.",
     does:
-      "Pulls DEA documents from the Federal Register API over a rolling 180-day window and sorts them into high-signal actions, final rules, proposed actions open for comment, and quota and temporary orders. Registrations and general notices stay available as reference categories, and the counts across views reconcile to the same document set rather than being computed separately.",
+      "Pulls DEA documents from the Federal Register for the last 180 days and sorts them into key actions, final rules, proposals open for comment, and quotas and temporary orders. Routine notices stay available, and every view counts the same set of documents.",
     builtOn:
       "Scheduled collection against federalregister.gov, the primary source, with a source-health panel that reports the refresh cadence so a stale feed shows as stale.",
     limits:
-      "Automated document discovery. Not legal advice, and not a complete regulatory review. A row says a document exists and what type it is.",
+      "It finds documents automatically. It isn’t legal advice or a full regulatory review. A row only says a document exists and what type it is.",
   },
   {
     repo: "nsag-admin",
@@ -168,7 +168,7 @@ export const buildNotes: BuildNote[] = [
     problem:
       "AI rules come from five places at once: Congress, the FTC, state bars, the ABA and the EU AI Act. No single feed covers all five.",
     does:
-      "Runs a scheduled sweep every Monday, files what it finds into those five categories, and publishes the result as a dashboard and a JSON endpoint. The API returns a collection-health block alongside the documents: last sweep time, age in days, failed-search count, newest item date, and a stale flag that trips after two missed cycles. A stale register is shown as stale rather than presented as the current picture.",
+      "Every Monday it searches those five sources, sorts what it finds and publishes a dashboard and a JSON feed. The feed reports its own health: last check, failed searches, newest item, and a stale flag after two missed weeks. If it’s stale, it says so.",
     builtOn:
       "Vercel serverless functions with an Upstash Redis store for the collected corpus and sweep telemetry. No account, no database of readers.",
     limits:
@@ -178,61 +178,61 @@ export const buildNotes: BuildNote[] = [
     repo: "aloha-legal-ai-monitor",
     title: "Legal AI Guidance Monitor",
     category: "monitoring",
-    status: "Live · eight authorities verified 17 August 2026 · discovery sweep current 9 November 2026",
+    status: "Live · 8 sources confirmed August 17, 2026 · last search November 9, 2026",
     statusKind: "live",
     problem:
-      "When a court sanctions a lawyer for filing fabricated citations, the coverage travels much further than the order. Practitioners need the actual authority — the ABA opinion, the state bar guidance, the standing order, the published sanctions opinion — separated from commentary about it.",
+      "When a court sanctions a lawyer for fake AI citations, the news travels much further than the order. Lawyers need the actual rulings and guidance, kept apart from commentary.",
     does:
-      "Holds a hand-verified register of primary authorities on lawyers' use of generative AI: ABA Formal Opinion 512, four state and city bar opinions, two Middle District of Florida standing orders, and a published Ninth Circuit sanctions opinion. Each carries its jurisdiction, authority type, verification date and a link to the official source. A separate weekly sweep searches official domains for new candidates; anything it finds is filed as an unverified candidate and stays that way until a reviewer opens the document and confirms the characterisation. The two tiers are never merged.",
+      "Lists eight confirmed sources on lawyers’ use of generative AI: ABA Formal Opinion 512, four state and city bar opinions, two Middle District of Florida standing orders and a Ninth Circuit sanctions opinion. Each has its jurisdiction, type, check date and official link. A weekly search looks for new ones, which stay marked unconfirmed until a person reads them.",
     builtOn:
       "Vercel serverless functions over Upstash Redis, with the verified register held in source and the discovery layer kept strictly downstream of it.",
     limits:
-      "The eight verified authorities were confirmed on 17 August 2026. The weekly discovery sweep last completed on 9 November 2026 and the site reports it healthy. Anything the sweep finds stays an unverified candidate until a person opens the document. Not legal advice.",
+      "New finds stay unconfirmed until a person reads them. Not legal advice.",
   },
   {
     repo: "psychops-intel",
     title: "Psych Ops Source Watch",
     category: "monitoring",
-    status: "Live · six sources healthy · last sweep 9 November 2026",
+    status: "Live · all 6 sources working · last check November 9, 2026",
     statusKind: "live",
     problem:
-      "Psychedelic regulation moves through state programme portals and rulemaking pages that publish on no fixed schedule. Most trackers in the space blur an official rule change together with a press release or an advocacy claim.",
+      "Psychedelic rules change on state program pages that publish on no fixed schedule. Most trackers mix official rule changes with press releases and advocacy.",
     does:
-      "Watches six verified official source endpoints, including Oregon Health Authority psilocybin services and Colorado natural medicine, on a weekly Monday cycle. Every candidate passes a source-policy screen before it is shown. The 9 November 2026 sweep kept 16 candidates and rejected 68 as noise, with all six sources healthy. The page reports per-category sweep state and the age of the last successful sweep.",
+      "Checks six official sources every Monday, including Oregon Health Authority psilocybin services and Colorado natural medicine. Every new item has to pass a source check before it shows. The November 9, 2026 check kept 16 items and threw out 68 as noise.",
     builtOn:
       "Vercel serverless functions with an Upstash Redis store and an explicit source-policy module that every candidate must clear before display.",
     limits:
-      "Screened candidates are unreviewed. A record in the source registry means the endpoint is monitored, not that something new was published there. Not legal advice.",
+      "Kept items haven’t been reviewed by a person. A source being on the list means it’s watched, not that it published something new. Not legal advice.",
     caseStudy: "psychedelic-operations-intelligence",
   },
   {
     repo: "aloha-suppression-sweep",
     title: "Platform Moderation Evidence Lab",
     category: "monitoring",
-    status: "Live · register maintained by hand, records verified 19 August 2026",
+    status: "Live · kept by hand · entries checked August 19, 2026",
     statusKind: "live",
     problem:
-      "Arguments about platform moderation of drug-related speech run on a mix of evidence types that get quoted interchangeably: an Oversight Board decision, a regulator's inquiry, a platform's own statement, and an advocacy group's allegation are not the same kind of fact, but they are cited as though they were.",
+      "Debates about how platforms moderate drug talk mix different kinds of evidence. An Oversight Board decision, a regulator’s inquiry, a platform’s statement and an advocacy group’s claim get quoted as if they were the same kind of fact.",
     does:
-      "Holds five public records on how Meta has moderated drug-policy content. Each record states the claim, what its source establishes, the evidentiary boundary, and the verification date. An overturned Oversight Board decision is recorded as a reversal in one case. Review state stays in the visitor's browser.",
+      "Lists five public cases of how Meta moderated drug-policy posts. Each says what was claimed, what the source shows, where that evidence stops and when it was checked. One case records an Oversight Board reversal. Your review notes stay in your browser.",
     builtOn:
       "A static front end over a versioned JSON dashboard endpoint, with a build-time validation script and a test suite. No account, no analytics, no submission endpoint; browser-local state only.",
     limits:
-      "Bounded by design — it covers the documented public record, not the full universe of moderation decisions. Priority flags are local triage, not findings.",
+      "It covers five documented public cases, not every moderation decision. Priority flags are your own notes, not findings.",
   },
   {
     repo: "aloha-culture-monitor",
     title: "Culture Intelligence Monitor",
     category: "monitoring",
-    status: "Prototype · signal set reported stale, last success 17 August 2026",
+    status: "Prototype · data out of date, last updated August 17, 2026",
     statusKind: "prototype",
     problem:
-      "Brand and campaign teams treat a film or television moment as a demand signal long before anyone has asked what would make that inference testable, or what governance questions an AI-assisted read of culture raises.",
+      "Brand teams treat a film or TV moment as a sign of demand before anyone asks how to test that, or what governance questions an AI-assisted read of culture raises.",
     does:
-      "Tracks film, television and cultural moments alongside consumer style and spending signals, and attaches an AI governance risk score to each read so the inference and its reliability travel together rather than the score arriving alone.",
+      "Tracks film, TV and cultural moments next to consumer style and spending signals, and gives each read an AI governance risk score, so the guess and how reliable it is stay together.",
     builtOn: "A Next.js pages-router application deployed on Vercel.",
     limits:
-      "Exploratory. The signals are hypotheses about consumer behaviour, not measured outcomes, and the risk scoring is a framing device rather than a validated instrument.",
+      "Exploratory. The signals are guesses about consumer behavior, not measured results, and the risk score frames the question; it isn’t a validated measure.",
   },
   {
     repo: "transform-observatory",
@@ -241,12 +241,12 @@ export const buildNotes: BuildNote[] = [
     status: "Live · v2, August 2026",
     statusKind: "live",
     problem:
-      "Drug-policy transitions are argued from whichever dimension the arguer cares about — health, or crime, or revenue — and the dimensions that were not measured quietly become the ones that did not matter.",
+      "People argue about drug-policy changes from the one angle they care about (health, crime or revenue), and whatever nobody measured ends up treated as if it didn’t matter.",
     does:
-      "Builds a source-anchored evidence record across six dimensions for a given drug-policy or regulatory transition, so a claim about one dimension can be read against what is and is not documented in the others.",
-    builtOn: "A Next.js application on Vercel.",
+      "Builds a sourced record of one drug-policy change across six areas, so a claim about one area can be read against what is and isn’t known about the others.",
+    builtOn: "Next.js, hosted on Vercel.",
     limits:
-      "A browser-local record. It does not claim live monitoring, automatic refresh, or independent outcome verification. Unknown is a valid result on any dimension. The completion figure measures how much of the record is filled in, not policy quality.",
+      "It runs in your browser. It doesn’t monitor anything live or check outcomes on its own. \"Unknown\" is a valid answer for any area. The completion score shows how much is filled in, not how good the policy is.",
     caseStudy: "transform-drug-market-transition-observatory",
   },
 
@@ -255,45 +255,45 @@ export const buildNotes: BuildNote[] = [
     repo: "entheogen-atlas",
     title: "Entheogen Atlas",
     category: "atlases",
-    status: "Live · complete, maintained",
+    status: "Live · complete and kept up to date",
     statusKind: "live",
     problem:
-      "The popular history of psychedelics is built on a handful of dramatic claims that have quietly failed replication, and they are repeated because the confirmed record and the contested one are told in the same voice. The 60,000-year Shanidar Cave story is the clearest case: the pollen it rests on is now attributed to burrowing rodents, and the assemblage contains no entheogen at all.",
+      "Popular psychedelic history leans on a few dramatic claims that have failed replication. The 60,000-year Shanidar Cave story is the clearest case: its pollen is now attributed to burrowing rodents, and the site holds no entheogen at all.",
     does:
-      "Assembles archaeology, neuroscience, legal history, phenomenology and religious use into one atlas anchored on the oldest chemically confirmed use of a psychedelic — peyote from Shumla Cave, radiocarbon dated to 3780–3660 cal BC and shown by GC-MS to contain mescaline. Older claims are carried where they are serious, but held on an explicit evidence ladder rather than folded into a single headline figure. A separate evidence register and governance page record how each rung is assigned.",
+      "Combines archaeology, neuroscience, legal history, phenomenology and religious use in one atlas, anchored on the oldest chemically confirmed psychedelic use: peyote from Shumla Cave, radiocarbon dated to 3780–3660 cal BC and shown by GC-MS to contain mescaline. Older claims appear where they’re serious, ranked on a clear evidence ladder.",
     builtOn:
       "A static single-page atlas with a committed evidence register and a small governance endpoint. No build step; served from Vercel.",
     limits:
-      "A research and editorial reference. Not medical advice, not legal advice, and not a current-law service. Statutes, agency positions, and litigation move faster than the archive.",
+      "A research reference. Not medical or legal advice, and not a current-law service: laws and court cases move faster than the archive.",
     caseStudy: "entheogen-atlas",
   },
   {
     repo: "fadiman-atlas",
     title: "The Fadiman Knowledge Atlas",
     category: "atlases",
-    status: "Live · 132 catalogued entries, 1968 to 2026",
+    status: "Live · 132 entries, 1968 to 2026",
     statusKind: "live",
     problem:
       "Fifty-eight years of James Fadiman's recorded public output, from a 1968 KQED documentary through April 2026, is scattered across platforms that come and go.",
     does:
       "Publishes a proposed knowledge infrastructure as a catalogue of 132 entries from 1968 to 2026. A scope audit dated 24 October 2026 marks 63 entries historical, dead, or without a URL. The page includes local search, an annotation demonstration, and an archive explorer.",
     builtOn: "A single static HTML document served from Vercel. No build step, no dependencies, no account.",
-    limits: "A catalogue of recorded output. It does not reproduce the works, and it is not an authorised archive.",
+    limits: "A catalog of the works, not copies of them, and not an authorized archive.",
   },
   {
     repo: "psychonaut-bookworm",
     title: "The Psychonaut Bookworm",
     category: "atlases",
-    status: "Live · 460 published objects from a 1,664-record ledger",
+    status: "Live · 460 items published from a list of 1,664",
     statusKind: "live",
     problem:
-      "A reading list in a contested field is a set of assertions about what is worth reading, usually made without showing where anything came from or whether the rights to use it were ever checked.",
+      "A reading list in a contested field makes claims about what’s worth reading, usually without showing where anything came from or whether anyone checked the rights.",
     does:
-      "Publishes 460 editorial objects on 11 books, drawn from a 1,664-record provenance ledger, with per-item source visibility. A research desk keeps a saved queue in the browser. Five object types stay held back while excerpt rights review is open.",
+      "Publishes 460 items on 11 books, drawn from a list of 1,664 sources, each showing where it came from. You can save a reading queue in your browser. Five item types are held back until excerpt rights are cleared.",
     builtOn:
       "A static site with a committed provenance directory and a governance page, served from Vercel.",
     limits:
-      "Education, not medical advice. The published set is the reviewed subset of the ledger. The public ledger counts the withheld records and does not display them.",
+      "Education, not medical advice. Only reviewed items are published. The public list counts the withheld items without showing them.",
     caseStudy: "psychonaut-bookworm",
   },
   {
@@ -305,24 +305,24 @@ export const buildNotes: BuildNote[] = [
     problem:
       "Oregon and Colorado wrote new psychedelic laws and rules, and facilitators, applicants and small operators are reading them with no plain-English guide that still cites the law.",
     does:
-      "Publishes 143 plain-English articles on Oregon and Colorado law, facilitator requirements, and psychedelic business questions, each carrying its sources, with a separate sources index across the whole library and a per-article manifest.",
+      "143 plain-English articles on Oregon and Colorado law, facilitator requirements and psychedelic business questions. Each lists its sources, and a sources index covers the whole library.",
     builtOn: "An Astro-built static site with prebuilt output committed to the repository, served from Vercel.",
-    limits: "Plain-English explanation of published law. Not legal advice, and not a substitute for the statute or rule it describes.",
+    limits: "Explains published law in plain English. Not legal advice, and no substitute for the statute or rule itself.",
     caseStudy: "psychedelic-law-library",
   },
   {
     repo: "destig-toolkit",
     title: "Destigmatization Toolkit",
     category: "atlases",
-    status: "Live · 222 sources, verification record committed",
+    status: "Live · 222 sources, with a public check file",
     statusKind: "live",
     problem:
-      "Six audiences — clinicians, employers, families, journalists, policymakers, patients — need the same pharmacology and the same law, but each needs it framed for a different decision, and a single undifferentiated explainer serves none of them.",
+      "Clinicians, employers, families, journalists, policymakers and patients need the same pharmacology and law, framed for different decisions. One general explainer serves none of them.",
     does:
-      "Covers pharmacology, law and policy for psychoactive plant medicine across six audience paths, over a 222-source reference base. A verification record is committed alongside the site, so the citation set can be re-checked by someone who does not trust the author.",
+      "Covers pharmacology, law and policy for psychoactive plant medicine in six paths, one per audience, with 222 sources. A check file ships with the site, so anyone can re-check the citations.",
     builtOn: "A static site with a committed verification manifest, served from Vercel.",
     limits:
-      "Public education and professional issue-spotting for adults. Not legal advice, medical advice, diagnosis, treatment guidance, or a substitute for the primary authorities. Verified 29 August 2026: 29 sections and 222 numbered source records.",
+      "Education and issue-spotting for adults. Not legal or medical advice, diagnosis or treatment guidance. Checked August 29, 2026: 29 sections and 222 numbered sources.",
     caseStudy: "destigmatization-toolkit",
   },
   {
@@ -332,13 +332,13 @@ export const buildNotes: BuildNote[] = [
     status: "Live · 175 listings, links checked 29 August 2026, records reviewed 20 August 2026",
     statusKind: "live",
     problem:
-      "Directories in an emerging regulated field are read as endorsements. Whoever assembles one is assumed to have vetted licensure, quality and financial stability, and almost never has.",
+      "In a new regulated field, people read a directory as an endorsement. They assume whoever made it checked licenses, quality and finances. Almost nobody has.",
     does:
-      "Indexes 175 organisations in 23 categories, from a survey of 177 names after duplicates were removed. A category, a short descriptor, a link status, and a record-review date are what a card carries. Pricing, credentials, rankings, and promotional claims stay withheld because the survey did not attach a public source to them. Links were checked on 29 August 2026 and entries reviewed on 20 August 2026. Fifteen of the 175 are shown without a link: 13 domains did not resolve, one certificate had expired, and one never had a site.",
+      "Lists 175 organizations in 23 categories, from a survey of 177 names after removing duplicates. Each card shows a category, a short description, link status and review date. Pricing, credentials, rankings and marketing claims are left out because the survey found no public source for them. Links checked August 29, 2026; entries reviewed August 20, 2026. Fifteen have no link: 13 domains didn’t load, one certificate had expired and one never had a site.",
     builtOn:
       "A static front end over a serverless listings endpoint with a static fallback, plus a contract test suite. Methodology and corrections pages ship with it.",
     limits:
-      "Inclusion is not vetting, endorsement, licensure verification, or any finding about quality, safety, financial stability or legal compliance.",
+      "Being listed isn’t an endorsement or a check of licenses, quality, safety, finances or legal compliance.",
     caseStudy: "psych-ops-directory",
   },
   {
@@ -348,12 +348,12 @@ export const buildNotes: BuildNote[] = [
     status: "Prototype · interactive research note",
     statusKind: "prototype",
     problem:
-      "Claims about screen media reshaping how people see themselves circulate as either dismissal or alarm, with the actual evidence rarely laid out in a form where a reader can see how far it reaches.",
+      "Claims that screens change how people see themselves get either dismissed or hyped. The evidence is rarely laid out so a reader can see how far it goes.",
     does:
-      "Sets out a sourced hypothesis about how screen worlds may become self-relevant, presented as an interactive research note with an evidence ledger attached and its limits stated in the body rather than in a footnote.",
-    builtOn: "A Next.js pages-router application on Vercel.",
+      "Lays out a sourced hypothesis about how on-screen worlds can come to feel personal, as an interactive research note with an evidence log and its limits stated up front.",
+    builtOn: "Next.js (pages router), hosted on Vercel.",
     limits:
-      "A proposed interpretive framework with an evidence ledger. It reports no original study. It does not diagnose audiences, predict purchases, or establish causation.",
+      "A proposed interpretation with an evidence log. It reports no original study and doesn’t diagnose audiences, predict purchases or show cause and effect.",
   },
 
   // -------------------------------------------------------------------- tools
@@ -364,12 +364,12 @@ export const buildNotes: BuildNote[] = [
     status: "Live · v2, August 2026",
     statusKind: "live",
     problem:
-      "Custom AI projects get quoted as one number, even though discovery, research, architecture, implementation, testing, documentation, launch and maintenance are different kinds and amounts of work. That opacity hurts the buyer and the builder equally.",
+      "Custom AI projects get quoted as one number, even though discovery, research, design, building, testing, documentation, launch and upkeep are different kinds and amounts of work. That hides costs from the buyer and the builder alike.",
     does:
       "Walks you through seven steps: brief, labor, runtime, other costs, risk, results and compare. Labor lines and rates are your own assumptions, and you can edit them. It returns a build cost range, a monthly running cost and a first-year range. Scenarios save in your browser, and you can share them by link, print them or export them.",
     builtOn: "A static browser application with local persistence and URL-encoded scenario sharing, served from Vercel.",
     limits:
-      "Outputs are the user's own planning scenarios. They are not quotes, and they are not independently validated market benchmarks.",
+      "The results are your own planning scenarios. They aren’t quotes or checked market prices.",
     caseStudy: "ai-build-budget-calculator",
   },
   {
@@ -379,12 +379,12 @@ export const buildNotes: BuildNote[] = [
     status: "Live · v2, August 2026",
     statusKind: "live",
     problem:
-      "Documents now arrive containing authorities that do not exist, sources that do not support the proposition attributed to them, and confidence that outruns the evidence. A spot check cannot show which claims were actually reviewed, which is the thing a reader needs to know.",
+      "Documents now cite sources that don’t exist, sources that don’t say what’s claimed, and more confidence than the evidence supports. A spot check can’t show which claims were actually reviewed, and that’s what a reader needs to know.",
     does:
-      "Turns claims and citations into a review ledger across five stages: review brief, claim ledger, source register, claim-level findings, and disposition. It tracks claim type, materiality, retrievability, source type, support, contradiction, currency, attribution, conflicts and reviewer responsibility separately, rather than inferring validity from the presence of a citation marker. Outputs a release packet as Markdown, CSV, JSON or print.",
-    builtOn: "A static browser application with local persistence, served from Vercel.",
+      "Turns claims and citations into a review log in five steps: brief, claims, sources, findings and decision. It tracks each claim’s type, importance, whether its source can be found, what the source supports or contradicts, how current it is and who reviewed it, instead of assuming a citation means the claim is right. Exports to Markdown, CSV, JSON or print.",
+    builtOn: "A web app that saves your work in your browser, hosted on Vercel.",
     limits:
-      "The score measures documentation completeness, not truth and not source authentication. Legal, clinical, scientific and regulatory conclusions still need the appropriate qualified reviewer.",
+      "The score measures how well the review is documented, not whether claims are true or sources are real. Legal, clinical, scientific and regulatory calls still need a qualified reviewer.",
     caseStudy: "source-integrity-audit",
   },
   {
@@ -394,11 +394,11 @@ export const buildNotes: BuildNote[] = [
     status: "Live · v2, August 2026",
     statusKind: "live",
     problem:
-      "Independent professionals accumulate disconnected notes, task managers, client records, AI conversations and automations. The tools are not the constraint; deciding what belongs where, what happens next, and how the system stays current is, and that work never leaves the operator.",
+      "Freelancers collect scattered notes, task apps, client files, AI chats and automations. The tools aren’t the problem. Deciding what goes where, what happens next and how it all stays current is, and nobody else can do that part for them.",
     does:
-      "A six-stage practice-architecture workbench: a maturity and friction map, editable workflow and tool inventories, governed AI role cards, a weekly review builder, a prioritised 30-day implementation sequence, and five portable data schemas. Includes an example mode, browser persistence, and Markdown, JSON, CSV and print exports.",
-    builtOn: "A static browser application with local persistence, served from Vercel.",
-    limits: "A planning tool, not a certification and not an autonomous operating system.",
+      "A six-step planning tool for running an independent practice: a map of what’s working and what isn’t, editable lists of workflows and tools, rules for each AI assistant, a weekly review, a 30-day plan and five data templates. It includes an example, saves in your browser and exports to Markdown, JSON, CSV or print.",
+    builtOn: "A web app that saves your work in your browser, hosted on Vercel.",
+    limits: "A planning tool. It doesn’t certify anything or run your business for you.",
     caseStudy: "one-person-firm-os",
   },
   {
@@ -406,15 +406,15 @@ export const buildNotes: BuildNote[] = [
     institutional: true,
     title: "GAPI Agent Governance Workbench",
     category: "tools",
-    status: "Live · local-first workbench",
+    status: "Live · runs in your browser",
     statusKind: "live",
     problem:
       "An organization using an AI agent needs an inventory, a risk review and an evidence file before a regulator or customer asks for one.",
     does:
-      "Works through AI system inventory, risk triage, controls, evaluation, incidents and human oversight, and exports the result as an evidence pack. Everything stays in the browser.",
-    builtOn: "A static browser application with local persistence, plus privacy and terms pages, served from Vercel.",
+      "Walks through an AI inventory, risk review, controls, testing, incidents and human oversight, then exports an evidence pack. Everything stays in your browser.",
+    builtOn: "A web app that saves your work in your browser, with privacy and terms pages, hosted on Vercel.",
     limits:
-      "No automated certification. The workbench does not certify safety, compliance, lawfulness, or conformity with any standard. Scores organize review. They are not legal conclusions.",
+      "It doesn’t certify safety, compliance, legality or any standard. Scores help organize a review. They aren’t legal conclusions.",
     caseStudy: "gapi",
   },
   {
@@ -425,12 +425,12 @@ export const buildNotes: BuildNote[] = [
     status: "Live",
     statusKind: "live",
     problem:
-      "Athlete welfare policies are written at the level of principle and then have to survive contact with scheduling, recovery, safeguarding and a young person's actual ability to raise a concern. The gap between the policy and the week is where the harm lives.",
+      "Athlete welfare policies are written as principles, then have to hold up against real schedules, recovery, safeguarding and a young athlete’s ability to speak up. Harm happens in the gap between the policy and the week.",
     does:
-      "Runs a programme and decision scan across scheduling, recovery, safeguarding, environment, athlete voice and escalation, then produces an owned action register and a 90-day governance roadmap with named responsibility and an independent response and review path.",
-    builtOn: "A static browser application with local persistence, plus privacy and terms pages, served from Vercel.",
+      "Reviews a program’s scheduling, recovery, safeguarding, environment, athlete voice and escalation, then produces an action list with owners and a 90-day plan, including an independent way to raise and review concerns.",
+    builtOn: "A web app that saves your work in your browser, with privacy and terms pages, hosted on Vercel.",
     limits:
-      "A local-first governance record. It does not diagnose, treat, clear participation, or prescribe workload. It does not replace sports medicine, mental-health care, safeguarding review, or legal counsel.",
+      "It doesn’t diagnose, treat, clear anyone to play or set workloads. It doesn’t replace sports medicine, mental-health care, safeguarding review or a lawyer.",
     caseStudy: "sport-nsag",
   },
   {
@@ -438,15 +438,15 @@ export const buildNotes: BuildNote[] = [
     institutional: true,
     title: "NARCH Spatial Evidence Workbench",
     category: "tools",
-    status: "Release review open · public link held",
+    status: "Paused · under review, link not public yet",
     statusKind: "paused",
     problem:
-      "Neuro-aware design claims are easy to make and rarely tested. A building gets described as calming, and nothing in the process ever asks what observation would have shown otherwise. The workbench is for architects, designers, developers, and the institutions commissioning the space. The public link is held, so this record does not offer the address.",
+      "Claims that a building is calming are easy to make and rarely tested, and nothing in the design process asks what would show otherwise. This tool is for architects, designers, developers and the organizations that commission buildings.",
     does:
       "For architects, designers, developers and the organizations that commission buildings. It turns observations of a place into design hypotheses tied to the evidence, runs an accessibility review, ranks the changes, and sets up measurement after move-in so each hypothesis can be checked once people use the place.",
-    builtOn: "A static browser application with local persistence, plus privacy and terms pages, served from Vercel.",
+    builtOn: "A web app that saves your work in your browser, with privacy and terms pages, hosted on Vercel.",
     limits:
-      "A local-first inquiry tool. It does not establish medical benefit, legal or code compliance, accessibility compliance, or architectural or engineering adequacy.",
+      "It doesn’t show medical benefit, legal or code compliance, accessibility compliance, or that a design is structurally sound.",
     linkHeld:
       "The public link stays off this site until this tool passes its release review. The tool is live and described above; it will be linked here once the review is done.",
     caseStudy: "narch",
@@ -456,15 +456,15 @@ export const buildNotes: BuildNote[] = [
     institutional: true,
     title: "Women's Neuro-Health Evidence Navigator",
     category: "tools",
-    status: "Release review open · public link held",
+    status: "Paused · under review, link not public yet",
     statusKind: "paused",
     problem:
-      "Neuro-health questions that cross life stages, cannabis, psychedelics, medications and symptoms tend to get one appointment's worth of attention, and the patient arrives without the specific questions that would make that appointment useful.",
+      "Brain-health questions that cross life stages, cannabis, psychedelics, medications and symptoms get one appointment’s worth of attention, and patients arrive without the questions that would make it useful.",
     does:
-      "Helps a person assemble what they are actually asking, what is known about it, and what to raise with a clinician, and produces a prepared set of appointment questions. Everything stays in the browser.",
-    builtOn: "A static browser application with local persistence, plus privacy and terms pages, served from Vercel.",
+      "Helps you sort out what you’re asking, what’s known about it and what to raise with a clinician, then gives you a list of questions for the appointment. Everything stays in your browser.",
+    builtOn: "A web app that saves your work in your browser, with privacy and terms pages, hosted on Vercel.",
     limits:
-      "Evidence orientation and appointment preparation. Not medical advice, not a diagnosis, not a treatment recommendation, and not emergency care.",
+      "Helps you prepare for an appointment. Not medical advice, a diagnosis, treatment or emergency care.",
     linkHeld:
       "The public link stays off this site until this tool passes its release review. Health guidance gets linked here only after that review, even if the tool is already live.",
     caseStudy: "womens-neuro-health",
@@ -477,13 +477,13 @@ export const buildNotes: BuildNote[] = [
     status: "Live · v2, August 2026",
     statusKind: "live",
     problem:
-      "Families and schools are asked whether children should use AI as though the tool, the task, the child's age, the data practices and the level of adult oversight all raised the same question. They do not, and the general answer is useless for the specific decision in front of someone.",
+      "Families and schools get asked whether kids should use AI as if the tool, the task, the child’s age, the data practices and adult supervision were all one question. They aren’t, and a general answer doesn’t help with a specific decision.",
     does:
       "Evaluates one specific child-facing AI use across five age-aware stages: context, the role AI will play, what cognitive work it may substitute for, adult involvement, consequence level, and data and human safeguards. The decision logic is inspectable rather than hidden, and the output names the developmental capacities to protect, the questions to put to a vendor or school, and the signals to monitor.",
     builtOn:
       "A static browser application with local persistence and dated source links, served from Vercel. The decision model draws on the AAP 2026 state-of-the-art review, UNICEF child-centred AI guidance, UNESCO guidance for education, US Department of Education FERPA guidance, the FTC's amended COPPA Rule, and the NIST Generative AI Profile.",
     limits:
-      "It does not diagnose children, certify products, determine legal compliance, or claim that long-term neurological effects are settled.",
+      "It doesn’t diagnose children, certify products, decide legal compliance or claim the long-term brain effects are known.",
     caseStudy: "ai-for-developing-brains",
   },
   {
@@ -493,12 +493,12 @@ export const buildNotes: BuildNote[] = [
     status: "Live",
     statusKind: "live",
     problem:
-      "Governance questions on an AI-enabled campaign surface after it ships, when the answer is an apology rather than a change.",
+      "Governance questions about an AI-assisted campaign tend to come up after launch, when the only answer left is an apology.",
     does:
-      "Runs a browser-local checklist over a cultural or AI-enabled campaign, linking each question to its official source and stating where the checklist stops.",
+      "A checklist for a cultural or AI-assisted campaign that runs in your browser. Each question links to its official source, and it says where the checklist stops.",
     builtOn: "A Next.js pages-router application on Vercel, with no submission endpoint.",
     limits:
-      "A browser-local checklist. It does not monitor feeds, determine compliance, score legal risk, or provide legal advice. Entries stay in the browser tab.",
+      "It doesn’t monitor anything, decide compliance, score legal risk or give legal advice. Your entries stay in the browser tab.",
   },
   {
     repo: "aloha-creator-rights",
@@ -508,12 +508,12 @@ export const buildNotes: BuildNote[] = [
     status: "Live",
     statusKind: "live",
     problem:
-      "A creator using AI runs into disclosure duties, likeness rights, music licensing, platform policy and jurisdiction all at once, usually without knowing which of the five is the one that will actually bite.",
+      "A creator using AI hits disclosure rules, likeness rights, music licensing, platform policy and jurisdiction all at once, usually without knowing which one will actually cause trouble.",
     does:
-      "Asks seven questions and returns the issue areas they implicate across creator rights, AI use, disclosure, likeness, music, jurisdiction and platform review.",
-    builtOn: "A Next.js pages-router application on Vercel.",
+      "Asks seven questions and shows which issues your answers raise: creator rights, AI use, disclosure, likeness, music, jurisdiction and platform review.",
+    builtOn: "Next.js (pages router), hosted on Vercel.",
     limits:
-      "A browser-local prototype. Educational issue-spotting only. Not legal advice, rights clearance, contract review, or permission to publish. It does not inspect agreements.",
+      "A prototype that runs in your browser, for spotting issues. Not legal advice, rights clearance, contract review or permission to publish. It doesn’t read your contracts.",
     caseStudy: "creator-rights-framework",
   },
   {
@@ -523,11 +523,11 @@ export const buildNotes: BuildNote[] = [
     status: "Live",
     statusKind: "live",
     problem:
-      "Creative teams adopting synthetic media move faster than the decisions about provenance, disclosure and what happens when something goes wrong — and those decisions are then made under incident conditions.",
+      "Creative teams adopt AI-generated media faster than they decide on provenance, disclosure and what to do when something goes wrong. Then those decisions get made in a crisis.",
     does:
-      "A browser-local workbench for mapping synthetic-media, creator-rights, disclosure, provenance and incident-response decisions before they are needed, so the incident plan exists in advance of the incident.",
-    builtOn: "A Next.js pages-router application on Vercel.",
-    limits: "A governance mapping tool. Not a legal review.",
+      "A browser tool for planning synthetic-media, creator-rights, disclosure, provenance and incident decisions ahead of time, so the incident plan exists before the incident.",
+    builtOn: "Next.js (pages router), hosted on Vercel.",
+    limits: "A planning tool, not a legal review.",
   },
   {
     repo: "aloha-behavioral-intelligence",
@@ -536,12 +536,12 @@ export const buildNotes: BuildNote[] = [
     status: "Prototype · exploratory issue-spotter",
     statusKind: "prototype",
     problem:
-      "Attention signals from screen culture get converted into consumer-behaviour conclusions with no step in between where someone writes down what would have to be true for the inference to hold.",
+      "Attention data from screen culture gets turned into claims about consumer behavior, with no step where anyone writes down what would have to be true for that to hold.",
     does:
       "Takes one named cultural moment and sets a cautious consumer-behavior hypothesis next to samples of public attention, including Wikipedia pageviews.",
-    builtOn: "A Next.js pages-router application on Vercel.",
+    builtOn: "Next.js (pages router), hosted on Vercel.",
     limits:
-      "An exploratory issue-spotter. It does not measure an individual, predict behaviour, or establish that media exposure caused a purchase. The hypotheses are untested.",
+      "Exploratory. It doesn’t measure individuals, predict behavior or show that seeing something caused a purchase. The hypotheses are untested.",
   },
   {
     repo: "dru-assessment",
@@ -554,7 +554,7 @@ export const buildNotes: BuildNote[] = [
       "Pre- and post-questionnaire designs need to link a person's two responses without holding their identity, and the linking mechanism is the part that usually gets hand-waved in a demonstration.",
     does:
       "Demonstrates pseudonymously linked pre and post questionnaire records held entirely in the browser, so the linkage design can be inspected rather than described.",
-    builtOn: "A static browser application with local persistence, served from Vercel.",
+    builtOn: "A web app that saves your work in your browser, hosted on Vercel.",
     limits:
       "Explicitly unvalidated. It does not measure effectiveness, knowledge gain, behaviour change or clinical outcomes, and no instrument in it has been normed.",
     caseStudy: "cannabis-healthcare-impact-assessment",
@@ -567,12 +567,12 @@ export const buildNotes: BuildNote[] = [
     status: "Live · private browser log",
     statusKind: "live",
     problem:
-      "Advice about environment and routine arrives as universal prescription, when the thing that varies most is the person — and there is rarely any mechanism for someone to find out whether a change actually did anything for them.",
+      "Advice about your surroundings and routine comes as one-size-fits-all rules, when the person is what varies most, and there’s rarely a way to find out whether a change helped you.",
     does:
-      "A private log of where you were and how you felt. Entries stay in the browser. It compares settings only after at least four entries, and only when a setting has been seen at least twice.",
+      "A private log of where you were and how you felt. Entries stay in your browser. It compares settings only after at least four entries, and only for a setting seen at least twice.",
     builtOn: "A single-file, dependency-free browser application served as a static site from Vercel, with a research dossier held alongside it.",
     limits:
-      "Not a diagnostic instrument and not medical advice. A comparison describes the person keeping the log.",
+      "Not a diagnostic tool or medical advice. A comparison describes only the person keeping the log.",
     caseStudy: "nervous-system-studio",
   },
 
@@ -581,16 +581,16 @@ export const buildNotes: BuildNote[] = [
     repo: "zero-to-frontier",
     title: "Zero → Frontier",
     category: "education",
-    status: "Live · eleven sections, twenty pages, 237 curated resources",
+    status: "Live · 11 sections, 20 pages, 237 resources",
     statusKind: "live",
     problem:
-      "AI literacy material is either marketing for a product or an abstraction with nothing a reader can go and check. The gap is a guide that names its sources and survives someone actually following them.",
+      "Most AI literacy material is either product marketing or theory with nothing to check. What’s missing is a guide that names its sources and holds up when you follow them.",
     does:
-      "A free source-forward guide in eleven sections and twenty pages, with a route builder and 237 curated resources. The history timeline carries 17 sourced turning points. No account. Optional reading progress stays in the browser.",
+      "A free guide in 11 sections and 20 pages, with a reading-path builder and 237 linked resources. The history timeline has 17 sourced turning points. No account needed; reading progress can be saved in your browser.",
     builtOn:
       "A static site on Vercel. The public address is https://zero-to-frontier.vercel.app. The earlier z2f-live hostname still serves the same guide.",
     limits:
-      "Vendor, product, pricing, legal, and frontier claims are dated snapshots to recheck. Two of the 237 linked resources sit behind a Medium member paywall and are labelled in the library.",
+      "Claims about vendors, products, prices, law and the frontier are dated snapshots, so check them again. Two of the 237 resources are behind Medium’s paywall and are labeled.",
     caseStudy: "zero-to-frontier",
   },
   {
@@ -600,12 +600,12 @@ export const buildNotes: BuildNote[] = [
     status: "Live",
     statusKind: "live",
     problem:
-      "People are asked to work with regulation without ever being taught the underlying skill: telling a binding authority from persuasive commentary, checking whether it still applies where and when they are, and knowing when to escalate.",
+      "People are expected to work with regulation without learning the basic skill: telling binding law from commentary, checking it still applies where and when they are, and knowing when to ask for help.",
     does:
-      "Teaches classifying authority, tracking jurisdiction and currentness, comparing regimes, and documenting escalation, as an interactive lab rather than a reading list.",
+      "An interactive lab, not a reading list, that teaches how to classify a legal source, track jurisdiction and dates, compare rules across places and record when to escalate.",
     builtOn: "A static site with its own academy stylesheet and script, plus privacy and terms pages, served from Vercel.",
     limits:
-      "An educational tool with four modules. Progress stays in the browser. Not legal advice and not CLE. It does not determine what law applies, certify that a source is current, or create an attorney-client relationship.",
+      "Four modules; progress stays in your browser. Not legal advice and not CLE credit. It doesn’t tell you which law applies or confirm a source is current.",
     caseStudy: "regac",
   },
   {
@@ -615,25 +615,25 @@ export const buildNotes: BuildNote[] = [
     status: "Live · free, non-credit",
     statusKind: "live",
     problem:
-      "Most AI training teaches people to use a tool. Almost none teaches them to interrogate its output before relying on it, which is the skill that fails first in practice.",
+      "Most AI training teaches people to use a tool. Almost none teaches them to question its output before relying on it, and that’s the skill that fails first.",
     does:
-      "Runs free applied non-credit courses on responsible AI work — responsible AI verification, claims and sources and citations, data before prompts, and human oversight that works — alongside a field brief library, applied field tools, and progress that resumes where a learner left off.",
+      "Free non-credit courses on using AI responsibly: checking AI output, claims and citations, data before prompts, and human oversight that works. There’s also a library of field briefs, practice tools, and progress that picks up where you left off.",
     builtOn: "A static multi-page site with client-side course and tool scripts, served from Vercel.",
-    limits: "Non-credit. No certification, no accreditation, no continuing-education credit.",
+    limits: "No certificate, accreditation or continuing-education credit.",
   },
   {
     repo: "set-for-life",
     title: "Set for Life",
     category: "education",
-    status: "Live · free relationship-building lab for law students",
+    status: "Live · free networking lab for law students",
     statusKind: "live",
     problem:
       "Law students are told to network but given no way to pick people to contact, write a specific message and track follow-ups.",
     does:
-      "A free, no-account lab for law students: map targets, draft outreach, and track follow-up in the browser. The page shows RN's self-reported outreach record and labels those figures as one person's record.",
+      "A free lab for law students, no account needed: list people to contact, draft messages and track follow-ups in your browser. It shows my own outreach numbers, labeled as one person’s results.",
     builtOn: "A static site served from Vercel. The lab keeps its records in the browser.",
     limits:
-      "The lab states that it does not guarantee replies, interviews, employment, or platform access. It does not automate LinkedIn or transmit the target list.",
+      "It doesn’t promise replies, interviews or jobs. It doesn’t automate LinkedIn or send your list anywhere.",
     caseStudy: "set-for-life",
   },
   {
@@ -658,11 +658,11 @@ export const buildNotes: BuildNote[] = [
     status: "Live · made for Hawaiʻi Tech Week 2026",
     statusKind: "live",
     problem:
-      "Young inventors are told to protect the idea and left to work out what that means from sources written for people who already have counsel. The costly mistakes happen early and quietly — usually a disclosure made before anyone explained what disclosure does — and by the time someone can afford advice, the option they needed has often already closed.",
+      "Young inventors are told to protect their idea, then left with sources written for people who already have a lawyer. The costly mistakes happen early, usually by sharing the idea before anyone explained what that does. By the time they can afford advice, the option they needed may be gone.",
     does:
-      "Explains what a patent actually is, sets out four gates an idea has to clear to be patentable, walks the first steps, and shows how to run a free search without paying anyone. It spends a section killing the myths that cost inventors the most — chiefly about disclosure — and points at free Hawaiʻi help, including a number to call.",
+      "Explains what a patent is, the four tests an idea has to pass, the first steps, and how to search existing patents for free. One section clears up the myths that cost inventors most, mainly about disclosure. It lists free help in Hawaiʻi, including a phone number.",
     builtOn: "A static single-page site with an installable web manifest, served from Vercel.",
-    limits: "General information. Not legal advice and not an attorney-client relationship.",
+    limits: "General information. Not legal advice, and no attorney-client relationship.",
     caseStudy: "patent-first-steps",
   },
   {
@@ -683,28 +683,28 @@ export const buildNotes: BuildNote[] = [
     repo: "aiapc-site",
     title: "AI is a Piece of Cake",
     category: "education",
-    status: "Prelaunch · checkout and inquiry collection are closed",
+    status: "Prelaunch · checkout and sign-ups closed",
     statusKind: "prelaunch",
     problem:
-      "Lawyers, physicians, executives and educators are each being sold generic AI literacy, when what changes between them is the professional duty that the technology runs into.",
+      "Lawyers, doctors, executives and teachers are all sold the same generic AI literacy, when what differs is the professional duty the technology runs into.",
     does:
-      "Sets out a prelaunch AI-literacy programme for those four professional audiences and the shape of what each one would cover.",
+      "Outlines an upcoming AI-literacy program for those four professions and what each track would cover.",
     builtOn: "A Node-tested static site on Vercel.",
     limits:
-      "Prelaunch. Checkout is closed and personal-data inquiry collection is disabled, so nothing on the site can be purchased or signed up for yet.",
+      "Not open yet: nothing can be bought or signed up for.",
   },
   {
     repo: "curriculum-licensing",
     title: "RN Collins Curriculum & Learning Systems",
     category: "education",
-    status: "Live · two programmes available for licensing",
+    status: "Live · two programs available to license",
     statusKind: "live",
     problem:
       "Schools that need a degree program in a fast-moving field can build one, which takes years, or wait. This site licenses ready-made curriculum to them.",
     does:
-      "Offers two delivery-ready programmes — a B.S. in AI and Machine Learning and a B.S. in Cybersecurity and Critical Infrastructure Protection — for institutional licensing, alongside a commissioned-development path. The link opens that licensing site.",
+      "Offers two ready-to-teach programs, a B.S. in AI and Machine Learning and a B.S. in Cybersecurity and Critical Infrastructure Protection, for license, plus custom development.",
     limits:
-      "It licenses curriculum to colleges, universities, corporations, government agencies, workforce organizations, and training providers. Their faculty teach it. It does not enroll a student, confer a degree, or replace that faculty. Someone who wants to learn AI directly is sent to Aloha AI, a separate practice.",
+      "It licenses curriculum to colleges, universities, companies, government agencies, workforce groups and training providers, whose own faculty teach it. It doesn’t enroll students or grant degrees. People who want to learn AI themselves are pointed to Aloha AI.",
     builtOn:
       "Static pages generated by a small Node build script from a shared head, navigation and footer, on the shared estate design system, served from Vercel.",
   },
@@ -712,14 +712,14 @@ export const buildNotes: BuildNote[] = [
     repo: "aloha-build-club",
     title: "Aloha Build Club",
     category: "education",
-    status: "Live landing page · founding cohort of 25 offered",
+    status: "Live landing page · 25 founding spots offered",
     statusKind: "live",
     problem:
       "People building with AI alone often stop because no one is expecting them at a set hour.",
     does:
-      "A landing page for a daily body-doubling room. It offers 25 founding seats and describes paid plans, with payment handled by a checkout provider.",
+      "A landing page for a daily online body-doubling room. It offers 25 founding spots and describes paid plans; payment goes through a checkout service.",
     limits:
-      "The page describes the room and the founding cohort now forming. It does not publish a calendar of sessions already held or a list of work shipped.",
+      "The room is still forming. The page doesn’t list past sessions or finished work.",
     builtOn:
       "A static landing page with a serverless lead endpoint writing to Upstash and Slack, and an evidence file in the repository mapping every claim on the page to a primary source.",
     caseStudy: "aloha-build-club",
@@ -733,27 +733,27 @@ export const buildNotes: BuildNote[] = [
     status: "Live · independently maintained by a student leader",
     statusKind: "live",
     problem:
-      "Part-time online law students assemble critical information across institutional pages, emails, calendars, informal knowledge and third-party sources — and a directory without freshness and correction controls makes that worse, not better, because it adds a source that looks official and is not.",
+      "Part-time online law students piece together key information from school pages, emails, calendars, word of mouth and outside sources. A directory without update dates and corrections makes that worse, because it adds a source that looks official and isn’t.",
     does:
-      "Runs a mobile-first hub with a newsletter, an all-purpose guide, a filterable opportunity tracker and seven awareness campaigns. The part that matters most is the machinery around them: a stated source-verification policy, a correction pathway anyone can use, privacy rules, freshness controls, and automated link checking and secret scanning in continuous integration. A resource a student relies on for a deadline has to be maintainable by one person who also has coursework, so the maintenance burden was designed for before the content was.",
+      "A phone-friendly hub with a newsletter, a general guide, a filterable opportunity tracker and seven awareness campaigns. Behind them: a published source-checking policy, a way for anyone to report mistakes, privacy rules, update dates, and automatic link and secret checks. One student with coursework has to be able to keep it current, so upkeep was planned before the content.",
     builtOn: "A static multi-page site with automated link checking and secret scanning in CI, served from Vercel.",
     limits:
-      "Maintained by a student leader for the FlexJD community. Not an official Northeastern University or NUSL publication, not legal or financial advice, and not a substitute for the original source. The opportunity tracker shows 329 source-linked records from a 22 July 2026 editorial pass.",
+      "Run by a student leader for the FlexJD community. Not an official Northeastern University or NUSL publication, not legal or financial advice, and no substitute for the original source. The tracker has 329 linked opportunities from a July 22, 2026 update.",
     caseStudy: "flexjd-resource-hub",
   },
   {
     repo: "clerking-site",
     title: "Clerking",
     category: "legal",
-    status: "Public prototype · marketplace, matching, and payment inactive",
+    status: "Prelaunch · public prototype; marketplace, matching and payments off",
     statusKind: "prelaunch",
     problem:
-      "Supervised legal work is learned by doing it under someone who has done it, and the structures that make that transferable — reusable work formats, review points, what supervision actually checks — are rarely written down anywhere a student can see them.",
+      "Supervised legal work is learned by doing it under someone experienced, and the parts that make it teachable (reusable formats, review points, what a supervisor actually checks) are rarely written down where students can see them.",
     does:
-      "A public prototype with three free workflow frameworks on the page, for attorneys and law students to inspect work structures and the judgment boundaries around them.",
+      "A public prototype with three free workflow templates, so attorneys and law students can see how the work is structured and where judgment comes in.",
     builtOn: "A Node-tested static site on Vercel.",
     limits:
-      "Prelaunch. It does not enroll, charge, match, vet, or place anyone. The marketplace, paid templates, and job board are not active.",
+      "Not launched. It doesn’t enroll, charge, match, vet or place anyone. The marketplace, paid templates and job board are off.",
   },
 
   // ------------------------------------------------------------------ records
@@ -761,18 +761,18 @@ export const buildNotes: BuildNote[] = [
     repo: "rn-agent-os",
     title: "Agent OS",
     category: "tools",
-    status: "Live · one endpoint hosted, the rest self-hosted",
+    status: "Live · one part hosted, the rest runs on your own servers",
     statusKind: "live",
     linkHeld:
       "The hosted address answers a single data endpoint rather than a page, so it is not offered as a link. The full source, tests and design are open in the repository.",
     problem:
-      "Brand management runs on judgement calls that nobody records: whether a post was disclosed, whether a claim is defensible, and who signed off. The evidence for those decisions usually exists only in somebody's inbox.",
+      "Brand management runs on calls nobody writes down: was a post disclosed, can a claim be defended, who signed off. The evidence usually lives in someone’s inbox.",
     does:
-      "Coordinates agents that read public or permissioned content, grade the evidence behind each claim, and surface disclosure and claims risk for human review, with a sign-off gate before anything is treated as settled. The Disclosure and Claims agent is hosted and answers directly: given a post, it returns whether it reads as paid, whether disclosure is present, and each claim it found with a category and a risk level.",
+      "A set of AI agents that read public or permitted content, grade the evidence behind each claim, and flag disclosure and claim risks for a person to review, with a sign-off step before anything counts as settled. The Disclosure and Claims agent is hosted: give it a post and it says whether it reads as paid, whether there’s a disclosure, and each claim with a category and risk level.",
     builtOn:
-      "A nine-table evidence model on Postgres with pgvector, an orchestrator that routes to a hosted model, a local one, or a deterministic fallback so it never hard-fails offline, and five agents. Seven containers in total, of which one — the part needing no database, no key and no local model — is deployed publicly.",
+      "Postgres with pgvector (nine tables), five agents, and a router that falls back from a hosted model to a local one to fixed rules, so it still works offline. Seven containers; only the one that needs no database, key or local model is public.",
     limits:
-      "Public and permissioned data only, and not legal advice: it surfaces risk for a person and their counsel to read. The hosted endpoint is not a hosted engine — evidence storage, retrieval, the local model, workflows and dashboards all still require the self-hosted stack.",
+      "Public and permitted data only. Not legal advice: it flags risk for a person and their lawyer. The hosted part is one agent; storage, search, the local model, workflows and dashboards need the self-hosted setup.",
   },
   {
     repo: "future-professional-profiles",
@@ -781,72 +781,72 @@ export const buildNotes: BuildNote[] = [
     status: "Live · concept line",
     statusKind: "prototype",
     problem:
-      "A professional profile is normally written by its subject, which makes it a statement of intent rather than a piece of evidence, and leaves no way to tell a researched position from a self-description.",
+      "A professional profile is usually written by its subject, so it states intentions rather than evidence, and you can’t tell research from self-description.",
     does:
-      "Builds profiles from researched material instead: each sets out a position, the evidence behind it, and a publishing approach that follows from both.",
+      "Builds profiles from research instead: each sets out a position, the evidence for it and a publishing approach that follows from both.",
     builtOn:
       "A research directory holding the source material each profile is built from, kept separate from the published versions so the two never blur.",
     limits:
-      "These are concept profiles. Nothing here was commissioned or agreed with a subject, and no profile represents anyone's actual plans.",
+      "Concept profiles. None was commissioned or agreed with its subject, and none represents anyone’s real plans.",
   },
   {
     repo: "rn-ask-a-neuroscientist",
     title: "Ask a Neuroscientist",
     category: "education",
-    status: "Live · Fat Nugs companion archive",
+    status: "Live · companion to the Fat Nugs series",
     statusKind: "live",
     problem:
       "A short post can make a claim and leave out how it works, the sources and what the evidence doesn’t settle.",
     does:
-      "A companion site for Ask a Neuroscientist. The public archive is the Fat Nugs series: each page carries what the piece found, its sources, and a link to the original. More pages are added as pieces are posted. Readers can send a question.",
+      "A companion site for Ask a Neuroscientist. It holds the Fat Nugs series: each page has what the piece found, its sources and a link to the original. New pages are added as pieces post. Readers can send a question.",
     builtOn: "A static site on Vercel.",
     limits:
-      "Education, not medical advice. The site says so, and it posts emergency and poison-help numbers. Each page says what its evidence does not settle.",
+      "Education, not medical advice. The site lists emergency and poison-help numbers, and each page says what its evidence doesn’t settle.",
   },
   {
     repo: "ask-a-neuroscientist-fashion",
     title: "The Dressed Nervous System",
     category: "atlases",
-    status: "Live · seven rooms, sourced findings",
+    status: "Live · seven rooms of sourced findings",
     statusKind: "live",
     problem:
-      "Clothing and the nervous system is a subject that rewards a confident sentence and punishes a careful one. The striking findings — that a garment measurably changes how you think — are the ones that travelled furthest and replicated worst, and popular writing repeats them in the same voice it uses for the settled material.",
+      "Claims that clothes change how you think spread fast, and the most famous ones replicated worst. Popular writing reports them in the same confident voice as the solid findings.",
     does:
       "Seven rooms, one question each: pressure, texture, memory, rhythm, role, and social signal. Fifty sourced findings name what researchers measured, what they found, and where interpretation begins.",
     builtOn:
-      "Twenty-two traceable Open Access objects from public collections, embedded under their own terms with canonical records and download links. No AI imagery anywhere in the exhibition.",
+      "22 Open Access objects from public collections, shown under their own licenses with links to the museum records. No AI images.",
     limits:
-      "A claim record states what a study measured, not what it proved. Several rooms rest on narrow experiments that have not replicated, and the rooms say so rather than dropping them.",
+      "Each finding says what a study measured, not what it proved. Several rooms rest on small experiments that haven’t replicated, and the rooms say so.",
   },
   {
     repo: "institutions-of-one-fashion",
     title: "Institutions of One × Fashion",
     category: "records",
-    status: "Live · 44 dossiers across four rooms",
+    status: "Live · 44 case files in four rooms",
     statusKind: "live",
     problem:
-      "Fashion is where singular authority is most visible and least examined: the house carries one name, and the question of what actually makes that authority transferable, ownable and survivable is answered with biography instead of structure.",
+      "Fashion is where one person’s authority is most visible and least examined. The house carries one name, and what makes that authority transferable, ownable and lasting gets answered with biography, not structure.",
     does:
-      "Four rooms — Build, Carry, Control, Continue — holding 44 evidence-mapped dossiers. The rooms ask what makes the work recognisable, how it travels, who controls the name and the rights, and what survives absence, sale, succession, or death.",
+      "Four rooms (Build, Carry, Control, Continue) hold 44 sourced case files. They ask what makes the work recognizable, how it travels, who controls the name and rights, and what survives absence, sale, succession or death.",
     builtOn:
-      "The Institutions of One research programme, applied to a field that makes its subject unusually observable. Not biography and not brand study — the subject is institutional engineering.",
+      "The Institutions of One research, applied to fashion, a field where its subject is unusually easy to see. It’s about how a fashion house is set up to last, not biography or brand.",
     limits:
-      "An exhibition, not a survey. The dossiers are selected because they make a structural question legible, not because they are representative of the industry.",
+      "An exhibition, not a survey. Each case was picked because it makes a structural question clear, not because it represents the industry.",
   },
   {
     repo: "tech-from-here-mjbizcon",
     title: "Tech From Here: MJBizCon",
     category: "records",
-    status: "Public page live · no pieces released",
+    status: "Paused · page is up, no pieces released yet",
     statusKind: "paused",
     problem:
-      "Cannabis coverage reports the politics and the money. The machinery that actually governs the plant — the tag on every plant, the laboratory test, the state tracking interface, the rules written around them — is where the decisions get made, and it is barely described.",
+      "Cannabis coverage reports the politics and the money. The machinery that actually governs the plant, from the tag on every plant to the lab test, the state tracking system and the rules around them, is where decisions get made, and it’s barely covered.",
     does:
-      "The public page is a release gate for an investigation of the tags, tests, interfaces, and records that govern Nevada cannabis. No pieces have been released. Pieces appear on the day they are published.",
+      "A release page for an investigation of the tags, tests, tracking systems and records that govern Nevada cannabis. Nothing is out yet; each piece appears the day it’s published.",
     builtOn:
       "Public records and published sources, kept in a repository that separates research from anything approved for release.",
     limits:
-      "Nothing on the public page has been published. A draft in the research files is not editorial approval, rights clearance, or a finished piece.",
+      "Nothing has been published yet. A draft in the research files isn’t approved, cleared or finished.",
   },
   {
     repo: "color-vision-field-guide",
@@ -855,26 +855,26 @@ export const buildNotes: BuildNote[] = [
     status: "Live · sourced guide, written September 2026",
     statusKind: "live",
     problem:
-      "A child who cannot read a colour cue is often told he is not paying attention. The answer is usually ordinary and inherited, but the material families meet first is either a clinical page written for practitioners or an online test that cannot test anything.",
+      "A child who can’t read a color cue is often told he isn’t paying attention. The cause is usually ordinary and inherited, but the first things families find are clinical pages for doctors or online tests that can’t test anything.",
     does:
-      "Starts with one family's eye appointment and works outward: what the plates do and do not show, how the common red–green differences are inherited, how prevalence estimates differ between populations, and what changes at school and at home once a child's colour vision is known.",
+      "Starts with one family’s eye appointment and works outward: what the plates show and don’t, how common red-green differences are inherited, why estimates differ between populations, and what changes at school and home once a child’s color vision is known.",
     builtOn:
-      "A static guide built on cited sources, with public-domain historic plates shown as teaching images and each estimate attributed to the body that published it.",
+      "Cited sources, with public-domain historic plates used as teaching images.",
     limits:
-      "Not a test and not a diagnosis. Screens change what anyone sees, population estimates do not describe an individual, and the family's own genotype is not established.",
+      "Not a test or a diagnosis. Screens change what anyone sees, population estimates don’t describe one person, and the family’s own genes weren’t tested.",
   },
   {
     repo: "tech-from-here-fashion-week",
     title: "Tech From Here: Fashion Week",
     category: "records",
-    status: "Public page live · no pieces released",
+    status: "Live · page is up, no pieces released yet",
     statusKind: "live",
     problem:
       "Fashion Week coverage describes the spectacle and skips the technology running the city underneath it.",
     does:
-      "A release page for readers following the technology behind fashion week. No pieces have been released. Each piece appears on its release day.",
+      "A release page for readers who want the technology behind fashion week. Nothing is out yet; each piece appears on its release day.",
     builtOn: "A static release page on Vercel.",
-    limits: "Nothing on the public page has been published. It is not a city guide and not a schedule.",
+    limits: "Nothing has been published yet. It isn’t a city guide or a schedule.",
   },
   {
     repo: "tech-from-here-amsterdam-eindhoven",
@@ -883,13 +883,13 @@ export const buildNotes: BuildNote[] = [
     status: "Live · 48 published investigations",
     statusKind: "live",
     problem:
-      "Event coverage produces a lot of claims and very little that can be checked afterwards, because the evidence stays in the reporter's notes and the notes are never published.",
+      "Event coverage makes lots of claims and little that can be checked later, because the evidence stays in the reporter’s notes.",
     does:
       "Publishes a searchable, city-filterable atlas of 48 source-backed investigations from the Netherlands 2026 event work. Each package opens as a public investigation page carrying its evidence, its limitations, its visual and its source links.",
     builtOn:
-      "A production system that publishes the public atlas while keeping documentary media, rights records, internal source notes and human-QA evidence access-controlled. Public release does not convert an unresolved internal approval into a verified fact.",
+      "The atlas is public, while media, image rights, source notes and review records stay private. Publishing a piece doesn’t turn an unresolved internal check into a confirmed fact.",
     limits:
-      "The public atlas covers the Amsterdam and Eindhoven corpus only. Private rights and production records remain private.",
+      "Covers Amsterdam and Eindhoven only. Rights and production notes stay private.",
   },
   {
     repo: "institutions-of-one-reader",
@@ -898,25 +898,25 @@ export const buildNotes: BuildNote[] = [
     status: "Live · nine editions",
     statusKind: "live",
     problem:
-      "A research programme that publishes for a public audience and runs a private review process at the same time has to keep the two apart in a way that survives a build, not just a policy.",
+      "A research project that publishes for the public while running a private review has to keep the two apart in the code, not just in a policy.",
     does:
-      "Publishes editions 005 through 009, including The $2,000 Video, The Person Inside the Asset, and The Asset’s Afterlife, with visual stories and a public Source Desk. Editions 001 through 004 are on the main Institutions of One site.",
+      "Publishes editions 005 through 009, including The $2,000 Video, The Person Inside the Asset and The Asset’s Afterlife, with visual stories and a public Source Desk. Editions 001 through 004 are on the main Institutions of One site.",
     builtOn: "A reader application on Vercel.",
-    limits: "Educational information, not legal advice.",
+    limits: "Education, not legal advice.",
   },
   {
     repo: "ownership-platform",
     title: "Institutions of One",
     category: "records",
-    status: "Live · research programme; instruments not validated",
+    status: "Live · research project; quizzes not validated",
     statusKind: "live",
     problem:
-      "Independent professionals are assessed through institutional proxies — employer, title, credential, network — while the work, capability and relationships that actually constitute their practice stay illegible.",
+      "Independent professionals get judged by stand-ins like employer, title, credential and network, while the work, skills and relationships that make up their practice go unseen.",
     does:
-      "The public research site for what people build, carry, control, and continue. It includes an Observatory of 41 public careers, the editions, and two five-minute pilot assessments: the Ownership Index and the Portfolio Professional assessment.",
+      "The public research site on what people build, carry, control and continue. It has profiles of 41 public careers, the editions and two five-minute pilot quizzes: the Ownership Index and the Portfolio Professional assessment.",
     builtOn: "A research platform with evidence-governed measurement instruments and longitudinal infrastructure, served from Vercel.",
     limits:
-      "The current pilots are not validated psychological scales. They do not diagnose, rank, or measure human worth. The candidate-instrument protocol is a draft waiting on cognitive interviews, and its default activation decision is blocked.",
+      "The pilot quizzes aren’t validated psychological scales, and they don’t diagnose, rank or measure anyone’s worth. A new version is still a draft waiting on cognitive interviews, and its launch is on hold.",
     caseStudy: "ownership-platform",
   },
 
@@ -924,30 +924,30 @@ export const buildNotes: BuildNote[] = [
     repo: "tech-from-here-netherlands-field-kit",
     title: "Tech From Here: Dutch Design Week gallery",
     category: "records",
-    status: "Live · gallery open, no packages released",
+    status: "Live · gallery open · nothing released for download yet",
     statusKind: "live",
     problem:
       "A trip produces essays, research and photos on different timelines, and deciding what to offer as a download comes later than the page people can already visit.",
     does:
-      "Opens the Dutch Design Week gallery. The entrance is public. A story appears there when it is released, with image descriptions, credits, and sources. The essay collection and the research collection stay behind the owner sign-in, and nothing is offered as a download from this card.",
+      "Opens the Dutch Design Week gallery. The entrance is public, and each story appears there when it’s released, with image descriptions, credits and sources. The essays and research stay private for now, and nothing here is offered as a download.",
     builtOn: "A Next.js gallery on Vercel. The owner workspace is a separate sign-in.",
     limits:
-      "No content package is released. The gallery currently shows the entrance and the visiting notes. It is not the private field desk.",
+      "Nothing has been released for download. The gallery shows the entrance and visiting notes for now.",
   },
   {
     repo: "htw-field-kit",
     title: "Hawaii Tech Week 2026 Field Kit",
     category: "records",
-    status: "Live · event coverage and content-system sample",
+    status: "Live · event coverage sample",
     statusKind: "live",
     problem:
-      "A week of an event produces far more frames and footage than anyone can post, and most of it is never chosen, checked, or connected to what it shows. The usual outcome is a few lucky highlights or a folder nobody can search.",
+      "A week-long event produces far more photos and video than anyone can post, and most of it is never chosen, checked or tied to what it shows. You end up with a few lucky highlights or a folder nobody can search.",
     does:
       "One week of Hawaii Tech Week 2026, 31 August to 4 September, on a single page: 180 photos and 30 video clips, sorted by day and venue, with clips that include sound. Each day also shows one post in a plain template and in a concept look drawn from that venue.",
     builtOn:
       "One static HTML page with its photos and video. No build step, no tracking, no account. Hosted on Vercel.",
     limits:
-      "Concept looks, not an official Hawaii Tech Week, venue, or sponsor page. The page displays 1,273 stills logged and 247 videos logged. The logging system behind those totals is private. The page is set to be skipped by search engines because it shows attendees.",
+      "Concept designs, not an official Hawaii Tech Week, venue or sponsor page. It shows 1,273 photos and 247 videos logged; the logging tool is private. The page is hidden from search engines because it shows attendees.",
     caseStudy: "hawaii-tech-week-field-kit",
   },
   // ----------------------------------------------------------------- practice
@@ -958,97 +958,97 @@ export const buildNotes: BuildNote[] = [
     status: "Live · practice platform, active development",
     statusKind: "live",
     problem:
-      "Organisations are pushed from a vague intention to use AI straight into vendor selection. The step that gets skipped is deciding what the bounded problem is, what the non-AI alternatives are, who is affected, who owns it, and in advance, what would make a pilot stop.",
+      "Organizations get pushed from a vague wish to use AI straight to picking a vendor. The skipped step: what exactly is the problem, what are the non-AI options, who’s affected, who owns it, and what would make a pilot stop.",
     does:
       "The main Aloha AI site, plus 15 tools that run in your browser: four standalone builders and 11 Decision Desk tools inside the courses. The four builders are Opportunity Studio (23 prompts), a decision record, a vendor comparison and a pilot designer. What you enter stays in your browser; Aloha AI never receives it.",
     builtOn:
       "A Next.js application on Vercel with a clinic inquiry form that fails closed unless its mail and anti-abuse environment variables are configured. Decision tools keep working data in the visitor's browser.",
     limits:
-      "The platform demonstrates the tools, not completed engagements. The Opportunity Studio describes itself on the page as a prototype whose answers stay in the browser. Nothing here is professional advice, a compliance certification, or an authorisation to deploy.",
+      "It demonstrates the tools, not finished client work. Opportunity Studio says on its page that it’s a prototype. Nothing here is professional advice, a compliance certificate or approval to deploy.",
     caseStudy: "aloha-ai",
   },
   {
     repo: "nsag-site",
     title: "Neurocognitive Systems Advisory Group",
     category: "practice",
-    status: "Live · the fifteen modules are published here",
+    status: "Live · all 15 modules are on this site",
     statusKind: "live",
     problem:
-      "Governance advice about human-facing systems is usually written as policy and handed over, with no account of how it becomes a decision anyone has to make on a Tuesday.",
+      "Advice on how organizations should treat people is usually written as policy and handed over, with no plan for how it becomes a decision someone has to make on a Tuesday.",
     does:
       "Publishes fifteen module scopes and their overview PDFs at https://nsag-site.vercel.app, from /m1 through /m15. The operations matrix, verified 17 August 2026, marks assessment collection paused on all fifteen. The public pages do not collect answers, calculate findings, or send automated reports. The old standalone hostnames remain as retired signposts.",
     builtOn: "A static site on Vercel. The earlier standalone deployments stay online as signposts rather than being deleted.",
     limits:
-      "One card for the maintained site. Module scopes are readable. Assessments are paused. Human advisory delivery is separate from the public pages. Several other parts of NSAG are switched off, and the site says which.",
+      "Module descriptions are readable, but the assessments are paused. Advisory work is separate from the public site. Several parts of NSAG are switched off, and the site says which.",
   },
   {
     repo: "creator-brand-evidence",
     title: "Evidence·Studio",
     category: "practice",
-    status: "Live · method references current as of August 2026",
+    status: "Live · sources current as of August 2026",
     statusKind: "live",
     problem:
-      "Brand and creator strategy in regulated markets — cannabis, wellness, health, legal, education, AI — runs on intuition and then meets disclosure rules that were written for exactly that situation.",
+      "Brand and creator strategy in regulated markets (cannabis, wellness, health, law, education, AI) runs on gut feel, then runs into disclosure rules written for exactly that.",
     does:
-      "Sets out an evidence-graded method for brand, creator and affiliate strategy in trust-sensitive markets, with recommendation confidence levels attached to each output and a governance and disclosure layer rather than a general claim of compliance.",
+      "A method for brand, creator and affiliate strategy in markets where trust matters, with a confidence level on every recommendation and disclosure rules built in, instead of a blanket claim of compliance.",
     builtOn: "A static multi-page site on Vercel, with the method and regulatory references dated on the page.",
-    limits: "Marketing method grounded in FTC endorsement guidance. Not legal advice and not a compliance opinion.",
+    limits: "A marketing method based on FTC endorsement guidance. Not legal advice or a compliance opinion.",
     caseStudy: "evidence-studio",
   },
   {
     repo: "bm-intel",
     title: "Burgermeister Expansion Intel",
     category: "practice",
-    status: "Live · working intelligence dashboard",
+    status: "Live · working dashboard",
     statusKind: "live",
     problem:
-      "A company expanding across several jurisdictions accumulates legal and regulatory exposure faster than anyone can brief it, and the items that need a lawyer get mixed in with the items that do not.",
+      "A company expanding into several countries builds up legal and regulatory risk faster than anyone can brief it, and items that need a lawyer get mixed in with items that don’t.",
     does:
-      "A dashboard of 27 legal and regulatory signals for an international expansion across the United States, United Kingdom, Germany, and Poland. Each signal is scored on business impact, legal complexity, and urgency. Fifteen are marked critical, five high, and 18 require attorney confirmation.",
+      "A dashboard of 27 legal and regulatory signals for an expansion across the US, UK, Germany and Poland, each scored for business impact, legal complexity and urgency. Fifteen are marked critical, five high, and 18 need a lawyer to confirm.",
     builtOn: "A Next.js application on Vercel over owned Supabase infrastructure.",
     limits:
-      "Not legal advice. Items marked for outside counsel need an attorney before anyone acts on them. Built independently from public information. It was not commissioned or reviewed by the company named on the page.",
+      "Not legal advice; flagged items need a lawyer before anyone acts. I built it on my own from public information. The company named on the page didn’t commission or review it.",
     caseStudy: "burgermeister-expansion-intel",
   },
   {
     repo: "rn-bring-the-question",
     title: "Bring Me the Question",
     category: "practice",
-    status: "Live · practice front door",
+    status: "Live · where to start working with me",
     statusKind: "live",
     problem:
       "Most projects start from a solution someone already picked, so the real question never gets examined. This page is for founders, creators, independent professionals and organizations who know the situation but don’t have a brief.",
     does:
-      "A one-page practice front door for founders, creators, portfolio professionals, and organizations. It asks for the question before the brief. The link opens that page, where a first note can go by email or LinkedIn.",
+      "A one-page starting point that asks for your question before your brief. You can send a first note by email or LinkedIn.",
     limits:
-      "The first conversation is complimentary and nonconfidential. It does not start a paid engagement, and the written First Read is not free implementation. A scoped engagement is a separate decision afterward.",
-    builtOn: "A Next.js application on Vercel.",
+      "The first conversation is free and not confidential. It doesn’t start paid work, and the written First Read isn’t free implementation. A scoped project is a separate decision.",
+    builtOn: "Next.js, hosted on Vercel.",
   },
   {
     repo: "rn-portfolio",
     title: "RN Builds",
     category: "practice",
-    status: "Live · public build exhibition",
+    status: "Live · public exhibition of my builds",
     statusKind: "live",
     problem:
       "The questions behind a build get lost once it’s finished.",
     does:
-      "A separate public exhibition for a visitor who wants to use a build or see why it exists, without already knowing the field. Each numbered build opens on its release day, with a working thing and a visual story. The page describes a project of building 100 and labels released work, lab builds, and incomplete layers separately. The link leaves this site for that exhibition.",
-    builtOn: "A Next.js application on Vercel.",
+      "A separate exhibition site for anyone who wants to use a build or see why it exists, no background needed. Each numbered build opens on its release day with a working tool and a visual story. The goal is 100 builds, and released work, lab builds and unfinished parts are labeled separately.",
+    builtOn: "Next.js, hosted on Vercel.",
     limits:
-      "The figure of 100 is the project's aim, not a count of finished work. A working interface there is not legal, medical, scientific, or operational authority.",
+      "100 is the goal, not a count of finished work. A working tool there isn’t legal, medical, scientific or operational advice.",
   },
   {
     repo: "sovereign-stack",
     institutional: true,
     title: "Authority Layer",
     category: "practice",
-    status: "Proposal · independently initiated, not adopted",
+    status: "Proposal · my own idea, not adopted",
     statusKind: "proposal",
     problem:
-      "A technical stack can be local, open and place-based and still leave the questions of authority, knowledge boundaries, accountability, withdrawal and refusal with nowhere to live.",
+      "A tech stack can be local, open and rooted in place and still leave no home for questions of authority, knowledge limits, accountability, withdrawal and refusal.",
     does:
-      "An interactive proposal for keeping one permitted use tied to the decision that authorized it when the purpose, data, model, vendor, audience, or operators change. Purple Maiʻa has publicly described the technical Sovereign Stack. This page is Authority Layer.",
+      "An interactive proposal for keeping each permitted use tied to the decision that approved it when the purpose, data, model, vendor, audience or operators change. Purple Maiʻa has publicly described its Sovereign Stack; Authority Layer is my separate proposal.",
     builtOn: "A prototype application on Vercel.",
     limits:
       "An independent proposal. The page states it was not commissioned or endorsed by Purple Maiʻa. Printed material is for review and does not create authority.",

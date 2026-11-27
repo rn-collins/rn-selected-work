@@ -5,7 +5,7 @@ import styles from "./source-portfolio-link.module.css";
 export function PortfolioLine() {
   return (
     <p className={styles.line}>
-      From <Link href="/">RN Collins, selected work</Link>
+      From <Link href="/">RN Collins</Link>
     </p>
   );
 }

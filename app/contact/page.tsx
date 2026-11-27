@@ -23,8 +23,8 @@ export default function Page() {
           <em>understand or change?</em>
         </h1>
         <p>
-          You do not need to know the deliverable. Tell me what is happening, why it
-          matters now, and what decision or outcome is stuck.
+          You don’t need to know what you want made. Tell me what’s happening, why it
+          matters now and what’s stuck.
         </p>
       </header>
 
@@ -40,14 +40,13 @@ export default function Page() {
               <li>What have you already tried, and what did you learn from it?</li>
             </ul>
             <p>
-              The last question is the one that does the most work. A problem that has
-              survived two serious attempts is a different problem from one nobody has
-              tried yet, and knowing which it is changes where the first week goes.
+              The last question matters most. A problem that has survived two serious
+              attempts is different from one nobody has tried, and knowing which changes
+              where the first week goes.
             </p>
             <p>
-              You do not need to arrive with a brief, a budget or a proposed solution. If
-              you already have one, send it — but send the situation as well, because a
-              brief is a hypothesis about the problem and it is worth checking.
+              You don’t need a brief, a budget or a solution. If you have one, send it,
+              along with the situation.
             </p>
           </div>
         </div>
@@ -59,16 +58,13 @@ export default function Page() {
           <div>
             <h2>First I work out whether this is a question I should take.</h2>
             <p className="bigcopy">
-              Not every question fits this practice, and the honest version of that
-              conversation is short. Where it does fit, the next step is deciding what kind
-              of engagement would actually be useful — which is a decision, not a menu.
+              Not every question fits, and if yours doesn’t, I’ll say so quickly. If it
+              does, we’ll decide together what kind of work would help.
             </p>
             <p>
-              Scope and deliverables are defined before paid work begins. Where the work
-              would need a licensed professional in a specific jurisdiction — legal advice,
-              clinical judgement, a compliance opinion — I will say so rather than build
-              around it. Several tools in this estate exist precisely to make that boundary
-              legible, and the practice holds itself to the same line.
+              Scope and deliverables are agreed before paid work starts. If the work needs a
+              licensed professional (legal advice, clinical judgment, a compliance opinion),
+              I’ll tell you instead of working around it.
             </p>
           </div>
         </div>
@@ -88,10 +84,9 @@ export default function Page() {
             </p>
             <SocialRow set="rn" />
             <p>
-              If you would rather see the work before writing, the{" "}
-              <Link href="/builds">build index</Link> lists everything currently running,
-              with an honest status on each, and <Link href="/practice">the practice page</Link>{" "}
-              sets out the method those builds came out of.
+              Want to see the work first? The list of{" "}
+              <Link href="/builds">everything I’ve built</Link> shows what’s running and its
+              status, and <Link href="/practice">the practice page</Link> explains how I work.
             </p>
           </div>
         </div>

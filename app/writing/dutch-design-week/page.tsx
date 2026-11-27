@@ -23,14 +23,15 @@ export default function DutchDesignWeekIndex() {
       <p className="eyebrow">Dutch Design Week</p>
       <h1 className={styles.title}>The week, written out</h1>
       <p className={styles.lede}>
-        Eindhoven’s design week leaves behind a photo archive that shows a studio was in the room
-        without saying what it was doing there. These essays read the written record beside the
-        pictures: programmes, studio pages, museum releases, heritage and planning records, regional
-        and design press. Each reports what it draws on, and says where it did not go.
+        Dutch Design Week in Eindhoven leaves behind a photo archive that shows a studio was
+        there without saying what it was doing. These essays read the written sources beside the
+        pictures: event programs, studio websites, museum press releases, heritage and planning
+        records, and regional and design press. Each one lists what it draws on and says where
+        it didn’t look.
       </p>
       <p className={styles.count}>
         {essays.length === 0
-          ? "Each essay appears here on the day its post goes up."
+          ? "Each essay appears here on the day its social post goes up."
           : <>{essays.length} essays · {releasedWords().toLocaleString("en-US")} words · by RN Collins</>}
       </p>
       <p>

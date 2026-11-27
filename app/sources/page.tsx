@@ -25,7 +25,7 @@ export default function SourcesIndex() {
   const posts = postedSoFar().slice().reverse();
   return (
     <CanonicalPage>
-<DiscoveryBrowser items={discoveryItems().filter(item => ["Sources"].includes(item.kind))} title="Find the evidence behind a piece" />
+<DiscoveryBrowser items={discoveryItems().filter(item => ["Sources"].includes(item.kind))} title="Find the evidence behind a piece" eyebrow="Search the sources" />
       <div className={`${styles.page} shell`}>
         <p className="eyebrow">Ask a Neuroscientist</p>
         <h1 className={styles.title}>Sources</h1>

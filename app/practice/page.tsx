@@ -3,7 +3,7 @@ import Link from "next/link";
 import { CanonicalPage } from "../../components/canonical-page";
 
 export const metadata: Metadata = {
-  title: "Practice",
+  title: "How I work",
   description:
     "How RN Collins studies a problem, finds what’s really broken and picks what to make: a brief, a guide, a course, a prototype or a working tool.",
   alternates: { canonical: "/practice" },
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 const stages = [
   {
-    title: "Study the system",
+    title: "Learn how it actually works",
     text: "I read the organization, field or process as it really runs, not as its documents describe it. This takes the most time, and skipping it produces confident work on the wrong problem.",
   },
   {
@@ -34,14 +34,14 @@ export default function Page() {
       <header className="canonicalSubhero shell">
         <p className="eyebrow">Practice</p>
         <h1>
-          The problem determines
+          The problem decides
           <br />
-          <em>the form.</em>
+          <em>what I make.</em>
         </h1>
         <p>
-          I research organisations and systems, find the gap that matters, make it
-          concrete and visible, and then research, design, draft, build, facilitate or
-          strategise what needs to happen next.
+          I study how organizations and fields actually work, find the gap that matters
+          and make it clear. Then I research, design, write, build, facilitate or plan
+          what comes next.
         </p>
       </header>
 
@@ -68,22 +68,19 @@ export default function Page() {
 
       <section className="canonicalBand">
         <div className="shell canonicalSplit">
-          <p className="eyebrow">Why the form varies</p>
+          <p className="eyebrow">Why the format changes</p>
           <div>
             <h2>I don’t force every problem into the same package.</h2>
             <p className="bigcopy">
-              A practice that only sells one shape of engagement will find that every
-              client turns out to need that shape. The alternative is to determine first
-              what is happening, who it affects, what is missing, and what would make the
-              next decision easier — and only then decide what to make.
+              If you only sell one kind of project, every client turns out to need it. I’d
+              rather find out first what’s happening, who it affects, what’s missing and
+              what would make the next decision easier, then decide what to make.
             </p>
             <p>
-              In practice that has meant a scored assessment for one problem and a plain
-              two-page guide for another; a monitoring system where the constraint was that
-              nobody could see a field changing, and a browser-local worksheet where the
-              constraint was that nobody would put the information into anything that
-              transmitted it. The variation is not eclecticism. It is the consequence of
-              letting the constraint pick the form.
+              That has meant a scored assessment for one problem and a two-page guide for
+              another; a tracker where nobody could see a field changing, and a
+              browser-only worksheet where nobody would type the information into anything
+              that sent it. The problem picked the format each time.
             </p>
             <Link href="/builds">See everything I’ve built →</Link>
           </div>
@@ -96,15 +93,8 @@ export default function Page() {
           <div>
             <h2>A problem you can finally see, and something concrete you can use.</h2>
             <p className="bigcopy">
-              Scope and deliverables are defined before paid work begins. The form changes;
-              the obligation to make the work clear, useful and evidence-conscious does not.
-            </p>
-            <p>
-              That obligation has a specific meaning here. It means the work states what it
-              does not establish alongside what it does — because a finding presented
-              without its boundary will be used past that boundary, and usually by someone
-              who was not in the room when it was made. Several of the builds in this
-              estate exist chiefly to make that boundary survive the handoff.
+              Scope and deliverables are agreed before paid work starts. The format changes;
+              the work is always clear, useful and honest about its evidence.
             </p>
             <div className="canonicalActions">
               <Link className="button" href="/contact">Bring me the problem →</Link>

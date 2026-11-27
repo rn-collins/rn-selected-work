@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: { params: Promise<{ repo: str
   const build = getBuild((await params).repo);
   if (!build) return {};
   return {
-    title: `${build.title}: build record`,
+    title: build.title,
     description: build.problem,
     alternates: { canonical: `/builds/${build.repo}` },
   };
@@ -26,7 +26,7 @@ export default async function BuildPage({ params }: { params: Promise<{ repo: st
   return (
     <CanonicalPage>
       <article className="case shell">
-        <p className="eyebrow">Build record · {build.category}</p>
+        <p className="eyebrow">Project · {build.category}</p>
         <h1>{build.title}</h1>
         <p className="caseStatus">{build.status}</p>
         <p className="caseThesis">{build.problem}</p>
@@ -48,7 +48,7 @@ export default async function BuildPage({ params }: { params: Promise<{ repo: st
           )}
           {build.repoUrl && (
             <a className="button secondary" href={build.repoUrl} target="_blank" rel="noreferrer">
-              View source on GitHub ↗
+              View the code on GitHub ↗
             </a>
           )}
           {build.caseStudy && (

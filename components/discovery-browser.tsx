@@ -2,11 +2,11 @@
 import { Suspense, useEffect, useState } from 'react';
 import { useSearchParams } from 'next/navigation';
 import type { DiscoveryItem } from '../lib/discovery';
-type DiscoveryProps = {items:DiscoveryItem[];title?:string};
+type DiscoveryProps = {items:DiscoveryItem[];title?:string;eyebrow?:string};
 export function DiscoveryBrowser(props:DiscoveryProps) {
  return <Suspense fallback={<p className="shell" role="status">Loading search…</p>}><DiscoveryBrowserContent {...props}/></Suspense>;
 }
-function DiscoveryBrowserContent({items,title='Find your way through the work'}:DiscoveryProps) {
+function DiscoveryBrowserContent({items,title='Find your way through the work',eyebrow='Explore the portfolio'}:DiscoveryProps) {
  const searchParams = useSearchParams();
  const [q,setQ]=useState(''),[kind,setKind]=useState(''),[topic,setTopic]=useState(''),[collection,setCollection]=useState(''),[status,setStatus]=useState(''),[limit,setLimit]=useState(12);
  useEffect(()=>{const p=searchParams;setQ(p.get('q')||'');setKind(p.get('kind')||'');setTopic(p.get('topic')||'');setCollection(p.get('collection')||'');setStatus(p.get('status')||'');setLimit(12)},[searchParams]);
@@ -18,7 +18,7 @@ function DiscoveryBrowserContent({items,title='Find your way through the work'}:
  const options=(key:'kind'|'collection'|'status')=>Array.from(new Set(items.map(i=>i[key]))).sort();
  const topics=Array.from(new Set(items.flatMap(i=>i.topics))).sort();
  if(items.length===0) return <section className="discovery shell" aria-label={title}><h2>{title}</h2><p>There are no public records to browse in this collection yet. New work appears here after release.</p><a href="/writing">Browse published writing →</a></section>;
- return <section className="discovery shell" aria-label={title}><div className="discoveryHeading"><div><p className="eyebrow">Explore the portfolio</p><h2>{title}</h2></div><p>Search by a question, subject, title, or publication.</p></div>
+ return <section className="discovery shell" aria-label={title}><div className="discoveryHeading"><div><p className="eyebrow">{eyebrow}</p><h2>{title}</h2></div><p>Search by a question, subject, title, or publication.</p></div>
  <div className="discoveryControls"><label className="discoveryQuery">Search<input type="search" value={q} onChange={e=>update('q',e.target.value)} placeholder="Try neuroscience, ownership, education…"/></label>
  <label>Format<select value={kind} onChange={e=>update('kind',e.target.value)}><option value="">All formats</option>{options('kind').map(v=><option key={v}>{v}</option>)}</select></label>
  <label>Subject<select value={topic} onChange={e=>update('topic',e.target.value)}><option value="">All subjects</option>{topics.map(v=><option key={v}>{v}</option>)}</select></label>

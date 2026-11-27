@@ -56,7 +56,7 @@ export default function CulturalystWork() {
             <p>{project.demonstrates}</p>
             <div className="atlasActions">
               <Link href={`/work/${project.slug}`}>Read case study →</Link>
-              {project.live && <a href={project.live} target="_blank" rel="noreferrer">Open live build ↗</a>}
+              {project.live && <a href={project.live} target="_blank" rel="noreferrer">Open the live site ↗</a>}
             </div>
           </article>
         ))}
@@ -75,7 +75,7 @@ export default function CulturalystWork() {
             <p>{project.demonstrates}</p>
             <div className="atlasActions">
               <Link href={`/work/${project.slug}`}>Read case study →</Link>
-              {project.live && <a href={project.live} target="_blank" rel="noreferrer">Open live build ↗</a>}
+              {project.live && <a href={project.live} target="_blank" rel="noreferrer">Open the live site ↗</a>}
             </div>
           </article>
         ))}

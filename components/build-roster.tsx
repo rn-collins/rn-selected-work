@@ -45,7 +45,7 @@ export function BuildRoster({
             <div className="indexActions">
               {!build.linkHeld && (
                 <a href={build.live} target="_blank" rel="noreferrer">
-                  Open the build <span aria-hidden="true">↗</span>
+                  Open the site <span aria-hidden="true">↗</span>
                 </a>
               )}
               {build.repoUrl && (<a href={build.repoUrl} target="_blank" rel="noreferrer">GitHub <span aria-hidden="true">↗</span></a>)}

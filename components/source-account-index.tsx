@@ -31,7 +31,7 @@ export function SourceAccountIndex({ accountKey }: { accountKey: string }) {
           {a.blurb} The address printed on a slide leads to that post&apos;s page.
         </p>
         {posts.length === 0 ? (
-          <p className={styles.meta}>Each post is listed here from its posting day.</p>
+          <p className={styles.meta}>Posts appear here on the day they go up.</p>
         ) : (
           <ul className={styles.index}>
             {posts.map((p) => (

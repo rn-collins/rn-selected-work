@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { statusLabels, type Build } from "../lib/builds";
 
 /**
@@ -10,7 +9,7 @@ export function VerifiedRecord({ build }: { build: Build }) {
   return (
     <section className="verifiedRecord" aria-labelledby="verified-record">
       <div className="verifiedRecordHead">
-        <p className="eyebrow">Verified build record</p>
+        <p className="eyebrow">Where it stands</p>
         <h2 id="verified-record">What works today, and what it doesn’t do.</h2>
         <p className={`indexStatus indexStatus--${build.statusKind}`}>
           <span className="indexStatusTag">{statusLabels[build.statusKind]}</span>
@@ -25,11 +24,11 @@ export function VerifiedRecord({ build }: { build: Build }) {
           <b>What it does.</b> {build.does}
         </p>
         <p>
-          <b>Built on.</b> {build.builtOn}
+          <b>Built with:</b> {build.builtOn}
         </p>
         {build.limits && (
           <p className="indexLimits">
-            <b>What it does not establish.</b> {build.limits}
+            <b>Limits.</b> {build.limits}
           </p>
         )}
         {build.linkHeld && (
@@ -38,10 +37,7 @@ export function VerifiedRecord({ build }: { build: Build }) {
           </p>
         )}
         <p className="verifiedRecordProvenance">
-          This record is generated from the same inventory as the{" "}
-          <Link href={`/builds#${build.category}`}>complete build index</Link>: the
-          production URL was checked at the last regeneration, and the status line above
-          repeats what the build reports about itself rather than restating an intention.
+          Status and link checked when this page was last updated.
         </p>
       </div>
     </section>

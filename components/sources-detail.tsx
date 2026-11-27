@@ -71,7 +71,7 @@ export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = A
                   <dd>
                     {im.card ? <span>Number card made for this post, citing {im.credit}.</span> : <span>{im.what}</span>}
                     {!im.card && im.credit && <span className={styles.credit}>{im.credit}</span>}
-                    {im.url && <a href={im.url} target="_blank" rel="noreferrer">{im.card ? "The study" : "Museum or journal record"} <span aria-hidden="true">↗</span></a>}
+                    {im.url && <a href={im.url} target="_blank" rel="noreferrer">{im.card ? "The study" : "Image source"} <span aria-hidden="true">↗</span></a>}
                   </dd>
                 </div>
               ))}

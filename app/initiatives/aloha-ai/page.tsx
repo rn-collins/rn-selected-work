@@ -17,11 +17,10 @@ export default function Page() {
         <p className="eyebrow">An RN initiative · in development</p>
         <h1>Aloha AI</h1>
         <p>
-          AI-specific education, decision support, tools and implementation work, held
-          within RN&rsquo;s practice. The organising claim is narrow: most organisations
-          adopting AI do not have a technology problem, they have a decision-architecture
-          problem, and the work that would have made the decision good happens before any
-          vendor is chosen.
+          Aloha AI offers AI courses, decision tools and hands-on help for organizations,
+          as part of my practice. Its claim is narrow: most organizations adopting AI
+          don’t have a technology problem. They have a decision problem, and the work that
+          makes the decision good happens before anyone picks a vendor.
         </p>
       </header>
 
@@ -31,22 +30,21 @@ export default function Page() {
           <div>
             <h2>The missing step is not technical.</h2>
             <p className="bigcopy">
-              Organisations are routinely pushed from a vague intention to use AI straight
-              into vendor selection. What gets skipped is the part that determines whether
-              the result is any good.
+              Organizations are often pushed straight from a vague plan to use AI into
+              picking a vendor. What gets skipped is the part that decides whether the
+              result is any good.
             </p>
             <p>
-              Defining the bounded problem. Considering the non-AI alternatives honestly.
-              Identifying who is affected and asking them. Preserving the evidence and the
-              uncertainty rather than the conclusion. Assigning ownership to a person, not
-              a committee. And deciding in advance — while it is still cheap to decide —
-              what would make a pilot stop, and what rolling it back would involve.
+              Define the specific problem. Consider the non-AI options honestly. Find out who
+              is affected, and ask them. Keep the evidence and the doubts, not only the
+              conclusion. Give ownership to one person, not a committee. And decide in
+              advance, while it’s still cheap, what would make a pilot stop and what rolling
+              it back would take.
             </p>
             <p>
-              Every tool under this initiative is an attempt to make one of those steps
-              cheap enough that a team actually takes it. They are browser-local by
-              design: no account, nothing transmitted, and each one states the judgement it
-              cannot make on your behalf.
+              Each tool here tries to make one of those steps cheap enough that a team
+              actually takes it. They all run in your browser: no account, nothing sent
+              anywhere, and each one says which judgment it can’t make for you.
             </p>
           </div>
         </div>
@@ -72,28 +70,27 @@ export default function Page() {
 
       <section className="canonicalSection shell">
         <div className="canonicalSplit">
-          <p className="eyebrow">Current boundary</p>
+          <p className="eyebrow">What’s done and what isn’t</p>
           <div>
             <h2>
-              The platform is substantial.
+              The site is big.
               <br />
-              Its products have separate completion gates.
+              Each product on it has its own bar for done.
             </h2>
             <p>
-              The public platform contains learning surfaces, evidence, decision tools and
-              service pathways. A masterclass, a twelve-month plan, a Decision Desk issue,
-              a Source Desk surface or a Clinic is not complete merely because a page or an
-              architecture for it exists, and this initiative does not treat the existence
-              of a route as the existence of a product.
+              The public Aloha AI site has courses, evidence, decision tools and ways to work
+              with me. A masterclass, a twelve-month plan, a Decision Desk issue, a Source
+              Desk page or a Clinic isn’t finished just because a page or an outline for it
+              exists. A page existing isn’t the same as a product existing.
             </p>
             <p>
-              What the live platform does establish: a routed starting experience, open
-              learning and Source Desk surfaces, procurement and accessibility pathways,
-              and four complete browser-local decision aids — the Opportunity Studio, and a
-              decision record, a vendor comparison and a pilot designer under its tools
-              route. What it does not establish: completed client engagements, independently verified
-              source accuracy, enterprise collaboration, professional advice, compliance
-              certification, or improved organisational outcomes.
+              What the live site does have: a guided starting point, open learning and Source
+              Desk pages, pages for procurement and accessibility, and four finished decision
+              tools that run in your browser: Opportunity Studio, plus a decision record, a
+              vendor comparison and a pilot designer in its tools section. What it doesn’t
+              have yet: finished client projects, independently checked sources, team
+              collaboration features, professional advice, compliance certification, or
+              proof that it improved any organization’s results.
             </p>
             <div className="canonicalActions">
               <Link className="button" href="/work/aloha-ai">
@@ -118,11 +115,11 @@ export default function Page() {
           <div>
             <h2>Two initiatives, one of which builds for the other.</h2>
             <p>
-              Aloha AI is the client-facing strategy and build practice. The Neurocognitive
-              Systems Advisory Group is the research-led institutional-design practice.
-              They are separate, and the separation matters: Aloha AI may build technical
-              infrastructure that implements NSAG work, but an Aloha AI tool is not an NSAG
-              finding, and neither initiative inherits the other&rsquo;s evidence.
+              Aloha AI is my client-facing strategy and build practice. The Neurocognitive
+              Systems Advisory Group (NSAG) is my research-led practice for designing how
+              organizations work. They’re kept separate on purpose: Aloha AI may build tools
+              that put NSAG work into practice, but an Aloha AI tool is not an NSAG finding,
+              and neither one borrows the other’s evidence.
             </p>
             <Link href="/initiatives/nsag">See the NSAG initiative →</Link>
           </div>

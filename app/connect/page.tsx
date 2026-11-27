@@ -14,7 +14,7 @@ export default function ConnectPage() {
   return (
     <main>
       <nav className="nav shell" aria-label="Portfolio navigation">
-        <Link className="mark" href="/" aria-label="RN Selected Works home">RN<span>↗</span></Link>
+        <Link className="mark" href="/" aria-label="RN Selected Work home">RN<span>↗</span></Link>
         <div className="navlinks"><Link href="/#work">Work</Link><Link href="/writing">Writing</Link></div>
       </nav>
 
@@ -47,14 +47,14 @@ export default function ConnectPage() {
 
       <section className="connectSection shell">
         <div className="connectRoutes">
-          <Link href="/#work"><span className="eyebrow">Technology, systems, and case studies</span><h2>Built by RN</h2><p>Tools, proposals and experiments I’ve built, each with its current status.</p><b>See what I have built →</b></Link>
-          <Link href="/writing"><span className="eyebrow">Editorial and published work</span><h2>Writing by RN</h2><p>My reporting and research on neuroscience, cannabis, law, technology and design.</p><b>Read my work →</b></Link>
+          <Link href="/#work"><span className="eyebrow">Tools and case studies</span><h2>Built by RN</h2><p>Tools, proposals and experiments I’ve built, each with its current status.</p><b>See what I have built →</b></Link>
+          <Link href="/writing"><span className="eyebrow">Published writing</span><h2>Writing by RN</h2><p>My reporting and research on neuroscience, cannabis, law, technology and design.</p><b>Read my work →</b></Link>
         </div>
       </section>
 
       <section className="connectSection shell">
         <div className="canonicalSplit">
-          <p className="eyebrow">What I actually do</p>
+          <p className="eyebrow">What I do</p>
           <div>
             <h2>What neuroscience, law and building taught me</h2>
             <p className="bigcopy">
@@ -73,10 +73,9 @@ export default function ConnectPage() {
               named audience at a time.
             </p>
             <p>
-              The recurring commission is some version of the same thing: a field or an
-              organisation is changing faster than anyone can brief it, and the people who
-              have to decide are working from whichever fragment reached them last. The
-              deliverable varies. The problem rarely does.
+              The job usually looks the same: a field or organization is changing faster
+              than anyone can brief it, and the people deciding are working from whatever
+              reached them last. The format changes. The problem rarely does.
             </p>
             <Link href="/builds">See everything I’ve built →</Link>
           </div>
@@ -89,15 +88,13 @@ export default function ConnectPage() {
           <div>
             <h2>Start by describing the situation.</h2>
             <p>
-              Instagram is the quickest route; LinkedIn is fine for an introduction. What
-              helps most in a first message is the situation itself — what keeps happening,
-              who it affects, why it matters now, and what has already been tried. A brief
-              is a hypothesis about the problem, and it is worth checking before anyone
-              builds against it.
+              Instagram is fastest; LinkedIn is fine for an introduction. In a first
+              message, tell me what keeps happening, who it affects, why it matters now and
+              what you’ve tried. A brief is a guess about the problem, and it’s worth
+              checking before anyone builds to it.
             </p>
             <p>
-              Where a question needs a licensed professional in a specific jurisdiction, I
-              will say so rather than build around it.
+              If your question needs a licensed professional where you are, I’ll tell you.
             </p>
           </div>
         </div>
@@ -105,7 +102,7 @@ export default function ConnectPage() {
 
       <footer className="footer">
         <div className="shell footergrid">
-          <div><p className="eyebrow">RN Selected Works</p><h2>Research, writing,<br /><em>and tools.</em></h2></div>
+          <div><p className="eyebrow">RN Selected Work</p><h2>Research, writing<br /><em>and tools.</em></h2></div>
           <div className="contact"><SocialRow set="rn" /><a href="https://www.linkedin.com/in/rn-collins" target="_blank" rel="noreferrer">LinkedIn ↗</a><Link href="/">Return to RN Selected Works →</Link></div>
         </div>
       </footer>

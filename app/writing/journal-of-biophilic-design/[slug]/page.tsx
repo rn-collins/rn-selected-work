@@ -118,7 +118,7 @@ const verificationNotes = linkFixes.notes as Record<string, string>;
 // Printed addresses that no longer resolve are swapped for the verified record of the same work,
 // or shown as plain text when none exists. The citation text itself is never changed.
 function linkify(text: string) {
-  if (verificationNotes[text]) return <>{text}<span className={styles.refnote}> — {verificationNotes[text]}</span></>;
+  if (verificationNotes[text]) return <>{text}<span className={styles.refnote}> ({verificationNotes[text]})</span></>;
   const parts = text.split(/(https?:\/\/\S+)/g);
   return parts.map((part, i) => {
     if (!/^https?:\/\//.test(part)) return part;
@@ -128,14 +128,14 @@ function linkify(text: string) {
     if (target === null) return (
       <span key={i}>
         {part}
-        <span className={styles.refnote}> — {verificationNotes[printed] || "Source verification pending: no verified matching destination is available for this printed address."}</span>
+        <span className={styles.refnote}> ({verificationNotes[printed] || "Source verification pending: no verified matching destination is available for this printed address."})</span>
       </span>
     );
     return (
       <span key={i}>
         <a href={target} target="_blank" rel="noreferrer">{target}</a>
         {tail}
-        {(verificationNotes[printed] || target !== printed) && <span className={styles.refnote}> — {verificationNotes[printed] || "Link corrected to the verified record of the cited work."}</span>}
+        {(verificationNotes[printed] || target !== printed) && <span className={styles.refnote}> ({verificationNotes[printed] || "Link corrected to the cited work."})</span>}
       </span>
     );
   });

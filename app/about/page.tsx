@@ -5,7 +5,7 @@ import { CanonicalPage } from "../../components/canonical-page";
 import { builds } from "../../lib/builds";
 
 export const metadata: Metadata = {
-  title: "About RN",
+  title: "About RN Collins",
   description:
     "RN Collins, neuroscientist, knowledge content creator, and builder. Chair of FlexJD Interests, Student Bar Association, Northeastern University School of Law, Class of 2029.",
   alternates: { canonical: "/about" },
@@ -17,15 +17,14 @@ export default function Page() {
       <header className="canonicalSubhero shell">
         <p className="eyebrow">About RN</p>
         <h1>
-          I follow the question
+          I follow a question
           <br />
           <em>wherever it leads.</em>
         </h1>
         <p>
-          RN Collins is a neuroscientist, knowledge content
-          creator, and builder in Honolulu, Hawaiʻi. She is Chair of FlexJD
-          Interests, Student Bar Association, Northeastern University School of
-          Law, Class of 2029.
+          I’m RN Collins, a neuroscientist, knowledge content creator and builder
+          in Honolulu, Hawaiʻi. I’m Chair of FlexJD Interests for the Student Bar
+          Association at Northeastern University School of Law, Class of 2029.
         </p>
       </header>
 
@@ -42,21 +41,19 @@ export default function Page() {
             />
           </figure>
           <div>
-            <p className="eyebrow">The throughline</p>
+            <p className="eyebrow">What I do</p>
             <h2>I make confusing rules, science and tools easier to understand and use.</h2>
             <p className="bigcopy">
-              The work crosses technology, law, neuroscience, governance, education,
-              institutional design and public knowledge because the problems themselves
-              cross those boundaries — and because a problem that has been cut to fit one
-              discipline has usually had its most important part cut off.
+              My work crosses technology, law, neuroscience, education and public
+              knowledge because the problems do. Cut a problem to fit one field and you
+              usually cut off the part that matters most.
             </p>
             <p>
-              I may research an organisation, map what is breaking, draft the strategy,
-              design the resource, build the tool, or facilitate the conversation. What
-              stays consistent is the method: understand the system, find what actually
-              matters, make it concrete, and create the next useful form. The form is
-              chosen at the end. Choosing it at the start is how you get a deliverable
-              nobody needed.
+              I might research an organization, map what’s breaking, write the strategy,
+              design a guide, build a tool or run the conversation. The method stays the
+              same: learn how it actually works, find what matters, make it concrete, then
+              make the next useful thing. I pick the format last. Picking it first is how
+              you get a deliverable nobody needed.
             </p>
           </div>
         </div>
@@ -64,7 +61,7 @@ export default function Page() {
 
       <section className="canonicalBand">
         <div className="shell canonicalSplit">
-          <p className="eyebrow">What that produces</p>
+          <p className="eyebrow">What I’ve made</p>
           <div>
             <h2>Tools and guides you can open today.</h2>
             <p className="bigcopy">
@@ -75,12 +72,10 @@ export default function Page() {
               named audience.
             </p>
             <p>
-              The reason so much of it is browser-local and account-free is not modesty
-              about the technology. It is that most of these tools ask someone to write
-              down something they would not want transmitted — a claim they are unsure of,
-              a governance gap in their own programme, a decision about a child. A tool
-              that collects that in order to demonstrate its own sophistication has traded
-              away the condition that made it usable.
+              Most of the tools run in your browser with no account. That’s on purpose:
+              they ask people to write down things they wouldn’t want sent anywhere, like a
+              claim they aren’t sure of, a gap in their own program or a decision about a
+              child. A tool that collected that would stop being usable.
             </p>
             <Link href="/builds">See all the projects →</Link>
           </div>
@@ -89,7 +84,7 @@ export default function Page() {
 
       <section className="canonicalSection shell">
         <div className="canonicalSplit">
-          <p className="eyebrow">How the work is disciplined</p>
+          <p className="eyebrow">How I check my work</p>
           <div>
             <h2>Anyone should be able to check my work and get the same answer.</h2>
             <p>
@@ -101,11 +96,10 @@ export default function Page() {
               not whether the source says what the citation claims it says.
             </p>
             <p>
-              So the estate carries its own checkers, and the standard is that they run on
-              someone else&rsquo;s machine and reach the same verdict. The same discipline
-              governs the language here. Where a build reports itself stale, this site says
-              stale. Where a prototype is one screen, it is described as one screen. Where a
-              claim would need a study to support it, the claim is not made.
+              So every project now runs checkers that anyone can run on their own computer
+              and get the same result. I hold this site’s writing to the same rule. If a
+              tool is out of date, the site says so. If a prototype is one screen, it says
+              one screen. If a claim would need a study, I don’t make it.
             </p>
             <div className="canonicalActions">
               <Link className="button" href="/practice">See how the work is done →</Link>
