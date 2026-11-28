@@ -15,11 +15,11 @@ const selections = [
   },
   {
     slug: "flexjd-resource-hub",
-    why: "The FlexJD Resource Hub shows RN turning fragmented institutional knowledge into maintained community infrastructure with verification, correction, privacy, and stewardship built in.",
+    why: "The FlexJD Resource Hub shows me turning fragmented institutional knowledge into maintained community infrastructure with verification, correction, privacy, and stewardship built in.",
   },
   {
     slug: "keiki-robotics",
-    why: "Keiki Robotics shows RN translating a one-time Hawaiʻi technology event into a durable pathway for children, families, educators, and local organizations.",
+    why: "Keiki Robotics shows me translating a one-time Hawaiʻi technology event into a durable pathway for children, families, educators, and local organizations.",
   },
 ].map((item) => ({ ...item, project: projects.find((project) => project.slug === item.slug)! }));
 
@@ -30,7 +30,7 @@ const widerPortfolio = [
   },
   {
     slug: "buechler-pacific",
-    why: "An independently initiated organization-specific concept showing how RN studies a business from public information, identifies field-work friction, and makes a tailored AI workflow concrete enough to evaluate.",
+    why: "An independently initiated organization-specific concept showing how I study a business from public information, identify field-work friction, and make a tailored AI workflow concrete enough to evaluate.",
   },
   {
     slug: "patent-first-steps",
@@ -44,7 +44,7 @@ export default function CulturalystWork() {
       <RecipientNav />
       <header className="recipientHero shell">
         <p className="eyebrow">02 · Selected evidence</p>
-        <h1>Three ways RN<br /><em>makes systems</em><br />usable.</h1>
+        <h1>Three ways I<br /><em>make systems</em><br />usable.</h1>
         <p>These projects were selected because each demonstrates a different part of the infrastructure Culturalyst is building around Hawaiʻi's creative ecosystem.</p>
       </header>
       <section className="work shell recipientWorkList">
@@ -61,7 +61,7 @@ export default function CulturalystWork() {
           </article>
         ))}
       </section>
-      <section className="fit"><div className="shell fitgrid"><p className="eyebrow">Related institutional evidence</p><div><p className="bigcopy">NSAG shows how RN develops an original institutional theory and carries it into assessments, evidence, intelligence, education, and applied systems.</p><Link className="inlineCaseLink" href="/work/neurocognitive-systems-advisory-group">Read the NSAG case study →</Link></div></div></section>
+      <section className="fit"><div className="shell fitgrid"><p className="eyebrow">Related institutional evidence</p><div><p className="bigcopy">NSAG shows how I develop an original institutional theory and carry it into assessments, evidence, intelligence, education, and applied systems.</p><Link className="inlineCaseLink" href="/work/neurocognitive-systems-advisory-group">Read the NSAG case study →</Link></div></div></section>
       <section className="work shell recipientWorkList">
         <div className="sectionhead">
           <p className="eyebrow">Continue through the wider portfolio</p>
@@ -86,9 +86,9 @@ export default function CulturalystWork() {
 }
 
 function RecipientNav() {
-  return <nav className="nav shell" aria-label="Culturalyst view"><Link className="mark" href="/">RN<span>↗</span></Link><div className="navlinks"><Link href="/for/culturalyst">Why RN</Link><Link href="/for/culturalyst/work">Work</Link><Link href="/for/culturalyst/opportunities">Opportunities</Link><Link href="/for/culturalyst/conversation">Conversation</Link></div></nav>;
+  return <nav className="nav shell" aria-label="Culturalyst view"><Link className="mark" href="/">RN<span>↗</span></Link><div className="navlinks"><Link href="/for/culturalyst">Why me</Link><Link href="/for/culturalyst/work">Work</Link><Link href="/for/culturalyst/opportunities">Opportunities</Link><Link href="/for/culturalyst/conversation">Conversation</Link></div></nav>;
 }
 
 function RecipientFooter({ next, nextLabel }: { next: string; nextLabel: string }) {
-  return <footer className="footer"><div className="shell footergrid"><div><p className="eyebrow">Next</p><h2>From evidence<br /><em>to possibility.</em></h2></div><div className="contact"><Link href={next}>{nextLabel} →</Link><Link href="/">Explore all RN work →</Link></div></div></footer>;
+  return <footer className="footer"><div className="shell footergrid"><div><p className="eyebrow">Next</p><h2>From evidence<br /><em>to possibility.</em></h2></div><div className="contact"><Link href={next}>{nextLabel} →</Link><Link href="/">Explore all my work →</Link></div></div></footer>;
 }

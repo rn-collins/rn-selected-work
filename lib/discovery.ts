@@ -39,7 +39,7 @@ export function discoveryItems(now=new Date()):DiscoveryItem[] {
  ['Practice','/practice','How research becomes a framework, working system, or public resource.'],
  ['For organizations','/for-organizations','Ways to work together, from a question to a concrete project.'],
  ['Initiatives','/initiatives','Explore Aloha AI, Institutions of One, and neurocognitive systems research.'],
- ['About RN','/about','The background and perspective connecting the work.'],
+ ['About me','/about','The background and perspective connecting the work.'],
  ['Start a conversation','/contact','Discuss a question, collaboration, or project.'],
  ].map(([t,h,d])=>item(t,h,d,'Portfolio','Practice')),
  ];

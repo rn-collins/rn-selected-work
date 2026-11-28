@@ -124,7 +124,7 @@ export default function LinksPage() {
           ) : null}
           <ul className={s.rows} style={{ marginTop: "var(--s2)" }}>
             <Row e={hub.aan.site} />
-            <Row e={{ label: "Ask a question", url: ASK_FORM, note: "RN reads every one" }} />
+            <Row e={{ label: "Ask a question", url: ASK_FORM, note: "I read every one" }} />
             {today >= "2026-11-30" && <Row e={{ label: "Reader Q&A", url: "https://askaneuroscientist.vercel.app/reader-qa/", note: "Questions readers asked, answered" }} />}
           </ul>
           <Platforms set="aan" />

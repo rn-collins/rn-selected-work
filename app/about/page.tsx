@@ -19,7 +19,7 @@ export default function Page() {
       <GalleryBar room="About · RN Collins" />
       <div className="glskin">
       <header className="canonicalSubhero shell">
-        <p className="eyebrow">About RN</p>
+        <p className="eyebrow">About me</p>
         <h1>
           I follow a question
           <br />

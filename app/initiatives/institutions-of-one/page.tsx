@@ -14,7 +14,7 @@ export default function Page() {
   return (
     <CanonicalPage>
       <header className="canonicalSubhero shell">
-        <p className="eyebrow">An RN initiative · in development</p>
+        <p className="eyebrow">My initiative · in development</p>
         <h1>
           Institutions
           <br />

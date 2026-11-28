@@ -324,7 +324,7 @@ export default function Archive() {
       <footer className="footer">
         <div className="shell footergrid">
           <div>
-            <p className="eyebrow">Work with RN</p>
+            <p className="eyebrow">Work with me</p>
             <h2>
               What are you
               <br />

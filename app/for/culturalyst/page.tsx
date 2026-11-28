@@ -21,7 +21,7 @@ export default function Culturalyst() {
           RN<span>↗</span>
         </Link>
         <div className="navlinks">
-          <Link href="/for/culturalyst">Why RN</Link>
+          <Link href="/for/culturalyst">Why me</Link>
           <Link href="/for/culturalyst/work">Selected work</Link>
           <Link href="/for/culturalyst/opportunities">Opportunities</Link>
           <Link href="/for/culturalyst/conversation">Conversation</Link>
@@ -37,7 +37,7 @@ export default function Culturalyst() {
           and supportable.
         </h1>
         <p>
-          A guided view into RN Collins's work—ordered around ecosystem
+          A guided view into my work—ordered around ecosystem
           infrastructure, Hawaiʻi-grounded audience design, and the question of
           why meaningful work can remain difficult for institutions to find and
           fund.
@@ -45,14 +45,14 @@ export default function Culturalyst() {
       </header>
       <section className="work shell">
         <div className="sectionhead">
-          <p className="eyebrow">What RN is building</p>
+          <p className="eyebrow">What I’m building</p>
           <p>Three related bodies of work with distinct jobs.</p>
         </div>
         <div className="answergrid lightAnswers practiceMap">
           <section>
             <p className="eyebrow">Aloha AI</p>
             <p>
-              RN's developing client-facing strategy and build practice. It
+              My developing client-facing strategy and build practice. It
               combines research, law, science, design, and AI to turn difficult
               systems questions into decision tools, workflows, knowledge
               systems, public resources, prototypes, and implementation plans.
@@ -63,7 +63,7 @@ export default function Culturalyst() {
             <p className="eyebrow">RN Builds</p>
             <p>
               The developing public workbench around that practice: a place to
-              follow what RN is researching, testing, and making. This Selected
+              follow what I’m researching, testing, and making. This Selected
               Work site is the verified portfolio layer; RN Builds remains in
               development.
             </p>
@@ -88,7 +88,7 @@ export default function Culturalyst() {
             <p className="bigcopy">
               Culturalyst is building the infrastructure through
               which artists and cultural workers become discoverable, connected,
-              supported, and fundable. RN's work asks a closely related systems
+              supported, and fundable. My work asks a closely related systems
               question: who is an institution built to recognize, what evidence
               counts, and what usable layer is missing between people and
               opportunity?
@@ -113,7 +113,7 @@ export default function Culturalyst() {
               <span>{p.number}</span>
               <h2>{p.shortTitle}</h2>
               <p>{p.demonstrates}</p>
-              <Link href={`/work/${p.slug}`}>See how RN worked →</Link>
+              <Link href={`/work/${p.slug}`}>See how I worked →</Link>
             </article>
           ))}
         </div>
@@ -135,7 +135,7 @@ export default function Culturalyst() {
               Through a public visual explainer, a practical self-assessment, an
               article on institutional invisibility, and—if useful—an
               interactive route to appropriate next steps. Distribution could
-              include LinkedIn, RN's developing public resources, and
+              include LinkedIn, my developing public resources, and
               Culturalyst's own channels, with the canonical destination and
               attribution returning to Culturalyst.
             </p>
@@ -143,7 +143,7 @@ export default function Culturalyst() {
           <section>
             <p className="eyebrow">How the collaboration begins</p>
             <p>
-              RN begins by locating where discovery, validation, relationships, or
+              I begin by locating where discovery, validation, relationships, or
               funding break down in practice. That inquiry determines the right
               form: an explanation, research product, workflow, or working tool.
             </p>
@@ -164,7 +164,7 @@ export default function Culturalyst() {
             <article>
               <h3>Neurocognitive Systems Advisory Group</h3>
               <p>
-                NSAG is RN's research-led institutional-design practice and the
+                NSAG is my research-led institutional-design practice and the
                 home of Nervous-System-Aware Governance. Across fifteen
                 governance modules, evidence, assessments, intelligence
                 products, education, and applied systems, it asks how the
@@ -173,7 +173,7 @@ export default function Culturalyst() {
                 visible and governable.
               </p>
               <p>
-                For Culturalyst, NSAG demonstrates RN's institutional method: define
+                For Culturalyst, NSAG demonstrates my institutional method: define
                 what a system overlooks, organize the evidence, build assessment
                 logic, and create usable pathways for changing what the system
                 can recognize and do.
@@ -224,7 +224,7 @@ export default function Culturalyst() {
             </p>
             <Link href="/for/culturalyst/work">Continue to selected work →</Link>
             <a href="https://www.linkedin.com/in/rn-collins">
-              Connect with RN ↗
+              Connect with me ↗
             </a>
           </div>
         </div>

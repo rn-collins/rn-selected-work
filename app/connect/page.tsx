@@ -7,8 +7,8 @@ import { projectCountLine } from "../../lib/builds";
 
 export const metadata: Metadata = {
   alternates: { canonical: "/connect" },
-  title: "Connect with RN",
-  description: "How to reach RN Collins, with links to her tools and published writing.",
+  title: "Connect with me",
+  description: "How to reach me, RN Collins, with links to my tools and published writing.",
 };
 
 export default function ConnectPage() {
@@ -24,7 +24,7 @@ export default function ConnectPage() {
           <Image src="/rn-collins-portrait.svg" alt="Portrait of RN Collins" width={900} height={1125} priority sizes="(max-width: 800px) 100vw, 38vw" />
         </div>
         <div className="connectIdentity">
-          <p className="eyebrow">Connect with RN</p>
+          <p className="eyebrow">Connect with me</p>
           <h1>RN <em>Collins</em></h1>
           <p className="connectRoles">Neuroscientist, content creator and analyst. M.S. Anatomy &amp; Neurobiology.</p>
           <p className="connectPositioning">I work across science, law, technology and culture, and I build what’s missing between them.</p>
@@ -48,8 +48,8 @@ export default function ConnectPage() {
 
       <section className="connectSection shell">
         <div className="connectRoutes">
-          <Link href="/#work"><span className="eyebrow">Tools and case studies</span><h2>Built by RN</h2><p>Tools, proposals and experiments I’ve built, each with its current status.</p><b>See what I have built →</b></Link>
-          <Link href="/writing"><span className="eyebrow">Published writing</span><h2>Writing by RN</h2><p>My reporting and research on neuroscience, cannabis, law, technology and design.</p><b>Read my work →</b></Link>
+          <Link href="/#work"><span className="eyebrow">Tools and case studies</span><h2>What I’ve built</h2><p>Tools, proposals and experiments I’ve built, each with its current status.</p><b>See what I have built →</b></Link>
+          <Link href="/writing"><span className="eyebrow">Published writing</span><h2>My writing</h2><p>My reporting and research on neuroscience, cannabis, law, technology and design.</p><b>Read my work →</b></Link>
         </div>
       </section>
 

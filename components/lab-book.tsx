@@ -7,6 +7,7 @@ import { ClientLine } from "./sources-detail";
 import type { SoundCredit } from "../lib/source-sound";
 import { SocialRow } from "./social-row";
 import s from "./lab-book.module.css";
+import { firstPerson } from "../lib/first-person";
 
 // The lab-book sources page (RN's source-page standard, aan-studio/design/SOURCE-PAGE-STANDARD.md, Nov 20, 2026).
 // Organised (RN, Nov 20: "how to better organize those pages and where's each thing"):
@@ -248,7 +249,7 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page, client
             <div className={s.startGrid}>
               <div>
                 {x.start_here?.summary?.length ? <ul className={s.summary}>{x.start_here.summary.map((l) => <li key={l}>{l}</li>)}</ul> : <p className={s.lede}>{brand === "fnm" ? "Every source behind this article, and further resources, each linked to the original." : brand === "rnc" ? "Every source behind this post, and further resources, each linked to the original." : "The studies, records and images behind this post, each linked to the original."}</p>}
-                {p.origin && <p className={s.small}><Out href={p.origin.url}>Read the article: {p.origin.label}</Out></p>}
+                {p.origin && <p className={s.small}><Out href={p.origin.url}>Read the article: {firstPerson(p.origin.label)}</Out></p>}
                 {p.interactive && (
                   <p className={s.tryit}><a className={`${s.sticker} ${s.sun}`} href={`/${p.interactive.file}`}>Try it yourself: {p.interactive.title} <span aria-hidden="true">→</span></a></p>
                 )}
@@ -378,8 +379,8 @@ export async function LabBook({ p, links, brand = "aan", shortPath, page, client
                     <li key={im.where} className={s.polaroid}>
                       {slideSrc(im.where) && <img src={slideSrc(im.where)} alt={`${im.where} of the post`} width={720} height={900} loading="lazy" decoding="async" />}
                       <b>{im.where}</b>
-                      <span>{im.card ? `Number card made for this post, citing ${im.credit}.` : im.what}</span>
-                      {!im.card && im.credit && <span className={s.small}>{im.credit}</span>}
+                      <span>{im.card ? `Number card made for this post, citing ${im.credit}.` : firstPerson(im.what)}</span>
+                      {!im.card && im.credit && <span className={s.small}>{firstPerson(im.credit)}</span>}
                       {im.url && <Out href={im.url}>{im.card ? "The study" : brand === "rnc" ? "Source" : "Record"}</Out>}
                     </li>
                   )} />

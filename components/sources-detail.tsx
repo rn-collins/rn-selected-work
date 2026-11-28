@@ -4,6 +4,7 @@ import type { ReactNode } from "react";
 import { host, type SourceLink, type SourcePost } from "../lib/aan-sources";
 import styles from "../app/sources/sources.module.css";
 import { SocialRow } from "./social-row";
+import { firstPerson } from "../lib/first-person";
 
 // RN's client line (Oct 10, 2026): exact wording, never change it. Sits below the references, outside the lists.
 const CLIENT_LINE = "I'm taking on clients for storytelling strategy and content production and operations. DMs are open.";
@@ -44,7 +45,7 @@ export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = A
         {p.origin && (
           <a className={styles.origin} href={p.origin.url} target="_blank" rel="noreferrer">
             <span className={styles.originLabel}>{p.origin.kind === "article" ? "The article" : p.origin.kind === "listing" ? "The work" : "Start here"}</span>
-            <span className={styles.originTitle}>{p.origin.label} <span aria-hidden="true">↗</span></span>
+            <span className={styles.originTitle}>{firstPerson(p.origin.label)} <span aria-hidden="true">↗</span></span>
             <span className={styles.host}>{host(p.origin.url)}</span>
           </a>
         )}
@@ -69,8 +70,8 @@ export function SourcesDetail({ p, eyebrow, meta, backHref, backLabel, intro = A
                 <div key={im.where}>
                   <dt>{im.where}</dt>
                   <dd>
-                    {im.card ? <span>Number card made for this post, citing {im.credit}.</span> : <span>{im.what}</span>}
-                    {!im.card && im.credit && <span className={styles.credit}>{im.credit}</span>}
+                    {im.card ? <span>Number card made for this post, citing {im.credit}.</span> : <span>{firstPerson(im.what)}</span>}
+                    {!im.card && im.credit && <span className={styles.credit}>{firstPerson(im.credit)}</span>}
                     {im.url && <a href={im.url} target="_blank" rel="noreferrer">{im.card ? "The study" : "Image source"} <span aria-hidden="true">↗</span></a>}
                   </dd>
                 </div>

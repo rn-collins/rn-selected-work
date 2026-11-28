@@ -146,7 +146,7 @@ export default function WorkWithMePage() {
               ))}
               <li>
                 <a className={s.row} href={hub.linkedin.url} rel="noopener">
-                  <span className={s.rowLabel}>RN on LinkedIn</span>
+                  <span className={s.rowLabel}>Me on LinkedIn</span>
                   <span className={s.arrow} aria-hidden="true">→</span>
                 </a>
               </li>

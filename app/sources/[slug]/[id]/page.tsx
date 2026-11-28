@@ -14,6 +14,7 @@ import { account, accounts, entryCount, host, listed, releasedPost, type SourceL
 import { LabBook } from "../../../../components/lab-book";
 import { labForPage } from "../../../../lib/sources-lab-rnc";
 import styles from "../../sources.module.css";
+import { firstPerson } from "../../../../lib/first-person";
 
 // In this folder [slug] is the account (ddw26, venues, makers, editions) and [id] the post. Next.js allows one
 // parameter name per path level, and Ask a Neuroscientist's /sources/[slug] page already owns it.
@@ -127,13 +128,13 @@ export default async function SourcePage({ params }: Params) {
         {origin && (origin.url === essayHref ? (
           <Link className={styles.origin} href={origin.url}>
             <span className={styles.originLabel}>The essay</span>
-            <span className={styles.originTitle}>{origin.label}</span>
+            <span className={styles.originTitle}>{firstPerson(origin.label)}</span>
             <span className={styles.host}>rn-selected-work.vercel.app</span>
           </Link>
         ) : (
           <a className={styles.origin} href={origin.url} target="_blank" rel="noreferrer">
             <span className={styles.originLabel}>{origin.kind === "article" ? "The article" : origin.kind === "listing" ? "The work" : "Start here"}</span>
-            <span className={styles.originTitle}>{origin.label} <span aria-hidden="true">↗</span></span>
+            <span className={styles.originTitle}>{firstPerson(origin.label)} <span aria-hidden="true">↗</span></span>
             <span className={styles.host}>{host(origin.url)}</span>
           </a>
         ))}
@@ -174,8 +175,8 @@ export default async function SourcePage({ params }: Params) {
                 <div key={im.where}>
                   <dt>{im.where}</dt>
                   <dd>
-                    {im.card ? <span>Number card made for this post, citing {im.credit}.</span> : <span>{im.what}</span>}
-                    {!im.card && im.credit && <span className={styles.credit}>{im.credit}</span>}
+                    {im.card ? <span>Number card made for this post, citing {im.credit}.</span> : <span>{firstPerson(im.what)}</span>}
+                    {!im.card && im.credit && <span className={styles.credit}>{firstPerson(im.credit)}</span>}
                     {source.href && <a href={source.href} target="_blank" rel="noreferrer">{im.card ? "The study" : "Photo source"} <span aria-hidden="true">↗</span></a>}
                     {source.note && <span className={styles.credit}>{source.note}</span>}
                   </dd>
