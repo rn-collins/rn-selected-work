@@ -19,7 +19,7 @@
   },
   "ns01": {
    "path": "/posts/ns01/",
-   "releasedAt": "2026-12-11",
+   "releasedAt": "2027-02-11",
    "hold": false
   },
   "ni04": {
@@ -249,7 +249,7 @@
   },
   "p003": {
    "path": "/posts/p003/",
-   "releasedAt": "2026-12-18",
+   "releasedAt": "2027-02-18",
    "hold": false
   },
   "92": {
@@ -314,7 +314,7 @@
   },
   "mjbyb01": {
    "path": "/posts/mjbyb01/",
-   "releasedAt": "2026-12-25",
+   "releasedAt": "2027-02-25",
    "hold": false
   },
   "fn15": {
@@ -369,7 +369,7 @@
   },
   "mjbyb04": {
    "path": "/posts/mjbyb04/",
-   "releasedAt": "2026-12-31",
+   "releasedAt": "2027-03-11",
    "hold": false
   },
   "69": {
@@ -454,7 +454,7 @@
   },
   "p357": {
    "path": "/posts/p357/",
-   "releasedAt": "2027-01-09",
+   "releasedAt": "2027-04-06",
    "hold": false
   },
   "07": {
@@ -504,7 +504,7 @@
   },
   "eamn01": {
    "path": "/posts/eamn01/",
-   "releasedAt": "2027-01-15",
+   "releasedAt": "2027-03-18",
    "hold": false
   },
   "fn10": {
@@ -679,7 +679,7 @@
   },
   "aanpm12": {
    "path": "/posts/aanpm12/",
-   "releasedAt": "2027-02-02",
+   "releasedAt": "2027-01-05",
    "hold": false
   },
   "pdaw06": {
@@ -769,7 +769,7 @@
   },
   "wotw01": {
    "path": "/posts/wotw01/",
-   "releasedAt": "2027-02-11",
+   "releasedAt": "2026-12-11",
    "hold": false
   },
   "kb09": {
@@ -834,7 +834,7 @@
   },
   "wotw02": {
    "path": "/posts/wotw02/",
-   "releasedAt": "2027-02-18",
+   "releasedAt": "2026-12-18",
    "hold": false
   },
   "kb37": {
@@ -899,7 +899,7 @@
   },
   "wotw03": {
    "path": "/posts/wotw03/",
-   "releasedAt": "2027-02-25",
+   "releasedAt": "2026-12-25",
    "hold": false
   },
   "aanpm18": {
@@ -1029,7 +1029,7 @@
   },
   "wotw04": {
    "path": "/posts/wotw04/",
-   "releasedAt": "2027-03-11",
+   "releasedAt": "2026-12-31",
    "hold": false
   },
   "aanpm06": {
@@ -1074,7 +1074,7 @@
   },
   "wotw06": {
    "path": "/posts/wotw06/",
-   "releasedAt": "2027-03-18",
+   "releasedAt": "2027-01-15",
    "hold": false
   },
   "ns36": {
@@ -1239,7 +1239,7 @@
   },
   "wotw05": {
    "path": "/posts/wotw05/",
-   "releasedAt": "2027-04-06",
+   "releasedAt": "2027-01-09",
    "hold": false
   },
   "95": {
