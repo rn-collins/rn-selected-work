@@ -116,7 +116,7 @@ export default function Archive() {
           <p>Each one opens live, with a write-up and its sources.</p>
         </div>
         <div className="projects">
-          {projects.map((p) => (
+          {projects.filter((p) => !/release-blocked/i.test(p.status)).map((p) => (
             <article className="project" key={p.slug}>
               <div className="projecttop">
                 <span className="num">{p.number}</span>
