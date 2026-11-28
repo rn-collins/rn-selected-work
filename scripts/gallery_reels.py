@@ -16,13 +16,16 @@ C, S, P = C["posts"], {r["id"]: r for r in S["reels"]}, {p["id"]: p for p in P["
 
 
 def short(t):
+    if t.startswith("Word of the week"):
+        return t  # "Word of the week: receptor" keeps its word
     m = re.match(r"(.+?\?)", t)
     return (m.group(1) if m else t.split(":")[0]).strip()
 
 
 out = []
 for pid, v in sorted(V.items(), key=lambda kv: kv[1]["date"]):
-    title = short(P.get(pid, {}).get("title", pid))
+    # Word-of-the-week posts have no /p/ page, so their title comes from the slideshow plan.
+    title = short(P.get(pid, {}).get("title") or S.get(pid, {}).get("title") or pid)
     for lane, label in (("reel", "Reel"), ("slideshow", "Slideshow Reel")):
         if lane not in v:
             continue
