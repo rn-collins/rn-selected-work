@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { hasVcard } from "../../lib/vcard";
 import aanSite from "../../data/aan-site.json";
 import hub from "../../data/links-hub.json";
 import { postedSoFar, longDate, sourcePosts } from "../../lib/aan-sources";
@@ -157,7 +158,7 @@ export default function WorkWithMePage() {
                 </a>
               </li>
             </ul>
-            <a className={s.ghost} href="/rn-collins-card.vcf" download="RN-Collins.vcf">Save my contact</a>
+            {hasVcard() && <a className={s.ghost} href="/rn-collins-card.vcf" download="RN-Collins.vcf">Save my contact</a>}
           </div>
         </section>
 

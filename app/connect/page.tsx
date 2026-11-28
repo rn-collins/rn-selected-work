@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { hasVcard } from "../../lib/vcard";
 import Image from "next/image";
 import Link from "next/link";
 import { SocialRow } from "../../components/social-row";
@@ -30,7 +31,7 @@ export default function ConnectPage() {
           <div className="connectActions" aria-label="Contact options">
             <a className="button" href="https://www.instagram.com/rn_collins/" target="_blank" rel="noreferrer">Instagram DM ↗</a>
             <a className="button secondary" href="https://www.linkedin.com/in/rn-collins" target="_blank" rel="noreferrer">LinkedIn ↗</a>
-            <a className="button secondary" href="/rn-collins.vcf" download>Save contact</a>
+            {hasVcard() && <a className="button secondary" href="/rn-collins.vcf" download>Save contact</a>}
           </div>
           <p className="dmLine">DMs are open on Instagram at @rn_collins.</p>
           <SocialRow set="rn" />

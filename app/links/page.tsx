@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { hasVcard } from "../../lib/vcard";
 import hub from "../../data/links-hub.json";
 import social from "../../data/social-links.json";
 import aanSite from "../../data/aan-site.json";
@@ -19,6 +20,9 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = { width: "device-width", initialScale: 1, themeColor: "#f4efe4" };
+
+// The Ask a Neuroscientist question form (Google Form); Reader Q&A opens Nov 30, 2026.
+const ASK_FORM = "https://docs.google.com/forms/d/e/1FAIpQLScr1P62fLjNwwfOmENkb5iOFpctIYqf8PVbWcDr3Jmw72ZvTw/viewform";
 
 type Account = { id: string; label: string; url: string };
 type Entry = { label: string; url: string; note?: string; confirm?: boolean };
@@ -76,7 +80,8 @@ export default function LinksPage() {
         <header className={s.plate}>
           <h1 className={s.hero}>RN Collins</h1>
           <p className={s.title}>{hub.title}</p>
-          <a className={s.ghost} href="/rn-collins-card.vcf" download="RN-Collins.vcf">Save my contact</a>
+          {hasVcard() && <a className={s.ghost} href="/rn-collins-card.vcf" download="RN-Collins.vcf">Save my contact</a>}
+          <a className={s.ghost} href="/links/qr">Show my QR code</a>
         </header>
 
         {dated.map((d) => (
@@ -119,6 +124,8 @@ export default function LinksPage() {
           ) : null}
           <ul className={s.rows} style={{ marginTop: "var(--s2)" }}>
             <Row e={hub.aan.site} />
+            <Row e={{ label: "Ask a question", url: ASK_FORM, note: "RN reads every one" }} />
+            {today >= "2026-11-30" && <Row e={{ label: "Reader Q&A", url: "https://askaneuroscientist.vercel.app/reader-qa/", note: "Questions readers asked, answered" }} />}
           </ul>
           <Platforms set="aan" />
         </section>
